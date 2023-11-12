@@ -31847,9 +31847,9 @@ RESOURCE ID: mega_walking_progress
 TEXT: Distanza percorsa
 
 RESOURCE ID: metadata_local
-TEXT: Built at 2023-09-08T08:09:58.647032
-at SHA abedd456fa33f1749c1b73b689b06e1e22fe245b
-Pipeline 1736915, job 21075377
+TEXT: Built at 2023-09-18T20:59:16.703945
+at SHA a7306e08ee82874ddca80bcdb58d5b465d837223
+Pipeline 1760683, job 21350629
 
 RESOURCE ID: mex_fighting_promo_title
 TEXT: Ricerca a tempo: Scegli il tuo tipo Lotta
