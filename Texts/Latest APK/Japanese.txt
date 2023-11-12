@@ -1773,6 +1773,9 @@ TEXT: ホエルコの水筒
 RESOURCE ID: avatar_f_backpack_nike2021_00_bundle_icon
 TEXT: NIKE HERITAGE バックパック
 
+RESOURCE ID: avatar_f_backpack_pamobackpack_00_bundle_icon
+TEXT: パモ　バックパック
+
 RESOURCE ID: avatar_f_backpack_pkmnhoodie001_0_bundle_icon
 TEXT: バックパック たね
 
@@ -1800,6 +1803,11 @@ RESOURCE ID: avatar_f_backpack_svcostumevioletschool_00_bundle_icon
 TEXT: パルデア主人公風
 バイオレット
 リュック
+
+RESOURCE ID: avatar_f_backpack_svdlc1_00_bundle_icon
+TEXT: パルデア主人公風
+キタカミの里
+バックパック
 
 RESOURCE ID: avatar_f_backpack_swshdlc2costume_00_bundle_icon
 TEXT: カンムリせつげん バッグ
@@ -1974,6 +1982,9 @@ TEXT: 素手
 
 RESOURCE ID: avatar_f_gloves_frlg_bundle_icon
 TEXT: リーフリストバンド
+
+RESOURCE ID: avatar_f_gloves_geeta_00_bundle_icon
+TEXT: オモダカ　グローブ
 
 RESOURCE ID: avatar_f_gloves_giovanni_0_bundle_icon
 TEXT: サカキ グローブ
@@ -2170,6 +2181,10 @@ TEXT: ヌメラ　ハット
 
 RESOURCE ID: avatar_f_hat_greencoat_00_bundle_icon
 TEXT: ホリデー ハット
+
+RESOURCE ID: avatar_f_hat_growlithehelmet_00_bundle_icon
+TEXT: ヒスイガーディ
+ウィッグ
 
 RESOURCE ID: avatar_f_hat_guccihat_00_bundle_icon
 TEXT: The North Face x Gucci 帽子
@@ -2497,6 +2512,9 @@ TEXT: リーフスカート
 RESOURCE ID: avatar_f_pants_fw2022_00_bundle_icon
 TEXT: ヒドイデ　パンツ
 
+RESOURCE ID: avatar_f_pants_geeta_00_bundle_icon
+TEXT: オモダカ　パンツ
+
 RESOURCE ID: avatar_f_pants_genderlessskirt_00_bundle_icon
 TEXT: ラップスカート セット
 
@@ -2766,6 +2784,9 @@ TEXT: ヒドイデ　トップス
 
 RESOURCE ID: avatar_f_shirt_galarfarfetchditems_00_bundle_icon
 TEXT: ガラルカモネギ のTシャツとバッグ
+
+RESOURCE ID: avatar_f_shirt_geeta_00_bundle_icon
+TEXT: オモダカ　トップス
 
 RESOURCE ID: avatar_f_shirt_genderlessskirt_00_bundle_icon
 TEXT: レイヤードジャケット
@@ -3121,6 +3142,10 @@ TEXT: パルデア主人公風
 バイオレット
 セット
 
+RESOURCE ID: avatar_f_shirt_svdlc1_00_bundle_icon
+TEXT: パルデア主人公風
+キタカミの里　セット
+
 RESOURCE ID: avatar_f_shirt_sweater_30_bundle_icon
 TEXT: ザ・サーティ
 
@@ -3345,6 +3370,9 @@ TEXT: リーフシューズ​
 RESOURCE ID: avatar_f_shoes_fw2022_00_bundle_icon
 TEXT: ヒドイデ　シューズ
 
+RESOURCE ID: avatar_f_shoes_geeta_00_bundle_icon
+TEXT: オモダカ　シューズ
+
 RESOURCE ID: avatar_f_shoes_giovanni_0_bundle_icon
 TEXT: サカキ シューズ
 
@@ -3458,6 +3486,11 @@ TEXT: パルデア主人公風
 RESOURCE ID: avatar_f_shoes_svcostumevioletschool_00_bundle_icon
 TEXT: パルデア主人公風
 バイオレット
+シューズ
+
+RESOURCE ID: avatar_f_shoes_svdlc1_00_bundle_icon
+TEXT: パルデア主人公風
+キタカミの里
 シューズ
 
 RESOURCE ID: avatar_f_shoes_swshdlc2costume_00_bundle_icon
@@ -3676,6 +3709,9 @@ TEXT: ホエルコの水筒
 RESOURCE ID: avatar_m_backpack_nike2021_00_bundle_icon
 TEXT: NIKE HERITAGE バックパック
 
+RESOURCE ID: avatar_m_backpack_pamobackpack_00_bundle_icon
+TEXT: パモ　バックパック
+
 RESOURCE ID: avatar_m_backpack_pkmnhoodie001_0_bundle_icon
 TEXT: バックパック たね
 
@@ -3703,6 +3739,11 @@ RESOURCE ID: avatar_m_backpack_svcostumevioletschool_00_bundle_icon
 TEXT: パルデア主人公風
 バイオレット
 リュック
+
+RESOURCE ID: avatar_m_backpack_svdlc1_00_bundle_icon
+TEXT: パルデア主人公風
+キタカミの里
+バックパック
 
 RESOURCE ID: avatar_m_backpack_swshdlc2costume_00_bundle_icon
 TEXT: カンムリせつげん バッグ
@@ -3859,6 +3900,9 @@ TEXT: 素手
 
 RESOURCE ID: avatar_m_gloves_frlg_bundle_icon
 TEXT: ファイアリストバンド
+
+RESOURCE ID: avatar_m_gloves_geeta_00_bundle_icon
+TEXT: オモダカ　グローブ
 
 RESOURCE ID: avatar_m_gloves_giovanni_0_bundle_icon
 TEXT: サカキ グローブ
@@ -4058,6 +4102,10 @@ TEXT: ヌメラ　ハット
 
 RESOURCE ID: avatar_m_hat_greencoat_00_bundle_icon
 TEXT: ホリデー ハット
+
+RESOURCE ID: avatar_m_hat_growlithehelmet_00_bundle_icon
+TEXT: ヒスイガーディ
+ウィッグ
 
 RESOURCE ID: avatar_m_hat_guccihat_00_bundle_icon
 TEXT: The North Face x Gucci 帽子
@@ -4375,6 +4423,9 @@ TEXT: ファイアパンツ
 RESOURCE ID: avatar_m_pants_fw2022_00_bundle_icon
 TEXT: ヒドイデ　パンツ
 
+RESOURCE ID: avatar_m_pants_geeta_00_bundle_icon
+TEXT: オモダカ　パンツ
+
 RESOURCE ID: avatar_m_pants_genderlessskirt_00_bundle_icon
 TEXT: ラップスカート セット
 
@@ -4650,6 +4701,9 @@ TEXT: ヒドイデ　トップス
 
 RESOURCE ID: avatar_m_shirt_galarfarfetchditems_00_bundle_icon
 TEXT: ガラルカモネギ のTシャツとバッグ
+
+RESOURCE ID: avatar_m_shirt_geeta_00_bundle_icon
+TEXT: オモダカ　トップス
 
 RESOURCE ID: avatar_m_shirt_genderlessskirt_00_bundle_icon
 TEXT: レイヤードジャケット
@@ -5011,6 +5065,10 @@ TEXT: パルデア主人公風
 バイオレット
 セット
 
+RESOURCE ID: avatar_m_shirt_svdlc1_00_bundle_icon
+TEXT: パルデア主人公風
+キタカミの里　セット
+
 RESOURCE ID: avatar_m_shirt_sweatshirt_sporty_bundle_icon
 TEXT: スポーツパーカー
 
@@ -5232,6 +5290,9 @@ TEXT: ファイアシューズ
 RESOURCE ID: avatar_m_shoes_fw2022_00_bundle_icon
 TEXT: ヒドイデ　シューズ
 
+RESOURCE ID: avatar_m_shoes_geeta_00_bundle_icon
+TEXT: オモダカ　シューズ
+
 RESOURCE ID: avatar_m_shoes_giovanni_0_bundle_icon
 TEXT: サカキ シューズ
 
@@ -5345,6 +5406,11 @@ TEXT: パルデア主人公風
 RESOURCE ID: avatar_m_shoes_svcostumevioletschool_00_bundle_icon
 TEXT: パルデア主人公風
 バイオレット
+シューズ
+
+RESOURCE ID: avatar_m_shoes_svdlc1_00_bundle_icon
+TEXT: パルデア主人公風
+キタカミの里
 シューズ
 
 RESOURCE ID: avatar_m_shoes_swshdlc2costume_00_bundle_icon
@@ -6259,6 +6325,88 @@ TEXT: ポケモンワールドチャンピオンシップス2023ボーナスタ�
 
 RESOURCE ID: badge_event_0074_title
 TEXT: DancingRobさんのパーティ
+
+RESOURCE ID: badge_event_0075
+TEXT: パートナーリサーチ - 冒険の日々：ソフトバンク
+
+RESOURCE ID: badge_event_0075_title
+TEXT: パートナーリサーチ：
+ソフトバンク
+
+RESOURCE ID: badge_event_0075_title_00
+TEXT: パートナーリサーチ：
+ソフトバンク (1/4)
+
+RESOURCE ID: badge_event_0075_title_01
+TEXT: パートナーリサーチ：
+ソフトバンク (2/4)
+
+RESOURCE ID: badge_event_0075_title_02
+TEXT: パートナーリサーチ：
+ソフトバンク (3/4)
+
+RESOURCE ID: badge_event_0075_title_03
+TEXT: パートナーリサーチ：
+ソフトバンク (4/4)
+
+RESOURCE ID: badge_event_0076
+TEXT: パートナーリサーチ - 冒険の日々：南海電鉄
+
+RESOURCE ID: badge_event_0076_title
+TEXT: パートナーリサーチ：
+南海電鉄
+
+RESOURCE ID: badge_event_0076_title_00
+TEXT: パートナーリサーチ：
+南海電鉄 (1/4)
+
+RESOURCE ID: badge_event_0076_title_01
+TEXT: パートナーリサーチ：
+南海電鉄 (2/4)
+
+RESOURCE ID: badge_event_0076_title_02
+TEXT: パートナーリサーチ：
+南海電鉄 (3/4)
+
+RESOURCE ID: badge_event_0076_title_03
+TEXT: パートナーリサーチ：
+南海電鉄 (4/4)
+
+RESOURCE ID: badge_event_0077
+TEXT: パートナーリサーチ - 冒険の日々：住友生命
+
+RESOURCE ID: badge_event_0077_title
+TEXT: パートナーリサーチ：住友生命
+
+RESOURCE ID: badge_event_0077_title_00
+TEXT: パートナーリサーチ：住友生命 (1/4)
+
+RESOURCE ID: badge_event_0077_title_01
+TEXT: パートナーリサーチ：住友生命 (2/4)
+
+RESOURCE ID: badge_event_0077_title_02
+TEXT: パートナーリサーチ：住友生命 (3/4)
+
+RESOURCE ID: badge_event_0077_title_03
+TEXT: パートナーリサーチ：住友生命 (4/4)
+
+RESOURCE ID: badge_event_0078
+TEXT: パートナーリサーチ - 冒険の日々：台湾ファミリーマート
+
+RESOURCE ID: badge_event_0078_title
+TEXT: パートナーリサーチ：台湾ファミリーマート
+
+RESOURCE ID: badge_event_0078_title_00
+TEXT: パートナーリサーチ：台湾ファミリーマート (1/4)
+
+RESOURCE ID: badge_event_0078_title_01
+TEXT: パートナーリサーチ：台湾ファミリーマート (2/4)
+
+RESOURCE ID: badge_event_0078_title_02
+TEXT: パートナーリサーチ：台湾ファミリーマート (3/4)
+
+RESOURCE ID: badge_event_0078_title_03
+TEXT: パートナーリサーチ：台湾ファミリーマート (4/4)
 
 RESOURCE ID: badge_event_yoshinoya
 TEXT: 2021年5月 - 吉野家
@@ -7714,6 +7862,60 @@ TEXT: GO Safari Zone - 2017年欧州
 RESOURCE ID: badge_safari_zone_europe_2017_title
 TEXT: Pokémon GO Safari
 
+RESOURCE ID: badge_safaricity_2023_barcelona_day_00_general
+TEXT: バルセロナ2023
+
+RESOURCE ID: badge_safaricity_2023_barcelona_day_00_general_title
+TEXT: Pokémon GO City Safari
+
+RESOURCE ID: badge_safaricity_2023_barcelona_day_01_general
+TEXT: バルセロナ2023年10月13日
+
+RESOURCE ID: badge_safaricity_2023_barcelona_day_01_general_title
+TEXT: Pokémon GO City Safari
+
+RESOURCE ID: badge_safaricity_2023_barcelona_day_02_general
+TEXT: バルセロナ2023年10月14日
+
+RESOURCE ID: badge_safaricity_2023_barcelona_day_02_general_title
+TEXT: Pokémon GO City Safari
+
+RESOURCE ID: badge_safaricity_2023_mexico_city_day_00_general
+TEXT: メキシコシティ2023
+
+RESOURCE ID: badge_safaricity_2023_mexico_city_day_00_general_title
+TEXT: Pokémon GO Safari City
+
+RESOURCE ID: badge_safaricity_2023_mexico_city_day_01_general
+TEXT: メキシコシティ2023年11月4日
+
+RESOURCE ID: badge_safaricity_2023_mexico_city_day_01_general_title
+TEXT: Pokémon GO Safari City
+
+RESOURCE ID: badge_safaricity_2023_mexico_city_day_02_general
+TEXT: メキシコシティ2023年11月5日
+
+RESOURCE ID: badge_safaricity_2023_mexico_city_day_02_general_title
+TEXT: Pokémon GO Safari City
+
+RESOURCE ID: badge_safaricity_2023_seoul_day_00_general
+TEXT: ソウル2023
+
+RESOURCE ID: badge_safaricity_2023_seoul_day_00_general_title
+TEXT: Pokémon GO City Safari
+
+RESOURCE ID: badge_safaricity_2023_seoul_day_01_general
+TEXT: ソウル2023年10月7日
+
+RESOURCE ID: badge_safaricity_2023_seoul_day_01_general_title
+TEXT: Pokémon GO City Safari
+
+RESOURCE ID: badge_safaricity_2023_seoul_day_02_general
+TEXT: ソウル2023年10月8日
+
+RESOURCE ID: badge_safaricity_2023_seoul_day_02_general_title
+TEXT: Pokémon GO City Safari
+
 RESOURCE ID: badge_safarizone_2019_montreal_day_00_earlyaccess
 TEXT: 2019年9月19日モントリオール
 
@@ -8537,6 +8739,9 @@ TEXT: アカウント永久停止のお知らせ
 
 RESOURCE ID: banned_player_lockout_2
 TEXT: ヘルプセンターを開く
+
+RESOURCE ID: barcelona_catch_cup_title
+TEXT: 速成カップ：バルセロナ
 
 RESOURCE ID: batch_transfer_confirm
 TEXT: 博士に {0} 匹送りますか？
@@ -11369,6 +11574,9 @@ TEXT: アローラのすがたのゴローンをゴローニャに進化させ�
 RESOURCE ID: bonus_cd_move_axew
 TEXT: オノンドをオノノクスに進化させるとワイドブレイカーを覚えている
 
+RESOURCE ID: bonus_cd_move_charmander
+TEXT: リザードをリザードンに進化させるとりゅうのいぶきとブラストバーンを覚えている
+
 RESOURCE ID: bonus_cd_move_chespin
 TEXT: ハリボーグをブリガロンに進化させるとハードプラントを覚えている
 
@@ -11425,6 +11633,24 @@ TEXT: ガラルのマッスグマをタチフサグマに進化させるとブ�
 
 RESOURCE ID: bonus_cd_ultra_unlock
 TEXT: ウルトラアンロック：XPとポケモンを送ってもらえるアメ倍増 
+
+RESOURCE ID: bonus_choice_2x_incense
+TEXT: おこう持続時間2倍
+
+RESOURCE ID: bonus_choice_2x_incense_desc
+TEXT: チケット購入でプレイしているセッション中おこう持続時間を延長します。
+
+RESOURCE ID: bonus_choice_2x_lucky_egg
+TEXT: しあわせタマゴ時間2倍
+
+RESOURCE ID: bonus_choice_2x_lucky_egg_desc
+TEXT: チケット購入でプレイしているセッション中しあわせタマゴ持続時間を延長します。
+
+RESOURCE ID: bonus_choice_2x_star_piece
+TEXT: ほしのかけら時間2倍
+
+RESOURCE ID: bonus_choice_2x_star_piece_desc
+TEXT: チケット購入でプレイしているセッション中ほしのかけら持続時間を延長します。
 
 RESOURCE ID: bonus_double_guaranteed_xl_evolve
 TEXT: 2x　進化してもらえるアメXL確定
@@ -11622,6 +11848,12 @@ TEXT: レイドで捕まえるレックウザがワイドブレーカーを覚�
 RESOURCE ID: bonus_purrloin_o_clock
 TEXT: 正時にチョロネコが大量発生
 
+RESOURCE ID: bonus_raid_1_xl_candy
+TEXT: 5つ星とメガレイドからのアメXL1個追加
+
+RESOURCE ID: bonus_raid_3_candy
+TEXT: 5つ星とメガレイドからのアメ3個追加
+
 RESOURCE ID: bonus_raid_3_xl_candy
 TEXT: 5つ星とメガ・ゲンシレイドからのアメXL3個追加
 
@@ -11757,8 +11989,32 @@ TEXT: GOロケット団したっぱを倒してもらえるほしのすな増
 RESOURCE ID: bonus_tgr_stardust_leader
 TEXT: GOロケット団リーダーを倒してもらえるほしのすな増
 
+RESOURCE ID: bonus_today_3_hr_lure_regular_only
+TEXT: 普通のルアーモジュール持続3時間
+
+RESOURCE ID: bonus_today_event_tr
+TEXT: イベント限定タイムチャレンジあり
+
+RESOURCE ID: bonus_today_plus_100_stardust
+TEXT: ポケモンを捕まえてもらえるほしのすな100追加
+
+RESOURCE ID: bonus_today_special_lure_regular_only
+TEXT: イベントに沿ったポケモンが普通のルアーモジュールに反応
+
 RESOURCE ID: bonus_total_6_special_trades
 TEXT: 一日にできる特別な交換計6回 
+
+RESOURCE ID: bonus_tr_gbl_championships_2024_a_desc
+TEXT: ボーナスタイムチャレンジ
+
+RESOURCE ID: bonus_tr_gbl_championships_2024_a_title
+TEXT: ウォーミングアップチャレンジ
+
+RESOURCE ID: bonus_tr_gbl_championships_2024_b_desc
+TEXT: ボーナスタイムチャレンジ
+
+RESOURCE ID: bonus_tr_gbl_championships_2024_b_title
+TEXT: ルアーチャレンジ
 
 RESOURCE ID: bonus_trade_stardust_50pc_5hr
 TEXT: イベント中と終了後5時間内に行う交換に必要なほしのすな半減
@@ -12120,7 +12376,7 @@ RESOURCE ID: branching_quest_choice_gui_description
 TEXT: どれかを選ぶと、その先に続くリサーチの内容が変わります。慎重に選びましょう。
 
 RESOURCE ID: branching_quest_choice_gui_title
-TEXT: 選択肢
+TEXT: 選んでみよう
 
 RESOURCE ID: branching_quests_title
 TEXT: 選択肢
@@ -12719,6 +12975,12 @@ TEXT: 細くて小さいバネ。すっかりのびきって使いみちが見�
 
 RESOURCE ID: buddy_souvenir_stretchy_spring_name
 TEXT: のびたバネ
+
+RESOURCE ID: buddy_souvenir_tiny_compass
+TEXT: ちいさな方位計
+
+RESOURCE ID: buddy_souvenir_tiny_compass_desc
+TEXT: 相棒ポケモンのもとにいつでもすぐに戻って来られるようにする方位計。
 
 RESOURCE ID: buddy_souvenir_torn_ticket_description
 TEXT: 何のチケットなのかわからない、ぼろぼろの紙片。
@@ -15332,6 +15594,9 @@ TEXT: コミュニティ・デイ復刻：フシギダネ
 RESOURCE ID: community_day_charmander_event_name
 TEXT: コミュニティ・デイ：ヒトカゲ
 
+RESOURCE ID: community_day_charmander_event_name_cdc
+TEXT: ヒトカゲコミュニティ・デイ復刻
+
 RESOURCE ID: community_day_chespin_event_name
 TEXT: コミュニティ・デイ：ハリマロン
 
@@ -15816,7 +16081,7 @@ RESOURCE ID: costume_pokemon_field_research
 TEXT: 着飾ったポケモンがフィールドリサーチ完了後に出現
 
 RESOURCE ID: costume_pokemon_raids
-TEXT: 着飾ったポケモンがレイドに出現
+TEXT: 特別なポケモンがレイドに出現
 
 RESOURCE ID: costume_pokemon_wild
 TEXT: 着飾ったポケモンが野生で出現
@@ -16366,6 +16631,24 @@ TEXT: タグ編集ができませんでした
 RESOURCE ID: edit_tag_gui_title
 TEXT: タグ編集
 
+RESOURCE ID: eevee_explorers_barcelona_title
+TEXT: イーブイチャレンジ – バルセロナ
+
+RESOURCE ID: eevee_explorers_barcelona_title_00
+TEXT: イーブイチャレンジ – バルセロナ(1/1)
+
+RESOURCE ID: eevee_explorers_mexico_city_title
+TEXT: イーブイチャレンジ：メキシコシティ
+
+RESOURCE ID: eevee_explorers_mexico_city_title_00
+TEXT: イーブイチャレンジ – メキシコシティ(1/1)
+
+RESOURCE ID: eevee_explorers_seoul_title
+TEXT: イーブイチャレンジ – ソウル
+
+RESOURCE ID: eevee_explorers_seoul_title_00
+TEXT: イーブイチャレンジ – ソウル(1/1)
+
 RESOURCE ID: egg_anticipation
 TEXT: なにが生まれてくるのかな？
 
@@ -16650,6 +16933,9 @@ TEXT: English
 RESOURCE ID: enter_friend_code_prompt
 TEXT: 登録したいトレーナーコードを
 入力してください
+
+RESOURCE ID: enter_friend_code_prompt_v2
+TEXT: 相手のトレーナーコードを入力、または、読み込んでフレンド申請を送信
 
 RESOURCE ID: enter_tag_name_placeholder
 TEXT: タグ名を入力
@@ -17364,12 +17650,18 @@ TEXT: 正義の剣イベント
 RESOURCE ID: event_name_bonus_generic
 TEXT: ボーナスイベント
 
+RESOURCE ID: event_name_paldean_adventure
+TEXT: ウルトラアンロック：パルデア
+
 RESOURCE ID: event_name_routes
 TEXT: 新たな道しるべ
 
 RESOURCE ID: event_name_snap
 TEXT: 『New ポケモンスナップ』
 セレブレーション
+
+RESOURCE ID: event_name_ultra_unlock_23
+TEXT: パルデアの冒険
 
 RESOURCE ID: event_new_ditto_bonus
 TEXT: メタモンがより多くのポケモンにへんしんしている
@@ -17689,6 +17981,9 @@ TEXT: カラーフェスティバル
 RESOURCE ID: event_registration_success
 TEXT: {0} チェックインに成功しました！
 
+RESOURCE ID: event_safari_city
+TEXT: City Safari
+
 RESOURCE ID: event_season10_name
 TEXT: シーズン10：ライジングヒーロー
 
@@ -17929,6 +18224,9 @@ TEXT: まだ{0}のフレンドがいません
 RESOURCE ID: ex_raid_pass_invite_prompt
 TEXT: EXレイドに招待するフレンドを選ぶ
 
+RESOURCE ID: exclusive_incense_pokemon
+TEXT: 普段は見られないポケモンがおこうに反応
+
 RESOURCE ID: exclusive_raid_log_cancelled
 TEXT: {2}で{0}の{1}に予定されていたEXレイドはキャンセルされた
 
@@ -18146,6 +18444,9 @@ TEXT: サーフィンポーズ
 RESOURCE ID: f_avatar_poses_bundle_pose_53
 TEXT: トレジャーマップ
 ポーズ
+
+RESOURCE ID: f_avatar_poses_bundle_pose_55
+TEXT: オモダカ　ポーズ
 
 RESOURCE ID: f_avatar_poses_empty_bundle_pose_empty
 TEXT: 待機
@@ -19802,6 +20103,9 @@ TEXT: レイドで捕まえるエルレイドとサーナイトがシンクロ�
 RESOURCE ID: gardevoir_gallade_synchronoise_evolve
 TEXT: キルリアをサーナイトかエルレイドに進化させるとシンクロノイズを覚えている
 
+RESOURCE ID: gbl_championships_2024_bonus_event
+TEXT: バトルしようぜ！ボーナスイベント
+
 RESOURCE ID: gbl_double_dust_end_of_set
 TEXT: 2×　GOバトルリーグ対戦セット終了ほしのすな
 
@@ -20182,6 +20486,26 @@ TEXT: 世界中のどこにいても、現地時間2022年3月13日11:00AM～5:0
 RESOURCE ID: general1.ticket.2_sandt_title
 TEXT: ねずみポケモンを解明せよ！
 
+RESOURCE ID: general1.ticket.2_septcdc2023_description
+TEXT: 世界中のどこにいても現地時間2023年9月2日2:00PM～5:00PMにヒトカゲコミュニティ・デイ復刻のスペシャルリサーチを行うことができるチケット。完了することで、ヒトカゲとその進化形ポケモンにより多く出会え、ふしぎなアメ、ハイパーボールなどの道具が手に入ります。
+
+詳細はゲーム内ニュースでご確認ください。
+
+<b>イベントを最大限にお楽しみいただくには開催時間内に遊び終える必要があります。</b>
+
+RESOURCE ID: general1.ticket.2_septcdc2023_title
+TEXT: ヒトカゲコミュニティ・デイ復刻チケット
+
+RESOURCE ID: general1.ticket.2_septembercd2023_description
+TEXT: 世界中のどこにいても現地時間2023年9月23日2:00PM～5:00PMにアゴジムシコミュニティ・デイのスペシャルリサーチを行うことができるチケット。完了することで、アゴジムシとその進化形ポケモンにより多く出会え、ふしぎなアメ、ハイパーボールなどの道具が手に入ります。
+
+詳細はゲーム内ニュースでご確認ください。
+
+<b>イベントを最大限にお楽しみいただくには開催時間内に遊び終える必要があります。</b>
+
+RESOURCE ID: general1.ticket.2_septembercd2023_title
+TEXT: アゴジムシコミュニティ・デイチケット
+
 RESOURCE ID: general1.ticket.2_shint_description
 TEXT: 世界中のどこにいても、現地時間2021年11月21日（11:00AM～5:00PM）にゲーム内イベント「せんこうポケモンを解明せよ！」を遊ぶことができるチケット。詳細は、ゲーム内ニュースで確認できます。
 
@@ -20338,11 +20662,11 @@ TEXT: GOバトル・デイ：ほしのすなタイムチャレンジ
 RESOURCE ID: general1.ticket.gofest2023_alldetails
 TEXT: 世界中のどこにいても、現地時間2023年8月26日・27日開催のPokémonGOFest2023グローバルでスペシャルリサーチを行うことができるチケット。このスペシャルリサーチを完了するとディアンシーに出会えます。他にも以下がもらえます。
 
--色違いのポケモンに出会える確率アップ
+・色違いのポケモンに出会える確率アップ
 -すごいわざマシンスペシャル、すごいわざマシンノーマル、ふしぎなアメXL
--アバターポーズと着せ替えアイテム
--ジムのフォトディスクを回すと9枚まで無料レイドパス
--レックウザにガリョウテンセイを覚えさせるいんせき
+・アバターポーズと着せ替えアイテム
+・ジムのフォトディスクを回すと9枚まで無料レイドパス
+・レックウザにガリョウテンセイを覚えさせるいんせき
 
 詳細はゲーム内ニュースでご確認ください。
 
@@ -20454,6 +20778,20 @@ TEXT: 現地時間2022年12月3日2:00PM～10:00PMに以下のボーナスを受
 
 RESOURCE ID: general1.ticket.megahoenn_title
 TEXT: ホウエンメガレイドチケット
+
+RESOURCE ID: general1.ticket.pawmibackpack_description
+TEXT: 世界中のどこにいても現地時間2023年9月15日8:00PMまでタイムチャレンジを行うことができるチケット。完了することで、パモに出会えます。以下ももらえます。
+・パモバックパック
+・ふしぎなアメ3個
+・ふかそうち1個
+・ぎんのパイルのみ10個
+・921ほしのすな
+・9210XP
+
+関連するすべてのリワードを受け取るには、タイムチャレンジが消える前に遊び終える必要があります。
+
+RESOURCE ID: general1.ticket.pawmibackpack_title
+TEXT: パモと歩こう
 
 RESOURCE ID: general1.ticket.s10timed_description
 TEXT: 世界中のどこにいても「博士の冒険チャレンジ」を行うことができるチケット。完了することで、ウィロー博士の着せ替えアイテムがもらえ、ダブルパンツァーを覚えたメルメタルに出会えます。
@@ -25007,6 +25345,9 @@ TEXT: SLリミックス
 RESOURCE ID: great_raid_box_title
 TEXT: スーパーレイドボックス
 
+RESOURCE ID: great_storage_box
+TEXT: スーパー拡張ボックス
+
 RESOURCE ID: ground_type_event
 TEXT: タイプ上昇：じめん
 
@@ -27027,6 +27368,12 @@ TEXT: ある特定のポケモンを進化させるウロコ。固くて丈夫�
 RESOURCE ID: item_dragon_scale_name
 TEXT: りゅうのウロコ
 
+RESOURCE ID: item_event_ticket_blue_desc_pawmibackpack
+TEXT: 現地時間2023年9月10日10:00AM～9月15日8:00PMにタイムチャレンジを遂行するためのチケット。
+
+RESOURCE ID: item_event_ticket_blue_details_pawmibackpack
+TEXT: このチケットは自動的に発動し、現地時間2023年9月10日10:00AM～9月15日8:00PMに「パモと歩こう」タイムチャレンジが行えるようになります。
+
 RESOURCE ID: item_event_ticket_gray_desc
 TEXT: Pokémon GO Fest 2023：グローバルに参加できるチケット。
 
@@ -27061,7 +27408,7 @@ RESOURCE ID: item_event_ticket_pink_bulbt_details
 TEXT: このチケットは自動的に発動し、現地時間2022年1月22日にスペシャルリサーチが行えるようになります。
 
 RESOURCE ID: item_event_ticket_pink_desc
-TEXT: 現地時間2023年8月13日2:00PM～5:00PMにケロマツコミュニティデイのスペシャルリサーチを遂行するためのチケット。
+TEXT: ヒトカゲコミュニティデイ復刻のスペシャルリサーチを遂行するためのチケット。
 
 RESOURCE ID: item_event_ticket_pink_desc_alodude
 TEXT: 現地時間2022年5月21日11:00AM～2:00PMにスペシャルリサーチを遂行するためのチケット。
@@ -27078,11 +27425,17 @@ TEXT: 現地時間2022年11月5日2:00PM～5:00PMにスペシャルリサーチ�
 RESOURCE ID: item_event_ticket_pink_desc_fennekin
 TEXT: 「キツネポケモンを解明せよ！」スペシャルリサーチを遂行するためのチケット。
 
+RESOURCE ID: item_event_ticket_pink_desc_froakie
+TEXT: 現地時間2023年8月13日2:00PM～5:00PMにケロマツコミュニティデイのスペシャルリサーチを遂行するためのチケット。
+
 RESOURCE ID: item_event_ticket_pink_desc_gbd
 TEXT: GOバトル・デイ：ほしのすなタイムチャレンジを行うためのチケット。
 
 RESOURCE ID: item_event_ticket_pink_desc_gold
 TEXT: 現地時間2023年6月3日2:00PM～5:00PMにタイムチャレンジを行うためのチケット。
+
+RESOURCE ID: item_event_ticket_pink_desc_grubbin
+TEXT: 現地時間23023年9月23日2:00PM～5:00PMにアゴジムシコミュニティ・デイのスペシャルリサーチを遂行するためのチケット。
 
 RESOURCE ID: item_event_ticket_pink_desc_mrmime
 TEXT: 現地時間2020年12月19日10:00AM～2020年12月20日8:00PMにスペシャルリサーチを遂行するためのチケット。
@@ -27100,7 +27453,7 @@ RESOURCE ID: item_event_ticket_pink_desc_togetic
 TEXT: 現地時間2023年4月15日2:00PM～5:00PMにスペシャルリサーチを遂行するためのチケット。
 
 RESOURCE ID: item_event_ticket_pink_details
-TEXT: このチケットは自動的に発動し、現地時間2023年8月13日に「あわがえるポケモンを解明せよ！」スペシャルリサーチが行えるようになります。
+TEXT: このチケットは自動的に発動し、現地時間2023年9月2日2:00PM～5:00PMにヒトカゲコミュニティ・デイ復刻のスペシャルリサーチが行えるようになります。
 
 RESOURCE ID: item_event_ticket_pink_details_axew
 TEXT: このチケットは自動的に発動し、現地時間2023年6月10日2:00PM～5:00PMにスペシャルリサーチが行えるようになります。
@@ -27114,11 +27467,17 @@ TEXT: このチケットは自動的に発動し、現地時間2022年11月5日�
 RESOURCE ID: item_event_ticket_pink_details_fennekin
 TEXT: このチケットは自動的に発動し、現地時間2023年5月21日2:00PM～5:00PMにスペシャルリサーチが行えるようになります。
 
+RESOURCE ID: item_event_ticket_pink_details_froakie
+TEXT: このチケットは自動的に発動し、現地時間2023年8月13日に「あわがえるポケモンを解明せよ！」スペシャルリサーチが行えるようになります。
+
 RESOURCE ID: item_event_ticket_pink_details_gbd
 TEXT: このチケットは自動的に発動し、現地時間2023年5月14日12:00AM～11:59PMにGOバトル・デイ：ほしのすなタイムチャレンジが行えるようになります。
 
 RESOURCE ID: item_event_ticket_pink_details_gold
 TEXT: このチケットは自動的に発動し、現地時間2023年6月3日2:00PM～5:00PMに輝くリサーチデイタイムチャレンジが行えるようになります。
+
+RESOURCE ID: item_event_ticket_pink_details_grubbin
+TEXT: このチケットは自動的に発動し、アゴジムシコミュニティ・デイのスペシャルリサーチが行えるようになります。
 
 RESOURCE ID: item_event_ticket_pink_details_mrmime
 TEXT: このチケットは自動的に発動し、現地時間2020年12月19日10:00AM～2020年12月20日8:00PMにスペシャルリサーチが行えるようになります。
@@ -30695,6 +31054,9 @@ RESOURCE ID: m_avatar_poses_bundle_pose_53
 TEXT: トレジャーマップ
 ポーズ
 
+RESOURCE ID: m_avatar_poses_bundle_pose_55
+TEXT: オモダカ　ポーズ
+
 RESOURCE ID: m_avatar_poses_empty_bundle_pose_empty
 TEXT: 待機
 
@@ -31552,9 +31914,9 @@ RESOURCE ID: mega_walking_progress
 TEXT: 歩いて見つけるもの
 
 RESOURCE ID: metadata_local
-TEXT: Built at 2023-09-18T20:59:16.703945
-at SHA a7306e08ee82874ddca80bcdb58d5b465d837223
-Pipeline 1760683, job 21350629
+TEXT: Built at 2023-10-02T20:40:06.933377
+at SHA 1d5e5f0c7d73f8dfe244488bea8bbc845f45bf8d
+Pipeline 1795962, job 21779397
 
 RESOURCE ID: mex_fighting_promo_title
 TEXT: タイムチャレンジ：かくとうタイプ
@@ -31588,6 +31950,9 @@ TEXT: ヘビー：ハリテヤマ
 
 RESOURCE ID: mex_promo_tr_path_c_desc
 TEXT: この道を選ぶとハリテヤマと出会え、完了することでマクノシタのアメ・XP・ほしのすながもらえます。
+
+RESOURCE ID: mexico_city_catch_cup_title
+TEXT: 速成カップ：メキシコシティ
 
 RESOURCE ID: milestone_rewards_title
 TEXT: マイルストーンリワード
@@ -32721,6 +33086,15 @@ TEXT: あくうせつだん
 RESOURCE ID: move_name_0389
 TEXT: デスウイング
 
+RESOURCE ID: move_name_0391
+TEXT: トリプルアクセル
+
+RESOURCE ID: move_name_0392
+TEXT: くさわけ
+
+RESOURCE ID: move_name_0393
+TEXT: ねっさのだいち
+
 RESOURCE ID: move_reroll_confirm_desc
 TEXT: {0} は {1} を忘れます
 
@@ -33522,6 +33896,9 @@ TEXT: {0}さんと{1}さんがポストカードを保存しました！
 
 RESOURCE ID: pair_friend_sent_you_gift_notification
 TEXT: {0}さんと{1}さんからギフトが贈られてきました！
+
+RESOURCE ID: paldean_pokedex_header
+TEXT: パルデアのすがた
 
 RESOURCE ID: palma_enable_modal_failure_message
 TEXT: 設定画面からオンにできます
@@ -46353,6 +46730,9 @@ TEXT: 謎のプレゼント
 RESOURCE ID: quest_breakthrough_reward_stardust
 TEXT: ほしのすな
 
+RESOURCE ID: quest_buddy_affection_days
+TEXT: 相棒のハートを{0}日もらう
+
 RESOURCE ID: quest_buddy_affection_days_in_a_row
 TEXT: 相棒のハートを{0}日連続でもらう
 
@@ -46488,6 +46868,9 @@ TEXT: ラブカスを{0}匹捕まえる
 RESOURCE ID: quest_catch_misc_01_types_plural
 TEXT: みず、こおり、ノーマル、いずれかのタイプのポケモンを{0}匹捕まえる
 
+RESOURCE ID: quest_catch_nymble_plural
+TEXT: マメバッタを{0}匹捕まえる
+
 RESOURCE ID: quest_catch_pikachu_plural
 TEXT: ピカチュウを{0}匹捕まえる
 
@@ -46496,6 +46879,9 @@ TEXT: ポケモンを{0}種類捕まえる
 
 RESOURCE ID: quest_catch_pokemon_dai_plural
 TEXT: おさんぽおこうに呼び寄せられたポケモン{0}匹を捕まえる
+
+RESOURCE ID: quest_catch_pokemon_days
+TEXT: ポケモンを{0}日捕まえる
 
 RESOURCE ID: quest_catch_pokemon_plural
 TEXT: ポケモンを{0}匹捕まえる
@@ -47232,6 +47618,9 @@ TEXT: けむしポケモンの謎を解け！
 RESOURCE ID: quest_complete_zygarde
 TEXT: 新たなる道の探索
 
+RESOURCE ID: quest_crocalor_evolve_b
+TEXT: アチゲータを進化させる
+
 RESOURCE ID: quest_daily_bonus_title
 TEXT: デイリーボーナス
 
@@ -47801,6 +48190,30 @@ TEXT: くさタイプのポケモンを{0}匹進化させる
 
 RESOURCE ID: quest_equinox19_evolve_type_grass_plural_2
 TEXT: くさタイプのポケモンを{0}匹進化させる
+
+RESOURCE ID: quest_event_eevee_snapshot_barcelona
+TEXT: バルセロナであなたのイーブイのGOスナップショット写真を1枚撮る
+
+RESOURCE ID: quest_event_eevee_snapshot_mexico_city
+TEXT: メキシコシティであなたのイーブイのGOスナップショット写真を1枚撮る
+
+RESOURCE ID: quest_event_eevee_snapshot_seoul
+TEXT: ソウルであなたのイーブイのGOスナップショット写真を1枚撮る
+
+RESOURCE ID: quest_event_leave_behind_spin_safari_city_plural
+TEXT: まだ訪れていないイーブイチャレンジのポケストップ{0}個を回す
+
+RESOURCE ID: quest_event_leave_behind_spin_safari_city_singular
+TEXT: まだ訪れていないイーブイチャレンジのポケストップを回す
+
+RESOURCE ID: quest_event_spin_barcelona
+TEXT: バルセロナのポケストップ・ジム1個を回す
+
+RESOURCE ID: quest_event_spin_mexico_city
+TEXT: メキシコシティのポケストップ・ジム1個を回す
+
+RESOURCE ID: quest_event_spin_seoul
+TEXT: ソウルのポケストップ・ジム1個を回す
 
 RESOURCE ID: quest_evolve_abra_singular
 TEXT: ケーシィを進化させる
@@ -49113,6 +49526,9 @@ TEXT: ヤヤコマを{0}匹進化させる
 RESOURCE ID: quest_flett_evolve_s1
 TEXT: ヒノヤコマを{0}匹進化させる
 
+RESOURCE ID: quest_floragato_evolve_b
+TEXT: ニャローテを進化させる
+
 RESOURCE ID: quest_fraxure_evolve_b
 TEXT: オノンドを{0}匹進化させる
 
@@ -49127,6 +49543,9 @@ TEXT: ケロマツのGOスナップショット写真を{0}枚撮る
 
 RESOURCE ID: quest_frogadier_evolve_b
 TEXT: ゲコガシラを{0}匹進化させる
+
+RESOURCE ID: quest_fuecoco_evolve_b
+TEXT: ホゲータを進化させる
 
 RESOURCE ID: quest_gbl_rank
 TEXT: GOバトルリーグでランク{0}になる
@@ -50244,6 +50663,12 @@ TEXT: エスパータイプのポケモンを{0}匹捕まえる
 
 RESOURCE ID: quest_psychicspec_evolve_plural
 TEXT: タマタマかヤドンを{0}匹進化させる
+
+RESOURCE ID: quest_quaxly_evolve_b
+TEXT: クワッスを進化させる
+
+RESOURCE ID: quest_quaxwell_evolve_b
+TEXT: ウェルカモを進化させる
 
 RESOURCE ID: quest_quilladin_evolve_b
 TEXT: ハリボーグを{0}匹進化させる
@@ -59572,8 +59997,14 @@ TEXT: メキシコのポケストップを{0}個回す
 RESOURCE ID: quest_spin_mexico_singular
 TEXT: メキシコのポケストップを回す
 
+RESOURCE ID: quest_spin_pokestop_days
+TEXT: ポケストップを{0}日回す
+
 RESOURCE ID: quest_spin_ultra_wormhole_gym
 TEXT: ウルトラホールのあるジムのフォトディスクを回す
+
+RESOURCE ID: quest_sprigatito_evolve_b
+TEXT: ニャオハを進化させる
 
 RESOURCE ID: quest_squirtle_catch_b
 TEXT: ゼニガメを{0}匹捕まえる
@@ -59895,6 +60326,24 @@ TEXT: 時を越えるポケモンを追え！(7/8)
 
 RESOURCE ID: quest_title_celebi_7
 TEXT: 時を越えるポケモンを追え！(8/8)
+
+RESOURCE ID: quest_title_charmander
+TEXT: ヒトカゲコミュニティ・デイ復刻
+
+RESOURCE ID: quest_title_charmander_0
+TEXT: ヒトカゲコミュニティ・デイ復刻(1/5)
+
+RESOURCE ID: quest_title_charmander_1
+TEXT: ヒトカゲコミュニティ・デイ復刻(2/5)
+
+RESOURCE ID: quest_title_charmander_2
+TEXT: ヒトカゲコミュニティ・デイ復刻(3/5)
+
+RESOURCE ID: quest_title_charmander_3
+TEXT: Hari Komunitas Klasik: Charmander (4/5)
+
+RESOURCE ID: quest_title_charmander_4
+TEXT: ヒトカゲコミュニティ・デイ復刻(5/5)
 
 RESOURCE ID: quest_title_chart
 TEXT: とかげポケモンを解明せよ！
@@ -67901,6 +68350,9 @@ TEXT: もっと見る ({0})
 RESOURCE ID: route_community_plays_label
 TEXT: コミュニティが遊んだ回数
 
+RESOURCE ID: route_completion_congratulation
+TEXT: やったー！
+
 RESOURCE ID: route_completion_explored_count_plural
 TEXT: このルートを
 {0}回歩きました！
@@ -67967,16 +68419,16 @@ RESOURCE ID: route_creation_adsync_breadcrumb_notification
 TEXT: ルート作成進行中
 
 RESOURCE ID: route_creation_ask_start_description
-TEXT: すぐ始められない場合は、ルート作成を一時停止します。トレーナープロフィールのルートセクションから再開できます。
+TEXT: スタート地点の近くにいるため、道筋の記録を始めることができます。準備が必要な場合は、ルート作成を一時停止しましょう。トレーナープロフィールのルートセクションから再開できます。
 
 RESOURCE ID: route_creation_ask_start_pause_button
 TEXT: ルート作成一時停止
 
 RESOURCE ID: route_creation_ask_start_title
-TEXT: スタート地点近くにいます。道筋の記録を始めますか？
+TEXT: 道筋の記録を開始しますか？
 
 RESOURCE ID: route_creation_ask_submit
-TEXT: ゴール地点近くにいます。記録を終了しますか？
+TEXT: 道筋の記録を完了しますか？
 
 RESOURCE ID: route_creation_ask_submit_cancel
 TEXT: 記録を続ける
@@ -67985,47 +68437,43 @@ RESOURCE ID: route_creation_ask_submit_confirm
 TEXT: 終了する
 
 RESOURCE ID: route_creation_ask_submit_description
-TEXT: ルートの距離を延ばしたい場合は、このまま記録を続けてからこのポケストップに戻ると、距離を足すことができます。
+TEXT: ゴール地点の近くにいるため、道筋の記録を終えることができます。ルートを伸ばしたい場合は、記録を続けてから、このゴール地点に戻ります。
 
 RESOURCE ID: route_creation_autoexit_toast
 TEXT: ルート作成が終了しました
 
 RESOURCE ID: route_creation_choose_end_body
-TEXT: このポケストップの場所に行って
-ルート記録を完了します。記録中にゴール地点を選び直すこともできます。
+TEXT: スタート地点からゴール地点まで道筋をたどってください。ゴール地点はいつでも変更できます。
 
 RESOURCE ID: route_creation_choose_end_header
-TEXT: ポケストップを選んで
+TEXT: ポケストップ・ジムを選んで
 
 RESOURCE ID: route_creation_choose_end_sub_header
 TEXT: ゴール地点に設定
 
 RESOURCE ID: route_creation_choose_new_end_body
-TEXT: このポケストップの場所に行って
-ルート記録を完了します。記録中にゴール地点を選び直すこともできます。
+TEXT: スタート地点から新ゴール地点まで道筋をたどってください。ゴール地点はいつでも変更できます。
 
 RESOURCE ID: route_creation_choose_new_end_header
-TEXT: ポケストップを選んで
+TEXT: ポケストップ・ジムを選んで
 
 RESOURCE ID: route_creation_choose_new_end_sub_header
 TEXT: 新ゴール地点に設定
 
 RESOURCE ID: route_creation_choose_new_start_body
-TEXT: このポケストップの場所に行って
-ルート記録を始めます
+TEXT: 新スタート地点に行くと道筋記録が始まります。記録開始後にスタート地点を変えることはできません。
 
 RESOURCE ID: route_creation_choose_new_start_header
-TEXT: ポケストップを選んで
+TEXT: ポケストップ・ジムを選んで
 
 RESOURCE ID: route_creation_choose_new_start_sub_header
 TEXT: 新スタート地点に設定
 
 RESOURCE ID: route_creation_choose_start_body
-TEXT: このポケストップの場所に行って
-ルート記録を始めます
+TEXT: スタート地点に行くと道筋記録が始まります。記録開始後にスタート地点を変えることはできません。
 
 RESOURCE ID: route_creation_choose_start_header
-TEXT: ポケストップを選んで
+TEXT: ポケストップ・ジムを選んで
 
 RESOURCE ID: route_creation_choose_start_sub_header
 TEXT: スタート地点に設定
@@ -68614,6 +69062,9 @@ TEXT: このルートを歩くのをやめると、進捗は失われます。�
 RESOURCE ID: route_stop_report
 TEXT: エラーが発生して続けられない場合<color=#{0}>こちら</color>からお問い合わせください。
 
+RESOURCE ID: route_stop_start_new_button
+TEXT: 新たなルートをスタート
+
 RESOURCE ID: route_stop_title
 TEXT: このルートを歩くのをやめてもいいですか？
 
@@ -68740,7 +69191,7 @@ RESOURCE ID: route_submission_result_unknown_error
 TEXT: 提出エラー。しばらくしてから再度お試しください。
 
 RESOURCE ID: route_submission_reversible
-TEXT: このルートは逆順で歩くことができますか？
+TEXT: このルートを逆順で歩かせる
 
 RESOURCE ID: route_submission_review_adjust
 TEXT: 調整する
@@ -68761,7 +69212,7 @@ RESOURCE ID: route_submission_select_color_prompt
 TEXT: バッジにつけるヘッダーの色を選択：
 
 RESOURCE ID: route_submission_show_name
-TEXT: トレーナー名をルート詳細に含めて他のトレーナーから見られるようにしますか？
+TEXT: ルート作成者として自分のトレーナー名を表示
 
 RESOURCE ID: route_submission_start_title
 TEXT: ルートの詳細
@@ -69256,77 +69707,59 @@ TEXT: Safari Zone: ポケモンを捕まえるときにズリのみ{0}個を使�
 RESOURCE ID: safari_buddy_snapshot
 TEXT: Safari Zone: 相棒のポケモンのGOスナップショット写真を撮る
 
+RESOURCE ID: safari_city_2023_barcelona_title
+TEXT: City Safari：バルセロナ2023
+
+RESOURCE ID: safari_city_2023_barcelona_title_00
+TEXT: City Safari：バルセロナ2023 (1/3)
+
+RESOURCE ID: safari_city_2023_barcelona_title_01
+TEXT: City Safari：バルセロナ2023 (2/3)
+
+RESOURCE ID: safari_city_2023_barcelona_title_02
+TEXT: City Safari：バルセロナ2023 (3/3)
+
+RESOURCE ID: safari_city_2023_mexico_city_title
+TEXT: Safari City メキシコシティ2023
+
+RESOURCE ID: safari_city_2023_mexico_city_title_00
+TEXT: Safari City メキシコシティ2023 (1/3)
+
+RESOURCE ID: safari_city_2023_mexico_city_title_01
+TEXT: Safari City メキシコシティ2023 (2/3)
+
+RESOURCE ID: safari_city_2023_mexico_city_title_02
+TEXT: Safari City メキシコシティ2023 (3/3)
+
+RESOURCE ID: safari_city_2023_seoul_title
+TEXT: City Safari：ソウル2023
+
+RESOURCE ID: safari_city_2023_seoul_title_00
+TEXT: City Safari：ソウル2023 (1/3)
+
+RESOURCE ID: safari_city_2023_seoul_title_01
+TEXT: City Safari：ソウル2023 (2/3)
+
+RESOURCE ID: safari_city_2023_seoul_title_02
+TEXT: City Safari：ソウル2023 (3/3)
+
 RESOURCE ID: safari_city_leave_behind_title_barcelona
 TEXT: バルセロナシティサファリ：コンティニュー
 
 RESOURCE ID: safari_city_leave_behind_title_barcelona_00
-TEXT: バルセロナシティサファリ：コンティニュー(1/7)
-
-RESOURCE ID: safari_city_leave_behind_title_barcelona_01
-TEXT: バルセロナシティサファリ：コンティニュー(2/7)
-
-RESOURCE ID: safari_city_leave_behind_title_barcelona_02
-TEXT: バルセロナシティサファリ：コンティニュー(3/7)
-
-RESOURCE ID: safari_city_leave_behind_title_barcelona_03
-TEXT: バルセロナシティサファリ：コンティニュー(4/7)
-
-RESOURCE ID: safari_city_leave_behind_title_barcelona_04
-TEXT: バルセロナシティサファリ：コンティニュー(5/7)
-
-RESOURCE ID: safari_city_leave_behind_title_barcelona_05
-TEXT: バルセロナシティサファリ：コンティニュー(6/7)
-
-RESOURCE ID: safari_city_leave_behind_title_barcelona_06
-TEXT: バルセロナシティサファリ：コンティニュー(7/7)
+TEXT: バルセロナシティサファリ：コンティニュー(1/1)
 
 RESOURCE ID: safari_city_leave_behind_title_mxc
 TEXT: メキシコシティシティサファリ：コンティニュー
 
 RESOURCE ID: safari_city_leave_behind_title_mxc_00
-TEXT: メキシコシティシティサファリ：コンティニュー(1/7)
-
-RESOURCE ID: safari_city_leave_behind_title_mxc_01
-TEXT: メキシコシティシティサファリ：コンティニュー(2/7)
-
-RESOURCE ID: safari_city_leave_behind_title_mxc_02
-TEXT: メキシコシティシティサファリ：コンティニュー(3/7)
-
-RESOURCE ID: safari_city_leave_behind_title_mxc_03
-TEXT: メキシコシティシティサファリ：コンティニュー(4/7)
-
-RESOURCE ID: safari_city_leave_behind_title_mxc_04
-TEXT: メキシコシティシティサファリ：コンティニュー(5/7)
-
-RESOURCE ID: safari_city_leave_behind_title_mxc_05
-TEXT: メキシコシティシティサファリ：コンティニュー(6/7)
-
-RESOURCE ID: safari_city_leave_behind_title_mxc_06
-TEXT: メキシコシティシティサファリ：コンティニュー(7/7)
+TEXT: メキシコシティシティサファリ：コンティニュー(1/1)
 
 RESOURCE ID: safari_city_leave_behind_title_seoul
 TEXT: ソウルシティサファリ：コンティニュー
 
 RESOURCE ID: safari_city_leave_behind_title_seoul_00
-TEXT: ソウルシティサファリ：コンティニュー(1/7)
-
-RESOURCE ID: safari_city_leave_behind_title_seoul_01
-TEXT: ソウルシティサファリ：コンティニュー(2/7)
-
-RESOURCE ID: safari_city_leave_behind_title_seoul_02
-TEXT: ソウルシティサファリ：コンティニュー(3/7)
-
-RESOURCE ID: safari_city_leave_behind_title_seoul_03
-TEXT: ソウルシティサファリ：コンティニュー(4/7)
-
-RESOURCE ID: safari_city_leave_behind_title_seoul_04
-TEXT: ソウルシティサファリ：コンティニュー(5/7)
-
-RESOURCE ID: safari_city_leave_behind_title_seoul_05
-TEXT: ソウルシティサファリ：コンティニュー(6/7)
-
-RESOURCE ID: safari_city_leave_behind_title_seoul_06
-TEXT: ソウルシティサファリ：コンティニュー(7/7)
+TEXT: ソウルシティサファリ：コンティニュー(1/1)
 
 RESOURCE ID: safari_event
 TEXT: Pokémon GO Safari
@@ -69742,7 +70175,7 @@ RESOURCE ID: season_gbl_forecast_title_11
 TEXT: Pokémon GO：隠された宝石
 
 RESOURCE ID: season_gbl_forecast_title_12
-TEXT: 現在のシーズン：冒険の日々
+TEXT: Pokémon GO：冒険の日々
 
 RESOURCE ID: season_gbl_forecast_title_7
 TEXT: シーズンオブGO
@@ -69820,6 +70253,21 @@ TEXT: {0}さんにギフトを贈った！
 
 RESOURCE ID: sent_you_a_gift
 TEXT: {0}さんからギフトが届いています！
+
+RESOURCE ID: seoul_catch_cup_title
+TEXT: 速成カップ：ソウル
+
+RESOURCE ID: sep23_paldea_collection_challenge_1
+TEXT: ニャオハコレクションチャレンジ
+
+RESOURCE ID: sep23_paldea_collection_challenge_2
+TEXT: ホゲータコレクションチャレンジ
+
+RESOURCE ID: sep23_paldea_collection_challenge_3
+TEXT: クワッスコレクションチャレンジ
+
+RESOURCE ID: sep23_paldea_collection_challenge_4
+TEXT: グルトンコレクションチャレンジ
 
 RESOURCE ID: server_lockout
 TEXT: メンテナンスのためサービスを一時停止しています。しばらくしてから再度お試しください。
@@ -70147,6 +70595,9 @@ TEXT: ルートのガイダンス
 
 RESOURCE ID: settings_route_guidance_tip
 TEXT: ルートのゴール地点にいるか何か不思議なものが現れたときに通知
+
+RESOURCE ID: settings_save_image_tip
+TEXT: ARスナップショット写真をデバイスに保存
 
 RESOURCE ID: settings_select_legendary_label
 TEXT: 拡張選択
@@ -71146,6 +71597,9 @@ TEXT: Facebookに接続
 RESOURCE ID: social_add_friend_qr
 TEXT: 二次元バーコード
 
+RESOURCE ID: social_add_friend_qr_v2
+TEXT: 二次元バーコード読取
+
 RESOURCE ID: social_add_friends
 TEXT: フレンド追加
 
@@ -71209,6 +71663,9 @@ TEXT: フレンドのトレーナーコードを入力してフレンド申請�
 
 RESOURCE ID: social_send_my_code
 TEXT: トレーナーコードを共有
+
+RESOURCE ID: social_send_my_code_v2
+TEXT: コードを共有
 
 RESOURCE ID: solrock_lunatone_regions
 TEXT: ソルロック＆ルナトーンがいつもと違う地域で出現
@@ -73921,6 +74378,9 @@ TEXT: 「フシギダネコミュニティ・デイ（復刻）スペシャル�
 RESOURCE ID: ticket_charmander
 TEXT: 「とかげポケモンを解明せよ！」チケットがショップに登場
 
+RESOURCE ID: ticket_charmander_cdc
+TEXT: 「ヒトカゲコミュニティ・デイ復刻スペシャルリサーチ」チケットがショップに登場
+
 RESOURCE ID: ticket_chespin
 TEXT: 「いがぐりポケモンを解明せよ！」チケットがショップに登場
 
@@ -74206,8 +74666,18 @@ TEXT: フレンドを追加するか、お知り合いを誘いましょう！
 RESOURCE ID: tips_friends_list_no_friends_title
 TEXT: フレンド追加
 
+RESOURCE ID: tips_friends_online_status_body
+TEXT: オンライン表示はいつでも、フレンドリストに表示されるこのボタンで切り替えることができます。
+
+オンライン表示をONにすると、あなたがプレイしていることをフレンドに知らせることができます。
+
+RESOURCE ID: tips_friends_online_status_title
+TEXT: オンラインステータス
+
 RESOURCE ID: tips_friends_tutorial_add_body
-TEXT: トレーナーコードを教えてもらう、二次元バーコードを読み取る、もしくは、Facebookのアカウント連携をすることでフレンド追加できます。
+TEXT: トレーナーコードを教えてもらう、もしくは、二次元バーコードを読み取ってフレンド追加ができます。フレンド追加を行うと、両者がプレイしているNianticゲームすべてにおいてフレンドとして追加されます。
+
+Facebookのアカウント連携をすることでもフレンド追加できます。
 
 RESOURCE ID: tips_friends_tutorial_add_title
 TEXT: フレンド追加
@@ -75567,6 +76037,9 @@ TEXT: アメXLを手に入れたようだな！ポケモンの強化が簡単に
 RESOURCE ID: tutorial_xl_candy_2
 TEXT: ポケモンを捕まえるときに、このアメが落ちていることがある。そのポケモンが強ければ強いほど、アメXLを見つけるチャンスも上がるぞ！
 
+RESOURCE ID: twelve_free_raid_passes
+TEXT: ジムのフォトディスクを回してレイドパス12枚まで入手
+
 RESOURCE ID: two_free_raid_passes
 TEXT: 一日2枚までジムのフォトディスクからレイドパス入手
 
@@ -75743,6 +76216,12 @@ TEXT: ウルトラビースト登場 (7/8)
 
 RESOURCE ID: ub_arrival_title_07
 TEXT: ウルトラビースト登場 (8/8)
+
+RESOURCE ID: ultra23_lechonk_tr_1
+TEXT: グルトンの冒険
+
+RESOURCE ID: ultra23_pawmi_tr_1
+TEXT: パモと歩こう
 
 RESOURCE ID: ultra_anniversary_2022_event_name
 TEXT: ウルトラアンロック：アニバーサリー

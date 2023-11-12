@@ -1759,6 +1759,9 @@ Wailmer
 RESOURCE ID: avatar_f_backpack_nike2021_00_bundle_icon
 TEXT: Ransel NIKE HERITAGE
 
+RESOURCE ID: avatar_f_backpack_pamobackpack_00_bundle_icon
+TEXT: Ransel Pawmi
+
 RESOURCE ID: avatar_f_backpack_pkmnhoodie001_0_bundle_icon
 TEXT: Ransel Benih
 
@@ -1784,6 +1787,10 @@ TEXT: Ransel Paldea
 RESOURCE ID: avatar_f_backpack_svcostumevioletschool_00_bundle_icon
 TEXT: Ransel Paldea
 (Violet)
+
+RESOURCE ID: avatar_f_backpack_svdlc1_00_bundle_icon
+TEXT: Ransel Paldea
+(Kitakami)
 
 RESOURCE ID: avatar_f_backpack_swshdlc2costume_00_bundle_icon
 TEXT: Tas Tundra Mahkota
@@ -1960,6 +1967,9 @@ TEXT: Tanpa Sarung Tangan
 
 RESOURCE ID: avatar_f_gloves_frlg_bundle_icon
 TEXT: Gelang LeafGreen
+
+RESOURCE ID: avatar_f_gloves_geeta_00_bundle_icon
+TEXT: Sarung Tangan Bergaya Sagitta
 
 RESOURCE ID: avatar_f_gloves_giovanni_0_bundle_icon
 TEXT: Sarung Tangan Giovanni
@@ -2158,6 +2168,10 @@ TEXT: Topi Goomy
 
 RESOURCE ID: avatar_f_hat_greencoat_00_bundle_icon
 TEXT: Topi Festive
+
+RESOURCE ID: avatar_f_hat_growlithehelmet_00_bundle_icon
+TEXT: Wig
+Hisuian Growlithe
 
 RESOURCE ID: avatar_f_hat_guccihat_00_bundle_icon
 TEXT: Topi The North Face x Gucci
@@ -2485,6 +2499,9 @@ TEXT: Rok LeafGreen
 RESOURCE ID: avatar_f_pants_fw2022_00_bundle_icon
 TEXT: Celana Pendek Mareanie
 
+RESOURCE ID: avatar_f_pants_geeta_00_bundle_icon
+TEXT: Celana Bergaya Sagitta
+
 RESOURCE ID: avatar_f_pants_genderlessskirt_00_bundle_icon
 TEXT: Rok Lilit
 
@@ -2754,6 +2771,9 @@ TEXT: Jaket Mareanie
 
 RESOURCE ID: avatar_f_shirt_galarfarfetchditems_00_bundle_icon
 TEXT: Kaus dan Tas Galarian Farfetch’d
+
+RESOURCE ID: avatar_f_shirt_geeta_00_bundle_icon
+TEXT: Atasan Bergaya Sagitta
 
 RESOURCE ID: avatar_f_shirt_genderlessskirt_00_bundle_icon
 TEXT: Jaket Berlapis
@@ -3102,6 +3122,10 @@ RESOURCE ID: avatar_f_shirt_svcostumevioletschool_00_bundle_icon
 TEXT: Setelan Paldea
 (Violet)
 
+RESOURCE ID: avatar_f_shirt_svdlc1_00_bundle_icon
+TEXT: Set Paldea
+(Kitakami)
+
 RESOURCE ID: avatar_f_shirt_sweater_30_bundle_icon
 TEXT: The Thirty
 
@@ -3326,6 +3350,9 @@ TEXT: Sepatu LeafGreen
 RESOURCE ID: avatar_f_shoes_fw2022_00_bundle_icon
 TEXT: Sepatu Mareanie
 
+RESOURCE ID: avatar_f_shoes_geeta_00_bundle_icon
+TEXT: Sepatu Bergaya Sagitta
+
 RESOURCE ID: avatar_f_shoes_giovanni_0_bundle_icon
 TEXT: Sepatu Giovanni
 
@@ -3436,6 +3463,10 @@ TEXT: Sepatu Paldea
 RESOURCE ID: avatar_f_shoes_svcostumevioletschool_00_bundle_icon
 TEXT: Paldea Shoes
 (Violet)
+
+RESOURCE ID: avatar_f_shoes_svdlc1_00_bundle_icon
+TEXT: Sandal Paldea
+(Kitakami)
 
 RESOURCE ID: avatar_f_shoes_swshdlc2costume_00_bundle_icon
 TEXT: Sepatu Bot Tundra Mahkota
@@ -3652,6 +3683,9 @@ Wailmer
 RESOURCE ID: avatar_m_backpack_nike2021_00_bundle_icon
 TEXT: Ransel NIKE HERITAGE
 
+RESOURCE ID: avatar_m_backpack_pamobackpack_00_bundle_icon
+TEXT: Ransel Pawmi
+
 RESOURCE ID: avatar_m_backpack_pkmnhoodie001_0_bundle_icon
 TEXT: Ransel Benih
 
@@ -3677,6 +3711,10 @@ TEXT: Ransel Paldea
 RESOURCE ID: avatar_m_backpack_svcostumevioletschool_00_bundle_icon
 TEXT: Ransel Paldea
 (Violet)
+
+RESOURCE ID: avatar_m_backpack_svdlc1_00_bundle_icon
+TEXT: Ransel Paldea
+(Kitakami)
 
 RESOURCE ID: avatar_m_backpack_swshdlc2costume_00_bundle_icon
 TEXT: Tas Tundra Mahkota
@@ -3835,6 +3873,9 @@ TEXT: Tanpa Sarung Tangan
 
 RESOURCE ID: avatar_m_gloves_frlg_bundle_icon
 TEXT: Gelang FireRed
+
+RESOURCE ID: avatar_m_gloves_geeta_00_bundle_icon
+TEXT: Sarung Tangan Bergaya Sagitta
 
 RESOURCE ID: avatar_m_gloves_giovanni_0_bundle_icon
 TEXT: Sarung Tangan Giovanni
@@ -4036,6 +4077,10 @@ TEXT: Topi Goomy
 
 RESOURCE ID: avatar_m_hat_greencoat_00_bundle_icon
 TEXT: Topi Festive
+
+RESOURCE ID: avatar_m_hat_growlithehelmet_00_bundle_icon
+TEXT: Wig
+Hisuian Growlithe
 
 RESOURCE ID: avatar_m_hat_guccihat_00_bundle_icon
 TEXT: Topi The North Face x Gucci
@@ -4353,6 +4398,9 @@ TEXT: Celana FireRed
 RESOURCE ID: avatar_m_pants_fw2022_00_bundle_icon
 TEXT: Celana Pendek Mareanie
 
+RESOURCE ID: avatar_m_pants_geeta_00_bundle_icon
+TEXT: Celana Bergaya Sagitta
+
 RESOURCE ID: avatar_m_pants_genderlessskirt_00_bundle_icon
 TEXT: Rok Lilit
 
@@ -4628,6 +4676,9 @@ TEXT: Jaket Mareanie
 
 RESOURCE ID: avatar_m_shirt_galarfarfetchditems_00_bundle_icon
 TEXT: Kaus dan Tas Galarian Farfetch’d
+
+RESOURCE ID: avatar_m_shirt_geeta_00_bundle_icon
+TEXT: Atasan Bergaya Sagitta
 
 RESOURCE ID: avatar_m_shirt_genderlessskirt_00_bundle_icon
 TEXT: Jaket Berlapis
@@ -4982,6 +5033,10 @@ RESOURCE ID: avatar_m_shirt_svcostumevioletschool_00_bundle_icon
 TEXT: Setelan Paldea
 (Violet)
 
+RESOURCE ID: avatar_m_shirt_svdlc1_00_bundle_icon
+TEXT: Set Paldea
+(Kitakami)
+
 RESOURCE ID: avatar_m_shirt_sweatshirt_sporty_bundle_icon
 TEXT: Hoodie Olahraga
 
@@ -5203,6 +5258,9 @@ TEXT: Sepatu FireRed
 RESOURCE ID: avatar_m_shoes_fw2022_00_bundle_icon
 TEXT: Sepatu Mareanie
 
+RESOURCE ID: avatar_m_shoes_geeta_00_bundle_icon
+TEXT: Sepatu Bergaya Sagitta
+
 RESOURCE ID: avatar_m_shoes_giovanni_0_bundle_icon
 TEXT: Sepatu Giovanni
 
@@ -5313,6 +5371,10 @@ TEXT: Sepatu Paldea
 RESOURCE ID: avatar_m_shoes_svcostumevioletschool_00_bundle_icon
 TEXT: Paldea Shoes
 (Violet)
+
+RESOURCE ID: avatar_m_shoes_svdlc1_00_bundle_icon
+TEXT: Sandal Paldea
+(Kitakami)
 
 RESOURCE ID: avatar_m_shoes_swshdlc2costume_00_bundle_icon
 TEXT: Sepatu Bot Tundra Mahkota
@@ -6189,6 +6251,78 @@ TEXT: Pokémon World Championship 2023: Bonus Penelitian Berwaktu
 
 RESOURCE ID: badge_event_0074_title
 TEXT: Jawaranya DancingRob
+
+RESOURCE ID: badge_event_0075
+TEXT: Penelitian Partner - Penuh Petualangan: SoftBank
+
+RESOURCE ID: badge_event_0075_title
+TEXT: Penelitian Partner: SoftBank
+
+RESOURCE ID: badge_event_0075_title_00
+TEXT: Penelitian Partner: SoftBank (1/4)
+
+RESOURCE ID: badge_event_0075_title_01
+TEXT: Penelitian Partner: SoftBank (2/4)
+
+RESOURCE ID: badge_event_0075_title_02
+TEXT: Penelitian Partner: SoftBank (3/4)
+
+RESOURCE ID: badge_event_0075_title_03
+TEXT: Penelitian Partner: SoftBank (4/4)
+
+RESOURCE ID: badge_event_0076
+TEXT: Penelitian Partner - Penuh Petualangan: Nankai Electric Railway
+
+RESOURCE ID: badge_event_0076_title
+TEXT: Penelitian Partner: Nankai Electric Railway
+
+RESOURCE ID: badge_event_0076_title_00
+TEXT: Penelitian Partner: Nankai Electric Railway (1/4)
+
+RESOURCE ID: badge_event_0076_title_01
+TEXT: Penelitian Partner: Nankai Electric Railway (2/4)
+
+RESOURCE ID: badge_event_0076_title_02
+TEXT: Penelitian Partner: Nankai Electric Railway (3/4)
+
+RESOURCE ID: badge_event_0076_title_03
+TEXT: Penelitian Partner: Nankai Electric Railway (4/4)
+
+RESOURCE ID: badge_event_0077
+TEXT: Penelitian Partner - Penuh Petualangan: Sumitomo Life Insurance Company
+
+RESOURCE ID: badge_event_0077_title
+TEXT: Penelitian Partner: Sumitomo Life Insurance Company
+
+RESOURCE ID: badge_event_0077_title_00
+TEXT: Penelitian Partner: Sumitomo Life Insurance Company (1/4)
+
+RESOURCE ID: badge_event_0077_title_01
+TEXT: Penelitian Partner: Sumitomo Life Insurance Company (2/4)
+
+RESOURCE ID: badge_event_0077_title_02
+TEXT: Penelitian Partner: Sumitomo Life Insurance Company (3/4)
+
+RESOURCE ID: badge_event_0077_title_03
+TEXT: Penelitian Partner: Sumitomo Life Insurance Company (4/4)
+
+RESOURCE ID: badge_event_0078
+TEXT: Penelitian Partner - Penuh Petualangan: FamilyMart Taiwan
+
+RESOURCE ID: badge_event_0078_title
+TEXT: Penelitian Partner: FamilyMart Taiwan
+
+RESOURCE ID: badge_event_0078_title_00
+TEXT: Penelitian Partner: FamilyMart Taiwan (1/4)
+
+RESOURCE ID: badge_event_0078_title_01
+TEXT: Penelitian Partner: FamilyMart Taiwan (2/4)
+
+RESOURCE ID: badge_event_0078_title_02
+TEXT: Penelitian Partner: FamilyMart Taiwan (3/4)
+
+RESOURCE ID: badge_event_0078_title_03
+TEXT: Penelitian Partner: FamilyMart Taiwan (4/4)
 
 RESOURCE ID: badge_event_yoshinoya
 TEXT: Mei 2021: Yoshinoya
@@ -7627,6 +7761,60 @@ TEXT: Zona Safari GO - Eropa 2017
 RESOURCE ID: badge_safari_zone_europe_2017_title
 TEXT: Zona Safari GO - Eropa 2017
 
+RESOURCE ID: badge_safaricity_2023_barcelona_day_00_general
+TEXT: Barcelona 2023
+
+RESOURCE ID: badge_safaricity_2023_barcelona_day_00_general_title
+TEXT: Pokémon GO City Safari
+
+RESOURCE ID: badge_safaricity_2023_barcelona_day_01_general
+TEXT: Barcelona, 13 Oktober 2023
+
+RESOURCE ID: badge_safaricity_2023_barcelona_day_01_general_title
+TEXT: Pokémon GO City Safari
+
+RESOURCE ID: badge_safaricity_2023_barcelona_day_02_general
+TEXT: Barcelona, 14 Oktober 2023
+
+RESOURCE ID: badge_safaricity_2023_barcelona_day_02_general_title
+TEXT: Pokémon GO City Safari
+
+RESOURCE ID: badge_safaricity_2023_mexico_city_day_00_general
+TEXT: Kota Meksiko 2023
+
+RESOURCE ID: badge_safaricity_2023_mexico_city_day_00_general_title
+TEXT: Pokémon GO City Safari
+
+RESOURCE ID: badge_safaricity_2023_mexico_city_day_01_general
+TEXT: Kota Meksiko, 4 November 2023
+
+RESOURCE ID: badge_safaricity_2023_mexico_city_day_01_general_title
+TEXT: Pokémon GO City Safari
+
+RESOURCE ID: badge_safaricity_2023_mexico_city_day_02_general
+TEXT: Kota Meksiko, 5 November 2023
+
+RESOURCE ID: badge_safaricity_2023_mexico_city_day_02_general_title
+TEXT: Pokémon GO City Safari
+
+RESOURCE ID: badge_safaricity_2023_seoul_day_00_general
+TEXT: Seoul 2023
+
+RESOURCE ID: badge_safaricity_2023_seoul_day_00_general_title
+TEXT: Pokémon GO City Safari
+
+RESOURCE ID: badge_safaricity_2023_seoul_day_01_general
+TEXT: Seoul, 7 Oktober 2023
+
+RESOURCE ID: badge_safaricity_2023_seoul_day_01_general_title
+TEXT: Pokémon GO City Safari
+
+RESOURCE ID: badge_safaricity_2023_seoul_day_02_general
+TEXT: Seoul, 8 Oktober 2023
+
+RESOURCE ID: badge_safaricity_2023_seoul_day_02_general_title
+TEXT: Pokémon GO City Safari
+
 RESOURCE ID: badge_safarizone_2019_montreal_day_00_earlyaccess
 TEXT: Montreal, 19 September 2019
 
@@ -8273,10 +8461,10 @@ RESOURCE ID: badge_unique_mega_evos_title
 TEXT: Guru Evolusi Mega
 
 RESOURCE ID: badge_unique_pokestops
-TEXT: Mengunjungi {0} PokéStop unik.
+TEXT: Putar {0} PokéStop berbeda.
 
 RESOURCE ID: badge_unique_pokestops_singular
-TEXT: Kunjungi PokéStop.
+TEXT: Putar PokéStop.
 
 RESOURCE ID: badge_unique_pokestops_title
 TEXT: Turis
@@ -8429,6 +8617,9 @@ TEXT: Pemberitahuan Pengakhiran Akun
 
 RESOURCE ID: banned_player_lockout_2
 TEXT: Pelajari lebih rinci
+
+RESOURCE ID: barcelona_catch_cup_title
+TEXT: Piala Instan: Barcelona
 
 RESOURCE ID: batch_transfer_confirm
 TEXT: <size=36><b>Transfer {0} Pokémon ke Profesor?</b></size>
@@ -11262,6 +11453,9 @@ TEXT: Evolusikan Alolan Graveler untuk mendapatkan Alolan Golem yang mempelajari
 RESOURCE ID: bonus_cd_move_axew
 TEXT: Evolusikan Fraxure untuk mendapatkan Haxorus yang mempelajari Wide Breaker!
 
+RESOURCE ID: bonus_cd_move_charmander
+TEXT: Evolusikan Charmeleon untuk mendapatkan Charizard yang mempelajari Serangan Cepat Napas Naga dan Serangan Spesial Blast Burn!
+
 RESOURCE ID: bonus_cd_move_chespin
 TEXT: Evolusikan Quilladin (Evolusi Chespin) untuk mendapatkan Chesnaught yang mempelajari Hard Plant!
 
@@ -11318,6 +11512,24 @@ TEXT: Evolusikan Galarian Linoone untuk mendapatkan Obstagoon yang mempelajari B
 
 RESOURCE ID: bonus_cd_ultra_unlock
 TEXT: Bonus Ultra: XP Tangkapan ×2 dan Permen Transfer ×2
+
+RESOURCE ID: bonus_choice_2x_incense
+TEXT: Durasi Pewangi ×2
+
+RESOURCE ID: bonus_choice_2x_incense_desc
+TEXT: Pilih bonus ini untuk menikmati perpanjangan durasi Pewangi selama sesi tiket yang tersisa
+
+RESOURCE ID: bonus_choice_2x_lucky_egg
+TEXT: Durasi Telur Kebahagiaan ×2
+
+RESOURCE ID: bonus_choice_2x_lucky_egg_desc
+TEXT: Pilih bonus ini untuk menikmati perpanjangan durasi Telur Kebahagiaan selama sesi tiket yang tersisa
+
+RESOURCE ID: bonus_choice_2x_star_piece
+TEXT: Durasi Serpihan Bintang ×2
+
+RESOURCE ID: bonus_choice_2x_star_piece_desc
+TEXT: Pilih bonus ini untuk menikmati perpanjangan durasi Serpihan Bintang selama sesi tiket yang tersisa
 
 RESOURCE ID: bonus_double_guaranteed_xl_evolve
 TEXT: 2 Permen XL terjamin dengan mengevolusikan Pokémon
@@ -11386,7 +11598,7 @@ RESOURCE ID: bonus_go_tour_event_move_kyogre
 TEXT: Kyogre yang ditangkap selama event ini akan mempelajari Serangan Spesial Aura Asal Mula
 
 RESOURCE ID: bonus_go_tour_irl_extra_candy
-TEXT: Jaminan tambahan 1 Permen XL dari partisipasi Raid Primal secara langsung
+TEXT: Dijamin tambahan 1 Permen XL dari semua Raid Primal secara langsung
 
 RESOURCE ID: bonus_hatch_day_hatch_2x
 TEXT: Debu Bintang Penetasan ×2
@@ -11485,7 +11697,7 @@ RESOURCE ID: bonus_jeju_costume_pikachu
 TEXT: Pikachu berkemeja biru (Sitrun) muncul di area
 
 RESOURCE ID: bonus_lure_3hr_stufful
-TEXT: Durasi Modul Umpan 3 Jam
+TEXT: Durasi Modul Umpan 3 jam
 
 RESOURCE ID: bonus_magnetic_lure_6_hr
 TEXT: Durasi Modul Umpan Magnet 6 jam
@@ -11510,6 +11722,12 @@ TEXT: Rayquaza yang ditangkap dari Raid akan mempelajari Serangan Spesial Wide B
 
 RESOURCE ID: bonus_purrloin_o_clock
 TEXT: Pada tepat setiap jam, sangat banyak Purrloin yang akan muncul!
+
+RESOURCE ID: bonus_raid_1_xl_candy
+TEXT: Tambahan 1 Permen dari menangkap Pokémon di Raid bintang lima dan Raid Mega
+
+RESOURCE ID: bonus_raid_3_candy
+TEXT: Tambahan 3 Permen dari menangkap Pokémon di Raid bintang lima dan Raid Mega
 
 RESOURCE ID: bonus_raid_3_xl_candy
 TEXT: Tambahan 3 Permen XL dari menangkap Pokémon di Raid bintang lima, Mega, dan Primal
@@ -11646,8 +11864,32 @@ TEXT: Jumlah Debu Bintang dari mengalahkan Bawahan Tim Roket GO meningkat
 RESOURCE ID: bonus_tgr_stardust_leader
 TEXT: Jumlah Debu Bintang dari mengalahkan Pemimpin Tim Roket GO meningkat
 
+RESOURCE ID: bonus_today_3_hr_lure_regular_only
+TEXT: Durasi Modul Umpan standar 3 jam
+
+RESOURCE ID: bonus_today_event_tr
+TEXT: Penelitian Berwaktu eksklusif event tersedia sekarang
+
+RESOURCE ID: bonus_today_plus_100_stardust
+TEXT: Tambahan 100 Debu Bintang per tangkapan
+
+RESOURCE ID: bonus_today_special_lure_regular_only
+TEXT: Pokémon bertema Event tertarik pada Modul Umpan standar
+
 RESOURCE ID: bonus_total_6_special_trades
 TEXT: Total Pertukaran Spesial per hari: 6 kali
+
+RESOURCE ID: bonus_tr_gbl_championships_2024_a_desc
+TEXT: Bonus Penelitian Berwaktu: Segalanya Bermula di Sini
+
+RESOURCE ID: bonus_tr_gbl_championships_2024_a_title
+TEXT: Segalanya Bermula di Sini
+
+RESOURCE ID: bonus_tr_gbl_championships_2024_b_desc
+TEXT: Bonus Penelitian Berwaktu: Umpan Mereka!
+
+RESOURCE ID: bonus_tr_gbl_championships_2024_b_title
+TEXT: Umpan Mereka!
 
 RESOURCE ID: bonus_trade_stardust_50pc_5hr
 TEXT: Pemakaian Debu Bintang -50% untuk pertukaran yang dilakukan selama event dan 5 jam setelahnya.
@@ -12598,6 +12840,12 @@ TEXT: Pegas besi tipis dan kecil yang dapat meregang.
 
 RESOURCE ID: buddy_souvenir_stretchy_spring_name
 TEXT: Pegas Elastis
+
+RESOURCE ID: buddy_souvenir_tiny_compass
+TEXT: Kompas Kecil
+
+RESOURCE ID: buddy_souvenir_tiny_compass_desc
+TEXT: Kompas untuk bisa segera kembali ke tempat partner Pokémonmu kapan pun.
 
 RESOURCE ID: buddy_souvenir_torn_ticket_description
 TEXT: Sebuah tiket yang tulisannya memudar dan disobek karena telah digunakan. Partnermu menganggap kalau ini terlihat bagus!
@@ -15211,6 +15459,9 @@ TEXT: Hari Komunitas Klasik Bulbasaur
 RESOURCE ID: community_day_charmander_event_name
 TEXT: Hari Komunitas: Charmander
 
+RESOURCE ID: community_day_charmander_event_name_cdc
+TEXT: Hari Komunitas Klasik: Charmander
+
 RESOURCE ID: community_day_chespin_event_name
 TEXT: Hari Komunitas: Chespin
 
@@ -16233,6 +16484,24 @@ TEXT: Gagal mengedit label.
 RESOURCE ID: edit_tag_gui_title
 TEXT: EDIT LABEL
 
+RESOURCE ID: eevee_explorers_barcelona_title
+TEXT: Eevee Si Penjelajah: Barcelona
+
+RESOURCE ID: eevee_explorers_barcelona_title_00
+TEXT: Eevee Si Penjelajah: Barcelona (1/1)
+
+RESOURCE ID: eevee_explorers_mexico_city_title
+TEXT: Eevee Si Penjelajah: Kota Meksiko
+
+RESOURCE ID: eevee_explorers_mexico_city_title_00
+TEXT: Eevee Si Penjelajah: Kota Meksiko (1/1)
+
+RESOURCE ID: eevee_explorers_seoul_title
+TEXT: Eevee Si Penjelajah: Seoul
+
+RESOURCE ID: eevee_explorers_seoul_title_00
+TEXT: Eevee Si Penjelajah: Seoul (1/1)
+
 RESOURCE ID: egg_anticipation
 TEXT: Ada apa di dalamnya?!
 
@@ -16514,6 +16783,9 @@ TEXT: English
 
 RESOURCE ID: enter_friend_code_prompt
 TEXT: Masukkan Kode Pelatih pemain untuk menambahkan ke Daftar Teman.
+
+RESOURCE ID: enter_friend_code_prompt_v2
+TEXT: Kirim Permintaan Berteman dengan memasukkan atau memindai Kode Pelatih temanmu.
 
 RESOURCE ID: enter_tag_name_placeholder
 TEXT: Masukkan nama label
@@ -17226,11 +17498,17 @@ TEXT: Pedang Mitos
 RESOURCE ID: event_name_bonus_generic
 TEXT: Event Bonus
 
+RESOURCE ID: event_name_paldean_adventure
+TEXT: Buka Ultra: Paldea
+
 RESOURCE ID: event_name_routes
 TEXT: Sebuah Jalan Baru
 
 RESOURCE ID: event_name_snap
 TEXT: Selebrasi New Pokémon Snap
+
+RESOURCE ID: event_name_ultra_unlock_23
+TEXT: Petualangan Paldea
 
 RESOURCE ID: event_new_ditto_bonus
 TEXT: Ditto menyamar sebagai Pokémon lain di alam liar
@@ -17550,6 +17828,9 @@ TEXT: Festival Warna
 RESOURCE ID: event_registration_success
 TEXT: Check-in {0} berhasil!
 
+RESOURCE ID: event_safari_city
+TEXT: City Safari
+
 RESOURCE ID: event_season10_name
 TEXT: Musim 10: Kebangkitan Hero
 
@@ -17790,6 +18071,9 @@ TEXT: Tidak memiliki {0}!
 RESOURCE ID: ex_raid_pass_invite_prompt
 TEXT: Pilih 1 teman untuk diundang ke Raid EX.
 
+RESOURCE ID: exclusive_incense_pokemon
+TEXT: Pewangi mungkin akan memikat Pokémon yang belum pernah ditemui
+
 RESOURCE ID: exclusive_raid_log_cancelled
 TEXT: Raid EX yang dijadwalkan pada {1} {0} di {2} telah dibatalkan.
 
@@ -17839,10 +18123,10 @@ RESOURCE ID: external_reward_text
 TEXT: {0} PokéCoin ditambahkan
 
 RESOURCE ID: extra_guranteed_xl_candy_raids
-TEXT: Jaminan tambahan 1 Permen XL dari partisipasi semua Raid
+TEXT: Dijamin tambahan 1 Permen XL dari semua Raid
 
 RESOURCE ID: extra_three_candy_raids
-TEXT: Jaminan tambahan 1 Permen dari menangkap Pokémon di Raid
+TEXT: Tambahan 3 Permen dari menangkap Pokémon di Raid
 
 RESOURCE ID: extreme_weather_warning_title
 TEXT: Cuaca Ekstrem
@@ -18008,6 +18292,9 @@ TEXT: Pose Peselancar
 RESOURCE ID: f_avatar_poses_bundle_pose_53
 TEXT: Pose Peta
 Harta Karun
+
+RESOURCE ID: f_avatar_poses_bundle_pose_55
+TEXT: Pose Bergaya Sagitta
 
 RESOURCE ID: f_avatar_poses_empty_bundle_pose_empty
 TEXT: Biasa
@@ -19651,6 +19938,9 @@ TEXT: Gardevoir dan Gallade yang ditemukan setelah Raid akan mempelajari Synchro
 RESOURCE ID: gardevoir_gallade_synchronoise_evolve
 TEXT: Evolusikan Kirlia menjadi Gardevoir atau Gallade yang mempelajari Synchronoise
 
+RESOURCE ID: gbl_championships_2024_bonus_event
+TEXT: Event Bonus: Ayo Bertarung!
+
 RESOURCE ID: gbl_double_dust_end_of_set
 TEXT: Debu Bintang untuk penyelesaian serangkaian pertarungan di GO Battle League ×2
 
@@ -20098,6 +20388,34 @@ KAMU HARUS BERMAIN SELAMA WAKTU TERTENTU UNTUK MENDAPATKAN SEMUA BONUS EVENT SPE
 RESOURCE ID: general1.ticket.2_sandt_title
 TEXT: Pasir dan Es
 
+RESOURCE ID: general1.ticket.2_septcdc2023_description
+TEXT: Tiket untuk mengakses Penelitian Spesial: Hari Komunitas Charmander, pada 2 September 2023 dari pukul 14.00 hingga 17.00 waktu setempat, di mana pun kamu berada. 
+
+Hadiah Penelitiannya adalah sebagai berikut: 
+- Hadiah Premium seperti Permen Langka, Bola Ultra, dan lain sebagainya. 
+- Pertemuan ekstra dengan Charmander dan Evolusinya. 
+
+Rinciannya bisa dibaca di Berita dalam game. 
+
+<b>Kamu harus bermain selama waktu tertentu untuk mendapatkan semua bonus event spesial.</b>
+
+RESOURCE ID: general1.ticket.2_septcdc2023_title
+TEXT: Tiket Hari Komunitas Klasik Charmander
+
+RESOURCE ID: general1.ticket.2_septembercd2023_description
+TEXT: Tiket untuk mengakses Penelitian Spesial: Hari Komunitas Grubbin, pada 23 September 2023 dari pukul 14.00 hingga 17.00 waktu setempat, di mana pun kamu berada. 
+
+Hadiah Penelitiannya adalah sebagai berikut: 
+- Hadiah Premium seperti Permen Langka, Bola Ultra, dan lain sebagainya. 
+- Pertemuan ekstra dengan Grubbin dan Evolusinya. 
+
+Rinciannya bisa dibaca di Berita dalam game. 
+
+<b>Kamu harus bermain selama waktu tertentu untuk mendapatkan semua bonus event spesial.</b>
+
+RESOURCE ID: general1.ticket.2_septembercd2023_title
+TEXT: Tiket Hari Komunitas Grubbin
+
 RESOURCE ID: general1.ticket.2_shint_description
 TEXT: Tiket untuk mengakses Penelitian Spesial: Cahaya, Percikan, dan Pancaran pada tanggal 21 November 2021, mulai pukul 11.00 hingga 17.00 waktu setempat, di mana pun kamu berada. Rinciannya bisa dibaca di Berita dalam game.
 
@@ -20437,6 +20755,21 @@ KAMU HARUS BERMAIN SELAMA WAKTU TERTENTU UNTUK MENDAPATKAN SEMUA BONUS EVENT SPE
 
 RESOURCE ID: general1.ticket.megahoenn_title
 TEXT: Tiket Menuju Hari Raid Mega Hoenn
+
+RESOURCE ID: general1.ticket.pawmibackpack_description
+TEXT: Tiket untuk mengakses Penelitian Berwaktu bertema event yang berhadiah sebagai berikut:
+- 2 pertemuan dengan Pawmi
+- Ransel Pawmi
+- 3 Permen Langka
+- 1 Mesin Penetas
+- 10 Beri Pinap Perak
+- 921 Debu Bintang
+- 9210 XP
+
+ Harap diperhatikan bahwa Penelitian Berwaktu berkedaluwarsa. Tugas yang berkaitan dengan Penelitian Berwaktu ini harus diselesaikan dan hadiahnya harus diambil sebelum Jumat, 15 September 2023, pukul 20.00, waktu setempat.
+
+RESOURCE ID: general1.ticket.pawmibackpack_title
+TEXT: Aku Bersamamu
 
 RESOURCE ID: general1.ticket.s10timed_description
 TEXT: Tiket untuk mengakses Penelitian Berwaktu: Lemari Willow, di mana pun kamu berada yang berhadiah seperti berikut:
@@ -24986,6 +25319,9 @@ TEXT: Remix Liga Great
 RESOURCE ID: great_raid_box_title
 TEXT: Kotak Raid Great
 
+RESOURCE ID: great_storage_box
+TEXT: Kotak Penyimpan Great
+
 RESOURCE ID: ground_type_event
 TEXT: Lonjakan Tipe: Tanah
 
@@ -26973,6 +27309,12 @@ TEXT: Sisik yang membuat spesies Pokémon tertentu berevolusi. Sisik ini sangat 
 RESOURCE ID: item_dragon_scale_name
 TEXT: Sisik Naga
 
+RESOURCE ID: item_event_ticket_blue_desc_pawmibackpack
+TEXT: Tiket untuk mengakses Penelitian Berwaktu dari Minggu, 10 Desember 2023, pukul 10.00 hingga Jumat, 15 September 2023 pukul 20.00 waktu setempat, di mana pun kamu berada.
+
+RESOURCE ID: item_event_ticket_blue_details_pawmibackpack
+TEXT: Tiket ini akan aktif secara otomatis dan memberimu akses ke Penelitian Berwaktu: Aku Bersamamu, di mana pun kamu berada.
+
 RESOURCE ID: item_event_ticket_gray_desc
 TEXT: Tiket untuk mengakses Pokémon GO Fest 2023: Global, di mana pun kamu berada.
 
@@ -27007,7 +27349,7 @@ RESOURCE ID: item_event_ticket_pink_bulbt_details
 TEXT: Tiket ini akan aktif secara otomatis dan memberimu akses ke Penelitian Spesial pada 22 Januari 2022, di mana pun kamu berada.
 
 RESOURCE ID: item_event_ticket_pink_desc
-TEXT: Tiket untuk mengakses Penelitian Spesial pada 13 Agustus 2023, mulai pukul 14.00 hingga 17.00 waktu setempat, di mana pun kamu berada.
+TEXT: Tiket untuk mengakses Penelitian Spesial: Hari Komunitas Klasik Charmander, di mana pun kamu berada.
 
 RESOURCE ID: item_event_ticket_pink_desc_alodude
 TEXT: Tiket untuk mengakses Penelitian Spesial pada tanggal 21 Mei 2022, mulai pukul 11.00 hingga 14.00 waktu setempat, di mana pun kamu berada.
@@ -27024,11 +27366,17 @@ TEXT: Tiket untuk mengakses Penelitian Spesial pada tanggal 5 November 2022, mul
 RESOURCE ID: item_event_ticket_pink_desc_fennekin
 TEXT: Tiket untuk mengakses Penelitian Spesial: Hari Komunitas Fennekin, di mana pun kamu berada.
 
+RESOURCE ID: item_event_ticket_pink_desc_froakie
+TEXT: Tiket untuk mengakses Penelitian Spesial pada 13 Agustus 2023, mulai pukul 14.00 hingga 17.00 waktu setempat, di mana pun kamu berada.
+
 RESOURCE ID: item_event_ticket_pink_desc_gbd
 TEXT: Tiket untuk mengakses Penelitian Berwaktu Hari GO Battle: Debu Bintang, di mana pun kamu berada.
 
 RESOURCE ID: item_event_ticket_pink_desc_gold
 TEXT: Tiket untuk mengakses Penelitian Berwaktu: Pencarian Emas pada 3 Juni 2023, mulai pukul 14.00 hingga 17.00 waktu setempat, di mana pun kamu berada.
+
+RESOURCE ID: item_event_ticket_pink_desc_grubbin
+TEXT: Tiket untuk mengakses Penelitian Spesial pada 23 September 2023, mulai pukul 14.00 hingga 17.00 waktu setempat, di mana pun kamu berada.
 
 RESOURCE ID: item_event_ticket_pink_desc_mrmime
 TEXT: Tiket untuk mengakses event spesial mulai tanggal 19 Desember 2020, pukul 10.00 hingga 20 Desember 2020 pukul 20.00 waktu setempat, di mana pun kamu berada.
@@ -27046,7 +27394,7 @@ RESOURCE ID: item_event_ticket_pink_desc_togetic
 TEXT: Tiket untuk mengakses Penelitian Spesial pada 15 April 2023, mulai pukul 14.00 hingga 17.00 waktu setempat, di mana pun kamu berada.
 
 RESOURCE ID: item_event_ticket_pink_details
-TEXT: Tiket ini akan aktif secara otomatis dan memberimu akses ke cerita Penelitian Spesial: Hari Komunitas Froakie, di mana pun kamu berada.
+TEXT: Tiket ini akan aktif secara otomatis dan memberimu akses ke Penelitian Spesial: Hari Komunitas Klasik Charmander pada 2 September 2023, mulai pukul 14.00 hingga 17.00 waktu setempat, di mana pun kamu berada.
 
 RESOURCE ID: item_event_ticket_pink_details_axew
 TEXT: Tiket ini akan aktif secara otomatis dan memberimu akses ke Penelitian Spesial: Hari Komunitas Axew pada Sabtu, 10 Juni 2023, mulai pukul 14.00 hingga 17.00 waktu setempat, di mana pun kamu berada.
@@ -27060,11 +27408,17 @@ TEXT: Tiket ini akan aktif secara otomatis untuk memberikan akses ke Penelitian 
 RESOURCE ID: item_event_ticket_pink_details_fennekin
 TEXT: Tiket ini akan aktif secara otomatis dan memberimu akses ke Penelitian Spesial: Hari Komunitas Fennekin pada 21 Mei 2023, mulai pukul 14.00 hingga 17.00 waktu setempat, di mana pun kamu berada.
 
+RESOURCE ID: item_event_ticket_pink_details_froakie
+TEXT: Tiket ini akan aktif secara otomatis dan memberimu akses ke cerita Penelitian Spesial: Hari Komunitas Froakie, di mana pun kamu berada.
+
 RESOURCE ID: item_event_ticket_pink_details_gbd
 TEXT: Tiket ini akan aktif secara otomatis dan memberimu akses ke Penelitian Berwaktu Hari GO Battle: Debu Bintang pada 14 Mei 2023, mulai pukul 00.00 hingga 23.59 waktu setempat, di mana pun kamu berada.
 
 RESOURCE ID: item_event_ticket_pink_details_gold
 TEXT: Tiket ini akan aktif secara otomatis dan memberimu akses ke Penelitian Berwaktu: Pencarian Emas pada 03 Juni 2023, mulai pukul 14.00 hingga 17.00 waktu setempat, di mana pun kamu berada.
+
+RESOURCE ID: item_event_ticket_pink_details_grubbin
+TEXT: Tiket ini akan aktif secara otomatis dan memberimu akses ke Penelitian Spesial: Hari Komunitas Grubbin, di mana pun kamu berada.
 
 RESOURCE ID: item_event_ticket_pink_details_mrmime
 TEXT: Tiket ini akan aktif secara otomatis dan memberimu akses ke event Mr. Mime Galarian mulai tanggal 19 Desember 2020, pukul 10.00 hingga 20 Desember 2020 pukul 08.00 waktu setempat, di mana pun kamu berada.
@@ -27254,7 +27608,7 @@ RESOURCE ID: item_global_event_ticket_to_gift_desc
 TEXT: Tiket event tambahan dari kesalahan pembelian. Kamu bisa mengirimkannya ke teman atau meminta pengembalian dana.
 
 RESOURCE ID: item_global_event_ticket_to_gift_description
-TEXT: Tiket untuk mengakses Pokémon GO Fest pada tanggal 4 dan 5 Juni 2022, mulai pukul 10.00 hingga 18.00 waktu setempat pada tiap tanggal, di mana pun kamu berada.
+TEXT: Tiket ini akan aktif secara otomatis dan memberimu akses ke Penilitian Berwaktu pada 1 Maret sampai 30 Juni 2023, di mana pun kamu berada.
 
 RESOURCE ID: item_global_event_ticket_to_gift_name
 TEXT: Tiket
@@ -27585,22 +27939,22 @@ RESOURCE ID: item_team_change_name
 TEXT: Tim Medallion
 
 RESOURCE ID: item_ticket_city_safari_00_desc
-TEXT: A ticket to access the Special Research Seoul City Safari: The Journey Continues.
+TEXT: Tiket untuk mengakses Penelitian Spesial City Safari: Seoul - Petualangan Bersambung.
 
 RESOURCE ID: item_ticket_city_safari_00_name
-TEXT: Safari Ticket: Seoul
+TEXT: Tiket Safari: Seoul
 
 RESOURCE ID: item_ticket_city_safari_01_desc
-TEXT: A ticket to access the Special Research Barcelona City Safari: The Journey Continues.
+TEXT: Tiket untuk mengakses Penelitian Spesial City Safari: Barcelona - Petualangan Bersambung.
 
 RESOURCE ID: item_ticket_city_safari_01_name
-TEXT: Safari Ticket: Barcelona
+TEXT: Tiket Safari: Barcelona
 
 RESOURCE ID: item_ticket_city_safari_02_desc
-TEXT: A ticket to access the Special Research Mexico City Safari: The Journey Continues.
+TEXT: Tiket untuk mengakses Penelitian Spesial City Safari: Kota Meksiko - Petualangan Bersambung.
 
 RESOURCE ID: item_ticket_city_safari_02_name
-TEXT: Safari Ticket: Mexico City
+TEXT: Tiket Safari: Kota Meksiko
 
 RESOURCE ID: item_troy_disk_desc
 TEXT: Modul untuk menarik perhatian Pokémon agar mendatangi PokéStop selama 30 menit. Pelatih lain dapat menerima efeknya.
@@ -27984,7 +28338,7 @@ RESOURCE ID: level_up_stats_pokemon_caught
 TEXT: Pokémon Tertangkap
 
 RESOURCE ID: level_up_stats_pokestops_visited
-TEXT: PokéStop yang Dikunjungi
+TEXT: PokéStop Terkunjungi
 
 RESOURCE ID: level_up_stats_raids_won
 TEXT: Kemenangan Raid
@@ -28881,7 +29235,7 @@ RESOURCE ID: limited_research_infernape
 TEXT: Penelitian Terbatas Infernape
 
 RESOURCE ID: limited_research_inkay
-TEXT: Penelitian Terbatas Inkay
+TEXT: Inkay Limited Research
 
 RESOURCE ID: limited_research_ivysaur
 TEXT: Penelitian Terbatas Ivysaur
@@ -30421,10 +30775,10 @@ RESOURCE ID: lunar_new_year_friendship_timed_research
 TEXT: Tahun Baru Lunar: Tantangan Persahabatan
 
 RESOURCE ID: lure_duration_4_hr
-TEXT: Durasi Modul Umpan 4 Jam
+TEXT: Durasi Modul Umpan 4 jam
 
 RESOURCE ID: lure_duration_6_hr
-TEXT: Durasi Modul Umpan 6 Jam
+TEXT: Durasi Modul Umpan 6 jam
 
 RESOURCE ID: lure_duration_double
 TEXT: Durasi Modul Umpan x2
@@ -30436,7 +30790,7 @@ RESOURCE ID: lure_duration_ninety_minutes
 TEXT: Durasi Modul Umpan 90 menit
 
 RESOURCE ID: lure_duration_three_hours
-TEXT: Durasi Modul Umpan 3 Jam
+TEXT: Durasi Modul Umpan 3 jam
 
 RESOURCE ID: lure_rainy_event_2hr
 TEXT: Modul Umpan Hujan akan memikat Pokémon selama 2 jam
@@ -30635,6 +30989,9 @@ TEXT: Pose Peselancar
 RESOURCE ID: m_avatar_poses_bundle_pose_53
 TEXT: Pose Peta
 Harta Karun
+
+RESOURCE ID: m_avatar_poses_bundle_pose_55
+TEXT: Pose Bergaya Sagitta
 
 RESOURCE ID: m_avatar_poses_empty_bundle_pose_empty
 TEXT: Biasa
@@ -31503,9 +31860,9 @@ RESOURCE ID: mega_walking_progress
 TEXT: Progres Perjalanan
 
 RESOURCE ID: metadata_local
-TEXT: Built at 2023-09-18T20:59:16.703945
-at SHA a7306e08ee82874ddca80bcdb58d5b465d837223
-Pipeline 1760683, job 21350629
+TEXT: Built at 2023-10-02T20:40:06.933377
+at SHA 1d5e5f0c7d73f8dfe244488bea8bbc845f45bf8d
+Pipeline 1795962, job 21779397
 
 RESOURCE ID: mex_fighting_promo_title
 TEXT: Penelitian Berwaktu: Pilih Tipe Petarungmu
@@ -31539,6 +31896,9 @@ TEXT: Kelas Berat: Pilih Hariyama
 
 RESOURCE ID: mex_promo_tr_path_c_desc
 TEXT: Dengan memilih jalur ini, kamu akan mendapatkan hadiah berupa pertemuan dengan Hariyama, Pokémon Sodokan Tangan beserta Permen Makuhita, XP, dan Debu Bintang.
+
+RESOURCE ID: mexico_city_catch_cup_title
+TEXT: Piala Instan: Kota Meksiko
 
 RESOURCE ID: milestone_rewards_title
 TEXT: HADIAH MILESTONE
@@ -32671,6 +33031,15 @@ TEXT: Cabikan Ruang Hiper
 RESOURCE ID: move_name_0389
 TEXT: Oblivion Wing
 
+RESOURCE ID: move_name_0391
+TEXT: Triple Axel
+
+RESOURCE ID: move_name_0392
+TEXT: Perintis
+
+RESOURCE ID: move_name_0393
+TEXT: Daratan Pasir Membara
+
 RESOURCE ID: move_reroll_confirm_desc
 TEXT: {0} akan melupakan {1}.
 
@@ -33467,6 +33836,9 @@ TEXT: {0} dan {1} telah menyimpan Kartu Posmu!
 
 RESOURCE ID: pair_friend_sent_you_gift_notification
 TEXT: {0} dan {1} mengirimkan Hadiah!
+
+RESOURCE ID: paldean_pokedex_header
+TEXT: Wujud Paldea
 
 RESOURCE ID: palma_enable_modal_failure_message
 TEXT: Coba lagi melalui Pengaturan atau ikon Poké Ball Plus.
@@ -41408,22 +41780,22 @@ RESOURCE ID: pokemon_desc_0989
 TEXT: Laporan penangkapannya tidak ada, dan data terkait Pokémon ini kurang. Ia mirip dengan makhluk hidup yang tertera dalam suatu jurnal ekspedisi.
 
 RESOURCE ID: pokemon_desc_0990
-TEXT: Sightings of this Pokémon have occurred in recent years. It resembles a mysterious object described in an old expedition journal.
+TEXT: Terdapat laporan kesaksian atas Pokémon ini dalam beberapa tahun terakhir. Pokémon yang mirip dengan objek misterius yang tertera dalam jurnal ekspedisi kuno.
 
 RESOURCE ID: pokemon_desc_0991
-TEXT: It resembles a mysterious object mentioned in an old book. There are only two reported sightings of this Pokémon.
+TEXT: Pokémon yang mirip dengan objek misterius yang terdaftar dalam sebuah buku kuno. Hanya terdapat 2 laporan kesaksian atas Pokémon ini.
 
 RESOURCE ID: pokemon_desc_0992
-TEXT: This Pokémon shares many similarities with Iron Hands, an object mentioned in a certain expedition journal.
+TEXT: Pokémon yang memiliki banyak poin kemiripan dengan objek bernama Iron Hands yang tertera dalam sebuah jurnal ekspedisi.
 
 RESOURCE ID: pokemon_desc_0993
-TEXT: It’s possible that Iron Jugulis, an object described in an old book, may actually be this Pokémon.
+TEXT: Kemungkinan Pokémon ini adalah objek bernama Iron Jugulis yang tertera dalam buku kuno.
 
 RESOURCE ID: pokemon_desc_0994
-TEXT: No records exist of this species being caught. Data is lacking, but the Pokémon’s traits match up with an object described in an old book.
+TEXT: Laporan penangkapannya 0. Data terkait Pokémon ini kurang. Karakteristiknya cocok dengan objek yang tertulis dalam buku kuno.
 
 RESOURCE ID: pokemon_desc_0995
-TEXT: Some of its notable features match those of an object named within a certain expedition journal as Iron Thorns.
+TEXT: Terdapat karakteristik yang cocok dengan objek bernama Iron Thorns yang diperkenalkan oleh sebuah jurnal ekspedisi pada Pokémon ini.
 
 RESOURCE ID: pokemon_desc_0996
 TEXT: Frigibax menyerap panas menggunakan sirip punggungnya dan mengubahnya menjadi energi es. Makin panas suhunya, makin banyak energi yang terkumpul.
@@ -41456,13 +41828,13 @@ RESOURCE ID: pokemon_desc_1005
 TEXT: Terdapat kemungkinan Pokémon ini adalah makhluk hidup bernama Roaring Moon yang tertulis dalam jurnal ekspedisi yang penuh misteri.
 
 RESOURCE ID: pokemon_desc_1006
-TEXT: It’s possible that this is the object listed as Iron Valiant in a certain expedition journal.
+TEXT: Terdapat kemungkinan bahwa Pokémon ini adalah objek misterius bernama Iron Valiant yang tertera dalam suatu jurnal ekspedisi.
 
 RESOURCE ID: pokemon_desc_1007_2996
 TEXT: Kabarnya, identitas asli Winged King yang membelah tanah dengan tinjunya seperti yang tertulis dalam jurnal ekspedisi kuno adalah Koraidon.
 
 RESOURCE ID: pokemon_desc_1008_2997
-TEXT: This seems to be the Iron Serpent mentioned in an old book. The Iron Serpent is said to have turned the land to ash with its lightning.
+TEXT: Tampaknya Miraidon tertera di buku kuno dengan nama Iron Serpent. Dikabarkan Pokémon ini mengubah tanah lapang menjadi abu dengan petir.
 
 RESOURCE ID: pokemon_desc_tmpevo_0003_0001
 TEXT: Untuk menopang bunganya yang sudah tumbuh menjadi lebih besar karena Evolusi Mega, punggung dan kaki Venusaur menjadi lebih kuat.
@@ -45941,7 +46313,7 @@ RESOURCE ID: profile_player_level
 TEXT: Level
 
 RESOURCE ID: profile_pokestops_visited
-TEXT: PokéStop yang Dikunjungi:
+TEXT: PokéStop Terkunjungi:
 
 RESOURCE ID: profile_start_date
 TEXT: Tanggal Mulai:
@@ -46300,6 +46672,9 @@ TEXT: Item misterius
 RESOURCE ID: quest_breakthrough_reward_stardust
 TEXT: Debu Bintang
 
+RESOURCE ID: quest_buddy_affection_days
+TEXT: Dapatkan hati bersama partnermu selama {0} hari berbeda
+
 RESOURCE ID: quest_buddy_affection_days_in_a_row
 TEXT: Dapatkan hati bersama partnermu {0} hari beruntun
 
@@ -46435,6 +46810,9 @@ TEXT: Tangkap {0} Luvdisc
 RESOURCE ID: quest_catch_misc_01_types_plural
 TEXT: Tangkap {0} Pokémon tipe Normal, Air, atau Es
 
+RESOURCE ID: quest_catch_nymble_plural
+TEXT: Tangkap {0} Nymble
+
 RESOURCE ID: quest_catch_pikachu_plural
 TEXT: Tangkap {0} Pikachu
 
@@ -46443,6 +46821,9 @@ TEXT: Tangkap {0} spesies Pokémon yang berbeda
 
 RESOURCE ID: quest_catch_pokemon_dai_plural
 TEXT: Gunakan Pewangi Harian untuk menangkap {0} Pokémon
+
+RESOURCE ID: quest_catch_pokemon_days
+TEXT: Tangkap Pokémon selama {0} hari berbeda
 
 RESOURCE ID: quest_catch_pokemon_plural
 TEXT: Tangkap {0} Pokémon
@@ -47179,6 +47560,9 @@ TEXT: Situasi yang Lebat
 RESOURCE ID: quest_complete_zygarde
 TEXT: Dari A Hingga Zygarde
 
+RESOURCE ID: quest_crocalor_evolve_b
+TEXT: Evolusikan Crocalor
+
 RESOURCE ID: quest_daily_bonus_title
 TEXT: Bonus Harian
 
@@ -47748,6 +48132,30 @@ TEXT: Evolusikan {0} Pokémon tipe Daun
 
 RESOURCE ID: quest_equinox19_evolve_type_grass_plural_2
 TEXT: Evolusikan {0} Pokémon tipe Daun
+
+RESOURCE ID: quest_event_eevee_snapshot_barcelona
+TEXT: Ambil foto Eevee milikmu di Barcelona
+
+RESOURCE ID: quest_event_eevee_snapshot_mexico_city
+TEXT: Ambil foto Eevee milikmu di Kota Meksiko
+
+RESOURCE ID: quest_event_eevee_snapshot_seoul
+TEXT: Ambil foto Eevee milikmu di Seoul
+
+RESOURCE ID: quest_event_leave_behind_spin_safari_city_plural
+TEXT: Putar {0} PokéStop pada lokasi Eevee Si Penjelajah yang belum pernah dikunjungi
+
+RESOURCE ID: quest_event_leave_behind_spin_safari_city_singular
+TEXT: Putar PokéStop pada lokasi Eevee Si Penjelajah yang belum pernah dikunjungi
+
+RESOURCE ID: quest_event_spin_barcelona
+TEXT: Putar PokéStop atau Gym di Barcelona
+
+RESOURCE ID: quest_event_spin_mexico_city
+TEXT: Putar PokéStop atau Gym di Kota Meksiko
+
+RESOURCE ID: quest_event_spin_seoul
+TEXT: Putar PokéStop atau Gym di Seoul
 
 RESOURCE ID: quest_evolve_abra_singular
 TEXT: Evolusikan 1 Abra
@@ -49060,6 +49468,9 @@ TEXT: Evolusikan {0} Fletchling
 RESOURCE ID: quest_flett_evolve_s1
 TEXT: Evolusikan {0} Fletchinder
 
+RESOURCE ID: quest_floragato_evolve_b
+TEXT: Evolusikan Floragato
+
 RESOURCE ID: quest_fraxure_evolve_b
 TEXT: Evolusikan {0} Fraxure
 
@@ -49074,6 +49485,9 @@ TEXT: Ambil {0} foto Froakie
 
 RESOURCE ID: quest_frogadier_evolve_b
 TEXT: Evolusikan {0} Frogadier
+
+RESOURCE ID: quest_fuecoco_evolve_b
+TEXT: Evolusikan Fuecoco
 
 RESOURCE ID: quest_gbl_rank
 TEXT: Raih peringkat {0} di GO Battle League
@@ -50190,6 +50604,12 @@ TEXT: Tangkap {0} Pokémon tipe Psychic
 
 RESOURCE ID: quest_psychicspec_evolve_plural
 TEXT: Evolusikan {0} Exeggcute atau Slowpoke
+
+RESOURCE ID: quest_quaxly_evolve_b
+TEXT: Evolusikan Quaxly
+
+RESOURCE ID: quest_quaxwell_evolve_b
+TEXT: Evolusikan Quaxwell
 
 RESOURCE ID: quest_quilladin_evolve_b
 TEXT: Evolusikan {0} Quilladin
@@ -57215,10 +57635,10 @@ RESOURCE ID: quest_special_dialogue_season12_0_3
 TEXT: Hmm ... Pemandangan tersebut tergambar di mataku...
 
 RESOURCE ID: quest_special_dialogue_season12_0_4
-TEXT: Pasti itu merupakan tempat luar biasa yang melebihi bayanganku. Oh iya, ada Pokémon di berbagai macam tempat seperti di atas pohon, dalam sungai, dan sebagainya!
+TEXT: Pasti itu merupakan tempat luar biasa melebihi bayanganku. Lalu, di berbagai tempat seperti di atas pohon, dalam sungai, dan sebagainya juga dihuni banyak Pokémon!
 
 RESOURCE ID: quest_special_dialogue_season12_a_1_0
-TEXT: Pilihan bagus! Sprigatito itu Pokémon yang manja dan sedikit pencemburu sehingga ia akan merajuk jika melihatmu memberikan perhatian ke Pokémon lainnya!
+TEXT: Bagus! Sprigatito itu Pokémon yang sedikit nakal. Ia bersifat seenaknya dan caper sehingga ia akan merajuk jika melihatmu memberi perhatian ke Pokémon lainnya!
 
 RESOURCE ID: quest_special_dialogue_season12_a_1_1
 TEXT: Bulu tubuhnya mengandung unsur yang mirip dengan tanaman sehingga ia dapat menciptakan energi dengan menyerap sinar matahari.
@@ -57233,31 +57653,31 @@ RESOURCE ID: quest_special_dialogue_season12_a_2_0
 TEXT: Selamat datang kembali, %PLAYERNAME%! Wah, kamu menangkap Sprigatito!
 
 RESOURCE ID: quest_special_dialogue_season12_a_2_1
-TEXT: Sprigatito rajin mencuci wajahnya untuk mencegah wajahnya kering. Perawatannya pun mirip dengan merawat tanaman.
+TEXT: Sprigatito rajin mencuci wajahnya untuk mencegah wajahnya kering. Hal tersebut seperti merawat tanaman juga ya.
 
 RESOURCE ID: quest_special_dialogue_season12_a_2_2
 TEXT: Oh iya, aku jadi ingin melihat hasil perawatanmu ke Sprigatito ... Cobalah mengevolusikannya!
 
 RESOURCE ID: quest_special_dialogue_season12_a_3_0
-TEXT: Bagus sekali, %PLAYERNAME%! Kamu telah mengevolusikannya menjadi Floragato! Perhatikan baik-baik kuncup yang ada di pangkal lehernya, itu menempel diujung sulurnya.
+TEXT: Bagus sekali, %PLAYERNAME%! Coba perhatikan kuncup bunga di pangkal lehernya Floragato. Kuncup itu menempel pada ujung sulurnya.
 
 RESOURCE ID: quest_special_dialogue_season12_a_3_1
 TEXT: Lalu, kekerasan bulunya juga bisa berubah, lho. Ketika ia mengambil posisi bertarung, bulunya menjadi setajam jarum.
 
 RESOURCE ID: quest_special_dialogue_season12_a_3_2
-TEXT: Floragato mengendalikan sulur ranting yang tersembunyi di bawah bulu panjangnya dengan mahir, lalu membanting kuncup keras ke musuh.
+TEXT: Floragato dapat mengendalikan sulur ranting yang tersembunyi di bawah bulu panjangnya dengan mahir, lalu membanting kuncup keras itu ke lawannya.
 
 RESOURCE ID: quest_special_dialogue_season12_a_3_3
 TEXT: Floragato itu juga mudah kesepian sehingga alangkah baiknya kamu selalu memperhatikannya saat kalian bertualang bersama. Tolong ya, %PLAYERNAME%.
 
 RESOURCE ID: quest_special_dialogue_season12_a_4_0
-TEXT: Wow! Kamu mengevolusikannya menjadi Meowscarada! Lihat bunganya! Itu terlihat melayang, tetapi itu tersambung dengan sulur, lho. Hanya saja tidak terlihat oleh kamuflase.
+TEXT: Wow! Kamu mengevolusikannya menjadi Meowscarada! Lihat bunganya! Itu terlihat melayang, tetapi tersambung dengan sulur, lho. Hanya saja tidak terlihat karena kamuflase.
 
 RESOURCE ID: quest_special_dialogue_season12_a_4_1
-TEXT: Teknik sulapnya luar biasa ya! Oke, penyelidikan untuk hari ini kita akhiri sampai sini. Nikmati petualanganmu bersama Meowscarada, %PLAYERNAME%!
+TEXT: Segera bawa ia keluar untuk bertualang, %PLAYERNAME%!
 
 RESOURCE ID: quest_special_dialogue_season12_b_1_0
-TEXT: Pilihan bagus! Fuecoco itu Pokémon yang penuh energi. Energi api yang mengalir di dalam tubuhnya dikeluarkan dari atas kepalanya.
+TEXT: Pilihan bagus! Fuecoco itu Pokémon yang penuh energi. Energi api yang meluap keluar dari dalam tubuhnya dikeluarkan dari cekungan di kepalanya.
 
 RESOURCE ID: quest_special_dialogue_season12_b_1_1
 TEXT: Oke, untuk permulaan, cobalah menangkap Pokémon yang bertipe sama dengan Fuecoco!
@@ -57266,22 +57686,22 @@ RESOURCE ID: quest_special_dialogue_season12_b_2_0
 TEXT: Selamat datang kembali, %PLAYERNAME%! Wah, kamu menangkap Fuecoco!
 
 RESOURCE ID: quest_special_dialogue_season12_b_2_1
-TEXT: Fuecoco berbaring di atas batu hangat dan menciptakan energi api dengan menyerap energi panas tersebut menggunakan sisik perseginya.
+TEXT: Fuecoco punya sisik persegi. Dari situ ia menyerap energi panas dengan berbaring di atas batu hangat.
 
 RESOURCE ID: quest_special_dialogue_season12_b_2_2
-TEXT: Kalau ia berevolusi menjadi Crocalor, energi apinya akan jadi makin membesar. Ayo coba mengevolusikan dan memastikannya secara langsung!
+TEXT: Kalau ia berevolusi menjadi Crocalor, energi apinya akan jadi makin membesar. Ayo coba evolusikan dan pastikan secara langsung!
 
 RESOURCE ID: quest_special_dialogue_season12_b_3_0
-TEXT: Bagus sekali, %PLAYERNAME%! Kamu telah mengevolusikannya menjadi Crocalor! Lihat bola api berbentuk telur yang ada di atas kepalanya, menurutmu itu apa ya?
+TEXT: Bagus sekali, %PLAYERNAME%! Lihat bola api berbentuk telur yang ada di atas kepala Crocalor! Menurutmu itu apa ya?
 
 RESOURCE ID: quest_special_dialogue_season12_b_3_1
-TEXT: Bola api berbentuk telur yang muncul di kepala Crocalor terbentuk oleh campuran energi api dan vitalitasnya yang melimpah.
+TEXT: Bola api tersebut terbentuk oleh campuran energi api dan vitalitasnya yang melimpah.
 
 RESOURCE ID: quest_special_dialogue_season12_b_3_2
-TEXT: Lalu, Crocalor mengembuskan api sambil mengeluarkan suara serak.
+TEXT: Selain itu, Crocalor mengembuskan api sambil mengeluarkan suara serak.
 
 RESOURCE ID: quest_special_dialogue_season12_b_3_3
-TEXT: Ia memiliki kebiasaan mengeluarkan suara ketika mengembuskan api, jadi hati-hati ya!
+TEXT: Jadi hati-hati ya ketika ia mengeluarkan suara karena itu kebiasaannya saat mengembuskan api!
 
 RESOURCE ID: quest_special_dialogue_season12_b_4_0
 TEXT: Wow! Kamu mengevolusikannya menjadi Skeledirge! Dikatakan bahwa suara lembutnya itu akan menenangkan jiwa siapa yang mendengarnya.
@@ -57290,16 +57710,16 @@ RESOURCE ID: quest_special_dialogue_season12_b_4_1
 TEXT: Namun, kamu perlu berhati-hati dengan apinya! Apinya bersuhu 3000 ℃, lho!
 
 RESOURCE ID: quest_special_dialogue_season12_b_4_2
-TEXT: Tetap hati-hati dengan apinya ya! Oke, penyelidikan untuk hari ini kita akhiri sampai sini. Nikmati petualanganmu bersama Skeledirge, %PLAYERNAME%!
+TEXT: Harap berhati-hati ya saat membawanya bertualang, %PLAYERNAME%!
 
 RESOURCE ID: quest_special_dialogue_season12_branch_0
-TEXT: Kamu ingin mempelajari Pokémon yang mana? Pilihlah, %PLAYERNAME%!
+TEXT: Omong-omong, Pokémon Paldea yang mana yang ingin kamu ajak di petualanganmu? Pilihlah, %PLAYERNAME%!
 
 RESOURCE ID: quest_special_dialogue_season12_c_1_0
 TEXT: Pilihan bagus! Quaxly itu Pokémon yang maniak kebersihan.
 
 RESOURCE ID: quest_special_dialogue_season12_c_1_1
-TEXT: Gel yang menangkal kotoran dan air disekresi dari bulunya. Quaxly juga selalu merapikan bulu di kepalanya sehingga selalu terkesan rapi dan bersih.
+TEXT: Bulu di kepala Quaxly selalu tertata dan terkesan bersih karena ia menyekresikan air dan gel penangkal kotoran dari bulunya.
 
 RESOURCE ID: quest_special_dialogue_season12_c_1_2
 TEXT: Oke, untuk permulaan, cobalah menangkap Pokémon yang bertipe sama dengan Quaxly!
@@ -57311,10 +57731,10 @@ RESOURCE ID: quest_special_dialogue_season12_c_2_1
 TEXT: Quaxly bermigrasi dari daerah yang jauh ke Daerah Paldea pada zaman dahulu. Ia bisa berenang dengan bebas meskipun di sungai beraliran kencang.
 
 RESOURCE ID: quest_special_dialogue_season12_c_2_2
-TEXT: Kalau ia berevolusi menjadi Quaxwell, kekuatan kakinya akan makin meningkat. Ayo coba mengevolusikan dan memastikannya secara langsung!
+TEXT: Kalau ia berevolusi menjadi Quaxwell, kekuatan kakinya akan makin meningkat. Ayo coba evolusikan dan pastikan secara langsung!
 
 RESOURCE ID: quest_special_dialogue_season12_c_3_0
-TEXT: Bagus sekali, %PLAYERNAME%! Kamu telah mengevolusikannya menjadi Quaxwell! Coba kita lihat kakinya.
+TEXT: Bagus sekali, %PLAYERNAME%! Coba lihat kakinya Quaxwell!
 
 RESOURCE ID: quest_special_dialogue_season12_c_3_1
 TEXT: Quaxwell melatih kaki dan pinggangnya dengan terus berlari di perairan dangkal. Pokémon ini saling mengadu keindahan teknik serangan kaki dengan sesamanya.
@@ -57329,7 +57749,7 @@ RESOURCE ID: quest_special_dialogue_season12_c_4_0
 TEXT: Wow! Kamu mengevolusikannya menjadi Quaquaval! Kekuatan kakinya dapat membuat truk jungkir balik hanya dengan sekali tendang. Terus, tariannya begitu lincah.
 
 RESOURCE ID: quest_special_dialogue_season12_c_4_1
-TEXT: Teruslah melangkah dan menari bersamanya! Oke, penyelidikan untuk hari ini kita akhiri sampai sini. Nikmati petualanganmu bersama Quaquaval, %PLAYERNAME%!
+TEXT: Ikuti langkahnya dan bertualanglah bersama, %PLAYERNAME%!
 
 RESOURCE ID: quest_special_dialogue_season2_0_0
 TEXT: Hai, %PLAYERNAME%! Senang bertemu denganmu.
@@ -59577,8 +59997,14 @@ TEXT: Putar {0} Pokestop di Meksiko
 RESOURCE ID: quest_spin_mexico_singular
 TEXT: Putar Pokestop di Meksiko
 
+RESOURCE ID: quest_spin_pokestop_days
+TEXT: Kunjungi PokéStop selama {0} hari berbeda
+
 RESOURCE ID: quest_spin_ultra_wormhole_gym
 TEXT: Putar Gym tempat Lubang Cacing Ultra terbentuk
+
+RESOURCE ID: quest_sprigatito_evolve_b
+TEXT: Evolusikan Sprigatito
 
 RESOURCE ID: quest_squirtle_catch_b
 TEXT: Tangkap {0} Squirtle
@@ -59900,6 +60326,24 @@ TEXT: Riak dalam Waktu (7/8)
 
 RESOURCE ID: quest_title_celebi_7
 TEXT: Riak dalam Waktu (8/8)
+
+RESOURCE ID: quest_title_charmander
+TEXT: Hari Komunitas Klasik: Charmander
+
+RESOURCE ID: quest_title_charmander_0
+TEXT: Hari Komunitas Klasik: Charmander (1/4)
+
+RESOURCE ID: quest_title_charmander_1
+TEXT: Hari Komunitas Klasik: Charmander (2/4)
+
+RESOURCE ID: quest_title_charmander_2
+TEXT: Hari Komunitas Klasik: Charmander (3/4)
+
+RESOURCE ID: quest_title_charmander_3
+TEXT: Hari Komunitas Klasik: Charmander (4/4)
+
+RESOURCE ID: quest_title_charmander_4
+TEXT: Hari Komunitas Klasik: Charmander (5/5)
 
 RESOURCE ID: quest_title_chart
 TEXT: Kisah Si Berekor
@@ -67889,6 +68333,9 @@ TEXT: TUNJUKKAN {0}
 RESOURCE ID: route_community_plays_label
 TEXT: DITELUSURI KOMUNITAS
 
+RESOURCE ID: route_completion_congratulation
+TEXT: Selamat!
+
 RESOURCE ID: route_completion_explored_count_plural
 TEXT: Telah menjelajahi Rute ini
 {0} kali!
@@ -67955,16 +68402,16 @@ RESOURCE ID: route_creation_adsync_breadcrumb_notification
 TEXT: Dalam proses Pembuatan Rute.
 
 RESOURCE ID: route_creation_ask_start_description
-TEXT: Apabila kamu tidak siap untuk merekam, sesi pembuatan Rute dapat dijeda dan dapat dilanjutkan lagi melalui layar Profil Pelatih. 
+TEXT: Kamu berada di dekat Titik Mulai dan langkah selanjutnya adalah mencatat jalur Rutemu. Jika kamu masih belum siap, Pembuatan Rute dapat dijeda dan dilanjutkan nanti di layar Rute pada Profil Pelatihmu.
 
 RESOURCE ID: route_creation_ask_start_pause_button
 TEXT: Jeda Pembuatan Rute
 
 RESOURCE ID: route_creation_ask_start_title
-TEXT: Kamu berada di dekat titik awal pilihanmu. Mulai perekaman jalur untuk Rutemu?
+TEXT: Mulai pencatatan jalur untuk Rutemu?
 
 RESOURCE ID: route_creation_ask_submit
-TEXT: Kamu berada di dekat titik akhir Rute pilihanmu. Selesaikan perekaman Rutemu?
+TEXT: Seleaikan pencatatan jalur untuk Rutemu?
 
 RESOURCE ID: route_creation_ask_submit_cancel
 TEXT: LANJUT PEREKAMAN
@@ -67973,43 +68420,43 @@ RESOURCE ID: route_creation_ask_submit_confirm
 TEXT: SELESAI
 
 RESOURCE ID: route_creation_ask_submit_description
-TEXT: Ketika ingin memperpanjang Rute lebih jauh, kamu dapat melanjutkan perekaman dan kembali ke PokéStop ini nanti.
+TEXT: Kamu berada di dekat Titik Akhir dan dapat menyelesaikan pencatatan jalur Rutemu. Jika kamu ingin memperpanjang jalur Rutemu, kamu dapat terus melakukan pencatatan dan kembali lagi ke Titik Akhir ini nanti.
 
 RESOURCE ID: route_creation_autoexit_toast
 TEXT: Pembuatan Rute Selesai.
 
 RESOURCE ID: route_creation_choose_end_body
-TEXT: Kamu harus berada di PokeStop ini untuk menyelesaikan perekeman Rute. Kamu dapat mengganti titik akhir ketika merekam.
+TEXT: Pencatatan jalur harus dilakukan daeri Titik Mulai hingga Titik Akhir ini. Kamu dapat mengubah Titik Akhir kapan pun.
 
 RESOURCE ID: route_creation_choose_end_header
-TEXT: Pilih PokeStop
+TEXT: Pilih PokeStop atau Gym sebagai
 
 RESOURCE ID: route_creation_choose_end_sub_header
 TEXT: Titik akhir Rute
 
 RESOURCE ID: route_creation_choose_new_end_body
-TEXT: Kamu harus berada di PokeStop ini untuk menyelesaikan perekeman Rute. Kamu dapat mengganti titik akhir ketika merekam.
+TEXT: Pencatatan jalur harus dilakukan daeri Titik Mulai hingga Titik Akhir ini. Kamu dapat mengubah Titik Akhir kapan pun.
 
 RESOURCE ID: route_creation_choose_new_end_header
-TEXT: Pilih PokeStop
+TEXT: Pilih PokeStop atau Gym sebagai
 
 RESOURCE ID: route_creation_choose_new_end_sub_header
 TEXT: Titik akhir Rute.
 
 RESOURCE ID: route_creation_choose_new_start_body
-TEXT: Pergi ke PokeStop ini untuk memulai perekaman Rute.
+TEXT: Pencatatan jalur akan dimulai setelah kamu mencapai Titik Mulai ini. Titik Mulai tidak dapat diubah begitu pencatatan jalur dimulai.
 
 RESOURCE ID: route_creation_choose_new_start_header
-TEXT: Pilih PokeStop
+TEXT: Pilih PokeStop atau Gym sebagai
 
 RESOURCE ID: route_creation_choose_new_start_sub_header
 TEXT: Titik awal Rute.
 
 RESOURCE ID: route_creation_choose_start_body
-TEXT: Pergi ke PokeStop ini untuk memulai perekaman Rute.
+TEXT: Pencatatan jalur akan dimulai setelah kamu mencapai Titik Mulai ini. Titik Mulai tidak dapat diubah begitu pencatatan jalur dimulai.
 
 RESOURCE ID: route_creation_choose_start_header
-TEXT: Pilih PokeStop
+TEXT: Pilih PokeStop atau Gym sebagai
 
 RESOURCE ID: route_creation_choose_start_sub_header
 TEXT: Titik awal Rute
@@ -68136,7 +68583,7 @@ RESOURCE ID: route_creation_start_recording_error_too_far
 TEXT: Perekaman tidak dapat dimulai karena sedang tidak berada di dekat titik awal.
 
 RESOURCE ID: route_creation_submit
-TEXT: KIRIM PEMBUATAN DEBUG
+TEXT: DEBUG CREATION SUBMIT
 
 RESOURCE ID: route_creator_label
 TEXT: PEMBUAT RUTE
@@ -68597,6 +69044,9 @@ TEXT: Jika berhenti menelusuri Rute ini, progresmu saat ini akan hilang. Tindaka
 RESOURCE ID: route_stop_report
 TEXT: Jika kamu mengalami isu di Rute ini yang membuatmu terhalang dalam menyelesaikannya, kamu dapat melaporkannya <color=#{0}>di sini</color>.
 
+RESOURCE ID: route_stop_start_new_button
+TEXT: Start new route
+
 RESOURCE ID: route_stop_title
 TEXT: Yakin ingin berhenti menelusuri rute ini?
 
@@ -68723,7 +69173,7 @@ RESOURCE ID: route_submission_result_unknown_error
 TEXT: Terjadi kesalahan yang tidak diketahui dalam pengajuan Rute. Coba lagi nanti.
 
 RESOURCE ID: route_submission_reversible
-TEXT: Apakah Rute ini dapat ditelusuri secara terbalik?
+TEXT: Izinkan Rute ini agar dapat ditelusuri secara terbalik.
 
 RESOURCE ID: route_submission_review_adjust
 TEXT: LAKUKAN PENYESUAIAN
@@ -68744,7 +69194,7 @@ RESOURCE ID: route_submission_select_color_prompt
 TEXT: Pilih warna tajuk Lencana Rutemu:
 
 RESOURCE ID: route_submission_show_name
-TEXT: Apakah kamu ingin menampilkan nama Pelatihmu di deskripsi Rute? Ini akan membuat Pelatih lain dapat melihat namamu.
+TEXT: Tampilkan nama Pelatih sebagai Pembuat Rute pada informasi Rute yang dipublikasikan.
 
 RESOURCE ID: route_submission_start_title
 TEXT: Detail Rutemu
@@ -69238,77 +69688,59 @@ TEXT: Safari Zone: Gunakan {0} Beri Razz untuk mempermudah penangkapan Pokémon
 RESOURCE ID: safari_buddy_snapshot
 TEXT: Safari Zone: Ambil foto partnermu
 
+RESOURCE ID: safari_city_2023_barcelona_title
+TEXT: City Safari: Barcelona 2023
+
+RESOURCE ID: safari_city_2023_barcelona_title_00
+TEXT: City Safari: Barcelona 2023 (1/3)
+
+RESOURCE ID: safari_city_2023_barcelona_title_01
+TEXT: City Safari: Barcelona 2023 (2/3)
+
+RESOURCE ID: safari_city_2023_barcelona_title_02
+TEXT: City Safari: Barcelona 2023 (3/3)
+
+RESOURCE ID: safari_city_2023_mexico_city_title
+TEXT: City Safari: Kota Meksiko 2023
+
+RESOURCE ID: safari_city_2023_mexico_city_title_00
+TEXT: City Safari: Kota Meksiko 2023 (1/3)
+
+RESOURCE ID: safari_city_2023_mexico_city_title_01
+TEXT: City Safari: Kota Meksiko 2023 (2/3)
+
+RESOURCE ID: safari_city_2023_mexico_city_title_02
+TEXT: City Safari: Kota Meksiko 2023 (3/3)
+
+RESOURCE ID: safari_city_2023_seoul_title
+TEXT: City Safari: Seoul 2023
+
+RESOURCE ID: safari_city_2023_seoul_title_00
+TEXT: City Safari: Seoul 2023 (1/3)
+
+RESOURCE ID: safari_city_2023_seoul_title_01
+TEXT: City Safari: Seoul 2023 (2/3)
+
+RESOURCE ID: safari_city_2023_seoul_title_02
+TEXT: City Safari: Seoul 2023 (3/3)
+
 RESOURCE ID: safari_city_leave_behind_title_barcelona
-TEXT: Barcelona City Safari: The Journey Continues
+TEXT: City Safari: Barcelona - Petualangan Bersambung
 
 RESOURCE ID: safari_city_leave_behind_title_barcelona_00
-TEXT: Barcelona City Safari: The Journey Continues (1/7)
-
-RESOURCE ID: safari_city_leave_behind_title_barcelona_01
-TEXT: Barcelona City Safari: The Journey Continues (2/7)
-
-RESOURCE ID: safari_city_leave_behind_title_barcelona_02
-TEXT: Barcelona City Safari: The Journey Continues (3/7)
-
-RESOURCE ID: safari_city_leave_behind_title_barcelona_03
-TEXT: Barcelona City Safari: The Journey Continues (4/7)
-
-RESOURCE ID: safari_city_leave_behind_title_barcelona_04
-TEXT: Barcelona City Safari: The Journey Continues (5/7)
-
-RESOURCE ID: safari_city_leave_behind_title_barcelona_05
-TEXT: Barcelona City Safari: The Journey Continues (6/7)
-
-RESOURCE ID: safari_city_leave_behind_title_barcelona_06
-TEXT: Barcelona City Safari: The Journey Continues (7/7)
+TEXT: City Safari: Barcelona - Petualangan Bersambung (1/1)
 
 RESOURCE ID: safari_city_leave_behind_title_mxc
-TEXT: Mexico City Safari: The Journey Continues
+TEXT: City Safari: Meksiko - Petualangan Bersambung
 
 RESOURCE ID: safari_city_leave_behind_title_mxc_00
-TEXT: Mexico City Safari: The Journey Continues (1/7)
-
-RESOURCE ID: safari_city_leave_behind_title_mxc_01
-TEXT: Mexico City Safari: The Journey Continues (2/7)
-
-RESOURCE ID: safari_city_leave_behind_title_mxc_02
-TEXT: Mexico City Safari: The Journey Continues (3/7)
-
-RESOURCE ID: safari_city_leave_behind_title_mxc_03
-TEXT: Mexico City Safari: The Journey Continues (4/7)
-
-RESOURCE ID: safari_city_leave_behind_title_mxc_04
-TEXT: Mexico City Safari: The Journey Continues (5/7)
-
-RESOURCE ID: safari_city_leave_behind_title_mxc_05
-TEXT: Mexico City Safari: The Journey Continues (6/7)
-
-RESOURCE ID: safari_city_leave_behind_title_mxc_06
-TEXT: Mexico City Safari: The Journey Continues (7/7)
+TEXT: City Safari: Meksiko - Petualangan Bersambung (1/1)
 
 RESOURCE ID: safari_city_leave_behind_title_seoul
-TEXT: Seoul City Safari: The Journey Continues
+TEXT: City Safari: Seoul - Petualangan Bersambung
 
 RESOURCE ID: safari_city_leave_behind_title_seoul_00
-TEXT: Seoul City Safari: The Journey Continues (1/7)
-
-RESOURCE ID: safari_city_leave_behind_title_seoul_01
-TEXT: Seoul City Safari: The Journey Continues (2/7)
-
-RESOURCE ID: safari_city_leave_behind_title_seoul_02
-TEXT: Seoul City Safari: The Journey Continues (3/7)
-
-RESOURCE ID: safari_city_leave_behind_title_seoul_03
-TEXT: Seoul City Safari: The Journey Continues (4/7)
-
-RESOURCE ID: safari_city_leave_behind_title_seoul_04
-TEXT: Seoul City Safari: The Journey Continues (5/7)
-
-RESOURCE ID: safari_city_leave_behind_title_seoul_05
-TEXT: Seoul City Safari: The Journey Continues (6/7)
-
-RESOURCE ID: safari_city_leave_behind_title_seoul_06
-TEXT: Seoul City Safari: The Journey Continues (7/7)
+TEXT: City Safari: Seoul - Petualangan Bersambung (1/1)
 
 RESOURCE ID: safari_event
 TEXT: Pokémon GO Safari Zone
@@ -69431,31 +69863,31 @@ RESOURCE ID: score_11_705_singular
 TEXT: Menggunakan 1 Beri Pinap
 
 RESOURCE ID: score_15_10_none
-TEXT: Lakukan 0 Lemparan Melengkung: Nice
+TEXT: Melakukan 0 Lemparan Melengkung: Nice
 
 RESOURCE ID: score_15_10_plural
-TEXT: Lakukan {0} Lemparan Melengkung: Nice
+TEXT: Melakukan {0} Lemparan Melengkung: Nice
 
 RESOURCE ID: score_15_10_singular
-TEXT: Lakukan 1 Lemparan Melengkung: Nice
+TEXT: Melakukan 1 Lemparan Melengkung: Nice
 
 RESOURCE ID: score_15_11_none
-TEXT: Lakukan 0 Lemparan Melengkung: Great
+TEXT: Melakukan 0 Lemparan Melengkung: Great
 
 RESOURCE ID: score_15_11_plural
-TEXT: Lakukan {0} Lemparan Melengkung: Great
+TEXT: Melakukan {0} Lemparan Melengkung: Great
 
 RESOURCE ID: score_15_11_singular
-TEXT: Lakukan 1 Lemparan Melengkung: Great
+TEXT: Melakukan 1 Lemparan Melengkung: Great
 
 RESOURCE ID: score_15_12_none
-TEXT: Lakukan 0 Lemparan Melengkung: Excellent
+TEXT: Melakukan 0 Lemparan Melengkung: Excellent
 
 RESOURCE ID: score_15_12_plural
-TEXT: Lakukan {0} Lemparan Melengkung: Excellent
+TEXT: Melakukan {0} Lemparan Melengkung: Excellent
 
 RESOURCE ID: score_15_12_singular
-TEXT: Lakukan 1 Lemparan Melengkung: Excellent
+TEXT: Melakukan 1 Lemparan Melengkung: Excellent
 
 RESOURCE ID: score_1_10_11_12_singular
 TEXT: Menangkap {0} Pokémon Tipe Api, Tipe Air, atau Tipe Daun
@@ -69539,13 +69971,13 @@ RESOURCE ID: score_8_12_singular
 TEXT: Melakukan 1 Excellent Throw
 
 RESOURCE ID: score_8_13_none
-TEXT: Lakukan 0 Lemparan Melengkung
+TEXT: Melakukan 0 Lemparan Melengkung
 
 RESOURCE ID: score_8_13_plural
-TEXT: Lakukan {0} Lemparan Melengkung
+TEXT: Melakukan {0} Lemparan Melengkung
 
 RESOURCE ID: score_8_13_singular
-TEXT: Lakukan 1 Lemparan Melengkung
+TEXT: Melakukan 1 Lemparan Melengkung
 
 RESOURCE ID: score_battle_raid_none
 TEXT: Bertarung di 0 Raid
@@ -69798,6 +70230,21 @@ TEXT: Mengirimkan Hadiah ke {0}.
 
 RESOURCE ID: sent_you_a_gift
 TEXT: {0} mengirimkan Hadiah!
+
+RESOURCE ID: seoul_catch_cup_title
+TEXT: Piala Instan: Seoul
+
+RESOURCE ID: sep23_paldea_collection_challenge_1
+TEXT: Tantangan Koleksi Sprigatito
+
+RESOURCE ID: sep23_paldea_collection_challenge_2
+TEXT: Tantangan Koleksi Fuecoco
+
+RESOURCE ID: sep23_paldea_collection_challenge_3
+TEXT: Tantangan Koleksi Quaxly
+
+RESOURCE ID: sep23_paldea_collection_challenge_4
+TEXT: Tantangan Koleksi Lechonk
 
 RESOURCE ID: server_lockout
 TEXT: Pokémon GO sedang dalam perbaikan saat ini.  Coba lagi nanti.
@@ -70120,6 +70567,9 @@ TEXT: Notifikasi Rute
 
 RESOURCE ID: settings_route_guidance_tip
 TEXT: Memberikan notifikasi saat kamu mendekati titik akhir Rute atau kemunculan sesuatu yang misterius.
+
+RESOURCE ID: settings_save_image_tip
+TEXT: Simpan gambar ke perangkat saat mengambil foto dengan AR
 
 RESOURCE ID: settings_select_legendary_label
 TEXT: Perluas Grup Transfer
@@ -71102,6 +71552,9 @@ TEXT: Sambungkan teman dari Facebook
 RESOURCE ID: social_add_friend_qr
 TEXT: Kode QR
 
+RESOURCE ID: social_add_friend_qr_v2
+TEXT: PINDAI KODE QR
+
 RESOURCE ID: social_add_friends
 TEXT: Tambahkan Teman
 
@@ -71165,6 +71618,9 @@ TEXT: Kirim Permintaan Berteman dengan memasukkan Kode Pelatih temanmu.
 
 RESOURCE ID: social_send_my_code
 TEXT: BAGIKAN KODE PELATIH
+
+RESOURCE ID: social_send_my_code_v2
+TEXT: BAGIKAN KODE
 
 RESOURCE ID: solrock_lunatone_regions
 TEXT: Lunatone dan Solrock yang muncul di wilayah yang berbeda
@@ -73855,6 +74311,9 @@ TEXT: Tiket untuk cerita Penelitian Spesial: Hari Komunitas Klasik Bulbasaur ter
 RESOURCE ID: ticket_charmander
 TEXT: Tiket untuk cerita Penelitian Spesial: Kisah Si Berekor tersedia di toko
 
+RESOURCE ID: ticket_charmander_cdc
+TEXT: Tiket untuk cerita Penelitian Spesial: Hari Komunitas Klasik Charmander tersedia di toko
+
 RESOURCE ID: ticket_chespin
 TEXT: Tiket untuk cerita Penelitian Spesial: Duri Berkualitas tersedia di toko
 
@@ -74126,7 +74585,7 @@ RESOURCE ID: timed_research_pokemon_snubbull
 TEXT: Snubbull terpilih dalam Penelitian Berwaktu
 
 RESOURCE ID: timed_trial_mb_research_title
-TEXT: Percobaan Berwaktu: Bola Master
+TEXT: Investigasi Berwaktu: Bola Master
 
 RESOURCE ID: tips_battle_at_gyms_tutorial_body
 TEXT: Kamu dapat mengeklaim Gym yang dikendalikan oleh tim lawan dengan mengalahkan Pokémon di Gym. Jika kamu menurunkan motivasi semua Pokémon di Gym menjadi nol, kamu dapat mengeklaim Gym untuk timmu.
@@ -74140,8 +74599,16 @@ TEXT: Pokémon GO lebih seru dimainkan bersama teman! Tambahkan teman atau undan
 RESOURCE ID: tips_friends_list_no_friends_title
 TEXT: Tambahkan Teman
 
+RESOURCE ID: tips_friends_online_status_body
+TEXT: Anda dapat menampilkan Status Daring sekarang atau mengaktifkan atau menonaktifkan menggunakan tombol Daring/Luring di Daftar Teman.
+
+Status Daring Anda memberi tahukan teman Anda saat Anda sedang bermain.
+
+RESOURCE ID: tips_friends_online_status_title
+TEXT: Status Daring
+
 RESOURCE ID: tips_friends_tutorial_add_body
-TEXT: Tambahkan teman dengan kode Pelatih atau memindai Kode QR. Kamu juga bisa menambahkan teman dengan menautkan akunmu ke Facebook di layar Tambahkan Teman.
+TEXT: Tambahkan teman dengan kode Pelatih atau memindai Kode QR. Menambahkan teman di Pokémon GO juga akan menambahkan mereka semua ke game Niantic lain yang juga kalian mainkan. Kamu juga bisa menambahkan teman dengan menautkan akunmu ke Facebook di layar Tambahkan Teman.
 
 RESOURCE ID: tips_friends_tutorial_add_title
 TEXT: Tambahkan Teman
@@ -75152,7 +75619,7 @@ RESOURCE ID: trade_friend_not_present
 TEXT: Menunggu {0} tersedia untuk pertukaran.
 
 RESOURCE ID: trade_guaranteed_candyxl
-TEXT: Permen XL terjamin ketika menukarkan Pokémon
+TEXT: Dijamin Permen XL ketika menukarkan Pokémon
 
 RESOURCE ID: trade_legendary_non_pokedex
 TEXT: Semua Pokémon Legendaris
@@ -75489,6 +75956,9 @@ TEXT: Sepertinya kamu menemukan Permen XL. Aku pernah dengar bahwa kamu dapat me
 RESOURCE ID: tutorial_xl_candy_2
 TEXT: Adanya kesempatan untuk bisa menemukan Permen XL setelah menangkap Pokémon. Makin kuat Pokémon, makin besar peluang untuk menemukan Permen XL.
 
+RESOURCE ID: twelve_free_raid_passes
+TEXT: Dapatkan hingga 12 Tiket Raid gratis dengan memutar Disk Foto di Gym
+
 RESOURCE ID: two_free_raid_passes
 TEXT: Hingga dua Tiket Raid gratis setiap harinya dengan memutar Disk Foto Gym
 
@@ -75665,6 +76135,12 @@ TEXT: Kedatangan Ultra Beast (7/8)
 
 RESOURCE ID: ub_arrival_title_07
 TEXT: Kedatangan Ultra Beast (8/8)
+
+RESOURCE ID: ultra23_lechonk_tr_1
+TEXT: Petualangan Lechonk
+
+RESOURCE ID: ultra23_pawmi_tr_1
+TEXT: Aku Bersamamu
 
 RESOURCE ID: ultra_anniversary_2022_event_name
 TEXT: Buka Ultra: Event Hari Jadi
@@ -76486,10 +76962,10 @@ RESOURCE ID: water_festival_catch_timed_research
 TEXT: Festival Air: Tantangan Tangkapan
 
 RESOURCE ID: water_festival_catch_timed_research_1
-TEXT: Festival Air: Penelitian Terbatas (1/2)
+TEXT: Festival Air: Penelitian Berwaktu (1/2)
 
 RESOURCE ID: water_festival_catch_timed_research_2
-TEXT: Festival Air: Penelitian Terbatas (2/2)
+TEXT: Festival Air: Penelitian Berwaktu (2/2)
 
 RESOURCE ID: water_festival_event_name
 TEXT: Festival Air

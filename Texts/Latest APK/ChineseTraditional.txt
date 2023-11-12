@@ -1758,6 +1758,9 @@ TEXT: 吼吼鯨水壺
 RESOURCE ID: avatar_f_backpack_nike2021_00_bundle_icon
 TEXT: NIKE HERITAGE 背包
 
+RESOURCE ID: avatar_f_backpack_pamobackpack_00_bundle_icon
+TEXT: 布撥背包
+
 RESOURCE ID: avatar_f_backpack_pkmnhoodie001_0_bundle_icon
 TEXT: 種子背包
 
@@ -1783,6 +1786,10 @@ TEXT: 帕底亞主角風
 RESOURCE ID: avatar_f_backpack_svcostumevioletschool_00_bundle_icon
 TEXT: 帕底亞主角風
 紫版背包
+
+RESOURCE ID: avatar_f_backpack_svdlc1_00_bundle_icon
+TEXT: 帕底亞地區款
+北上鄉背包
 
 RESOURCE ID: avatar_f_backpack_swshdlc2costume_00_bundle_icon
 TEXT: 王冠雪原 背包
@@ -1958,6 +1965,9 @@ TEXT: 不戴手套
 
 RESOURCE ID: avatar_f_gloves_frlg_bundle_icon
 TEXT: 葉子手環
+
+RESOURCE ID: avatar_f_gloves_geeta_00_bundle_icon
+TEXT: 也慈手套
 
 RESOURCE ID: avatar_f_gloves_giovanni_0_bundle_icon
 TEXT: 阪木手套
@@ -2154,6 +2164,9 @@ TEXT: 黏黏寶帽
 
 RESOURCE ID: avatar_f_hat_greencoat_00_bundle_icon
 TEXT: 假日盛裝 帽子
+
+RESOURCE ID: avatar_f_hat_growlithehelmet_00_bundle_icon
+TEXT: 洗翠卡蒂狗造型假髮
 
 RESOURCE ID: avatar_f_hat_guccihat_00_bundle_icon
 TEXT: The North Face x Gucci 帽子
@@ -2482,6 +2495,9 @@ TEXT: 葉子短裙
 RESOURCE ID: avatar_f_pants_fw2022_00_bundle_icon
 TEXT: 好壞星短褲
 
+RESOURCE ID: avatar_f_pants_geeta_00_bundle_icon
+TEXT: 也慈長褲
+
 RESOURCE ID: avatar_f_pants_genderlessskirt_00_bundle_icon
 TEXT: 一片裙套組
 
@@ -2750,6 +2766,9 @@ TEXT: 好壞星外套
 
 RESOURCE ID: avatar_f_shirt_galarfarfetchditems_00_bundle_icon
 TEXT: 伽勒爾大蔥鴨T恤+小包套組
+
+RESOURCE ID: avatar_f_shirt_geeta_00_bundle_icon
+TEXT: 也慈上衣
 
 RESOURCE ID: avatar_f_shirt_genderlessskirt_00_bundle_icon
 TEXT: 西裝外套組合
@@ -3101,6 +3120,10 @@ RESOURCE ID: avatar_f_shirt_svcostumevioletschool_00_bundle_icon
 TEXT: 帕底亞主角風
 紫版裝扮
 
+RESOURCE ID: avatar_f_shirt_svdlc1_00_bundle_icon
+TEXT: 帕底亞地區款
+北上鄉組合
+
 RESOURCE ID: avatar_f_shirt_sweater_30_bundle_icon
 TEXT: 30紀念款
 
@@ -3323,6 +3346,9 @@ TEXT: 葉子鞋
 RESOURCE ID: avatar_f_shoes_fw2022_00_bundle_icon
 TEXT: 好壞星球鞋
 
+RESOURCE ID: avatar_f_shoes_geeta_00_bundle_icon
+TEXT: 也慈鞋子
+
 RESOURCE ID: avatar_f_shoes_giovanni_0_bundle_icon
 TEXT: 阪木皮鞋
 
@@ -3433,6 +3459,10 @@ TEXT: 帕底亞主角風
 RESOURCE ID: avatar_f_shoes_svcostumevioletschool_00_bundle_icon
 TEXT: 帕底亞主角風
 紫版皮鞋
+
+RESOURCE ID: avatar_f_shoes_svdlc1_00_bundle_icon
+TEXT: 帕底亞地區款
+北上鄉鞋子
 
 RESOURCE ID: avatar_f_shoes_swshdlc2costume_00_bundle_icon
 TEXT: 王冠雪原 靴子
@@ -3647,6 +3677,9 @@ TEXT: 吼吼鯨水壺
 RESOURCE ID: avatar_m_backpack_nike2021_00_bundle_icon
 TEXT: NIKE HERITAGE 背包
 
+RESOURCE ID: avatar_m_backpack_pamobackpack_00_bundle_icon
+TEXT: 布撥背包
+
 RESOURCE ID: avatar_m_backpack_pkmnhoodie001_0_bundle_icon
 TEXT: 種子背包
 
@@ -3672,6 +3705,10 @@ TEXT: 帕底亞主角風
 RESOURCE ID: avatar_m_backpack_svcostumevioletschool_00_bundle_icon
 TEXT: 帕底亞主角風
 紫版背包
+
+RESOURCE ID: avatar_m_backpack_svdlc1_00_bundle_icon
+TEXT: 帕底亞地區款
+北上鄉背包
 
 RESOURCE ID: avatar_m_backpack_swshdlc2costume_00_bundle_icon
 TEXT: 王冠雪原 背包
@@ -3829,6 +3866,9 @@ TEXT: 不戴手套
 
 RESOURCE ID: avatar_m_gloves_frlg_bundle_icon
 TEXT: 火焰手環
+
+RESOURCE ID: avatar_m_gloves_geeta_00_bundle_icon
+TEXT: 也慈手套
 
 RESOURCE ID: avatar_m_gloves_giovanni_0_bundle_icon
 TEXT: 阪木手套
@@ -4029,6 +4069,9 @@ TEXT: 黏黏寶帽
 
 RESOURCE ID: avatar_m_hat_greencoat_00_bundle_icon
 TEXT: 假日盛裝 帽子
+
+RESOURCE ID: avatar_m_hat_growlithehelmet_00_bundle_icon
+TEXT: 洗翠卡蒂狗造型假髮
 
 RESOURCE ID: avatar_m_hat_guccihat_00_bundle_icon
 TEXT: The North Face x Gucci 帽子
@@ -4348,6 +4391,9 @@ TEXT: 火焰長褲
 RESOURCE ID: avatar_m_pants_fw2022_00_bundle_icon
 TEXT: 好壞星短褲
 
+RESOURCE ID: avatar_m_pants_geeta_00_bundle_icon
+TEXT: 也慈長褲
+
 RESOURCE ID: avatar_m_pants_genderlessskirt_00_bundle_icon
 TEXT: 一片裙套組
 
@@ -4622,6 +4668,9 @@ TEXT: 好壞星外套
 
 RESOURCE ID: avatar_m_shirt_galarfarfetchditems_00_bundle_icon
 TEXT: 伽勒爾大蔥鴨T恤+小包套組
+
+RESOURCE ID: avatar_m_shirt_geeta_00_bundle_icon
+TEXT: 也慈上衣
 
 RESOURCE ID: avatar_m_shirt_genderlessskirt_00_bundle_icon
 TEXT: 西裝外套組合
@@ -4979,6 +5028,10 @@ RESOURCE ID: avatar_m_shirt_svcostumevioletschool_00_bundle_icon
 TEXT: 帕底亞主角風
 紫版裝扮
 
+RESOURCE ID: avatar_m_shirt_svdlc1_00_bundle_icon
+TEXT: 帕底亞地區款
+北上鄉組合
+
 RESOURCE ID: avatar_m_shirt_sweatshirt_sporty_bundle_icon
 TEXT: 運動連帽上衣
 
@@ -5198,6 +5251,9 @@ TEXT: 火焰鞋
 RESOURCE ID: avatar_m_shoes_fw2022_00_bundle_icon
 TEXT: 好壞星球鞋
 
+RESOURCE ID: avatar_m_shoes_geeta_00_bundle_icon
+TEXT: 也慈鞋子
+
 RESOURCE ID: avatar_m_shoes_giovanni_0_bundle_icon
 TEXT: 阪木皮鞋
 
@@ -5308,6 +5364,10 @@ TEXT: 帕底亞主角風
 RESOURCE ID: avatar_m_shoes_svcostumevioletschool_00_bundle_icon
 TEXT: 帕底亞主角風
 紫版皮鞋
+
+RESOURCE ID: avatar_m_shoes_svdlc1_00_bundle_icon
+TEXT: 帕底亞地區款
+北上鄉鞋子
 
 RESOURCE ID: avatar_m_shoes_swshdlc2costume_00_bundle_icon
 TEXT: 王冠雪原 靴子
@@ -6191,6 +6251,78 @@ TEXT: WCS 2023：獎勵限時調查
 
 RESOURCE ID: badge_event_0074_title
 TEXT: Dancing Rob的派對
+
+RESOURCE ID: badge_event_0075
+TEXT: 合作夥伴特別調查 – 冒險時光：SoftBank
+
+RESOURCE ID: badge_event_0075_title
+TEXT: 合作夥伴特別調查：SoftBank
+
+RESOURCE ID: badge_event_0075_title_00
+TEXT: 合作夥伴特別調查：SoftBank (1/4)
+
+RESOURCE ID: badge_event_0075_title_01
+TEXT: 合作夥伴特別調查：SoftBank (2/4)
+
+RESOURCE ID: badge_event_0075_title_02
+TEXT: 合作夥伴特別調查：SoftBank (3/4)
+
+RESOURCE ID: badge_event_0075_title_03
+TEXT: 合作夥伴特別調查：SoftBank (4/4)
+
+RESOURCE ID: badge_event_0076
+TEXT: 合作夥伴特別調查 – 冒險時光：南海電鐵
+
+RESOURCE ID: badge_event_0076_title
+TEXT: 合作夥伴特別調查：南海電鐵
+
+RESOURCE ID: badge_event_0076_title_00
+TEXT: 合作夥伴特別調查：南海電鐵 (1/4)
+
+RESOURCE ID: badge_event_0076_title_01
+TEXT: 合作夥伴特別調查：南海電鐵 (2/4)
+
+RESOURCE ID: badge_event_0076_title_02
+TEXT: 合作夥伴特別調查：南海電鐵 (3/4)
+
+RESOURCE ID: badge_event_0076_title_03
+TEXT: 合作夥伴特別調查：南海電鐵 (4/4)
+
+RESOURCE ID: badge_event_0077
+TEXT: 合作夥伴特別調查 – 冒險時光：SUMITOMO LIFE
+
+RESOURCE ID: badge_event_0077_title
+TEXT: 合作夥伴特別調查：SUMITOMO LIFE
+
+RESOURCE ID: badge_event_0077_title_00
+TEXT: 合作夥伴特別調查：SUMITOMO LIFE (1/4)
+
+RESOURCE ID: badge_event_0077_title_01
+TEXT: 合作夥伴特別調查：SUMITOMO LIFE (2/4)
+
+RESOURCE ID: badge_event_0077_title_02
+TEXT: 合作夥伴特別調查：SUMITOMO LIFE (3/4)
+
+RESOURCE ID: badge_event_0077_title_03
+TEXT: 合作夥伴特別調查：SUMITOMO LIFE (4/4)
+
+RESOURCE ID: badge_event_0078
+TEXT: 合作夥伴特別調查 – 冒險時光：台灣全家便利商店
+
+RESOURCE ID: badge_event_0078_title
+TEXT: 合作夥伴特別調查：台灣全家便利商店
+
+RESOURCE ID: badge_event_0078_title_00
+TEXT: 合作夥伴特別調查：台灣全家便利商店 (1/4)
+
+RESOURCE ID: badge_event_0078_title_01
+TEXT: 合作夥伴特別調查：台灣全家便利商店 (2/4)
+
+RESOURCE ID: badge_event_0078_title_02
+TEXT: 合作夥伴特別調查：台灣全家便利商店 (3/4)
+
+RESOURCE ID: badge_event_0078_title_03
+TEXT: 合作夥伴特別調查：台灣全家便利商店 (4/4)
 
 RESOURCE ID: badge_event_yoshinoya
 TEXT: 2021年5月：吉野家
@@ -7629,6 +7761,60 @@ TEXT: GO Safari Zone - 2017年歐洲
 RESOURCE ID: badge_safari_zone_europe_2017_title
 TEXT: GO Safari Zone - Europe 2017
 
+RESOURCE ID: badge_safaricity_2023_barcelona_day_00_general
+TEXT: 巴塞隆納2023
+
+RESOURCE ID: badge_safaricity_2023_barcelona_day_00_general_title
+TEXT: Pokémon GO City Safari
+
+RESOURCE ID: badge_safaricity_2023_barcelona_day_01_general
+TEXT: 巴塞隆納，2023年10月13日
+
+RESOURCE ID: badge_safaricity_2023_barcelona_day_01_general_title
+TEXT: Pokémon GO City Safari
+
+RESOURCE ID: badge_safaricity_2023_barcelona_day_02_general
+TEXT: 巴塞隆納，2023年10月14日
+
+RESOURCE ID: badge_safaricity_2023_barcelona_day_02_general_title
+TEXT: Pokémon GO City Safari
+
+RESOURCE ID: badge_safaricity_2023_mexico_city_day_00_general
+TEXT: 墨西哥城2023
+
+RESOURCE ID: badge_safaricity_2023_mexico_city_day_00_general_title
+TEXT: Pokémon GO City Safari
+
+RESOURCE ID: badge_safaricity_2023_mexico_city_day_01_general
+TEXT: 墨西哥城，2023年11月4日
+
+RESOURCE ID: badge_safaricity_2023_mexico_city_day_01_general_title
+TEXT: Pokémon GO City Safari
+
+RESOURCE ID: badge_safaricity_2023_mexico_city_day_02_general
+TEXT: 墨西哥城，2023年11月5日
+
+RESOURCE ID: badge_safaricity_2023_mexico_city_day_02_general_title
+TEXT: Pokémon GO City Safari
+
+RESOURCE ID: badge_safaricity_2023_seoul_day_00_general
+TEXT: 首爾2023
+
+RESOURCE ID: badge_safaricity_2023_seoul_day_00_general_title
+TEXT: Pokémon GO City Safari
+
+RESOURCE ID: badge_safaricity_2023_seoul_day_01_general
+TEXT: 首爾，2023年10月7日
+
+RESOURCE ID: badge_safaricity_2023_seoul_day_01_general_title
+TEXT: Pokémon GO City Safari
+
+RESOURCE ID: badge_safaricity_2023_seoul_day_02_general
+TEXT: 首爾，2023年10月8日
+
+RESOURCE ID: badge_safaricity_2023_seoul_day_02_general_title
+TEXT: Pokémon GO City Safari
+
 RESOURCE ID: badge_safarizone_2019_montreal_day_00_earlyaccess
 TEXT: 2019年9月19日 蒙特婁
 
@@ -8433,6 +8619,9 @@ TEXT: 帳號永久停權
 
 RESOURCE ID: banned_player_lockout_2
 TEXT: 詳細資訊
+
+RESOURCE ID: barcelona_catch_cup_title
+TEXT: 速成盃：巴塞隆納
 
 RESOURCE ID: batch_transfer_confirm
 TEXT: <size=36>確定要將這 {0} 隻寶可夢傳送給博士嗎？</size>
@@ -11266,6 +11455,9 @@ TEXT: 阿羅拉隆隆石進化成阿羅拉隆隆岩後，將能學會「滾動�
 RESOURCE ID: bonus_cd_move_axew
 TEXT: 讓斧牙龍進化成雙斧戰龍後，牠將能學會特殊招式「廣域破壞」！
 
+RESOURCE ID: bonus_cd_move_charmander
+TEXT: 讓火恐龍進化成噴火龍後，牠就能學會一般招式「龍息」與特殊招式「爆炸烈焰」！
+
 RESOURCE ID: bonus_cd_move_chespin
 TEXT: 讓胖胖哈力進化成布里卡隆，牠就能學會特殊招式「瘋狂植物」！
 
@@ -11323,6 +11515,24 @@ TEXT: 讓伽勒爾直衝熊進化成堵攔熊後，牠就能學會特殊招式�
 RESOURCE ID: bonus_cd_ultra_unlock
 TEXT: 究極獎勵：捕捉寶可夢的XP及傳送寶可夢時的糖果加倍
 
+RESOURCE ID: bonus_choice_2x_incense
+TEXT: 薰香時間加倍
+
+RESOURCE ID: bonus_choice_2x_incense_desc
+TEXT: 會延長購買入場券遊玩時薰香的效果持續時間。
+
+RESOURCE ID: bonus_choice_2x_lucky_egg
+TEXT: 幸運蛋時間加倍
+
+RESOURCE ID: bonus_choice_2x_lucky_egg_desc
+TEXT: 會延長購買入場券遊玩時幸運蛋的效果持續時間。
+
+RESOURCE ID: bonus_choice_2x_star_piece
+TEXT: 星星碎片時間加倍
+
+RESOURCE ID: bonus_choice_2x_star_piece_desc
+TEXT: 會延長購買入場券遊玩時星星碎片的效果持續時間。
+
 RESOURCE ID: bonus_double_guaranteed_xl_evolve
 TEXT: 進化寶可夢必得2顆糖果XL
 
@@ -11348,10 +11558,10 @@ RESOURCE ID: bonus_fr_party_pikachu
 TEXT: 完成在見面會寶可補給站獲得的田野調查課題後，就能遇見戴著派對帽的皮卡丘
 
 RESOURCE ID: bonus_friendship_levelup_1.5x
-TEXT: 1.5× XP from increasing Friendship levels
+TEXT: 友誼等級提升時可獲得的XP變成1.5倍
 
 RESOURCE ID: bonus_friendship_levelup_2x
-TEXT: 2× XP from increasing Friendship levels
+TEXT: 友誼等級提升時可獲得的XP加倍
 
 RESOURCE ID: bonus_friendship_raid_double
 TEXT: 和朋友一起參加團體戰時攻擊獎勵加倍
@@ -11515,6 +11725,12 @@ TEXT: 在團體戰中捕捉到的烈空坐將學會「廣域破壞」
 RESOURCE ID: bonus_purrloin_o_clock
 TEXT: 每個小時整點時，扒手貓將會大量出現！
 
+RESOURCE ID: bonus_raid_1_xl_candy
+TEXT: 在五星團體戰和超級團體戰捕捉到頭目寶可夢時，將可多獲得1顆糖果XL
+
+RESOURCE ID: bonus_raid_3_candy
+TEXT: 在五星團體戰和超級團體戰捕捉到頭目寶可夢時，將可多獲得3顆糖果
+
 RESOURCE ID: bonus_raid_3_xl_candy
 TEXT: 在五星團體戰、超級團體戰和原始團體戰捕捉到頭目寶可夢時，將可多獲得3顆糖果XL
 
@@ -11597,7 +11813,7 @@ RESOURCE ID: bonus_reward_quarter_hatch_distance
 TEXT: 孵蛋所需的行走距離減為1/4
 
 RESOURCE ID: bonus_rrp_limit_uncap
-TEXT: 已達到本日遠距團體戰參戰次數上限
+TEXT: 遠距團體戰的每日參戰次數無上限
 
 RESOURCE ID: bonus_singapore_photobomb
 TEXT: 太陽珊瑚和花花T恤皮卡丘將在GO Snapshot裡驚喜現身5次！
@@ -11650,8 +11866,32 @@ TEXT: 打敗GO火箭隊手下時將可獲得更多星星沙子
 RESOURCE ID: bonus_tgr_stardust_leader
 TEXT: 打敗GO火箭隊幹部時將可獲得更多星星沙子
 
+RESOURCE ID: bonus_today_3_hr_lure_regular_only
+TEXT: 一般的誘餌模組效果延長為3小時
+
+RESOURCE ID: bonus_today_event_tr
+TEXT: 現可領取活動限定的限時調查
+
+RESOURCE ID: bonus_today_plus_100_stardust
+TEXT: 捕獲寶可夢時的星星沙子 +100
+
+RESOURCE ID: bonus_today_special_lure_regular_only
+TEXT: 一般的誘餌模組正在發揮效果，吸引活動主題寶可夢
+
 RESOURCE ID: bonus_total_6_special_trades
 TEXT: 一天最多6次特殊交換
+
+RESOURCE ID: bonus_tr_gbl_championships_2024_a_desc
+TEXT: 獎勵限時調查
+
+RESOURCE ID: bonus_tr_gbl_championships_2024_a_title
+TEXT: 暖身挑戰
+
+RESOURCE ID: bonus_tr_gbl_championships_2024_b_desc
+TEXT: 獎勵限時調查
+
+RESOURCE ID: bonus_tr_gbl_championships_2024_b_title
+TEXT: 誘餌挑戰
 
 RESOURCE ID: bonus_trade_stardust_50pc_5hr
 TEXT: 在活動結束五小時後的最後期限前，交換所需的星星沙子減半.
@@ -12601,6 +12841,12 @@ TEXT: 細小的彈簧，已經完全鬆掉。
 
 RESOURCE ID: buddy_souvenir_stretchy_spring_name
 TEXT: 鬆掉的彈簧
+
+RESOURCE ID: buddy_souvenir_tiny_compass
+TEXT: 小型指南針
+
+RESOURCE ID: buddy_souvenir_tiny_compass_desc
+TEXT: 讓你隨時可以回到夥伴寶可夢身邊的指南針
 
 RESOURCE ID: buddy_souvenir_torn_ticket_description
 TEXT: 一張被撕壞的票，上面印的字都褪色了。也許你的夥伴寶可夢覺得它還可以用？
@@ -15181,7 +15427,7 @@ RESOURCE ID: combat_title_season_11
 TEXT: GO對戰聯盟：隱藏的寶石
 
 RESOURCE ID: combat_title_season_12
-TEXT: GO Battle League: Adventures Abound
+TEXT: GO對戰聯盟：冒險時光
 
 RESOURCE ID: combat_title_season_7
 TEXT: GO對戰聯盟（GO的季節）行程表
@@ -15212,6 +15458,9 @@ TEXT: 經典社群日：妙蛙種子
 
 RESOURCE ID: community_day_charmander_event_name
 TEXT: 社群日：小火龍
+
+RESOURCE ID: community_day_charmander_event_name_cdc
+TEXT: 經典社群日：小火龍
 
 RESOURCE ID: community_day_chespin_event_name
 TEXT: 社群日：哈力栗
@@ -16233,6 +16482,24 @@ TEXT: 無法編輯標籤
 RESOURCE ID: edit_tag_gui_title
 TEXT: 編輯標籤
 
+RESOURCE ID: eevee_explorers_barcelona_title
+TEXT: 伊布探索：巴塞隆納
+
+RESOURCE ID: eevee_explorers_barcelona_title_00
+TEXT: 伊布探索：巴塞隆納 (1/8)
+
+RESOURCE ID: eevee_explorers_mexico_city_title
+TEXT: 伊布探索：墨西哥城
+
+RESOURCE ID: eevee_explorers_mexico_city_title_00
+TEXT: 伊布探索：墨西哥城 (1/8)
+
+RESOURCE ID: eevee_explorers_seoul_title
+TEXT: 伊布探索：首爾
+
+RESOURCE ID: eevee_explorers_seoul_title_00
+TEXT: 伊布探索：首爾 (1/8)
+
 RESOURCE ID: egg_anticipation
 TEXT: 會孵出什麼呢！？
 
@@ -16515,6 +16782,9 @@ TEXT: English
 
 RESOURCE ID: enter_friend_code_prompt
 TEXT: 若要新增朋友，請輸入該訓練家的代碼
+
+RESOURCE ID: enter_friend_code_prompt_v2
+TEXT: 輸入訓練家代碼或掃描二維條碼，傳送朋友申請
 
 RESOURCE ID: enter_tag_name_placeholder
 TEXT: 輸入標籤名
@@ -17227,11 +17497,17 @@ TEXT: 神幻之劍
 RESOURCE ID: event_name_bonus_generic
 TEXT: 額外獎勵活動
 
+RESOURCE ID: event_name_paldean_adventure
+TEXT: 究極解鎖：帕底亞
+
 RESOURCE ID: event_name_routes
 TEXT: 開拓新路
 
 RESOURCE ID: event_name_snap
 TEXT: 《New 寶可夢隨樂拍》慶典
+
+RESOURCE ID: event_name_ultra_unlock_23
+TEXT: 帕底亞的冒險
 
 RESOURCE ID: event_new_ditto_bonus
 TEXT: 更多百變怪變身而成的寶可夢出現在地圖上
@@ -17551,6 +17827,9 @@ TEXT: 色彩節
 RESOURCE ID: event_registration_success
 TEXT: 成功登入 {0} 了！
 
+RESOURCE ID: event_safari_city
+TEXT: City Safari
+
 RESOURCE ID: event_season10_name
 TEXT: 第10季：英雄崛起
 
@@ -17558,7 +17837,7 @@ RESOURCE ID: event_season11_name
 TEXT: 本季：隱藏的寶石
 
 RESOURCE ID: event_season12_name
-TEXT: Current Season: Adventures Abound
+TEXT: 本季：冒險時光
 
 RESOURCE ID: event_season1_name
 TEXT: 慶祝的季節
@@ -17791,6 +18070,9 @@ TEXT: 你還沒有任何 {0} ！
 RESOURCE ID: ex_raid_pass_invite_prompt
 TEXT: 邀請一位朋友參加VIP團體戰
 
+RESOURCE ID: exclusive_incense_pokemon
+TEXT: 薰香將能吸引到平時見不到的寶可夢
+
 RESOURCE ID: exclusive_raid_log_cancelled
 TEXT: 原訂於 {0} {1} 在 {2} 舉辦的VIP團體戰已取消
 
@@ -18009,6 +18291,9 @@ TEXT: 衝浪手姿勢
 RESOURCE ID: f_avatar_poses_bundle_pose_53
 TEXT: GO Fest
 2023 訓練家姿勢
+
+RESOURCE ID: f_avatar_poses_bundle_pose_55
+TEXT: 也慈姿勢
 
 RESOURCE ID: f_avatar_poses_empty_bundle_pose_empty
 TEXT: 閒著
@@ -19652,6 +19937,9 @@ TEXT: 在團體戰中捕捉到的艾路雷朵和沙奈朵將學會同步干擾
 RESOURCE ID: gardevoir_gallade_synchronoise_evolve
 TEXT: 讓奇魯莉安進化成沙奈朵或艾路雷朵，牠將能學會「同步干擾」
 
+RESOURCE ID: gbl_championships_2024_bonus_event
+TEXT: 額外獎勵活動：來對戰吧！
+
 RESOURCE ID: gbl_double_dust_end_of_set
 TEXT: 在GO對戰聯盟完成1組對戰時的星星沙子加倍
 
@@ -20062,6 +20350,33 @@ TEXT: 一張可以獲得三月社群日特殊調查的入場券。不論你身�
 RESOURCE ID: general1.ticket.2_sandt_title
 TEXT: 沙隱雪隱
 
+RESOURCE ID: general1.ticket.2_septcdc2023_description
+TEXT: 不論你身處世界上的何處，都可以用這張入場券在當地時間2023年9月2日14:00～17:00領取經典社群日：小火龍的特殊調查。 
+
+完成特殊調查的課題後，小火龍及其進化形態出現的機率將會提高，並可獲得神奇糖果、高級球等道具。 
+
+詳情請至遊戲快訊中確認。 
+
+<b>請務必在活動結束前完成所有課題，以領取所有獎勵。</b>
+
+RESOURCE ID: general1.ticket.2_septcdc2023_title
+TEXT: 小火龍經典社群日入場券
+
+RESOURCE ID: general1.ticket.2_septembercd2023_description
+TEXT: 不論你身處世界上的何處，都可以用這張入場券在當地時間2023年9月23日14:00～17:00領取強顎雞母蟲社群日的特殊調查。
+ 
+
+完成特殊調查的課題後，強顎雞母蟲及其進化形態出現的機率將會提高，並可獲得神奇糖果、高級球等道具。
+ 
+
+詳情請至遊戲快訊中確認。
+ 
+
+<b>請務必在活動結束前完成所有課題，以領取所有獎勵。</b>
+
+RESOURCE ID: general1.ticket.2_septembercd2023_title
+TEXT: 強顎雞母蟲社群日入場券
+
 RESOURCE ID: general1.ticket.2_shint_description
 TEXT: 不論你身處世界的何處，你都可以使用這張入場券在當地時間2021年11月21日11:00～17:00領取小貓怪社群日的特殊調查「電光閃光閃亮亮」。詳情請至遊戲內快訊確認。
 
@@ -20433,6 +20748,20 @@ TEXT: 只要擁有這張入場券，無論你身在世界何處，都能在當�
 
 RESOURCE ID: general1.ticket.megahoenn_title
 TEXT: 豐緣超級團體戰日入場券
+
+RESOURCE ID: general1.ticket.pawmibackpack_description
+TEXT: 只要擁有這張入場券，不論你身在何處，都能在當地時間2023年9月15日20:00以前領取限時調查。 
+完成限時調查的課題後，即可與布撥相遇，並獲得下列獎勵： 
+・布撥背包 
+・3個神奇糖果 
+・1個孵化器 
+・10個銀色凰梨果 
+・921星星沙子 
+・9210XP 
+<b>請務必在活動結束前完成課題，以領取所有獎勵。</b>
+
+RESOURCE ID: general1.ticket.pawmibackpack_title
+TEXT: 與布撥一起走
 
 RESOURCE ID: general1.ticket.s10timed_description
 TEXT: 不論你身在世界上的任何地方，都能使用這張入場券來領取限時調查「博士的衣櫥」。完成課題之後，將能領取以維羅博士為主題的換裝道具，並遇見學會特殊招式「鋼拳雙擊」的美錄梅塔。
@@ -24985,6 +25314,9 @@ TEXT: 超級聯盟Remix
 RESOURCE ID: great_raid_box_title
 TEXT: 超級團體戰禮盒
 
+RESOURCE ID: great_storage_box
+TEXT: 超級擴充禮盒
+
 RESOURCE ID: ground_type_event
 TEXT: 急速上昇：地面屬性
 
@@ -26972,6 +27304,12 @@ TEXT: 又硬又堅固的鱗片，可讓特定寶可夢進化。
 RESOURCE ID: item_dragon_scale_name
 TEXT: 龍之麟片
 
+RESOURCE ID: item_event_ticket_blue_desc_pawmibackpack
+TEXT: 只要擁有這張入場券，不論你身在何處，都能在當地時間2023年9月10日10:00～9月15日20:00領取限時調查。
+
+RESOURCE ID: item_event_ticket_blue_details_pawmibackpack
+TEXT: 入場券將會自動啟用，不論你身在何處，都能在當地時間2023年9月10日10:00～9月15日20:00領取限時調查「與布撥一起走」。
+
 RESOURCE ID: item_event_ticket_gray_desc
 TEXT: 無論你身處世界的何處，都可以用這張入場券來參加Pokémon GO Fest 2023：全球。
 
@@ -27006,7 +27344,7 @@ RESOURCE ID: item_event_ticket_pink_bulbt_details
 TEXT: 入場券將會自動啟用，不論你在何處都能在當地時間2022年1月22日活動時間內領取特殊調查。
 
 RESOURCE ID: item_event_ticket_pink_desc
-TEXT: 只要擁有這張入場券，不論你身在何處，都能在當地時間2023年8月13日14:00～17:00獲得特殊調查的課題。
+TEXT: 無論你身處世界的何處，都可以用這張入場券來領取經典社群日：小火龍的特殊調查。
 
 RESOURCE ID: item_event_ticket_pink_desc_alodude
 TEXT: 只要擁有這張入場券，不論你身在何處，都能在當地時間5月21日11:00～14:00獲得特殊調查的課題。
@@ -27023,11 +27361,17 @@ TEXT: 只要擁有這張入場券，不論你身在何處，都能在當地時�
 RESOURCE ID: item_event_ticket_pink_desc_fennekin
 TEXT: 不論你身處世界上的何處，都可以用這張入場券來領取火狐狸社群日的特殊調查。
 
+RESOURCE ID: item_event_ticket_pink_desc_froakie
+TEXT: 只要擁有這張入場券，不論你身在何處，都能在當地時間2023年8月13日14:00～17:00獲得特殊調查的課題。
+
 RESOURCE ID: item_event_ticket_pink_desc_gbd
 TEXT: 不論你身處世界上的何處，都可以用這張入場券來領取限時調查「GO對戰日：星星沙子」。
 
 RESOURCE ID: item_event_ticket_pink_desc_gold
 TEXT: 只要擁有這張入場券，不論你身處世界上的何處，都能在當地時間2023年6月3日14:00～17:00獲得金色調查日的限時調查。
+
+RESOURCE ID: item_event_ticket_pink_desc_grubbin
+TEXT: 只要擁有這張入場券，不論你身在何處，都能在當地時間2023年9月23日14:00～17:00獲得特殊調查的課題。
 
 RESOURCE ID: item_event_ticket_pink_desc_mrmime
 TEXT: 只要擁有這張入場券，不論你在何處都能在當地時間2020年12月19日10:00～2020年12月20日20:00挑戰特殊調查。
@@ -27045,7 +27389,7 @@ RESOURCE ID: item_event_ticket_pink_desc_togetic
 TEXT: 只要擁有這張入場券，不論你身在何處，都能在當地時間2023年4月15日14:00～17:00獲得特殊調查的課題。
 
 RESOURCE ID: item_event_ticket_pink_details
-TEXT: 入場券將會自動啟用，不論你身處世界上的何處，都能在當地時間2023年8月13日領取特殊調查「樂得冒泡」。
+TEXT: 入場券將會自動啟用，不論你身處世界的何處，都能在當地時間2023年9月2日14:00～17:00領取經典社群日：小火龍的特殊調查。
 
 RESOURCE ID: item_event_ticket_pink_details_axew
 TEXT: 入場券將會自動啟用，不論你身處世界上的何處，都能在當地時間2023年6月10日14:00～17:00領取牙牙社群日的特殊調查。
@@ -27059,11 +27403,17 @@ TEXT: 入場券將會自動啟動。不論你身在何處，都可以在當地�
 RESOURCE ID: item_event_ticket_pink_details_fennekin
 TEXT: 入場券將會自動啟用，不論你身處世界上的何處，都能在當地時間2023年5月21日14:00～17:00領取火狐狸社群日的特殊調查。
 
+RESOURCE ID: item_event_ticket_pink_details_froakie
+TEXT: 入場券將會自動啟用，不論你身處世界上的何處，都能在當地時間2023年8月13日領取特殊調查「樂得冒泡」。
+
 RESOURCE ID: item_event_ticket_pink_details_gbd
 TEXT: 入場券將會自動啟用，不論你身處世界上的何處，都能在當地時間2023年5月14日0:00～23:59領取限時調查「GO對戰日：星星沙子」。
 
 RESOURCE ID: item_event_ticket_pink_details_gold
 TEXT: 入場券將會自動啟用，不論你身處世界上的何處，都能在當地時間2023年6月3日14:00～17:00領取金色調查日的限時調查。
+
+RESOURCE ID: item_event_ticket_pink_details_grubbin
+TEXT: 入場券將會自動啟用，不論你在何處都能在活動時間內領取強顎雞母蟲社群日特殊調查。
 
 RESOURCE ID: item_event_ticket_pink_details_mrmime
 TEXT: 入場券將會自動啟用，不論你在何處都能在當地時間2020年12月19日10:00～2020年12月20日20:00領取「踢、踢、踢踏踢……」特殊調查。
@@ -27584,22 +27934,22 @@ RESOURCE ID: item_team_change_name
 TEXT: 轉隊獎章
 
 RESOURCE ID: item_ticket_city_safari_00_desc
-TEXT: A ticket to access the Special Research Seoul City Safari: The Journey Continues.
+TEXT: 無論你身處世界的何處，都可以用這張入場券來領取「City Safari：首爾 - 旅途永無止境」的特殊調查。
 
 RESOURCE ID: item_ticket_city_safari_00_name
-TEXT: Safari Ticket: Seoul
+TEXT: Safari入場券：首爾
 
 RESOURCE ID: item_ticket_city_safari_01_desc
-TEXT: A ticket to access the Special Research Barcelona City Safari: The Journey Continues.
+TEXT: 無論你身處世界的何處，都可以用這張入場券來領取「City Safari：巴塞隆納 - 旅途永無止境」的特殊調查。
 
 RESOURCE ID: item_ticket_city_safari_01_name
-TEXT: Safari Ticket: Barcelona
+TEXT: Safari入場券：巴塞隆納
 
 RESOURCE ID: item_ticket_city_safari_02_desc
-TEXT: A ticket to access the Special Research Mexico City Safari: The Journey Continues.
+TEXT: 無論你身處世界的何處，都可以用這張入場券來領取「City Safari：墨西哥城 - 旅途永無止境」的特殊調查。
 
 RESOURCE ID: item_ticket_city_safari_02_name
-TEXT: Safari Ticket: Mexico City
+TEXT: Safari入場券：墨西哥城
 
 RESOURCE ID: item_troy_disk_desc
 TEXT: 誘餌模組會將野生寶可夢吸引至寶可補給站，效果可持續30分鐘。附近的玩家也可獲得相同效果。
@@ -28880,7 +29230,7 @@ RESOURCE ID: limited_research_infernape
 TEXT: 烈焰猴限定調查
 
 RESOURCE ID: limited_research_inkay
-TEXT: 好啦魷期間限定調查
+TEXT: Inkay Limited Research
 
 RESOURCE ID: limited_research_ivysaur
 TEXT: 妙蛙草限定調查
@@ -30635,6 +30985,9 @@ RESOURCE ID: m_avatar_poses_bundle_pose_53
 TEXT: GO Fest
 2023 訓練家姿勢
 
+RESOURCE ID: m_avatar_poses_bundle_pose_55
+TEXT: 也慈姿勢
+
 RESOURCE ID: m_avatar_poses_empty_bundle_pose_empty
 TEXT: 閒著
 
@@ -31494,9 +31847,9 @@ RESOURCE ID: mega_walking_progress
 TEXT: 步行進度
 
 RESOURCE ID: metadata_local
-TEXT: Built at 2023-09-18T20:59:16.703945
-at SHA a7306e08ee82874ddca80bcdb58d5b465d837223
-Pipeline 1760683, job 21350629
+TEXT: Built at 2023-10-02T20:40:06.933377
+at SHA 1d5e5f0c7d73f8dfe244488bea8bbc845f45bf8d
+Pipeline 1795962, job 21779397
 
 RESOURCE ID: mex_fighting_promo_title
 TEXT: 限時調查：格鬥屬性
@@ -31530,6 +31883,9 @@ TEXT: 重量級：鐵掌力士
 
 RESOURCE ID: mex_promo_tr_path_c_desc
 TEXT: 這個選項將能讓你遇見鐵掌力士，完成課題後將能獲得幕下力士的糖果、SP及星星沙子。
+
+RESOURCE ID: mexico_city_catch_cup_title
+TEXT: 速成盃：墨西哥城
 
 RESOURCE ID: milestone_rewards_title
 TEXT: 里程碑獎勵
@@ -32662,6 +33018,15 @@ TEXT: 亞空裂斬
 RESOURCE ID: move_name_0389
 TEXT: 死亡之翼
 
+RESOURCE ID: move_name_0391
+TEXT: 三旋擊
+
+RESOURCE ID: move_name_0392
+TEXT: 起草
+
+RESOURCE ID: move_name_0393
+TEXT: 熱沙大地
+
 RESOURCE ID: move_reroll_confirm_desc
 TEXT: {0}會忘記{1}
 
@@ -33454,6 +33819,9 @@ TEXT: {0} 和 {1} 儲存了你的明信片！
 
 RESOURCE ID: pair_friend_sent_you_gift_notification
 TEXT: 收到來自 {0} 和 {1} 的友情禮物了！
+
+RESOURCE ID: paldean_pokedex_header
+TEXT: 帕底亞的樣子
 
 RESOURCE ID: palma_enable_modal_failure_message
 TEXT: 請點擊「設定」或精靈球Plus圖示重試一次
@@ -41378,22 +41746,22 @@ RESOURCE ID: pokemon_desc_0989
 TEXT: 無捕獲紀錄。資料不足。其特徵與某本探險記裡所記載的生物一致。
 
 RESOURCE ID: pokemon_desc_0990
-TEXT: Sightings of this Pokémon have occurred in recent years. It resembles a mysterious object described in an old expedition journal.
+TEXT: 近年曾經有人目擊到牠。是與古老的探險記裡記載的不明物體長得很像的寶可夢。
 
 RESOURCE ID: pokemon_desc_0991
-TEXT: It resembles a mysterious object mentioned in an old book. There are only two reported sightings of this Pokémon.
+TEXT: 與古書裡記載的神秘物體長得很相像的寶可夢。過去只被目擊過２次。
 
 RESOURCE ID: pokemon_desc_0992
-TEXT: This Pokémon shares many similarities with Iron Hands, an object mentioned in a certain expedition journal.
+TEXT: 與某本探險記裡記載的一種叫做鐵臂膀的物體有許多相似處的寶可夢。
 
 RESOURCE ID: pokemon_desc_0993
-TEXT: It’s possible that Iron Jugulis, an object described in an old book, may actually be this Pokémon.
+TEXT: 古書裡所記載的叫做鐵脖頸的物體，說不定就是這隻寶可夢。
 
 RESOURCE ID: pokemon_desc_0994
-TEXT: No records exist of this species being caught. Data is lacking, but the Pokémon’s traits match up with an object described in an old book.
+TEXT: 無捕獲紀錄。資料不足。其特徵與古書裡所記載的物體一致。
 
 RESOURCE ID: pokemon_desc_0995
-TEXT: Some of its notable features match those of an object named within a certain expedition journal as Iron Thorns.
+TEXT: 有一部分的特徵與某本探險記裡以鐵荊棘來介紹的物體一致。
 
 RESOURCE ID: pokemon_desc_0996
 TEXT: 會用背鰭吸收熱能以轉換成冰之能量。溫度越高，累積的能量就越多。
@@ -41426,13 +41794,13 @@ RESOURCE ID: pokemon_desc_1005
 TEXT: 牠有可能就是在謎團重重的探險記裡，以轟鳴月這個名字被記載下來的生物。
 
 RESOURCE ID: pokemon_desc_1006
-TEXT: It’s possible that this is the object listed as Iron Valiant in a certain expedition journal.
+TEXT: 牠有可能就是在某本探險記裡，以鐵武者這個名字被記載下來的物體。
 
 RESOURCE ID: pokemon_desc_1007_2996
 TEXT: 牠似乎就是古老的探險記裡提到的翼大王的真面目。據記載，牠曾以拳頭擊裂大地。
 
 RESOURCE ID: pokemon_desc_1008_2997
-TEXT: This seems to be the Iron Serpent mentioned in an old book. The Iron Serpent is said to have turned the land to ash with its lightning.
+TEXT: 牠似乎就是古書裡所提及的鐵大蛇。傳說牠曾用雷電將大地化成了一片灰。
 
 RESOURCE ID: pokemon_desc_tmpevo_0003_0001
 TEXT: 據說充足的營養和陽光 會讓花朵的顏色變得更加鮮豔。 花朵散發的香氣能夠療癒人心。
@@ -46277,6 +46645,9 @@ TEXT: 神秘道具
 RESOURCE ID: quest_breakthrough_reward_stardust
 TEXT: 星星沙子
 
+RESOURCE ID: quest_buddy_affection_days
+TEXT: 和夥伴獲得心心{0}天
+
 RESOURCE ID: quest_buddy_affection_days_in_a_row
 TEXT: 連續 {0} 天和夥伴獲得心心
 
@@ -46412,6 +46783,9 @@ TEXT: 捕捉 {0} 隻愛心魚
 RESOURCE ID: quest_catch_misc_01_types_plural
 TEXT: 捕捉 {0} 隻一般、水或冰屬性的寶可夢
 
+RESOURCE ID: quest_catch_nymble_plural
+TEXT: 捕捉{0}隻豆蟋蟀
+
 RESOURCE ID: quest_catch_pikachu_plural
 TEXT: 捕捉 {0} 隻皮卡丘
 
@@ -46420,6 +46794,9 @@ TEXT: 捕捉 {0} 種不同的寶可夢
 
 RESOURCE ID: quest_catch_pokemon_dai_plural
 TEXT: 捕捉 {0} 隻用散步小薰香吸引來的寶可夢
+
+RESOURCE ID: quest_catch_pokemon_days
+TEXT: 捕捉寶可夢{0}天
 
 RESOURCE ID: quest_catch_pokemon_plural
 TEXT: 捕捉 {0} 隻寶可夢
@@ -47156,6 +47533,9 @@ TEXT: 毛毛時刻
 RESOURCE ID: quest_complete_zygarde
 TEXT: 探索全新道路
 
+RESOURCE ID: quest_crocalor_evolve_b
+TEXT: 讓炙燙鱷進化
+
 RESOURCE ID: quest_daily_bonus_title
 TEXT: 每日獎勵
 
@@ -47725,6 +48105,30 @@ TEXT: 讓 {0} 隻草屬性的寶可夢進化
 
 RESOURCE ID: quest_equinox19_evolve_type_grass_plural_2
 TEXT: 讓 {0} 隻草屬性的寶可夢進化
+
+RESOURCE ID: quest_event_eevee_snapshot_barcelona
+TEXT: 在巴塞隆納為你的伊布拍攝1張GO Snapshot照片
+
+RESOURCE ID: quest_event_eevee_snapshot_mexico_city
+TEXT: 在墨西哥城為你的伊布拍攝1張GO Snapshot照片
+
+RESOURCE ID: quest_event_eevee_snapshot_seoul
+TEXT: 在首爾為你的伊布拍攝1張GO Snapshot照片
+
+RESOURCE ID: quest_event_leave_behind_spin_safari_city_plural
+TEXT: Spin {0} Pokéstops at an Eevee Explorer location you've never visited before
+
+RESOURCE ID: quest_event_leave_behind_spin_safari_city_singular
+TEXT: Spin a Pokéstop at an Eevee Explorer location you've never visited before
+
+RESOURCE ID: quest_event_spin_barcelona
+TEXT: 旋轉1個巴塞隆納的寶可補給站或道館轉盤
+
+RESOURCE ID: quest_event_spin_mexico_city
+TEXT: 旋轉1個墨西哥城的寶可補給站或道館轉盤
+
+RESOURCE ID: quest_event_spin_seoul
+TEXT: 旋轉1個首爾的寶可補給站或道館轉盤
 
 RESOURCE ID: quest_evolve_abra_singular
 TEXT: 讓1隻凱西進化
@@ -49037,6 +49441,9 @@ TEXT: 讓 {0} 隻小箭雀進化
 RESOURCE ID: quest_flett_evolve_s1
 TEXT: 讓 {0} 隻火箭雀進化
 
+RESOURCE ID: quest_floragato_evolve_b
+TEXT: 讓蒂蕾喵進化
+
 RESOURCE ID: quest_fraxure_evolve_b
 TEXT: 讓{0}隻斧牙龍進化
 
@@ -49051,6 +49458,9 @@ TEXT: 為呱呱泡蛙拍攝{0}張GO Snapshot照片
 
 RESOURCE ID: quest_frogadier_evolve_b
 TEXT: 讓{0}隻呱頭蛙進化
+
+RESOURCE ID: quest_fuecoco_evolve_b
+TEXT: 讓呆火鱷進化
 
 RESOURCE ID: quest_gbl_rank
 TEXT: 在GO對戰聯盟升上 {0} 級
@@ -50168,6 +50578,12 @@ TEXT: 捕捉 {0} 隻超能力屬性的寶可夢
 RESOURCE ID: quest_psychicspec_evolve_plural
 TEXT: 讓 {0} 隻蛋蛋或呆呆獸進化
 
+RESOURCE ID: quest_quaxly_evolve_b
+TEXT: 讓潤水鴨進化
+
+RESOURCE ID: quest_quaxwell_evolve_b
+TEXT: 讓湧躍鴨進化
+
 RESOURCE ID: quest_quilladin_evolve_b
 TEXT: 讓{0}隻胖胖哈力進化
 
@@ -50500,13 +50916,13 @@ RESOURCE ID: quest_snapshot_wild_dark_plural
 TEXT: 為野生的惡屬性寶可夢拍攝 {0} 張GO Snapshot照片
 
 RESOURCE ID: quest_snapshot_wild_dark_unique_plural
-TEXT: Take snapshots of {0} different wild Dark-type Pokémon
+TEXT: 為{0}種野生惡屬性寶可夢拍攝GO Snapshot照片
 
 RESOURCE ID: quest_snapshot_wild_dragon_plural
 TEXT: 為野生的龍屬性寶可夢拍攝 {0} 張GO Snapshot照片
 
 RESOURCE ID: quest_snapshot_wild_dragon_unique_plural
-TEXT: Take snapshots of {0} different wild Dragon-type Pokémon
+TEXT: 為{0}種野生龍屬性寶可夢拍攝GO Snapshot照片
 
 RESOURCE ID: quest_snapshot_wild_ducklett_chinchou_finneon
 TEXT: 為野生的燈籠魚、螢光魚或鴨寶寶拍攝1張GO Snapshot照片
@@ -50518,7 +50934,7 @@ RESOURCE ID: quest_snapshot_wild_electric_plural
 TEXT: 為野生的電屬性寶可夢拍攝 {0} 張GO Snapshot照片
 
 RESOURCE ID: quest_snapshot_wild_electric_unique_plural
-TEXT: Take snapshots of {0} different wild Electric-type Pokémon
+TEXT: 為{0}種野生電屬性寶可夢拍攝GO Snapshot照片
 
 RESOURCE ID: quest_snapshot_wild_entei
 TEXT: 為野生炎帝拍攝1張GO Snapshot照片
@@ -50527,13 +50943,13 @@ RESOURCE ID: quest_snapshot_wild_fairy_plural
 TEXT: 為野生的妖精屬性寶可夢拍攝 {0} 張GO Snapshot照片
 
 RESOURCE ID: quest_snapshot_wild_fairy_unique_plural
-TEXT: Take snapshots of {0} different wild Fairy-type Pokémon
+TEXT: 為{0}種野生妖精屬性寶可夢拍攝GO Snapshot照片
 
 RESOURCE ID: quest_snapshot_wild_fighting_plural
 TEXT: 為野生的格鬥屬性寶可夢拍攝 {0} 張GO Snapshot照片
 
 RESOURCE ID: quest_snapshot_wild_fighting_unique_plural
-TEXT: Take snapshots of {0} different wild Fighting-type Pokémon
+TEXT: 為{0}種野生格鬥屬性寶可夢拍攝GO Snapshot照片
 
 RESOURCE ID: quest_snapshot_wild_fire_plural
 TEXT: 為野生的火屬性寶可夢拍攝 {0} 張GO Snapshot照片
@@ -50542,7 +50958,7 @@ RESOURCE ID: quest_snapshot_wild_flying_plural
 TEXT: 為野生的飛行屬性寶可夢拍攝 {0} 張GO Snapshot照片
 
 RESOURCE ID: quest_snapshot_wild_flying_unique_plural
-TEXT: Take snapshots of {0} different wild Flying-type Pokémon
+TEXT: 為{0}種野生飛行屬性寶可夢拍攝GO Snapshot照片
 
 RESOURCE ID: quest_snapshot_wild_geodude_sandshrew_cacnea
 TEXT: 為野生的穿山鼠、小拳石或刺球仙人掌拍攝1張GO Snapshot照片
@@ -50551,7 +50967,7 @@ RESOURCE ID: quest_snapshot_wild_ghost_plural
 TEXT: 為野生的幽靈屬性寶可夢拍攝 {0} 張GO Snapshot照片
 
 RESOURCE ID: quest_snapshot_wild_ghost_unique_plural
-TEXT: Take snapshots of {0} different wild Ghost-type Pokémon
+TEXT: 為{0}種野生幽靈屬性寶可夢拍攝GO Snapshot照片
 
 RESOURCE ID: quest_snapshot_wild_grass_plural
 TEXT: 為野生的草屬性寶可夢拍攝 {0} 張GO Snapshot照片
@@ -50560,13 +50976,13 @@ RESOURCE ID: quest_snapshot_wild_grass_singular
 TEXT: 為野生的草屬性寶可夢拍攝1張GO Snapshot照片
 
 RESOURCE ID: quest_snapshot_wild_grass_unique_plural
-TEXT: Take snapshots of {0} different wild Grass-type Pokémon
+TEXT: 為{0}種野生草屬性寶可夢拍攝GO Snapshot照片
 
 RESOURCE ID: quest_snapshot_wild_ground_plural
 TEXT: 為野生的地面屬性寶可夢拍攝 {0} 張GO Snapshot照片
 
 RESOURCE ID: quest_snapshot_wild_ground_unique_plural
-TEXT: Take snapshots of {0} different wild Ground-type Pokémon
+TEXT: 為{0}種野生地面屬性寶可夢拍攝GO Snapshot照片
 
 RESOURCE ID: quest_snapshot_wild_hoothoot
 TEXT: 為咕咕拍攝1張GO Snapshot照片
@@ -50578,7 +50994,7 @@ RESOURCE ID: quest_snapshot_wild_ice_singular
 TEXT: 為野生的冰屬性寶可夢拍攝1張GO Snapshot照片
 
 RESOURCE ID: quest_snapshot_wild_ice_unique_plural
-TEXT: Take snapshots of {0} different wild Ice-type Pokémon
+TEXT: 為{0}種野生冰屬性寶可夢拍攝GO Snapshot照片
 
 RESOURCE ID: quest_snapshot_wild_lotad_metapod_aipom
 TEXT: 為野生的鐵甲蛹、長尾怪手或蓮葉童子拍攝1張GO Snapshot照片
@@ -50602,13 +51018,13 @@ RESOURCE ID: quest_snapshot_wild_poison_plural
 TEXT: 為野生的毒屬性寶可夢拍攝 {0} 張GO Snapshot照片
 
 RESOURCE ID: quest_snapshot_wild_poison_unique_plural
-TEXT: Take snapshots of {0} different wild Poison-type Pokémon
+TEXT: 為{0}種野生毒屬性寶可夢拍攝GO Snapshot照片
 
 RESOURCE ID: quest_snapshot_wild_psychic_plural
 TEXT: 為野生的超能力屬性寶可夢拍攝 {0} 張GO Snapshot照片
 
 RESOURCE ID: quest_snapshot_wild_psychic_unique_plural
-TEXT: Take snapshots of {0} different wild Psychic-type Pokémon
+TEXT: 為{0}種野生超能力屬性寶可夢拍攝GO Snapshot照片
 
 RESOURCE ID: quest_snapshot_wild_raikou
 TEXT: 為野生雷公拍攝1張GO Snapshot照片
@@ -50620,7 +51036,7 @@ RESOURCE ID: quest_snapshot_wild_rock_plural
 TEXT: 為野生的岩石屬性寶可夢拍攝 {0} 張GO Snapshot照片
 
 RESOURCE ID: quest_snapshot_wild_rock_unique_plural
-TEXT: Take snapshots of {0} different wild Rock-type Pokémon
+TEXT: 為{0}種野生岩石屬性寶可夢拍攝GO Snapshot照片
 
 RESOURCE ID: quest_snapshot_wild_singular
 TEXT: 為野生寶可夢拍攝1張GO Snapshot照片
@@ -50659,7 +51075,7 @@ RESOURCE ID: quest_snapshot_wild_water_singular
 TEXT: 為野生的水屬性寶可夢拍攝1張GO Snapshot照片
 
 RESOURCE ID: quest_snapshot_wild_water_unique_plural
-TEXT: Take snapshots of {0} different wild Water-type Pokémon
+TEXT: 為{0}種野生水屬性寶可夢拍攝GO Snapshot照片
 
 RESOURCE ID: quest_snapshots_inarow_plural
 TEXT: 連續 {0} 天為寶可夢拍攝GO Snapshot照片
@@ -57263,133 +57679,133 @@ RESOURCE ID: quest_special_dialogue_searching_gold_june23_1_1
 TEXT: 你想要遇見哪隻寶可夢呢？
 
 RESOURCE ID: quest_special_dialogue_season12_0_0
-TEXT: %PLAYERNAME%, exciting news! In my recent research into other regions, I learned of Paldea—a vast, open place dotted with agricultural villages, port towns, and lively markets.
+TEXT: %PLAYERNAME%，我想拜託你進行帕底亞地區的相關調查。關於被稱為帕底亞的地區，我讀到的資料上是這麼寫的。
 
 RESOURCE ID: quest_special_dialogue_season12_0_1
-TEXT: And beyond those settlements, Paldea has all sorts of magnificent places begging to be explored, from towering mountains to resplendent lakes.
+TEXT: 帕底亞地區由高聳的山脈，以及湖泊、荒野和險峻的山岳地帶等景觀構成一片連綿不絕的壯闊大地。
 
 RESOURCE ID: quest_special_dialogue_season12_0_2
-TEXT: Most importantly for us, there are plenty of Pokémon first discovered in Paldea for us to study!
+TEXT: 此外也有農業興盛的村莊，或擁有繁榮市場的港鎮。
 
 RESOURCE ID: quest_special_dialogue_season12_0_3
-TEXT: Doesn’t the very idea get your heart racing?
+TEXT: 嗯～風景彷彿浮現在眼前了呢……
 
 RESOURCE ID: quest_special_dialogue_season12_0_4
-TEXT: If you’re up for it, I say we put our all-star teamwork to the proof by learning all there is to learn about them!
+TEXT: 我想實際上應該是更加美好的地方吧。此外，寶可夢們也棲息在樹木上、河川裡等大自然的種種角落。
 
 RESOURCE ID: quest_special_dialogue_season12_a_1_0
-TEXT: Great choice! You know, Sprigatito’s a bit of a rascal. It’s capricious and attention-seeking, to the point that it may sulk if it sees you giving attention to another Pokémon!
+TEXT: 選得好！新葉喵雖然率性又愛撒嬌，同時也是可以感受到生命活力的寶可夢。
 
 RESOURCE ID: quest_special_dialogue_season12_a_1_1
-TEXT: As for its physical characteristics, its fluffy fur is similar in composition to plants, letting it create energy by absorbing sunlight.
+TEXT: 新葉喵的體毛有著近於植物的成分，所以能吸收日光來製造能量。
 
 RESOURCE ID: quest_special_dialogue_season12_a_1_2
-TEXT: And when Sprigatito kneads and rubs with its forepaws, a sweet aroma is released that can mesmerize those around it.
+TEXT: 牠的身體會發出甜甜的香氣，讓周圍的一切為之傾倒。據說照到陽光後，香氣就會變得更濃郁。
 
 RESOURCE ID: quest_special_dialogue_season12_a_1_3
-TEXT: While you contemplate that, how about you walk around and look for some Grass-type Pokémon, %PLAYERNAME%?
+TEXT: 首先，你試著去捕捉跟新葉喵相同屬性的寶可夢吧。
 
 RESOURCE ID: quest_special_dialogue_season12_a_2_0
-TEXT: Welcome back! How did it go? Exploring with a new Pokémon is a great way to develop your bond. Now, here’s another fun Sprigatito fact.
+TEXT: %PLAYERNAME%，歡迎回來。你成功捉到新葉喵了啊！
 
 RESOURCE ID: quest_special_dialogue_season12_a_2_1
-TEXT: Sprigatito washes its face regularly to keep its fur from drying out. What a great self-care regimen!
+TEXT: 為了防止乾燥，新葉喵會勤快地洗臉。保養方式也跟植物很像呢。
 
 RESOURCE ID: quest_special_dialogue_season12_a_2_2
-TEXT: I wonder how Sprigatito’s Evolution, Floragato, behaves in comparison. Could you help your Sprigatito evolve so we can find out for ourselves?
+TEXT: 你也很好奇保養之後的成果，對吧？讓新葉喵進化並確認看看吧！
 
 RESOURCE ID: quest_special_dialogue_season12_a_3_0
-TEXT: Wow! Amazing progress, %PLAYERNAME%! I’m sure there’s plenty you’ll learn with a Pokémon like Floragato at your side.
+TEXT: 就是這樣，%PLAYERNAME%！你仔細看看，蒂蕾喵頸部的花苞其實是位於藤蔓的前端。
 
 RESOURCE ID: quest_special_dialogue_season12_a_3_1
-TEXT: Did you know that its fur can become softer or harder depending on its mood? It can even be needle sharp when Floragato is ready to battle.
+TEXT: 還有牠的體毛，其硬度會隨心情而變化。進入迎戰狀態時，體毛會變得如針般尖銳。
 
 RESOURCE ID: quest_special_dialogue_season12_a_3_2
-TEXT: Speaking of battle, Floragato deftly wields a vine hidden beneath its long fur, slamming the hard flower bud against its opponents. I bet that smarts!
+TEXT: 花苞本身也很堅硬，甚至能讓牠在發動攻擊時用來猛打敵人呢。
 
 RESOURCE ID: quest_special_dialogue_season12_a_3_3
-TEXT: I can’t wait to see how Floragato changes when it evolves into Meowscarada. Please come see me when it does!
+TEXT: 只是蒂蕾喵也有害怕寂寞的一面，所以一起冒險時可別忘了多多照顧牠的心情喔。萬事拜託啦，%PLAYERNAME%。
 
 RESOURCE ID: quest_special_dialogue_season12_a_4_0
-TEXT: Whoa! Meowscarada is one a-meow-zing Pokémon! I’ve heard that with skillful misdirection, it rigs foes with pollen-packed flower bombs, which it sets off before its foes realize what’s going on.
+TEXT: 你讓牠進化成魔幻假面喵了啊，真厲害！雖然牠的花朵看似浮在空中，但莖是確確實實存在的。莖只是被用保護色隱藏起來了而已。
 
 RESOURCE ID: quest_special_dialogue_season12_a_4_1
-TEXT: That’s quite the magic trick. I hope to see it firsthand someday—from a safe distance, of course! But that’s enough out of me—you deserve a rest after all that research. Thanks for your help, as always, %PLAYERNAME%!
+TEXT: 趕快帶著牠一起出發去冒險吧，%PLAYERNAME%！
 
 RESOURCE ID: quest_special_dialogue_season12_b_1_0
-TEXT: Great choice! Fuecoco’s one cheerful little chomper. Flickering atop its head is fire energy that is leaking out from inside its body—and when Fuecoco gets excited, its head spouts more flames!
+TEXT: 選得好！呆火鱷是渾身都充滿了能量的寶可夢。從體內溢出的火之能量會從頭上的凹槽釋放出來。
 
 RESOURCE ID: quest_special_dialogue_season12_b_1_1
-TEXT: How about you match that enthusiasm as you walk around and look for Fire-type Pokémon, %PLAYERNAME%?
+TEXT: 首先，你試著去捕捉跟呆火鱷相同屬性的寶可夢吧。
 
 RESOURCE ID: quest_special_dialogue_season12_b_2_0
-TEXT: Welcome back! How did it go? Exploring with a new Pokémon is a great way to develop your bond. Now, here’s another fun Fuecoco fact.
+TEXT: %PLAYERNAME%，歡迎回來。你成功捉到呆火鱷了啊！
 
 RESOURCE ID: quest_special_dialogue_season12_b_2_1
-TEXT: Fuecoco lies on warm rocks and uses the heat absorbed by its square-shaped scales to create fire energy.
+TEXT: 呆火鱷身上有著四角形的鱗片對吧？牠會躺在溫熱的岩石上，並用鱗片吸收熱能喔。
 
 RESOURCE ID: quest_special_dialogue_season12_b_2_2
-TEXT: I wonder how Fuecoco’s Evolution, Crocalor, behaves in comparison. Could you help your Fuecoco evolve so we can find out for ourselves?
+TEXT: 進化成炙燙鱷之後，火之能量就會變得更加強大。讓呆火鱷進化並確認看看吧！
 
 RESOURCE ID: quest_special_dialogue_season12_b_3_0
-TEXT: Wow! Amazing progress, %PLAYERNAME%! I’m sure there’s plenty you’ll learn with a Pokémon like Crocalor at your side.
+TEXT: 就是這樣，%PLAYERNAME%！炙燙鱷的頭上有著蛋狀的火球，你覺得那是什麼呢？
 
 RESOURCE ID: quest_special_dialogue_season12_b_3_1
-TEXT: Did you know that the combination of Crocalor’s fire energy and overflowing vitality is what caused an egg-shaped fireball to appear on the Pokémon’s head?
+TEXT: 那是火之能量與過剩的生命力相互結合而成的。
 
 RESOURCE ID: quest_special_dialogue_season12_b_3_2
-TEXT: What’s more, the valve in Crocalor’s flame sac is closely connected to its vocal cords. It utters a guttural cry as it spews flames every which way. Spicy!
+TEXT: 炙燙鱷會一邊發出嘶啞的聲音，一邊噴灑火焰。
 
 RESOURCE ID: quest_special_dialogue_season12_b_3_3
-TEXT: I can’t wait to see how Crocalor changes when it evolves into Skeledirge. Please come see me when it does!
+TEXT: 這是因為炙燙鱷擁有在噴出火焰的同時發出聲音的習性。你可要多加小心喔！
 
 RESOURCE ID: quest_special_dialogue_season12_b_4_0
-TEXT: Whoa! Skeledirge is one sizzlingly slick Pokémon—and yet somehow so serene! I’ve heard that Skeledirge’s gentle singing soothes the souls of all that hear it.
+TEXT: 你讓牠進化成骨紋巨聲鱷了啊，真厲害！據說骨紋巨聲鱷的歌聲很溫柔，能夠療癒聽者的靈魂。
 
 RESOURCE ID: quest_special_dialogue_season12_b_4_1
-TEXT: And yet it burns its enemies to a crisp with flames of over 5,400 degrees Fahrenheit. It’s, uh, certainly comforting to know you’re on the same team!
+TEXT: 只是你可得更加注意骨紋巨聲鱷的火焰才行。畢竟牠的火焰可是高達了3000度呢。
 
 RESOURCE ID: quest_special_dialogue_season12_b_4_2
-TEXT: But that’s enough out of me—you deserve a rest after all that research. Thanks for your help, as always, %PLAYERNAME%!
+TEXT: 萬分小心地帶著牠一起出發去冒險吧，%PLAYERNAME%！
 
 RESOURCE ID: quest_special_dialogue_season12_branch_0
-TEXT: Which Pokémon first discovered in Paldea would you like to join you on your adventure, %PLAYERNAME%?
+TEXT: %PLAYERNAME%，你想更加了解哪隻寶可夢呢？我們這就來選擇吧！
 
 RESOURCE ID: quest_special_dialogue_season12_c_1_0
-TEXT: Great choice! Quaxly is an earnest and tidy Pokémon. Perhaps you’re the sort of Trainer who likes it when everything is neatly in place—and for Quaxly, that place is at your side!
+TEXT: 選得好！潤水鴨是注重整潔乾淨的寶可夢。
 
 RESOURCE ID: quest_special_dialogue_season12_c_1_1
-TEXT: Quaxly’s feathers secrete a gel that repels water and grime, so its body is always glossy. And get a gander at that coif atop its head! So luxurious.
+TEXT: 牠的羽毛會分泌具有防水和防污效果的凝膠。而且潤水鴨還會仔細地梳理頭部的毛，全身上下都散發出整潔感。
 
 RESOURCE ID: quest_special_dialogue_season12_c_1_2
-TEXT: I’m suddenly inspired to tidy things up around here. While I’m doing that, why don’t you walk around and look for Water-type Pokémon, %PLAYERNAME%?
+TEXT: 首先，你試著去捕捉跟潤水鴨相同屬性的寶可夢吧。
 
 RESOURCE ID: quest_special_dialogue_season12_c_2_0
-TEXT: Welcome back! How did it go? Exploring with a new Pokémon is a great way to develop your bond. Now, here’s another fun Quaxly fact.
+TEXT: %PLAYERNAME%，歡迎回來。你成功捉到潤水鴨了啊！
 
 RESOURCE ID: quest_special_dialogue_season12_c_2_1
-TEXT: This Pokémon migrated to Paldea from distant lands long ago. Its strong legs let it easily swim around in even fast-flowing rivers.
+TEXT: 潤水鴨從遠方來到帕底亞地區，並就此棲息了下來。即使是在水流湍急的河川中，也能自在地游動。
 
 RESOURCE ID: quest_special_dialogue_season12_c_2_2
-TEXT: I wonder how Quaxly’s Evolution, Quaxwell, behaves in comparison. Could you help your Quaxly evolve so we can find out for ourselves?
+TEXT: 進化成湧躍鴨之後，腳力就會變得更加強韌。讓潤水鴨進化並確認看看吧！
 
 RESOURCE ID: quest_special_dialogue_season12_c_3_0
-TEXT: Wow! Amazing progress, %PLAYERNAME%! I’m sure there’s plenty you’ll learn with a Pokémon like Quaxwell at your side.
+TEXT: 就是這樣，%PLAYERNAME%！你仔細觀察湧躍鴨的腳。
 
 RESOURCE ID: quest_special_dialogue_season12_c_3_1
-TEXT: Did you know that these Pokémon constantly run through shallow waters to train their legs, then compete with each other to see which of them kicks most gracefully?
+TEXT: 湧躍鴨會在淺灘不斷跑步，或是跟夥伴們競爭誰的腿技最為華麗，勤奮不懈地鍛鍊自己的腳。
 
 RESOURCE ID: quest_special_dialogue_season12_c_3_2
-TEXT: The hardworking Quaxwell observes people and Pokémon from various regions and incorporates their movements into its own dance routines. So studious!
+TEXT: 而且據說牠會觀察住在各地區的人和寶可夢，並將其動作融入自己的舞蹈裡。
 
 RESOURCE ID: quest_special_dialogue_season12_c_3_3
-TEXT: I can’t wait to see how Quaxwell changes when it evolves into Quaquaval. Please come see me when it does!
+TEXT: 如果你跳舞讓牠看的話，湧躍鴨說不定會把你的動作融入舞蹈裡喔……？
 
 RESOURCE ID: quest_special_dialogue_season12_c_4_0
-TEXT: Whoa! Quaquaval is one mesmerizing Pokémon! This Pokémon uses its powerful legs to perform striking dances from far-off lands. And that’s not all those legs can do—I’ve heard that a single kick from a Quaquaval can send a truck rolling. Yikes!
+TEXT: 你讓牠進化成狂歡浪舞鴨了呀，真厲害！牠的強韌腳力只要一踢就能踢翻卡車，也正因如此，才能不斷地踏出輕快的舞步。
 
 RESOURCE ID: quest_special_dialogue_season12_c_4_1
-TEXT: But that’s enough out of me—you deserve a rest after all that research. Thanks for your help, as always, %PLAYERNAME%!
+TEXT: 與牠一同舞動腳步並出發去冒險吧，%PLAYERNAME%！
 
 RESOURCE ID: quest_special_dialogue_season2_0_0
 TEXT: 嘿，%PLAYERNAME%，你最近還好嗎？
@@ -59639,8 +60055,14 @@ TEXT: 拜訪{0}個墨西哥國內的寶可補給站
 RESOURCE ID: quest_spin_mexico_singular
 TEXT: 拜訪1個墨西哥國內的寶可補給站
 
+RESOURCE ID: quest_spin_pokestop_days
+TEXT: 拜訪寶可補給站{0}天
+
 RESOURCE ID: quest_spin_ultra_wormhole_gym
 TEXT: 旋轉有究極之洞的道館轉盤
+
+RESOURCE ID: quest_sprigatito_evolve_b
+TEXT: 讓新葉喵進化
 
 RESOURCE ID: quest_squirtle_catch_b
 TEXT: 捕捉 {0} 隻傑尼龜
@@ -59962,6 +60384,24 @@ TEXT: 時光漣漪 (7/8)
 
 RESOURCE ID: quest_title_celebi_7
 TEXT: 時光漣漪 (8/8)
+
+RESOURCE ID: quest_title_charmander
+TEXT: 經典社群日：小火龍
+
+RESOURCE ID: quest_title_charmander_0
+TEXT: 經典社群日：小火龍 (1/5)
+
+RESOURCE ID: quest_title_charmander_1
+TEXT: 經典社群日：小火龍 (2/5)
+
+RESOURCE ID: quest_title_charmander_2
+TEXT: 經典社群日：小火龍 (3/5)
+
+RESOURCE ID: quest_title_charmander_3
+TEXT: 經典社群日：小火龍 (4/5)
+
+RESOURCE ID: quest_title_charmander_4
+TEXT: 經典社群日：小火龍 (5/5)
 
 RESOURCE ID: quest_title_chart
 TEXT: 火尾童話
@@ -61227,22 +61667,22 @@ RESOURCE ID: quest_title_sandt_3
 TEXT: 沙隱雪隱 (4/4)
 
 RESOURCE ID: quest_title_season12
-TEXT: A Paldean Adventure
+TEXT: 帕底亞的冒險
 
 RESOURCE ID: quest_title_season12_0
-TEXT: A Paldean Adventure (1/5)
+TEXT: 帕底亞的冒險 (1/5)
 
 RESOURCE ID: quest_title_season12_1
-TEXT: A Paldean Adventure (2/5)
+TEXT: 帕底亞的冒險 (2/5)
 
 RESOURCE ID: quest_title_season12_2
-TEXT: A Paldean Adventure (3/5)
+TEXT: 帕底亞的冒險 (3/5)
 
 RESOURCE ID: quest_title_season12_3
-TEXT: A Paldean Adventure (4/5)
+TEXT: 帕底亞的冒險 (4/5)
 
 RESOURCE ID: quest_title_season12_4
-TEXT: A Paldean Adventure (5/5)
+TEXT: 帕底亞的冒險 (5/5)
 
 RESOURCE ID: quest_title_season2
 TEXT: 傳說的季節
@@ -67956,6 +68396,9 @@ TEXT: SHOW MORE {0}
 RESOURCE ID: route_community_plays_label
 TEXT: 社群的遊玩次數
 
+RESOURCE ID: route_completion_congratulation
+TEXT: Congratulations!
+
 RESOURCE ID: route_completion_explored_count_plural
 TEXT: 你探索了{0}次
 這個路線！
@@ -68022,16 +68465,16 @@ RESOURCE ID: route_creation_adsync_breadcrumb_notification
 TEXT: 正在規劃路線
 
 RESOURCE ID: route_creation_ask_start_description
-TEXT: 如無法馬上開始，請暫停規劃路線。如要繼續，可從個人檔案的路線功能再度開始。
+TEXT: You are near the start point, so the next step is to record your path. If you aren’t ready, you can pause Route creation and resume it later via the Route section of your Trainer profile.
 
 RESOURCE ID: route_creation_ask_start_pause_button
 TEXT: 暫停規劃路線
 
 RESOURCE ID: route_creation_ask_start_title
-TEXT: 即將到達起點。要開始記錄路徑嗎？
+TEXT: Are you ready to record the path for your Route?
 
 RESOURCE ID: route_creation_ask_submit
-TEXT: 即將到達終點。要結束記錄嗎？
+TEXT: Are you done recording the path for your Route?
 
 RESOURCE ID: route_creation_ask_submit_cancel
 TEXT: 繼續記錄
@@ -68040,45 +68483,43 @@ RESOURCE ID: route_creation_ask_submit_confirm
 TEXT: 結束
 
 RESOURCE ID: route_creation_ask_submit_description
-TEXT: 如要延伸此路線的距離，只要繼續記錄並回到此寶可補給站即可。
+TEXT: You are near the end point, so you can stop recording your Route path. If you would like to extend your Route, you can continue recording and return to this end point later.
 
 RESOURCE ID: route_creation_autoexit_toast
 TEXT: 已結束規劃路線
 
 RESOURCE ID: route_creation_choose_end_body
-TEXT: 前往此寶可補給站，結束記錄路線。
-記錄中可重新選擇終點。
+TEXT: Your recorded path must lead from the start point to this end point. You can change the end point at any time.
 
 RESOURCE ID: route_creation_choose_end_header
-TEXT: 選擇寶可補給站
+TEXT: 選擇寶可補給站或道館
 
 RESOURCE ID: route_creation_choose_end_sub_header
 TEXT: 設定終點
 
 RESOURCE ID: route_creation_choose_new_end_body
-TEXT: 前往此寶可補給站，結束記錄路線。
-記錄中可重新選擇終點。
+TEXT: Your recorded path must lead from the start point to this new end point. You can change the end point at any time.
 
 RESOURCE ID: route_creation_choose_new_end_header
-TEXT: 選擇寶可補給站
+TEXT: 選擇寶可補給站或道館
 
 RESOURCE ID: route_creation_choose_new_end_sub_header
 TEXT: 設定終點
 
 RESOURCE ID: route_creation_choose_new_start_body
-TEXT: 前往此寶可補給站，開始記錄路線。
+TEXT: Path recording will begin after you reach this new start point. You cannot change the start point after path recording begins.
 
 RESOURCE ID: route_creation_choose_new_start_header
-TEXT: 選擇寶可補給站
+TEXT: 選擇寶可補給站或道館
 
 RESOURCE ID: route_creation_choose_new_start_sub_header
 TEXT: 設定起點
 
 RESOURCE ID: route_creation_choose_start_body
-TEXT: 前往此寶可補給站，開始記錄路線。
+TEXT: 抵達起點後將會開始記錄路徑。開始記錄路徑後無法變更起點。
 
 RESOURCE ID: route_creation_choose_start_header
-TEXT: 選擇寶可補給站
+TEXT: 選擇寶可補給站或道館
 
 RESOURCE ID: route_creation_choose_start_sub_header
 TEXT: 設定起點
@@ -68210,7 +68651,7 @@ RESOURCE ID: route_creation_start_recording_error_too_far
 TEXT: 你不在起點附近，無法開始記錄
 
 RESOURCE ID: route_creation_submit
-TEXT: 提交測試
+TEXT: DEBUG CREATION SUBMIT
 
 RESOURCE ID: route_creator_label
 TEXT: 路線作者
@@ -68673,6 +69114,9 @@ TEXT: 若放棄遊玩此路線，所有進度將會消失。此操作無法復�
 RESOURCE ID: route_stop_report
 TEXT: 若遊玩此路線時發生狀況，你可以放棄遊玩並回報問題。
 
+RESOURCE ID: route_stop_start_new_button
+TEXT: Start new route
+
 RESOURCE ID: route_stop_title
 TEXT: 確定要放棄遊玩此路線嗎？
 
@@ -68799,7 +69243,7 @@ RESOURCE ID: route_submission_result_unknown_error
 TEXT: Unknown error in submission process. Try again later.
 
 RESOURCE ID: route_submission_reversible
-TEXT: 此路線可以倒著走嗎？
+TEXT: 您可以倒著遊玩此路線。
 
 RESOURCE ID: route_submission_review_adjust
 TEXT: 調整
@@ -68820,7 +69264,7 @@ RESOURCE ID: route_submission_select_color_prompt
 TEXT: 選擇徽章頂部要用的顏色：
 
 RESOURCE ID: route_submission_show_name
-TEXT: 要讓你的訓練家名稱顯示在路線說明裡，供其他訓練家查看嗎？
+TEXT: Show my Trainer name as the Route Creator in the published Route details.
 
 RESOURCE ID: route_submission_start_title
 TEXT: 為此路線命名
@@ -69314,77 +69758,59 @@ TEXT: Safari Zone：捕捉寶可夢時使用 {0} 顆蔓莓果來輔助
 RESOURCE ID: safari_buddy_snapshot
 TEXT: Safari Zone: 為夥伴寶可夢拍1張GO Snapshot照片
 
+RESOURCE ID: safari_city_2023_barcelona_title
+TEXT: City Safari：巴塞隆納2023
+
+RESOURCE ID: safari_city_2023_barcelona_title_00
+TEXT: City Safari：巴塞隆納2023 (1/3)
+
+RESOURCE ID: safari_city_2023_barcelona_title_01
+TEXT: City Safari：巴塞隆納2023 (2/3)
+
+RESOURCE ID: safari_city_2023_barcelona_title_02
+TEXT: City Safari：巴塞隆納2023 (3/3)
+
+RESOURCE ID: safari_city_2023_mexico_city_title
+TEXT: City Safari：墨西哥城2023
+
+RESOURCE ID: safari_city_2023_mexico_city_title_00
+TEXT: City Safari：墨西哥城2023 (1/3)
+
+RESOURCE ID: safari_city_2023_mexico_city_title_01
+TEXT: City Safari：墨西哥城2023 (2/3)
+
+RESOURCE ID: safari_city_2023_mexico_city_title_02
+TEXT: City Safari：墨西哥城2023 (3/3)
+
+RESOURCE ID: safari_city_2023_seoul_title
+TEXT: City Safari：首爾2023
+
+RESOURCE ID: safari_city_2023_seoul_title_00
+TEXT: City Safari：首爾2023 (1/3)
+
+RESOURCE ID: safari_city_2023_seoul_title_01
+TEXT: City Safari：首爾2023 (2/3)
+
+RESOURCE ID: safari_city_2023_seoul_title_02
+TEXT: City Safari：首爾2023 (3/3)
+
 RESOURCE ID: safari_city_leave_behind_title_barcelona
-TEXT: Barcelona City Safari: The Journey Continues
+TEXT: City Safari：巴塞隆納 - 旅途永無止境
 
 RESOURCE ID: safari_city_leave_behind_title_barcelona_00
-TEXT: Barcelona City Safari: The Journey Continues (1/7)
-
-RESOURCE ID: safari_city_leave_behind_title_barcelona_01
-TEXT: Barcelona City Safari: The Journey Continues (2/7)
-
-RESOURCE ID: safari_city_leave_behind_title_barcelona_02
-TEXT: Barcelona City Safari: The Journey Continues (3/7)
-
-RESOURCE ID: safari_city_leave_behind_title_barcelona_03
-TEXT: Barcelona City Safari: The Journey Continues (4/7)
-
-RESOURCE ID: safari_city_leave_behind_title_barcelona_04
-TEXT: Barcelona City Safari: The Journey Continues (5/7)
-
-RESOURCE ID: safari_city_leave_behind_title_barcelona_05
-TEXT: Barcelona City Safari: The Journey Continues (6/7)
-
-RESOURCE ID: safari_city_leave_behind_title_barcelona_06
-TEXT: Barcelona City Safari: The Journey Continues (7/7)
+TEXT: City Safari：巴塞隆納 - 旅途永無止境 (1/7)
 
 RESOURCE ID: safari_city_leave_behind_title_mxc
-TEXT: Mexico City Safari: The Journey Continues
+TEXT: City Safari：墨西哥城 - 旅途永無止境
 
 RESOURCE ID: safari_city_leave_behind_title_mxc_00
-TEXT: Mexico City Safari: The Journey Continues (1/7)
-
-RESOURCE ID: safari_city_leave_behind_title_mxc_01
-TEXT: Mexico City Safari: The Journey Continues (2/7)
-
-RESOURCE ID: safari_city_leave_behind_title_mxc_02
-TEXT: Mexico City Safari: The Journey Continues (3/7)
-
-RESOURCE ID: safari_city_leave_behind_title_mxc_03
-TEXT: Mexico City Safari: The Journey Continues (4/7)
-
-RESOURCE ID: safari_city_leave_behind_title_mxc_04
-TEXT: Mexico City Safari: The Journey Continues (5/7)
-
-RESOURCE ID: safari_city_leave_behind_title_mxc_05
-TEXT: Mexico City Safari: The Journey Continues (6/7)
-
-RESOURCE ID: safari_city_leave_behind_title_mxc_06
-TEXT: Mexico City Safari: The Journey Continues (7/7)
+TEXT: City Safari：墨西哥城 - 旅途永無止境 (1/7)
 
 RESOURCE ID: safari_city_leave_behind_title_seoul
-TEXT: Seoul City Safari: The Journey Continues
+TEXT: City Safari：首爾 - 旅途永無止境
 
 RESOURCE ID: safari_city_leave_behind_title_seoul_00
-TEXT: Seoul City Safari: The Journey Continues (1/7)
-
-RESOURCE ID: safari_city_leave_behind_title_seoul_01
-TEXT: Seoul City Safari: The Journey Continues (2/7)
-
-RESOURCE ID: safari_city_leave_behind_title_seoul_02
-TEXT: Seoul City Safari: The Journey Continues (3/7)
-
-RESOURCE ID: safari_city_leave_behind_title_seoul_03
-TEXT: Seoul City Safari: The Journey Continues (4/7)
-
-RESOURCE ID: safari_city_leave_behind_title_seoul_04
-TEXT: Seoul City Safari: The Journey Continues (5/7)
-
-RESOURCE ID: safari_city_leave_behind_title_seoul_05
-TEXT: Seoul City Safari: The Journey Continues (6/7)
-
-RESOURCE ID: safari_city_leave_behind_title_seoul_06
-TEXT: Seoul City Safari: The Journey Continues (7/7)
+TEXT: City Safari：首爾 - 旅途永無止境 (1/7)
 
 RESOURCE ID: safari_event
 TEXT: Pokémon GO Safari Zone
@@ -69764,31 +70190,31 @@ RESOURCE ID: season10_tr_willow_title
 TEXT: 博士的衣櫥
 
 RESOURCE ID: season12_branch_1_button_key
-TEXT: Adventure with Sprigatito
+TEXT: 與新葉喵一起冒險
 
 RESOURCE ID: season12_branch_1_description_key
-TEXT: Choose this option to go adventuring with Sprigatito!
+TEXT: 如果選擇這個分歧，你將能與新葉喵一起冒險。
 
 RESOURCE ID: season12_branch_1_title_key
-TEXT: Adventure with Sprigatito
+TEXT: 與新葉喵一起冒險
 
 RESOURCE ID: season12_branch_2_button_key
-TEXT: Adventure with Fuecoco
+TEXT: 與呆火鱷一起冒險
 
 RESOURCE ID: season12_branch_2_description_key
-TEXT: Choose this option to go adventuring with Fuecoco!
+TEXT: 如果選擇這個分歧，你將能與呆火鱷一起冒險。
 
 RESOURCE ID: season12_branch_2_title_key
-TEXT: Adventure with Fuecoco
+TEXT: 與呆火鱷一起冒險
 
 RESOURCE ID: season12_branch_3_button_key
-TEXT: Adventure with Quaxly
+TEXT: 與潤水鴨一起冒險
 
 RESOURCE ID: season12_branch_3_description_key
-TEXT: Choose this option to go adventuring with Quaxly!
+TEXT: 如果選擇這個分歧，你將能與潤水鴨一起冒險。
 
 RESOURCE ID: season12_branch_3_title_key
-TEXT: Adventure with Quaxly
+TEXT: 與潤水鴨一起冒險
 
 RESOURCE ID: season_gbl_forecast_title_10
 TEXT: 第10季：英雄崛起
@@ -69797,7 +70223,7 @@ RESOURCE ID: season_gbl_forecast_title_11
 TEXT: Pokémon GO：隱藏的寶石
 
 RESOURCE ID: season_gbl_forecast_title_12
-TEXT: Pokémon GO: Adventures Abound
+TEXT: Pokémon GO：冒險時光
 
 RESOURCE ID: season_gbl_forecast_title_7
 TEXT: GO的季節
@@ -69873,6 +70299,21 @@ TEXT: 把友情禮物傳送給 {0} 了！
 
 RESOURCE ID: sent_you_a_gift
 TEXT: 收到 {0} 送來的友情禮物了！
+
+RESOURCE ID: seoul_catch_cup_title
+TEXT: 速成盃：首爾
+
+RESOURCE ID: sep23_paldea_collection_challenge_1
+TEXT: 新葉喵收藏家挑戰
+
+RESOURCE ID: sep23_paldea_collection_challenge_2
+TEXT: 呆火鱷收藏家挑戰
+
+RESOURCE ID: sep23_paldea_collection_challenge_3
+TEXT: 潤水鴨收藏家挑戰
+
+RESOURCE ID: sep23_paldea_collection_challenge_4
+TEXT: 愛吃豚收藏家挑戰
 
 RESOURCE ID: server_lockout
 TEXT: 感謝各位玩家的熱烈支持
@@ -70197,6 +70638,9 @@ TEXT: 路線通知
 
 RESOURCE ID: settings_route_guidance_tip
 TEXT: 即將抵達路線終點或有什麼神奇的東西出現時接收通知
+
+RESOURCE ID: settings_save_image_tip
+TEXT: 將AR GO Snapshot照片儲存在裝置上。
 
 RESOURCE ID: settings_select_legendary_label
 TEXT: 擴展選擇範圍
@@ -71178,6 +71622,9 @@ TEXT: 透過Facebook新增朋友
 RESOURCE ID: social_add_friend_qr
 TEXT: 二維條碼
 
+RESOURCE ID: social_add_friend_qr_v2
+TEXT: 掃描二維條碼
+
 RESOURCE ID: social_add_friends
 TEXT: 新增朋友
 
@@ -71241,6 +71688,9 @@ TEXT: 輸入訓練家代碼，傳送朋友申請
 
 RESOURCE ID: social_send_my_code
 TEXT: 分享訓練家代碼
+
+RESOURCE ID: social_send_my_code_v2
+TEXT: 分享代碼
 
 RESOURCE ID: solrock_lunatone_regions
 TEXT: 月石和太陽岩將在不同的地區出沒
@@ -73935,6 +74385,9 @@ TEXT: 妙蛙種子經典社群日特殊調查入場券在商店裡上架了
 RESOURCE ID: ticket_charmander
 TEXT: 特殊調查「火尾童話」的入場券在商店中上架
 
+RESOURCE ID: ticket_charmander_cdc
+TEXT: 小火龍經典社群日特殊調查入場券在商店裡上架了
+
 RESOURCE ID: ticket_chespin
 TEXT: 特殊調查「堅尖刺栗」的入場券在商店中上架
 
@@ -74206,7 +74659,7 @@ RESOURCE ID: timed_research_pokemon_snubbull
 TEXT: 限時調查中登場的布魯
 
 RESOURCE ID: timed_trial_mb_research_title
-TEXT: Timed Investigation: Master Ball
+TEXT: 限時考驗：大師球
 
 RESOURCE ID: tips_battle_at_gyms_tutorial_body
 TEXT: 只要擊倒敵方道館的寶可夢（=讓所有寶可夢的幹勁計量表歸零），該道館就能成為我方道館。
@@ -74220,8 +74673,20 @@ TEXT: 和朋友一起玩更好玩！邀請朋友一起來玩Pokémon GO吧！
 RESOURCE ID: tips_friends_list_no_friends_title
 TEXT: 新增朋友
 
+RESOURCE ID: tips_friends_online_status_body
+TEXT: 你隨時都能使用朋友名單中的此一按鈕切換「顯示上線狀態」。
+
+
+開啟「顯示上線狀態」功能後，朋友將能知道你正在遊玩此遊戲。
+
+RESOURCE ID: tips_friends_online_status_title
+TEXT: 上線狀態
+
 RESOURCE ID: tips_friends_tutorial_add_body
-TEXT: 你可以輸入朋友的訓練家代碼，也可以掃描他們的二維條碼。或者是你也可以連動你的Facebook帳號，藉以新增朋友。
+TEXT: 你可以透過輸入訓練家代碼或掃描二維條碼來新增朋友。成為朋友後，雙方在所有有遊玩的Niantic遊戲上都會成為朋友。
+
+
+或者你也可以連動你的Facebook帳號，藉以新增朋友。
 
 RESOURCE ID: tips_friends_tutorial_add_title
 TEXT: 新增朋友
@@ -75563,6 +76028,9 @@ TEXT: 看來你找到糖果XL了呢。聽說這種糖果能讓強化寶可夢變
 RESOURCE ID: tutorial_xl_candy_2
 TEXT: 捕捉寶可夢的時候有機會獲得糖果XL。只要寶可夢越強，獲得糖果XL的機率就越高。
 
+RESOURCE ID: twelve_free_raid_passes
+TEXT: 旋轉道館轉盤時最多可獲得12張免費團體戰入場券
+
 RESOURCE ID: two_free_raid_passes
 TEXT: 每天旋轉道館轉盤最多可獲得兩張免費團體戰入場券
 
@@ -75739,6 +76207,12 @@ TEXT: 究極異獸到來 (7/8)
 
 RESOURCE ID: ub_arrival_title_07
 TEXT: 究極異獸到來 (8/8)
+
+RESOURCE ID: ultra23_lechonk_tr_1
+TEXT: 愛吃豚的冒險
+
+RESOURCE ID: ultra23_pawmi_tr_1
+TEXT: 與布撥一起走
 
 RESOURCE ID: ultra_anniversary_2022_event_name
 TEXT: 究極解鎖：Pokémon GO週年慶

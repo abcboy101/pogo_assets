@@ -1666,7 +1666,7 @@ RESOURCE ID: avatar_detail_total_activities
 TEXT: Total de atividades
 
 RESOURCE ID: avatar_detail_walking_distance
-TEXT: Distância a pé
+TEXT: Distância caminhada
 
 RESOURCE ID: avatar_earrings
 TEXT: Brincos
@@ -1767,6 +1767,9 @@ RESOURCE ID: avatar_f_backpack_nike2021_00_bundle_icon
 TEXT: Mochila
 NIKE HERITAGE
 
+RESOURCE ID: avatar_f_backpack_pamobackpack_00_bundle_icon
+TEXT: Mochila de Pawmi
+
 RESOURCE ID: avatar_f_backpack_pkmnhoodie001_0_bundle_icon
 TEXT: Mochila de semente
 
@@ -1792,6 +1795,10 @@ TEXT: Mochila de Paldea
 RESOURCE ID: avatar_f_backpack_svcostumevioletschool_00_bundle_icon
 TEXT: Mochila de Paldea
 (Violet)
+
+RESOURCE ID: avatar_f_backpack_svdlc1_00_bundle_icon
+TEXT: Mochila de Paldea
+(Kitakami)
 
 RESOURCE ID: avatar_f_backpack_swshdlc2costume_00_bundle_icon
 TEXT: Mochila Crown Tundra
@@ -1977,6 +1984,9 @@ TEXT: Sem luvas
 
 RESOURCE ID: avatar_f_gloves_frlg_bundle_icon
 TEXT: Pulseiras LeafGreen
+
+RESOURCE ID: avatar_f_gloves_geeta_00_bundle_icon
+TEXT: Luvas estilo da Guita
 
 RESOURCE ID: avatar_f_gloves_giovanni_0_bundle_icon
 TEXT: Luvas do Giovanni
@@ -2186,6 +2196,10 @@ TEXT: Chapéu de Goomy
 
 RESOURCE ID: avatar_f_hat_greencoat_00_bundle_icon
 TEXT: Chapéu festivo
+
+RESOURCE ID: avatar_f_hat_growlithehelmet_00_bundle_icon
+TEXT: Peruca de Growlithe
+de Hisui
 
 RESOURCE ID: avatar_f_hat_guccihat_00_bundle_icon
 TEXT: Chapéu The North Face x Gucci
@@ -2534,6 +2548,9 @@ RESOURCE ID: avatar_f_pants_fw2022_00_bundle_icon
 TEXT: Shorts
 de Mareanie
 
+RESOURCE ID: avatar_f_pants_geeta_00_bundle_icon
+TEXT: Calça estilo da Guita
+
 RESOURCE ID: avatar_f_pants_genderlessskirt_00_bundle_icon
 TEXT: Saia envelope
 
@@ -2824,6 +2841,9 @@ de Mareanie
 
 RESOURCE ID: avatar_f_shirt_galarfarfetchditems_00_bundle_icon
 TEXT: Camiseta e pochete de Farfetch'd de Galar
+
+RESOURCE ID: avatar_f_shirt_geeta_00_bundle_icon
+TEXT: Blusa estilo da Guita
 
 RESOURCE ID: avatar_f_shirt_genderlessskirt_00_bundle_icon
 TEXT: Jaqueta
@@ -3197,6 +3217,10 @@ RESOURCE ID: avatar_f_shirt_svcostumevioletschool_00_bundle_icon
 TEXT: Conjunto de Paldea
 (Violet)
 
+RESOURCE ID: avatar_f_shirt_svdlc1_00_bundle_icon
+TEXT: Conjunto de Paldea
+(Kitakami)
+
 RESOURCE ID: avatar_f_shirt_sweater_30_bundle_icon
 TEXT: Gola alta trinta
 
@@ -3430,6 +3454,10 @@ RESOURCE ID: avatar_f_shoes_fw2022_00_bundle_icon
 TEXT: Tênis
 de Mareanie
 
+RESOURCE ID: avatar_f_shoes_geeta_00_bundle_icon
+TEXT: Sapatos estilo
+da Guita
+
 RESOURCE ID: avatar_f_shoes_giovanni_0_bundle_icon
 TEXT: Sapatos do Giovanni
 
@@ -3544,6 +3572,10 @@ TEXT: Sapatos de Paldea
 RESOURCE ID: avatar_f_shoes_svcostumevioletschool_00_bundle_icon
 TEXT: Sapatos de Paldea
 (Violet)
+
+RESOURCE ID: avatar_f_shoes_svdlc1_00_bundle_icon
+TEXT: Sandálias de Paldea
+(Kitakami)
 
 RESOURCE ID: avatar_f_shoes_swshdlc2costume_00_bundle_icon
 TEXT: Botas Crown Tundra
@@ -3773,6 +3805,9 @@ RESOURCE ID: avatar_m_backpack_nike2021_00_bundle_icon
 TEXT: Mochila
 NIKE HERITAGE
 
+RESOURCE ID: avatar_m_backpack_pamobackpack_00_bundle_icon
+TEXT: Mochila de Pawmi
+
 RESOURCE ID: avatar_m_backpack_pkmnhoodie001_0_bundle_icon
 TEXT: Mochila de semente
 
@@ -3798,6 +3833,10 @@ TEXT: Mochila de Paldea
 RESOURCE ID: avatar_m_backpack_svcostumevioletschool_00_bundle_icon
 TEXT: Mochila de Paldea
 (Violet)
+
+RESOURCE ID: avatar_m_backpack_svdlc1_00_bundle_icon
+TEXT: Mochila de Paldea
+(Kitakami)
 
 RESOURCE ID: avatar_m_backpack_swshdlc2costume_00_bundle_icon
 TEXT: Mochila Crown Tundra
@@ -3965,6 +4004,9 @@ TEXT: Sem luvas
 
 RESOURCE ID: avatar_m_gloves_frlg_bundle_icon
 TEXT: Pulseiras FireRed
+
+RESOURCE ID: avatar_m_gloves_geeta_00_bundle_icon
+TEXT: Luvas estilo da Guita
 
 RESOURCE ID: avatar_m_gloves_giovanni_0_bundle_icon
 TEXT: Luvas do Giovanni
@@ -4177,6 +4219,10 @@ TEXT: Chapéu de Goomy
 
 RESOURCE ID: avatar_m_hat_greencoat_00_bundle_icon
 TEXT: Chapéu festivo
+
+RESOURCE ID: avatar_m_hat_growlithehelmet_00_bundle_icon
+TEXT: Peruca de Growlithe
+de Hisui
 
 RESOURCE ID: avatar_m_hat_guccihat_00_bundle_icon
 TEXT: Chapéu The North Face x Gucci
@@ -4516,6 +4562,9 @@ RESOURCE ID: avatar_m_pants_fw2022_00_bundle_icon
 TEXT: Shorts
 de Mareanie
 
+RESOURCE ID: avatar_m_pants_geeta_00_bundle_icon
+TEXT: Calça estilo da Guita
+
 RESOURCE ID: avatar_m_pants_genderlessskirt_00_bundle_icon
 TEXT: Saia envelope
 
@@ -4812,6 +4861,9 @@ de Mareanie
 
 RESOURCE ID: avatar_m_shirt_galarfarfetchditems_00_bundle_icon
 TEXT: Camiseta e pochete de Farfetch'd de Galar
+
+RESOURCE ID: avatar_m_shirt_geeta_00_bundle_icon
+TEXT: Blusa estilo da Guita
 
 RESOURCE ID: avatar_m_shirt_genderlessskirt_00_bundle_icon
 TEXT: Jaqueta
@@ -5191,6 +5243,10 @@ RESOURCE ID: avatar_m_shirt_svcostumevioletschool_00_bundle_icon
 TEXT: Conjunto de Paldea
 (Violet)
 
+RESOURCE ID: avatar_m_shirt_svdlc1_00_bundle_icon
+TEXT: Conjunto de Paldea
+(Kitakami)
+
 RESOURCE ID: avatar_m_shirt_sweatshirt_sporty_bundle_icon
 TEXT: Moletom esportivo
 
@@ -5423,6 +5479,10 @@ RESOURCE ID: avatar_m_shoes_fw2022_00_bundle_icon
 TEXT: Tênis
 de Mareanie
 
+RESOURCE ID: avatar_m_shoes_geeta_00_bundle_icon
+TEXT: Sapatos estilo
+da Guita
+
 RESOURCE ID: avatar_m_shoes_giovanni_0_bundle_icon
 TEXT: Sapatos do Giovanni
 
@@ -5537,6 +5597,10 @@ TEXT: Sapatos de Paldea
 RESOURCE ID: avatar_m_shoes_svcostumevioletschool_00_bundle_icon
 TEXT: Sapatos de Paldea
 (Violet)
+
+RESOURCE ID: avatar_m_shoes_svdlc1_00_bundle_icon
+TEXT: Sandálias de Paldea
+(Kitakami)
 
 RESOURCE ID: avatar_m_shoes_swshdlc2costume_00_bundle_icon
 TEXT: Botas Crown Tundra
@@ -6419,6 +6483,78 @@ TEXT: Campeonato Mundial Pokémon 2023, pesquisa temporária bônus
 
 RESOURCE ID: badge_event_0074_title
 TEXT: O campeão de DancingRob
+
+RESOURCE ID: badge_event_0075
+TEXT: Pesquisa de parceiros, Aventuras de Montão: SoftBank
+
+RESOURCE ID: badge_event_0075_title
+TEXT: Pesquisa de parceiros: SoftBank
+
+RESOURCE ID: badge_event_0075_title_00
+TEXT: Pesquisa de parceiros: SoftBank (1/4)
+
+RESOURCE ID: badge_event_0075_title_01
+TEXT: Pesquisa de parceiros: SoftBank (2/4)
+
+RESOURCE ID: badge_event_0075_title_02
+TEXT: Pesquisa de parceiros: SoftBank (3/4)
+
+RESOURCE ID: badge_event_0075_title_03
+TEXT: Pesquisa de parceiros: SoftBank (4/4)
+
+RESOURCE ID: badge_event_0076
+TEXT: Pesquisa de parceiros, Aventuras de Montão: Nankai Electric Railway
+
+RESOURCE ID: badge_event_0076_title
+TEXT: Pesquisa de parceiros: Nankai Electric Railway
+
+RESOURCE ID: badge_event_0076_title_00
+TEXT: Pesquisa de parceiros: Nankai Electric Railway (1/4)
+
+RESOURCE ID: badge_event_0076_title_01
+TEXT: Pesquisa de parceiros: Nankai Electric Railway (2/4)
+
+RESOURCE ID: badge_event_0076_title_02
+TEXT: Pesquisa de parceiros: Nankai Electric Railway (3/4)
+
+RESOURCE ID: badge_event_0076_title_03
+TEXT: Pesquisa de parceiros: Nankai Electric Railway (4/4)
+
+RESOURCE ID: badge_event_0077
+TEXT: Pesquisa de parceiros, Aventuras de Montão: Sumitomo Life Insurance Company
+
+RESOURCE ID: badge_event_0077_title
+TEXT: Pesquisa de parceiros: Sumitomo Life Insurance Company
+
+RESOURCE ID: badge_event_0077_title_00
+TEXT: Pesquisa de parceiros: Sumitomo Life Insurance Company (1/4)
+
+RESOURCE ID: badge_event_0077_title_01
+TEXT: Pesquisa de parceiros: Sumitomo Life Insurance Company (2/4)
+
+RESOURCE ID: badge_event_0077_title_02
+TEXT: Pesquisa de parceiros: Sumitomo Life Insurance Company (3/4)
+
+RESOURCE ID: badge_event_0077_title_03
+TEXT: Pesquisa de parceiros: Sumitomo Life Insurance Company (4/4)
+
+RESOURCE ID: badge_event_0078
+TEXT: Pesquisa de parceiros, Aventuras de Montão: Taiwan FamilyMart
+
+RESOURCE ID: badge_event_0078_title
+TEXT: Pesquisa de parceiros: Taiwan FamilyMart
+
+RESOURCE ID: badge_event_0078_title_00
+TEXT: Pesquisa de parceiros: Taiwan FamilyMart (1/4)
+
+RESOURCE ID: badge_event_0078_title_01
+TEXT: Pesquisa de parceiros: Taiwan FamilyMart (2/4)
+
+RESOURCE ID: badge_event_0078_title_02
+TEXT: Pesquisa de parceiros: Taiwan FamilyMart (3/4)
+
+RESOURCE ID: badge_event_0078_title_03
+TEXT: Pesquisa de parceiros: Taiwan FamilyMart (4/4)
 
 RESOURCE ID: badge_event_yoshinoya
 TEXT: Maio de 2021: Yoshinoya
@@ -7857,6 +7993,60 @@ TEXT: Safári Pokémon GO: Europa 2017
 RESOURCE ID: badge_safari_zone_europe_2017_title
 TEXT: Safári Pokémon GO: Europa 2017
 
+RESOURCE ID: badge_safaricity_2023_barcelona_day_00_general
+TEXT: Barcelona 2023
+
+RESOURCE ID: badge_safaricity_2023_barcelona_day_00_general_title
+TEXT: Safári urbano de Pokémon GO
+
+RESOURCE ID: badge_safaricity_2023_barcelona_day_01_general
+TEXT: Barcelona, 13 de outubro de 2023
+
+RESOURCE ID: badge_safaricity_2023_barcelona_day_01_general_title
+TEXT: Safári urbano de Pokémon GO
+
+RESOURCE ID: badge_safaricity_2023_barcelona_day_02_general
+TEXT: Barcelona 14 de outubro de 2023
+
+RESOURCE ID: badge_safaricity_2023_barcelona_day_02_general_title
+TEXT: Safári urbano de Pokémon GO
+
+RESOURCE ID: badge_safaricity_2023_mexico_city_day_00_general
+TEXT: Cidade do México 2023
+
+RESOURCE ID: badge_safaricity_2023_mexico_city_day_00_general_title
+TEXT: Safári urbano de Pokémon GO
+
+RESOURCE ID: badge_safaricity_2023_mexico_city_day_01_general
+TEXT: Cidade do México, 4 de novembro de 2023
+
+RESOURCE ID: badge_safaricity_2023_mexico_city_day_01_general_title
+TEXT: Safári urbano de Pokémon GO
+
+RESOURCE ID: badge_safaricity_2023_mexico_city_day_02_general
+TEXT: Cidade do México, 5 de novembro de 2023
+
+RESOURCE ID: badge_safaricity_2023_mexico_city_day_02_general_title
+TEXT: Safári urbano de Pokémon GO
+
+RESOURCE ID: badge_safaricity_2023_seoul_day_00_general
+TEXT: Seul 2023
+
+RESOURCE ID: badge_safaricity_2023_seoul_day_00_general_title
+TEXT: Safári urbano de Pokémon GO
+
+RESOURCE ID: badge_safaricity_2023_seoul_day_01_general
+TEXT: Seul, 7 de outubro de 2023
+
+RESOURCE ID: badge_safaricity_2023_seoul_day_01_general_title
+TEXT: Safári urbano de Pokémon GO
+
+RESOURCE ID: badge_safaricity_2023_seoul_day_02_general
+TEXT: Seul, 8 de outubro de 2023
+
+RESOURCE ID: badge_safaricity_2023_seoul_day_02_general_title
+TEXT: Safári urbano de Pokémon GO
+
 RESOURCE ID: badge_safarizone_2019_montreal_day_00_earlyaccess
 TEXT: Montreal, 19 de setembro de 2019
 
@@ -8662,10 +8852,13 @@ A sua conta foi permanentemente suspensa por violar os Termos de serviço.
 RESOURCE ID: banned_player_lockout_2
 TEXT: Mais informações
 
+RESOURCE ID: barcelona_catch_cup_title
+TEXT: Copa da Captura: Barcelona
+
 RESOURCE ID: batch_transfer_confirm
 TEXT: <size=36><b>Quer transferir {0} Pokémon ao Professor?</b></size>
 
-Você não poderá recuperá-lo(s) após a transferência.
+Você não poderá recuperar nenhum Pokémon após serem transferidos.
 
 RESOURCE ID: batch_transfer_eligible_confirm_plural
 TEXT: <size=36><b>Apenas {0} dos Pokémon selecionados podem ser transferidos.
@@ -11494,6 +11687,9 @@ TEXT: Evolua Graveler de Alola para obter Golem de Alola que sabe o ataque ágil
 RESOURCE ID: bonus_cd_move_axew
 TEXT: Evolua Fraxure para conseguir Haxorus que sabe o ataque carregado Impacto Vasto!
 
+RESOURCE ID: bonus_cd_move_charmander
+TEXT: Evolua Charmeleon para conseguir Charizard que sabe o ataque ágil Sopro do Dragão e o ataque carregado Queimadura Explosiva!
+
 RESOURCE ID: bonus_cd_move_chespin
 TEXT: Evolua Quilladin (a Evolução de Chespin) para conseguir Chesnaught que sabe o ataque carregado Planta Mortal!
 
@@ -11551,6 +11747,24 @@ TEXT: Evolua Linoone de Galar para obter um Obstagoon que sabe o ataque carregad
 RESOURCE ID: bonus_cd_ultra_unlock
 TEXT: Ultrabônus: 2× PE por captura e 2× doces por transferir Pokémon
 
+RESOURCE ID: bonus_choice_2x_incense
+TEXT: O dobro de duração do Incenso
+
+RESOURCE ID: bonus_choice_2x_incense_desc
+TEXT: Escolha este bônus para aproveitar uma duração maior do Incenso enquanto o seu ingresso estiver ativo.
+
+RESOURCE ID: bonus_choice_2x_lucky_egg
+TEXT: O dobro de duração do Ovo da Sorte
+
+RESOURCE ID: bonus_choice_2x_lucky_egg_desc
+TEXT: Escolha este bônus para aproveitar uma duração maior do Ovo da Sorte enquanto o seu ingresso estiver ativo.
+
+RESOURCE ID: bonus_choice_2x_star_piece
+TEXT: O dobro de duração do Pedaço de Estrela
+
+RESOURCE ID: bonus_choice_2x_star_piece_desc
+TEXT: Escolha este bônus para aproveitar uma duração maior do Pedaço de Estrela enquanto o seu ingresso estiver ativo.
+
 RESOURCE ID: bonus_double_guaranteed_xl_evolve
 TEXT: 2 doces GG garantidos ao evoluir Pokémon
 
@@ -11576,10 +11790,10 @@ RESOURCE ID: bonus_fr_party_pikachu
 TEXT: Complete a tarefa de pesquisa de campo obtida na Poképarada de Meet and Greet para conseguir um encontro com Pikachu usando um chapéu de festa!
 
 RESOURCE ID: bonus_friendship_levelup_1.5x
-TEXT: 1.5× XP from increasing Friendship levels
+TEXT: 1.5× PE ao aumentar os níveis de amizade
 
 RESOURCE ID: bonus_friendship_levelup_2x
-TEXT: 2× XP from increasing Friendship levels
+TEXT: 2× PE ao aumentar os níveis de amizade
 
 RESOURCE ID: bonus_friendship_raid_double
 TEXT: 2× dano adicional de amizade em Reides
@@ -11743,6 +11957,12 @@ TEXT: Rayquaza caught from raids will know the Charged Attack Breaking Swipe
 RESOURCE ID: bonus_purrloin_o_clock
 TEXT: Assim que a hora especial começar, Purrloin aparecerão com mais frequência!
 
+RESOURCE ID: bonus_raid_1_xl_candy
+TEXT: Um doce GG adicional por pegar Pokémon em Reides de cinco estrelas e Megarreides.
+
+RESOURCE ID: bonus_raid_3_candy
+TEXT: Três doces adicionais por pegar Pokémon em Reides de cinco estrelas e Megarreides.
+
 RESOURCE ID: bonus_raid_3_xl_candy
 TEXT: Três doces GG adicionais por pegar Pokémon em Reides de cinco estrelas, Megarreides e Reides Primitivos
 
@@ -11878,8 +12098,32 @@ TEXT: Aumento de Poeira Estelar ao derrotar Recrutas da Equipe GO Rocket
 RESOURCE ID: bonus_tgr_stardust_leader
 TEXT: Aumento de Poeira Estelar ao derrotar Líderes da Equipe GO Rocket
 
+RESOURCE ID: bonus_today_3_hr_lure_regular_only
+TEXT: 3 horas de duração do Módulo Atrair
+
+RESOURCE ID: bonus_today_event_tr
+TEXT: Pesquisa temporária exclusiva de evento já disponível
+
+RESOURCE ID: bonus_today_plus_100_stardust
+TEXT: 100 Poeira Estelar a mais por captura
+
+RESOURCE ID: bonus_today_special_lure_regular_only
+TEXT: Pokémon de evento atraídos por Módulo Atrair (normal)
+
 RESOURCE ID: bonus_total_6_special_trades
 TEXT: Seis trocas especiais no total por dia
+
+RESOURCE ID: bonus_tr_gbl_championships_2024_a_desc
+TEXT: Todo mundo começa em algum lugar: pesquisa temporária bônus
+
+RESOURCE ID: bonus_tr_gbl_championships_2024_a_title
+TEXT: Todo mundo começa em algum lugar
+
+RESOURCE ID: bonus_tr_gbl_championships_2024_b_desc
+TEXT: Pesquisa temporária bônus: Atrair!
+
+RESOURCE ID: bonus_tr_gbl_championships_2024_b_title
+TEXT: Atrair!
 
 RESOURCE ID: bonus_trade_stardust_50pc_5hr
 TEXT: As trocas feitas durante e até cinco horas após o evento exigirão 50% a menos de Poeira Estelar.
@@ -12434,14 +12678,14 @@ RESOURCE ID: buddy_heart_play_route_together_description
 TEXT: Você pode ganhar um coração com seu companheiro se seguir uma Rota enquanto se aventuram juntos.
 
 RESOURCE ID: buddy_heart_play_route_together_title
-TEXT: Seguir uma Rota em companhia
+TEXT: Seguir uma Rota juntos
 
 RESOURCE ID: buddy_hearts_label
 TEXT: Corações do companheiro
 
 RESOURCE ID: buddy_history
 TEXT: Histórico de
-companheiros
+companheiro
 
 RESOURCE ID: buddy_history_change
 TEXT: TROCAR COMPANHEIRO
@@ -12830,6 +13074,12 @@ TEXT: Uma mola pequena e fina totalmente esticada.
 
 RESOURCE ID: buddy_souvenir_stretchy_spring_name
 TEXT: Mola maleável
+
+RESOURCE ID: buddy_souvenir_tiny_compass
+TEXT: Minibússola 
+
+RESOURCE ID: buddy_souvenir_tiny_compass_desc
+TEXT: O seu companheiro deixou esta bússola para que você sempre encontre seu caminho de volta a ele.
 
 RESOURCE ID: buddy_souvenir_torn_ticket_description
 TEXT: Um bilhete usado, rasgado e desbotado. Provavelmente, o seu companheiro achou que era legal!
@@ -13352,7 +13602,7 @@ RESOURCE ID: catch_card_title
 TEXT: Cartão de Captura
 
 RESOURCE ID: catch_card_toast
-TEXT: Ostente esse Pokémon com um Cartão de Captura
+TEXT: Que tal mostrar esse Pokémon com um Cartão de Captura?
 
 RESOURCE ID: catch_card_total_species_caught
 TEXT: Total de {0} pegos: {1}
@@ -15411,7 +15661,7 @@ RESOURCE ID: combat_title_season_11
 TEXT: Liga de Batalha GO: Joias Ocultas
 
 RESOURCE ID: combat_title_season_12
-TEXT: GO Battle League: Adventures Abound
+TEXT: Liga de Batalha GO: Aventuras de Montão
 
 RESOURCE ID: combat_title_season_7
 TEXT: Programação da Liga de Batalha GO da Temporada de GO 
@@ -15442,6 +15692,9 @@ TEXT: Clássicos do Dia Comunitário: Bulbasaur
 
 RESOURCE ID: community_day_charmander_event_name
 TEXT: Dia Comunitário: Charmander
+
+RESOURCE ID: community_day_charmander_event_name_cdc
+TEXT: Clássicos do Dia Comunitário: Charmander
 
 RESOURCE ID: community_day_chespin_event_name
 TEXT: Dia Comunitário: Chespin
@@ -16463,6 +16716,24 @@ TEXT: Não foi possível editar a tag.
 RESOURCE ID: edit_tag_gui_title
 TEXT: EDITAR TAG
 
+RESOURCE ID: eevee_explorers_barcelona_title
+TEXT: Eevee Exploradores: Barcelona
+
+RESOURCE ID: eevee_explorers_barcelona_title_00
+TEXT: Eevee Exploradores: Barcelona (1/8)
+
+RESOURCE ID: eevee_explorers_mexico_city_title
+TEXT: Eevee Exploradores: Cidade do México
+
+RESOURCE ID: eevee_explorers_mexico_city_title_00
+TEXT: Eevee Exploradores: Cidade do México (1/8)
+
+RESOURCE ID: eevee_explorers_seoul_title
+TEXT: Eevee Exploradores: Seul
+
+RESOURCE ID: eevee_explorers_seoul_title_00
+TEXT: Eevee Exploradores: Seul (1/8)
+
 RESOURCE ID: egg_anticipation
 TEXT: O que há aí dentro?!
 
@@ -16612,7 +16883,7 @@ RESOURCE ID: encounter_excellent_throw
 TEXT: Excelente!
 
 RESOURCE ID: encounter_gotcha
-TEXT: Aí está!
+TEXT: É isso aí!
 
 RESOURCE ID: encounter_great_throw
 TEXT: Ótimo!
@@ -16745,6 +17016,9 @@ TEXT: English
 
 RESOURCE ID: enter_friend_code_prompt
 TEXT: Para adicionar alguém à sua lista de amigos, insira o código de Treinador.
+
+RESOURCE ID: enter_friend_code_prompt_v2
+TEXT: Send a Friend Request by entering or scanning your friend’s Trainer Code.
 
 RESOURCE ID: enter_tag_name_placeholder
 TEXT: Adicione o nome da tag
@@ -17457,11 +17731,17 @@ TEXT: Lâmina Mítica
 RESOURCE ID: event_name_bonus_generic
 TEXT: Evento bônus
 
+RESOURCE ID: event_name_paldean_adventure
+TEXT: Ultrabônus: Paldea
+
 RESOURCE ID: event_name_routes
 TEXT: Desbravando novos caminhos
 
 RESOURCE ID: event_name_snap
 TEXT: Celebração New Pokémon Snap
+
+RESOURCE ID: event_name_ultra_unlock_23
+TEXT: Uma aventura em Paldea
 
 RESOURCE ID: event_new_ditto_bonus
 TEXT: Ditto disfarçado de mais Pokémon selvagens
@@ -17781,6 +18061,9 @@ TEXT: Festival das Cores
 RESOURCE ID: event_registration_success
 TEXT: Você se registrou com sucesso para {0}!
 
+RESOURCE ID: event_safari_city
+TEXT: Safári urbano
+
 RESOURCE ID: event_season10_name
 TEXT: Temporada 10: Heróis em Ascensão
 
@@ -17788,7 +18071,7 @@ RESOURCE ID: event_season11_name
 TEXT: Temporada atual: Joias Ocultas
 
 RESOURCE ID: event_season12_name
-TEXT: Current Season: Adventures Abound
+TEXT: Temporada atual: Aventuras de Montão
 
 RESOURCE ID: event_season1_name
 TEXT: Temporada de celebração
@@ -18021,6 +18304,9 @@ TEXT: Você ainda não tem uma {0}!
 RESOURCE ID: ex_raid_pass_invite_prompt
 TEXT: Selecione um amigo para convidar para o Reide EX.
 
+RESOURCE ID: exclusive_incense_pokemon
+TEXT: Incense may attract Pokémon you wouldn’t see otherwise
+
 RESOURCE ID: exclusive_raid_log_cancelled
 TEXT: O Reide EX programado para {0}, às {1} em {2} foi cancelado.
 
@@ -18245,6 +18531,9 @@ TEXT: Pose de surfista
 RESOURCE ID: f_avatar_poses_bundle_pose_53
 TEXT: Pose Mapa do
 Tesouro
+
+RESOURCE ID: f_avatar_poses_bundle_pose_55
+TEXT: Pose estilo da Guita
 
 RESOURCE ID: f_avatar_poses_empty_bundle_pose_empty
 TEXT: Ociosa
@@ -19901,6 +20190,9 @@ TEXT: Gardevoir e Gallade encontrados após Reides saberão Barulho Sincronizado
 RESOURCE ID: gardevoir_gallade_synchronoise_evolve
 TEXT: Evoluir 1 Kirlia para Gardevoir ou Gallade que sabe Barulho Sincronizado
 
+RESOURCE ID: gbl_championships_2024_bonus_event
+TEXT: Bônus de evento: Vamos batalhar!
+
 RESOURCE ID: gbl_double_dust_end_of_set
 TEXT: 2x Poeira Estelar por completar uma série de batalhas na Liga de Batalha GO
 
@@ -20313,6 +20605,34 @@ VOCÊ DEVE JOGAR DURANTE O HORÁRIO ESPECIFICADO PARA RECEBER O BÔNUS.
 RESOURCE ID: general1.ticket.2_sandt_title
 TEXT: Arenoso e congelante
 
+RESOURCE ID: general1.ticket.2_septcdc2023_description
+TEXT: Um ingresso para acessar a pesquisa especial do evento Clássicos do Dia Comunitário: Charmander no dia 2 de setembro de 2023, das 14h às 17h do seu horário local, de onde você estiver. 
+ 
+As recompensas da pesquisa incluem: 
+- Itens premium de jogo, como Doces Raros, Ultra Bolas e mais 
+- Encontros extra com Charmander e suas Evoluções 
+ 
+Mais detalhes podem ser encontrados na seção de novidades do jogo. 
+ 
+<b>Você deve jogar durante o horário especificado para receber todos os bônus especiais de evento.</b>
+
+RESOURCE ID: general1.ticket.2_septcdc2023_title
+TEXT: Ingresso para Clássicos do Dia Comunitário: Charmander
+
+RESOURCE ID: general1.ticket.2_septembercd2023_description
+TEXT: A ticket to access the Community Day: Grubbin Special Research on September 23, 2023, from 2:00 p.m. to 5:00 p.m. local time, wherever you are. 
+ 
+Research rewards include: 
+- Premium in-game items, such as Rare Candies, Ultra Balls, and more 
+- Extra encounters with Grubbin and its Evolutions 
+ 
+Details can be found in the in-game News. 
+ 
+<b>You must play during the specified time to receive all the special event bonuses.</b>
+
+RESOURCE ID: general1.ticket.2_septembercd2023_title
+TEXT: Grubbin Community Day Ticket
+
 RESOURCE ID: general1.ticket.2_shint_description
 TEXT: Um ingresso para acessar a pesquisa especial "Lampejante, Fagulhante e Fulgurante", em 21 de novembro de 2021, das 11h às 17h, horário local, de onde você estiver. Mais detalhes podem ser encontrados na seção de novidades do jogo.
 
@@ -20631,6 +20951,22 @@ Os detalhes podem ser encontrados na seção de novidades do jogo.
 RESOURCE ID: general1.ticket.megahoenn_title
 TEXT: Ingresso para Rumo ao dia de Megarreides de Hoenn
 
+RESOURCE ID: general1.ticket.pawmibackpack_description
+TEXT: Um ingresso para acessar a pesquisa temporária, que inclui as seguintes recompensas. 
+ 
+- Dois encontros com Pawmi 
+- Mochila de Pawmi 
+- Três Doces Raros 
+- Uma Incubadora 
+- 10 Frutas Caxí prateadas 
+- 921 Poeira Estelar 
+- 9210 PE 
+ 
+ Observe que a pesquisa temporária expira. As tarefas associadas a esta pesquisa temporária devem ser completadas e suas recompensas devem ser resgatadas antes de sexta-feira, 15 de setembro de 2023, às 20h do seu horário local.
+
+RESOURCE ID: general1.ticket.pawmibackpack_title
+TEXT: Conte comigo
+
 RESOURCE ID: general1.ticket.s10timed_description
 TEXT: Um ingresso para acessar a pesquisa temporária “Guarda-roupa do Willow”, de onde você estiver. As recompensas da pesquisa incluem: 
 
@@ -20888,7 +21224,7 @@ TEXT: Um ingresso para participar do Clássicos do Dia Comunitário: Dratini, no
 VOCÊ DEVE JOGAR DURANTE O HORÁRIO ESPECIFICADO PARA RECEBER TODOS OS BÔNUS ESPECIAIS DO EVENTO.
 
 RESOURCE ID: geotarget_quest_description
-TEXT: Escanear {0}
+TEXT: Escanear {0}.
 
 RESOURCE ID: german
 TEXT: Deutsch
@@ -25179,6 +25515,9 @@ TEXT: Remix da Grande Liga
 RESOURCE ID: great_raid_box_title
 TEXT: Combo Supergenial de Reide
 
+RESOURCE ID: great_storage_box
+TEXT: Combo Supergenial de Estoque
+
 RESOURCE ID: ground_type_event
 TEXT: Invasão de tipo: Terrestre
 
@@ -27166,6 +27505,12 @@ TEXT: Escama que faz com que certas espécies de Pokémon evoluam. É robusta e 
 RESOURCE ID: item_dragon_scale_name
 TEXT: Escama de Dragão
 
+RESOURCE ID: item_event_ticket_blue_desc_pawmibackpack
+TEXT: Um ingresso para acessar a pesquisa temporária, de domingo 10 de setembro de 2023, às 10h, até sexta-feira, 15 de setembro de 2023, às 20h do seu horário local, de onde você estiver.
+
+RESOURCE ID: item_event_ticket_blue_details_pawmibackpack
+TEXT: Este ingresso será ativado automaticamente para lhe garantir acesso à pesquisa temporária, Conte Comigo, de onde você estiver.
+
 RESOURCE ID: item_event_ticket_gray_desc
 TEXT: Um ingresso para participar do Festival de Pokémon GO 2023: Global, de onde você estiver.
 
@@ -27200,7 +27545,7 @@ RESOURCE ID: item_event_ticket_pink_bulbt_details
 TEXT: Este ingresso será ativado automaticamente para lhe garantir acesso a uma pesquisa especial no dia 22 de janeiro de 2022, de onde você estiver.
 
 RESOURCE ID: item_event_ticket_pink_desc
-TEXT: Um ingresso para acessar a pesquisa especial do Dia Comunitário de Froakie no dia 13 de agosto de 2023, das 14h às 17h do seu horário local, de onde você estiver.
+TEXT: Um ingresso para participar pesquisa especial do evento Clássicos do Dia Comunitário: Charmander, de onde você estiver.
 
 RESOURCE ID: item_event_ticket_pink_desc_alodude
 TEXT: Um ingresso para acessar uma pesquisa especial em 21 de maio de 2022, das 11h às 14h, horário local, de onde você estiver.
@@ -27217,11 +27562,17 @@ TEXT: Um ingresso para acessar a pesquisa especial no dia 5 de novembro de 2022,
 RESOURCE ID: item_event_ticket_pink_desc_fennekin
 TEXT: Um ingresso para acessar a pesquisa especial do Dia Comunitário de Fennekin, de onde você estiver.
 
+RESOURCE ID: item_event_ticket_pink_desc_froakie
+TEXT: Um ingresso para acessar a pesquisa especial do Dia Comunitário de Froakie no dia 13 de agosto de 2023, das 14h às 17h do seu horário local, de onde você estiver.
+
 RESOURCE ID: item_event_ticket_pink_desc_gbd
 TEXT: Um ingresso para acessar a pesquisa temporária do Dia de Batalhas GO: Poeira Estelar, de onde você estiver.
 
 RESOURCE ID: item_event_ticket_pink_desc_gold
 TEXT: Um ingresso para acessar a pesquisa temporária Em busca de ouro no dia 3 de junho de 2023, das 14h às 17h do seu horário local, de onde você estiver.
+
+RESOURCE ID: item_event_ticket_pink_desc_grubbin
+TEXT: A ticket to access Special Research on September 23, 2023, from 2:00 p.m. to 5:00 p.m. local time, wherever you are.
 
 RESOURCE ID: item_event_ticket_pink_desc_mrmime
 TEXT: Um ingresso para acessar a pesquisa especial entre os dias 19 de dezembro de 2020, às 10h, e 20 de dezembro de 2020, às 20h, horário local, de onde você estiver.
@@ -27239,7 +27590,7 @@ RESOURCE ID: item_event_ticket_pink_desc_togetic
 TEXT: Um ingresso para acessar a pesquisa especial no dia 15 de abril de 2023, das 14h às 17h do seu horário local, de onde você estiver.
 
 RESOURCE ID: item_event_ticket_pink_details
-TEXT: Esse ingresso será ativado automaticamente para lhe garantir acesso à narrativa de pesquisa especial de Um temperamento borbulhante no dia 13 de agosto de 2023, de onde você estiver.
+TEXT: Esse ingresso será ativado automaticamente para lhe garantir acesso à pesquisa especial do evento Clássicos do Dia Comunitário: Charmander no dia 2 de setembro de 2023, das 14h às 17h do seu horário local, de onde você estiver.
 
 RESOURCE ID: item_event_ticket_pink_details_axew
 TEXT: Esse ingresso será ativado automaticamente para lhe garantir acesso à pesquisa especial do Dia Comunitário de Axew no sábado, 10 de junho de 2023, das 14h às 17h do seu horário local, de onde você estiver.
@@ -27253,11 +27604,17 @@ TEXT: Este ingresso será ativado automaticamente para lhe garantir acesso a uma
 RESOURCE ID: item_event_ticket_pink_details_fennekin
 TEXT: Esse ingresso será ativado automaticamente para lhe garantir acesso à pesquisa especial do Dia Comunitário de Fennekin no dia 21 de maio de 2023, das 14h às 17h, do seu horário local, de onde você estiver.
 
+RESOURCE ID: item_event_ticket_pink_details_froakie
+TEXT: Esse ingresso será ativado automaticamente para lhe garantir acesso à narrativa de pesquisa especial de Um temperamento borbulhante no dia 13 de agosto de 2023, de onde você estiver.
+
 RESOURCE ID: item_event_ticket_pink_details_gbd
 TEXT: Esse ingresso será ativado automaticamente para lhe garantir acesso à pesquisa temporária do Dia de Batalhas GO: Poeira Estelar em 14 de maio de 2023, das 0h às 23h59min, do seu horário local, de onde você estiver.
 
 RESOURCE ID: item_event_ticket_pink_details_gold
 TEXT: Este ingresso será ativado automaticamente para lhe garantir acesso à pesquisa temporária Em busca de ouro no dia 3 de junho de 2023, das 14h às 17h, do seu horário local, de onde você estiver.
+
+RESOURCE ID: item_event_ticket_pink_details_grubbin
+TEXT: This ticket will automatically activate to give you access to the Grubbin Community Day Special Research, wherever you are.
 
 RESOURCE ID: item_event_ticket_pink_details_mrmime
 TEXT: Este ingresso será ativado automaticamente para lhe garantir acesso ao evento de Mr. Mime de Galar entre os dias 19 de dezembro de 2020, às 10h, a 20 de dezembro de 2020, às 20h, horário local, de onde você estiver.
@@ -29074,7 +29431,7 @@ RESOURCE ID: limited_research_infernape
 TEXT: Pesquisa limitada de Infernape
 
 RESOURCE ID: limited_research_inkay
-TEXT: Pesquisa limitada de Inkay
+TEXT: Inkay Limited Research
 
 RESOURCE ID: limited_research_ivysaur
 TEXT: Pesquisa limitada de Ivysaur
@@ -30835,6 +31192,9 @@ RESOURCE ID: m_avatar_poses_bundle_pose_53
 TEXT: Pose Mapa do
 Tesouro
 
+RESOURCE ID: m_avatar_poses_bundle_pose_55
+TEXT: Pose estilo da Guita
+
 RESOURCE ID: m_avatar_poses_empty_bundle_pose_empty
 TEXT: Ocioso
 
@@ -31701,9 +32061,9 @@ RESOURCE ID: mega_walking_progress
 TEXT: Progresso de caminhada
 
 RESOURCE ID: metadata_local
-TEXT: Built at 2023-09-18T20:59:16.703945
-at SHA a7306e08ee82874ddca80bcdb58d5b465d837223
-Pipeline 1760683, job 21350629
+TEXT: Built at 2023-10-02T20:40:06.933377
+at SHA 1d5e5f0c7d73f8dfe244488bea8bbc845f45bf8d
+Pipeline 1795962, job 21779397
 
 RESOURCE ID: mex_fighting_promo_title
 TEXT: Pesquisa temporária: Escolha o seu tipo de lutador
@@ -31737,6 +32097,9 @@ TEXT: Peso pesado: escolha Hariyama
 
 RESOURCE ID: mex_promo_tr_path_c_desc
 TEXT: Escolha este caminho para um encontro com Hariyama, o Pokémon Propulsão de Braço, além de doces de Machop, PE e Poeira Estelar de recompensas.
+
+RESOURCE ID: mexico_city_catch_cup_title
+TEXT: Copa da Captura: Cidade do México
 
 RESOURCE ID: milestone_rewards_title
 TEXT: RECOMPENSAS POR CONQUISTAS
@@ -32869,6 +33232,15 @@ TEXT: Laceração Espacial
 RESOURCE ID: move_name_0389
 TEXT: Asa do Esquecimento
 
+RESOURCE ID: move_name_0391
+TEXT: Pinote Triplo
+
+RESOURCE ID: move_name_0392
+TEXT: Desbravar
+
+RESOURCE ID: move_name_0393
+TEXT: Areias Ardentes
+
 RESOURCE ID: move_reroll_confirm_desc
 TEXT: {0} esquecerá {1}.
 
@@ -33664,6 +34036,9 @@ TEXT: {0} e {1} salvaram seus Cartões-postais!
 
 RESOURCE ID: pair_friend_sent_you_gift_notification
 TEXT: {0} e {1} enviaram presentes para você!
+
+RESOURCE ID: paldean_pokedex_header
+TEXT: Forma de Paldea
 
 RESOURCE ID: palma_enable_modal_failure_message
 TEXT: Tente de novo através das configurações ou do ícone da Poké Bola Plus.
@@ -41590,22 +41965,22 @@ RESOURCE ID: pokemon_desc_0989
 TEXT: Não há registros de captura deste Pokémon. Apesar de não existirem informações suficientes, as características deste Pokémon se assemelham com a de uma criatura descrita em um diário de expedição.
 
 RESOURCE ID: pokemon_desc_0990
-TEXT: Sightings of this Pokémon have occurred in recent years. It resembles a mysterious object described in an old expedition journal.
+TEXT: Avistamentos deste Pokémon ocorreram nos últimos anos. Parece-se com um objeto misterioso descrito em um antigo diário de expedição.
 
 RESOURCE ID: pokemon_desc_0991
-TEXT: It resembles a mysterious object mentioned in an old book. There are only two reported sightings of this Pokémon.
+TEXT: Parece-se com um objeto misterioso descrito em um livro antigo. Registros mostram que este Pokémon foi avistado apenas duas vezes.
 
 RESOURCE ID: pokemon_desc_0992
-TEXT: This Pokémon shares many similarities with Iron Hands, an object mentioned in a certain expedition journal.
+TEXT: Este Pokémon compartilha muitas semelhanças com Mãos Férreas, um objeto mencionado em um diário de expedição.
 
 RESOURCE ID: pokemon_desc_0993
-TEXT: It’s possible that Iron Jugulis, an object described in an old book, may actually be this Pokémon.
+TEXT: É possível que Jugulares Férreas, um objeto descrito em um livro antigo, seja este Pokémon.
 
 RESOURCE ID: pokemon_desc_0994
-TEXT: No records exist of this species being caught. Data is lacking, but the Pokémon’s traits match up with an object described in an old book.
+TEXT: Não há registros de captura deste Pokémon. Apesar de não existirem informações suficientes, as características deste Pokémon se assemelham com a de um objeto descrito em um livro antigo.
 
 RESOURCE ID: pokemon_desc_0995
-TEXT: Some of its notable features match those of an object named within a certain expedition journal as Iron Thorns.
+TEXT: Alguns dos seus traços mais notáveis são os mesmos de um objeto chamado de Espinhos Férreos em um certo diário de expedição.
 
 RESOURCE ID: pokemon_desc_0996
 TEXT: Frigibax absorve calor através de sua barbatana dorsal e o converte em energia de gelo. Quanto mais alta a temperatura, mais energia é armazenada por Frigibax.
@@ -41638,13 +42013,13 @@ RESOURCE ID: pokemon_desc_1005
 TEXT: É possível que esta seja a criatura listada como Lua Estrondo em um diário de expedição que ainda guarda muitos mistérios.
 
 RESOURCE ID: pokemon_desc_1006
-TEXT: It’s possible that this is the object listed as Iron Valiant in a certain expedition journal.
+TEXT: É possível que este seja o objeto listado como Valentia Férrea em um certo diário de expedição.
 
 RESOURCE ID: pokemon_desc_1007_2996
 TEXT: Este parece ser o Rei Alado mencionado em um diário de expedição antigo. Acredita-se que separou a terra usando apenas seus punhos.
 
 RESOURCE ID: pokemon_desc_1008_2997
-TEXT: This seems to be the Iron Serpent mentioned in an old book. The Iron Serpent is said to have turned the land to ash with its lightning.
+TEXT: Assemelha-se à Serpente Férrea mencionada em um livro antigo. Acredita-se que a Serpente Férrea tenha usado seu raio para reduzir o solo a cinzas.
 
 RESOURCE ID: pokemon_desc_tmpevo_0003_0001
 TEXT: As suas costas e pernas tornaram-se mais fortes para conseguir sustentar o peso da sua flor, que cresceu drasticamente devido à sua Megaevolução.
@@ -42136,7 +42511,7 @@ TEXT: Transferir
 RESOURCE ID: pokemon_info_transfer_to_professor_confirmation
 TEXT: <size=36><b>Quer transferir {0} ao Professor?</b></size>
 
-Você não poderá recuperá-lo após a transferência.
+Você não poderá recuperar nenhum Pokémon após serem transferidos.
 
 RESOURCE ID: pokemon_info_transfer_to_professor_result
 TEXT: Transferência bem-sucedida! Você recebeu um doce {0} do Professor.
@@ -42163,7 +42538,7 @@ RESOURCE ID: pokemon_info_weight
 TEXT: Peso
 
 RESOURCE ID: pokemon_info_xl_candy_label
-TEXT: Doce GG de {0}
+TEXT: Doces GG de {0}
 
 RESOURCE ID: pokemon_inventory_favorite_search_remove_button
 TEXT: Excluir
@@ -45729,7 +46104,7 @@ RESOURCE ID: postcard_expansion_deeplink_button
 TEXT: Ir para o Livro de Cartões-postais
 
 RESOURCE ID: postcard_expansion_purchase_success_toast
-TEXT: Adicionado ao seu Livro de Cartões-postais
+TEXT: Adicionado ao seu Livro de Cartão-postal
 
 RESOURCE ID: postcard_favorite
 TEXT: FAVORITO
@@ -46484,6 +46859,9 @@ TEXT: Itens secretos
 RESOURCE ID: quest_breakthrough_reward_stardust
 TEXT: Poeira Estelar
 
+RESOURCE ID: quest_buddy_affection_days
+TEXT: Ganhar 1 coração com o seu companheiro em {0} dias diferentes.
+
 RESOURCE ID: quest_buddy_affection_days_in_a_row
 TEXT: Ganhar 1 coração com seu companheiro {0} dias seguidos.
 
@@ -46619,6 +46997,9 @@ TEXT: Pegar {0} Luvdisc.
 RESOURCE ID: quest_catch_misc_01_types_plural
 TEXT: Pegar {0} Pokémon de tipo Normal, Água ou Gelo.
 
+RESOURCE ID: quest_catch_nymble_plural
+TEXT: Pegar {0} Nymble.
+
 RESOURCE ID: quest_catch_pikachu_plural
 TEXT: Pegar {0} Pikachu.
 
@@ -46627,6 +47008,9 @@ TEXT: Pegar {0} espécies diferentes de Pokémon.
 
 RESOURCE ID: quest_catch_pokemon_dai_plural
 TEXT: Usar Incenso de Aventura Diário para ajudar a pegar {0} Pokémon.
+
+RESOURCE ID: quest_catch_pokemon_days
+TEXT: Pegar 1 Pokémon em {0} dias diferentes.
 
 RESOURCE ID: quest_catch_pokemon_plural
 TEXT: Pegar {0} Pokémon.
@@ -47364,6 +47748,9 @@ TEXT: Uma situação cabeluda
 RESOURCE ID: quest_complete_zygarde
 TEXT: De A a Zygarde
 
+RESOURCE ID: quest_crocalor_evolve_b
+TEXT: Evoluir 1 Crocalor.
+
 RESOURCE ID: quest_daily_bonus_title
 TEXT: Bônus diário
 
@@ -47933,6 +48320,30 @@ TEXT: Evoluir {0} Pokémon de tipo Planta.
 
 RESOURCE ID: quest_equinox19_evolve_type_grass_plural_2
 TEXT: Evoluir {0} Pokémon de tipo Planta.
+
+RESOURCE ID: quest_event_eevee_snapshot_barcelona
+TEXT: Tirar uma foto de seu Eevee em Barcelona
+
+RESOURCE ID: quest_event_eevee_snapshot_mexico_city
+TEXT: Tirar uma foto de seu Eevee na Cidade do México
+
+RESOURCE ID: quest_event_eevee_snapshot_seoul
+TEXT: Tirar uma foto de seu Eevee em Seul.
+
+RESOURCE ID: quest_event_leave_behind_spin_safari_city_plural
+TEXT: Spin {0} Pokéstops at an Eevee Explorer location you've never visited before
+
+RESOURCE ID: quest_event_leave_behind_spin_safari_city_singular
+TEXT: Spin a Pokéstop at an Eevee Explorer location you've never visited before
+
+RESOURCE ID: quest_event_spin_barcelona
+TEXT: Girar 1 fotodisco de uma Poképarada ou Ginásio em Barcelona
+
+RESOURCE ID: quest_event_spin_mexico_city
+TEXT: Girar 1 fotodisco de uma Poképarada ou Ginásio na Cidade do México
+
+RESOURCE ID: quest_event_spin_seoul
+TEXT: Girar 1 fotodisco de uma Poképarada ou Ginásio em Seul.
 
 RESOURCE ID: quest_evolve_abra_singular
 TEXT: Evoluir 1 Abra
@@ -49245,6 +49656,9 @@ TEXT: Evoluir {0} Fletchling.
 RESOURCE ID: quest_flett_evolve_s1
 TEXT: Evoluir {0} Fletchinder.
 
+RESOURCE ID: quest_floragato_evolve_b
+TEXT: Evoluir 1 Floragato.
+
 RESOURCE ID: quest_fraxure_evolve_b
 TEXT: Evoluir {0} Fraxure
 
@@ -49259,6 +49673,9 @@ TEXT: Tirar 1 foto de {0} Froakie.
 
 RESOURCE ID: quest_frogadier_evolve_b
 TEXT: Evoluir {0} Frogadier.
+
+RESOURCE ID: quest_fuecoco_evolve_b
+TEXT: Evoluir 1 Fuecoco.
 
 RESOURCE ID: quest_gbl_rank
 TEXT: Alcançar o ranque {0} na Liga de Batalha GO
@@ -49276,7 +49693,7 @@ RESOURCE ID: quest_gbl_rank_twenty
 TEXT: Alcançar o ranque 20 na Liga de Batalha GO
 
 RESOURCE ID: quest_get_cell_singular
-TEXT: Encontrar 1 célula de Zygarde
+TEXT: Encontrar 1 célula de Zygarde.
 
 RESOURCE ID: quest_giblt_catch_b
 TEXT: Pegar {0} Gible.
@@ -50230,7 +50647,7 @@ RESOURCE ID: quest_play_buddy_singular
 TEXT: Brincar com seu companheiro.
 
 RESOURCE ID: quest_pokemon_appears
-TEXT: Apareceu um Pokémon!
+TEXT: Um Pokémon!
 
 RESOURCE ID: quest_poliwag_catch_b
 TEXT: Pegar {0} Poliwag
@@ -50375,6 +50792,12 @@ TEXT: Pegar {0} Pokémon de tipo Psíquico.
 
 RESOURCE ID: quest_psychicspec_evolve_plural
 TEXT: Evoluir {0} Exeggcute ou Slowpoke.
+
+RESOURCE ID: quest_quaxly_evolve_b
+TEXT: Evoluir 1 Quaxly.
+
+RESOURCE ID: quest_quaxwell_evolve_b
+TEXT: Evoluir 1 Quaxwell.
 
 RESOURCE ID: quest_quilladin_evolve_b
 TEXT: Evoluir {0} Quilladin.
@@ -50563,7 +50986,7 @@ RESOURCE ID: quest_send_gifts_singular
 TEXT: Enviar 1 presente para um amigo.
 
 RESOURCE ID: quest_send_gifts_sticker_plural
-TEXT: Enviar {0} presentes e adicionar um adesivo em cada
+TEXT: Enviar {0} presentes e adicionar um adesivo em cada.
 
 RESOURCE ID: quest_send_gifts_sticker_singular
 TEXT: Enviar um presente com um adesivo.
@@ -50707,13 +51130,13 @@ RESOURCE ID: quest_snapshot_wild_dark_plural
 TEXT: Tirar {0} fotos de Pokémon selvagens de tipo Sombrio.
 
 RESOURCE ID: quest_snapshot_wild_dark_unique_plural
-TEXT: Take snapshots of {0} different wild Dark-type Pokémon
+TEXT: Tirar fotos de {0} Pokémon selvagens de tipo Sombrio diferentes.
 
 RESOURCE ID: quest_snapshot_wild_dragon_plural
 TEXT: Tirar {0} fotos de Pokémon selvagens de tipo Dragão.
 
 RESOURCE ID: quest_snapshot_wild_dragon_unique_plural
-TEXT: Take snapshots of {0} different wild Dragon-type Pokémon
+TEXT: Tirar fotos de {0} Pokémon selvagens de tipo Dragão diferentes.
 
 RESOURCE ID: quest_snapshot_wild_ducklett_chinchou_finneon
 TEXT: Tirar 1 foto de Chinchou, Finneon ou Ducklett selvagem.
@@ -50725,7 +51148,7 @@ RESOURCE ID: quest_snapshot_wild_electric_plural
 TEXT: Tirar {0} fotos de Pokémon selvagens de tipo Elétrico.
 
 RESOURCE ID: quest_snapshot_wild_electric_unique_plural
-TEXT: Take snapshots of {0} different wild Electric-type Pokémon
+TEXT: Tirar fotos de {0} Pokémon selvagens de tipo Elétrico diferentes.
 
 RESOURCE ID: quest_snapshot_wild_entei
 TEXT: Tirar 1 foto de Entei selvagem.
@@ -50734,13 +51157,13 @@ RESOURCE ID: quest_snapshot_wild_fairy_plural
 TEXT: Tirar {0} fotos de Pokémon selvagens de tipo Fada.
 
 RESOURCE ID: quest_snapshot_wild_fairy_unique_plural
-TEXT: Take snapshots of {0} different wild Fairy-type Pokémon
+TEXT: Tirar fotos de {0} Pokémon selvagens de tipo Fada diferentes.
 
 RESOURCE ID: quest_snapshot_wild_fighting_plural
 TEXT: Tirar {0} fotos de Pokémon selvagens de tipo Lutador.
 
 RESOURCE ID: quest_snapshot_wild_fighting_unique_plural
-TEXT: Take snapshots of {0} different wild Fighting-type Pokémon
+TEXT: Tirar fotos de {0} Pokémon selvagens de tipo Lutador diferentes.
 
 RESOURCE ID: quest_snapshot_wild_fire_plural
 TEXT: Tirar {0} fotos de Pokémon selvagens de tipo Fogo.
@@ -50749,7 +51172,7 @@ RESOURCE ID: quest_snapshot_wild_flying_plural
 TEXT: Tirar {0} fotos de Pokémon selvagens de tipo Voador.
 
 RESOURCE ID: quest_snapshot_wild_flying_unique_plural
-TEXT: Take snapshots of {0} different wild Flying-type Pokémon
+TEXT: Tirar fotos de {0} Pokémon selvagens de tipo Voador diferentes.
 
 RESOURCE ID: quest_snapshot_wild_geodude_sandshrew_cacnea
 TEXT: Tirar 1 foto de Sandshrew, Geodude ou Cacnea selvagem.
@@ -50758,7 +51181,7 @@ RESOURCE ID: quest_snapshot_wild_ghost_plural
 TEXT: Tirar {0} fotos de Pokémon selvagens de tipo Fantasma.
 
 RESOURCE ID: quest_snapshot_wild_ghost_unique_plural
-TEXT: Take snapshots of {0} different wild Ghost-type Pokémon
+TEXT: Tirar fotos de {0} Pokémon selvagens de tipo Fantasma diferentes.
 
 RESOURCE ID: quest_snapshot_wild_grass_plural
 TEXT: Tirar {0} fotos de Pokémon selvagens de tipo Planta.
@@ -50767,13 +51190,13 @@ RESOURCE ID: quest_snapshot_wild_grass_singular
 TEXT: Tirar 1 foto de um Pokémon selvagem de tipo Planta.
 
 RESOURCE ID: quest_snapshot_wild_grass_unique_plural
-TEXT: Take snapshots of {0} different wild Grass-type Pokémon
+TEXT: Tirar fotos de {0} Pokémon selvagens de tipo Planta diferentes.
 
 RESOURCE ID: quest_snapshot_wild_ground_plural
 TEXT: Tirar {0} fotos de Pokémon selvagens de tipo Terrestre.
 
 RESOURCE ID: quest_snapshot_wild_ground_unique_plural
-TEXT: Take snapshots of {0} different wild Ground-type Pokémon
+TEXT: Tirar fotos de {0} Pokémon selvagens de tipo Terrestre diferentes.
 
 RESOURCE ID: quest_snapshot_wild_hoothoot
 TEXT: Tirar 1 foto de Hoothoot selvagem.
@@ -50785,7 +51208,7 @@ RESOURCE ID: quest_snapshot_wild_ice_singular
 TEXT: Tirar 1 foto de um Pokémon selvagem de tipo Gelo.
 
 RESOURCE ID: quest_snapshot_wild_ice_unique_plural
-TEXT: Take snapshots of {0} different wild Ice-type Pokémon
+TEXT: Tirar fotos de {0} Pokémon selvagens de tipo Gelo diferentes.
 
 RESOURCE ID: quest_snapshot_wild_lotad_metapod_aipom
 TEXT: Tirar 1 foto de Metapod, Aipom ou Lotad selvagem.
@@ -50800,7 +51223,7 @@ RESOURCE ID: quest_snapshot_wild_normal_plural
 TEXT: Tirar {0} fotos de Pokémon selvagens de tipo Normal.
 
 RESOURCE ID: quest_snapshot_wild_normal_unique_plural
-TEXT: Take snapshots of {0} different wild Normal-type Pokémon
+TEXT: Tirar fotos de {0} Pokémon selvagens de tipo Normal diferentes.
 
 RESOURCE ID: quest_snapshot_wild_plural
 TEXT: Tirar {0} fotos de Pokémon selvagem.
@@ -50809,13 +51232,13 @@ RESOURCE ID: quest_snapshot_wild_poison_plural
 TEXT: Tirar {0} fotos de Pokémon selvagens de tipo Venenoso.
 
 RESOURCE ID: quest_snapshot_wild_poison_unique_plural
-TEXT: Take snapshots of {0} different wild Poison-type Pokémon
+TEXT: Tirar fotos de {0} Pokémon selvagens de tipo Venenoso diferentes.
 
 RESOURCE ID: quest_snapshot_wild_psychic_plural
 TEXT: Tirar {0} fotos de Pokémon selvagens de tipo Psíquico.
 
 RESOURCE ID: quest_snapshot_wild_psychic_unique_plural
-TEXT: Take snapshots of {0} different wild Psychic-type Pokémon
+TEXT: Tirar fotos de {0} Pokémon selvagens de tipo Psíquico diferentes.
 
 RESOURCE ID: quest_snapshot_wild_raikou
 TEXT: Tirar 1 foto de Raikou selvagem.
@@ -50827,7 +51250,7 @@ RESOURCE ID: quest_snapshot_wild_rock_plural
 TEXT: Tirar {0} fotos de Pokémon selvagens de tipo Pedra.
 
 RESOURCE ID: quest_snapshot_wild_rock_unique_plural
-TEXT: Take snapshots of {0} different wild Rock-type Pokémon
+TEXT: Tirar fotos de {0} Pokémon selvagens de tipo Pedra diferentes.
 
 RESOURCE ID: quest_snapshot_wild_singular
 TEXT: Tirar 1 foto de um Pokémon selvagem.
@@ -50866,7 +51289,7 @@ RESOURCE ID: quest_snapshot_wild_water_singular
 TEXT: Tirar uma foto de um Pokémon selvagem de tipo Água.
 
 RESOURCE ID: quest_snapshot_wild_water_unique_plural
-TEXT: Take snapshots of {0} different wild Water-type Pokémon
+TEXT: Tirar fotos de {0} Pokémon selvagens de tipo Água diferentes.
 
 RESOURCE ID: quest_snapshots_inarow_plural
 TEXT: Tirar um retrato de um Pokémon {0} dias seguidos
@@ -57410,133 +57833,133 @@ RESOURCE ID: quest_special_dialogue_searching_gold_june23_1_1
 TEXT: Diz aí, você também mal pode esperar para encontrar um desses Pokémon? Eu estou com um bom pressentimento sobre eles!
 
 RESOURCE ID: quest_special_dialogue_season12_0_0
-TEXT: %PLAYERNAME%, exciting news! In my recent research into other regions, I learned of Paldea—a vast, open place dotted with agricultural villages, port towns, and lively markets.
+TEXT: %PLAYERNAME%, tenho uma ótima notícia! Durante as minhas pesquisas sobre outras regiões, fiquei sabendo de Paldea, uma área vasta repleta de vilas agrícolas, cidades portuárias e mercados movimentados.
 
 RESOURCE ID: quest_special_dialogue_season12_0_1
-TEXT: And beyond those settlements, Paldea has all sorts of magnificent places begging to be explored, from towering mountains to resplendent lakes.
+TEXT: E, além desses povoados, há muitos lugares magníficos a serem explorados em Paldea, de montanhas imponentes a lagos resplandecentes.
 
 RESOURCE ID: quest_special_dialogue_season12_0_2
-TEXT: Most importantly for us, there are plenty of Pokémon first discovered in Paldea for us to study!
+TEXT: Pra nós, o mais importante é que há vários Pokémon descobertos em Paldea a serem estudados!
 
 RESOURCE ID: quest_special_dialogue_season12_0_3
-TEXT: Doesn’t the very idea get your heart racing?
+TEXT: Isso não faz o seu coração disparar de emoção?
 
 RESOURCE ID: quest_special_dialogue_season12_0_4
-TEXT: If you’re up for it, I say we put our all-star teamwork to the proof by learning all there is to learn about them!
+TEXT: Se você topar, vamos colocar o nosso trabalho em equipe à prova e aprender tudo o que der sobre eles!
 
 RESOURCE ID: quest_special_dialogue_season12_a_1_0
-TEXT: Great choice! You know, Sprigatito’s a bit of a rascal. It’s capricious and attention-seeking, to the point that it may sulk if it sees you giving attention to another Pokémon!
+TEXT: Ótima escolha! Sabe, Sprigatito é um Pokémon arteiro. É muito impulsivo e gosta de chamar a atenção. Até faz birra se vir você dando atenção para outro Pokémon!
 
 RESOURCE ID: quest_special_dialogue_season12_a_1_1
-TEXT: As for its physical characteristics, its fluffy fur is similar in composition to plants, letting it create energy by absorbing sunlight.
+TEXT: Já em relação às características físicas, seu pelo tem a composição parecida à das plantas, permitindo que esse Pokémon crie energia com a absorção da luz solar.
 
 RESOURCE ID: quest_special_dialogue_season12_a_1_2
-TEXT: And when Sprigatito kneads and rubs with its forepaws, a sweet aroma is released that can mesmerize those around it.
+TEXT: E, quando Sprigatito esfrega as patinhas dianteiras, um cheiro doce é liberado, que pode hipnotizar quem estiver ao redor.
 
 RESOURCE ID: quest_special_dialogue_season12_a_1_3
-TEXT: While you contemplate that, how about you walk around and look for some Grass-type Pokémon, %PLAYERNAME%?
+TEXT: Enquanto você pensa nisso, que tal dar uma volta e procurar por alguns Pokémon de tipo Planta, %PLAYERNAME%?
 
 RESOURCE ID: quest_special_dialogue_season12_a_2_0
-TEXT: Welcome back! How did it go? Exploring with a new Pokémon is a great way to develop your bond. Now, here’s another fun Sprigatito fact.
+TEXT: Que bom que voltou! Como foi? Explorar com um novo Pokémon é uma ótima forma de criar uma conexão. Agora aí vai mais uma curiosidade legal sobre Sprigatito.
 
 RESOURCE ID: quest_special_dialogue_season12_a_2_1
-TEXT: Sprigatito washes its face regularly to keep its fur from drying out. What a great self-care regimen!
+TEXT: Sprigatito lava o rosto com frequência para que o pelo não fique ressecado. Que ótima rotina de beleza!
 
 RESOURCE ID: quest_special_dialogue_season12_a_2_2
-TEXT: I wonder how Sprigatito’s Evolution, Floragato, behaves in comparison. Could you help your Sprigatito evolve so we can find out for ourselves?
+TEXT: Será que a evolução de Sprigatito, Floragato, tem um comportamento diferente? Que tal ajudar Sprigatito a evoluir pra gente descobrir?
 
 RESOURCE ID: quest_special_dialogue_season12_a_3_0
-TEXT: Wow! Amazing progress, %PLAYERNAME%! I’m sure there’s plenty you’ll learn with a Pokémon like Floragato at your side.
+TEXT: Nossa! Ótimo progresso, %PLAYERNAME%! Eu sei que você vai aprender muita coisa com um Pokémon como Floragato ao seu lado.
 
 RESOURCE ID: quest_special_dialogue_season12_a_3_1
-TEXT: Did you know that its fur can become softer or harder depending on its mood? It can even be needle sharp when Floragato is ready to battle.
+TEXT: Sabia que o pelo desse Pokémon pode ficar mais macio ou mais firme dependendo do humor dele? Pode até ficar tão afiado quanto uma agulha quando Floragato estiver preparado para batalha.
 
 RESOURCE ID: quest_special_dialogue_season12_a_3_2
-TEXT: Speaking of battle, Floragato deftly wields a vine hidden beneath its long fur, slamming the hard flower bud against its opponents. I bet that smarts!
+TEXT: Por falar em batalhas, Floragato empunha com maestria o cipó escondido entre seus pelos longos e golpeia seus oponentes com o botão de flor rígido. Como deve doer!
 
 RESOURCE ID: quest_special_dialogue_season12_a_3_3
-TEXT: I can’t wait to see how Floragato changes when it evolves into Meowscarada. Please come see me when it does!
+TEXT: Não vejo a hora de ver como Floragato vai ficar quando evoluir para Meowscarada. Venha me ver quando isso acontecer!
 
 RESOURCE ID: quest_special_dialogue_season12_a_4_0
-TEXT: Whoa! Meowscarada is one a-meow-zing Pokémon! I’ve heard that with skillful misdirection, it rigs foes with pollen-packed flower bombs, which it sets off before its foes realize what’s going on.
+TEXT: Uau! Meowscarada é um Pokémon miau-ravilhoso! Soube que, com uma distração habilidosa, deixa seus inimigos atordoados com bombas de flores repletas de pólen, que explodem antes que eles saibam o que está acontecendo.
 
 RESOURCE ID: quest_special_dialogue_season12_a_4_1
-TEXT: That’s quite the magic trick. I hope to see it firsthand someday—from a safe distance, of course! But that’s enough out of me—you deserve a rest after all that research. Thanks for your help, as always, %PLAYERNAME%!
+TEXT: Um belo truque na manga, hein? Tomara que eu consiga ver isso com meus próprios olhos um dia. De longe, é claro! Mas já falei muito por hoje. Você merece um descanso depois de tanta pesquisa. Como sempre, obrigado pela ajuda, %PLAYERNAME%!
 
 RESOURCE ID: quest_special_dialogue_season12_b_1_0
-TEXT: Great choice! Fuecoco’s one cheerful little chomper. Flickering atop its head is fire energy that is leaking out from inside its body—and when Fuecoco gets excited, its head spouts more flames!
+TEXT: Ótima escolha! Fuecoco é uma criaturinha bem alegre. Em cima de sua cabeça, tem uma energia de fogo oscilante que sai de seu corpo. Quando Fuecoco fica feliz, mais chamas surgem na sua cabeça!
 
 RESOURCE ID: quest_special_dialogue_season12_b_1_1
-TEXT: How about you match that enthusiasm as you walk around and look for Fire-type Pokémon, %PLAYERNAME%?
+TEXT: Por que não anda por aí e mostra seu entusiasmo enquanto procura por Pokémon de tipo Fogo, %PLAYERNAME%?
 
 RESOURCE ID: quest_special_dialogue_season12_b_2_0
-TEXT: Welcome back! How did it go? Exploring with a new Pokémon is a great way to develop your bond. Now, here’s another fun Fuecoco fact.
+TEXT: Que bom que voltou! Como foi? Explorar com um novo Pokémon é uma ótima forma de criar uma conexão. Agora aí vai mais uma curiosidade legal sobre Fuecoco.
 
 RESOURCE ID: quest_special_dialogue_season12_b_2_1
-TEXT: Fuecoco lies on warm rocks and uses the heat absorbed by its square-shaped scales to create fire energy.
+TEXT: Fuecoco se deita sobre rochas quentes e usa o calor absorvido por suas escamas quadradas para gerar energia flamejante.
 
 RESOURCE ID: quest_special_dialogue_season12_b_2_2
-TEXT: I wonder how Fuecoco’s Evolution, Crocalor, behaves in comparison. Could you help your Fuecoco evolve so we can find out for ourselves?
+TEXT: Será que a evolução de Fuecoco, Crocalor, tem um comportamento diferente? Que tal ajudar Fuecoco a evoluir pra gente descobrir?
 
 RESOURCE ID: quest_special_dialogue_season12_b_3_0
-TEXT: Wow! Amazing progress, %PLAYERNAME%! I’m sure there’s plenty you’ll learn with a Pokémon like Crocalor at your side.
+TEXT: Nossa! Ótimo progresso, %PLAYERNAME%! Eu sei que você vai aprender muita coisa com um Pokémon como Crocalor ao seu lado.
 
 RESOURCE ID: quest_special_dialogue_season12_b_3_1
-TEXT: Did you know that the combination of Crocalor’s fire energy and overflowing vitality is what caused an egg-shaped fireball to appear on the Pokémon’s head?
+TEXT: Sabia que a combinação da energia de fogo e da vitalidade abundante de Crocalor fez com que uma bola de fogo no formato de um ovo aparecesse na sua cabeça?
 
 RESOURCE ID: quest_special_dialogue_season12_b_3_2
-TEXT: What’s more, the valve in Crocalor’s flame sac is closely connected to its vocal cords. It utters a guttural cry as it spews flames every which way. Spicy!
+TEXT: Além disso, a válvula da bolsa de chamas de Crocalor está conectada às suas cordas vocais. O Pokémon solta um grito gutural ao cuspir chamas para todos os lados. Que calor!
 
 RESOURCE ID: quest_special_dialogue_season12_b_3_3
-TEXT: I can’t wait to see how Crocalor changes when it evolves into Skeledirge. Please come see me when it does!
+TEXT: Não vejo a hora de ver como Crocalor vai ficar quando evoluir para Skeledirge. Venha me ver quando isso acontecer!
 
 RESOURCE ID: quest_special_dialogue_season12_b_4_0
-TEXT: Whoa! Skeledirge is one sizzlingly slick Pokémon—and yet somehow so serene! I’ve heard that Skeledirge’s gentle singing soothes the souls of all that hear it.
+TEXT: Uau! Skeledirge é um Pokémon bem escaldante e esperto, mas tranquilo ao mesmo tempo! Soube que o cantarolar gentil de Skeledirge acalma a alma de todos que ouvirem.
 
 RESOURCE ID: quest_special_dialogue_season12_b_4_1
-TEXT: And yet it burns its enemies to a crisp with flames of over 5,400 degrees Fahrenheit. It’s, uh, certainly comforting to know you’re on the same team!
+TEXT: Mas Skledirge faz seus inimigos virarem cinzas com chamas de mais de 3.000 °C. Com certeza me deixa mais, é.... tranquilo saber que vocês estão na mesma equipe!
 
 RESOURCE ID: quest_special_dialogue_season12_b_4_2
-TEXT: But that’s enough out of me—you deserve a rest after all that research. Thanks for your help, as always, %PLAYERNAME%!
+TEXT: Mas já falei muito por hoje. Você merece um descanso depois de tanta pesquisa. Como sempre, obrigado pela ajuda, %PLAYERNAME%!
 
 RESOURCE ID: quest_special_dialogue_season12_branch_0
-TEXT: Which Pokémon first discovered in Paldea would you like to join you on your adventure, %PLAYERNAME%?
+TEXT: Com quais Pokémon descobertos em Paldea você gostaria de se aventurar, %PLAYERNAME%?
 
 RESOURCE ID: quest_special_dialogue_season12_c_1_0
-TEXT: Great choice! Quaxly is an earnest and tidy Pokémon. Perhaps you’re the sort of Trainer who likes it when everything is neatly in place—and for Quaxly, that place is at your side!
+TEXT: Ótima escolha! Quaxly é um Pokémon metódico e sincero. Talvez você seja o tipo de Treinador que gosta das coisas bem arrumadinhas. Se esse for o caso, estar ao seu lado é o lugar perfeito para Quaxly!
 
 RESOURCE ID: quest_special_dialogue_season12_c_1_1
-TEXT: Quaxly’s feathers secrete a gel that repels water and grime, so its body is always glossy. And get a gander at that coif atop its head! So luxurious.
+TEXT: As penas de Quaxly secretam um gel que repete água e sujeira, então seu corpo está sempre lustroso. E dê só uma olhada no penteado dele! Que luxo!
 
 RESOURCE ID: quest_special_dialogue_season12_c_1_2
-TEXT: I’m suddenly inspired to tidy things up around here. While I’m doing that, why don’t you walk around and look for Water-type Pokémon, %PLAYERNAME%?
+TEXT: Até fiquei com vontade de arrumar as coisas por aqui. Enquanto eu estiver fazendo isso, por que não dá uma volta e procura por Pokémon de tipo Água, %PLAYERNAME%?
 
 RESOURCE ID: quest_special_dialogue_season12_c_2_0
-TEXT: Welcome back! How did it go? Exploring with a new Pokémon is a great way to develop your bond. Now, here’s another fun Quaxly fact.
+TEXT: Que bom que você voltou! Como foi? Explorar com um novo Pokémon é uma ótima forma de criar uma conexão. Agora aí vai mais uma curiosidade legal sobre Quaxly.;
 
 RESOURCE ID: quest_special_dialogue_season12_c_2_1
-TEXT: This Pokémon migrated to Paldea from distant lands long ago. Its strong legs let it easily swim around in even fast-flowing rivers.
+TEXT: Este Pokémon migrou a Paldea de terras distantes há muito tempo. Suas pernas fortes permitem nadar nos rios mais frenéticos.
 
 RESOURCE ID: quest_special_dialogue_season12_c_2_2
-TEXT: I wonder how Quaxly’s Evolution, Quaxwell, behaves in comparison. Could you help your Quaxly evolve so we can find out for ourselves?
+TEXT: Será que a evolução de Quaxly, Quaxwell, tem um comportamento diferente? Que tal ajudar Quaxly a evoluir pra gente descobrir?
 
 RESOURCE ID: quest_special_dialogue_season12_c_3_0
-TEXT: Wow! Amazing progress, %PLAYERNAME%! I’m sure there’s plenty you’ll learn with a Pokémon like Quaxwell at your side.
+TEXT: Nossa! Ótimo progresso, %PLAYERNAME%! Eu sei que você vai aprender muita coisa com um Pokémon como Quaxwell ao seu lado.
 
 RESOURCE ID: quest_special_dialogue_season12_c_3_1
-TEXT: Did you know that these Pokémon constantly run through shallow waters to train their legs, then compete with each other to see which of them kicks most gracefully?
+TEXT: Sabia que esses Pokémon correm constantemente por águas rasas para treinar suas pernas e depois competem com outros para ver qual deles chuta com mais elegância?
 
 RESOURCE ID: quest_special_dialogue_season12_c_3_2
-TEXT: The hardworking Quaxwell observes people and Pokémon from various regions and incorporates their movements into its own dance routines. So studious!
+TEXT: O diligente Pokémon Quaxwell observa as pessoas e os Pokémon de várias regiões e incorpora seus movimentos em suas próprias coreografias de dança. Quanta dedicação!
 
 RESOURCE ID: quest_special_dialogue_season12_c_3_3
-TEXT: I can’t wait to see how Quaxwell changes when it evolves into Quaquaval. Please come see me when it does!
+TEXT: Não vejo a hora de ver como Quaxwell vai ficar quando evoluir para Quaquaval. Venha me ver quando isso acontecer!
 
 RESOURCE ID: quest_special_dialogue_season12_c_4_0
-TEXT: Whoa! Quaquaval is one mesmerizing Pokémon! This Pokémon uses its powerful legs to perform striking dances from far-off lands. And that’s not all those legs can do—I’ve heard that a single kick from a Quaquaval can send a truck rolling. Yikes!
+TEXT: Uau! Quaquaval é bem fascinante! Esse Pokémon usa suas pernas poderosas para fazer passos de dança de terras longínquas. E não é só isso que essas pernas podem fazer. Fiquei sabendo que só um chute de Quaquaval pode mandar um caminhão pra longe! Caramba!
 
 RESOURCE ID: quest_special_dialogue_season12_c_4_1
-TEXT: But that’s enough out of me—you deserve a rest after all that research. Thanks for your help, as always, %PLAYERNAME%!
+TEXT: Mas já falei muito por hoje. Você merece um descanso depois de tanta pesquisa. Como sempre, obrigado pela ajuda, %PLAYERNAME%!
 
 RESOURCE ID: quest_special_dialogue_season2_0_0
 TEXT: Olá, %PLAYERNAME%! Bom ver você por aqui.
@@ -59784,8 +60207,14 @@ TEXT: Girar {0} fotodiscos de Poképaradas no México.
 RESOURCE ID: quest_spin_mexico_singular
 TEXT: Girar 1 fotodisco de Poképarada no México.
 
+RESOURCE ID: quest_spin_pokestop_days
+TEXT: Visitar Poképaradas em {0} dias diferentes.
+
 RESOURCE ID: quest_spin_ultra_wormhole_gym
 TEXT: Girar o fotodisco do Ginásio marcado como “Ultrafenda Espacial”.
+
+RESOURCE ID: quest_sprigatito_evolve_b
+TEXT: Evoluir 1 Sprigatito.
 
 RESOURCE ID: quest_squirtle_catch_b
 TEXT: Pegar {0} Squirtle.
@@ -59806,7 +60235,7 @@ RESOURCE ID: quest_st_evolve_s
 TEXT: Evoluir 3 Seedot
 
 RESOURCE ID: quest_stardust_plural
-TEXT: Ganhar {0} Poeiras Estelares
+TEXT: Ganhar {0} Poeiras Estelares.
 
 RESOURCE ID: quest_starly_catch_b
 TEXT: Pegar {0} Starly.
@@ -60107,6 +60536,24 @@ TEXT: Uma oscilação no tempo (7/8)
 
 RESOURCE ID: quest_title_celebi_7
 TEXT: Uma oscilação no tempo (8/8)
+
+RESOURCE ID: quest_title_charmander
+TEXT: Clássicos do Dia Comunitário: Charmander
+
+RESOURCE ID: quest_title_charmander_0
+TEXT: Clássicos do Dia Comunitário: Charmander (1/5)
+
+RESOURCE ID: quest_title_charmander_1
+TEXT: Clássicos do Dia Comunitário: Charmander (2/5)
+
+RESOURCE ID: quest_title_charmander_2
+TEXT: Clássicos do Dia Comunitário: Charmander (3/5)
+
+RESOURCE ID: quest_title_charmander_3
+TEXT: Clássicos do Dia Comunitário: Charmander (4/5)
+
+RESOURCE ID: quest_title_charmander_4
+TEXT: Clássicos do Dia Comunitário: Charmander (5/5)
 
 RESOURCE ID: quest_title_chart
 TEXT: Um conto de caudas
@@ -61373,22 +61820,22 @@ RESOURCE ID: quest_title_sandt_3
 TEXT: Arenoso e congelante (4/4)
 
 RESOURCE ID: quest_title_season12
-TEXT: A Paldean Adventure
+TEXT: Uma aventura em Paldea
 
 RESOURCE ID: quest_title_season12_0
-TEXT: A Paldean Adventure (1/5)
+TEXT: Uma aventura em Paldea (1/5)
 
 RESOURCE ID: quest_title_season12_1
-TEXT: A Paldean Adventure (2/5)
+TEXT: Uma aventura em Paldea (2/5)
 
 RESOURCE ID: quest_title_season12_2
-TEXT: A Paldean Adventure (3/5)
+TEXT: Uma aventura em Paldea (3/5)
 
 RESOURCE ID: quest_title_season12_3
-TEXT: A Paldean Adventure (4/5)
+TEXT: Uma aventura em Paldea (4/5)
 
 RESOURCE ID: quest_title_season12_4
-TEXT: A Paldean Adventure (5/5)
+TEXT: Uma aventura em Paldea (5/5)
 
 RESOURCE ID: quest_title_season2
 TEXT: Temporada das Lendas
@@ -68097,6 +68544,9 @@ TEXT: SHOW MORE {0}
 RESOURCE ID: route_community_plays_label
 TEXT: VIAGENS COMUNITÁRIAS
 
+RESOURCE ID: route_completion_congratulation
+TEXT: Congratulations!
+
 RESOURCE ID: route_completion_explored_count_plural
 TEXT: Você explorou esta Rota
 {0} vezes!
@@ -68163,16 +68613,16 @@ RESOURCE ID: route_creation_adsync_breadcrumb_notification
 TEXT: Criação de Rota em andamento.
 
 RESOURCE ID: route_creation_ask_start_description
-TEXT: Se você não estiver pronto para registrar, pode pausar sua sessão de criação de Rota e retomá-la mais tarde na seção Rota do seu perfil de Treinador.
+TEXT: You are near the start point, so the next step is to record your path. If you aren’t ready, you can pause Route creation and resume it later via the Route section of your Trainer profile.
 
 RESOURCE ID: route_creation_ask_start_pause_button
 TEXT: Pausar criação de Rota
 
 RESOURCE ID: route_creation_ask_start_title
-TEXT: Você está perto do ponto de início selecionado. Está pronto para registrar o caminho para sua Rota?
+TEXT: Are you ready to record the path for your Route?
 
 RESOURCE ID: route_creation_ask_submit
-TEXT: Você está próximo do ponto final selecionado. Já terminou de registrar?
+TEXT: Are you done recording the path for your Route?
 
 RESOURCE ID: route_creation_ask_submit_cancel
 TEXT: CONTINUE RECORDING
@@ -68181,43 +68631,43 @@ RESOURCE ID: route_creation_ask_submit_confirm
 TEXT: SIM, TERMINEI
 
 RESOURCE ID: route_creation_ask_submit_description
-TEXT: Se você quiser estender sua Rota, pode continuar registrando e retornar a esta Poképarada mais tarde.
+TEXT: You are near the end point, so you can stop recording your Route path. If you would like to extend your Route, you can continue recording and return to this end point later.
 
 RESOURCE ID: route_creation_autoexit_toast
 TEXT: A criação de Rota terminou.
 
 RESOURCE ID: route_creation_choose_end_body
-TEXT: Navegue até esta Poképarada para terminar de registrar sua Rota. Você pode alterar o ponto final durante o registro.
+TEXT: Your recorded path must lead from the start point to this end point. You can change the end point at any time.
 
 RESOURCE ID: route_creation_choose_end_header
-TEXT: Selecione uma Poképarada para ser seu
+TEXT: Select a PokéStop or Gym to be your
 
 RESOURCE ID: route_creation_choose_end_sub_header
 TEXT: ponto final de Rota.
 
 RESOURCE ID: route_creation_choose_new_end_body
-TEXT: Navegue até esta Poképarada para terminar de registrar sua Rota. Você pode alterar o ponto final durante o registro.
+TEXT: Your recorded path must lead from the start point to this new end point. You can change the end point at any time.
 
 RESOURCE ID: route_creation_choose_new_end_header
-TEXT: Selecione uma Poképarada para ser seu
+TEXT: Select a PokéStop or Gym to be your new
 
 RESOURCE ID: route_creation_choose_new_end_sub_header
 TEXT: ponto final de Rota.
 
 RESOURCE ID: route_creation_choose_new_start_body
-TEXT: Navegue até esta Poképarada para começar a registrar sua Rota.
+TEXT: Path recording will begin after you reach this new start point. You cannot change the start point after path recording begins.
 
 RESOURCE ID: route_creation_choose_new_start_header
-TEXT: Selecione uma Poképarada para ser seu
+TEXT: Select a PokéStop or Gym to be your new
 
 RESOURCE ID: route_creation_choose_new_start_sub_header
 TEXT: ponto de início de Rota.
 
 RESOURCE ID: route_creation_choose_start_body
-TEXT: Navegue até esta Poképarada para começar a registrar sua Rota.
+TEXT: Path recording will begin after you reach this start point. You cannot change the start point after path recording begins.
 
 RESOURCE ID: route_creation_choose_start_header
-TEXT: Selecione uma Poképarada para ser seu
+TEXT: Select a PokéStop or Gym to be your
 
 RESOURCE ID: route_creation_choose_start_sub_header
 TEXT: ponto de início de Rota.
@@ -68807,6 +69257,9 @@ TEXT: Se você sair desta Rota, o progresso atual será perdido. Esta ação nã
 RESOURCE ID: route_stop_report
 TEXT: Se você teve algum problema com esta Rota que impediu de completá-la, você poderá reportar o problema  <color=#{0}>aqui</color>.
 
+RESOURCE ID: route_stop_start_new_button
+TEXT: Start new route
+
 RESOURCE ID: route_stop_title
 TEXT: Tem certeza de que quer sair desta Rota?
 
@@ -68891,7 +69344,7 @@ RESOURCE ID: route_submission_preview_title
 TEXT: Pré-visualização de envio
 
 RESOURCE ID: route_submission_resubmit_no_change_error
-TEXT: Please modify the title and/or description to resubmit this Route. 
+TEXT: Please modify the title and/or description to resubmit this Route.
 
 RESOURCE ID: route_submission_result_invalid_route
 TEXT: Route submission error. Please try again later.
@@ -68933,7 +69386,7 @@ RESOURCE ID: route_submission_result_unknown_error
 TEXT: Unknown error in the Route submission process. Please try again later.
 
 RESOURCE ID: route_submission_reversible
-TEXT: Can this Route be followed in reverse?
+TEXT: Allow this Route to be followed in reverse.
 
 RESOURCE ID: route_submission_review_adjust
 TEXT: FAZER AJUSTES
@@ -68954,7 +69407,7 @@ RESOURCE ID: route_submission_select_color_prompt
 TEXT: Selecione uma cor de cabeçalho para sua Insígnia de Rota:
 
 RESOURCE ID: route_submission_show_name
-TEXT: Deseja mostrar seu apelido de Treinador na descrição da Rota? Isso ficará visível para outros Treinadores.
+TEXT: Show my Trainer name as the Route Creator in the published Route details.
 
 RESOURCE ID: route_submission_start_title
 TEXT: Nomeie sua Rota
@@ -69448,29 +69901,47 @@ TEXT: Zona de Safári: usar {0} Frutas Frambo para ajudar você a pegar Pokémon
 RESOURCE ID: safari_buddy_snapshot
 TEXT: Zona de Safári: tirar 1 foto de seu companheiro.
 
+RESOURCE ID: safari_city_2023_barcelona_title
+TEXT: Safári urbano: Barcelona 2023
+
+RESOURCE ID: safari_city_2023_barcelona_title_00
+TEXT: Safári urbano: Barcelona 2023 (1/3)
+
+RESOURCE ID: safari_city_2023_barcelona_title_01
+TEXT: Safári urbano: Barcelona 2023 (2/3)
+
+RESOURCE ID: safari_city_2023_barcelona_title_02
+TEXT: Safári urbano: Barcelona 2023 (3/3)
+
+RESOURCE ID: safari_city_2023_mexico_city_title
+TEXT: Safári urbano: Cidade do México 2023
+
+RESOURCE ID: safari_city_2023_mexico_city_title_00
+TEXT: Safári urbano: Cidade do México 2023 (1/3)
+
+RESOURCE ID: safari_city_2023_mexico_city_title_01
+TEXT: Safári urbano: Cidade do México 2023 (2/3)
+
+RESOURCE ID: safari_city_2023_mexico_city_title_02
+TEXT: Safári urbano: Cidade do México 2023 (3/3)
+
+RESOURCE ID: safari_city_2023_seoul_title
+TEXT: Safári urbano: Seul 2023
+
+RESOURCE ID: safari_city_2023_seoul_title_00
+TEXT: Safári urbano: Seul 2023 (1/3)
+
+RESOURCE ID: safari_city_2023_seoul_title_01
+TEXT: Safári urbano: Seul 2023 (2/3)
+
+RESOURCE ID: safari_city_2023_seoul_title_02
+TEXT: Safári urbano: Seul 2023 (3/3)
+
 RESOURCE ID: safari_city_leave_behind_title_barcelona
 TEXT: Safári urbano: Barcelona - A jornada continua
 
 RESOURCE ID: safari_city_leave_behind_title_barcelona_00
 TEXT: Safári urbano: Barcelona - A jornada continua (1/7)
-
-RESOURCE ID: safari_city_leave_behind_title_barcelona_01
-TEXT: Safári urbano: Barcelona - A jornada continua (2/7)
-
-RESOURCE ID: safari_city_leave_behind_title_barcelona_02
-TEXT: Safári urbano: Barcelona - A jornada continua (3/7)
-
-RESOURCE ID: safari_city_leave_behind_title_barcelona_03
-TEXT: Safári urbano: Barcelona - A jornada continua (4/7)
-
-RESOURCE ID: safari_city_leave_behind_title_barcelona_04
-TEXT: Safári urbano: Barcelona - A jornada continua (5/7)
-
-RESOURCE ID: safari_city_leave_behind_title_barcelona_05
-TEXT: Safári urbano: Barcelona - A jornada continua (6/7)
-
-RESOURCE ID: safari_city_leave_behind_title_barcelona_06
-TEXT: Safári urbano: Barcelona - A jornada continua (7/7)
 
 RESOURCE ID: safari_city_leave_behind_title_mxc
 TEXT: Safári urbano: Cidade do México - A jornada continua
@@ -69478,47 +69949,11 @@ TEXT: Safári urbano: Cidade do México - A jornada continua
 RESOURCE ID: safari_city_leave_behind_title_mxc_00
 TEXT: Safári urbano: Cidade do México - A jornada continua (1/7)
 
-RESOURCE ID: safari_city_leave_behind_title_mxc_01
-TEXT: Safári urbano: Cidade do México - A jornada continua (2/7)
-
-RESOURCE ID: safari_city_leave_behind_title_mxc_02
-TEXT: Safári urbano: Cidade do México - A jornada continua (3/7)
-
-RESOURCE ID: safari_city_leave_behind_title_mxc_03
-TEXT: Safári urbano: Cidade do México - A jornada continua (4/7)
-
-RESOURCE ID: safari_city_leave_behind_title_mxc_04
-TEXT: Safári urbano: Cidade do México - A jornada continua (5/7)
-
-RESOURCE ID: safari_city_leave_behind_title_mxc_05
-TEXT: Safári urbano: Cidade do México - A jornada continua (6/7)
-
-RESOURCE ID: safari_city_leave_behind_title_mxc_06
-TEXT: Safári urbano: Cidade do México - A jornada continua (7/7)
-
 RESOURCE ID: safari_city_leave_behind_title_seoul
 TEXT: Safári urbano: Seul - A jornada continua
 
 RESOURCE ID: safari_city_leave_behind_title_seoul_00
 TEXT: Safári urbano: Seul - A jornada continua (1/7)
-
-RESOURCE ID: safari_city_leave_behind_title_seoul_01
-TEXT: Safári urbano: Seul - A jornada continua (2/7)
-
-RESOURCE ID: safari_city_leave_behind_title_seoul_02
-TEXT: Safári urbano: Seul - A jornada continua (3/7)
-
-RESOURCE ID: safari_city_leave_behind_title_seoul_03
-TEXT: Safári urbano: Seul - A jornada continua (4/7)
-
-RESOURCE ID: safari_city_leave_behind_title_seoul_04
-TEXT: Safári urbano: Seul - A jornada continua (5/7)
-
-RESOURCE ID: safari_city_leave_behind_title_seoul_05
-TEXT: Safári urbano: Seul - A jornada continua (6/7)
-
-RESOURCE ID: safari_city_leave_behind_title_seoul_06
-TEXT: Safári urbano: Seul - A jornada continua (7/7)
 
 RESOURCE ID: safari_event
 TEXT: Zona de Safári de Pokémon GO
@@ -69897,31 +70332,31 @@ RESOURCE ID: season10_tr_willow_title
 TEXT: Guarda-roupa do Willow
 
 RESOURCE ID: season12_branch_1_button_key
-TEXT: Adventure with Sprigatito
+TEXT: Aventura com Sprigatito
 
 RESOURCE ID: season12_branch_1_description_key
-TEXT: Choose this option to go adventuring with Sprigatito!
+TEXT: Escolha esta opção para se aventurar com Sprigatito!
 
 RESOURCE ID: season12_branch_1_title_key
-TEXT: Adventure with Sprigatito
+TEXT: Aventura com Sprigatito
 
 RESOURCE ID: season12_branch_2_button_key
-TEXT: Adventure with Fuecoco
+TEXT: Aventura com Fuecoco
 
 RESOURCE ID: season12_branch_2_description_key
-TEXT: Choose this option to go adventuring with Fuecoco!
+TEXT: Escolha esta opção para se aventurar com Fuecoco!
 
 RESOURCE ID: season12_branch_2_title_key
-TEXT: Adventure with Fuecoco
+TEXT: Aventura com Fuecoco
 
 RESOURCE ID: season12_branch_3_button_key
-TEXT: Adventure with Quaxly
+TEXT: Aventura com Quaxly
 
 RESOURCE ID: season12_branch_3_description_key
-TEXT: Choose this option to go adventuring with Quaxly!
+TEXT: Escolha esta opção para se aventurar com Quaxly!
 
 RESOURCE ID: season12_branch_3_title_key
-TEXT: Adventure with Quaxly
+TEXT: Aventura com Quaxly
 
 RESOURCE ID: season_gbl_forecast_title_10
 TEXT: Temporada 10: Heróis em Ascensão
@@ -69930,7 +70365,7 @@ RESOURCE ID: season_gbl_forecast_title_11
 TEXT: Pokémon GO: Joias Ocultas
 
 RESOURCE ID: season_gbl_forecast_title_12
-TEXT: Pokémon GO: Adventures Abound
+TEXT: Pokémon GO: Aventuras de Montão
 
 RESOURCE ID: season_gbl_forecast_title_7
 TEXT: Temporada de GO
@@ -70006,6 +70441,21 @@ TEXT: Enviou um presente para {0}.
 
 RESOURCE ID: sent_you_a_gift
 TEXT: {0} enviou um presente para você!
+
+RESOURCE ID: seoul_catch_cup_title
+TEXT: Copa da Captura: Seul
+
+RESOURCE ID: sep23_paldea_collection_challenge_1
+TEXT: Desafio de coleção: Sprigatito
+
+RESOURCE ID: sep23_paldea_collection_challenge_2
+TEXT: Desafio de coleção: Fuecoco
+
+RESOURCE ID: sep23_paldea_collection_challenge_3
+TEXT: Desafio de coleção: Quaxly
+
+RESOURCE ID: sep23_paldea_collection_challenge_4
+TEXT: Desafio de coleção: Lechonk
 
 RESOURCE ID: server_lockout
 TEXT: O Pokémon GO está em manutenção no momento. Por favor, tente de novo mais tarde.
@@ -70328,6 +70778,9 @@ TEXT: Guia de Rota
 
 RESOURCE ID: settings_route_guidance_tip
 TEXT: Receba alertas quando estiver perto do ponto final da Rota atual ou quando aparecerem coisas misteriosas.
+
+RESOURCE ID: settings_save_image_tip
+TEXT: Save image to device when you take snapshot in AR.
 
 RESOURCE ID: settings_select_legendary_label
 TEXT: Transferência expandida
@@ -71311,6 +71764,9 @@ TEXT: Conecte-se ao Facebook
 RESOURCE ID: social_add_friend_qr
 TEXT: Código QR
 
+RESOURCE ID: social_add_friend_qr_v2
+TEXT: SCAN QR CODE
+
 RESOURCE ID: social_add_friends
 TEXT: Adicionar amigos
 
@@ -71374,6 +71830,9 @@ TEXT: Envie um pedido de amizade inserindo o código de Treinador da outra pesso
 
 RESOURCE ID: social_send_my_code
 TEXT: COMPARTILHAR MEU CÓDIGO
+
+RESOURCE ID: social_send_my_code_v2
+TEXT: SHARE CODE
 
 RESOURCE ID: solrock_lunatone_regions
 TEXT: Lunatone e Solrock estão aparecendo em regiões diferentes
@@ -74068,6 +74527,9 @@ TEXT: O ingresso para a pesquisa especial de Clássicos do Dia Comunitário: Bul
 RESOURCE ID: ticket_charmander
 TEXT: Ingressos para a pesquisa especial "Um conto de caudas" estão disponíveis na loja
 
+RESOURCE ID: ticket_charmander_cdc
+TEXT: O ingresso para a narrativa de pesquisa especial de Clássicos do Dia Comunitário: Charmander está disponível na loja
+
 RESOURCE ID: ticket_chespin
 TEXT: O ingresso para a pesquisa especial Espinhos Poderosos está disponível na loja
 
@@ -74339,7 +74801,7 @@ RESOURCE ID: timed_research_pokemon_snubbull
 TEXT: Pesquisa temporária com Snubbull
 
 RESOURCE ID: timed_trial_mb_research_title
-TEXT: Timed Investigation: Master Ball
+TEXT: Investigação temporária: Bola Mestra
 
 RESOURCE ID: tips_battle_at_gyms_tutorial_body
 TEXT: Você pode reivindicar um Ginásio controlado por uma equipe rival derrotando os Pokémon no Ginásio. Se reduzir a motivação de todos os Pokémon no Ginásio a zero, poderá reivindicar o Ginásio para a sua equipe.
@@ -74352,6 +74814,14 @@ TEXT: Jogar Pokémon GO é mais divertido com amigos! Adicione amigos ou convide
 
 RESOURCE ID: tips_friends_list_no_friends_title
 TEXT: Adicionar amigos
+
+RESOURCE ID: tips_friends_online_status_body
+TEXT: Agora você pode ativar ou desativar o status online usando a alternância Online/Offline na sua lista de amigos.
+
+Seu status online informará às suas amizades quando você estiver disponível para jogar.
+
+RESOURCE ID: tips_friends_online_status_title
+TEXT: Status online
 
 RESOURCE ID: tips_friends_tutorial_add_body
 TEXT: Adicione amigos obtendo o código de Treinador ou escaneando o código QR deles. Você também pode adicionar amigos conectando sua conta ao Facebook na tela de adicionar amigo.
@@ -75703,6 +76173,9 @@ TEXT: Parece que você encontrou um doce GG! Ouvi dizer que você pode usar isso
 RESOURCE ID: tutorial_xl_candy_2
 TEXT: É possível que você encontre doces GG depois de capturar Pokémon. Quanto mais forte for o Pokémon, maior será a probabilidade de você encontrar doces GG.
 
+RESOURCE ID: twelve_free_raid_passes
+TEXT: Receba até 12 Passes de Reide grátis ao girar fotodiscos de Ginásios.
+
 RESOURCE ID: two_free_raid_passes
 TEXT: Até 2 Passes de Reide gratuitos por dia ao girar fotodiscos de Ginásios
 
@@ -75879,6 +76352,12 @@ TEXT: Chegada de Ultracriatura (7/8)
 
 RESOURCE ID: ub_arrival_title_07
 TEXT: Chegada de Ultracriatura (8/8)
+
+RESOURCE ID: ultra23_lechonk_tr_1
+TEXT: Aventura de Lechonk
+
+RESOURCE ID: ultra23_pawmi_tr_1
+TEXT: Conte comigo
 
 RESOURCE ID: ultra_anniversary_2022_event_name
 TEXT: Ultrabônus: Evento de aniversário

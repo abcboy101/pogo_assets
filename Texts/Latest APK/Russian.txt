@@ -1758,6 +1758,9 @@ RESOURCE ID: avatar_f_backpack_nike2021_00_bundle_icon
 TEXT: Рюкзак
 NIKE HERITAGE
 
+RESOURCE ID: avatar_f_backpack_pamobackpack_00_bundle_icon
+TEXT: Рюкзак Поми
+
 RESOURCE ID: avatar_f_backpack_pkmnhoodie001_0_bundle_icon
 TEXT: Рюкзак Луковица
 
@@ -1784,6 +1787,10 @@ TEXT: Пальдейский рюкзак
 RESOURCE ID: avatar_f_backpack_svcostumevioletschool_00_bundle_icon
 TEXT: Пальдейский рюкзак
 (Violet)
+
+RESOURCE ID: avatar_f_backpack_svdlc1_00_bundle_icon
+TEXT: Пальдейский рюкзак
+(Китаками)
 
 RESOURCE ID: avatar_f_backpack_swshdlc2costume_00_bundle_icon
 TEXT: Рюкзак Корона Cнежной Земли
@@ -1964,6 +1971,9 @@ TEXT: Без перчаток
 
 RESOURCE ID: avatar_f_gloves_frlg_bundle_icon
 TEXT: Браслеты LeafGreen
+
+RESOURCE ID: avatar_f_gloves_geeta_00_bundle_icon
+TEXT: Перчатки в стиле Гиты
 
 RESOURCE ID: avatar_f_gloves_giovanni_0_bundle_icon
 TEXT: Перчатки Джованни
@@ -2163,6 +2173,10 @@ TEXT: Шапка Гуми
 RESOURCE ID: avatar_f_hat_greencoat_00_bundle_icon
 TEXT: Праздничная
 шапка
+
+RESOURCE ID: avatar_f_hat_growlithehelmet_00_bundle_icon
+TEXT: Парик
+Гисуйский Гроулит
 
 RESOURCE ID: avatar_f_hat_guccihat_00_bundle_icon
 TEXT: Панама The North Face x Gucci
@@ -2500,6 +2514,9 @@ TEXT: Юбка LeafGreen
 RESOURCE ID: avatar_f_pants_fw2022_00_bundle_icon
 TEXT: Шорты Марини
 
+RESOURCE ID: avatar_f_pants_geeta_00_bundle_icon
+TEXT: Штаны в стиле Гиты
+
 RESOURCE ID: avatar_f_pants_genderlessskirt_00_bundle_icon
 TEXT: Юбка с запахом
 
@@ -2779,6 +2796,9 @@ TEXT: Ветровка Марини
 
 RESOURCE ID: avatar_f_shirt_galarfarfetchditems_00_bundle_icon
 TEXT: Футболка и сумка с Галарским Фарфетчдом
+
+RESOURCE ID: avatar_f_shirt_geeta_00_bundle_icon
+TEXT: Пиджак в стиле Гиты
 
 RESOURCE ID: avatar_f_shirt_genderlessskirt_00_bundle_icon
 TEXT: Многослойная куртка
@@ -3145,6 +3165,10 @@ RESOURCE ID: avatar_f_shirt_svcostumevioletschool_00_bundle_icon
 TEXT: Пальдейский комплект
 (Violet)
 
+RESOURCE ID: avatar_f_shirt_svdlc1_00_bundle_icon
+TEXT: Пальдейский комплект
+(Китаками)
+
 RESOURCE ID: avatar_f_shirt_sweater_30_bundle_icon
 TEXT: Джерси 30
 
@@ -3370,6 +3394,9 @@ TEXT: Ботинки LeafGreen
 RESOURCE ID: avatar_f_shoes_fw2022_00_bundle_icon
 TEXT: Ботинки Марини
 
+RESOURCE ID: avatar_f_shoes_geeta_00_bundle_icon
+TEXT: Обувь в стиле Гиты
+
 RESOURCE ID: avatar_f_shoes_giovanni_0_bundle_icon
 TEXT: Обувь Джованни
 
@@ -3482,6 +3509,10 @@ TEXT: Пальдейские ботинки
 RESOURCE ID: avatar_f_shoes_svcostumevioletschool_00_bundle_icon
 TEXT: Пальдейские ботинки
 (Violet)
+
+RESOURCE ID: avatar_f_shoes_svdlc1_00_bundle_icon
+TEXT: Пальдейские сандалии
+(Китаками)
 
 RESOURCE ID: avatar_f_shoes_swshdlc2costume_00_bundle_icon
 TEXT: Ботинки Короны Cнежной Земли
@@ -3700,6 +3731,9 @@ RESOURCE ID: avatar_m_backpack_nike2021_00_bundle_icon
 TEXT: Рюкзак
 NIKE HERITAGE
 
+RESOURCE ID: avatar_m_backpack_pamobackpack_00_bundle_icon
+TEXT: Рюкзак Поми
+
 RESOURCE ID: avatar_m_backpack_pkmnhoodie001_0_bundle_icon
 TEXT: Рюкзак Луковица
 
@@ -3726,6 +3760,10 @@ TEXT: Пальдейский рюкзак
 RESOURCE ID: avatar_m_backpack_svcostumevioletschool_00_bundle_icon
 TEXT: Пальдейский рюкзак
 (Violet)
+
+RESOURCE ID: avatar_m_backpack_svdlc1_00_bundle_icon
+TEXT: Пальдейский рюкзак
+(Китаками)
 
 RESOURCE ID: avatar_m_backpack_swshdlc2costume_00_bundle_icon
 TEXT: Рюкзак Корона Cнежной Земли
@@ -3887,6 +3925,9 @@ TEXT: Без перчаток
 
 RESOURCE ID: avatar_m_gloves_frlg_bundle_icon
 TEXT: Браслеты FireRed
+
+RESOURCE ID: avatar_m_gloves_geeta_00_bundle_icon
+TEXT: Перчатки в стиле Гиты
 
 RESOURCE ID: avatar_m_gloves_giovanni_0_bundle_icon
 TEXT: Перчатки Джованни
@@ -4089,6 +4130,10 @@ TEXT: Шапка Гуми
 RESOURCE ID: avatar_m_hat_greencoat_00_bundle_icon
 TEXT: Праздничная
 шапка
+
+RESOURCE ID: avatar_m_hat_growlithehelmet_00_bundle_icon
+TEXT: Парик
+Гисуйский Гроулит
 
 RESOURCE ID: avatar_m_hat_guccihat_00_bundle_icon
 TEXT: Панама The North Face x Gucci
@@ -4415,6 +4460,9 @@ TEXT: Штаны FireRed
 RESOURCE ID: avatar_m_pants_fw2022_00_bundle_icon
 TEXT: Шорты Марини
 
+RESOURCE ID: avatar_m_pants_geeta_00_bundle_icon
+TEXT: Штаны в стиле Гиты
+
 RESOURCE ID: avatar_m_pants_genderlessskirt_00_bundle_icon
 TEXT: Юбка с запахом
 
@@ -4699,6 +4747,9 @@ TEXT: Ветровка Марини
 
 RESOURCE ID: avatar_m_shirt_galarfarfetchditems_00_bundle_icon
 TEXT: Футболка и сумка с Галарским Фарфетчдом
+
+RESOURCE ID: avatar_m_shirt_geeta_00_bundle_icon
+TEXT: Пиджак в стиле Гиты
 
 RESOURCE ID: avatar_m_shirt_genderlessskirt_00_bundle_icon
 TEXT: Многослойная куртка
@@ -5070,6 +5121,10 @@ RESOURCE ID: avatar_m_shirt_svcostumevioletschool_00_bundle_icon
 TEXT: Пальдейский комплект
 (Violet)
 
+RESOURCE ID: avatar_m_shirt_svdlc1_00_bundle_icon
+TEXT: Пальдейский комплект
+(Китаками)
+
 RESOURCE ID: avatar_m_shirt_sweatshirt_sporty_bundle_icon
 TEXT: Спортивное худи
 
@@ -5291,6 +5346,9 @@ TEXT: Ботинки FireRed
 RESOURCE ID: avatar_m_shoes_fw2022_00_bundle_icon
 TEXT: Ботинки Марини
 
+RESOURCE ID: avatar_m_shoes_geeta_00_bundle_icon
+TEXT: Обувь в стиле Гиты
+
 RESOURCE ID: avatar_m_shoes_giovanni_0_bundle_icon
 TEXT: Обувь Джованни
 
@@ -5403,6 +5461,10 @@ TEXT: Пальдейские ботинки
 RESOURCE ID: avatar_m_shoes_svcostumevioletschool_00_bundle_icon
 TEXT: Пальдейские ботинки
 (Violet)
+
+RESOURCE ID: avatar_m_shoes_svdlc1_00_bundle_icon
+TEXT: Пальдейские сандалии
+(Китаками)
 
 RESOURCE ID: avatar_m_shoes_swshdlc2costume_00_bundle_icon
 TEXT: Ботинки Короны Cнежной Земли
@@ -6280,6 +6342,78 @@ TEXT: Чемпионат мира Покемон 2023: Бонусный квес
 
 RESOURCE ID: badge_event_0074_title
 TEXT: Выбор Чемпиона DancingRob
+
+RESOURCE ID: badge_event_0075
+TEXT: Партнёрский квест – Изобилие приключений: SoftBank
+
+RESOURCE ID: badge_event_0075_title
+TEXT: Партнёрский квест: SoftBank
+
+RESOURCE ID: badge_event_0075_title_00
+TEXT: Партнёрский квест: SoftBank (1/4)
+
+RESOURCE ID: badge_event_0075_title_01
+TEXT: Партнёрский квест: SoftBank (2/4)
+
+RESOURCE ID: badge_event_0075_title_02
+TEXT: Партнёрский квест: SoftBank (3/4)
+
+RESOURCE ID: badge_event_0075_title_03
+TEXT: Партнёрский квест: SoftBank (4/4)
+
+RESOURCE ID: badge_event_0076
+TEXT: Партнёрский квест – Изобилие приключений: Nankai Electric Railway
+
+RESOURCE ID: badge_event_0076_title
+TEXT: Партнёрский квест: Nankai Electric Railway
+
+RESOURCE ID: badge_event_0076_title_00
+TEXT: Партнёрский квест: Nankai Electric Railway (1/4)
+
+RESOURCE ID: badge_event_0076_title_01
+TEXT: Партнёрский квест: Nankai Electric Railway (2/4)
+
+RESOURCE ID: badge_event_0076_title_02
+TEXT: Партнёрский квест: Nankai Electric Railway (3/4)
+
+RESOURCE ID: badge_event_0076_title_03
+TEXT: Партнёрский квест: Nankai Electric Railway (4/4)
+
+RESOURCE ID: badge_event_0077
+TEXT: Партнёрский квест – Изобилие приключений: Sumitomo Life Insurance Company
+
+RESOURCE ID: badge_event_0077_title
+TEXT: Партнёрский квест: Sumitomo Life Insurance Company
+
+RESOURCE ID: badge_event_0077_title_00
+TEXT: Партнёрский квест: Sumitomo Life Insurance Company (1/4)
+
+RESOURCE ID: badge_event_0077_title_01
+TEXT: Партнёрский квест: Sumitomo Life Insurance Company (2/4)
+
+RESOURCE ID: badge_event_0077_title_02
+TEXT: Партнёрский квест: Sumitomo Life Insurance Company (3/4)
+
+RESOURCE ID: badge_event_0077_title_03
+TEXT: Партнёрский квест: Sumitomo Life Insurance Company (4/4)
+
+RESOURCE ID: badge_event_0078
+TEXT: Партнёрский квест – Изобилие приключений: Taiwan FamilyMart
+
+RESOURCE ID: badge_event_0078_title
+TEXT: Партнёрский квест: Taiwan FamilyMart
+
+RESOURCE ID: badge_event_0078_title_00
+TEXT: Партнёрский квест: Taiwan FamilyMart (1/4)
+
+RESOURCE ID: badge_event_0078_title_01
+TEXT: Партнёрский квест: Taiwan FamilyMart (2/4)
+
+RESOURCE ID: badge_event_0078_title_02
+TEXT: Партнёрский квест: Taiwan FamilyMart (3/4)
+
+RESOURCE ID: badge_event_0078_title_03
+TEXT: Партнёрский квест: Taiwan FamilyMart (4/4)
 
 RESOURCE ID: badge_event_yoshinoya
 TEXT: Май 2021: Yoshinoya
@@ -7254,10 +7388,10 @@ RESOURCE ID: badge_gofest_2023_osaka_vip_title
 TEXT: Фестиваль Pokémon GO 2023
 
 RESOURCE ID: badge_gofest_2023_test
-TEXT: August 26–27, 2023
+TEXT: 26-27 августа 2023
 
 RESOURCE ID: badge_gofest_2023_test_title
-TEXT: Pokémon GO Fest 2023
+TEXT: Фестиваль Pokémon GO 2023
 
 RESOURCE ID: badge_gotour_2021_green_global
 TEXT: По всему миру, 20 февраля 2021
@@ -7717,6 +7851,60 @@ TEXT: Зона Сафари GO – Европа 2017
 
 RESOURCE ID: badge_safari_zone_europe_2017_title
 TEXT: Зона Сафари GO – Европа 2017
+
+RESOURCE ID: badge_safaricity_2023_barcelona_day_00_general
+TEXT: Барселона 2023
+
+RESOURCE ID: badge_safaricity_2023_barcelona_day_00_general_title
+TEXT: Городское сафари Pokémon GO
+
+RESOURCE ID: badge_safaricity_2023_barcelona_day_01_general
+TEXT: Барселона, 13 октября 2023
+
+RESOURCE ID: badge_safaricity_2023_barcelona_day_01_general_title
+TEXT: Городское сафари Pokémon GO
+
+RESOURCE ID: badge_safaricity_2023_barcelona_day_02_general
+TEXT: Барселона, 14 октября 2023
+
+RESOURCE ID: badge_safaricity_2023_barcelona_day_02_general_title
+TEXT: Городское сафари Pokémon GO
+
+RESOURCE ID: badge_safaricity_2023_mexico_city_day_00_general
+TEXT: Мехико 2023
+
+RESOURCE ID: badge_safaricity_2023_mexico_city_day_00_general_title
+TEXT: Городское сафари Pokémon GO
+
+RESOURCE ID: badge_safaricity_2023_mexico_city_day_01_general
+TEXT: Мехико, 4 ноября 2023
+
+RESOURCE ID: badge_safaricity_2023_mexico_city_day_01_general_title
+TEXT: Городское сафари Pokémon GO
+
+RESOURCE ID: badge_safaricity_2023_mexico_city_day_02_general
+TEXT: Мехико, 5 ноября 2023
+
+RESOURCE ID: badge_safaricity_2023_mexico_city_day_02_general_title
+TEXT: Городское сафари Pokémon GO
+
+RESOURCE ID: badge_safaricity_2023_seoul_day_00_general
+TEXT: Сеул 2023
+
+RESOURCE ID: badge_safaricity_2023_seoul_day_00_general_title
+TEXT: Городское сафари Pokémon GO
+
+RESOURCE ID: badge_safaricity_2023_seoul_day_01_general
+TEXT: Сеул, 7 октября 2023
+
+RESOURCE ID: badge_safaricity_2023_seoul_day_01_general_title
+TEXT: Городское сафари Pokémon GO
+
+RESOURCE ID: badge_safaricity_2023_seoul_day_02_general
+TEXT: Сеул, 8 октября 2023
+
+RESOURCE ID: badge_safaricity_2023_seoul_day_02_general_title
+TEXT: Городское сафари Pokémon GO
 
 RESOURCE ID: badge_safarizone_2019_montreal_day_00_earlyaccess
 TEXT: Монреаль, 19 сентября 2019
@@ -8520,6 +8708,9 @@ TEXT: Уведомление о прекращении действия акка
 
 RESOURCE ID: banned_player_lockout_2
 TEXT: Узнай больше!
+
+RESOURCE ID: barcelona_catch_cup_title
+TEXT: Кубок поимки: Барселона
 
 RESOURCE ID: batch_transfer_confirm
 TEXT: <size=36><b>Передать профессору Покемонов: {0}?</b></size>
@@ -11353,6 +11544,9 @@ TEXT: Эволюционируй Алольского Гравелера, что
 RESOURCE ID: bonus_cd_move_axew
 TEXT: Эволюционируй Фрэкшура, чтобы получить Хаксоруса, который знает заряженную атаку Разбивающий Удар!
 
+RESOURCE ID: bonus_cd_move_charmander
+TEXT: Эволюционируй Чармелеона, чтобы получить Чаризарда, который знает быструю атаку Дыхание Дракона и заряженную атаку Обжигающий Взрыв!
+
 RESOURCE ID: bonus_cd_move_chespin
 TEXT: Эволюционируй Квилладина, чтобы получить Чеснота, который знает заряженную атаку Ярость Леса!
 
@@ -11410,6 +11604,24 @@ TEXT: Эволюционируй Галарского Лайнуна, чтобы
 RESOURCE ID: bonus_cd_ultra_unlock
 TEXT: Ультрабонус: 2× XP за поимку и 2× конфет за передачу
 
+RESOURCE ID: bonus_choice_2x_incense
+TEXT: 2× время действия ладана
+
+RESOURCE ID: bonus_choice_2x_incense_desc
+TEXT: Выбери этот бонус, чтобы получить увеличенное время действия ладана до окончания действия билета
+
+RESOURCE ID: bonus_choice_2x_lucky_egg
+TEXT: 2× время действия удачливого яйца
+
+RESOURCE ID: bonus_choice_2x_lucky_egg_desc
+TEXT: Выбери этот бонус, чтобы получить увеличенное время действия удачливого яйца до окончания действия билета
+
+RESOURCE ID: bonus_choice_2x_star_piece
+TEXT: 2× время действия осколка звезды
+
+RESOURCE ID: bonus_choice_2x_star_piece_desc
+TEXT: Выбери этот бонус, чтобы получить увеличенное время действия осколка звезды до окончания действия билета
+
 RESOURCE ID: bonus_double_guaranteed_xl_evolve
 TEXT: 2 гарантированные конфеты XL за эволюционирование Покемона
 
@@ -11435,10 +11647,10 @@ RESOURCE ID: bonus_fr_party_pikachu
 TEXT: Выполни задание полевого квеста, полученное на Покестопе встречи, и получи возможность встретиться с Пикачу в праздничном колпаке.
 
 RESOURCE ID: bonus_friendship_levelup_1.5x
-TEXT: 1.5× XP from increasing Friendship levels
+TEXT: 1,5× XP за повышение уровня дружбы
 
 RESOURCE ID: bonus_friendship_levelup_2x
-TEXT: 2× XP from increasing Friendship levels
+TEXT: 2× XP за повышение уровня дружбы
 
 RESOURCE ID: bonus_friendship_raid_double
 TEXT: 2× бонусного урона в рейдах с друзьями
@@ -11602,6 +11814,12 @@ TEXT: Райквазы, пойманные в рейдах, будут знат�
 RESOURCE ID: bonus_purrloin_o_clock
 TEXT: Пуррлойны будут появляться в больших количествах в начале каждого часа!
 
+RESOURCE ID: bonus_raid_1_xl_candy
+TEXT: Одна дополнительная конфета XL за поимку Покемонов в пятизвёздочных рейдах и мегарейдах
+
+RESOURCE ID: bonus_raid_3_candy
+TEXT: Три дополнительных конфеты за поимку Покемонов в пятизвёздочных рейдах и мегарейдах
+
 RESOURCE ID: bonus_raid_3_xl_candy
 TEXT: Три дополнительных конфеты XL за поимку Покемонов в пятизвёздочных рейдах, мегарейдах и проторейдах
 
@@ -11737,8 +11955,32 @@ TEXT: ‎Больше звёздной пыли за победу над аге�
 RESOURCE ID: bonus_tgr_stardust_leader
 TEXT: ‎Больше звёздной пыли за победу над лидерами Команды Ракета GO
 
+RESOURCE ID: bonus_today_3_hr_lure_regular_only
+TEXT: 3-часовое действие обычной приманки
+
+RESOURCE ID: bonus_today_event_tr
+TEXT: Уже доступен эксклюзивный квест на время в рамках этого события
+
+RESOURCE ID: bonus_today_plus_100_stardust
+TEXT: 100 дополнительной звёздной пыли за каждую поимку
+
+RESOURCE ID: bonus_today_special_lure_regular_only
+TEXT: Обычные приманки привлекают тематических Ивент-Покемонов
+
 RESOURCE ID: bonus_total_6_special_trades
 TEXT: Шесть специальных обменов в день
+
+RESOURCE ID: bonus_tr_gbl_championships_2024_a_desc
+TEXT: Разминка: Дополнительный квест на время
+
+RESOURCE ID: bonus_tr_gbl_championships_2024_a_title
+TEXT: Разминка
+
+RESOURCE ID: bonus_tr_gbl_championships_2024_b_desc
+TEXT: Прекрасная приманка: Дополнительный квест на время
+
+RESOURCE ID: bonus_tr_gbl_championships_2024_b_title
+TEXT: Прекрасная приманка
 
 RESOURCE ID: bonus_trade_stardust_50pc_5hr
 TEXT: Для обменов во время события и в течение пяти часов после него понадобится на 50% меньше звёздной пыли.
@@ -12690,6 +12932,12 @@ TEXT: Тонкая, маленькая и полностью растянута�
 
 RESOURCE ID: buddy_souvenir_stretchy_spring_name
 TEXT: Растянутая пружинка
+
+RESOURCE ID: buddy_souvenir_tiny_compass
+TEXT: Маленький компас
+
+RESOURCE ID: buddy_souvenir_tiny_compass_desc
+TEXT: Твой приятель оставил тебе этот компас, чтобы вы всегда могли найти друг друга.
 
 RESOURCE ID: buddy_souvenir_torn_ticket_description
 TEXT: Старый билет с выцветшим текстом. Твоему приятелю, вероятно, он просто понравился!
@@ -13774,7 +14022,7 @@ RESOURCE ID: city_boston
 TEXT: Бостон
 
 RESOURCE ID: city_brasilia
-TEXT: Бразилия
+TEXT: Бразилиа
 
 RESOURCE ID: city_bratislava
 TEXT: Братислава
@@ -15272,7 +15520,7 @@ RESOURCE ID: combat_title_season_11
 TEXT: Боевая Лига GO: Скрытые сокровища
 
 RESOURCE ID: combat_title_season_12
-TEXT: GO Battle League: Adventures Abound
+TEXT: Боевая Лига GO: Изобилие приключений
 
 RESOURCE ID: combat_title_season_7
 TEXT: Расписание Боевой Лиги GO: Сезон GO
@@ -15303,6 +15551,9 @@ TEXT: Классический день сообщества: Бульбазав
 
 RESOURCE ID: community_day_charmander_event_name
 TEXT: День cообщества: Чармандер
+
+RESOURCE ID: community_day_charmander_event_name_cdc
+TEXT: Классический день сообщества Чармандер
 
 RESOURCE ID: community_day_chespin_event_name
 TEXT: День сообщества: Чеспин
@@ -15581,7 +15832,8 @@ RESOURCE ID: contest_enter_error_recent_win
 TEXT: Этот Покемон недавно выиграл конкурс Покестопа.
 
 RESOURCE ID: contest_enter_nearby_contest
-TEXT: Участвовать в конкурсе Покестопа
+TEXT: Участвовать
+в конкурсе Покестопа
 
 RESOURCE ID: contest_enter_pokemon
 TEXT: Выбрать Покемона: {0}
@@ -16322,6 +16574,24 @@ TEXT: Не удалось изменить тег.
 RESOURCE ID: edit_tag_gui_title
 TEXT: ИЗМЕНИТЬ ТЕГ
 
+RESOURCE ID: eevee_explorers_barcelona_title
+TEXT: Исследователи Иви – Барселона
+
+RESOURCE ID: eevee_explorers_barcelona_title_00
+TEXT: Исследователи Иви – Барселона (1/8)
+
+RESOURCE ID: eevee_explorers_mexico_city_title
+TEXT: Исследователи Иви – Мехико
+
+RESOURCE ID: eevee_explorers_mexico_city_title_00
+TEXT: Исследователи Иви – Мехико (1/8)
+
+RESOURCE ID: eevee_explorers_seoul_title
+TEXT: Исследователи Иви – Сеул
+
+RESOURCE ID: eevee_explorers_seoul_title_00
+TEXT: Исследователи Иви – Сеул (1/8)
+
 RESOURCE ID: egg_anticipation
 TEXT: Что внутри?!
 
@@ -16603,6 +16873,9 @@ TEXT: English
 
 RESOURCE ID: enter_friend_code_prompt
 TEXT: Чтобы добавить кого-нибудь в свой список друзей, введи код этого Тренера.
+
+RESOURCE ID: enter_friend_code_prompt_v2
+TEXT: Send a Friend Request by entering or scanning your friend’s Trainer Code.
 
 RESOURCE ID: enter_tag_name_placeholder
 TEXT: Ввести название тега
@@ -17315,11 +17588,17 @@ TEXT: Мифический клинок
 RESOURCE ID: event_name_bonus_generic
 TEXT: Бонусное событие
 
+RESOURCE ID: event_name_paldean_adventure
+TEXT: Ультрабонус: Пальдея
+
 RESOURCE ID: event_name_routes
 TEXT: На пути новых открытий
 
 RESOURCE ID: event_name_snap
 TEXT: Праздник New Pokémon Snap
+
+RESOURCE ID: event_name_ultra_unlock_23
+TEXT: Приключение в Пальдее
 
 RESOURCE ID: event_new_ditto_bonus
 TEXT: Дитто маскируется под большее количество диких Покемонов
@@ -17639,6 +17918,9 @@ TEXT: Фестиваль красок
 RESOURCE ID: event_registration_success
 TEXT: Удалось зарегистрироваться на {0}!
 
+RESOURCE ID: event_safari_city
+TEXT: Городское сафари
+
 RESOURCE ID: event_season10_name
 TEXT: ‎Сезон 10: Новые герои
 
@@ -17646,7 +17928,7 @@ RESOURCE ID: event_season11_name
 TEXT: Текущий сезон: Скрытые сокровища
 
 RESOURCE ID: event_season12_name
-TEXT: Current Season: Adventures Abound
+TEXT: Текущий сезон: Изобилие приключений
 
 RESOURCE ID: event_season1_name
 TEXT: Праздничная пора
@@ -17879,6 +18161,9 @@ TEXT: У тебя ещё нет: {0}!
 RESOURCE ID: ex_raid_pass_invite_prompt
 TEXT: Выбери друга, которого хочешь пригласить на EX-рейд.
 
+RESOURCE ID: exclusive_incense_pokemon
+TEXT: Ладан может привлечь Покемонов, которые обычно не встречаются
+
 RESOURCE ID: exclusive_raid_log_cancelled
 TEXT: EX-рейд, запланированный на {1} {0} в Гиме {2}, был отменён.
 
@@ -18107,6 +18392,9 @@ TEXT: Поза сёрфера
 RESOURCE ID: f_avatar_poses_bundle_pose_53
 TEXT: Поза с картой
 сокровищ
+
+RESOURCE ID: f_avatar_poses_bundle_pose_55
+TEXT: Поза Гиты
 
 RESOURCE ID: f_avatar_poses_empty_bundle_pose_empty
 TEXT: Спокойная поза
@@ -19765,6 +20053,9 @@ TEXT: Гардевойр и Галлейд, обнаруженные после 
 RESOURCE ID: gardevoir_gallade_synchronoise_evolve
 TEXT: Эволюционируй Кирлию в Гардевойра или Галлейда, который знает Синхрошум
 
+RESOURCE ID: gbl_championships_2024_bonus_event
+TEXT: Бонусное событие: Давай сразимся!
+
 RESOURCE ID: gbl_double_dust_end_of_set
 TEXT: 2× звёздной пыли за совершение сражений в Боевой Лиге GO
 
@@ -20210,6 +20501,34 @@ TEXT: Билет на специальный квест «Песок и лёд»
 RESOURCE ID: general1.ticket.2_sandt_title
 TEXT: Песок и лёд
 
+RESOURCE ID: general1.ticket.2_septcdc2023_description
+TEXT: Билет на специальный квест Классического дня сообщества Чармандер 2 сентября 2023 с 14:00 до 17:00 по местному времени, вне зависимости от твоего местонахождения. 
+ 
+Награды за квест включают: 
+- Внутриигровые премиум-предметы, такие как редкие конфеты, Ультра-Боллы и другие 
+- Дополнительные встречи с Чармандером и его эволюциями 
+ 
+Подробности можно найти во внутриигровых новостях. 
+ 
+<b>Чтобы получить все бонусы специального события, необходимо играть в указанное время.</b>
+
+RESOURCE ID: general1.ticket.2_septcdc2023_title
+TEXT: Билет на Классический день сообщества Чармандер
+
+RESOURCE ID: general1.ticket.2_septembercd2023_description
+TEXT: A ticket to access the Community Day: Grubbin Special Research on September 23, 2023, from 2:00 p.m. to 5:00 p.m. local time, wherever you are. 
+ 
+Research rewards include: 
+- Premium in-game items, such as Rare Candies, Ultra Balls, and more 
+- Extra encounters with Grubbin and its Evolutions 
+ 
+Details can be found in the in-game News. 
+ 
+<b>You must play during the specified time to receive all the special event bonuses.</b>
+
+RESOURCE ID: general1.ticket.2_septembercd2023_title
+TEXT: Grubbin Community Day Ticket
+
 RESOURCE ID: general1.ticket.2_shint_description
 TEXT: Билет на специальный квест «Яркий свет, искра и луч» 21 ноября 2021 с 11:00 до 17:00 по местному времени, вне зависимости от твоего местонахождения. Подробности можно найти во внутриигровых новостях.
 
@@ -20535,6 +20854,22 @@ TEXT: Билет, дающий доступ к следующим бонусам
 
 RESOURCE ID: general1.ticket.megahoenn_title
 TEXT: Билет: Мегарейдовый день в Хоэнне
+
+RESOURCE ID: general1.ticket.pawmibackpack_description
+TEXT: Билет, дающий доступ к тематическому квесту на время. Включает следующие награды: 
+ 
+- Две встречи с Поми 
+- Рюкзак Поми 
+- Три редкие конфеты 
+- Один инкубатор 
+- 10 серебряных Пайнеп-Ягод 
+- 921 звёздной пыли 
+- 9210 XP 
+ 
+ Время на этот квест ограничено. Нужно выполнить задания квеста на время и забрать награды до 20:00 15 сентября 2023 по местному времени.
+
+RESOURCE ID: general1.ticket.pawmibackpack_title
+TEXT: Прогулка с Поми
 
 RESOURCE ID: general1.ticket.s10timed_description
 TEXT: Билет, дающий доступ к квесту на время «Гардероб Уиллоу», вне зависимости от твоего местонахождения. Награды за квест включают:
@@ -22998,7 +23333,7 @@ RESOURCE ID: gofest2023_free_rayquaza_1_2
 TEXT: Тебе уже встречался Мега-Райкваза? А необычные метеориты не попадались? Кажется, я обещал поделиться с тобой любопытным фактом об этих странных камнях из космоса!
 
 RESOURCE ID: gofest2023_free_rayquaza_1_3
-TEXT: Ты, возможно, уже знаешь, что твои отношения с Покемоном способствуют процессу мегаэволюции. Но Мега-Райкваза – это особый случай: чтобы мегаэволюционировать ему также нужно знать атаку Взлёт Дракона.
+TEXT: Ты, возможно, уже знаешь, что твои отношения с Покемоном способствуют процессу мегаэволюции. Но Мега-Райкваза – это особый случай: чтобы мегаэволюционировать, ему также нужно знать атаку Взлёт Дракона.
 
 RESOURCE ID: gofest2023_free_rayquaza_1_4
 TEXT: И вот ещё что: Райкваза вспоминает, как использовать Взлёт Дракона, только когда видит определённые метеориты. Невероятно увлекательно, правда?
@@ -25089,6 +25424,9 @@ TEXT: Великая Лига: Ремикс
 RESOURCE ID: great_raid_box_title
 TEXT: Рейдовая суперкоробка
 
+RESOURCE ID: great_storage_box
+TEXT: Cуперкоробка для хранения
+
 RESOURCE ID: ground_type_event
 TEXT: Активизация типа: Земля
 
@@ -27077,6 +27415,12 @@ TEXT: Чешуя, способствующая эволюции определё
 RESOURCE ID: item_dragon_scale_name
 TEXT: Чешуя дракона
 
+RESOURCE ID: item_event_ticket_blue_desc_pawmibackpack
+TEXT: Билет, дающий доступ к квесту на время с 10:00 10 сентября 2023 до 20:00 15 сентября 2023 по местному времени, вне зависимости от твоего местонахождения.
+
+RESOURCE ID: item_event_ticket_blue_details_pawmibackpack
+TEXT: Этот билет активируется автоматически, чтобы дать тебе доступ к квесту на время Прогулка с Поми, вне зависимости от твоего местонахождения.
+
 RESOURCE ID: item_event_ticket_gray_desc
 TEXT: Билет на Фестиваль Pokémon GO 2023: По всему миру, вне зависимости от твоего местонахождения.
 
@@ -27111,7 +27455,7 @@ RESOURCE ID: item_event_ticket_pink_bulbt_details
 TEXT: Этот билет активируется автоматически, чтобы дать тебе доступ к специальному квесту 22 января 2022 г. вне зависимости от твоего местонахождения.
 
 RESOURCE ID: item_event_ticket_pink_desc
-TEXT: Билет на специальный квест дня сообщества: Фроки 13 августа 2023 с 14:00 до 17:00 по местному времени, вне зависимости от твоего местонахождения.
+TEXT: Билет на специальный квест Классического дня сообщества Чармандер, вне зависимости от твоего местонахождения.
 
 RESOURCE ID: item_event_ticket_pink_desc_alodude
 TEXT: Билет на специальный квест 21 мая 2022 с 11:00 до 14:00 по местному времени, вне зависимости от твоего местонахождения.
@@ -27128,11 +27472,17 @@ TEXT: Билет на специальный квест 5 ноября 2022 с 1
 RESOURCE ID: item_event_ticket_pink_desc_fennekin
 TEXT: Билет на специальный квест «День сообщества: Феннекин», вне зависимости от твоего местонахождения.
 
+RESOURCE ID: item_event_ticket_pink_desc_froakie
+TEXT: Билет на специальный квест дня сообщества: Фроки 13 августа 2023 с 14:00 до 17:00 по местному времени, вне зависимости от твоего местонахождения.
+
 RESOURCE ID: item_event_ticket_pink_desc_gbd
 TEXT: Билет, дающий доступ к квесту на время «Боевой день GO: Звёздная пыль», вне зависимости от твоего местонахождения.
 
 RESOURCE ID: item_event_ticket_pink_desc_gold
 TEXT: Билет, дающий доступ к квесту на время «В поисках золота» 3 июня 2023 с 14:00 до 17:00 по местному времени, вне зависимости от твоего местонахождения.
+
+RESOURCE ID: item_event_ticket_pink_desc_grubbin
+TEXT: A ticket to access Special Research on September 23, 2023, from 2:00 p.m. to 5:00 p.m. local time, wherever you are.
 
 RESOURCE ID: item_event_ticket_pink_desc_mrmime
 TEXT: Билет на специальное событие с 10:00 2020 г. 19 декабря до 20:00 20 декабря 2020 г. по местному времени, вне зависимости от твоего местонахождения.
@@ -27150,7 +27500,7 @@ RESOURCE ID: item_event_ticket_pink_desc_togetic
 TEXT: Билет на специальный квест 15 апреля 2023 с 14:00 до 17:00 по местному времени, вне зависимости от твоего местонахождения.
 
 RESOURCE ID: item_event_ticket_pink_details
-TEXT: Этот билет активируется автоматически, чтобы дать тебе доступ к специальному квесту «Прыжки с пузырями» 13 августа 2023, вне зависимости от твоего местонахождения.
+TEXT: Этот билет активируется автоматически, чтобы дать тебе доступ к специальному квесту Классического дня сообщества Чармандер 2 сентября 2023 с 14:00 до 17:00 по местному времени, вне зависимости от твоего местонахождения.
 
 RESOURCE ID: item_event_ticket_pink_details_axew
 TEXT: Этот билет активируется автоматически, чтобы дать тебе доступ к специальному квесту Дня сообщества Эксью 10 июня 2023 с 14:00 до 17:00 по местному времени, вне зависимости от твоего местонахождения.
@@ -27164,11 +27514,17 @@ TEXT: Этот билет активируется автоматически, �
 RESOURCE ID: item_event_ticket_pink_details_fennekin
 TEXT: Этот билет активируется автоматически, чтобы дать тебе доступ к специальному квесту «День сообщества: Феннекин» 21 мая 2023 с 14:00 до 17:00 по местному времени, вне зависимости от твоего местонахождения.
 
+RESOURCE ID: item_event_ticket_pink_details_froakie
+TEXT: Этот билет активируется автоматически, чтобы дать тебе доступ к специальному квесту «Прыжки с пузырями» 13 августа 2023, вне зависимости от твоего местонахождения.
+
 RESOURCE ID: item_event_ticket_pink_details_gbd
 TEXT: Этот билет активируется автоматически, чтобы дать тебе доступ к квесту на время «Боевой день GO: Звёздная пыль» 14 мая 2023 с 00:00 до 23:59 по местному времени, вне зависимости от твоего местонахождения.
 
 RESOURCE ID: item_event_ticket_pink_details_gold
 TEXT: Этот билет активируется автоматически, чтобы дать тебе доступ к квесту на время «В поисках золота» 3 июня 2023 с 14:00 до 17:00 по местному времени, вне зависимости от твоего местонахождения.
+
+RESOURCE ID: item_event_ticket_pink_details_grubbin
+TEXT: This ticket will automatically activate to give you access to the Grubbin Community Day Special Research, wherever you are.
 
 RESOURCE ID: item_event_ticket_pink_details_mrmime
 TEXT: Этот билет активируется автоматически, чтобы дать тебе доступ к событию «Галарский Мистер Майм» с 10:00 19 декабря 2020 г. до 20:00 20 декабря 2020 г. по местному времени, вне зависимости от твоего местонахождения.
@@ -28985,7 +29341,7 @@ RESOURCE ID: limited_research_infernape
 TEXT: Ограниченный квест: Инфернейп
 
 RESOURCE ID: limited_research_inkay
-TEXT: Ограниченный квест: Инкей
+TEXT: Inkay Limited Research
 
 RESOURCE ID: limited_research_ivysaur
 TEXT: Ограниченный квест: Айвизавр
@@ -30745,6 +31101,9 @@ RESOURCE ID: m_avatar_poses_bundle_pose_53
 TEXT: Поза с картой
 сокровищ
 
+RESOURCE ID: m_avatar_poses_bundle_pose_55
+TEXT: Поза Гиты
+
 RESOURCE ID: m_avatar_poses_empty_bundle_pose_empty
 TEXT: Спокойная поза
 
@@ -31611,9 +31970,9 @@ RESOURCE ID: mega_walking_progress
 TEXT: Пройденное расстояние: прогресс
 
 RESOURCE ID: metadata_local
-TEXT: Built at 2023-09-18T20:59:16.703945
-at SHA a7306e08ee82874ddca80bcdb58d5b465d837223
-Pipeline 1760683, job 21350629
+TEXT: Built at 2023-10-02T20:40:06.933377
+at SHA 1d5e5f0c7d73f8dfe244488bea8bbc845f45bf8d
+Pipeline 1795962, job 21779397
 
 RESOURCE ID: mex_fighting_promo_title
 TEXT: ‎Квест на время: Боевой тип
@@ -31647,6 +32006,9 @@ TEXT: Тяжёлый вес: выбрать Харияму
 
 RESOURCE ID: mex_promo_tr_path_c_desc
 TEXT: Выбери этот путь, чтобы встретиться с Покемоном-Толчком Рукой Хариямой, а также получить Макухита-конфеты, XP и звёздную пыль.
+
+RESOURCE ID: mexico_city_catch_cup_title
+TEXT: Кубок поимки: Мехико
 
 RESOURCE ID: milestone_rewards_title
 TEXT: НАГРАДЫ ЗА ДОСТИЖЕНИЕ ЦЕЛИ
@@ -32779,6 +33141,15 @@ TEXT: Пространственный Разрыв
 RESOURCE ID: move_name_0389
 TEXT: Крылья Забвения
 
+RESOURCE ID: move_name_0391
+TEXT: Тройной Аксель
+
+RESOURCE ID: move_name_0392
+TEXT: Новый Путь
+
+RESOURCE ID: move_name_0393
+TEXT: Раскалённый Песок
+
 RESOURCE ID: move_reroll_confirm_desc
 TEXT: {0} забудет атаку {1}.
 
@@ -33574,6 +33945,9 @@ TEXT: {0} и {1} сохранили твои открытки!
 
 RESOURCE ID: pair_friend_sent_you_gift_notification
 TEXT: {0} и {1} отправили тебе подарки!
+
+RESOURCE ID: paldean_pokedex_header
+TEXT: пальдейская форма
 
 RESOURCE ID: palma_enable_modal_failure_message
 TEXT: Попробуй ещё раз через настройки или значок Poké Ball Plus.
@@ -41503,22 +41877,22 @@ RESOURCE ID: pokemon_desc_0989
 TEXT: Про Магнитные Вихры мало что известно, но его внешний вид совпадает с изображением неизвестного существа в дневнике одной экспедиции. Данные о поимке этого Покемона отсутствуют.
 
 RESOURCE ID: pokemon_desc_0990
-TEXT: Sightings of this Pokémon have occurred in recent years. It resembles a mysterious object described in an old expedition journal.
+TEXT: Железные Гусеницы напоминает один загадочный предмет, описание которого встречается старом дневнике одной экспедиции. В последние годы поступило несколько сообщений о его появлении.
 
 RESOURCE ID: pokemon_desc_0991
-TEXT: It resembles a mysterious object mentioned in an old book. There are only two reported sightings of this Pokémon.
+TEXT: Железный Мешок напоминает один загадочный предмет, который упоминается в старой книге. Этого Покемона видели только дважды.
 
 RESOURCE ID: pokemon_desc_0992
-TEXT: This Pokémon shares many similarities with Iron Hands, an object mentioned in a certain expedition journal.
+TEXT: У Покемона Железные Руки немало общего с одноимённым предметом, описание которого встречается в дневнике одной экспедиции.
 
 RESOURCE ID: pokemon_desc_0993
-TEXT: It’s possible that Iron Jugulis, an object described in an old book, may actually be this Pokémon.
+TEXT: Покемон Железные Головы мог быть предметом, описание которого встречается в старой книге.
 
 RESOURCE ID: pokemon_desc_0994
-TEXT: No records exist of this species being caught. Data is lacking, but the Pokémon’s traits match up with an object described in an old book.
+TEXT: Про Покемона Железный Мотылёк мало что известно, но его внешний вид совпадает с изображением неизвестного предмета в старой книге. Данные о поимке этого Покемона отсутствуют.
 
 RESOURCE ID: pokemon_desc_0995
-TEXT: Some of its notable features match those of an object named within a certain expedition journal as Iron Thorns.
+TEXT: Некоторые из самых значительных характеристик Покемона Железные Шипы совпадают с предметом, упомянутым в старом дневнике одной экспедиции.
 
 RESOURCE ID: pokemon_desc_0996
 TEXT: Спинной плавник Фриджибакса поглощает тепло и превращает его в ледяную энергию. Чем выше температура, тем больше энергии накапливает этот Покемон.
@@ -41551,13 +41925,13 @@ RESOURCE ID: pokemon_desc_1005
 TEXT: Вероятно, это то самое существо, которое было записано в дневник одной экспедиции под именем Ревущий Месяц. Этот дневник хранит ещё много тайн.
 
 RESOURCE ID: pokemon_desc_1006
-TEXT: It’s possible that this is the object listed as Iron Valiant in a certain expedition journal.
+TEXT: Возможно, что Железный Воин упоминался как предмет в дневнике одной экспедиции.
 
 RESOURCE ID: pokemon_desc_1007_2996
 TEXT: Вероятно, Корайдон и есть тот Крылатый Король, который упоминается в старом дневнике одной экспедиции. Там говорится, что этот Покемон кулаками раскалывал землю на части.
 
 RESOURCE ID: pokemon_desc_1008_2997
-TEXT: This seems to be the Iron Serpent mentioned in an old book. The Iron Serpent is said to have turned the land to ash with its lightning.
+TEXT: Вероятно, Мирайдон – это тот самый Железный Змей, упомянутый в одной старой книге. Говорят, что Железный Змей ударом молнии превратил землю в пепел.
 
 RESOURCE ID: pokemon_desc_tmpevo_0003_0001
 TEXT: Чтобы поддерживать цветок, который из-за мегаэволюции увеличился в размере, его спина и ноги стали сильнее.
@@ -46397,6 +46771,9 @@ TEXT: Таинственные предметы
 RESOURCE ID: quest_breakthrough_reward_stardust
 TEXT: Звёздная Пыль
 
+RESOURCE ID: quest_buddy_affection_days
+TEXT: Зарабатывай сердечки с приятелем в разные дни ×{0}
+
 RESOURCE ID: quest_buddy_affection_days_in_a_row
 TEXT: Заработай сердечко с твоим приятелем {0} дн. подряд
 
@@ -46532,6 +46909,9 @@ TEXT: Поймай {0} Лавдисков
 RESOURCE ID: quest_catch_misc_01_types_plural
 TEXT: Поймай {0} обычных, водных или ледяных Покемонов
 
+RESOURCE ID: quest_catch_nymble_plural
+TEXT: Поймай {0} Нимблов
+
 RESOURCE ID: quest_catch_pikachu_plural
 TEXT: Поймай {0} Пикачу
 
@@ -46540,6 +46920,9 @@ TEXT: Поймай Покемонов {0} разных видов
 
 RESOURCE ID: quest_catch_pokemon_dai_plural
 TEXT: Используй ладан ежедневных приключений для поимки {0} Покемонов
+
+RESOURCE ID: quest_catch_pokemon_days
+TEXT: Лови Покемонов в разные дни ×{0}
 
 RESOURCE ID: quest_catch_pokemon_plural
 TEXT: Поймай {0} Покемонов
@@ -47276,6 +47659,9 @@ TEXT: Скользкая ситуация
 RESOURCE ID: quest_complete_zygarde
 TEXT: Загадки Зайгарда
 
+RESOURCE ID: quest_crocalor_evolve_b
+TEXT: Эволюционируй Крокалора
+
 RESOURCE ID: quest_daily_bonus_title
 TEXT: Ежедневный бонус
 
@@ -47845,6 +48231,30 @@ TEXT: Эволюционируй {0} травяных Покемонов
 
 RESOURCE ID: quest_equinox19_evolve_type_grass_plural_2
 TEXT: Эволюционируй {0} травяных Покемонов
+
+RESOURCE ID: quest_event_eevee_snapshot_barcelona
+TEXT: Сделай фото своего Иви в Барселоне
+
+RESOURCE ID: quest_event_eevee_snapshot_mexico_city
+TEXT: Сделай фото своего Иви в Мехико
+
+RESOURCE ID: quest_event_eevee_snapshot_seoul
+TEXT: Сделай фото своего Иви в Сеуле
+
+RESOURCE ID: quest_event_leave_behind_spin_safari_city_plural
+TEXT: Spin {0} Pokéstops at an Eevee Explorer location you've never visited before
+
+RESOURCE ID: quest_event_leave_behind_spin_safari_city_singular
+TEXT: Spin a Pokéstop at an Eevee Explorer location you've never visited before
+
+RESOURCE ID: quest_event_spin_barcelona
+TEXT: Покрути 1 Покестоп или Гим в Барселоне
+
+RESOURCE ID: quest_event_spin_mexico_city
+TEXT: Покрути 1 Покестоп или Гим в Мехико
+
+RESOURCE ID: quest_event_spin_seoul
+TEXT: Покрути 1 Покестоп или Гим в Сеуле
 
 RESOURCE ID: quest_evolve_abra_singular
 TEXT: Эволюционируй 1 Покемона: Абра
@@ -49157,6 +49567,9 @@ TEXT: Эволюционируй {0} Флетчлингов
 RESOURCE ID: quest_flett_evolve_s1
 TEXT: Эволюционируй Флетчлиндеров: {0}
 
+RESOURCE ID: quest_floragato_evolve_b
+TEXT: Эволюционируй Флорагато
+
 RESOURCE ID: quest_fraxure_evolve_b
 TEXT: Эволюционируй {0} Фрэкшура
 
@@ -49171,6 +49584,9 @@ TEXT: Сделай фото {0} Фроки
 
 RESOURCE ID: quest_frogadier_evolve_b
 TEXT: Эволюционируй {0} Фрогадира
+
+RESOURCE ID: quest_fuecoco_evolve_b
+TEXT: Эволюционируй Фуэкоко
 
 RESOURCE ID: quest_gbl_rank
 TEXT: Достигни {0}-го ранга в Боевой Лиге GO
@@ -50288,6 +50704,12 @@ TEXT: Поймай {0} психических Покемонов
 RESOURCE ID: quest_psychicspec_evolve_plural
 TEXT: Эволюционируй Эксегкьюта или Слоупока: {0}
 
+RESOURCE ID: quest_quaxly_evolve_b
+TEXT: Эволюционируй Куаксли
+
+RESOURCE ID: quest_quaxwell_evolve_b
+TEXT: Эволюционируй Куаксвелла
+
 RESOURCE ID: quest_quilladin_evolve_b
 TEXT: Эволюционируй {0} Квилладина
 
@@ -50373,7 +50795,7 @@ RESOURCE ID: quest_rocket_purify_plural
 TEXT: Очисти {0} Теневых Покемонов
 
 RESOURCE ID: quest_rocket_purify_type_singular
-TEXT: Очисти 1 огненного, водного или травяного Теневого Покемона: {0}
+TEXT: Очисти 1 огненного, водного или травяного Теневого Покемона
 
 RESOURCE ID: quest_rocket_rescue_shadow_plural
 TEXT: Спаси Теневых Покемонов: {0}
@@ -50619,13 +51041,13 @@ RESOURCE ID: quest_snapshot_wild_dark_plural
 TEXT: Сделай {0} фото диких тёмных Покемонов
 
 RESOURCE ID: quest_snapshot_wild_dark_unique_plural
-TEXT: Take snapshots of {0} different wild Dark-type Pokémon
+TEXT: Сделай фото {0} разных диких Покемонов типа Тёмный
 
 RESOURCE ID: quest_snapshot_wild_dragon_plural
 TEXT: Сделай {0} фото диких драконьих Покемонов
 
 RESOURCE ID: quest_snapshot_wild_dragon_unique_plural
-TEXT: Take snapshots of {0} different wild Dragon-type Pokémon
+TEXT: Сделай фото {0} разных диких Покемонов типа Дракон
 
 RESOURCE ID: quest_snapshot_wild_ducklett_chinchou_finneon
 TEXT: Сделай фото дикого Чинчоу, Финнеона или Даклетта
@@ -50637,7 +51059,7 @@ RESOURCE ID: quest_snapshot_wild_electric_plural
 TEXT: Сделай {0} фото диких электрических Покемонов
 
 RESOURCE ID: quest_snapshot_wild_electric_unique_plural
-TEXT: Take snapshots of {0} different wild Electric-type Pokémon
+TEXT: Сделай фото {0} разных диких Покемонов типа Электро
 
 RESOURCE ID: quest_snapshot_wild_entei
 TEXT: Сделай фото дикого Энтея
@@ -50646,13 +51068,13 @@ RESOURCE ID: quest_snapshot_wild_fairy_plural
 TEXT: Сделай {0} фото диких Покемонов типа Феи
 
 RESOURCE ID: quest_snapshot_wild_fairy_unique_plural
-TEXT: Take snapshots of {0} different wild Fairy-type Pokémon
+TEXT: Сделай фото {0} разных диких Покемонов типа Фея
 
 RESOURCE ID: quest_snapshot_wild_fighting_plural
 TEXT: Сделай {0} фото диких боевых Покемонов
 
 RESOURCE ID: quest_snapshot_wild_fighting_unique_plural
-TEXT: Take snapshots of {0} different wild Fighting-type Pokémon
+TEXT: Сделай фото {0} разных диких Покемонов типа Боевой
 
 RESOURCE ID: quest_snapshot_wild_fire_plural
 TEXT: Сделай {0} фото диких огненных Покемонов
@@ -50661,7 +51083,7 @@ RESOURCE ID: quest_snapshot_wild_flying_plural
 TEXT: Сделай {0} фото диких летающих Покемонов
 
 RESOURCE ID: quest_snapshot_wild_flying_unique_plural
-TEXT: Take snapshots of {0} different wild Flying-type Pokémon
+TEXT: Сделай фото {0} разных диких Покемонов типа Летающий
 
 RESOURCE ID: quest_snapshot_wild_geodude_sandshrew_cacnea
 TEXT: Сделай фото дикого Сэндшрю, Геодуда или Какнеи
@@ -50670,7 +51092,7 @@ RESOURCE ID: quest_snapshot_wild_ghost_plural
 TEXT: Сделай {0} фото диких Покемонов типа Привидения
 
 RESOURCE ID: quest_snapshot_wild_ghost_unique_plural
-TEXT: Take snapshots of {0} different wild Ghost-type Pokémon
+TEXT: Сделай фото {0} разных диких Покемонов типа Привидение
 
 RESOURCE ID: quest_snapshot_wild_grass_plural
 TEXT: Сделай {0} фото диких травяных Покемонов
@@ -50679,13 +51101,13 @@ RESOURCE ID: quest_snapshot_wild_grass_singular
 TEXT: Take a snapshot of a wild Grass-type Pokémon
 
 RESOURCE ID: quest_snapshot_wild_grass_unique_plural
-TEXT: Take snapshots of {0} different wild Grass-type Pokémon
+TEXT: Сделай фото {0} разных диких Покемонов типа Трава
 
 RESOURCE ID: quest_snapshot_wild_ground_plural
 TEXT: Сделай {0} фото диких земляных Покемонов
 
 RESOURCE ID: quest_snapshot_wild_ground_unique_plural
-TEXT: Take snapshots of {0} different wild Ground-type Pokémon
+TEXT: Сделай фото {0} разных диких Покемонов типа Земля
 
 RESOURCE ID: quest_snapshot_wild_hoothoot
 TEXT: Сделай фото дикого Хутхута
@@ -50697,7 +51119,7 @@ RESOURCE ID: quest_snapshot_wild_ice_singular
 TEXT: Сделай фото дикого ледяного Покемона
 
 RESOURCE ID: quest_snapshot_wild_ice_unique_plural
-TEXT: Take snapshots of {0} different wild Ice-type Pokémon
+TEXT: Сделай фото {0} разных диких Покемонов типа Лёд
 
 RESOURCE ID: quest_snapshot_wild_lotad_metapod_aipom
 TEXT: Сделай фото дикого Метапода, Эйпома или Лотада
@@ -50712,7 +51134,7 @@ RESOURCE ID: quest_snapshot_wild_normal_plural
 TEXT: Сделай {0} фото диких обычных Покемонов
 
 RESOURCE ID: quest_snapshot_wild_normal_unique_plural
-TEXT: Take snapshots of {0} different wild Normal-type Pokémon
+TEXT: Сделай фото {0} разных диких Покемонов типа Обычный
 
 RESOURCE ID: quest_snapshot_wild_plural
 TEXT: Сделай {0} фото диких Покемонов
@@ -50721,13 +51143,13 @@ RESOURCE ID: quest_snapshot_wild_poison_plural
 TEXT: Сделай {0} фото диких ядовитых Покемонов
 
 RESOURCE ID: quest_snapshot_wild_poison_unique_plural
-TEXT: Take snapshots of {0} different wild Poison-type Pokémon
+TEXT: Сделай фото {0} разных диких Покемонов типа Яд
 
 RESOURCE ID: quest_snapshot_wild_psychic_plural
 TEXT: Сделай {0} фото диких психических Покемонов
 
 RESOURCE ID: quest_snapshot_wild_psychic_unique_plural
-TEXT: Take snapshots of {0} different wild Psychic-type Pokémon
+TEXT: Сделай фото {0} разных диких Покемонов типа Психо
 
 RESOURCE ID: quest_snapshot_wild_raikou
 TEXT: Сделай фото дикого Райку
@@ -50739,7 +51161,7 @@ RESOURCE ID: quest_snapshot_wild_rock_plural
 TEXT: Сделай {0} фото диких каменных Покемонов
 
 RESOURCE ID: quest_snapshot_wild_rock_unique_plural
-TEXT: Take snapshots of {0} different wild Rock-type Pokémon
+TEXT: Сделай фото {0} разных диких Покемонов типа Камень
 
 RESOURCE ID: quest_snapshot_wild_singular
 TEXT: Сделай фото дикого Покемона
@@ -50778,7 +51200,7 @@ RESOURCE ID: quest_snapshot_wild_water_singular
 TEXT: Take a snapshot of wild Water-type Pokémon
 
 RESOURCE ID: quest_snapshot_wild_water_unique_plural
-TEXT: Take snapshots of {0} different wild Water-type Pokémon
+TEXT: Сделай фото {0} разных диких Покемонов типа Вода
 
 RESOURCE ID: quest_snapshots_inarow_plural
 TEXT: Сделай фото Покемона {0} дн. подряд
@@ -57330,133 +57752,133 @@ RESOURCE ID: quest_special_dialogue_searching_gold_june23_1_1
 TEXT: Тебе хочется найти одного из этих Покемонов? У меня хорошее предчувствие по поводу них!
 
 RESOURCE ID: quest_special_dialogue_season12_0_0
-TEXT: %PLAYERNAME%, exciting news! In my recent research into other regions, I learned of Paldea—a vast, open place dotted with agricultural villages, port towns, and lively markets.
+TEXT: Отличные новости, %PLAYERNAME%! Я недавно исследовал другие регионы и узнал о Пальдее. Это регион бескрайних просторов c фермерскими деревушками, портовыми городами и оживлёнными рыночными площадями.
 
 RESOURCE ID: quest_special_dialogue_season12_0_1
-TEXT: And beyond those settlements, Paldea has all sorts of magnificent places begging to be explored, from towering mountains to resplendent lakes.
+TEXT: Но помимо поселений в Пальдее также можно исследовать и другие прекрасные места – там есть и величественные горы, и сверкающие озёра.
 
 RESOURCE ID: quest_special_dialogue_season12_0_2
-TEXT: Most importantly for us, there are plenty of Pokémon first discovered in Paldea for us to study!
+TEXT: Но для нас самое главное – это то, что в Пальдее обитает множество Покемонов, впервые обнаруженных в этом регионе!
 
 RESOURCE ID: quest_special_dialogue_season12_0_3
-TEXT: Doesn’t the very idea get your heart racing?
+TEXT: От этой мысли даже сердце начинает биться быстрее, правда?
 
 RESOURCE ID: quest_special_dialogue_season12_0_4
-TEXT: If you’re up for it, I say we put our all-star teamwork to the proof by learning all there is to learn about them!
+TEXT: Предлагаю снова собраться нашей звёздной командой, чтобы как можно больше узнать об этих Покемонах!
 
 RESOURCE ID: quest_special_dialogue_season12_a_1_0
-TEXT: Great choice! You know, Sprigatito’s a bit of a rascal. It’s capricious and attention-seeking, to the point that it may sulk if it sees you giving attention to another Pokémon!
+TEXT: Отличный выбор! Знаешь, Спригатито нередко бывает капризным. Он настолько любит внимание, что может вредничать, если заметит, что ты уделяешь внимание другим Покемонам!
 
 RESOURCE ID: quest_special_dialogue_season12_a_1_1
-TEXT: As for its physical characteristics, its fluffy fur is similar in composition to plants, letting it create energy by absorbing sunlight.
+TEXT: Что касается физиологических особенностей Спригатито, волокна его пушистой шёрстки по структуре напоминают растительные. Это позволяет ему создавать энергию, поглощая солнечный свет.
 
 RESOURCE ID: quest_special_dialogue_season12_a_1_2
-TEXT: And when Sprigatito kneads and rubs with its forepaws, a sweet aroma is released that can mesmerize those around it.
+TEXT: А когда Спригатито потирает передние лапки, от него исходит сладкий аромат, способный очаровать всех вокруг.
 
 RESOURCE ID: quest_special_dialogue_season12_a_1_3
-TEXT: While you contemplate that, how about you walk around and look for some Grass-type Pokémon, %PLAYERNAME%?
+TEXT: Пока ты обдумываешь эту информацию, сходи на прогулку и поищи Покемонов типа Трава, %PLAYERNAME%.
 
 RESOURCE ID: quest_special_dialogue_season12_a_2_0
-TEXT: Welcome back! How did it go? Exploring with a new Pokémon is a great way to develop your bond. Now, here’s another fun Sprigatito fact.
+TEXT: С возвращением! Как всё прошло? Исследования с Покемоном – отличный способ с ним подружиться. А вот ещё один интересный факт о Спригатито.
 
 RESOURCE ID: quest_special_dialogue_season12_a_2_1
-TEXT: Sprigatito washes its face regularly to keep its fur from drying out. What a great self-care regimen!
+TEXT: Чтобы мех Спригатито не высыхал, этот Покемон часто умывается. Отличный пример ухода за собой!
 
 RESOURCE ID: quest_special_dialogue_season12_a_2_2
-TEXT: I wonder how Sprigatito’s Evolution, Floragato, behaves in comparison. Could you help your Sprigatito evolve so we can find out for ourselves?
+TEXT: Любопытно, как отличаются повадки Флорагато и Спригатито. Можешь помочь своему Спригатито эволюционировать, чтобы мы понаблюдали за этим Покемоном?
 
 RESOURCE ID: quest_special_dialogue_season12_a_3_0
-TEXT: Wow! Amazing progress, %PLAYERNAME%! I’m sure there’s plenty you’ll learn with a Pokémon like Floragato at your side.
+TEXT: Ого! Прекрасная работа, %PLAYERNAME%! Я уверен, что ты откроешь для себя много интересного в компании такого Покемона, как Флорагато.
 
 RESOURCE ID: quest_special_dialogue_season12_a_3_1
-TEXT: Did you know that its fur can become softer or harder depending on its mood? It can even be needle sharp when Floragato is ready to battle.
+TEXT: Ты знаешь, что его мех бывает то мягким, то жёстким в зависимости от его настроения? А когда Флорагато готов сражаться, волоски не его теле становятся острыми как иголки.
 
 RESOURCE ID: quest_special_dialogue_season12_a_3_2
-TEXT: Speaking of battle, Floragato deftly wields a vine hidden beneath its long fur, slamming the hard flower bud against its opponents. I bet that smarts!
+TEXT: Кстати, о сражениях: под длинной шерстью Флорагато спрятана лиана. Он ловко орудует ей во время атаки, нанося противнику удары плотным бутоном. Вот это сноровка!
 
 RESOURCE ID: quest_special_dialogue_season12_a_3_3
-TEXT: I can’t wait to see how Floragato changes when it evolves into Meowscarada. Please come see me when it does!
+TEXT: Мне не терпится посмотреть, как изменится Флорагато, когда эволюционирует в Мяускараду. Загляни ко мне, когда это произойдёт!
 
 RESOURCE ID: quest_special_dialogue_season12_a_4_0
-TEXT: Whoa! Meowscarada is one a-meow-zing Pokémon! I’ve heard that with skillful misdirection, it rigs foes with pollen-packed flower bombs, which it sets off before its foes realize what’s going on.
+TEXT: Ого! Мяускарада – это просто очаро-мяу-тельный Покемон! Я слышал, что во время сражений он сначала отвлекает противника, а потом исподтишка атакует цветочными бомбочками с пыльцой. Они взрываются так быстро, что противник даже не успевает понять, что произошло.
 
 RESOURCE ID: quest_special_dialogue_season12_a_4_1
-TEXT: That’s quite the magic trick. I hope to see it firsthand someday—from a safe distance, of course! But that’s enough out of me—you deserve a rest after all that research. Thanks for your help, as always, %PLAYERNAME%!
+TEXT: Вот такой фокус от Мяускарады. Надеюсь однажды увидеть его своими глазами – только с безопасного расстояния, конечно! Но довольно моей болтовни, ты заслуживаешь отдыха после всех этих исследований. Как всегда, спасибо за помощь, %PLAYERNAME%!
 
 RESOURCE ID: quest_special_dialogue_season12_b_1_0
-TEXT: Great choice! Fuecoco’s one cheerful little chomper. Flickering atop its head is fire energy that is leaking out from inside its body—and when Fuecoco gets excited, its head spouts more flames!
+TEXT: Отличный выбор! Фуэкоко – весёлый зубастик. Свет на его макушке – это огненная энергия, исходящая из его тела. Когда Фуэкоко радуется, пламя на его голове становится ещё ярче!
 
 RESOURCE ID: quest_special_dialogue_season12_b_1_1
-TEXT: How about you match that enthusiasm as you walk around and look for Fire-type Pokémon, %PLAYERNAME%?
+TEXT: Может, и ты загоришься энтузиазмом, пока гуляешь и ищешь Покемонов типа Огонь, %PLAYERNAME%?
 
 RESOURCE ID: quest_special_dialogue_season12_b_2_0
-TEXT: Welcome back! How did it go? Exploring with a new Pokémon is a great way to develop your bond. Now, here’s another fun Fuecoco fact.
+TEXT: С возвращением! Как всё прошло? Исследования с Покемоном – отличный способ с ним подружиться. А вот ещё один интересный факт о Фуэкоко.
 
 RESOURCE ID: quest_special_dialogue_season12_b_2_1
-TEXT: Fuecoco lies on warm rocks and uses the heat absorbed by its square-shaped scales to create fire energy.
+TEXT: Фуэкоко ложится на нагретые камни, чтобы через квадратные чешуйки впитать тепло и создать из него огненную энергию.
 
 RESOURCE ID: quest_special_dialogue_season12_b_2_2
-TEXT: I wonder how Fuecoco’s Evolution, Crocalor, behaves in comparison. Could you help your Fuecoco evolve so we can find out for ourselves?
+TEXT: Любопытно, как отличаются повадки Фуэкоко и Крокалора. Можешь помочь своему Фуэкоко эволюционировать, чтобы мы понаблюдали за этим Покемоном?
 
 RESOURCE ID: quest_special_dialogue_season12_b_3_0
-TEXT: Wow! Amazing progress, %PLAYERNAME%! I’m sure there’s plenty you’ll learn with a Pokémon like Crocalor at your side.
+TEXT: Ого! Прекрасная работа, %PLAYERNAME%! Я уверен, что ты откроешь для себя много интересного в компании такого Покемона, как Крокалор.
 
 RESOURCE ID: quest_special_dialogue_season12_b_3_1
-TEXT: Did you know that the combination of Crocalor’s fire energy and overflowing vitality is what caused an egg-shaped fireball to appear on the Pokémon’s head?
+TEXT: Ты знаешь, что из-за огненной энергии Крокалора и его исключительной активности у него на голове появился огненный шар в форме яйца?
 
 RESOURCE ID: quest_special_dialogue_season12_b_3_2
-TEXT: What’s more, the valve in Crocalor’s flame sac is closely connected to its vocal cords. It utters a guttural cry as it spews flames every which way. Spicy!
+TEXT: Более того, огненный мешок в теле Крокалора соединён с его голосовыми связками. Крокалор издаёт гортанный крик, и пламя вырывается из его пасти. Огонь!
 
 RESOURCE ID: quest_special_dialogue_season12_b_3_3
-TEXT: I can’t wait to see how Crocalor changes when it evolves into Skeledirge. Please come see me when it does!
+TEXT: Мне не терпится посмотреть, как изменится Крокалор, когда эволюционирует в Скеледиржа. Загляни ко мне, когда это произойдёт!
 
 RESOURCE ID: quest_special_dialogue_season12_b_4_0
-TEXT: Whoa! Skeledirge is one sizzlingly slick Pokémon—and yet somehow so serene! I’ve heard that Skeledirge’s gentle singing soothes the souls of all that hear it.
+TEXT: Ого! Скеледирж такой испепеляюще мощный, но вместе с тем очень спокойный Покемон! Я слышал, что его приятное пение успокаивает души всех, кто его слышит.
 
 RESOURCE ID: quest_special_dialogue_season12_b_4_1
-TEXT: And yet it burns its enemies to a crisp with flames of over 5,400 degrees Fahrenheit. It’s, uh, certainly comforting to know you’re on the same team!
+TEXT: И однако он способен поджарить своих противников до хрустящей корочки, ведь температура его пламени достигает 3000 °C. Тот факт, что мы в одной команде, эм, однозначно успокаивает!
 
 RESOURCE ID: quest_special_dialogue_season12_b_4_2
-TEXT: But that’s enough out of me—you deserve a rest after all that research. Thanks for your help, as always, %PLAYERNAME%!
+TEXT: Но довольно моей болтовни – ты заслуживаешь отдыха после всех этих исследований. Как всегда, спасибо за помощь, %PLAYERNAME%!
 
 RESOURCE ID: quest_special_dialogue_season12_branch_0
-TEXT: Which Pokémon first discovered in Paldea would you like to join you on your adventure, %PLAYERNAME%?
+TEXT: С каким Покемоном, впервые обнаруженным в регионе Пальдея, тебе хотелось бы отправиться в приключение, %PLAYERNAME%?
 
 RESOURCE ID: quest_special_dialogue_season12_c_1_0
-TEXT: Great choice! Quaxly is an earnest and tidy Pokémon. Perhaps you’re the sort of Trainer who likes it when everything is neatly in place—and for Quaxly, that place is at your side!
+TEXT: Отличный выбор! Куаксли – серьёзный и аккуратный Покемон. Если ты такой Тренер, которому нравится, когда всё аккуратно и на месте, – тогда Куаксли как раз для тебя!
 
 RESOURCE ID: quest_special_dialogue_season12_c_1_1
-TEXT: Quaxly’s feathers secrete a gel that repels water and grime, so its body is always glossy. And get a gander at that coif atop its head! So luxurious.
+TEXT: Перья Куаксли выделяют гель, отталкивающий воду и грязь, поэтому его тело всегда блестит. И обрати внимание на его причёску. Куаксли такой стильный!
 
 RESOURCE ID: quest_special_dialogue_season12_c_1_2
-TEXT: I’m suddenly inspired to tidy things up around here. While I’m doing that, why don’t you walk around and look for Water-type Pokémon, %PLAYERNAME%?
+TEXT: Что-то мне неожиданно захотелось навести тут порядок. Пока я занят уборкой, можешь сходить на прогулку и поискать Покемонов типа Вода, %PLAYERNAME%?
 
 RESOURCE ID: quest_special_dialogue_season12_c_2_0
-TEXT: Welcome back! How did it go? Exploring with a new Pokémon is a great way to develop your bond. Now, here’s another fun Quaxly fact.
+TEXT: С возвращением! Как всё прошло? Исследования с Покемоном – отличный способ с ним подружиться. А вот ещё один интересный факт о Куаксли.
 
 RESOURCE ID: quest_special_dialogue_season12_c_2_1
-TEXT: This Pokémon migrated to Paldea from distant lands long ago. Its strong legs let it easily swim around in even fast-flowing rivers.
+TEXT: Этот Покемон давным-давно мигрировал в Пальдею из дальних стран. Сильные ноги позволяют ему легко плавать даже в реках с самым быстрым течением.
 
 RESOURCE ID: quest_special_dialogue_season12_c_2_2
-TEXT: I wonder how Quaxly’s Evolution, Quaxwell, behaves in comparison. Could you help your Quaxly evolve so we can find out for ourselves?
+TEXT: Любопытно, как отличаются повадки Куаксли и Куаксвелла. Можешь помочь своему Куаксли эволюционировать, чтобы мы понаблюдали за этим Покемоном?
 
 RESOURCE ID: quest_special_dialogue_season12_c_3_0
-TEXT: Wow! Amazing progress, %PLAYERNAME%! I’m sure there’s plenty you’ll learn with a Pokémon like Quaxwell at your side.
+TEXT: Ого! Прекрасная работа, %PLAYERNAME%! Я уверен, что ты откроешь для себя много интересного в компании такого Покемона, как Куаксвелл.
 
 RESOURCE ID: quest_special_dialogue_season12_c_3_1
-TEXT: Did you know that these Pokémon constantly run through shallow waters to train their legs, then compete with each other to see which of them kicks most gracefully?
+TEXT: Ты знаешь, что Куаксвеллы постоянно бегают по мелководью, чтобы тренировать ноги? Потом они соревнуются, чтобы определить, у кого самый изящный мах ногой.
 
 RESOURCE ID: quest_special_dialogue_season12_c_3_2
-TEXT: The hardworking Quaxwell observes people and Pokémon from various regions and incorporates their movements into its own dance routines. So studious!
+TEXT: Трудолюбивый Куаксвелл наблюдает за людьми и Покемонами из разных регионов, чтобы использовать их движения в своих танцах. Он такой усердный!
 
 RESOURCE ID: quest_special_dialogue_season12_c_3_3
-TEXT: I can’t wait to see how Quaxwell changes when it evolves into Quaquaval. Please come see me when it does!
+TEXT: Мне не терпится посмотреть, как изменится Куаксвелл, когда эволюционирует в Куаквавала. Загляни ко мне, когда это произойдёт!
 
 RESOURCE ID: quest_special_dialogue_season12_c_4_0
-TEXT: Whoa! Quaquaval is one mesmerizing Pokémon! This Pokémon uses its powerful legs to perform striking dances from far-off lands. And that’s not all those legs can do—I’ve heard that a single kick from a Quaquaval can send a truck rolling. Yikes!
+TEXT: Ого! Куаквавал просто очарователен! Этот Покемон исполняет потрясающие танцы из далёких стран, демонстрируя невероятную мощь своих ног. И это далеко не всё, на что способны его ноги, – я слышал, что одним махом ноги Куаквавал может отбросить грузовик. Ужас!
 
 RESOURCE ID: quest_special_dialogue_season12_c_4_1
-TEXT: But that’s enough out of me—you deserve a rest after all that research. Thanks for your help, as always, %PLAYERNAME%!
+TEXT: Но довольно моей болтовни – ты заслуживаешь отдыха после всех этих исследований. Как всегда, спасибо за помощь, %PLAYERNAME%!
 
 RESOURCE ID: quest_special_dialogue_season2_0_0
 TEXT: Привет, %PLAYERNAME%! Рад тебя видеть.
@@ -59703,8 +60125,14 @@ TEXT: Покрути Покестопы в Мексике: {0}
 RESOURCE ID: quest_spin_mexico_singular
 TEXT: Покрути 1 Покестоп в Мексике
 
+RESOURCE ID: quest_spin_pokestop_days
+TEXT: Посещай Покестопы в разные дни ×{0}
+
 RESOURCE ID: quest_spin_ultra_wormhole_gym
 TEXT: Покрути Гим, помеченный как Ультрачервоточина
+
+RESOURCE ID: quest_sprigatito_evolve_b
+TEXT: Эволюционируй Спригатито
 
 RESOURCE ID: quest_squirtle_catch_b
 TEXT: Поймай {0} Сквиртлов
@@ -60026,6 +60454,24 @@ TEXT: Рябь времени (7/8)
 
 RESOURCE ID: quest_title_celebi_7
 TEXT: Рябь времени (8/8)
+
+RESOURCE ID: quest_title_charmander
+TEXT: Классический день сообщества Чармандер
+
+RESOURCE ID: quest_title_charmander_0
+TEXT: Классический день сообщества Чармандер (1/5)
+
+RESOURCE ID: quest_title_charmander_1
+TEXT: Классический день сообщества Чармандер (2/5)
+
+RESOURCE ID: quest_title_charmander_2
+TEXT: Классический день сообщества Чармандер (3/5)
+
+RESOURCE ID: quest_title_charmander_3
+TEXT: Классический день сообщества Чармандер (4/5)
+
+RESOURCE ID: quest_title_charmander_4
+TEXT: Классический день сообщества Чармандер (5/5)
 
 RESOURCE ID: quest_title_chart
 TEXT: Непростые хвосты
@@ -61291,22 +61737,22 @@ RESOURCE ID: quest_title_sandt_3
 TEXT: Песок и лёд (4/4)
 
 RESOURCE ID: quest_title_season12
-TEXT: A Paldean Adventure
+TEXT: Приключение в Пальдее
 
 RESOURCE ID: quest_title_season12_0
-TEXT: A Paldean Adventure (1/5)
+TEXT: Приключение в Пальдее (1/5)
 
 RESOURCE ID: quest_title_season12_1
-TEXT: A Paldean Adventure (2/5)
+TEXT: Приключение в Пальдее (2/5)
 
 RESOURCE ID: quest_title_season12_2
-TEXT: A Paldean Adventure (3/5)
+TEXT: Приключение в Пальдее (3/5)
 
 RESOURCE ID: quest_title_season12_3
-TEXT: A Paldean Adventure (4/5)
+TEXT: Приключение в Пальдее (4/5)
 
 RESOURCE ID: quest_title_season12_4
-TEXT: A Paldean Adventure (5/5)
+TEXT: Приключение в Пальдее (5/5)
 
 RESOURCE ID: quest_title_season2
 TEXT: Сезон легенд
@@ -68015,6 +68461,9 @@ TEXT: SHOW MORE {0}
 RESOURCE ID: route_community_plays_label
 TEXT: ПРОГУЛКИ СООБЩЕСТВА
 
+RESOURCE ID: route_completion_congratulation
+TEXT: Поздравляем!
+
 RESOURCE ID: route_completion_explored_count_plural
 TEXT: Количество прохождений этого маршрута: {0}!
 
@@ -68079,16 +68528,16 @@ RESOURCE ID: route_creation_adsync_breadcrumb_notification
 TEXT: Идёт создание маршрута.
 
 RESOURCE ID: route_creation_ask_start_description
-TEXT: При необходимости ты можешь приостановить создание маршрута и продолжить позже, войдя в раздел маршрутов твоего профиля.
+TEXT: You are near the start point, so the next step is to record your path. If you aren’t ready, you can pause Route creation and resume it later via the Route section of your Trainer profile.
 
 RESOURCE ID: route_creation_ask_start_pause_button
 TEXT: Приостановить создание маршрута
 
 RESOURCE ID: route_creation_ask_start_title
-TEXT: Ты находишься близко к выбранной точке старта. Начать запись маршрута?
+TEXT: Are you ready to record the path for your Route?
 
 RESOURCE ID: route_creation_ask_submit
-TEXT: Ты находишься рядом с выбранной точкой финиша. Закончить запись?
+TEXT: Are you done recording the path for your Route?
 
 RESOURCE ID: route_creation_ask_submit_cancel
 TEXT: ПРОДОЛЖИТЬ ЗАПИСЬ
@@ -68097,43 +68546,43 @@ RESOURCE ID: route_creation_ask_submit_confirm
 TEXT: ДА, ГОТОВО
 
 RESOURCE ID: route_creation_ask_submit_description
-TEXT: Если ты хочешь продлить свой маршрут, продолжи запись и вернись к этому Покестопу позже.
+TEXT: You are near the end point, so you can stop recording your Route path. If you would like to extend your Route, you can continue recording and return to this end point later.
 
 RESOURCE ID: route_creation_autoexit_toast
 TEXT: Создание маршрута завершилось.
 
 RESOURCE ID: route_creation_choose_end_body
-TEXT: Подойди к этому Покестопу, чтобы закончить запись своего маршрута. Ты можешь изменить точку финиша во время записи.
+TEXT: Your recorded path must lead from the start point to this end point. You can change the end point at any time.
 
 RESOURCE ID: route_creation_choose_end_header
-TEXT: Выбрать Покестоп в качестве
+TEXT: Select a PokéStop or Gym to be your
 
 RESOURCE ID: route_creation_choose_end_sub_header
 TEXT: точки финиша.
 
 RESOURCE ID: route_creation_choose_new_end_body
-TEXT: Подойди к этому Покестопу, чтобы закончить запись своего маршрута. Ты можешь изменить точку финиша во время записи.
+TEXT: Your recorded path must lead from the start point to this new end point. You can change the end point at any time.
 
 RESOURCE ID: route_creation_choose_new_end_header
-TEXT: Выбрать Покестоп в качестве новой
+TEXT: Select a PokéStop or Gym to be your new
 
 RESOURCE ID: route_creation_choose_new_end_sub_header
 TEXT: точки финиша.
 
 RESOURCE ID: route_creation_choose_new_start_body
-TEXT: Подойди к этому Покестопу, чтобы начать запись своего маршрута.
+TEXT: Path recording will begin after you reach this new start point. You cannot change the start point after path recording begins.
 
 RESOURCE ID: route_creation_choose_new_start_header
-TEXT: Выбрать Покестоп в качестве новой
+TEXT: Select a PokéStop or Gym to be your new
 
 RESOURCE ID: route_creation_choose_new_start_sub_header
 TEXT: точки старта.
 
 RESOURCE ID: route_creation_choose_start_body
-TEXT: Подойди к этому Покестопу, чтобы начать запись своего маршрута.
+TEXT: Path recording will begin after you reach this start point. You cannot change the start point after path recording begins.
 
 RESOURCE ID: route_creation_choose_start_header
-TEXT: Выбрать Покестоп в качестве
+TEXT: Select a PokéStop or Gym to be your
 
 RESOURCE ID: route_creation_choose_start_sub_header
 TEXT: точки старта.
@@ -68261,7 +68710,7 @@ RESOURCE ID: route_creation_start_recording_error_too_far
 TEXT: Не удалось начать запись. Ты находишься недостаточно близко от точки старта.
 
 RESOURCE ID: route_creation_submit
-TEXT: УСТРАНИТЬ ОШИБКИ В СОЗДАНИИ МАРШРУТА
+TEXT: DEBUG CREATION SUBMIT
 
 RESOURCE ID: route_creator_label
 TEXT: СОЗДАНИЕ МАРШРУТОВ
@@ -68723,6 +69172,9 @@ TEXT: Если ты выйдешь из этого маршрута, твой т
 RESOURCE ID: route_stop_report
 TEXT: Если тебе не удалось пройти маршрут из-за какой-либо проблемы, ты можешь сообщить об этом здесь.
 
+RESOURCE ID: route_stop_start_new_button
+TEXT: Start new route
+
 RESOURCE ID: route_stop_title
 TEXT: Ты точно хочешь выйти из этого маршрута?
 
@@ -68849,7 +69301,7 @@ RESOURCE ID: route_submission_result_unknown_error
 TEXT: Unknown error in the Route submission process. Please try again later.
 
 RESOURCE ID: route_submission_reversible
-TEXT: Can this Route be followed in reverse?
+TEXT: Allow this Route to be followed in reverse.
 
 RESOURCE ID: route_submission_review_adjust
 TEXT: ВНЕСТИ ИЗМЕНЕНИЯ
@@ -68870,7 +69322,7 @@ RESOURCE ID: route_submission_select_color_prompt
 TEXT: Выбери цвет фона для значка маршрута:
 
 RESOURCE ID: route_submission_show_name
-TEXT: Ты хочешь, чтобы твой ник Тренера отображался в описании маршрута? Он будет виден другим игрокам.
+TEXT: Show my Trainer name as the Route Creator in the published Route details.
 
 RESOURCE ID: route_submission_start_title
 TEXT: Добавь название маршрута
@@ -69364,29 +69816,47 @@ TEXT: Зона Сафари: Используй Разз-Ягоды для по�
 RESOURCE ID: safari_buddy_snapshot
 TEXT: Зона Сафари: Сделай фото своего приятеля
 
+RESOURCE ID: safari_city_2023_barcelona_title
+TEXT: Городское сафари: Барселона 2023
+
+RESOURCE ID: safari_city_2023_barcelona_title_00
+TEXT: Городское сафари: Барселона 2023 (1/3)
+
+RESOURCE ID: safari_city_2023_barcelona_title_01
+TEXT: Городское сафари: Барселона 2023 (2/3)
+
+RESOURCE ID: safari_city_2023_barcelona_title_02
+TEXT: Городское сафари: Барселона 2023 (3/3)
+
+RESOURCE ID: safari_city_2023_mexico_city_title
+TEXT: Городское сафари: Мехико 2023
+
+RESOURCE ID: safari_city_2023_mexico_city_title_00
+TEXT: Городское сафари: Мехико 2023 (1/3)
+
+RESOURCE ID: safari_city_2023_mexico_city_title_01
+TEXT: Городское сафари: Мехико 2023 (2/3)
+
+RESOURCE ID: safari_city_2023_mexico_city_title_02
+TEXT: Городское сафари: Мехико 2023 (3/3)
+
+RESOURCE ID: safari_city_2023_seoul_title
+TEXT: Городское сафари: Сеул 2023
+
+RESOURCE ID: safari_city_2023_seoul_title_00
+TEXT: Городское сафари: Сеул 2023 (1/3)
+
+RESOURCE ID: safari_city_2023_seoul_title_01
+TEXT: Городское сафари: Сеул 2023 (2/3)
+
+RESOURCE ID: safari_city_2023_seoul_title_02
+TEXT: Городское сафари: Сеул 2023 (3/3)
+
 RESOURCE ID: safari_city_leave_behind_title_barcelona
 TEXT: Городское сафари: Барселона – Продолжение
 
 RESOURCE ID: safari_city_leave_behind_title_barcelona_00
 TEXT: Городское сафари: Барселона – Продолжение (1/7)
-
-RESOURCE ID: safari_city_leave_behind_title_barcelona_01
-TEXT: Городское сафари: Барселона – Продолжение (2/7)
-
-RESOURCE ID: safari_city_leave_behind_title_barcelona_02
-TEXT: Городское сафари: Барселона – Продолжение (3/7)
-
-RESOURCE ID: safari_city_leave_behind_title_barcelona_03
-TEXT: Городское сафари: Барселона – Продолжение (4/7)
-
-RESOURCE ID: safari_city_leave_behind_title_barcelona_04
-TEXT: Городское сафари: Барселона – Продолжение (5/7)
-
-RESOURCE ID: safari_city_leave_behind_title_barcelona_05
-TEXT: Городское сафари: Барселона – Продолжение (6/7)
-
-RESOURCE ID: safari_city_leave_behind_title_barcelona_06
-TEXT: Городское сафари: Барселона – Продолжение (7/7)
 
 RESOURCE ID: safari_city_leave_behind_title_mxc
 TEXT: Городское сафари: Мехико – Продолжение
@@ -69394,47 +69864,11 @@ TEXT: Городское сафари: Мехико – Продолжение
 RESOURCE ID: safari_city_leave_behind_title_mxc_00
 TEXT: Городское сафари: Мехико – Продолжение (1/7)
 
-RESOURCE ID: safari_city_leave_behind_title_mxc_01
-TEXT: Городское сафари: Мехико – Продолжение (2/7)
-
-RESOURCE ID: safari_city_leave_behind_title_mxc_02
-TEXT: Городское сафари: Мехико – Продолжение (3/7)
-
-RESOURCE ID: safari_city_leave_behind_title_mxc_03
-TEXT: Городское сафари: Мехико – Продолжение (4/7)
-
-RESOURCE ID: safari_city_leave_behind_title_mxc_04
-TEXT: Городское сафари: Мехико – Продолжение (5/7)
-
-RESOURCE ID: safari_city_leave_behind_title_mxc_05
-TEXT: Городское сафари: Мехико – Продолжение (6/7)
-
-RESOURCE ID: safari_city_leave_behind_title_mxc_06
-TEXT: Городское сафари: Мехико – Продолжение (7/7)
-
 RESOURCE ID: safari_city_leave_behind_title_seoul
 TEXT: Городское сафари: Сеул – Продолжение
 
 RESOURCE ID: safari_city_leave_behind_title_seoul_00
 TEXT: Городское сафари: Сеул – Продолжение (1/7)
-
-RESOURCE ID: safari_city_leave_behind_title_seoul_01
-TEXT: Городское сафари: Сеул – Продолжение (2/7)
-
-RESOURCE ID: safari_city_leave_behind_title_seoul_02
-TEXT: Городское сафари: Сеул – Продолжение (3/7)
-
-RESOURCE ID: safari_city_leave_behind_title_seoul_03
-TEXT: Городское сафари: Сеул – Продолжение (4/7)
-
-RESOURCE ID: safari_city_leave_behind_title_seoul_04
-TEXT: Городское сафари: Сеул – Продолжение (5/7)
-
-RESOURCE ID: safari_city_leave_behind_title_seoul_05
-TEXT: Городское сафари: Сеул – Продолжение (6/7)
-
-RESOURCE ID: safari_city_leave_behind_title_seoul_06
-TEXT: Городское сафари: Сеул – Продолжение (7/7)
 
 RESOURCE ID: safari_event
 TEXT: Зона Сафари Pokémon GO
@@ -69813,31 +70247,31 @@ RESOURCE ID: season10_tr_willow_title
 TEXT: Гардероб Уиллоу
 
 RESOURCE ID: season12_branch_1_button_key
-TEXT: Adventure with Sprigatito
+TEXT: Приключение со Спригатито
 
 RESOURCE ID: season12_branch_1_description_key
-TEXT: Choose this option to go adventuring with Sprigatito!
+TEXT: Выбери этот вариант, чтобы отправиться в приключение со Спригатито!
 
 RESOURCE ID: season12_branch_1_title_key
-TEXT: Adventure with Sprigatito
+TEXT: Приключение со Спригатито
 
 RESOURCE ID: season12_branch_2_button_key
-TEXT: Adventure with Fuecoco
+TEXT: Приключение с Фуэкоко
 
 RESOURCE ID: season12_branch_2_description_key
-TEXT: Choose this option to go adventuring with Fuecoco!
+TEXT: Выбери этот вариант, чтобы отправиться в приключение с Фуэкоко!
 
 RESOURCE ID: season12_branch_2_title_key
-TEXT: Adventure with Fuecoco
+TEXT: Приключение с Фуэкоко
 
 RESOURCE ID: season12_branch_3_button_key
-TEXT: Adventure with Quaxly
+TEXT: Приключение с Куаксли
 
 RESOURCE ID: season12_branch_3_description_key
-TEXT: Choose this option to go adventuring with Quaxly!
+TEXT: Выбери этот вариант, чтобы отправиться в приключение с Куаксли!
 
 RESOURCE ID: season12_branch_3_title_key
-TEXT: Adventure with Quaxly
+TEXT: Приключение с Куаксли
 
 RESOURCE ID: season_gbl_forecast_title_10
 TEXT: ‎Сезон 10: Новые герои
@@ -69846,7 +70280,7 @@ RESOURCE ID: season_gbl_forecast_title_11
 TEXT: Pokémon GO: Скрытые сокровища
 
 RESOURCE ID: season_gbl_forecast_title_12
-TEXT: Pokémon GO: Adventures Abound
+TEXT: Pokémon GO: Изобилие приключений
 
 RESOURCE ID: season_gbl_forecast_title_7
 TEXT: Сезон GO
@@ -69922,6 +70356,21 @@ TEXT: Отправлен подарок Тренеру {0}.
 
 RESOURCE ID: sent_you_a_gift
 TEXT: Тебе пришёл подарок от {0}!
+
+RESOURCE ID: seoul_catch_cup_title
+TEXT: Кубок поимки: Сеул
+
+RESOURCE ID: sep23_paldea_collection_challenge_1
+TEXT: Коллекционное испытание Спригатито
+
+RESOURCE ID: sep23_paldea_collection_challenge_2
+TEXT: Коллекционное испытание Фуэкоко
+
+RESOURCE ID: sep23_paldea_collection_challenge_3
+TEXT: Коллекционное испытание Куаксли
+
+RESOURCE ID: sep23_paldea_collection_challenge_4
+TEXT: Коллекционное испытание Лечонк
 
 RESOURCE ID: server_lockout
 TEXT: Игра Pokémon GO в настоящее время закрыта на техническое обслуживание. Повтори попытку позже.
@@ -70244,6 +70693,9 @@ TEXT: Уведомления
 
 RESOURCE ID: settings_route_guidance_tip
 TEXT: Получай уведомления, когда находишься близко к точке финиша текущего маршрута или когда поблизости появляется нечто загадочное.
+
+RESOURCE ID: settings_save_image_tip
+TEXT: Save image to device when you take snapshot in AR.
 
 RESOURCE ID: settings_select_legendary_label
 TEXT: Расширенная передача
@@ -71227,6 +71679,9 @@ TEXT: Импортировать друзей из Facebook
 RESOURCE ID: social_add_friend_qr
 TEXT: QR-код
 
+RESOURCE ID: social_add_friend_qr_v2
+TEXT: SCAN QR CODE
+
 RESOURCE ID: social_add_friends
 TEXT: Добавить в друзья
 
@@ -71290,6 +71745,9 @@ TEXT: Отправь запрос в друзья, введя код Трене�
 
 RESOURCE ID: social_send_my_code
 TEXT: ПОДЕЛИТЬСЯ МОИМ КОДОМ ТРЕНЕРА
+
+RESOURCE ID: social_send_my_code_v2
+TEXT: SHARE CODE
 
 RESOURCE ID: solrock_lunatone_regions
 TEXT: Лунатон и Солрок появляются в разных регионах
@@ -72875,7 +73333,7 @@ RESOURCE ID: sticker_alolaishi_4.3_description
 TEXT: 
 
 RESOURCE ID: sticker_box
-TEXT: коробка наклеек
+TEXT: Коробка наклеек
 
 RESOURCE ID: sticker_default_desc
 TEXT: В <i>Pokémon GO</i> наклейки можно находить как награды. Собери их все!
@@ -73986,6 +74444,9 @@ TEXT: Билет на специальный квест Классическог
 RESOURCE ID: ticket_charmander
 TEXT: Билеты на специальный квест «Хвостатая история» доступны в магазине
 
+RESOURCE ID: ticket_charmander_cdc
+TEXT: Билет на специальный квест Классического дня сообщества Чармандер доступен в магазине
+
 RESOURCE ID: ticket_chespin
 TEXT: Билет на специальный квест «Шикарные шипы» доступен в магазине
 
@@ -74197,7 +74658,7 @@ RESOURCE ID: timed_challenge_global_type_regional_backup
 TEXT: Региональное испытание
 
 RESOURCE ID: timed_challenge_new_notif
-TEXT: Новое испытание начинается!
+TEXT: Начинается новое испытание!
 
 RESOURCE ID: timed_challenge_will_end_plural
 TEXT: Заканчивается через {0} мин.
@@ -74258,7 +74719,7 @@ RESOURCE ID: timed_research_pokemon_snubbull
 TEXT: Снаббулл появляется в квесте на время
 
 RESOURCE ID: timed_trial_mb_research_title
-TEXT: Timed Investigation: Master Ball
+TEXT: Исследование на время: Мастер-Болл
 
 RESOURCE ID: tips_battle_at_gyms_tutorial_body
 TEXT: Ты можешь занять Гим, которым управляет команда соперников: для этого тебе нужно победить Покемонов этого Гима. Если ты снизишь мотивацию всех Покемонов в Гиме до нуля, то сможешь занять этот Гим для своей команды.
@@ -74271,6 +74732,14 @@ TEXT: Pokémon GO веселее с друзьями! Добавь друга и
 
 RESOURCE ID: tips_friends_list_no_friends_title
 TEXT: Добавляй друзей
+
+RESOURCE ID: tips_friends_online_status_body
+TEXT: Вы можете включить онлайн-статус сейчас, а также включить или выключить его с помощью переключателя «В сети/Не в сети» в списке друзей.
+
+Ваш онлайн-статус позволит друзьям узнать, когда с вами можно поиграть.
+
+RESOURCE ID: tips_friends_online_status_title
+TEXT: Онлайн-статус
 
 RESOURCE ID: tips_friends_tutorial_add_body
 TEXT: Чтобы добавить друга, введи его код Тренера или отсканируй QR-код. Также можно добавить друзей, привязав аккаунт Facebook из вкладки Добавить в друзья.
@@ -75624,6 +76093,9 @@ TEXT: Похоже, была найдена конфета XL! Говорят, �
 RESOURCE ID: tutorial_xl_candy_2
 TEXT: Есть вероятность, что ты сможешь найти конфеты XL после того, как поймаешь Покемона. Чем сильнее Покемон, тем больше шансов найти конфеты XL.
 
+RESOURCE ID: twelve_free_raid_passes
+TEXT: Получи бесплатно до 12 пропусков на рейды, крутя фотодиски в Гимах
+
 RESOURCE ID: two_free_raid_passes
 TEXT: До двух бесплатных пропусков на рейды в день за прокрутку фотодисков Гимов
 
@@ -75800,6 +76272,12 @@ TEXT: Появление Ультрачудовищ (7/8)
 
 RESOURCE ID: ub_arrival_title_07
 TEXT: Появление Ультрачудовищ (8/8)
+
+RESOURCE ID: ultra23_lechonk_tr_1
+TEXT: Приключение Лечонка
+
+RESOURCE ID: ultra23_pawmi_tr_1
+TEXT: Прогулка с Поми
 
 RESOURCE ID: ultra_anniversary_2022_event_name
 TEXT: Ультрабонус: Юбилей
