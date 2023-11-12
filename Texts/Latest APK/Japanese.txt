@@ -6248,6 +6248,18 @@ RESOURCE ID: badge_event_0068_title
 TEXT: パートナーリサーチ：
 ドン・キホーテ
 
+RESOURCE ID: badge_event_0073
+TEXT: ポケモンワールドチャンピオンシップス2023ボーナスタイムチャレンジ
+
+RESOURCE ID: badge_event_0073_title
+TEXT: スーパーリーグスペシャル
+
+RESOURCE ID: badge_event_0074
+TEXT: ポケモンワールドチャンピオンシップス2023ボーナスタイムチャレンジ
+
+RESOURCE ID: badge_event_0074_title
+TEXT: DancingRobさんのパーティ
+
 RESOURCE ID: badge_event_yoshinoya
 TEXT: 2021年5月 - 吉野家
 
@@ -6265,12 +6277,6 @@ TEXT: 2019年11月2日
 
 RESOURCE ID: badge_global_ticketed_event_title
 TEXT: 巨大ポケモンの謎を解け！
-
-RESOURCE ID: badge_gofest2023_global
-TEXT: 2023年8月26・27日
-
-RESOURCE ID: badge_gofest2023_global_title
-TEXT: Pokémon GO Fest 2023
 
 RESOURCE ID: badge_gofest_2019_americas_day_00_north_earlyaccess
 TEXT: 2019年6月12日シカゴ、ノースゲート
@@ -6841,6 +6847,12 @@ TEXT: グローバル、2022年6月4・5日＆8月27日
 
 RESOURCE ID: badge_gofest_2022_test_title
 TEXT: Pokémon GO Fest 2022
+
+RESOURCE ID: badge_gofest_2023_global
+TEXT: 2023年8月26・27日
+
+RESOURCE ID: badge_gofest_2023_global_title
+TEXT: Pokémon GO Fest 2023
 
 RESOURCE ID: badge_gofest_2023_london_addon_hatch
 TEXT: ロンドン、2023年8月4～6日
@@ -11369,6 +11381,9 @@ TEXT: ハクリューをカイリューに進化させるとりゅうせいぐ�
 RESOURCE ID: bonus_cd_move_fennekin
 TEXT: テールナーをマフォクシーに進化させるとブラストバーンを覚えている
 
+RESOURCE ID: bonus_cd_move_froakie
+TEXT: ゲコガシラをゲッコウガに進化させるとハイドロカノンを覚えている
+
 RESOURCE ID: bonus_cd_move_larvitar_cdc
 TEXT: サナギラスをバンギラスに進化させるとうちおとすを覚えている
 
@@ -11434,6 +11449,12 @@ TEXT: 正時にケイコウオが大量発生
 
 RESOURCE ID: bonus_fr_party_pikachu
 TEXT: グリーティングポケストップからのフィールドリサーチタスクを完了するとパーティーハットピカチュウに出会える
+
+RESOURCE ID: bonus_friendship_levelup_1.5x
+TEXT: 1.5×　仲良し度を上げてもらえるXP
+
+RESOURCE ID: bonus_friendship_levelup_2x
+TEXT: 2×　仲良し度を上げてもらえるXP
 
 RESOURCE ID: bonus_friendship_raid_double
 TEXT: 2×　フレンドとするレイドダメージボーナス
@@ -11505,6 +11526,9 @@ TEXT: コミュニティデイチャレンジ：
 
 RESOURCE ID: bonus_implicit_social_fennekin_raid
 TEXT: トレーナーが協力してレイドでテールナーを倒すと、そのジムの周りに30分間フォッコが現れる
+
+RESOURCE ID: bonus_implicit_social_froakie_raid
+TEXT: トレーナーが協力してレイドでゲコガシラを倒すと、そのジムの周りに30分間ケロマツが現れる
 
 RESOURCE ID: bonus_implicit_social_litwick_raid
 TEXT: トレーナーが協力してレイドでランプラーを倒すと、そのジムの周りに30分間ヒトモシが現れる
@@ -11679,6 +11703,9 @@ TEXT: 1/2 タマゴふか距離
 RESOURCE ID: bonus_reward_quarter_hatch_distance
 TEXT: 1/4 タマゴふか距離
 
+RESOURCE ID: bonus_rrp_limit_uncap
+TEXT: リモートレイドの1日上限なし
+
 RESOURCE ID: bonus_singapore_photobomb
 TEXT: GOスナップショットでサニーゴときのみTシャツピカチュウのサプライズ5回
 
@@ -11744,6 +11771,12 @@ TEXT: イベント中と終了後5時間内に行う交換に必要なほしの�
 
 RESOURCE ID: bonus_unlocked
 TEXT: ボーナスアンロック！
+
+RESOURCE ID: bonus_versioned_field_research_2x_daily
+TEXT: ポケストップからフィールドリサーチが2件（午前と午後）出る
+
+RESOURCE ID: bonus_xl_candy_5x
+TEXT: ポケモンを捕まえてもらえるアメXLの確率大幅アップ
 
 RESOURCE ID: bonus_xl_candy_nice_great_excel
 TEXT: ナイススロー以上でポケモンを捕まえたときのアメXL確率アップ
@@ -14524,6 +14557,9 @@ TEXT: 台湾ランタンフェスティバル2023
 RESOURCE ID: collection_twlantern2023_description
 TEXT: これらのポケモンをイベント中に捕まえよう！
 
+RESOURCE ID: collection_wcs2023_irl_bonus
+TEXT: ポケモンワールドチャンピオンシップスコレクションチャレンジ
+
 RESOURCE ID: color_cup_great_title
 TEXT: 4色カップ：
 スーパーリーグバージョン
@@ -15263,6 +15299,9 @@ TEXT: シーズン10：ライジングヒーロー
 RESOURCE ID: combat_title_season_11
 TEXT: GOバトルリーグ：隠された宝石
 
+RESOURCE ID: combat_title_season_12
+TEXT: GOバトルリーグ：冒険の日々
+
 RESOURCE ID: combat_title_season_7
 TEXT: GOバトルリーグ～シーズンオブGO～スケジュール
 
@@ -15334,6 +15373,9 @@ TEXT: コミュニティ・デイ：フォッコ
 
 RESOURCE ID: community_day_fletchling_event_name
 TEXT: コミュニティ・デイ：ヤヤコマ
+
+RESOURCE ID: community_day_froakie_event_name
+TEXT: コミュニティ・デイ：ケロマツ
 
 RESOURCE ID: community_day_gastly_event_name
 TEXT: コミュニティ・デイ：ゴース
@@ -15791,9 +15833,6 @@ TEXT: タグ作成できませんでした
 RESOURCE ID: create_tag_gui_title
 TEXT: タグ作成
 
-RESOURCE ID: created_by_label
-TEXT: 作成者：
-
 RESOURCE ID: created_routes_title
 TEXT: つくったルート
 
@@ -16199,7 +16238,7 @@ RESOURCE ID: download_all_assets_all_downloaded
 TEXT: すべてのアセットダウンロード済み
 
 RESOURCE ID: download_all_assets_checking_assets_indicator
-TEXT: Checking assets...
+TEXT: アセット確認中...
 
 RESOURCE ID: download_all_assets_complete_description
 TEXT: ダウンロードが完了しました
@@ -16268,7 +16307,7 @@ RESOURCE ID: download_all_assets_title
 TEXT: アセットダウンロード
 
 RESOURCE ID: download_all_assets_verifying_download_indicator
-TEXT: Verifying download...
+TEXT: ダウンロード確認中...
 
 RESOURCE ID: download_all_assets_wifi_lost
 TEXT: Wi-Fi接続が切断されたためダウンロード完了できませんでした。Wi-Fiに接続してから再度お試しください。
@@ -17656,6 +17695,9 @@ TEXT: シーズン10：ライジングヒーロー
 RESOURCE ID: event_season11_name
 TEXT: 現在のシーズン：隠された宝石
 
+RESOURCE ID: event_season12_name
+TEXT: 現在のシーズン：冒険の日々
+
 RESOURCE ID: event_season1_name
 TEXT: セレブレーションシーズン
 
@@ -18664,6 +18706,9 @@ TEXT: ハイなすがた
 RESOURCE ID: form_antique
 TEXT: しんさくフォルム
 
+RESOURCE ID: form_apex
+TEXT: かんぜんけいたい
+
 RESOURCE ID: form_arceus_bug
 TEXT: むしタイプ
 
@@ -18732,6 +18777,9 @@ TEXT: めらめらスタイル
 
 RESOURCE ID: form_black
 TEXT: ブラック
+
+RESOURCE ID: form_blue
+TEXT: ブルーフェザー
 
 RESOURCE ID: form_blue_striped
 TEXT: あおすじのすがた
@@ -18844,6 +18892,9 @@ TEXT: たてのおう
 RESOURCE ID: form_crowned_sword
 TEXT: けんのおう
 
+RESOURCE ID: form_curly
+TEXT: そったすがた
+
 RESOURCE ID: form_darmanitan_standard
 TEXT: ノーマルモード
 
@@ -18871,11 +18922,20 @@ TEXT: ばけたすがた
 RESOURCE ID: form_douse_drive
 TEXT: アクアカセット
 
+RESOURCE ID: form_droopy
+TEXT: たれたすがた
+
 RESOURCE ID: form_dusk
 TEXT: たそがれのすがた
 
 RESOURCE ID: form_east_sea
 TEXT: ひがしのうみ
+
+RESOURCE ID: form_family_of_four
+TEXT: ４ひきかぞく
+
+RESOURCE ID: form_family_of_three
+TEXT: ３びきかぞく
 
 RESOURCE ID: form_fan
 TEXT: スピンロトム
@@ -19009,6 +19069,9 @@ TEXT: ちいさいサイズ
 RESOURCE ID: form_gourgeist_super
 TEXT: とくだいサイズ
 
+RESOURCE ID: form_green
+TEXT: グリーンフェザー
+
 RESOURCE ID: form_greninja_ash
 TEXT: サトシのゲッコウガ
 
@@ -19117,6 +19180,12 @@ TEXT: ナイスフェイス
 RESOURCE ID: form_normal
 TEXT: ポワルンのすがた
 
+RESOURCE ID: form_oinkologne_female
+TEXT: メスのすがた
+
+RESOURCE ID: form_oinkologne_male
+TEXT: オスのすがた
+
 RESOURCE ID: form_ordinary
 TEXT: いつものすがた
 
@@ -19140,6 +19209,9 @@ TEXT: オリジンフォルム
 
 RESOURCE ID: form_overcast
 TEXT: ネガフォルム
+
+RESOURCE ID: form_palafin_hero
+TEXT: マイティフォルム
 
 RESOURCE ID: form_pau
 TEXT: ふらふらスタイル
@@ -19291,8 +19363,14 @@ TEXT: Sスピードフォルム
 RESOURCE ID: form_spring
 TEXT: はるのすがた
 
+RESOURCE ID: form_squakabilly_white
+TEXT: ホワイトフェザー
+
 RESOURCE ID: form_standard_mode
 TEXT: ノーマルモード
+
+RESOURCE ID: form_stretchy
+TEXT: のびたすがた
 
 RESOURCE ID: form_summer
 TEXT: なつのすがた
@@ -19309,6 +19387,9 @@ TEXT: ルビーミックス
 RESOURCE ID: form_therian
 TEXT: れいじゅうフォルム
 
+RESOURCE ID: form_three
+TEXT: みつふしフォルム
+
 RESOURCE ID: form_thundurus_incarnate
 TEXT: けしんフォルム
 
@@ -19323,6 +19404,12 @@ TEXT: れいじゅうフォルム
 
 RESOURCE ID: form_trash_cloak
 TEXT: ゴミのミノ
+
+RESOURCE ID: form_two
+TEXT: ふたふしフォルム
+
+RESOURCE ID: form_ultimate
+TEXT: コンプリートモード
 
 RESOURCE ID: form_vivillon_archipelago
 TEXT: ぐんとうのもよう
@@ -19404,6 +19491,12 @@ TEXT: むれたすがた
 
 RESOURCE ID: form_wishiwashi_solo
 TEXT: たんどくのすがた
+
+RESOURCE ID: form_yellow
+TEXT: イエローフェザー
+
+RESOURCE ID: form_zero
+TEXT: ナイーブフォルム
 
 RESOURCE ID: form_zygarde_complete
 TEXT: パーフェクトフォルム
@@ -19826,6 +19919,16 @@ TEXT: 世界中のどこにいても現地時間2023年4月29日2:00PM～5:00PM�
 RESOURCE ID: general1.ticket.2_aprilcdc2023_title
 TEXT: 2023年4月ウリムーコミュニティ・デイ復刻
 
+RESOURCE ID: general1.ticket.2_augcd2023_description
+TEXT: 世界中のどこにいても現地時間2023年8月13日2:00PM～5:00PMにケロマツコミュニティ・デイスペシャルリサーチを行うことができるチケット。完了することで、ケロマツとその進化形ポケモンにより多く出会え、ふしぎなアメ、ハイパーボールなどの道具が手に入ります。
+
+詳細はゲーム内ニュースでご確認ください。
+
+<b>イベントを最大限にお楽しみいただくには開催時間内に遊び終える必要があります。</b>
+
+RESOURCE ID: general1.ticket.2_augcd2023_title
+TEXT: あわがえるポケモンを解明せよ！
+
 RESOURCE ID: general1.ticket.2_bulbt_description
 TEXT: 世界中のどこにいても、現地時間2022年1月22日2:00PM～5:00PMにフシギダネコミュニティ・デイ復刻スペシャルリサーチを行うことができるチケット。詳細は、ゲーム内ニュースで確認できます。
 
@@ -20234,11 +20337,12 @@ TEXT: GOバトル・デイ：ほしのすなタイムチャレンジ
 
 RESOURCE ID: general1.ticket.gofest2023_alldetails
 TEXT: 世界中のどこにいても、現地時間2023年8月26日・27日開催のPokémonGOFest2023グローバルでスペシャルリサーチを行うことができるチケット。このスペシャルリサーチを完了するとディアンシーに出会えます。他にも以下がもらえます。
-色違いのポケモンに出会える確率アップ
-すごいわざマシンスペシャル、すごいわざマシンノーマル、ふしぎなアメXL
-アバターポーズと着せ替えアイテム
-ジムのフォトディスクを回すと9枚まで無料レイドパス
-レックウザにガリョウテンセイを覚えさせるいんせき
+
+-色違いのポケモンに出会える確率アップ
+-すごいわざマシンスペシャル、すごいわざマシンノーマル、ふしぎなアメXL
+-アバターポーズと着せ替えアイテム
+-ジムのフォトディスクを回すと9枚まで無料レイドパス
+-レックウザにガリョウテンセイを覚えさせるいんせき
 
 詳細はゲーム内ニュースでご確認ください。
 
@@ -26182,6 +26286,9 @@ TEXT: https://niantic.helpshift.com/a/pokemon-go/?p=all&s=top-articles&f=sharing
 RESOURCE ID: helpshift_sharing_game_logs
 TEXT: https://niantic.helpshift.com/hc/ja/6-pokemon-go/faq/3325-sharing-game-logs/
 
+RESOURCE ID: hindi
+TEXT: Hindi
+
 RESOURCE ID: hisui_cup_title
 TEXT: ヒスイカップ
 
@@ -26954,7 +27061,7 @@ RESOURCE ID: item_event_ticket_pink_bulbt_details
 TEXT: このチケットは自動的に発動し、現地時間2022年1月22日にスペシャルリサーチが行えるようになります。
 
 RESOURCE ID: item_event_ticket_pink_desc
-TEXT: 現地時間2023年7月30日2:00AM～5:00PMにニョロモコミュニティデイのスペシャルリサーチを遂行するためのチケット。
+TEXT: 現地時間2023年8月13日2:00PM～5:00PMにケロマツコミュニティデイのスペシャルリサーチを遂行するためのチケット。
 
 RESOURCE ID: item_event_ticket_pink_desc_alodude
 TEXT: 現地時間2022年5月21日11:00AM～2:00PMにスペシャルリサーチを遂行するためのチケット。
@@ -26980,6 +27087,9 @@ TEXT: 現地時間2023年6月3日2:00PM～5:00PMにタイムチャレンジを�
 RESOURCE ID: item_event_ticket_pink_desc_mrmime
 TEXT: 現地時間2020年12月19日10:00AM～2020年12月20日8:00PMにスペシャルリサーチを遂行するためのチケット。
 
+RESOURCE ID: item_event_ticket_pink_desc_poliwag
+TEXT: 現地時間2023年7月30日2:00AM～5:00PMにニョロモコミュニティデイのスペシャルリサーチを遂行するためのチケット。
+
 RESOURCE ID: item_event_ticket_pink_desc_squirtle
 TEXT: ゼニガメコミュニティ・デイ復刻スペシャルリサーチを遂行するためのチケット。
 
@@ -26990,7 +27100,7 @@ RESOURCE ID: item_event_ticket_pink_desc_togetic
 TEXT: 現地時間2023年4月15日2:00PM～5:00PMにスペシャルリサーチを遂行するためのチケット。
 
 RESOURCE ID: item_event_ticket_pink_details
-TEXT: このチケットは自動的に発動し「おたまポケモンを解明せよ！」スペシャルリサーチが2023年7月30日に行えるようになります。
+TEXT: このチケットは自動的に発動し、現地時間2023年8月13日に「あわがえるポケモンを解明せよ！」スペシャルリサーチが行えるようになります。
 
 RESOURCE ID: item_event_ticket_pink_details_axew
 TEXT: このチケットは自動的に発動し、現地時間2023年6月10日2:00PM～5:00PMにスペシャルリサーチが行えるようになります。
@@ -27012,6 +27122,9 @@ TEXT: このチケットは自動的に発動し、現地時間2023年6月3日2:
 
 RESOURCE ID: item_event_ticket_pink_details_mrmime
 TEXT: このチケットは自動的に発動し、現地時間2020年12月19日10:00AM～2020年12月20日8:00PMにスペシャルリサーチが行えるようになります。
+
+RESOURCE ID: item_event_ticket_pink_details_poliwag
+TEXT: このチケットは自動的に発動し「おたまポケモンを解明せよ！」スペシャルリサーチが2023年7月30日に行えるようになります。
 
 RESOURCE ID: item_event_ticket_pink_details_squirtle
 TEXT: このチケットは自動的に発動し、現地時間2023年7月23日2:00PM～5:00PMにゼニガメコミュニティ・デイ復刻スペシャルリサーチが行えるようになります。
@@ -27481,12 +27594,6 @@ TEXT: ひんしになってしまったポケモン1匹のHPを半分回復す�
 RESOURCE ID: item_revive_name
 TEXT: げんきのかけら
 
-RESOURCE ID: item_route_maker_desc
-TEXT: ルートをつくれる装置。一度に5個まで持てる。
-
-RESOURCE ID: item_route_maker_name
-TEXT: ルートメーカー
-
 RESOURCE ID: item_shadow_gem_desc
 TEXT: シャドウのかけらを組み合わせて光をあてることで生成したクリスタル。暴走したシャドウポケモンを鎮めることができる。
 
@@ -27534,6 +27641,24 @@ TEXT: チーム変更できるようになるメダリオン。365日に1回だ�
 
 RESOURCE ID: item_team_change_name
 TEXT: チームへんこう メダリオン
+
+RESOURCE ID: item_ticket_city_safari_00_desc
+TEXT: ソウルシティサファリ：コンティニューのスペシャルリサーチを遂行するためのチケット。
+
+RESOURCE ID: item_ticket_city_safari_00_name
+TEXT: ソウルサファリチケット
+
+RESOURCE ID: item_ticket_city_safari_01_desc
+TEXT: バルセロナシティサファリ：コンティニューのスペシャルリサーチを遂行するためのチケット。
+
+RESOURCE ID: item_ticket_city_safari_01_name
+TEXT: バルセロナサファリチケット
+
+RESOURCE ID: item_ticket_city_safari_02_desc
+TEXT: メキシコシティシティサファリ：コンティニューのスペシャルリサーチを遂行するためのチケット。
+
+RESOURCE ID: item_ticket_city_safari_02_name
+TEXT: メキシコシティサファリチケット
 
 RESOURCE ID: item_troy_disk_desc
 TEXT: ポケストップへ使うと、30分間ポケモンを引き寄せる。周りの人たちも効果を受けられる。
@@ -27838,9 +27963,6 @@ TEXT: 最終プレイ日：2日以上前
 
 RESOURCE ID: last_played_yesterday
 TEXT: 最終プレイ日：きのう
-
-RESOURCE ID: last_time_activity_label
-TEXT: 最近のアクティビティ
 
 RESOURCE ID: leader_map_assembled
 TEXT: ロケットレーダーを組み立てた！
@@ -31430,9 +31552,9 @@ RESOURCE ID: mega_walking_progress
 TEXT: 歩いて見つけるもの
 
 RESOURCE ID: metadata_local
-TEXT: Built at 2023-09-05T22:09:08.100530
-at SHA d365896004d0c49ae898e6ba22bc12199da9507a
-Pipeline 1726595, job 20964204
+TEXT: Built at 2023-09-08T08:09:58.647032
+at SHA abedd456fa33f1749c1b73b689b06e1e22fe245b
+Pipeline 1736915, job 21075377
 
 RESOURCE ID: mex_fighting_promo_title
 TEXT: タイムチャレンジ：かくとうタイプ
@@ -33355,57 +33477,6 @@ TEXT: スポンサーからのAR広告を開けてアイテムをゲット
 RESOURCE ID: open_webar_sponsored_gift_button
 TEXT: ARを開く
 
-RESOURCE ID: ops_reject_i-ina
-TEXT: 画像が不適切
-
-RESOURCE ID: ops_reject_i-nl
-TEXT:  Nianticロゴは使用できない
-
-RESOURCE ID: ops_reject_i-ppl
-TEXT: 画像には人物を含むことはできません
-
-RESOURCE ID: ops_reject_i-tmc
-TEXT: 画像が不適切
-
-RESOURCE ID: ops_reject_or-dan
-TEXT: 安全でないかアクセスできない
-
-RESOURCE ID: ops_reject_or-h
-TEXT: 道路が安全でない
-
-RESOURCE ID: ops_reject_t-dan
-TEXT: 安全でないかアクセスできない
-
-RESOURCE ID: ops_reject_t-def
-TEXT: テキストが不適切
-
-RESOURCE ID: ops_reject_t-desc
-TEXT: 説明が必要
-
-RESOURCE ID: ops_reject_t-ina
-TEXT: テキストが不適切
-
-RESOURCE ID: ops_reject_t-off
-TEXT: 「公式」ルートは作成できない
-
-RESOURCE ID: ops_reject_t-pii
-TEXT: ルートに個人情報を含めることはできません
-
-RESOURCE ID: ops_reject_t-sell
-TEXT: テキストが不適切
-
-RESOURCE ID: ops_reject_t-spam
-TEXT: 無関係なテキスト
-
-RESOURCE ID: ops_reject_t-test
-TEXT: 未完了
-
-RESOURCE ID: ops_reject_t-tmc
-TEXT: テキストが引用
-
-RESOURCE ID: ops_reject_t-url
-TEXT: テキストにHTMLやメールアドレスを含めることはできません
-
 RESOURCE ID: other_section_title
 TEXT: コード入力以外の方法
 
@@ -33705,6 +33776,9 @@ TEXT: GOスナップショットでフォッコのサプライズ5回
 
 RESOURCE ID: photobomb_five_fletchling
 TEXT: GOスナップショットでヤヤコマのサプライズ5回
+
+RESOURCE ID: photobomb_five_froakie
+TEXT: GOスナップショットでケロマツのサプライズ5回
 
 RESOURCE ID: photobomb_five_gastly
 TEXT: GOスナップショットでゴースのサプライズ5回
@@ -35293,6 +35367,15 @@ TEXT: くわがたポケモン
 RESOURCE ID: pokemon_category_0128
 TEXT: あばれうしポケモン
 
+RESOURCE ID: pokemon_category_0128_3006
+TEXT: あばれうしポケモン
+
+RESOURCE ID: pokemon_category_0128_3007
+TEXT: あばれうしポケモン
+
+RESOURCE ID: pokemon_category_0128_3008
+TEXT: あばれうしポケモン
+
 RESOURCE ID: pokemon_category_0129
 TEXT: さかなポケモン
 
@@ -35511,6 +35594,9 @@ TEXT: うすばねポケモン
 
 RESOURCE ID: pokemon_category_0194
 TEXT: みずうおポケモン
+
+RESOURCE ID: pokemon_category_0194_3009
+TEXT: どくうおポケモン
 
 RESOURCE ID: pokemon_category_0195
 TEXT: みずうおポケモン
@@ -37690,11 +37776,341 @@ TEXT: けんざんポケモン
 RESOURCE ID: pokemon_category_0905
 TEXT: あいぞうポケモン
 
+RESOURCE ID: pokemon_category_0906
+TEXT: くさねこポケモン
+
+RESOURCE ID: pokemon_category_0907
+TEXT: くさねこポケモン
+
+RESOURCE ID: pokemon_category_0908
+TEXT: マジシャンポケモン
+
+RESOURCE ID: pokemon_category_0909
+TEXT: ほのおワニポケモン
+
+RESOURCE ID: pokemon_category_0910
+TEXT: ほのおワニポケモン
+
+RESOURCE ID: pokemon_category_0911
+TEXT: シンガーポケモン
+
+RESOURCE ID: pokemon_category_0912
+TEXT: こがもポケモン
+
+RESOURCE ID: pokemon_category_0913
+TEXT: レッスンポケモン
+
+RESOURCE ID: pokemon_category_0914
+TEXT: ダンサーポケモン
+
+RESOURCE ID: pokemon_category_0915
+TEXT: ぶたポケモン
+
+RESOURCE ID: pokemon_category_0916_2981
+TEXT: ぶたポケモン
+
+RESOURCE ID: pokemon_category_0916_2982
+TEXT: ぶたポケモン
+
+RESOURCE ID: pokemon_category_0917
+TEXT: いとだまポケモン
+
+RESOURCE ID: pokemon_category_0918
+TEXT: トラップポケモン
+
+RESOURCE ID: pokemon_category_0919
+TEXT: バッタポケモン
+
+RESOURCE ID: pokemon_category_0920
+TEXT: バッタポケモン
+
+RESOURCE ID: pokemon_category_0921
+TEXT: ねずみポケモン
+
+RESOURCE ID: pokemon_category_0922
+TEXT: ねずみポケモン
+
+RESOURCE ID: pokemon_category_0923
+TEXT: てあてポケモン
+
+RESOURCE ID: pokemon_category_0924
+TEXT: カップルポケモン
+
+RESOURCE ID: pokemon_category_0925_2983
+TEXT: ファミリーポケモン
+
+RESOURCE ID: pokemon_category_0925_2984
+TEXT: ファミリーポケモン
+
+RESOURCE ID: pokemon_category_0926
+TEXT: こいぬポケモン
+
+RESOURCE ID: pokemon_category_0927
+TEXT: いぬポケモン
+
+RESOURCE ID: pokemon_category_0928
+TEXT: オリーブポケモン
+
+RESOURCE ID: pokemon_category_0929
+TEXT: オリーブポケモン
+
+RESOURCE ID: pokemon_category_0930
+TEXT: オリーブポケモン
+
+RESOURCE ID: pokemon_category_0931_2985
+TEXT: インコポケモン
+
+RESOURCE ID: pokemon_category_0931_2986
+TEXT: インコポケモン
+
+RESOURCE ID: pokemon_category_0931_2987
+TEXT: インコポケモン
+
+RESOURCE ID: pokemon_category_0931_2988
+TEXT: インコポケモン
+
+RESOURCE ID: pokemon_category_0932
+TEXT: がんえんポケモン
+
+RESOURCE ID: pokemon_category_0933
+TEXT: がんえんポケモン
+
+RESOURCE ID: pokemon_category_0934
+TEXT: がんえんポケモン
+
+RESOURCE ID: pokemon_category_0935
+TEXT: ひのこポケモン
+
+RESOURCE ID: pokemon_category_0936
+TEXT: ひのせんしポケモン
+
+RESOURCE ID: pokemon_category_0937
+TEXT: ひのけんしポケモン
+
+RESOURCE ID: pokemon_category_0938
+TEXT: でんきおたまポケモン
+
+RESOURCE ID: pokemon_category_0939
+TEXT: でんきがえるポケモン
+
+RESOURCE ID: pokemon_category_0940
+TEXT: うみつばめポケモン
+
+RESOURCE ID: pokemon_category_0941
+TEXT: ぐんかんどりポケモン
+
+RESOURCE ID: pokemon_category_0942
+TEXT: わかぞうポケモン
+
+RESOURCE ID: pokemon_category_0943
+TEXT: おやぶんポケモン
+
+RESOURCE ID: pokemon_category_0944
+TEXT: どくねずみポケモン
+
+RESOURCE ID: pokemon_category_0945
+TEXT: どくざるポケモン
+
+RESOURCE ID: pokemon_category_0946
+TEXT: ころがりぐさポケモン
+
+RESOURCE ID: pokemon_category_0947
+TEXT: ころがりぐさポケモン
+
+RESOURCE ID: pokemon_category_0948
+TEXT: きくらげポケモン
+
+RESOURCE ID: pokemon_category_0949
+TEXT: きくらげポケモン
+
+RESOURCE ID: pokemon_category_0950
+TEXT: まちぶせポケモン
+
+RESOURCE ID: pokemon_category_0951
+TEXT: ハバネロポケモン
+
+RESOURCE ID: pokemon_category_0952
+TEXT: ハバネロポケモン
+
+RESOURCE ID: pokemon_category_0953
+TEXT: ころがしポケモン
+
+RESOURCE ID: pokemon_category_0954
+TEXT: ころがしポケモン
+
+RESOURCE ID: pokemon_category_0955
+TEXT: フリルポケモン
+
+RESOURCE ID: pokemon_category_0956
+TEXT: ダチョウポケモン
+
+RESOURCE ID: pokemon_category_0957
+TEXT: かなうちポケモン
+
+RESOURCE ID: pokemon_category_0958
+TEXT: ハンマーポケモン
+
+RESOURCE ID: pokemon_category_0959
+TEXT: ハンマーポケモン
+
+RESOURCE ID: pokemon_category_0960
+TEXT: あなごポケモン
+
+RESOURCE ID: pokemon_category_0961
+TEXT: あなごポケモン
+
+RESOURCE ID: pokemon_category_0962
+TEXT: おとしものポケモン
+
+RESOURCE ID: pokemon_category_0963
+TEXT: イルカポケモン
+
+RESOURCE ID: pokemon_category_0964_2989
+TEXT: イルカポケモン
+
+RESOURCE ID: pokemon_category_0964_2990
+TEXT: ヒーローポケモン
+
+RESOURCE ID: pokemon_category_0965
+TEXT: たんきとうポケモン
+
+RESOURCE ID: pokemon_category_0966
+TEXT: たきとうポケモン
+
+RESOURCE ID: pokemon_category_0967
+TEXT: ライドポケモン
+
+RESOURCE ID: pokemon_category_0968
+TEXT: ミミズポケモン
+
+RESOURCE ID: pokemon_category_0969
+TEXT: こうせきポケモン
+
+RESOURCE ID: pokemon_category_0970
+TEXT: こうせきポケモン
+
+RESOURCE ID: pokemon_category_0971
+TEXT: おばけいぬポケモン
+
+RESOURCE ID: pokemon_category_0972
+TEXT: おばけいぬポケモン
+
+RESOURCE ID: pokemon_category_0973
+TEXT: シンクロポケモン
+
+RESOURCE ID: pokemon_category_0974
+TEXT: りくくじらポケモン
+
+RESOURCE ID: pokemon_category_0975
+TEXT: りくくじらポケモン
+
+RESOURCE ID: pokemon_category_0976
+TEXT: きりはなしポケモン
+
+RESOURCE ID: pokemon_category_0977
+TEXT: おおなまずポケモン
+
+RESOURCE ID: pokemon_category_0978_2991
+TEXT: ぎたいポケモン
+
+RESOURCE ID: pokemon_category_0978_2992
+TEXT: ぎたいポケモン
+
+RESOURCE ID: pokemon_category_0978_2993
+TEXT: ぎたいポケモン
+
+RESOURCE ID: pokemon_category_0979
+TEXT: ふんどざるポケモン
+
+RESOURCE ID: pokemon_category_0980
+TEXT: とげうおポケモン
+
+RESOURCE ID: pokemon_category_0981
+TEXT: くびながポケモン
+
+RESOURCE ID: pokemon_category_0982_2994
+TEXT: つちへびポケモン
+
+RESOURCE ID: pokemon_category_0982_2995
+TEXT: つちへびポケモン
+
+RESOURCE ID: pokemon_category_0983
+TEXT: だいとうポケモン
+
+RESOURCE ID: pokemon_category_0984
+TEXT: パラドックスポケモン
+
+RESOURCE ID: pokemon_category_0985
+TEXT: パラドックスポケモン
+
+RESOURCE ID: pokemon_category_0986
+TEXT: パラドックスポケモン
+
+RESOURCE ID: pokemon_category_0987
+TEXT: パラドックスポケモン
+
+RESOURCE ID: pokemon_category_0988
+TEXT: パラドックスポケモン
+
+RESOURCE ID: pokemon_category_0989
+TEXT: パラドックスポケモン
+
+RESOURCE ID: pokemon_category_0990
+TEXT: パラドックスポケモン
+
+RESOURCE ID: pokemon_category_0991
+TEXT: パラドックスポケモン
+
+RESOURCE ID: pokemon_category_0992
+TEXT: パラドックスポケモン
+
+RESOURCE ID: pokemon_category_0993
+TEXT: パラドックスポケモン
+
+RESOURCE ID: pokemon_category_0994
+TEXT: パラドックスポケモン
+
+RESOURCE ID: pokemon_category_0995
+TEXT: パラドックスポケモン
+
+RESOURCE ID: pokemon_category_0996
+TEXT: こおりビレポケモン
+
+RESOURCE ID: pokemon_category_0997
+TEXT: こおりビレポケモン
+
+RESOURCE ID: pokemon_category_0998
+TEXT: ひょうりゅうポケモン
+
 RESOURCE ID: pokemon_category_0999
 TEXT: たからさがしポケモン
 
 RESOURCE ID: pokemon_category_1000
 TEXT: たからものポケモン
+
+RESOURCE ID: pokemon_category_1001
+TEXT: さいやくポケモン
+
+RESOURCE ID: pokemon_category_1002
+TEXT: さいやくポケモン
+
+RESOURCE ID: pokemon_category_1003
+TEXT: さいやくポケモン
+
+RESOURCE ID: pokemon_category_1004
+TEXT: さいやくポケモン
+
+RESOURCE ID: pokemon_category_1005
+TEXT: パラドックスポケモン
+
+RESOURCE ID: pokemon_category_1006
+TEXT: パラドックスポケモン
+
+RESOURCE ID: pokemon_category_1007_2996
+TEXT: パラドックスポケモン
+
+RESOURCE ID: pokemon_category_1008_2997
+TEXT: パラドックスポケモン
 
 RESOURCE ID: pokemon_costume_info_transfer_to_professor_confirmation
 TEXT: 本当にこのポケモンを送ってもいいですか？
@@ -38179,6 +38595,15 @@ TEXT: 自分の体重の２倍もある相手をツノで挟み軽々持ち上�
 RESOURCE ID: pokemon_desc_0128
 TEXT: いつも暴れていないと気がすまない。戦う相手がいないときは大木にぶち当たりなぎ倒すことで気を静める。
 
+RESOURCE ID: pokemon_desc_0128_3006
+TEXT: 筋骨隆々の体で格闘戦が得意。短いツノで急所を狙う。
+
+RESOURCE ID: pokemon_desc_0128_3007
+TEXT: 炎のエネルギーで熱したツノは摂氏１０００度になり突き刺された敵は傷と火傷に苦しむ。
+
+RESOURCE ID: pokemon_desc_0128_3008
+TEXT: ツノの先端の穴から水を勢いよく吹きだし高圧の水流で敵を貫く。
+
 RESOURCE ID: pokemon_desc_0129
 TEXT: 跳ねることしかしない情けないポケモン。なぜ跳ねるのか調べた研究者がいるほどとにかく跳ねて跳ねて跳ねまくる。
 
@@ -38397,6 +38822,9 @@ TEXT: 目玉を動かさずに３６０度見渡せる。急ブレーキや方�
 
 RESOURCE ID: pokemon_desc_0194
 TEXT: 普段は水の中で暮らしているがエサを探すときなどたまに地上に出てくる。陸では毒の粘液で体を覆う。
+
+RESOURCE ID: pokemon_desc_0194_3009
+TEXT: 縄張り争いに敗れて陸で暮らすうちに毒の粘膜で体を保護するように変わった。
 
 RESOURCE ID: pokemon_desc_0195
 TEXT: 水の中で口を開けてエサが偶然飛び込んでくるのをただただ待っている。動かないのであまりお腹が空かないのだ。
@@ -40741,12 +41169,342 @@ TEXT: 海を越えて　飛来したらば　厳しき冬の　終わりを知�
 RESOURCE ID: pokemon_desc_0905_2803
 TEXT: 女人の姿より　変わりし現象。　命 粗末にする者あれば　雲海より　現れ　憤怒の罰を下し　容赦なし。
 
+RESOURCE ID: pokemon_desc_0906
+TEXT: フワフワの体毛は植物に近い成分。こまめに顔を洗って乾燥を防ぐ。
+
+RESOURCE ID: pokemon_desc_0907
+TEXT: 長い体毛の下に隠したツタを器用に操り硬いつぼみを敵に叩きつける。
+
+RESOURCE ID: pokemon_desc_0908
+TEXT: 浮いているように見える花はマント裏の毛の反射で茎をカモフラージュしているのだ。
+
+RESOURCE ID: pokemon_desc_0909
+TEXT: 温かい岩の上で寝転び四角いうろこから取り込んだ熱で炎エネルギーを作る。
+
+RESOURCE ID: pokemon_desc_0910
+TEXT: 炎エネルギーと有り余る生命力が交じり頭上にタマゴ型の火玉が現れた。
+
+RESOURCE ID: pokemon_desc_0911
+TEXT: 歌声で姿かたちを変える炎の鳥は頭上の火玉に魂が宿ったものだという。
+
+RESOURCE ID: pokemon_desc_0912
+TEXT: 昔遠い土地からやって来て棲みついた。羽から分泌するジェルは水と汚れを弾く。
+
+RESOURCE ID: pokemon_desc_0913
+TEXT: ひたすらに浅瀬を走り込んで足腰を鍛え仲間同士で足技の華麗さを競いあう。
+
+RESOURCE ID: pokemon_desc_0914
+TEXT: ひと蹴りでトラックを転がす強靭な脚力を駆使しエキゾチックな踊りをみせる。
+
+RESOURCE ID: pokemon_desc_0915
+TEXT: 一日中エサを探す。優れた嗅覚を持つがエサ探し以外に使わない。
+
+RESOURCE ID: pokemon_desc_0916_2981
+TEXT: きめ細かく艶やかな肌が自慢。尻尾の先端から凝縮した香りを放つ。
+
+RESOURCE ID: pokemon_desc_0916_2982
+TEXT: 花のような香りを振りまく。筋肉が発達した脚は軽く５メートルを飛び越える。
+
+RESOURCE ID: pokemon_desc_0917
+TEXT: 体を包みこむ糸玉は天敵のストライクのカマをはね返す弾力性を持つ。
+
+RESOURCE ID: pokemon_desc_0918
+TEXT: 木の枝や天井に糸で張りつき音もなく行動する。獲物に気づかれる前に倒す。
+
+RESOURCE ID: pokemon_desc_0919
+TEXT: 第３の脚が畳まれている。ピンチになると１０メートル以上ジャンプする脚力を持つ。
+
+RESOURCE ID: pokemon_desc_0920
+TEXT: 本気になると畳んでいた脚で立ち上がり決戦モードになる。短時間で敵を制圧する。
+
+RESOURCE ID: pokemon_desc_0921
+TEXT: 頬の電気袋は未発達。前脚の肉球で懸命に擦るとようやく発電できる。
+
+RESOURCE ID: pokemon_desc_0922
+TEXT: 群れが襲われたときは電撃を駆使した格闘技で真っ先に戦いを挑み敵を倒す。
+
+RESOURCE ID: pokemon_desc_0923
+TEXT: 普段はおっとりしているがいざ戦いになると電光石火の身のこなしで敵を叩きのめす。
+
+RESOURCE ID: pokemon_desc_0924
+TEXT: 息の合ったコンビネーションで巣の材料になりそうなものを前歯で切り出して運び去る。
+
+RESOURCE ID: pokemon_desc_0925_2983
+TEXT: 寝床やエサを食べる場所など用途に合わせていくつも部屋が分かれた大きな巣を作る。
+
+RESOURCE ID: pokemon_desc_0925_2984
+TEXT: いつの間にか２匹の子どもが増えていた。家族のようにも見えるが真相はわからない。
+
+RESOURCE ID: pokemon_desc_0926
+TEXT: しっとりすべすべの触り心地。吐息に含まれている酵母でまわりのものを発酵させる。
+
+RESOURCE ID: pokemon_desc_0927
+TEXT: 体から放つ良い香りが小麦の成長を助けるため農村で大切にされてきた。
+
+RESOURCE ID: pokemon_desc_0928
+TEXT: 頭の実からオイルを出して敵から身を守る。オイルはとびあがるほど苦くて渋い。
+
+RESOURCE ID: pokemon_desc_0929
+TEXT: フレッシュな香りの美味しいオイルを分けてくれる。古くから人間と共存してきた。
+
+RESOURCE ID: pokemon_desc_0930
+TEXT: 穏やかでとても慈悲深い。栄養豊富な美味しいオイルを弱ったポケモンに分け与える。
+
+RESOURCE ID: pokemon_desc_0931_2985
+TEXT: 街中で暮らすことを好む。羽の色でグループを作り縄張り争いを繰り広げる。
+
+RESOURCE ID: pokemon_desc_0931_2986
+TEXT: 大きいグループは５０匹を超える。エサを求め街中や森を騒がしく飛びまわる。
+
+RESOURCE ID: pokemon_desc_0931_2987
+TEXT: 気性が荒く戦い方も荒々しい。相手の懐に飛び込み肉弾戦を仕掛ける。
+
+RESOURCE ID: pokemon_desc_0931_2988
+TEXT: 単独行動は苦手。連帯感が強く仲間同士助け合いながら生き抜いている。
+
+RESOURCE ID: pokemon_desc_0932
+TEXT: 地底の岩塩層で生まれた。貴重な塩を分けてくれるため昔はとくに大事にされた。
+
+RESOURCE ID: pokemon_desc_0933
+TEXT: 塩を噴き出して獲物に浴びせ塩漬けにしてしまう。体内の水分を奪ってしまうのだ。
+
+RESOURCE ID: pokemon_desc_0934
+TEXT: 指先を擦りあわせて塩をケガしたポケモンに振りかけるとひどい傷もたちまち治る。
+
+RESOURCE ID: pokemon_desc_0935
+TEXT: 焼けた木炭に命が宿りポケモンになった。燃える闘志で強敵にも戦いを挑む。
+
+RESOURCE ID: pokemon_desc_0936
+TEXT: 多くの武勲を立てた戦士の鎧によって進化した姿。忠誠心の厚いポケモン。
+
+RESOURCE ID: pokemon_desc_0937
+TEXT: 両腕の炎の剣は志半ばで力つきた剣士の怨念で燃え上がる。
+
+RESOURCE ID: pokemon_desc_0938
+TEXT: 尻尾を振って発電する。危険を感じると頭を点滅させて仲間に伝える。
+
+RESOURCE ID: pokemon_desc_0939
+TEXT: ブヨンブヨンの体を伸び縮みさせるとお腹のへそダイナモが大電力を発生させる。
+
+RESOURCE ID: pokemon_desc_0940
+TEXT: 翼の骨は風を受けると電気を作る。海に飛び込み獲物を感電させて捕らえる。
+
+RESOURCE ID: pokemon_desc_0941
+TEXT: のど袋をふくらませて電気を増幅させる。風に乗って１日で７００キロを飛行する。
+
+RESOURCE ID: pokemon_desc_0942
+TEXT: 相手に嘗められないようにいつもしかめっ面をしているが泣いている子どもはその顔で笑いだす。
+
+RESOURCE ID: pokemon_desc_0943
+TEXT: 大きなのど袋にエネルギーを蓄えることができる。一気に放出して敵を吹き飛ばす。
+
+RESOURCE ID: pokemon_desc_0944
+TEXT: 温厚だが怒らせると毒が染みこんだ鋭い前歯で咬みつき痺れさせてくるぞ。
+
+RESOURCE ID: pokemon_desc_0945
+TEXT: エサによって色が変化する毒の唾液を指に塗して森の木々に模様を描く。
+
+RESOURCE ID: pokemon_desc_0946
+TEXT: 成仏できない魂が風に吹かれているうち枯草を巻き込んでポケモンになった。
+
+RESOURCE ID: pokemon_desc_0947
+TEXT: 頭の枝を開いて獲物を飲みこむ。生気を存分に吸い取ると吐き出して捨てるのだ。
+
+RESOURCE ID: pokemon_desc_0948
+TEXT: じめじめした森の中で暮らす。剥がれ落ちた体のヒラヒラは歯ごたえがあってとても美味しい。
+
+RESOURCE ID: pokemon_desc_0949
+TEXT: 森の奥に集団で暮らすコロニーを作る。よそ者が近寄ることをひどく嫌う。
+
+RESOURCE ID: pokemon_desc_0950
+TEXT: 逆さまになって崖の上から獲物を狙うが頭に血が上るので長くは待てない。
+
+RESOURCE ID: pokemon_desc_0951
+TEXT: 太陽の光を浴びるほど体内で辛み成分が増えて技がどんどん辛くなるのだ。
+
+RESOURCE ID: pokemon_desc_0952
+TEXT: レッドヘッドは辛み成分を炎エネルギーに変え激辛の火炎放射をまき散らす。
+
+RESOURCE ID: pokemon_desc_0953
+TEXT: エスパーエネルギーを混ぜこみながら土と砂で泥玉を作る。泥玉は命より大切。
+
+RESOURCE ID: pokemon_desc_0954
+TEXT: 玉を支える体はほとんど動かないため本体は玉の中にいると考えられている。
+
+RESOURCE ID: pokemon_desc_0955
+TEXT: お腹のヒラヒラから放射するサイコパワーでわずか１センチだけつま先が地面から浮いている。
+
+RESOURCE ID: pokemon_desc_0956
+TEXT: 大きな瞳からサイコパワーを浴びせて相手を動けなくする。見かけによらず気性は荒い。
+
+RESOURCE ID: pokemon_desc_0957
+TEXT: 手作りのハンマーを振りまわして身を守るが金属を食べるポケモンにはよく奪われる。
+
+RESOURCE ID: pokemon_desc_0958
+TEXT: 大きくて頑丈なハンマーを作るためにキリキザンの群れを襲って金属を集める。
+
+RESOURCE ID: pokemon_desc_0959
+TEXT: 知能が高くとても豪快。ハンマーで岩を殴り飛ばして空飛ぶアーマーガアを狙う。
+
+RESOURCE ID: pokemon_desc_0960
+TEXT: ２０メートル先のミガルーサが放つ匂いも嗅ぎとって砂の中に身を隠すのだ。
+
+RESOURCE ID: pokemon_desc_0961
+TEXT: 見かけによらず気性が荒い。長い体で獲物を締め上げ巣穴に引きずりこむぞ。
+
+RESOURCE ID: pokemon_desc_0962
+TEXT: 胸の羽毛と抜け落ちた羽根で作った袋に物を入れて高いところから落として遊ぶ。
+
+RESOURCE ID: pokemon_desc_0963
+TEXT: 尾びれの水のリングで仲間と遊ぶのが好き。超音波で生き物の気持ちを察知する。
+
+RESOURCE ID: pokemon_desc_0964_2989
+TEXT: 助けを求める仲間の声を聞くと姿を変える。その瞬間はだれにも見せない。
+
+RESOURCE ID: pokemon_desc_0964_2990
+TEXT: 太古の遺伝子が覚醒。片ヒレでクルーズ船を軽々持ち上げる怪力の持ち主。
+
+RESOURCE ID: pokemon_desc_0965
+TEXT: スクラップ工場に放置されたエンジンに謎の毒ポケモンが入り込んで生まれたと言われる。
+
+RESOURCE ID: pokemon_desc_0966
+TEXT: 毒素と岩の成分を混ぜたガスを８つに増えたシリンダーで爆発させエネルギーを作る。
+
+RESOURCE ID: pokemon_desc_0967
+TEXT: 大昔から人を背中に乗せていたらしい。１万年前の壁画に様子が描かれている。
+
+RESOURCE ID: pokemon_desc_0968
+TEXT: 敵に襲われると体毛をこぶしのように使いパンチの嵐をお見舞いするのだ。
+
+RESOURCE ID: pokemon_desc_0969
+TEXT: 洞窟の壁から栄養分を吸収。毒の結晶でできた花びらを身にまとう。
+
+RESOURCE ID: pokemon_desc_0970
+TEXT: 危険を察知すると結晶の花びらを開いて円錐形の体からビームを発射する。
+
+RESOURCE ID: pokemon_desc_0971
+TEXT: 人と関わることなく命を落とした野良の犬ポケモンが生まれ変わったと言われている。
+
+RESOURCE ID: pokemon_desc_0972
+TEXT: 普段は墓場で眠っている。数いる犬ポケモンの中でももっとも主に忠実だ。
+
+RESOURCE ID: pokemon_desc_0973
+TEXT: お腹に溜めたエネルギーがくちばしから漏れないように首を根元で結んでいるらしい。
+
+RESOURCE ID: pokemon_desc_0974
+TEXT: 遥か昔に海から上がって陸地で暮らすようになった。ホエルコに近い種類らしい。
+
+RESOURCE ID: pokemon_desc_0975
+TEXT: 氷雪地帯を回遊する。強靭な筋肉とぶ厚い皮下脂肪で体を守る。
+
+RESOURCE ID: pokemon_desc_0976
+TEXT: 無駄な肉を捨て去ると心が研ぎ澄まされサイコパワーが上がる。贅肉は淡白だが美味しい。
+
+RESOURCE ID: pokemon_desc_0977
+TEXT: 大食らいだがエサを取るのは苦手。シャリタツとコンビを組んで獲物を捕らえるのだ。
+
+RESOURCE ID: pokemon_desc_0978_2991
+TEXT: 小型のドラゴンポケモン。ヘイラッシャの口の中に棲み外敵から身を守っている。
+
+RESOURCE ID: pokemon_desc_0978_2992
+TEXT: 体の色や模様の違いはおびき寄せる獲物の好みに合わせて変化した結果らしい。
+
+RESOURCE ID: pokemon_desc_0978_2993
+TEXT: 鳥ポケモンがおもな獲物だ。自分の弱さを知っており仲間とコンビで狩りをするぞ。
+
+RESOURCE ID: pokemon_desc_0979
+TEXT: 怒りのボルテージが臨界点を超えたとき肉体という枠に縛られないパワーを手に入れた。
+
+RESOURCE ID: pokemon_desc_0980
+TEXT: 敵に襲われると太い棘を胴体から突き出して反撃。身を切る覚悟の危険な技。
+
+RESOURCE ID: pokemon_desc_0981
+TEXT: 頭と尻尾の２つの脳波が同期したことでエスパーパワーはキリンリキの１０倍アップした。
+
+RESOURCE ID: pokemon_desc_0982_2994
+TEXT: 硬い尻尾で地中深くの岩盤をくり抜き巣を作る。巣穴は長さ１０キロにおよぶ。
+
+RESOURCE ID: pokemon_desc_0982_2995
+TEXT: 巣穴に迷い込んだポケモンを背中に乗せて入り口まで運んであげる温厚な気質。
+
+RESOURCE ID: pokemon_desc_0983
+TEXT: ドドゲザンに進化できるのは大軍勢の頂点に立った１匹のキリキザンだけなのだ。
+
+RESOURCE ID: pokemon_desc_0984
+TEXT: 近年目撃例がある。イダイナキバという名はある本に記された生物から取られた。
+
+RESOURCE ID: pokemon_desc_0985
+TEXT: 目撃例は過去１件のみ。古い探検記に記された謎の生物に似たポケモン。
+
+RESOURCE ID: pokemon_desc_0986
+TEXT: ある本の中でアラブルタケと記されていた生物はこのポケモンの可能性がある。
+
+RESOURCE ID: pokemon_desc_0987
+TEXT: とある書物に登場するハバタクカミという生物と似た特徴を持つポケモン。
+
+RESOURCE ID: pokemon_desc_0988
+TEXT: 古い本でチヲハウハネと紹介されている生物に似た点がある謎のポケモン。
+
+RESOURCE ID: pokemon_desc_0989
+TEXT: 捕獲例はゼロ。データ不足。ある探検記に記された生物と特徴が一致する。
+
+RESOURCE ID: pokemon_desc_0990
+TEXT: 近年目撃例がある。古い探検記に記された謎の物体に似たポケモン。
+
+RESOURCE ID: pokemon_desc_0991
+TEXT: 古い書物に登場する謎の物体に似たポケモン。目撃例は過去２件のみ。
+
+RESOURCE ID: pokemon_desc_0992
+TEXT: ある探検記に記されたテツノカイナという物体と似た点が多いポケモン。
+
+RESOURCE ID: pokemon_desc_0993
+TEXT: 古い書物に記されたテツノコウベという物体はこのポケモンかもしれない。
+
+RESOURCE ID: pokemon_desc_0994
+TEXT: 捕獲例はゼロ。データ不足。古い書物に記された物体と特徴が一致。
+
+RESOURCE ID: pokemon_desc_0995
+TEXT: ある探検記でテツノイバラと紹介されている物体と一致する特徴がある。
+
+RESOURCE ID: pokemon_desc_0996
+TEXT: 背びれで熱を吸収して氷エネルギーに変換する。高温ほどエネルギーが溜まる。
+
+RESOURCE ID: pokemon_desc_0997
+TEXT: まわりの空気を凍らせて氷のマスクで顔を守り背びれを氷の剣に変える。
+
+RESOURCE ID: pokemon_desc_0998
+TEXT: 極低温の冷気を口から噴射。灼熱のマグマでも瞬時に凍りつかせてしまう。
+
 RESOURCE ID: pokemon_desc_0999
 TEXT: コインに染みついた情念から生まれた。もとの宝箱に戻るためさまよっているらしい。
 
 
 RESOURCE ID: pokemon_desc_1000
 TEXT: １０００枚のコインで体ができているらしい。人懐こくだれとでもすぐに仲良くなれる。
+
+RESOURCE ID: pokemon_desc_1001
+TEXT: 王の悪事を木簡に記し処罰された人の恨みが枯葉をまといポケモンとなった。
+
+RESOURCE ID: pokemon_desc_1002
+TEXT: １００トンの積雪を操る。雪崩を起こしてその中を出入りして無邪気に遊ぶ。
+
+RESOURCE ID: pokemon_desc_1003
+TEXT: 古の儀式で使われた器に注がれた恐怖が土石をまといポケモンとなった。
+
+RESOURCE ID: pokemon_desc_1004
+TEXT: ３０００度の炎を操る。岩や砂利を溶かして作ったマグマの海をゆうゆうと泳ぐ。
+
+RESOURCE ID: pokemon_desc_1005
+TEXT: 謎の多い探検記の中でトドロクツキという名で記された生物の可能性がある。
+
+RESOURCE ID: pokemon_desc_1006
+TEXT: とある探検記の中でテツノブジンという名で記された物体の可能性がある。
+
+RESOURCE ID: pokemon_desc_1007_2996
+TEXT: 拳で大地を引き裂いたと古い探検記に記されたツバサノオウの正体らしい。
+
+RESOURCE ID: pokemon_desc_1008_2997
+TEXT: 古い書物に名があるテツノオロチらしい。雷で大地を灰に変えたという。
 
 RESOURCE ID: pokemon_desc_tmpevo_0003_0001
 TEXT: メガシンカしてさらに大きく成長した花を支えるため足腰もたくましくなったのだ。
@@ -44196,11 +44954,314 @@ TEXT: ハリーマン
 RESOURCE ID: pokemon_name_0905
 TEXT: ラブトロス
 
+RESOURCE ID: pokemon_name_0906
+TEXT: ニャオハ
+
+RESOURCE ID: pokemon_name_0907
+TEXT: ニャローテ
+
+RESOURCE ID: pokemon_name_0908
+TEXT: マスカーニャ
+
+RESOURCE ID: pokemon_name_0909
+TEXT: ホゲータ
+
+RESOURCE ID: pokemon_name_0910
+TEXT: アチゲータ
+
+RESOURCE ID: pokemon_name_0911
+TEXT: ラウドボーン
+
+RESOURCE ID: pokemon_name_0912
+TEXT: クワッス
+
+RESOURCE ID: pokemon_name_0913
+TEXT: ウェルカモ
+
+RESOURCE ID: pokemon_name_0914
+TEXT: ウェーニバル
+
+RESOURCE ID: pokemon_name_0915
+TEXT: グルトン
+
+RESOURCE ID: pokemon_name_0916
+TEXT: パフュートン
+
+RESOURCE ID: pokemon_name_0917
+TEXT: タマンチュラ
+
+RESOURCE ID: pokemon_name_0918
+TEXT: ワナイダー
+
+RESOURCE ID: pokemon_name_0919
+TEXT: マメバッタ
+
+RESOURCE ID: pokemon_name_0920
+TEXT: エクスレッグ
+
+RESOURCE ID: pokemon_name_0921
+TEXT: パモ
+
+RESOURCE ID: pokemon_name_0922
+TEXT: パモット
+
+RESOURCE ID: pokemon_name_0923
+TEXT: パーモット
+
+RESOURCE ID: pokemon_name_0924
+TEXT: ワッカネズミ
+
+RESOURCE ID: pokemon_name_0925
+TEXT: イッカネズミ
+
+RESOURCE ID: pokemon_name_0926
+TEXT: パピモッチ
+
+RESOURCE ID: pokemon_name_0927
+TEXT: バウッツェル
+
+RESOURCE ID: pokemon_name_0928
+TEXT: ミニーブ
+
+RESOURCE ID: pokemon_name_0929
+TEXT: オリーニョ
+
+RESOURCE ID: pokemon_name_0930
+TEXT: オリーヴァ
+
+RESOURCE ID: pokemon_name_0931
+TEXT: イキリンコ
+
+RESOURCE ID: pokemon_name_0932
+TEXT: コジオ
+
+RESOURCE ID: pokemon_name_0933
+TEXT: ジオヅム
+
+RESOURCE ID: pokemon_name_0934
+TEXT: キョジオーン
+
+RESOURCE ID: pokemon_name_0935
+TEXT: カルボウ
+
+RESOURCE ID: pokemon_name_0936
+TEXT: グレンアルマ
+
+RESOURCE ID: pokemon_name_0937
+TEXT: ソウブレイズ
+
+RESOURCE ID: pokemon_name_0938
+TEXT: ズピカ
+
+RESOURCE ID: pokemon_name_0939
+TEXT: ハラバリー
+
+RESOURCE ID: pokemon_name_0940
+TEXT: カイデン
+
+RESOURCE ID: pokemon_name_0941
+TEXT: タイカイデン
+
+RESOURCE ID: pokemon_name_0942
+TEXT: オラチフ
+
+RESOURCE ID: pokemon_name_0943
+TEXT: マフィティフ
+
+RESOURCE ID: pokemon_name_0944
+TEXT: シルシュルー
+
+RESOURCE ID: pokemon_name_0945
+TEXT: タギングル
+
+RESOURCE ID: pokemon_name_0946
+TEXT: アノクサ
+
+RESOURCE ID: pokemon_name_0947
+TEXT: アノホラグサ
+
+RESOURCE ID: pokemon_name_0948
+TEXT: ノノクラゲ
+
+RESOURCE ID: pokemon_name_0949
+TEXT: リククラゲ
+
+RESOURCE ID: pokemon_name_0950
+TEXT: ガケガニ
+
+RESOURCE ID: pokemon_name_0951
+TEXT: カプサイジ
+
+RESOURCE ID: pokemon_name_0952
+TEXT: スコヴィラン
+
+RESOURCE ID: pokemon_name_0953
+TEXT: シガロコ
+
+RESOURCE ID: pokemon_name_0954
+TEXT: ベラカス
+
+RESOURCE ID: pokemon_name_0955
+TEXT: ヒラヒナ
+
+RESOURCE ID: pokemon_name_0956
+TEXT: クエスパトラ
+
+RESOURCE ID: pokemon_name_0957
+TEXT: カヌチャン
+
+RESOURCE ID: pokemon_name_0958
+TEXT: ナカヌチャン
+
+RESOURCE ID: pokemon_name_0959
+TEXT: デカヌチャン
+
+RESOURCE ID: pokemon_name_0960
+TEXT: ウミディグダ
+
+RESOURCE ID: pokemon_name_0961
+TEXT: ウミトリオ
+
+RESOURCE ID: pokemon_name_0962
+TEXT: オトシドリ
+
+RESOURCE ID: pokemon_name_0963
+TEXT: ナミイルカ
+
+RESOURCE ID: pokemon_name_0964
+TEXT: イルカマン
+
+RESOURCE ID: pokemon_name_0965
+TEXT: ブロロン
+
+RESOURCE ID: pokemon_name_0966
+TEXT: ブロロローム
+
+RESOURCE ID: pokemon_name_0967
+TEXT: モトトカゲ
+
+RESOURCE ID: pokemon_name_0968
+TEXT: ミミズズ
+
+RESOURCE ID: pokemon_name_0969
+TEXT: キラーメ
+
+RESOURCE ID: pokemon_name_0970
+TEXT: キラフロル
+
+RESOURCE ID: pokemon_name_0971
+TEXT: ボチ
+
+RESOURCE ID: pokemon_name_0972
+TEXT: ハカドッグ
+
+RESOURCE ID: pokemon_name_0973
+TEXT: カラミンゴ
+
+RESOURCE ID: pokemon_name_0974
+TEXT: アルクジラ
+
+RESOURCE ID: pokemon_name_0975
+TEXT: ハルクジラ
+
+RESOURCE ID: pokemon_name_0976
+TEXT: ミガルーサ
+
+RESOURCE ID: pokemon_name_0977
+TEXT: ヘイラッシャ
+
+RESOURCE ID: pokemon_name_0978
+TEXT: シャリタツ
+
+RESOURCE ID: pokemon_name_0979
+TEXT: コノヨザル
+
+RESOURCE ID: pokemon_name_0980
+TEXT: ドオー
+
+RESOURCE ID: pokemon_name_0981
+TEXT: リキキリン
+
+RESOURCE ID: pokemon_name_0982
+TEXT: ノココッチ
+
+RESOURCE ID: pokemon_name_0983
+TEXT: ドドゲザン
+
+RESOURCE ID: pokemon_name_0984
+TEXT: イダイナキバ
+
+RESOURCE ID: pokemon_name_0985
+TEXT: サケブシッポ
+
+RESOURCE ID: pokemon_name_0986
+TEXT: アラブルタケ
+
+RESOURCE ID: pokemon_name_0987
+TEXT: ハバタクカミ
+
+RESOURCE ID: pokemon_name_0988
+TEXT: チヲハウハネ
+
+RESOURCE ID: pokemon_name_0989
+TEXT: スナノケガワ
+
+RESOURCE ID: pokemon_name_0990
+TEXT: テツノワダチ
+
+RESOURCE ID: pokemon_name_0991
+TEXT: テツノツツミ
+
+RESOURCE ID: pokemon_name_0992
+TEXT: テツノカイナ
+
+RESOURCE ID: pokemon_name_0993
+TEXT: テツノコウベ
+
+RESOURCE ID: pokemon_name_0994
+TEXT: テツノドクガ
+
+RESOURCE ID: pokemon_name_0995
+TEXT: テツノイバラ
+
+RESOURCE ID: pokemon_name_0996
+TEXT: セビエ
+
+RESOURCE ID: pokemon_name_0997
+TEXT: セゴール
+
+RESOURCE ID: pokemon_name_0998
+TEXT: セグレイブ
+
 RESOURCE ID: pokemon_name_0999
 TEXT: コレクレー
 
 RESOURCE ID: pokemon_name_1000
 TEXT: サーフゴー
+
+RESOURCE ID: pokemon_name_1001
+TEXT: チオンジェン
+
+RESOURCE ID: pokemon_name_1002
+TEXT: パオジアン
+
+RESOURCE ID: pokemon_name_1003
+TEXT: ディンルー
+
+RESOURCE ID: pokemon_name_1004
+TEXT: イーユイ
+
+RESOURCE ID: pokemon_name_1005
+TEXT: トドロクツキ
+
+RESOURCE ID: pokemon_name_1006
+TEXT: テツノブジン
+
+RESOURCE ID: pokemon_name_1007
+TEXT: コライドン
+
+RESOURCE ID: pokemon_name_1008
+TEXT: ミライドン
 
 RESOURCE ID: pokemon_nickname_error
 TEXT: 正しいニックネームを入力してください
@@ -48055,6 +49116,18 @@ TEXT: ヒノヤコマを{0}匹進化させる
 RESOURCE ID: quest_fraxure_evolve_b
 TEXT: オノンドを{0}匹進化させる
 
+RESOURCE ID: quest_froakie_catch_b
+TEXT: ケロマツを{0}匹捕まえる
+
+RESOURCE ID: quest_froakie_evolve_b
+TEXT: ケロマツを{0}匹進化させる
+
+RESOURCE ID: quest_froakie_snapshot_b
+TEXT: ケロマツのGOスナップショット写真を{0}枚撮る
+
+RESOURCE ID: quest_frogadier_evolve_b
+TEXT: ゲコガシラを{0}匹進化させる
+
 RESOURCE ID: quest_gbl_rank
 TEXT: GOバトルリーグでランク{0}になる
 
@@ -49502,8 +50575,14 @@ TEXT: 野生のバタフリー、コリンクかシママのGOスナップショ
 RESOURCE ID: quest_snapshot_wild_dark_plural
 TEXT: あくタイプの野生ポケモンのGOスナップショット写真を{0}枚撮る
 
+RESOURCE ID: quest_snapshot_wild_dark_unique_plural
+TEXT: 野生のあくタイプポケモン{0}種類のGOスナップショット写真を撮る
+
 RESOURCE ID: quest_snapshot_wild_dragon_plural
 TEXT: ドラゴンタイプの野生ポケモンのGOスナップショット写真を{0}枚撮る
+
+RESOURCE ID: quest_snapshot_wild_dragon_unique_plural
+TEXT: 野生のドラゴンタイプポケモン{0}種類のGOスナップショット写真を撮る
 
 RESOURCE ID: quest_snapshot_wild_ducklett_chinchou_finneon
 TEXT: 野生のコアルヒー、チョンチーか、ケイコウオのGOスナップショット写真を撮る
@@ -49514,14 +50593,23 @@ TEXT: 野生のイーブイのGOスナップショット写真を撮る
 RESOURCE ID: quest_snapshot_wild_electric_plural
 TEXT: でんきタイプの野生ポケモンのGOスナップショット写真を{0}枚撮る
 
+RESOURCE ID: quest_snapshot_wild_electric_unique_plural
+TEXT: 野生のでんきタイプポケモン{0}種類のGOスナップショット写真を撮る
+
 RESOURCE ID: quest_snapshot_wild_entei
 TEXT: 野生のエンテイのスナップショットを撮る
 
 RESOURCE ID: quest_snapshot_wild_fairy_plural
 TEXT: フェアリータイプの野生ポケモンのGOスナップショット写真を{0}枚撮る
 
+RESOURCE ID: quest_snapshot_wild_fairy_unique_plural
+TEXT: 野生のフェアリータイプポケモン{0}種類のGOスナップショット写真を撮る
+
 RESOURCE ID: quest_snapshot_wild_fighting_plural
 TEXT: かくとうタイプの野生ポケモンのGOスナップショット写真を{0}枚撮る
+
+RESOURCE ID: quest_snapshot_wild_fighting_unique_plural
+TEXT: 野生のかくとうタイプポケモン{0}種類のGOスナップショット写真を撮る
 
 RESOURCE ID: quest_snapshot_wild_fire_plural
 TEXT: ほのおタイプの野生ポケモンのGOスナップショット写真を{0}枚撮る
@@ -49529,11 +50617,17 @@ TEXT: ほのおタイプの野生ポケモンのGOスナップショット写真
 RESOURCE ID: quest_snapshot_wild_flying_plural
 TEXT: ひこうタイプの野生ポケモンのGOスナップショット写真を{0}枚撮る
 
+RESOURCE ID: quest_snapshot_wild_flying_unique_plural
+TEXT: 野生のひこうタイプポケモン{0}種類のGOスナップショット写真を撮る
+
 RESOURCE ID: quest_snapshot_wild_geodude_sandshrew_cacnea
 TEXT: 野生のサンド、イシツブテか、サボネアのGOスナップショット写真を撮る
 
 RESOURCE ID: quest_snapshot_wild_ghost_plural
 TEXT: ゴーストタイプの野生ポケモンのGOスナップショット写真を{0}枚撮る
+
+RESOURCE ID: quest_snapshot_wild_ghost_unique_plural
+TEXT: 野生のゴーストタイプポケモン{0}種類のGOスナップショット写真を撮る
 
 RESOURCE ID: quest_snapshot_wild_grass_plural
 TEXT: くさタイプの野生ポケモンのGOスナップショット写真を{0}枚撮る
@@ -49541,8 +50635,14 @@ TEXT: くさタイプの野生ポケモンのGOスナップショット写真を
 RESOURCE ID: quest_snapshot_wild_grass_singular
 TEXT: くさタイプの野生ポケモンのGOスナップショット写真を撮る
 
+RESOURCE ID: quest_snapshot_wild_grass_unique_plural
+TEXT: 野生のくさタイプポケモン{0}種類のGOスナップショット写真を撮る
+
 RESOURCE ID: quest_snapshot_wild_ground_plural
 TEXT: じめんタイプの野生ポケモンのGOスナップショット写真を{0}枚撮る
+
+RESOURCE ID: quest_snapshot_wild_ground_unique_plural
+TEXT: 野生のじめんタイプポケモン{0}種類のGOスナップショット写真を撮る
 
 RESOURCE ID: quest_snapshot_wild_hoothoot
 TEXT: 野生のホーホーのGOスナップショット写真を撮る
@@ -49552,6 +50652,9 @@ TEXT: こおりタイプの野生ポケモンのGOスナップショット写真
 
 RESOURCE ID: quest_snapshot_wild_ice_singular
 TEXT: こおりタイプの野生ポケモンのGOスナップショット写真を撮る
+
+RESOURCE ID: quest_snapshot_wild_ice_unique_plural
+TEXT: 野生のこおりタイプポケモン{0}種類のGOスナップショット写真を撮る
 
 RESOURCE ID: quest_snapshot_wild_lotad_metapod_aipom
 TEXT: 野生のハスボー、トランセルか、エイパムのGOスナップショット写真を撮る
@@ -49565,14 +50668,23 @@ TEXT: 野生のヒドイデのGOスナップショット写真を撮る
 RESOURCE ID: quest_snapshot_wild_normal_plural
 TEXT: ノーマルタイプの野生ポケモンのGOスナップショット写真を{0}枚撮る
 
+RESOURCE ID: quest_snapshot_wild_normal_unique_plural
+TEXT: 野生のノーマルタイプポケモン{0}種類のGOスナップショット写真を撮る
+
 RESOURCE ID: quest_snapshot_wild_plural
 TEXT: 野生ポケモンのGOスナップショット写真を{0}枚撮る
 
 RESOURCE ID: quest_snapshot_wild_poison_plural
 TEXT: どくタイプの野生ポケモンのGOスナップショット写真を{0}枚撮る
 
+RESOURCE ID: quest_snapshot_wild_poison_unique_plural
+TEXT: 野生のどくタイプポケモン{0}種類のGOスナップショット写真を撮る
+
 RESOURCE ID: quest_snapshot_wild_psychic_plural
 TEXT: エスパータイプの野生ポケモンのスナップショット写真を{0}枚撮る
+
+RESOURCE ID: quest_snapshot_wild_psychic_unique_plural
+TEXT: 野生のエスパータイプポケモン{0}種類のGOスナップショット写真を撮る
 
 RESOURCE ID: quest_snapshot_wild_raikou
 TEXT: 野生のライコウのGOスナップショット写真を撮る
@@ -49582,6 +50694,9 @@ TEXT: 野生のじめん、いわ、フェアリータイプのポケモン{0}�
 
 RESOURCE ID: quest_snapshot_wild_rock_plural
 TEXT: いわタイプの野生ポケモンのGOスナップショット写真を{0}枚撮る
+
+RESOURCE ID: quest_snapshot_wild_rock_unique_plural
+TEXT: 野生のいわタイプポケモン{0}種類のGOスナップショット写真を撮る
 
 RESOURCE ID: quest_snapshot_wild_singular
 TEXT: 野生ポケモンのGOスナップショット写真を撮る
@@ -49618,6 +50733,9 @@ TEXT: みずタイプの野生ポケモンのGOスナップショット写真を
 
 RESOURCE ID: quest_snapshot_wild_water_singular
 TEXT: みずタイプの野生ポケモンのGOスナップショット写真を撮る
+
+RESOURCE ID: quest_snapshot_wild_water_unique_plural
+TEXT: 野生のみずタイプポケモン{0}種類のGOスナップショット写真を撮る
 
 RESOURCE ID: quest_snapshots_inarow_plural
 TEXT: ポケモンのGOスナップショット写真を{0}日連続で撮る
@@ -51300,6 +52418,75 @@ TEXT: 今日も、非常に有意義な調査だった。きみにも気付き�
 
 RESOURCE ID: quest_special_dialogue_flett_3_6
 TEXT: では、また会うときまで、元気にGO！
+
+RESOURCE ID: quest_special_dialogue_froakie_0_0
+TEXT: やぁ、%PLAYERNAME%！今日も調査への協力、よろしく頼むよ。
+
+RESOURCE ID: quest_special_dialogue_froakie_0_1
+TEXT: 今日はいつにも増してにぎやかな気がする。
+
+RESOURCE ID: quest_special_dialogue_froakie_0_2
+TEXT: この声は．．．ポケモンかな？
+
+RESOURCE ID: quest_special_dialogue_froakie_0_3
+TEXT: どのポケモンだと思う、%PLAYERNAME%？
+
+RESOURCE ID: quest_special_dialogue_froakie_0_4
+TEXT: 実際に見て確かめよう！
+
+RESOURCE ID: quest_special_dialogue_froakie_1_0
+TEXT: おかえり、%PLAYERNAME%。ケロマツだったね。
+
+RESOURCE ID: quest_special_dialogue_froakie_1_1
+TEXT: すぐ目の前に1匹が飛び出してきて、近くで見られたときにはうれしかったよ。
+
+RESOURCE ID: quest_special_dialogue_froakie_1_2
+TEXT: ケロマツが胸と背中から出す泡。弾力があるから、攻撃を受け止めることもできるって知っていたかな？
+
+RESOURCE ID: quest_special_dialogue_froakie_1_3
+TEXT: ゲコガシラに進化すると、身軽さが増すから、高いタワーのてっぺんまで素早く登りきることができる。
+
+RESOURCE ID: quest_special_dialogue_froakie_1_4
+TEXT: 進化させて素早さを確かめてみよう、%PLAYERNAME%！
+
+RESOURCE ID: quest_special_dialogue_froakie_2_0
+TEXT: その調子だ、%PLAYERNAME%。
+
+RESOURCE ID: quest_special_dialogue_froakie_2_1
+TEXT: ゲコガシラの泡、マフラーみたいでおしゃれじゃないか？ただの飾りではもちろんない。
+
+RESOURCE ID: quest_special_dialogue_froakie_2_2
+TEXT: 後ろ脚がずいぶんしっかりしてきて、全体的にスマートな印象だ。
+
+RESOURCE ID: quest_special_dialogue_froakie_2_3
+TEXT: ゲコガシラは、泡で包んだ小石を投げることができる。それも抜群のコントロールで。
+
+RESOURCE ID: quest_special_dialogue_froakie_2_4
+TEXT: タワーに登り、泡の小石を巧みに投げるポケモン。バトルで使って見てみたいな！
+
+RESOURCE ID: quest_special_dialogue_froakie_2_5
+TEXT: ゲッコウガに進化させるのが先かな。
+
+RESOURCE ID: quest_special_dialogue_froakie_2_6
+TEXT: さぁ、%PLAYERNAME%、進化させてみよう！
+
+RESOURCE ID: quest_special_dialogue_froakie_3_0
+TEXT: もうゲッコウガに進化できたのか、%PLAYERNAME%！
+
+RESOURCE ID: quest_special_dialogue_froakie_3_1
+TEXT: ゲッコウガの動き、目にもとまらぬ速さ、とはこのことだな。首に巻いている舌はけっこう重そうに見えるのに．．．。
+
+RESOURCE ID: quest_special_dialogue_froakie_3_2
+TEXT: 水を圧縮してつくる手裏剣も、高速回転させることができる。
+
+RESOURCE ID: quest_special_dialogue_froakie_3_3
+TEXT: あまりに高速で、金属も真っ二つにできるほどなんだ。
+
+RESOURCE ID: quest_special_dialogue_froakie_3_4
+TEXT: ただ、これは熟練トレーナーとの連携が必要なワザだろう。
+
+RESOURCE ID: quest_special_dialogue_froakie_3_5
+TEXT: 今日はこれくらいにしよう、%PLAYERNAME%。次にまた会える日を楽しみに。それまで元気にGOだ！
 
 RESOURCE ID: quest_special_dialogue_galarian_mrmime_0_0
 TEXT: %PLAYERNAME%！ちょうど良いところへきてくれた！ひとつ気になっていることがあるんだ。数日前のこと．．．
@@ -56014,6 +57201,135 @@ TEXT: やぁ、%PLAYERNAME%！ポケモンもたくさんいて、調べるこ�
 RESOURCE ID: quest_special_dialogue_searching_gold_june23_1_1
 TEXT: きみはどのポケモンと出会いたいと思っているかな？
 
+RESOURCE ID: quest_special_dialogue_season12_0_0
+TEXT: %PLAYERNAME%、パルデア地方に関する調査をお願いしたい。パルデアと呼ばれる地方について、わたしが読んだ研究資料にはこうあった。
+
+RESOURCE ID: quest_special_dialogue_season12_0_1
+TEXT: そびえ立つ山々や湖、荒野、険しい山岳地帯、それらがひと続きになっている。
+
+RESOURCE ID: quest_special_dialogue_season12_0_2
+TEXT: 農業が盛んな村や、活気のある市場がある港町もある。
+
+RESOURCE ID: quest_special_dialogue_season12_0_3
+TEXT: うーん、目の前に風景が浮かぶようだ．．．。
+
+RESOURCE ID: quest_special_dialogue_season12_0_4
+TEXT: 想像以上に素晴らしい場所なんだろうな。そして、木々の上や川の中など、至る所にポケモンたちがいる。
+
+RESOURCE ID: quest_special_dialogue_season12_a_1_0
+TEXT: いいと思う！ニャオハは、きまぐれで甘えん坊だが、生命のいぶきを感じられるポケモンだ。
+
+RESOURCE ID: quest_special_dialogue_season12_a_1_1
+TEXT: 体毛は植物に近い成分を含んでいるため、日光を吸収してエネルギーをつくることができるんだ。
+
+RESOURCE ID: quest_special_dialogue_season12_a_1_2
+TEXT: その体からは甘い香りを発していて、まわりを魅了する。日光に当たると、香りはさらに強まるらしい。
+
+RESOURCE ID: quest_special_dialogue_season12_a_1_3
+TEXT: 手始めに、ニャオハと同じタイプのポケモンを捕まえてみようか。
+
+RESOURCE ID: quest_special_dialogue_season12_a_2_0
+TEXT: おかえり、%PLAYERNAME%。ニャオハを捕まえたのか！
+
+RESOURCE ID: quest_special_dialogue_season12_a_2_1
+TEXT: ニャオハは、乾燥を防ぐために、こまめに顔を洗うんだ。手入れも植物に似ているな。
+
+RESOURCE ID: quest_special_dialogue_season12_a_2_2
+TEXT: そうした手入れの結果どうなるか．．．進化させて確かめてみよう！
+
+RESOURCE ID: quest_special_dialogue_season12_a_3_0
+TEXT: その調子だ、%PLAYERNAME%！ニャローテの首元のつぼみ、よく見てごらん。ツタの先端についているんだ。
+
+RESOURCE ID: quest_special_dialogue_season12_a_3_1
+TEXT: それに体毛。硬さが変化する。臨戦態勢になると、針のように鋭利になる。
+
+RESOURCE ID: quest_special_dialogue_season12_a_3_2
+TEXT: つぼみ自体は硬いぞ。敵に叩きつけて攻撃に使うほどだ。
+
+RESOURCE ID: quest_special_dialogue_season12_a_3_3
+TEXT: ニャローテは、寂しがり屋なところもあるから、一緒に冒険するときはよく気を配ってあげるといい。よろしく頼むよ、%PLAYERNAME%。
+
+RESOURCE ID: quest_special_dialogue_season12_a_4_0
+TEXT: すごいな！マスカーニャに進化させたんだな。浮いているように見える花だが、ちゃんと茎がある。カモフラージュされて見えないだけだ。
+
+RESOURCE ID: quest_special_dialogue_season12_a_4_1
+TEXT: 早速連れて冒険に出かけよう、%PLAYERNAME%！
+
+RESOURCE ID: quest_special_dialogue_season12_b_1_0
+TEXT: いいと思う！ホゲータは、エネルギーに満ちたポケモンだ。体内から溢れた炎エネルギーを頭のくぼみから放出させている。
+
+RESOURCE ID: quest_special_dialogue_season12_b_1_1
+TEXT: 手始めに、ホゲータと同じタイプのポケモンを捕まえてみようか。
+
+RESOURCE ID: quest_special_dialogue_season12_b_2_0
+TEXT: おかえり、%PLAYERNAME%。ホゲータを捕まえたのか！
+
+RESOURCE ID: quest_special_dialogue_season12_b_2_1
+TEXT: ホゲータには、四角いウロコがあるだろう？そこからエネルギーを取り込むんだ。温かい岩の上で寝転んだりして。
+
+RESOURCE ID: quest_special_dialogue_season12_b_2_2
+TEXT: アチゲータに進化すると、炎エネルギーはさらに強大になる。進化させて確かめてみよう！
+
+RESOURCE ID: quest_special_dialogue_season12_b_3_0
+TEXT: その調子だ、%PLAYERNAME%！アチゲータの頭の上にあるタマゴ型の火玉。何だと思う？
+
+RESOURCE ID: quest_special_dialogue_season12_b_3_1
+TEXT: 炎エネルギーと、有り余る生命力が交じりあったもの。
+
+RESOURCE ID: quest_special_dialogue_season12_b_3_2
+TEXT: アチゲータは、だみ声を上げながら炎を吐き散らすぞ。
+
+RESOURCE ID: quest_special_dialogue_season12_b_3_3
+TEXT: 炎を出すときに、声を一緒に出す習性があるからだ。気を付けるんだぞ！
+
+RESOURCE ID: quest_special_dialogue_season12_b_4_0
+TEXT: すごいな！ラウドボーンに進化させたんだな。その優しい歌声は、聴いた者の魂をいやす、と言われている。
+
+RESOURCE ID: quest_special_dialogue_season12_b_4_1
+TEXT: ただし、ラウドボーンの炎にはさらに注意が必要だぞ。なにしろ、3000度もあるんだ。
+
+RESOURCE ID: quest_special_dialogue_season12_b_4_2
+TEXT: 十分に注意して冒険に連れて行こう、%PLAYERNAME%！
+
+RESOURCE ID: quest_special_dialogue_season12_branch_0
+TEXT: どのポケモンについて詳しく知りたいかな、%PLAYERNAME%？選んで始めよう！
+
+RESOURCE ID: quest_special_dialogue_season12_c_1_0
+TEXT: いいと思う！クワッスは、きれい好きなポケモンだ。
+
+RESOURCE ID: quest_special_dialogue_season12_c_1_1
+TEXT: 羽から水や汚れをはじくジェルを分泌するからね。頭の毛はちゃんと撫でつけてられていて、いかにも清潔な感じがする。
+
+RESOURCE ID: quest_special_dialogue_season12_c_1_2
+TEXT: 手始めに、クワッスと同じタイプのポケモンを捕まえてみようか。
+
+RESOURCE ID: quest_special_dialogue_season12_c_2_0
+TEXT: おかえり、%PLAYERNAME%。クワッスを捕まえたのか！
+
+RESOURCE ID: quest_special_dialogue_season12_c_2_1
+TEXT: クワッスは、遠い土地からやって来てパルデア地方にすみついた。流れが急な川も自由に泳ぎまわることができる。
+
+RESOURCE ID: quest_special_dialogue_season12_c_2_2
+TEXT: ウェルカモに進化すると、その脚力がさらに増す。進化させて確かめてみよう！
+
+RESOURCE ID: quest_special_dialogue_season12_c_3_0
+TEXT: その調子だ、%PLAYERNAME%！ウェルカモの脚を観察してごらん。
+
+RESOURCE ID: quest_special_dialogue_season12_c_3_1
+TEXT: 浅瀬を走り込んだり、仲間同士で足技を競い合ったりして、常に鍛えているんだ。
+
+RESOURCE ID: quest_special_dialogue_season12_c_3_2
+TEXT: それに、様々な地方に生息するポケモンや人の動きを見て、自らの踊りに取り入れているらしい。
+
+RESOURCE ID: quest_special_dialogue_season12_c_3_3
+TEXT: 踊ってみせたら、取り入れてくれるかもしれないな．．．。
+
+RESOURCE ID: quest_special_dialogue_season12_c_4_0
+TEXT: すごいな！ウェーニバルに進化させたんだな。その脚力は、ひと蹴りでトラックを転がすほどの威力がある。そこから繰り出される踊りの軽快なこと。
+
+RESOURCE ID: quest_special_dialogue_season12_c_4_1
+TEXT: ステップを踏みながら一緒に冒険してみよう、%PLAYERNAME%！
+
 RESOURCE ID: quest_special_dialogue_season2_0_0
 TEXT: やぁ、%PLAYERNAME%！元気かな？
 
@@ -58754,6 +60070,21 @@ TEXT: コマドリポケモンを解明せよ！(3/4)
 RESOURCE ID: quest_title_flett_3
 TEXT: コマドリポケモンを解明せよ！(4/4)
 
+RESOURCE ID: quest_title_froakie
+TEXT: あわがえるポケモンを解明せよ！
+
+RESOURCE ID: quest_title_froakie_0
+TEXT: あわがえるポケモンを解明せよ！(1/4)
+
+RESOURCE ID: quest_title_froakie_1
+TEXT: あわがえるポケモンを解明せよ！(2/4)
+
+RESOURCE ID: quest_title_froakie_2
+TEXT: あわがえるポケモンを解明せよ！(3/4)
+
+RESOURCE ID: quest_title_froakie_3
+TEXT: あわがえるポケモンを解明せよ！(4/4)
+
 RESOURCE ID: quest_title_galarian_mrmime
 TEXT: ダンスポケモンを解明せよ！
 
@@ -59827,6 +61158,24 @@ TEXT: ねずみポケモンを解明せよ！(3/4)
 
 RESOURCE ID: quest_title_sandt_3
 TEXT: ねずみポケモンを解明せよ！(4/4)
+
+RESOURCE ID: quest_title_season12
+TEXT: パルデアの冒険
+
+RESOURCE ID: quest_title_season12_0
+TEXT: パルデアの冒険 (1/5)
+
+RESOURCE ID: quest_title_season12_1
+TEXT: パルデアの冒険 (2/5)
+
+RESOURCE ID: quest_title_season12_2
+TEXT: パルデアの冒険 (3/5)
+
+RESOURCE ID: quest_title_season12_3
+TEXT: パルデアの冒険 (4/5)
+
+RESOURCE ID: quest_title_season12_4
+TEXT: パルデアの冒険 (5/5)
 
 RESOURCE ID: quest_title_season2
 TEXT: 神話を読み解け！
@@ -61034,6 +62383,12 @@ TEXT: CP1,500以下のポケモンのみを使い3つ星レイドで{0}回勝つ
 
 RESOURCE ID: quest_win_raid_lvl3plus_less1500cp_singular
 TEXT: CP1,500以下のポケモンのみを使い3つ星レイドで勝つ
+
+RESOURCE ID: quest_win_raid_lvl3plus_less2500cp_plural
+TEXT: CP2500以下のポケモンのみを使い3つ星レイドで{0}回勝つ
+
+RESOURCE ID: quest_win_raid_lvl3plus_less2500cp_singular
+TEXT: CP2500以下のポケモンのみを使い3つ星レイドで勝つ
 
 RESOURCE ID: quest_win_raid_plural
 TEXT: レイドバトルで{0}回勝つ
@@ -66522,14 +67877,8 @@ TEXT: GOロケット団占拠
 RESOURCE ID: route_about_label
 TEXT: 詳細
 
-RESOURCE ID: route_about_title
-TEXT: ルート詳細：
-
 RESOURCE ID: route_actions_label
 TEXT: できること
-
-RESOURCE ID: route_add_point
-TEXT: ストップとして設定
 
 RESOURCE ID: route_cancel_description
 TEXT: このルートを歩き始めると、{0}での進捗は失われ、再び遊ぶには{1}分待つ必要があります
@@ -66537,38 +67886,20 @@ TEXT: このルートを歩き始めると、{0}での進捗は失われ、再�
 RESOURCE ID: route_cancel_description_same_route
 TEXT: このルートを再開すると{0}の進捗は失われます
 
-RESOURCE ID: route_cancel_start_new_button
-TEXT: 新規作成
-
 RESOURCE ID: route_cancel_title
 TEXT: 新ルートを歩きますか？
 
 RESOURCE ID: route_cancel_title_same_route
 TEXT: このルートを再開しますか？
 
-RESOURCE ID: route_cannot_delete_route_in_review_prompt
-TEXT: [placeholder on client]
-
-RESOURCE ID: route_cannot_delete_route_in_review_title
-TEXT: 削除できません
-
-RESOURCE ID: route_cannot_edit_routes_in_review
-TEXT: 審査中のルートを編集できません
-
 RESOURCE ID: route_change_endpoint_error
 TEXT: ゴール地点設定エラー
-
-RESOURCE ID: route_checkpoint_general
-TEXT: ストップ
 
 RESOURCE ID: route_collapsed_show_more
 TEXT: もっと見る ({0})
 
 RESOURCE ID: route_community_plays_label
 TEXT: コミュニティが遊んだ回数
-
-RESOURCE ID: route_completion_congratulation
-TEXT: やったー！
 
 RESOURCE ID: route_completion_explored_count_plural
 TEXT: このルートを
@@ -66578,29 +67909,11 @@ RESOURCE ID: route_completion_explored_count_singular
 TEXT: このルートを
 1回歩きました！
 
-RESOURCE ID: route_completion_get_medal
-TEXT: {0}メダルを手に入れた！
-
 RESOURCE ID: route_completion_great_job
 TEXT: 完了！
 
-RESOURCE ID: route_completion_once
-TEXT: {0}：1回利用
-
-RESOURCE ID: route_completion_repeat
-TEXT: {0}：{1}回利用
-
-RESOURCE ID: route_cooldown_toast_already_walking_this_route
-TEXT: このルートを遊んでいます
-
 RESOURCE ID: route_cooldown_toast_hour
 TEXT: このルートを遊ぶには1時間待つ必要があります
-
-RESOURCE ID: route_cooldown_toast_hour_and_minute
-TEXT: このルートを遊ぶには1時間1分待つ必要があります
-
-RESOURCE ID: route_cooldown_toast_hour_and_minutes
-TEXT: このルートを遊ぶには1時間{0}分待つ必要があります
 
 RESOURCE ID: route_cooldown_toast_hours
 TEXT: このルートを遊ぶには{0}時間待つ必要があります
@@ -66608,23 +67921,8 @@ TEXT: このルートを遊ぶには{0}時間待つ必要があります
 RESOURCE ID: route_cooldown_toast_hours_and_minute
 TEXT: このルートを遊ぶには{0}時間{1}分待つ必要があります
 
-RESOURCE ID: route_cooldown_toast_hours_and_minutes
-TEXT: このルートを遊ぶには{0}時間{1}分待つ必要があります
-
-RESOURCE ID: route_cooldown_toast_minute
-TEXT: このルートを遊ぶには{0}分待つ必要があります
-
-RESOURCE ID: route_cooldown_toast_minutes
-TEXT: このルートを遊ぶには{0}分待つ必要があります
-
 RESOURCE ID: route_create_action_menu_header
 TEXT: できること：
-
-RESOURCE ID: route_create_medal_context_page
-TEXT: 他のトレーナーがあなたのつくったルートを完了したときにもらえるメダルの画像と色を選びます
-
-RESOURCE ID: route_create_medal_context_title
-TEXT: ルートメダル
 
 RESOURCE ID: route_create_play_conflict_error_a
 TEXT: ルート作成中に別のルートを歩くことはできません
@@ -66747,6 +68045,9 @@ TEXT: 操作を実行できません
 RESOURCE ID: route_creation_go_to_start
 TEXT: スタート地点に向かってください。そこから道筋の記録を始めます。
 
+RESOURCE ID: route_creation_header_label
+TEXT: 作成したルート
+
 RESOURCE ID: route_creation_max_distance_exceeded_description
 TEXT: 最長距離を超えたため、ルート作成を続けることができません。
 
@@ -66861,12 +68162,6 @@ TEXT: ルート作成者
 RESOURCE ID: route_creator_stats_label
 TEXT: 作成者情報
 
-RESOURCE ID: route_data_onboarding_page_1
-TEXT: 作成したルートについて周りの人に教えてあげましょう！
-
-RESOURCE ID: route_data_onboarding_title_1
-TEXT: ルートデータを入力
-
 RESOURCE ID: route_decayed_description
 TEXT: このルートはアーカイブされました
 
@@ -66877,18 +68172,6 @@ TEXT: {0}は必要回数プレイされなかったためアーカイブされ�
 RESOURCE ID: route_decayed_modal_title
 TEXT: {0}はアーカイブされました
 
-RESOURCE ID: route_denial_exceeds_max_total_distance
-TEXT: このポケストップ／ジムを追加するとルート上限距離{0}メートルを超えます
-
-RESOURCE ID: route_denial_too_close_to_last_poi
-TEXT: このポケストップは最後のストップに近すぎます。少なくとも{0}メートル以上離れている必要があります。
-
-RESOURCE ID: route_denial_too_far_away_from_last_poi
-TEXT: このポケストップは最後のストップから遠すぎます。{0}メートルより短い距離内にある必要があります。
-
-RESOURCE ID: route_denial_too_many_stops_in_route
-TEXT: このルートにはポケストップ・ジム上限{0}個を含んでいます
-
 RESOURCE ID: route_detail_rejected_delete_button
 TEXT: 削除
 
@@ -66897,6 +68180,15 @@ TEXT: このルートは却下されました。
 
 RESOURCE ID: route_detail_under_review_withdraw_button
 TEXT: 審査申請を取り下げる
+
+RESOURCE ID: route_details_end_label
+TEXT: ゴール地点：
+
+RESOURCE ID: route_details_loop_label
+TEXT: スタート・ゴール地点：
+
+RESOURCE ID: route_details_start_label
+TEXT: スタート地点：
 
 RESOURCE ID: route_discovery_tab_all
 TEXT: すべて
@@ -66915,9 +68207,6 @@ TEXT: 人気
 
 RESOURCE ID: route_distance_walked_label
 TEXT: ルート上で歩いた距離
-
-RESOURCE ID: route_earned_new_stamp
-TEXT: 新スタンプをゲットした！
 
 RESOURCE ID: route_edit_button
 TEXT: 編集を続ける
@@ -67012,17 +68301,11 @@ TEXT: 操作が完了できませんでした。再度お試しください。
 RESOURCE ID: route_error_unable_to_edit
 TEXT: このルートは編集できません。つくったルートリストを更新してこのルートの状況に変化があったか確認してください。
 
-RESOURCE ID: route_expired_error
-TEXT: 現在のルートは期限切れです
-
 RESOURCE ID: route_first_play_date_label
 TEXT: 初回
 
 RESOURCE ID: route_frame_select_subtitle
 TEXT: プレビュー
-
-RESOURCE ID: route_frame_select_title
-TEXT: メダルプレビューを選ぶ
 
 RESOURCE ID: route_general
 TEXT: ルート
@@ -67030,32 +68313,17 @@ TEXT: ルート
 RESOURCE ID: route_general_plural
 TEXT: ルート
 
-RESOURCE ID: route_get_route_maker
-TEXT: ルートメーカーを入手
-
-RESOURCE ID: route_icon_select_subtitle
-TEXT: 全トレーナーから見えます
-
-RESOURCE ID: route_icon_select_title
-TEXT: ルートメダルの画像を選ぶ
-
 RESOURCE ID: route_km_label
 TEXT: {0} km
 
 RESOURCE ID: route_last_play_date_label
 TEXT: 最終回
 
+RESOURCE ID: route_learn_more_url
+TEXT: https://niantic.helpshift.com/hc/faq/4184-routes-faq/
+
 RESOURCE ID: route_level
 TEXT: レベル{0}
-
-RESOURCE ID: route_list_context_page
-TEXT: ここからポケストップ／ジムの順番を変えたり変更したりする
-
-RESOURCE ID: route_list_context_title
-TEXT: ポケストップ／ジムリスト
-
-RESOURCE ID: route_list_item_default_description
-TEXT: タップしてルート作成をスタート
 
 RESOURCE ID: route_list_item_default_title
 TEXT: ルート No.{0}
@@ -67065,12 +68333,6 @@ TEXT: ローディングに時間がかかりすぎました。もう一度や�
 
 RESOURCE ID: route_m_label
 TEXT: {0} m
-
-RESOURCE ID: route_maker_item_confirmation_description
-TEXT: アクティブなルートメーカーはここに表示されます
-
-RESOURCE ID: route_maker_max_warning
-TEXT: ルートメーカーの上限数を持っています。ルートをつくって承認を受けてください。
 
 RESOURCE ID: route_map_out_of_bound_warning
 TEXT: 離れすぎています
@@ -67093,22 +68355,8 @@ TEXT: {0}分
 RESOURCE ID: route_move_closer_to_resume
 TEXT: 一時停止した場所まで戻り、記録を再開してください
 
-RESOURCE ID: route_nearby_help_distance
-TEXT: 現在位置から
-スタート地点までの距離
-
-RESOURCE ID: route_nearby_help_duration
-TEXT: スタート地点から
-ゴール地点までの推定所要時間
-
 RESOURCE ID: route_nearby_help_official_route
 TEXT: NIANTICパートナーによりつくられたルートにこのラベルが付きます
-
-RESOURCE ID: route_nearby_help_played_time
-TEXT: このルートが遊ばれた回数
-
-RESOURCE ID: route_nearby_help_title
-TEXT: ルート情報
 
 RESOURCE ID: route_nearby_label
 TEXT: {0}個のルート
@@ -67122,42 +68370,14 @@ TEXT: 近くのルート ({0})
 RESOURCE ID: route_not_playable
 TEXT: このルートは現在遊べません
 
-RESOURCE ID: route_notification_resume
-TEXT: ルート範囲内に入りました。
-再びアクティブ状態に切り替わりました！
-
-RESOURCE ID: route_one_time_label
-TEXT: 1回
-
 RESOURCE ID: route_out_of_range
 TEXT: 遠すぎるためこのルートをスタートできません
-
-RESOURCE ID: route_pause_description
-TEXT: ルートの範囲外に出たため一時停止されました。次のストップへ向けて歩くことで自動的に再開されます。
 
 RESOURCE ID: route_pause_label
 TEXT: 一時停止
 
-RESOURCE ID: route_pause_prompt
-TEXT: 進捗は保存されます。道具からルートメーカーを選んでいつでも続行できます。
-
-RESOURCE ID: route_pause_stamp_cancel
-TEXT: (このルートは{0}後にキャンセルされます)
-
-RESOURCE ID: route_pause_stamp_cancel_less_than
-TEXT: (このルートは{0}時間内にキャンセルされます)
-
-RESOURCE ID: route_pause_stamp_cancel_singular
-TEXT: (このルートは{0}時間後にキャンセルされます)
-
-RESOURCE ID: route_pause_stamp_message
-TEXT: {0}は範囲外に出たため一時停止されました。次のストップである"<color=#{1}>{2}</color>”へ向けて歩くと再開されます。
-
 RESOURCE ID: route_pause_title
 TEXT: 一時停止しました
-
-RESOURCE ID: route_paused_prompt
-TEXT: {0}として保存されました
 
 RESOURCE ID: route_paused_title
 TEXT: ルート作成一時停止
@@ -67170,18 +68390,6 @@ TEXT: ピンを選ぶ
 
 RESOURCE ID: route_pin_title_edit
 TEXT: ピンのタイトル編集
-
-RESOURCE ID: route_planning_context_page
-TEXT: ここでプランニングを開始
-
-RESOURCE ID: route_planning_context_title
-TEXT: ルートをプランニング
-
-RESOURCE ID: route_planning_must_add_more_pois
-TEXT: ポケストップ／ジムを少なくとも{0}個追加してください
-
-RESOURCE ID: route_planning_must_add_one_poi
-TEXT: ポケストップ／ジムを少なくとも1個追加してください
 
 RESOURCE ID: route_play_adsync_breadcrumb_notification
 TEXT: ルート歩行進行中
@@ -67216,6 +68424,12 @@ TEXT: ルート完了の条件を満たしていません
 
 RESOURCE ID: route_play_detail_map_soon
 TEXT: ルートプレビューマップは現在表示できません
+
+RESOURCE ID: route_play_end_point_push_notification
+TEXT: ゴール地点が近い！
+
+RESOURCE ID: route_play_end_point_push_notification_description
+TEXT: ゲームを開いてルートを完了
 
 RESOURCE ID: route_play_hoo_warning_button
 TEXT: ルートを遊ぶ
@@ -67271,24 +68485,6 @@ TEXT: ルート歩行を再開しました
 RESOURCE ID: route_play_travel_distance
 TEXT: 現在の距離：
 
-RESOURCE ID: route_poi_list_view_description_short_tip
-TEXT: ポケストップ／ジムを少なくとも{0}個追加してください
-
-RESOURCE ID: route_poi_list_view_description_tip
-TEXT: 訪れる順番でポケストップ／ジムを選んで追加してください
-
-RESOURCE ID: route_poi_list_view_max_wp_tip
-TEXT: 上限個数のポケストップ／ジムが含まれています
-
-RESOURCE ID: route_poi_list_view_start_point_tip
-TEXT: スタート地点を選ぶ
-
-RESOURCE ID: route_poi_list_view_total_distance
-TEXT: 総距離：{0}メートル
-
-RESOURCE ID: route_poi_list_view_total_time
-TEXT: 推定所要時間：{0}分
-
 RESOURCE ID: route_pokemon_caught_label
 TEXT: ルートで捕まえたポケモン
 
@@ -67301,71 +68497,14 @@ TEXT: 発表済みルート
 RESOURCE ID: route_quit_label
 TEXT: ルートを終了
 
-RESOURCE ID: route_rating_button
-TEXT: 評価
-
 RESOURCE ID: route_rating_description
 TEXT: このルートを楽しめましたか？評価をお願いします。
 
 RESOURCE ID: route_rating_percentage_label
 TEXT: {0}%
 
-RESOURCE ID: route_rating_reason
-TEXT: 複数選択可
-
-RESOURCE ID: route_rating_reason_bad_accessibility
-TEXT: アクセスできない
-
-RESOURCE ID: route_rating_reason_bad_accuracy
-TEXT: 正確でない
-
-RESOURCE ID: route_rating_reason_bad_length
-TEXT: 不適切な長さ
-
-RESOURCE ID: route_rating_reason_bad_location
-TEXT: 関係のない場所
-
-RESOURCE ID: route_rating_reason_good_destination
-TEXT: 到着地が良い
-
-RESOURCE ID: route_rating_reason_good_learning
-TEXT: 学びが多い
-
-RESOURCE ID: route_rating_reason_good_location
-TEXT: 場所が良い
-
-RESOURCE ID: route_rating_reason_good_walk
-TEXT: 歩くのに良い
-
-RESOURCE ID: route_rating_theme
-TEXT: テーマを決める
-
-RESOURCE ID: route_rating_theme_architecture
-TEXT: 建築
-
 RESOURCE ID: route_rating_theme_art
 TEXT: アート
-
-RESOURCE ID: route_rating_theme_casual
-TEXT: カジュアル
-
-RESOURCE ID: route_rating_theme_culture
-TEXT: 文化
-
-RESOURCE ID: route_rating_theme_food
-TEXT: グルメ
-
-RESOURCE ID: route_rating_theme_history
-TEXT: 歴史
-
-RESOURCE ID: route_rating_theme_nature
-TEXT: 自然
-
-RESOURCE ID: route_rating_theme_sightseeing
-TEXT: 観光
-
-RESOURCE ID: route_rating_title
-TEXT: このルートはどうでしたか？
 
 RESOURCE ID: route_recording_paused
 TEXT: ルート記録を一時停止しました
@@ -67394,24 +68533,8 @@ TEXT: 編集して再提出
 RESOURCE ID: route_rejection_title
 TEXT: このルートは却下されました
 
-RESOURCE ID: route_remove_from_route
-TEXT: ルートから除く
-
 RESOURCE ID: route_report_body
 TEXT: 寄せられた報告は、Nianticのポリシーに沿って審査を行い適切な措置を決定します。報告者の情報がルート作成者に共有されることはありません。送信することで報告の内容が真実であることを確認・証明したものとみなします。
-
-RESOURCE ID: route_report_cancel_message
-TEXT: この報告を送信すると、このルートはキャンセルされます
-
-RESOURCE ID: route_report_description
-TEXT: どのような問題が起きましたか？
-ご説明をお願いします。
-
-RESOURCE ID: route_report_dont_know
-TEXT: わからない
-
-RESOURCE ID: route_report_permanent
-TEXT: 恒久的な問題
 
 RESOURCE ID: route_report_submit_description
 TEXT: ご報告ありがとうございます。ルート体験が中断された場合は、ご迷惑をおかけして申し訳ございません。
@@ -67422,9 +68545,6 @@ TEXT: ご報告ありがとうございます。ルート体験が中断され�
 RESOURCE ID: route_report_submit_title
 TEXT: 報告送信完了
 
-RESOURCE ID: route_report_temporary
-TEXT: 一時的な問題
-
 RESOURCE ID: route_report_title
 TEXT: このルートを報告する
 
@@ -67433,12 +68553,6 @@ TEXT: このルートに関する報告を送信すると、現在のセッシ�
 
 RESOURCE ID: route_report_warning_title
 TEXT: このルートを報告しますか？
-
-RESOURCE ID: route_reset_modal_promot
-TEXT: リセットするとルートに付けられたすべての情報が削除されます。リセットしてもいいですか？
-
-RESOURCE ID: route_reset_modal_title
-TEXT: ルートリセット
 
 RESOURCE ID: route_resume_label
 TEXT: 再開
@@ -67449,14 +68563,8 @@ TEXT: ルート方向を逆転しました
 RESOURCE ID: route_reversible_notice_label
 TEXT: このルートは逆に歩くことが可能です
 
-RESOURCE ID: route_review_submission_page
-TEXT: 提出前に入力した情報をご確認ください
-
 RESOURCE ID: route_review_submission_title
 TEXT: 審査
-
-RESOURCE ID: route_set_start_point
-TEXT: スタート地点として設定
 
 RESOURCE ID: route_sort_category
 TEXT: テーマ
@@ -67472,21 +68580,6 @@ TEXT: 近さ
 
 RESOURCE ID: route_sort_rating
 TEXT: 評価
-
-RESOURCE ID: route_spinning_add_to_route
-TEXT: このポケストップ／ジムはルートに含まれていません。追加しますか？
-
-RESOURCE ID: route_spinning_poi_out_of_order
-TEXT: ポケストップ／ジムを順番に訪れフォトディスクを回してください
-
-RESOURCE ID: route_spinning_visit_poi
-TEXT: フォトディスクを回して検証を終えてください
-
-RESOURCE ID: route_stamp_category
-TEXT: デフォルト
-
-RESOURCE ID: route_stamp_category_default
-TEXT: スタンプ
 
 RESOURCE ID: route_stamps_header
 TEXT: スタンプ
@@ -67512,26 +68605,14 @@ TEXT: 却下
 RESOURCE ID: route_status_submitted
 TEXT: 審査中
 
-RESOURCE ID: route_status_time_stamp_saved
-TEXT: 最後の保存日：{0}
-
 RESOURCE ID: route_status_time_stamp_submitted
 TEXT: 提出日：{0}
-
-RESOURCE ID: route_stop_button
-TEXT: 中止する
 
 RESOURCE ID: route_stop_description
 TEXT: このルートを歩くのをやめると、進捗は失われます。この操作は元に戻せません。
 
 RESOURCE ID: route_stop_report
 TEXT: エラーが発生して続けられない場合<color=#{0}>こちら</color>からお問い合わせください。
-
-RESOURCE ID: route_stop_start_new_button
-TEXT: 新規作成
-
-RESOURCE ID: route_stop_start_new_button_same_route
-TEXT: ルート再開
 
 RESOURCE ID: route_stop_title
 TEXT: このルートを歩くのをやめてもいいですか？
@@ -67572,14 +68653,8 @@ TEXT: 無効なルート画像
 RESOURCE ID: route_submission_bad_name
 TEXT: タイトルに不適切な内容が含まれています
 
-RESOURCE ID: route_submission_badge_creation_title
-TEXT: メダル作成
-
 RESOURCE ID: route_submission_badge_image_prompt
 TEXT: バッジにつける画像を選択：
-
-RESOURCE ID: route_submission_choose_icon
-TEXT: このルートメダルのアイコンを選んでください
 
 RESOURCE ID: route_submission_color_tab_name
 TEXT: 色
@@ -67640,6 +68715,9 @@ TEXT: あなたのルートが発表されました！
 RESOURCE ID: route_submission_result_reject_description
 TEXT: ルートのタイトル・説明に不適切な文言もしくはリンクがあったため却下されました。このルートを編集して再提出することはできません。
 
+RESOURCE ID: route_submission_result_reject_reasons_generic
+TEXT: ルートの要件を満たさなかったか、ルートガイドラインに抵触しました。
+
 RESOURCE ID: route_submission_result_reject_reasons_primary
 TEXT: 以下の理由で却下されました。
 
@@ -67655,17 +68733,11 @@ TEXT: ルート詳細画面でいつでも確認できます。承認時はメ�
 RESOURCE ID: route_submission_result_success_title
 TEXT: ルートを提出しました！
 
-RESOURCE ID: route_submission_result_too_many_recent
-TEXT: 提出されたルートの数が多すぎます。しばらくしてから再度お試しください。
-
 RESOURCE ID: route_submission_result_unavailiable
 TEXT: ルート提出ができません。しばらくしてから再度お試しください。
 
 RESOURCE ID: route_submission_result_unknown_error
 TEXT: 提出エラー。しばらくしてから再度お試しください。
-
-RESOURCE ID: route_submission_result_unvisited_fort
-TEXT: ルート上のすべてのポケストップ／ジムを訪れてください
 
 RESOURCE ID: route_submission_reversible
 TEXT: このルートは逆順で歩くことができますか？
@@ -67717,12 +68789,6 @@ TEXT: いま書く
 
 RESOURCE ID: route_submit_label
 TEXT: 送信
-
-RESOURCE ID: route_submitted_confirmation_description
-TEXT: ルートを提出しました。ルートメーカー画面に審査結果が表示されます。
-
-RESOURCE ID: route_submitted_confirmation_title
-TEXT: 提出完了！
 
 RESOURCE ID: route_tag_art
 TEXT: アート
@@ -67826,68 +68892,11 @@ TEXT: このルートの審査申請を取り下げました
 RESOURCE ID: route_unsubmit_label
 TEXT: 提出キャンセル
 
-RESOURCE ID: route_validation_celebration
-TEXT: ルートを検証できました！つくったルートに情報を追加しましょう。
-
-RESOURCE ID: route_validation_description
-TEXT: これらの問題を解決してから提出してください
-
 RESOURCE ID: route_validation_description_length
 TEXT: {0}文字を超えるルート説明は付けられません
 
-RESOURCE ID: route_validation_first_waypoint
-TEXT: ルートのスタート地点はポケストップ／ジムである必要があります
-
-RESOURCE ID: route_validation_last_waypoint
-TEXT: 最後のポイントはポケストップ／ジムである必要があります
-
-RESOURCE ID: route_validation_max_checkpoint
-TEXT: ルートには{0}より多いストップを含めることはできません
-
-RESOURCE ID: route_validation_max_checkpoint_between_poi
-TEXT: {1}番と{2}番ストップの間には{0}より多いポイントを含めることはできません
-
-RESOURCE ID: route_validation_max_checkpoint_per_distance
-TEXT: ルートには{0}メートル毎に1個のストップしか追加できません。ストップが多すぎます。
-
-RESOURCE ID: route_validation_max_distance_checkpoint
-TEXT: {0}番ストップは{1}メートルより遠くには置けません
-
-RESOURCE ID: route_validation_max_distance_poi
-TEXT: {0}番と{1}番ストップの間の距離は{2}メートルを超えてはいけません
-
-RESOURCE ID: route_validation_max_length
-TEXT: {0}メートルより長いルートはつくれません
-
-RESOURCE ID: route_validation_max_poi
-TEXT: ルートには{0}より多いポケストップ／ジムを含めることはできません
-
-RESOURCE ID: route_validation_min_distance_checkpoint
-TEXT: {0}番ストップは少なくとも{1}メートル離れている必要があります
-
-RESOURCE ID: route_validation_min_distance_poi
-TEXT: {0}番と{1}番ストップ間の距離は{2}メートルを超える必要があります
-
-RESOURCE ID: route_validation_min_length
-TEXT: {0}メートルより短いルートはつくれません
-
-RESOURCE ID: route_validation_min_poi
-TEXT: ルートには少なくともポケストップ／ジム{0}個が含まれている必要があります
-
-RESOURCE ID: route_validation_poi_not_verified
-TEXT: {0}番ストップを訪れてフォトディスクを回し検証してください
-
-RESOURCE ID: route_validation_pois_not_loaded
-TEXT: このルートから遠すぎるため検証できません
-
-RESOURCE ID: route_validation_title
-TEXT: ルート検証
-
 RESOURCE ID: route_validation_title_length
 TEXT: {0}文字を超えるルートタイトルは付けられません
-
-RESOURCE ID: route_view_stamp_button
-TEXT: ルート詳細
 
 RESOURCE ID: route_waiting_for_data
 TEXT: データロード中
@@ -67895,32 +68904,11 @@ TEXT: データロード中
 RESOURCE ID: route_walk_button
 TEXT: 歩く
 
-RESOURCE ID: route_walking_all_waypoints_verified
-TEXT: ルート上のすべてのストップを回しました！
-
-RESOURCE ID: route_walking_context_page
-TEXT: 各ポケストップ／ジムを訪れフォトディスクを回す
-
-RESOURCE ID: route_walking_context_title
-TEXT: ルートを歩く
-
-RESOURCE ID: route_walking_first_poi_spin
-TEXT: スタート地点です。フォトディスクを回して検証してください。
-
 RESOURCE ID: route_walking_follow_path
 TEXT: 道筋に沿ってゴール地点まで歩いてください
 
 RESOURCE ID: route_walking_head_to_start
 TEXT: スタート地点へ行きこのルートを始めてください
-
-RESOURCE ID: route_walking_head_to_waypoint
-TEXT: {0}番ストップの「{1}」へ行きディスクを回してください
-
-RESOURCE ID: route_walking_poi_spin
-TEXT: {0}番ストップ：{1}です。フォトディスクを回して検証してください。
-
-RESOURCE ID: route_walking_poi_verified
-TEXT: ルートのポケストップ／ジムは検証されました
 
 RESOURCE ID: route_weekly_community_activity_label
 TEXT: 今週のコミュニティアクティビティ
@@ -67930,17 +68918,6 @@ TEXT: プレイ回数
 
 RESOURCE ID: route_your_plays_label
 TEXT: 自分で遊んだ回数
-
-RESOURCE ID: route_zero_route_maker_desc
-TEXT: ルートメーカーを持っていません。
-
-新規作成にはルートメーカーが必要です。
-
-RESOURCE ID: routemaker_description
-TEXT: ルートをつくれる装置。一度に5個まで持てる。
-
-RESOURCE ID: routemaker_title
-TEXT: ルートメーカー
 
 RESOURCE ID: routes_begin_creation_button
 TEXT: 確定して次へ
@@ -67963,8 +68940,8 @@ TEXT: すでにスタート地点に設定しています
 RESOURCE ID: routes_end_at
 TEXT: 終わり：
 
-RESOURCE ID: routes_general
-TEXT: ルートメーカー
+RESOURCE ID: routes_nearby_notification
+TEXT: 近くにルートがあります！
 
 RESOURCE ID: routes_no_endpoint_selection_made
 TEXT: 未設定
@@ -68278,6 +69255,78 @@ TEXT: Safari Zone: ポケモンを捕まえるときにズリのみ{0}個を使�
 
 RESOURCE ID: safari_buddy_snapshot
 TEXT: Safari Zone: 相棒のポケモンのGOスナップショット写真を撮る
+
+RESOURCE ID: safari_city_leave_behind_title_barcelona
+TEXT: バルセロナシティサファリ：コンティニュー
+
+RESOURCE ID: safari_city_leave_behind_title_barcelona_00
+TEXT: バルセロナシティサファリ：コンティニュー(1/7)
+
+RESOURCE ID: safari_city_leave_behind_title_barcelona_01
+TEXT: バルセロナシティサファリ：コンティニュー(2/7)
+
+RESOURCE ID: safari_city_leave_behind_title_barcelona_02
+TEXT: バルセロナシティサファリ：コンティニュー(3/7)
+
+RESOURCE ID: safari_city_leave_behind_title_barcelona_03
+TEXT: バルセロナシティサファリ：コンティニュー(4/7)
+
+RESOURCE ID: safari_city_leave_behind_title_barcelona_04
+TEXT: バルセロナシティサファリ：コンティニュー(5/7)
+
+RESOURCE ID: safari_city_leave_behind_title_barcelona_05
+TEXT: バルセロナシティサファリ：コンティニュー(6/7)
+
+RESOURCE ID: safari_city_leave_behind_title_barcelona_06
+TEXT: バルセロナシティサファリ：コンティニュー(7/7)
+
+RESOURCE ID: safari_city_leave_behind_title_mxc
+TEXT: メキシコシティシティサファリ：コンティニュー
+
+RESOURCE ID: safari_city_leave_behind_title_mxc_00
+TEXT: メキシコシティシティサファリ：コンティニュー(1/7)
+
+RESOURCE ID: safari_city_leave_behind_title_mxc_01
+TEXT: メキシコシティシティサファリ：コンティニュー(2/7)
+
+RESOURCE ID: safari_city_leave_behind_title_mxc_02
+TEXT: メキシコシティシティサファリ：コンティニュー(3/7)
+
+RESOURCE ID: safari_city_leave_behind_title_mxc_03
+TEXT: メキシコシティシティサファリ：コンティニュー(4/7)
+
+RESOURCE ID: safari_city_leave_behind_title_mxc_04
+TEXT: メキシコシティシティサファリ：コンティニュー(5/7)
+
+RESOURCE ID: safari_city_leave_behind_title_mxc_05
+TEXT: メキシコシティシティサファリ：コンティニュー(6/7)
+
+RESOURCE ID: safari_city_leave_behind_title_mxc_06
+TEXT: メキシコシティシティサファリ：コンティニュー(7/7)
+
+RESOURCE ID: safari_city_leave_behind_title_seoul
+TEXT: ソウルシティサファリ：コンティニュー
+
+RESOURCE ID: safari_city_leave_behind_title_seoul_00
+TEXT: ソウルシティサファリ：コンティニュー(1/7)
+
+RESOURCE ID: safari_city_leave_behind_title_seoul_01
+TEXT: ソウルシティサファリ：コンティニュー(2/7)
+
+RESOURCE ID: safari_city_leave_behind_title_seoul_02
+TEXT: ソウルシティサファリ：コンティニュー(3/7)
+
+RESOURCE ID: safari_city_leave_behind_title_seoul_03
+TEXT: ソウルシティサファリ：コンティニュー(4/7)
+
+RESOURCE ID: safari_city_leave_behind_title_seoul_04
+TEXT: ソウルシティサファリ：コンティニュー(5/7)
+
+RESOURCE ID: safari_city_leave_behind_title_seoul_05
+TEXT: ソウルシティサファリ：コンティニュー(6/7)
+
+RESOURCE ID: safari_city_leave_behind_title_seoul_06
+TEXT: ソウルシティサファリ：コンティニュー(7/7)
 
 RESOURCE ID: safari_event
 TEXT: Pokémon GO Safari
@@ -68659,11 +69708,41 @@ TEXT: 輝くリサーチデイ：タイムチャレンジ
 RESOURCE ID: season10_tr_willow_title
 TEXT: 博士の冒険チャレンジ
 
+RESOURCE ID: season12_branch_1_button_key
+TEXT: ニャオハと冒険
+
+RESOURCE ID: season12_branch_1_description_key
+TEXT: この道を選ぶとニャオハと冒険できます。
+
+RESOURCE ID: season12_branch_1_title_key
+TEXT: ニャオハと冒険
+
+RESOURCE ID: season12_branch_2_button_key
+TEXT: ホゲータと冒険
+
+RESOURCE ID: season12_branch_2_description_key
+TEXT: この道を選ぶとホゲータと冒険できます。
+
+RESOURCE ID: season12_branch_2_title_key
+TEXT: ホゲータと冒険
+
+RESOURCE ID: season12_branch_3_button_key
+TEXT: クワッスと冒険
+
+RESOURCE ID: season12_branch_3_description_key
+TEXT: この道を選ぶとクワッスと冒険できます。
+
+RESOURCE ID: season12_branch_3_title_key
+TEXT: クワッスと冒険
+
 RESOURCE ID: season_gbl_forecast_title_10
 TEXT: シーズン10：ライジングヒーロー
 
 RESOURCE ID: season_gbl_forecast_title_11
 TEXT: Pokémon GO：隠された宝石
+
+RESOURCE ID: season_gbl_forecast_title_12
+TEXT: 現在のシーズン：冒険の日々
 
 RESOURCE ID: season_gbl_forecast_title_7
 TEXT: シーズンオブGO
@@ -69062,6 +70141,12 @@ TEXT: キャッシュクリアを行い
 
 RESOURCE ID: settings_resources_str
 TEXT: ヒントと資料
+
+RESOURCE ID: settings_route_guidance
+TEXT: ルートのガイダンス
+
+RESOURCE ID: settings_route_guidance_tip
+TEXT: ルートのゴール地点にいるか何か不思議なものが現れたときに通知
 
 RESOURCE ID: settings_select_legendary_label
 TEXT: 拡張選択
@@ -70252,6 +71337,9 @@ TEXT: フォッコがより多く野生で出現
 
 RESOURCE ID: spawn_fletchling
 TEXT: ヤヤコマがより多く野生で出現
+
+RESOURCE ID: spawn_froakie
+TEXT: ケロマツがより多く野生で出現
 
 RESOURCE ID: spawn_gastly
 TEXT: ゴースがより多く野生で出現
@@ -72588,7 +73676,7 @@ TEXT: アカウント凍結のお知らせ
 アカウント凍結状態は、約30日間続きます。その後も不正なアクセスが継続されていると認められた場合、アカウントが永久に停止されます。
 
 RESOURCE ID: suspension_rate_limit_desc
-TEXT: <0>初回（24時間）：</0><1/>お持ちのアカウントで異常なアクティビティが検出されたため、ゲームプレイを一時的に制限しました。
+TEXT: お持ちのアカウントで異常なアクティビティが検出されたため、ゲームプレイを一時的に制限しました。
 
 RESOURCE ID: switch_sleep_warning
 TEXT: スマートデバイスがスリープ状態になるなどして、通信が途切れてしまわないよう、ご注意ください
@@ -72874,6 +73962,9 @@ TEXT: 「キツネポケモンを解明せよ！」チケットがショップ�
 RESOURCE ID: ticket_fletchling
 TEXT: 「コマドリポケモンを解明せよ！」チケットがショップに登場
 
+RESOURCE ID: ticket_froakie
+TEXT: 「あわがえるポケモンを解明せよ！」チケットがショップに登場
+
 RESOURCE ID: ticket_gastly
 TEXT: 「ガスじょうポケモンを解明せよ！」チケットがショップに登場
 
@@ -73099,6 +74190,9 @@ TEXT: ニドラン♀とニドラン♂のタイムチャレンジ
 
 RESOURCE ID: timed_research_pokemon_snubbull
 TEXT: ブルーのタイムチャレンジ
+
+RESOURCE ID: timed_trial_mb_research_title
+TEXT: タイムトライアル：マスターボール
 
 RESOURCE ID: tips_battle_at_gyms_tutorial_body
 TEXT: 別チームのジムでポケモンを倒す（全ポケモンのやる気をゼロに落とす）ことで、そのジムを自分のチームカラーにすることができます。
@@ -74966,6 +76060,12 @@ TEXT: アップロード完了！
 RESOURCE ID: upmgmt_summary_thanks
 TEXT: ありがとうございました。
 
+RESOURCE ID: usa_gofest_2023_global_event_name
+TEXT: 毒の沼プロジェクト
+
+RESOURCE ID: usa_timed_header_0
+TEXT: 毒の沼プロジェクトタイムチャレンジ
+
 RESOURCE ID: use_now_button
 TEXT: 今すぐ使う
 
@@ -75461,9 +76561,6 @@ TEXT: km
 RESOURCE ID: walk_steps
 TEXT: 歩
 
-RESOURCE ID: walked_label
-TEXT: 歩いた
-
 RESOURCE ID: water_festival_catch_timed_research
 TEXT: ウォーターフェスティバル：キャッチチャレンジ
 
@@ -75530,6 +76627,60 @@ TEXT: ポケモンワールドチャンピオンシップス2022ロンドン - P
 RESOURCE ID: wcs_2022_title
 TEXT: ポケモンワールドチャンピオンシップス2022
 
+RESOURCE ID: wcs_2023_battle_tr_description
+TEXT: ポケモンワールドチャンピオンシップス2023ボーナスタイムチャレンジ
+
+RESOURCE ID: wcs_2023_battle_tr_dialogue_00
+TEXT: やぁ、%PLAYERNAME%！バトルの準備はいいかな？
+
+RESOURCE ID: wcs_2023_battle_tr_dialogue_01
+TEXT: 好きなポケモンを3匹から選んでみてくれ！
+
+RESOURCE ID: wcs_2023_battle_tr_path_a
+TEXT: エアームド
+
+RESOURCE ID: wcs_2023_battle_tr_path_a_desc
+TEXT: この道を選ぶとエアームド、ラグラージ、ヤルキモノのパーティをスーパーリーグ用に育てることができます。
+
+RESOURCE ID: wcs_2023_battle_tr_path_b
+TEXT: オーロット
+
+RESOURCE ID: wcs_2023_battle_tr_path_b_desc
+TEXT: この道を選ぶとヨルノズク、ランターン、オーロットのパーティをスーパーリーグ用に育てることができます。
+
+RESOURCE ID: wcs_2023_battle_tr_path_c
+TEXT: マリルリ
+
+RESOURCE ID: wcs_2023_battle_tr_path_c_desc
+TEXT: この道を選ぶとマリルリ、ブラッキー、バルジーナのパーティをスーパーリーグ用に育てることができます。
+
+RESOURCE ID: wcs_2023_battle_tr_title
+TEXT: スーパーリーグスペシャル
+
+RESOURCE ID: wcs_2023_battle_tr_title_00
+TEXT: スーパーリーグスペシャル (1/3)
+
+RESOURCE ID: wcs_2023_battle_tr_title_01
+TEXT: スーパーリーグスペシャル (2/3)
+
+RESOURCE ID: wcs_2023_battle_tr_title_02
+TEXT: スーパーリーグスペシャル (3/3)
+
+RESOURCE ID: wcs_2023_champion_tr_description
+TEXT: ポケモンワールドチャンピオンシップス2023ボーナスタイムチャレンジ
+
+RESOURCE ID: wcs_2023_champion_tr_title
+TEXT: DancingRobさんのパーティ
+
+RESOURCE ID: wcs_2023_champion_tr_title_00
+TEXT: DancingRobさんのパーティ(1/2)
+
+RESOURCE ID: wcs_2023_champion_tr_title_01
+TEXT: DancingRobさんのパーティ(2/2)
+
+RESOURCE ID: wcs_2023_yokohama_event_title
+TEXT: ポケモンワールドチャンピオンシップス2023、横浜
+
 RESOURCE ID: wcs_aug23_header_0
 TEXT: ポケモンワールドチャンピオンシップス2023
 
@@ -75577,6 +76728,27 @@ TEXT: ポケモンワールドチャンピオンシップス2022のイベント�
 
 RESOURCE ID: wcs_collection_title
 TEXT: WCSコレクションチャレンジ
+
+RESOURCE ID: wcs_froakie_bonus_tr_desc
+TEXT: ケロマツコミュニティ・デイボーナスタイムチャレンジ
+
+RESOURCE ID: wcs_froakie_bonus_tr_title
+TEXT: ケロマツコミュニティ・デイボーナスタイムチャレンジ
+
+RESOURCE ID: wcs_froakie_bonus_tr_title_00
+TEXT: ケロマツコミュニティ・デイボーナスタイムチャレンジ(1/5)
+
+RESOURCE ID: wcs_froakie_bonus_tr_title_01
+TEXT: ケロマツコミュニティ・デイボーナスタイムチャレンジ(2/5)
+
+RESOURCE ID: wcs_froakie_bonus_tr_title_02
+TEXT: ケロマツコミュニティ・デイボーナスタイムチャレンジ(3/5)
+
+RESOURCE ID: wcs_froakie_bonus_tr_title_03
+TEXT: ケロマツコミュニティ・デイボーナスタイムチャレンジ(4/5)
+
+RESOURCE ID: wcs_froakie_bonus_tr_title_04
+TEXT: ケロマツコミュニティ・デイボーナスタイムチャレンジ(5/5)
 
 RESOURCE ID: wcs_implicit_social_description
 TEXT: 20人のトレーナーが協力してレイドに勝つとそのジムの周りで10分間特別なポケモンが現れる
@@ -75823,4 +76995,10 @@ TEXT: リファラルコードを変更しました
 
 RESOURCE ID: your_trainer_code_title
 TEXT: 自分のトレーナーコード
+
+RESOURCE ID: zygarde_tappable_push_notification
+TEXT: 何かが現れた！
+
+RESOURCE ID: zygarde_tappable_push_notification_description
+TEXT: ゲームを開いて確かめる
 

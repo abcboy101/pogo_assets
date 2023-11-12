@@ -1623,7 +1623,7 @@ RESOURCE ID: authentication_retry_account_hint
 TEXT: Daha önce Pokémon GO’ya giriş yapmak için kullandığınız hesap:
 
 RESOURCE ID: authentication_retry_prompt
-TEXT: Giriş yapılamadı.
+TEXT: Giriş Yapılamadı
 
 RESOURCE ID: authentication_revoked_error
 TEXT: Sunucuya bağlanılamadı.
@@ -6269,6 +6269,18 @@ TEXT: Partner Araştırması – Gizli Cevherler: Don Quijote
 RESOURCE ID: badge_event_0068_title
 TEXT: Partner Araştırması: Don Quijote
 
+RESOURCE ID: badge_event_0073
+TEXT: 2023 Pokémon Dünya Şampiyonası: Bonus Süreli Araştırma
+
+RESOURCE ID: badge_event_0073_title
+TEXT: Süper Bir Süper Lig
+
+RESOURCE ID: badge_event_0074
+TEXT: 2023 Pokémon Dünya Şampiyonası: Bonus Süreli Araştırma
+
+RESOURCE ID: badge_event_0074_title
+TEXT: DancingRob’ın Şampiyonu
+
 RESOURCE ID: badge_event_yoshinoya
 TEXT: Mayıs 2021: Yoshinoya
 
@@ -6286,12 +6298,6 @@ TEXT: 2 Kasım 2019
 
 RESOURCE ID: badge_global_ticketed_event_title
 TEXT: Muazzam Keşif
-
-RESOURCE ID: badge_gofest2023_global
-TEXT: 26-27 Ağustos 2023
-
-RESOURCE ID: badge_gofest2023_global_title
-TEXT: Pokémon GO Festivali 2023
 
 RESOURCE ID: badge_gofest_2019_americas_day_00_north_earlyaccess
 TEXT: Şikago, 12 Haziran 2019—Kuzey
@@ -6862,6 +6868,12 @@ TEXT: Küresel, 4-5 Haziran 2022 ve 27 Ağustos 2022
 
 RESOURCE ID: badge_gofest_2022_test_title
 TEXT: Pokémon GO Festivali 2022
+
+RESOURCE ID: badge_gofest_2023_global
+TEXT: 26-27 Ağustos 2023
+
+RESOURCE ID: badge_gofest_2023_global_title
+TEXT: Pokémon GO Festivali 2023
 
 RESOURCE ID: badge_gofest_2023_london_addon_hatch
 TEXT: Londra, 4-6 Ağustos 2023
@@ -11353,6 +11365,9 @@ TEXT: Dragonair’i evrimleştirerek Drako Meteor güçlü saldırısını bilen
 RESOURCE ID: bonus_cd_move_fennekin
 TEXT: Braixen’ı evrimleştirerek Tahrip Yanığı güçlü saldırısını bilen Delphox elde edin.
 
+RESOURCE ID: bonus_cd_move_froakie
+TEXT: Frogadier’ı evrimleştirerek Su Topu güçlü saldırısını bilen Greninja elde edin
+
 RESOURCE ID: bonus_cd_move_larvitar_cdc
 TEXT: Larvitar’ın evrimi Pupitar’ı evrimleştirerek Yere Yapıştır hızlı saldırısını bilen Tyranitar elde edin!
 
@@ -11418,6 +11433,12 @@ TEXT: Her saat başı çok sayıda Finneon ortaya çıkacak!
 
 RESOURCE ID: bonus_fr_party_pikachu
 TEXT: Pikachu’yla Tanışma PokéDurağından edineceğiniz alan araştırması görevini tamamlayın, parti şapkalı Pikachu’yla karşılaşma şansı yakalayın!
+
+RESOURCE ID: bonus_friendship_levelup_1.5x
+TEXT: 1.5× XP from increasing Friendship levels
+
+RESOURCE ID: bonus_friendship_levelup_2x
+TEXT: 2× XP from increasing Friendship levels
 
 RESOURCE ID: bonus_friendship_raid_double
 TEXT: Akınlarda 2× bonus arkadaşlık hasarı
@@ -11487,6 +11508,9 @@ TEXT: Topluluk Günü Görevi: Akın
 
 RESOURCE ID: bonus_implicit_social_fennekin_raid
 TEXT: Eğitmenler bir spor salonunda birlikte Braixen akın maçı kazanırsa 30 dakika boyunca o bölgede çok sayıda Fennekin ortaya çıkacak
+
+RESOURCE ID: bonus_implicit_social_froakie_raid
+TEXT: Eğitmenler bir spor salonunda birlikte Frogadier akın maçı kazanırsa 30 dakika boyunca o bölgede çok sayıda Froakie ortaya çıkacak.
 
 RESOURCE ID: bonus_implicit_social_litwick_raid
 TEXT: Eğitmenler bir Spor Salonunda birlikte Lampent maçı kazanırsa, 30 dakika boyunca o bölgede çok sayıda Litwick ortaya çıkacak.
@@ -11659,6 +11683,9 @@ TEXT: 1/2 çatlatma mesafesi
 RESOURCE ID: bonus_reward_quarter_hatch_distance
 TEXT: 1/4 Çatlatma Mesafesi
 
+RESOURCE ID: bonus_rrp_limit_uncap
+TEXT: Günlük uzak akın sınırı yok
+
 RESOURCE ID: bonus_singapore_photobomb
 TEXT: GO Fotoğrafta Corsola ve mor tişörtlü Pikachu ile 5 sürpriz karşılaşma
 
@@ -11724,6 +11751,12 @@ TEXT: Etkinlik süresince ve etkinlikten sonraki 5 saat içinde yapılacak takas
 
 RESOURCE ID: bonus_unlocked
 TEXT: Bonus açıldı!
+
+RESOURCE ID: bonus_versioned_field_research_2x_daily
+TEXT: PokéDuraklardan günde iki alan araştırması alma şansı (öğleden önce ve öğleden sonra)
+
+RESOURCE ID: bonus_xl_candy_5x
+TEXT: Pokémon yakalayınca büyük şeker kazanma şansında büyük artış
 
 RESOURCE ID: bonus_xl_candy_nice_great_excel
 TEXT: İyi, süper ve mükemmel atışla Pokémon yakalarken büyük şeker kazanmak için daha fazla şans
@@ -14495,6 +14528,9 @@ TEXT: Tayvan Fener Festivali 2023
 RESOURCE ID: collection_twlantern2023_description
 TEXT: Etkinlik boyunca bu Pokémon’ları yakalayın!
 
+RESOURCE ID: collection_wcs2023_irl_bonus
+TEXT: Dünya Şampiyonası Toplama Görevi
+
 RESOURCE ID: color_cup_great_title
 TEXT: Renk Kupası: Süper Lig
 
@@ -15233,6 +15269,9 @@ TEXT: 10. Sezon: Yükselen Kahramanlar
 RESOURCE ID: combat_title_season_11
 TEXT: GO Maç Ligi: Gizli Cevherler
 
+RESOURCE ID: combat_title_season_12
+TEXT: GO Battle League: Adventures Abound
+
 RESOURCE ID: combat_title_season_7
 TEXT: GO Battle League Season of GO Schedule
 
@@ -15304,6 +15343,9 @@ TEXT: Topluluk Günü: Fennekin
 
 RESOURCE ID: community_day_fletchling_event_name
 TEXT: Topluluk Günü: Fletchling
+
+RESOURCE ID: community_day_froakie_event_name
+TEXT: Topluluk Günü: Froakie
 
 RESOURCE ID: community_day_gastly_event_name
 TEXT: Topluluk Günü: Gastly
@@ -15468,7 +15510,7 @@ RESOURCE ID: complete_geotarget_quest
 TEXT: Bir AR Haritalama görevi tamamlayın
 
 RESOURCE ID: complete_route_travel_error_toast
-TEXT: Error completing Route
+TEXT: Rota tamamlama hatası
 
 RESOURCE ID: complete_transfer_in_ph_app
 TEXT: Lütfen Pokémon HOME'u açıp Pokémon’larınızı taşıma işlemini bitirin.
@@ -15501,7 +15543,7 @@ RESOURCE ID: consume_combat_pass_warning_title
 TEXT: {0} kullanılsın mı?
 
 RESOURCE ID: contact_support
-TEXT: Contact Support
+TEXT: Destek Ekibiyle İletişim
 
 RESOURCE ID: contest_badge_description
 TEXT: {0} PokéDurak müsabakası kazanın.
@@ -15756,9 +15798,6 @@ TEXT: Etiket oluşturulamadı.
 RESOURCE ID: create_tag_gui_title
 TEXT: ETİKET OLUŞTUR
 
-RESOURCE ID: created_by_label
-TEXT: Created By
-
 RESOURCE ID: created_routes_title
 TEXT: OLUŞTURULAN ROTALAR
 
@@ -15835,7 +15874,7 @@ RESOURCE ID: daily_research_title
 TEXT: Günlük Araştırma
 
 RESOURCE ID: daily_route_play
-TEXT: Daily Route Play
+TEXT: Günlük Rota Oynama
 
 RESOURCE ID: dark_flames_dark_title
 TEXT: Karanlık Alev: Karanlık Türü Süreli Araştırması
@@ -16162,7 +16201,7 @@ RESOURCE ID: download_all_assets_all_downloaded
 TEXT: Tüm varlıklar indirildi.
 
 RESOURCE ID: download_all_assets_checking_assets_indicator
-TEXT: Checking assets...
+TEXT: Varlıklar kontrol ediliyor...
 
 RESOURCE ID: download_all_assets_complete_description
 TEXT: Tüm varlıklar cihazınıza başarıyla indirildi. Şimdi GİDELİM!
@@ -16224,7 +16263,7 @@ RESOURCE ID: download_all_assets_title
 TEXT: Tüm Varlıkları İndir
 
 RESOURCE ID: download_all_assets_verifying_download_indicator
-TEXT: Verifying download...
+TEXT: İndirme doğrulanıyor...
 
 RESOURCE ID: download_all_assets_wifi_lost
 TEXT: Wi-Fi bağlantısı koptuğu için indirme tamamlanamadı. Lütfen bağlanıp yeniden deneyin.
@@ -17606,6 +17645,9 @@ TEXT: 10. Sezon: Yükselen Kahramanlar
 RESOURCE ID: event_season11_name
 TEXT: Şu Anki Sezon: Gizli Cevherler
 
+RESOURCE ID: event_season12_name
+TEXT: Current Season: Adventures Abound
+
 RESOURCE ID: event_season1_name
 TEXT: Kutlama Mevsimi
 
@@ -18613,6 +18655,9 @@ TEXT: Kızgın Formu
 RESOURCE ID: form_antique
 TEXT: Antika Formu
 
+RESOURCE ID: form_apex
+TEXT: Alfa Yapısı
+
 RESOURCE ID: form_arceus_bug
 TEXT: Böcek Türü
 
@@ -18681,6 +18726,9 @@ TEXT: Baile Tarzı
 
 RESOURCE ID: form_black
 TEXT: Kara Kyurem
+
+RESOURCE ID: form_blue
+TEXT: Mavi Tüylü
 
 RESOURCE ID: form_blue_striped
 TEXT: Mavi Çizgili
@@ -18790,6 +18838,9 @@ TEXT: Taçlı Kalkan
 RESOURCE ID: form_crowned_sword
 TEXT: Taçlı Kılıç
 
+RESOURCE ID: form_curly
+TEXT: Kıvrık Formu
+
 RESOURCE ID: form_darmanitan_standard
 TEXT: Standart Mod
 
@@ -18817,11 +18868,20 @@ TEXT: Kılık Değiştirmiş Formu
 RESOURCE ID: form_douse_drive
 TEXT: Su Sürücüsü
 
+RESOURCE ID: form_droopy
+TEXT: Sarkık Formu
+
 RESOURCE ID: form_dusk
 TEXT: Alacakaranlık Formu
 
 RESOURCE ID: form_east_sea
 TEXT: Doğu Denizi
+
+RESOURCE ID: form_family_of_four
+TEXT: Dört Bireylik Aile
+
+RESOURCE ID: form_family_of_three
+TEXT: Üç Bireylik Aile
 
 RESOURCE ID: form_fan
 TEXT: Vantilatör Rotom
@@ -18946,6 +19006,9 @@ TEXT: Küçük Boy
 RESOURCE ID: form_gourgeist_super
 TEXT: Süper Büyük Boy
 
+RESOURCE ID: form_green
+TEXT: Yeşil Tüylü
+
 RESOURCE ID: form_greninja_ash
 TEXT: Ash'in Greninja'sı
 
@@ -19054,6 +19117,12 @@ TEXT: Erimiş Surat
 RESOURCE ID: form_normal
 TEXT: Normal
 
+RESOURCE ID: form_oinkologne_female
+TEXT: Dişi
+
+RESOURCE ID: form_oinkologne_male
+TEXT: Erkek
+
 RESOURCE ID: form_ordinary
 TEXT: Sıradan Formu
 
@@ -19077,6 +19146,9 @@ TEXT: Orijin Formu
 
 RESOURCE ID: form_overcast
 TEXT: Kapalı Hava Formu
+
+RESOURCE ID: form_palafin_hero
+TEXT: Kahraman Formu
 
 RESOURCE ID: form_pau
 TEXT: Pa'u Tarzı
@@ -19228,8 +19300,14 @@ TEXT: Hız
 RESOURCE ID: form_spring
 TEXT: İlkbahar Formu
 
+RESOURCE ID: form_squakabilly_white
+TEXT: Beyaz Tüylü
+
 RESOURCE ID: form_standard_mode
 TEXT: Standart Mod
+
+RESOURCE ID: form_stretchy
+TEXT: Dümdüz Formu
 
 RESOURCE ID: form_summer
 TEXT: Yaz Formu
@@ -19246,6 +19324,9 @@ TEXT: Yakut Dondurma
 RESOURCE ID: form_therian
 TEXT: Theria Formu
 
+RESOURCE ID: form_three
+TEXT: Üç Segment Formu
+
 RESOURCE ID: form_thundurus_incarnate
 TEXT: Enkarne Formu
 
@@ -19260,6 +19341,12 @@ TEXT: Theria Formu
 
 RESOURCE ID: form_trash_cloak
 TEXT: Çöp Pelerin
+
+RESOURCE ID: form_two
+TEXT: İki Segment Formu
+
+RESOURCE ID: form_ultimate
+TEXT: Doruk Modu
 
 RESOURCE ID: form_vivillon_archipelago
 TEXT: Takımada Deseni
@@ -19341,6 +19428,12 @@ TEXT: Sürü Formu
 
 RESOURCE ID: form_wishiwashi_solo
 TEXT: Solo Formu
+
+RESOURCE ID: form_yellow
+TEXT: Sarı Tüylü
+
+RESOURCE ID: form_zero
+TEXT: Sıfır Formu
 
 RESOURCE ID: form_zygarde_complete
 TEXT: Tamamlanmış Formu
@@ -19630,7 +19723,7 @@ RESOURCE ID: full_inventory_text
 TEXT: DOLU
 
 RESOURCE ID: fullscreen_streak_title
-TEXT: 7-DAY BONUS
+TEXT: 7 GÜN BONUSU
 
 RESOURCE ID: furfrou_heart_trim
 TEXT: Furfrou, Kalp Süslü formuna dönüşebilir
@@ -19684,7 +19777,7 @@ RESOURCE ID: gbl_quintuple_dust_win
 TEXT: GO Maç Liginde 5× yıldız tozu ödülü
 
 RESOURCE ID: gbl_sets_extra_ten_total
-TEXT: 10 total sets of battles in the GO Battle League
+TEXT: GO Maç Ligi'nde toplam 10 maç seti
 
 RESOURCE ID: gbl_sets_extra_three
 TEXT: GO Maç Ligi'nde 3 ekstra maç seti
@@ -19765,6 +19858,20 @@ Ayrıntıları oyun içi Haberler bölümünde bulabilirsiniz.
 
 RESOURCE ID: general1.ticket.2_aprilcdc2023_title
 TEXT: Nisan 2023 Topluluk Günü Klasik: Swinub
+
+RESOURCE ID: general1.ticket.2_augcd2023_description
+TEXT: 13 Ağustos 2023’te, yerel saatle 14.00-17.00 arasında gerçekleşecek Froakie Topluluk Günü özel araştırmasına dilediğiniz yerden katılmanıza olanak tanıyan bir bilet.
+
+Araştırma ödülleri arasında şunlar yer alıyor:
+- Nadir Şeker ve Ultra Top gibi premium oyun içi eşyalar
+- Froakie ve evrimleriyle daha fazla karşılaşma fırsatı
+
+Ayrıntıları oyun içi Haberler bölümünde bulabilirsiniz.
+
+<b>Özel etkinliğe ait tüm bonusları alabilmek için oyunu belirtilen saatlerde oynamalısınız.</b>
+
+RESOURCE ID: general1.ticket.2_augcd2023_title
+TEXT: Fıkır Fıkır
 
 RESOURCE ID: general1.ticket.2_bulbt_description
 TEXT: Bu bilet, 22 Ocak 2022’de, yerel saatle 14:00-17:00 arasında gerçekleşecek Bulbasaur Topluluk Günü Klasik özel araştırmasına dilediğiniz yerden katılmanıza olanak tanır. Ayrıntıları oyun içi Haberler bölümünde bulabilirsiniz.
@@ -20194,9 +20301,9 @@ TEXT: 7. Yıl Dönümü Partisi süreli araştırmasına katılmanıza olanak ta
 - 1 Tütsü 
 - Parti şapkalı Pikachu ile karşılaşma 
 
- 7. Yıl Dönümü Süreli Araştırması Biletine oyun içi mağazadan yalnızca 11 Temmuz 2023 Salı, yerel saatle 20.00’te kadar erişilebilecek. 
+ 7. Yıl Dönümü Süreli Araştırması Biletine oyun içi mağazadan yalnızca 11 Temmuz 2023 Salı, yerel saatle 20.00’ye kadar erişilebilecek. 
 
-<b>Süreli araştırma belirli bir sürenin sonunda geçerliliğini yitirir.</b> Bu ödülleri alabilmek için süreli araştırma görevlerinin 12 Temmuz 2023 Pazar, yerel saatle 20.00’den önce tamamlanması gerekmektedir.
+<b>Süreli araştırma belirli bir sürenin sonunda geçerliliğini yitirir.</b> Bu ödülleri alabilmek için süreli araştırma görevlerinin 12 Temmuz 2023 Çarşamba, yerel saatle 20.00’den önce tamamlanması gerekmektedir.
 
 RESOURCE ID: general1.ticket.anniversary_bundle_title
 TEXT: 7. Yıl Dönümü Partisi Süreli Araştırması Bileti
@@ -20550,7 +20657,7 @@ RESOURCE ID: general_paste
 TEXT: Yapıştır
 
 RESOURCE ID: general_player_guidelines
-TEXT: Player Guidelines
+TEXT: Oyuncu Talimatları
 
 RESOURCE ID: general_pokemon
 TEXT: Pokémon
@@ -20586,10 +20693,10 @@ RESOURCE ID: general_stamina
 TEXT: SP
 
 RESOURCE ID: general_submit
-TEXT: Onayla
+TEXT: Gönder
 
 RESOURCE ID: general_submit_an_appeal
-TEXT: Submit an Appeal
+TEXT: İtiraz başvurusunda bulunun
 
 RESOURCE ID: general_total_caps
 TEXT: TOPLAM
@@ -26210,6 +26317,9 @@ TEXT: https://niantic.helpshift.com/a/pokemon-go/?s=troubleshooting&f=raid-troub
 RESOURCE ID: helpshift_sharing_game_logs
 TEXT: https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/3325-sharing-game-logs/
 
+RESOURCE ID: hindi
+TEXT: Hindi
+
 RESOURCE ID: hisui_cup_title
 TEXT: Hisui Kupası
 
@@ -26952,7 +27062,7 @@ RESOURCE ID: item_event_ticket_pink_bulbt_details
 TEXT: Bu bilet, 22 Ocak 2022’de gerçekleşecek özel araştırmaya dilediğiniz yerden erişebilmeniz için otomatik olarak etkinleştirilecek.
 
 RESOURCE ID: item_event_ticket_pink_desc
-TEXT: 30 Temmuz 2023’te, yerel saatle 14:00-17:00 arasında gerçekleşecek Poliwag Topluluk Günü Klasik özel araştırmasına dilediğiniz yerden katılmanıza olanak tanıyan bir bilet.
+TEXT: 13 Ağustos 2023’te, yerel saatle 14.00-17.00 arasında gerçekleşecek Froakie Topluluk Günü özel araştırmasına dilediğiniz yerden katılmanıza olanak tanıyan bir bilet.
 
 RESOURCE ID: item_event_ticket_pink_desc_alodude
 TEXT: 21 Mayıs 2022’de, yerel saatle 11:00-14:00 arasında gerçekleşecek özel araştırmaya dilediğiniz yerden katılmanıza olanak tanıyan bir bilet.
@@ -26978,6 +27088,9 @@ TEXT: 3 Haziran 2023’te, yerel saatle 14.00-17.00 arasında gerçekleşecek Al
 RESOURCE ID: item_event_ticket_pink_desc_mrmime
 TEXT: 19 Aralık 2020 yerel saatle 10:00'dan 20 Aralık 2020 20:00'ye kadar özel bir etkinliğe dilediğiniz yerden katılabilmeniz için bilet.
 
+RESOURCE ID: item_event_ticket_pink_desc_poliwag
+TEXT: 30 Temmuz 2023’te, yerel saatle 14:00-17:00 arasında gerçekleşecek Poliwag Topluluk Günü Klasik özel araştırmasına dilediğiniz yerden katılmanıza olanak tanıyan bir bilet.
+
 RESOURCE ID: item_event_ticket_pink_desc_squirtle
 TEXT: Topluluk Günü Klasik: Squirtle özel araştırmasına dilediğiniz yerden katılmanıza olanak tanıyan bir bilet.
 
@@ -26988,7 +27101,7 @@ RESOURCE ID: item_event_ticket_pink_desc_togetic
 TEXT: 15 Nisan 2023’te, yerel saatle 14.00-17.00 arasında gerçekleşecek özel araştırmaya dilediğiniz yerden katılmanıza olanak tanıyan bir bilet.
 
 RESOURCE ID: item_event_ticket_pink_details
-TEXT: Bu bilet 30 Temmuz 2023’te gerçekleşecek Sarsak Sarmal özel araştırmasına dilediğiniz yerden erişebilmeniz için otomatik olarak etkinleştirilecek.
+TEXT: Bu bilet 13 Ağustos 2023’te gerçekleşecek Fıkır Fıkır özel araştırma hikâyesine dilediğiniz yerden erişebilmeniz için otomatik olarak etkinleştirilecek.
 
 RESOURCE ID: item_event_ticket_pink_details_axew
 TEXT: Bu bilet 10 Haziran 2023 Cumartesi, yerel saatle 14.00-17.00 arasında gerçekleşecek Axew Topluluk Günü özel araştırmasına dilediğiniz yerden katılabilmeniz için otomatik olarak etkinleştirilecek.
@@ -27010,6 +27123,9 @@ TEXT: Bu bilet 3 Haziran 2023’te, yerel saatle 14.00-17.00 arasında gerçekle
 
 RESOURCE ID: item_event_ticket_pink_details_mrmime
 TEXT: Bu bilet, dünyanın neresinde olursanız olun, 19 Aralık 2020 yerel saatle 10:00'dan 20 Aralık 2020 20:00'ye kadar gerçekleşecek Galarlı Mr. Mime etkinliğine erişebilmeniz için otomatik olarak etkinleştirilecek.
+
+RESOURCE ID: item_event_ticket_pink_details_poliwag
+TEXT: Bu bilet 30 Temmuz 2023’te gerçekleşecek Sarsak Sarmal özel araştırmasına dilediğiniz yerden erişebilmeniz için otomatik olarak etkinleştirilecek.
 
 RESOURCE ID: item_event_ticket_pink_details_squirtle
 TEXT: Bu bilet 23 Temmuz 2023’te, yerel saatle 14.00-17.00 arasında gerçekleşecek Squirtle Topluluk Günü Klasik özel araştırmasına dilediğiniz yerden erişebilmeniz için otomatik olarak etkinleştirilecek.
@@ -27475,12 +27591,6 @@ TEXT: Bayılmış bir Pokémon'u canlandırabilen bir ilaç. Ayrıca bayılan Po
 RESOURCE ID: item_revive_name
 TEXT: Canlandır
 
-RESOURCE ID: item_route_maker_desc
-TEXT: Yol oluşturmanıza olanak tanıyan bir cihaz. Aynı anda en fazla 5 cihaz etkin olabilir.
-
-RESOURCE ID: item_route_maker_name
-TEXT: Yol Oluşturucu
-
 RESOURCE ID: item_shadow_gem_desc
 TEXT: Gölge Parçalarının arındırılıp birleştirilmesiyle elde edilen berrak bir cevher. Kızgın Gölge Akın Canavarlarını sakinleştirmede kullanılır.
 
@@ -27528,6 +27638,24 @@ TEXT: Bir Eğitmenin takım değiştirmesini sağlayan benzersiz bir bozuk para.
 
 RESOURCE ID: item_team_change_name
 TEXT: Takım Madalyonu
+
+RESOURCE ID: item_ticket_city_safari_00_desc
+TEXT: Seul Şehir Safarisi: Yolculuk Devam Ediyor özel araştırmasına katılmanıza olanak tanıyan bir bilet.
+
+RESOURCE ID: item_ticket_city_safari_00_name
+TEXT: Safari Bileti: Seul
+
+RESOURCE ID: item_ticket_city_safari_01_desc
+TEXT: Barselona Şehir Safarisi: Yolculuk Devam Ediyor özel araştırmasına katılmanıza olanak tanıyan bir bilet.
+
+RESOURCE ID: item_ticket_city_safari_01_name
+TEXT: Safari Bileti: Barselona
+
+RESOURCE ID: item_ticket_city_safari_02_desc
+TEXT: Meksiko Şehir Safarisi: Yolculuk Devam Ediyor özel araştırmasına katılmanıza olanak tanıyan bir bilet.
+
+RESOURCE ID: item_ticket_city_safari_02_name
+TEXT: Safari Bileti: Meksiko
 
 RESOURCE ID: item_troy_disk_desc
 TEXT: Pokémon’ları 30 dakikalığına PokéDurağa çeken bir modül. Yakınlardaki insanlar da bu etkiden faydalanabilir.
@@ -27680,10 +27808,10 @@ RESOURCE ID: journal_received_raid_ticket
 TEXT: {0} için Özel Akın Davetiyesi aldınız.
 
 RESOURCE ID: journal_route_complete
-TEXT: Completed a Route!
+TEXT: Bir rota tamamladınız!
 
 RESOURCE ID: journal_route_complete_named
-TEXT: Completed {0}!
+TEXT: {0} tamamlandı!
 
 RESOURCE ID: journal_shadow_caught
 TEXT: Gölge {0} yakalandı!
@@ -27831,9 +27959,6 @@ TEXT: Son Oynama: 2+ gün önce
 
 RESOURCE ID: last_played_yesterday
 TEXT: Son Oynama: Dün
-
-RESOURCE ID: last_time_activity_label
-TEXT: Last Time Activity
 
 RESOURCE ID: leader_map_assembled
 TEXT: Bir Roket Radarı oluşturdunuz!
@@ -31096,7 +31221,7 @@ RESOURCE ID: may23_candela_limited_research
 TEXT: Cesur Kahraman: Süreli Araştırma
 
 RESOURCE ID: me_forget_move_key
-TEXT: {0} {1} hareketini unutacak.
+TEXT: {0} {1} saldırısını unutacak.
 
 RESOURCE ID: me_missing_move
 TEXT: Mega evrimleşmek için {0} bilmesi gerekiyor
@@ -31111,10 +31236,10 @@ RESOURCE ID: me_reroll_item_gui_prompt
 TEXT: Bu saldırıyı öğretmek için {0} gerekiyor.
 
 RESOURCE ID: me_short_warn_move
-TEXT: Mega evrimleşmek için gerekiyor
+TEXT: Mega evrimleşmesi için gerekiyor
 
 RESOURCE ID: me_teach_move_long_key
-TEXT: {0} {1} güçlü saldırısını öğrensin mi?
+TEXT: {0} yeni {1} güçlü saldırısını öğrensin mi?
 
 RESOURCE ID: me_teach_move_short_key
 TEXT: {0} {1} öğrensin mi?
@@ -31123,7 +31248,7 @@ RESOURCE ID: me_teach_new_move
 TEXT: Mega evrimleşmek için {0} öğrensin.
 
 RESOURCE ID: me_warn_needed_move
-TEXT: Mega evrimleşmek için {0} gerekiyor
+TEXT: Mega evrimleşmesi için {0} gerekiyor
 
 RESOURCE ID: meet_and_greet_pikachu
 TEXT: Pikachu’yla Tanışma
@@ -31432,9 +31557,9 @@ RESOURCE ID: mega_walking_progress
 TEXT: Yürüyüş İlerlemesi
 
 RESOURCE ID: metadata_local
-TEXT: Built at 2023-09-05T22:09:08.100530
-at SHA d365896004d0c49ae898e6ba22bc12199da9507a
-Pipeline 1726595, job 20964204
+TEXT: Built at 2023-09-08T08:09:58.647032
+at SHA abedd456fa33f1749c1b73b689b06e1e22fe245b
+Pipeline 1736915, job 21075377
 
 RESOURCE ID: mex_fighting_promo_title
 TEXT: Süreli Araştırma: Dövüşçünüzü Seçin
@@ -32601,7 +32726,7 @@ RESOURCE ID: move_name_0389
 TEXT: Yok Edici Kanat
 
 RESOURCE ID: move_reroll_confirm_desc
-TEXT: {0}, {1} saldırısını unutacak.
+TEXT: {0} {1} saldırısını unutacak.
 
 RESOURCE ID: move_reroll_confirm_desc_no_move
 TEXT: {0} unutacak
@@ -32975,7 +33100,7 @@ RESOURCE ID: mystery_invasion_onboarding_dialogue_9
 TEXT: Teşekkürler! Görüşmek üzere o halde. İyi keşifler!
 
 RESOURCE ID: name your route
-TEXT: Name your Route
+TEXT: Rotanızı Adlandırın
 
 RESOURCE ID: nearby_pokemon_clear_button
 TEXT: Temizle
@@ -33347,57 +33472,6 @@ TEXT: Eşya kazanmak için sponsorlu AR deneyimini açabilirsiniz!
 RESOURCE ID: open_webar_sponsored_gift_button
 TEXT: Artırılmış Gerçekliği Aç
 
-RESOURCE ID: ops_reject_i-ina
-TEXT: Inappropriate image
-
-RESOURCE ID: ops_reject_i-nl
-TEXT: Route cannot use Niantic logo
-
-RESOURCE ID: ops_reject_i-ppl
-TEXT: Image cannot contain people
-
-RESOURCE ID: ops_reject_i-tmc
-TEXT: Inappropriate image
-
-RESOURCE ID: ops_reject_or-dan
-TEXT: Route flagged as unsafe or inaccessible
-
-RESOURCE ID: ops_reject_or-h
-TEXT: Route flagged as unsafe
-
-RESOURCE ID: ops_reject_t-dan
-TEXT: Route flagged as unsafe or inaccessible
-
-RESOURCE ID: ops_reject_t-def
-TEXT: Text flagged as inappropriate
-
-RESOURCE ID: ops_reject_t-desc
-TEXT: Needs a description
-
-RESOURCE ID: ops_reject_t-ina
-TEXT: Text flagged as inappropriate
-
-RESOURCE ID: ops_reject_t-off
-TEXT: Route cannot call itself "official"
-
-RESOURCE ID: ops_reject_t-pii
-TEXT: Route cannot contain personal info
-
-RESOURCE ID: ops_reject_t-sell
-TEXT: Text flagged as inappropriate
-
-RESOURCE ID: ops_reject_t-spam
-TEXT: Text not related
-
-RESOURCE ID: ops_reject_t-test
-TEXT: Routes not complete
-
-RESOURCE ID: ops_reject_t-tmc
-TEXT: Text flagged by source
-
-RESOURCE ID: ops_reject_t-url
-TEXT: Text cannot contain HTML or emails
-
 RESOURCE ID: other_section_title
 TEXT: Diğer
 
@@ -33499,7 +33573,7 @@ RESOURCE ID: passcode_rpc_timeout
 TEXT: Kod kullanma isteği zaman aşımına uğradı. Lütfen ağ ayarlarınızı kontrol edip tekrar deneyin.
 
 RESOURCE ID: pause_route_travel_error_toast
-TEXT: Error pausing Route
+TEXT: Rota duraklatma hatası
 
 RESOURCE ID: pending_friend_request
 TEXT: Bu Eğitmenden bekleyen bir Arkadaşlık İsteğiniz var.
@@ -33691,6 +33765,9 @@ TEXT: GO Fotoğrafta Fennekin ile 5 sürpriz karşılaşma
 
 RESOURCE ID: photobomb_five_fletchling
 TEXT: GO Fotoğrafta Fletchling ile 5 sürpriz karşılaşma
+
+RESOURCE ID: photobomb_five_froakie
+TEXT: GO Fotoğrafta Froakie ile 5 sürpriz karşılaşma
 
 RESOURCE ID: photobomb_five_gastly
 TEXT: GO Fotoğrafta Gastly ile 5 sürpriz karşılaşma
@@ -35283,6 +35360,15 @@ TEXT: Makaslı Böcek Pokémon
 RESOURCE ID: pokemon_category_0128
 TEXT: Yaban Öküzü Pokémon
 
+RESOURCE ID: pokemon_category_0128_3006
+TEXT: Yaban Öküzü Pokémon
+
+RESOURCE ID: pokemon_category_0128_3007
+TEXT: Yaban Öküzü Pokémon
+
+RESOURCE ID: pokemon_category_0128_3008
+TEXT: Yaban Öküzü Pokémon
+
 RESOURCE ID: pokemon_category_0129
 TEXT: Balık Pokémon
 
@@ -35501,6 +35587,9 @@ TEXT: Cam Kanat Pokémon
 
 RESOURCE ID: pokemon_category_0194
 TEXT: Tatlı Su Balığı Pokémon
+
+RESOURCE ID: pokemon_category_0194_3009
+TEXT: Zehirli Balık Pokémon
 
 RESOURCE ID: pokemon_category_0195
 TEXT: Tatlı Su Balığı Pokémon
@@ -37132,10 +37221,10 @@ RESOURCE ID: pokemon_category_0724_2785
 TEXT: Ok Tüylü Pokémon
 
 RESOURCE ID: pokemon_category_0725
-TEXT: Ateşli Kedi Pokémon
+TEXT: Ateş Kedi Pokémon
 
 RESOURCE ID: pokemon_category_0726
-TEXT: Ateşli Kedi Pokémon
+TEXT: Ateş Kedi Pokémon
 
 RESOURCE ID: pokemon_category_0727
 TEXT: Alçak Pokémon
@@ -37680,11 +37769,341 @@ TEXT: İğne Yığını Pokémon
 RESOURCE ID: pokemon_category_0905
 TEXT: Aşk Nefret Pokémon
 
+RESOURCE ID: pokemon_category_0906
+TEXT: Bitki Kedi Pokémon
+
+RESOURCE ID: pokemon_category_0907
+TEXT: Bitki Kedi Pokémon
+
+RESOURCE ID: pokemon_category_0908
+TEXT: Sihirbaz Pokémon
+
+RESOURCE ID: pokemon_category_0909
+TEXT: Ateş Timsahı Pokémon
+
+RESOURCE ID: pokemon_category_0910
+TEXT: Ateş Timsahı Pokémon
+
+RESOURCE ID: pokemon_category_0911
+TEXT: Şarkıcı Pokémon
+
+RESOURCE ID: pokemon_category_0912
+TEXT: Ördek Yavrusu Pokémon
+
+RESOURCE ID: pokemon_category_0913
+TEXT: Çalışkan Pokémon
+
+RESOURCE ID: pokemon_category_0914
+TEXT: Dansçı Pokémon
+
+RESOURCE ID: pokemon_category_0915
+TEXT: Büyük Domuz Pokémon
+
+RESOURCE ID: pokemon_category_0916_2981
+TEXT: Büyük Domuz Pokémon
+
+RESOURCE ID: pokemon_category_0916_2982
+TEXT: Büyük Domuz Pokémon
+
+RESOURCE ID: pokemon_category_0917
+TEXT: Sicim Yumağı Pokémon
+
+RESOURCE ID: pokemon_category_0918
+TEXT: Tuzakçı Pokémon
+
+RESOURCE ID: pokemon_category_0919
+TEXT: Çekirge Pokémon
+
+RESOURCE ID: pokemon_category_0920
+TEXT: Çekirge Pokémon
+
+RESOURCE ID: pokemon_category_0921
+TEXT: Fare Pokémon
+
+RESOURCE ID: pokemon_category_0922
+TEXT: Fare Pokémon
+
+RESOURCE ID: pokemon_category_0923
+TEXT: Koca Avuç Pokémon
+
+RESOURCE ID: pokemon_category_0924
+TEXT: Çift Pokémon
+
+RESOURCE ID: pokemon_category_0925_2983
+TEXT: Aile Pokémon
+
+RESOURCE ID: pokemon_category_0925_2984
+TEXT: Aile Pokémon
+
+RESOURCE ID: pokemon_category_0926
+TEXT: Köpek Yavrusu Pokémon
+
+RESOURCE ID: pokemon_category_0927
+TEXT: Köpek Pokémon
+
+RESOURCE ID: pokemon_category_0928
+TEXT: Zeytin Pokémon
+
+RESOURCE ID: pokemon_category_0929
+TEXT: Zeytin Pokémon
+
+RESOURCE ID: pokemon_category_0930
+TEXT: Zeytin Pokémon
+
+RESOURCE ID: pokemon_category_0931_2985
+TEXT: Papağan Pokémon
+
+RESOURCE ID: pokemon_category_0931_2986
+TEXT: Papağan Pokémon
+
+RESOURCE ID: pokemon_category_0931_2987
+TEXT: Papağan Pokémon
+
+RESOURCE ID: pokemon_category_0931_2988
+TEXT: Papağan Pokémon
+
+RESOURCE ID: pokemon_category_0932
+TEXT: Kaya Tuzu Pokémon
+
+RESOURCE ID: pokemon_category_0933
+TEXT: Kaya Tuzu Pokémon
+
+RESOURCE ID: pokemon_category_0934
+TEXT: Kaya Tuzu Pokémon
+
+RESOURCE ID: pokemon_category_0935
+TEXT: Ateş Çocuğu Pokémon
+
+RESOURCE ID: pokemon_category_0936
+TEXT: Ateş Savaşçısı Pokémon
+
+RESOURCE ID: pokemon_category_0937
+TEXT: Ateş Bıçağı Pokémon
+
+RESOURCE ID: pokemon_category_0938
+TEXT: Elektrikli İribaş Pokémon
+
+RESOURCE ID: pokemon_category_0939
+TEXT: Elektrikli Kurbağa Pokémon
+
+RESOURCE ID: pokemon_category_0940
+TEXT: Fırtına Kuşu Pokémon
+
+RESOURCE ID: pokemon_category_0941
+TEXT: Fregat Kuşu Pokémon
+
+RESOURCE ID: pokemon_category_0942
+TEXT: Yaramaz Pokémon
+
+RESOURCE ID: pokemon_category_0943
+TEXT: Patron Pokémon
+
+RESOURCE ID: pokemon_category_0944
+TEXT: Zehirli Fare Pokémon
+
+RESOURCE ID: pokemon_category_0945
+TEXT: Zehirli Maymun Pokémon
+
+RESOURCE ID: pokemon_category_0946
+TEXT: Yuvarlanan Çalı Pokémon
+
+RESOURCE ID: pokemon_category_0947
+TEXT: Yuvarlanan Çalı Pokémon
+
+RESOURCE ID: pokemon_category_0948
+TEXT: Ağaç Kulağı Pokémon
+
+RESOURCE ID: pokemon_category_0949
+TEXT: Ağaç Kulağı Pokémon
+
+RESOURCE ID: pokemon_category_0950
+TEXT: Pusu Pokémon
+
+RESOURCE ID: pokemon_category_0951
+TEXT: Acı Biber Pokémon
+
+RESOURCE ID: pokemon_category_0952
+TEXT: Acı Biber Pokémon
+
+RESOURCE ID: pokemon_category_0953
+TEXT: Yuvarlayan Pokémon
+
+RESOURCE ID: pokemon_category_0954
+TEXT: Yuvarlayan Pokémon
+
+RESOURCE ID: pokemon_category_0955
+TEXT: Fırfır Pokémon
+
+RESOURCE ID: pokemon_category_0956
+TEXT: Devekuşu Pokémon
+
+RESOURCE ID: pokemon_category_0957
+TEXT: Metal Ustası Pokémon
+
+RESOURCE ID: pokemon_category_0958
+TEXT: Çekiç Pokémon
+
+RESOURCE ID: pokemon_category_0959
+TEXT: Çekiç Pokémon
+
+RESOURCE ID: pokemon_category_0960
+TEXT: Bahçe Yılan Balığı Pokémon
+
+RESOURCE ID: pokemon_category_0961
+TEXT: Bahçe Yılan Balığı Pokémon
+
+RESOURCE ID: pokemon_category_0962
+TEXT: Eşya Atan Pokémon
+
+RESOURCE ID: pokemon_category_0963
+TEXT: Yunus Pokémon
+
+RESOURCE ID: pokemon_category_0964_2989
+TEXT: Yunus Pokémon
+
+RESOURCE ID: pokemon_category_0964_2990
+TEXT: Kahraman Pokémon
+
+RESOURCE ID: pokemon_category_0965
+TEXT: Tek Silindir Pokémon
+
+RESOURCE ID: pokemon_category_0966
+TEXT: Çoklu Silindir Pokémon
+
+RESOURCE ID: pokemon_category_0967
+TEXT: Binek Pokémon
+
+RESOURCE ID: pokemon_category_0968
+TEXT: Toprak Solucanı Pokémon
+
+RESOURCE ID: pokemon_category_0969
+TEXT: Cevher Pokémon
+
+RESOURCE ID: pokemon_category_0970
+TEXT: Cevher Pokémon
+
+RESOURCE ID: pokemon_category_0971
+TEXT: Hayalet Köpek Pokémon
+
+RESOURCE ID: pokemon_category_0972
+TEXT: Hayalet Köpek Pokémon
+
+RESOURCE ID: pokemon_category_0973
+TEXT: Senkronize Pokémon
+
+RESOURCE ID: pokemon_category_0974
+TEXT: Kara Balinası Pokémon
+
+RESOURCE ID: pokemon_category_0975
+TEXT: Kara Balinası Pokémon
+
+RESOURCE ID: pokemon_category_0976
+TEXT: Yük Atan Pokémon
+
+RESOURCE ID: pokemon_category_0977
+TEXT: Büyük Kedi Balığı Pokémon
+
+RESOURCE ID: pokemon_category_0978_2991
+TEXT: Benzeşen Pokémon
+
+RESOURCE ID: pokemon_category_0978_2992
+TEXT: Benzeşen Pokémon
+
+RESOURCE ID: pokemon_category_0978_2993
+TEXT: Benzeşen Pokémon
+
+RESOURCE ID: pokemon_category_0979
+TEXT: Öfke Maymunu Pokémon
+
+RESOURCE ID: pokemon_category_0980
+TEXT: Dikenli Balık Pokémon
+
+RESOURCE ID: pokemon_category_0981
+TEXT: Uzun Boyunlu Pokémon
+
+RESOURCE ID: pokemon_category_0982_2994
+TEXT: Kara Yılanı Pokémon
+
+RESOURCE ID: pokemon_category_0982_2995
+TEXT: Kara Yılanı Pokémon
+
+RESOURCE ID: pokemon_category_0983
+TEXT: Büyük Bıçaklı Pokémon
+
+RESOURCE ID: pokemon_category_0984
+TEXT: Paradoks Pokémon
+
+RESOURCE ID: pokemon_category_0985
+TEXT: Paradoks Pokémon
+
+RESOURCE ID: pokemon_category_0986
+TEXT: Paradoks Pokémon
+
+RESOURCE ID: pokemon_category_0987
+TEXT: Paradoks Pokémon
+
+RESOURCE ID: pokemon_category_0988
+TEXT: Paradoks Pokémon
+
+RESOURCE ID: pokemon_category_0989
+TEXT: Paradoks Pokémon
+
+RESOURCE ID: pokemon_category_0990
+TEXT: Paradoks Pokémon
+
+RESOURCE ID: pokemon_category_0991
+TEXT: Paradoks Pokémon
+
+RESOURCE ID: pokemon_category_0992
+TEXT: Paradoks Pokémon
+
+RESOURCE ID: pokemon_category_0993
+TEXT: Paradoks Pokémon
+
+RESOURCE ID: pokemon_category_0994
+TEXT: Paradoks Pokémon
+
+RESOURCE ID: pokemon_category_0995
+TEXT: Paradoks Pokémon
+
+RESOURCE ID: pokemon_category_0996
+TEXT: Buzdan Yüzgeç Pokémon
+
+RESOURCE ID: pokemon_category_0997
+TEXT: Buzdan Yüzgeç Pokémon
+
+RESOURCE ID: pokemon_category_0998
+TEXT: Buz Ejderhası Pokémon
+
 RESOURCE ID: pokemon_category_0999
 TEXT: Para Avcısı Pokémon
 
 RESOURCE ID: pokemon_category_1000
 TEXT: Hazine Pokémon
+
+RESOURCE ID: pokemon_category_1001
+TEXT: Yıkıp Döken Pokémon
+
+RESOURCE ID: pokemon_category_1002
+TEXT: Yıkıp Döken Pokémon
+
+RESOURCE ID: pokemon_category_1003
+TEXT: Yıkıp Döken Pokémon
+
+RESOURCE ID: pokemon_category_1004
+TEXT: Yıkıp Döken Pokémon
+
+RESOURCE ID: pokemon_category_1005
+TEXT: Paradoks Pokémon
+
+RESOURCE ID: pokemon_category_1006
+TEXT: Paradoks Pokémon
+
+RESOURCE ID: pokemon_category_1007_2996
+TEXT: Paradoks Pokémon
+
+RESOURCE ID: pokemon_category_1008_2997
+TEXT: Paradoks Pokémon
 
 RESOURCE ID: pokemon_costume_info_transfer_to_professor_confirmation
 TEXT: Bu Etkinlik Pokémon’unu gerçekten göndermek istiyor musunuz?
@@ -38116,7 +38535,7 @@ RESOURCE ID: pokemon_desc_0111
 TEXT: Rhyhorn, düz bir çizgide koşar ve yoluna çıkan her şeyi ezer. Bir çelik bloğa çarpsa bile rahatsız olmaz. Ancak bu Pokémon, ertesi gün çarpışmadan dolayı biraz acı hissedebilir.
 
 RESOURCE ID: pokemon_desc_0112
-TEXT: Rhydon'un boynuzu, işlenmemiş elmasları bile ezebilir. Kuyruğunun tek bir darbesi bir binayı devirebilir. Bu Pokémon'un derisi son derece serttir. Doğrudan isabet eden top atışları bile bir çizik bırakmaz.
+TEXT: Rhydon'un boynuzu işlenmemiş elmasları bile ezebilir. Kuyruğunun tek bir darbesiyle bir binayı devirebilir. Bu Pokémon'un derisi son derece serttir. Doğrudan isabet eden top atışları bile bir çizik bırakmaz.
 
 RESOURCE ID: pokemon_desc_0113
 TEXT: Chansey, her gün besin değeri yüksek yumurtalar bırakır. Yumurtalar öyle lezzetlidir ki iştahını kaybetmiş insanlar bile bayıla bayıla yer.
@@ -38168,6 +38587,15 @@ TEXT: Pinsir, şaşırtıcı derecede güçlüdür. Kendi ağırlığının iki 
 
 RESOURCE ID: pokemon_desc_0128
 TEXT: Bu Pokémon, her zaman öfkeli olmadığı sürece tatmin olmaz. Tauros, savaşacak bir rakip yoksa kendini sakinleştirmek için kalın ağaçları devirir.
+
+RESOURCE ID: pokemon_desc_0128_3006
+TEXT: Bu Pokémon’un kaslı bir vücudu vardır ve dar alan dövüşlerinde çok başarılıdır. Rakibinin zayıf noktalarına hasar vermek için kısa boynuzlarını kullanır.
+
+RESOURCE ID: pokemon_desc_0128_3007
+TEXT: Boynuzları ateş enerjisiyle ısındığında 1000 dereceye ulaşır. Bu Pokémon tarafından boynuzlananlar hem yaralanır hem de yanar.
+
+RESOURCE ID: pokemon_desc_0128_3008
+TEXT: Bu Pokémon boynuzlarının ucundaki deliklerden su püskürtür. Tazyikli su Tauros’un düşmanlarını delip geçecek güçtedir.
 
 RESOURCE ID: pokemon_desc_0129
 TEXT: Magikarp, sadece çırpınan ve su sıçratan, zavallı bir Pokémon'dur. Bilim insanları, bu davranışı üzerine araştırma yapmak için harekete geçti.
@@ -38387,6 +38815,9 @@ TEXT: Yanma, gözlerini hareket ettirmeden çevresini 360 derece olarak görebil
 
 RESOURCE ID: pokemon_desc_0194
 TEXT: Wooper, genellikle suda yaşar. Ancak arada bir yemek aramak için karaya çıkar. Karadayken vücudunu yapışkan ve zehirli bir zarla kaplar.
+
+RESOURCE ID: pokemon_desc_0194_3009
+TEXT: Wooper bir mıntıka savaşını kaybettikten sonra karada yaşamaya başlamıştır. Zamanla değişen bu Pokémon, vücudunu korumak için onu bir zehir tabakasıyla kaplamıştır.
 
 RESOURCE ID: pokemon_desc_0195
 TEXT: Quagsire, suyun içinde ağzını kocaman açmış bir şekilde avının hata yapmasını bekleyerek yiyecek avlar. Bu Pokémon, hareket etmediği için pek de acıkmaz.
@@ -40731,11 +41162,341 @@ TEXT: Denizi aşarak bu topraklara uçup geldiğinde dondurucu kış son bulur. 
 RESOURCE ID: pokemon_desc_0905_2803
 TEXT: Dişi insansı formundan farklı bir görünüm. Bulutların üstünden inerek herhangi bir varlığa saygısızlık edenlere çullanır ve onlara amansız, gazap dolu bir ceza verir.
 
+RESOURCE ID: pokemon_desc_0906
+TEXT: Kabarık kürkünün yapısı bitkiye benzer. Bu Pokémon yüzünü kurumaması için sık sık yıkar.
+
+RESOURCE ID: pokemon_desc_0907
+TEXT: Floragato uzun kürkünün altında sakladığı sarmaşığı ustaca savurarak ucundaki sert çiçek tomurcuğuyla rakiplerine vurur.
+
+RESOURCE ID: pokemon_desc_0908
+TEXT: Bu Pokémon, pelerininin ışığı yansıtan kürklü astarını kullanarak çiçeğinin sapını kamufle eder ve çiçeğin havada asılı olduğu izlenimini verir.
+
+RESOURCE ID: pokemon_desc_0909
+TEXT: Sıcak kayaların üstüne uzanır ve kare şeklindeki pullarının emdiği ısıyı kullanarak ateş enerjisi oluşturur.
+
+RESOURCE ID: pokemon_desc_0910
+TEXT: İçindeki ateş enerjisi ve bedeninden taşan yaşama gücünden dolayı Crocalor’un kafasının üzerinde yumurta şeklinde bir ateş topu oluşmuştur.
+
+RESOURCE ID: pokemon_desc_0911
+TEXT: Skeledirge şarkı söylediğinde ateşten kuş şekil değiştirir. Söylentiye göre bu kuş, Skeledirge’ün kafasının üstündeki ateş topunun bir ruh kazanmasıyla birlikte doğmuştur.
+
+RESOURCE ID: pokemon_desc_0912
+TEXT: Bu Pokémon uzun bir zaman önce uzak diyarlardan Paldea’ya göç etmiştir. Tüylerinin salgıladığı jel sayesinde su ve kir geçirmez.
+
+RESOURCE ID: pokemon_desc_0913
+TEXT: Bu Pokémon’lar bacaklarını çalıştırmak için sürekli sığ sularda koşar ve kimin tekmesinin en güzel olduğunu görmek için birbirleriyle yarışırlar.
+
+RESOURCE ID: pokemon_desc_0914
+TEXT: Quaquaval’ın tek bir tekmesi bir kamyonu fırlatmaya yetecek güçtedir. Bu Pokémon güçlü bacaklarını kullanarak uzak diyarlardan çarpıcı danslar icra eder.
+
+RESOURCE ID: pokemon_desc_0915
+TEXT: Tüm gün yiyecek arar. Koku alma duyusu çok güçlüdür ama bu yeteneğini sadece yiyecek bulmak için kullanır.
+
+RESOURCE ID: pokemon_desc_0916_2981
+TEXT: Oinkologne pürüzsüz ve parlak derisiyle gurur duyar. Kuyruğunun ucundan yoğun bir koku yayar.
+
+RESOURCE ID: pokemon_desc_0916_2982
+TEXT: Bu Pokémon etrafa çiçeklerinkine benzer bir koku yayar. Bacaklarındaki gelişmiş kaslar sayesinde hiç zorlanmadan beş metreden fazla yüksekliğe zıplayabilir.
+
+RESOURCE ID: pokemon_desc_0917
+TEXT: Vücudunun etrafında sarılı olan ipler, bu Pokémon’un doğal düşmanı olan Scyther’ın tırpanlarını savuşturacak kadar esnektir.
+
+RESOURCE ID: pokemon_desc_0918
+TEXT: İplerini kullanarak dallara ve tavana tutunup çıt çıkarmadan hareket eder. Avını hiç fark ettirmeden yakalar.
+
+RESOURCE ID: pokemon_desc_0919
+TEXT: Üçüncü çift bacağı katlı durur. Bu Pokémon zor durumda kaldığında bacaklarının gücünü kullanarak yaklaşık on metre yüksekliğe zıplayabilir.
+
+RESOURCE ID: pokemon_desc_0920
+TEXT: Tüm gücüyle dövüşmeye karar verdiğinde daha önce katlı durumda olan bacaklarının üstünde durarak Karşılaşma Moduna geçer. Rakiplerini hızlıca etkisiz hale getirir.
+
+RESOURCE ID: pokemon_desc_0921
+TEXT: Yanaklarında pek gelişmemiş elektrik bezeleri bulunur. Bu bezeler yalnızca Pawmi ön patilerindeki ufak yastıklarla onları hızlıca ovaladığında elektrik üretir.
+
+RESOURCE ID: pokemon_desc_0922
+TEXT: Grubu saldırıya uğradığında Pawmo mücadeleye en önde atılarak elektrik şoku kullanan bir dövüş tekniğiyle düşmanlarını alt eder.
+
+RESOURCE ID: pokemon_desc_0923
+TEXT: Bu Pokémon normalde yavaş hareket eder ama bir kez maça girdiğinde yıldırım hızıyla düşmanlarının hakkından gelir.
+
+RESOURCE ID: pokemon_desc_0924
+TEXT: Harika bir takım çalışması sergileyerek, yuva yapmaya yarayacak her türlü malzemeyi kesici dişleriyle kesip aşırırlar.
+
+RESOURCE ID: pokemon_desc_0925_2983
+TEXT: Yemek yemek ve uyumak gibi çeşitli amaçlar için kullanılan çok odalı kocaman yuvalar kurarlar.
+
+RESOURCE ID: pokemon_desc_0925_2984
+TEXT: Minik olan iki tanesi bir gün ortaya çıkıverdi. Bu grup birbirleriyle akraba olan Pokémon’lardan oluşan bir aile olabilir ama kimse bundan emin değil.
+
+RESOURCE ID: pokemon_desc_0926
+TEXT: Bu Pokémon’un derisi yumuşak ve nemlidir. Fidough’nun nefesindeki maya etrafında mayalanmaya neden olur.
+
+RESOURCE ID: pokemon_desc_0927
+TEXT: Bu Pokémon’un vücudundan yayılan hoş koku buğdayın serpilmesine yardımcı olur, bu nedenle Dachsbun çiftçilikle geçinen köylerde çok değerlidir.
+
+RESOURCE ID: pokemon_desc_0928
+TEXT: Kafasının üstündeki meyveden yağ salgılayarak kendini düşmanlara karşı korur. Bu yağ etraftakileri yerinden sıçratacak kadar keskin ve kekremsidir.
+
+RESOURCE ID: pokemon_desc_0929
+TEXT: Dolliv lezzetli ve güzel kokulu yağını herkesle paylaşır. Bu tür uzun yıllardan beridir insanlarla bir arada yaşamıştır.
+
+RESOURCE ID: pokemon_desc_0930
+TEXT: Bu Pokémon çok sakin ve merhametlidir. Lezzetli ve besleyici yağını zayıf düşmüş Pokémon’larla paylaşır.
+
+RESOURCE ID: pokemon_desc_0931_2985
+TEXT: Bu Pokémon’lar şehirde yaşamayı tercih ederler. Tüylerinin rengine göre sürüler oluşturur ve mıntıka savaşları yaparlar.
+
+RESOURCE ID: pokemon_desc_0931_2986
+TEXT: En büyük sürüleri elliden fazla bireyden oluşabilir. Şehirlerin ve ormanların etrafında gürültü çıkararak uçar ve yiyecek ararlar.
+
+RESOURCE ID: pokemon_desc_0931_2987
+TEXT: Bu Squawkabilly’ler asabi olur ve dövüş tarzları da saldırgan ve serttir. Bir anda düşmanlarının dibinde biter ve yakın çatışmaya girerler.
+
+RESOURCE ID: pokemon_desc_0931_2988
+TEXT: Bu Pokémon yalnız kalmaktan hiç hoşlanmaz. Topluluğa ihtiyaç duyar ve dostlarıyla işbirliği yaparak hayatta kalır.
+
+RESOURCE ID: pokemon_desc_0932
+TEXT: Yerin altında derinlerde bir yerde bir kaya tuzu katmanının içinde dünyaya gelmiştir. Değerli tuzlarını paylaştıkları için bu tür eski zamanlarda çok kıymetliydi.
+
+RESOURCE ID: pokemon_desc_0933
+TEXT: Bu Pokémon avının üzerine tuz püskürterek onu kurutur. Bu süreç avın vücudundaki suyun çekilmesine neden olur.
+
+RESOURCE ID: pokemon_desc_0934
+TEXT: Garganacl parmak uçlarını birbirine sürterek yaralanmış Pokémon’ların üstüne tuz serper. En derin yaralar bile bu şekilde hızlıca iyileşebilir.
+
+RESOURCE ID: pokemon_desc_0935
+TEXT: Yanmış kömür canlanarak bir Pokémon’a dönüşmüştür. Charcadet’in öyle coşkulu ve mücadeleci bir ruhu vardır ki en sert rakiplerle bile mücadeleden çekinmez.
+
+RESOURCE ID: pokemon_desc_0936
+TEXT: Armarouge seçkin bir savaşçıya ait olan bir zırhı kullanarak evrimleşmiştir. Bu Pokémon son derece sadıktır.
+
+RESOURCE ID: pokemon_desc_0937
+TEXT: Kollarındaki ateşten bıçaklar amacına ulaşamadan mağlup olmuş bir kılıç ustasının kiniyle yanıp durur.
+
+RESOURCE ID: pokemon_desc_0938
+TEXT: Tadbulb kuyruğunu sallayarak elektrik üretir. Eğer etrafta bir tehlike olduğunu hissederse dostlarını uyarmak için kafasını yakıp söndürür.
+
+RESOURCE ID: pokemon_desc_0939
+TEXT: Bu Pokémon yalpalayan vücudunu genişletip daralttığında, göbek deliğine benzeyen dinamo yüksek miktarlarda elektrik üretir.
+
+RESOURCE ID: pokemon_desc_0940
+TEXT: Kanatları rüzgârla temas ettiğinde kemikleri elektrik üretir. Bu Pokémon okyanusa dalış yapıp avını elektrik akımı kullanarak yakalar.
+
+RESOURCE ID: pokemon_desc_0941
+TEXT: Kilowattrel elektrik gücünü artırmak için boğazındaki keseciği şişirir. Rüzgârı arkasına alıp uçtuğunda günde 700 kilometre mesafe katedebilir.
+
+RESOURCE ID: pokemon_desc_0942
+TEXT: Rakipleri onu ciddiye alsın diye kaşlarını çatmaya çalışır ama ağlayan çocuklar bile Maschiff’in suratını gördüklerinde gülmeye başlar.
+
+RESOURCE ID: pokemon_desc_0943
+TEXT: Bu Pokémon iri gerdanında enerji biriktirebilir. Mabosstiff düşmanlarını püskürtmek için bu enerjinin tümünü bir anda serbest bırakır.
+
+RESOURCE ID: pokemon_desc_0944
+TEXT: Genellikle yumuşak huylu bir Pokémon olmasına rağmen sinirlendiğinde zehir dolu sivri dişlerini onu sinirlendirenlere saplayarak felç olmalarına neden olur.
+
+RESOURCE ID: pokemon_desc_0945
+TEXT: Bu Pokémon’un zehirli tükürüğü yediklerine göre renk değiştirir. Grafaiai parmaklarını tükürüğüyle kaplayarak ormandaki ağaçlara desenler çizer.
+
+RESOURCE ID: pokemon_desc_0946
+TEXT: Öbür dünyaya göçemeyen bir ruh rüzgâra kapılıp kuru otlara takılınca bu Pokémon’a dönüşmüştür.
+
+RESOURCE ID: pokemon_desc_0947
+TEXT: Kafasındaki dalları açarak avını sarmalar. İhtiyacı olan tüm hayat enerjisini emdikten sonra avını serbest bırakıp bir kenara atar.
+
+RESOURCE ID: pokemon_desc_0948
+TEXT: Toedscool nemli ormanlarda yaşar. Vücudundan düşen saçaklar çok lezzetlidir.
+
+RESOURCE ID: pokemon_desc_0949
+TEXT: Bu Pokémon’lar ormanın derinliklerinde koloniler halinde yaşar. Yabancıların yanlarına yaklaşmasından hiç ama hiç hoşlanmazlar.
+
+RESOURCE ID: pokemon_desc_0950
+TEXT: Klawf uçurumlardan baş aşağı sarkarak avını bekler. Ama bu pozisyonda uzun süre duramaz çünkü kan başına toplanır.
+
+RESOURCE ID: pokemon_desc_0951
+TEXT: Bu Pokémon güneşin altında ne kadar kalırsa vücudu o kadar acılı madde üretir, dolayısıyla daha da yerinde duramaz hale gelir.
+
+RESOURCE ID: pokemon_desc_0952
+TEXT: Kırmızı kafa acılı maddeleri ateş enerjisine dönüştürür ve etrafa aşırı acılı bir alev seli püskürtür.
+
+RESOURCE ID: pokemon_desc_0953
+TEXT: Bu Pokémon kum ve toprağı psişik enerjiyle karıştırarak bir çamur topu oluşturur. Bu çamur topuna canı pahasına sahip çıkar.
+
+RESOURCE ID: pokemon_desc_0954
+TEXT: Topu taşıyan vücudu pek hareket etmez. Bu nedenle bu Pokémon’un esas vücudunun topun içinde bulunduğu düşünülür. 
+
+RESOURCE ID: pokemon_desc_0955
+TEXT: Göbeğindeki fırfırlardan çıkan psişik güç sayesinde Flittle’ın ayakları yerden bir santim kadar havada durur.
+
+RESOURCE ID: pokemon_desc_0956
+TEXT: Kocaman gözlerinden çıkan psişik güçle rakiplerini hareketsiz hale getirir. Güzel görünüşüne rağmen acımasız bir mizaca sahiptir.
+
+RESOURCE ID: pokemon_desc_0957
+TEXT: El yapımı çekicini kendini korumak için kullanır, ancak metal yiyen Pokémon’lar bu çekici sık sık çalarlar.
+
+RESOURCE ID: pokemon_desc_0958
+TEXT: Bu Pokémon Pawniard ve Bisharp topluluklarına saldırır ve onlardan aldığı metallerden büyük ve dayanıklı bir çekiç yapar.
+
+RESOURCE ID: pokemon_desc_0959
+TEXT: Bu akıllı Pokémon oldukça gözüpek bir mizaca sahiptir. Çekiciyle havaya fırlattığı kayalarla uçan Corviknight’ı hedef alır. 
+
+RESOURCE ID: pokemon_desc_0960
+TEXT: Bu Pokémon Veluza’nın kokusunu 20 metreden alabilir ve kendini kuma gömerek saklanır.
+
+RESOURCE ID: pokemon_desc_0961
+TEXT: Görünüşünün aksine acımasız bir mizacı vardır. Uzun vücutlarını avının etrafında sararak onu kovuğuna sürükler.
+
+RESOURCE ID: pokemon_desc_0962
+TEXT: Bu Pokémon, göğsündeki tüylere iliştirdiği ve dökülen tüylerden oluşan bir önlükte eşya biriktirir ve bunları eğlence olsun diye yüksek yerlerden aşağıya atar.
+
+RESOURCE ID: pokemon_desc_0963
+TEXT: Kuyruğundaki su halkasını kullanarak kendi türünden olanlarla oynamaktan hoşlanır. Ultrasonik dalgalar kullanarak diğer canlı varlıkların duygularını hissedebilir.
+
+RESOURCE ID: pokemon_desc_0964_2989
+TEXT: Bu Pokémon dostlarının yardım çağrılarını duyduğunda görünüşünü değiştirir. Palafin dönüşme anını asla kimseye göstermez.
+
+RESOURCE ID: pokemon_desc_0964_2990
+TEXT: Dönüşen bu Pokémon’un antik genleri dirilmiştir. Artık o kadar güçlüdür ki tek bir yüzgeciyle bir yolcu gemisini kaldırabilir.
+
+RESOURCE ID: pokemon_desc_0965
+TEXT: Bu Pokémon’un, bilinmeyen zehirli bir Pokémon’un bir hurda fabrikasındaki bir motorun içine girip onu canlandırmasıyla doğduğu söylenir.
+
+RESOURCE ID: pokemon_desc_0966
+TEXT: Kayaların minerallerini zehiriyle birleştirerek gaz oluşturur. Daha sonra bu gazı sekiz adedi bulan silindirlerinde patlatarak enerji meydana getirir.
+
+RESOURCE ID: pokemon_desc_0967
+TEXT: Söylenenlere göre Cyclizar antik zamanlardan beri insanları sırtında taşıyagelmiştir. Bunu örnekleyen ilkel çizimler on bin yıllık duvar resimlerinde görülmüştür.
+
+RESOURCE ID: pokemon_desc_0968
+TEXT: Bu Pokémon saldırıya uğradığında vücudundaki bıyıkları yumruk gibi kullanarak rakibini yumruk yağmuruna tutar.
+
+RESOURCE ID: pokemon_desc_0969
+TEXT: Mağara duvarlarından besleyici mineralleri emer. Taç yaprakları kristalleşmiş zehirden oluşur.
+
+RESOURCE ID: pokemon_desc_0970
+TEXT: Bu Pokémon bir tehlike sezdiğinde kristal taç yapraklarını açar ve koni şeklindeki vücudundan ateş püskürtür.
+
+RESOURCE ID: pokemon_desc_0971
+TEXT: Söylenene göre bir köpek Pokémon tek bir insanla bile etkileşime geçmeden doğada ölmüş ve bu Pokémon olarak yeniden doğmuştur.
+
+RESOURCE ID: pokemon_desc_0972
+TEXT: Houndstone vaktinin çoğunu mezarlıklarda uyuyarak geçirir. Tüm köpek Pokémon’ların içinde sahibine en sadık olan odur.
+
+RESOURCE ID: pokemon_desc_0973
+TEXT: Bu Pokémon’un karnındaki enerji gagasından çıkmasın diye boynunun alt kısmına bir düğüm attığı söylenir.
+
+RESOURCE ID: pokemon_desc_0974
+TEXT: Bu tür çok uzun zaman önce okyanusu terk edip karada yaşamaya başlamıştır. Wailmer’la yakın akrabaymış gibi görünür.
+
+RESOURCE ID: pokemon_desc_0975
+TEXT: Bu Pokémon karlı ve buzlu yerlerde dolaşır. Vücudunu güçlü kaslarla ve derisinin altındaki kalın yağ tabakasıyla korur.
+
+RESOURCE ID: pokemon_desc_0976
+TEXT: Veluza işine yaramayan etlerini üzerinden attığında zihni çok iyi odaklanır ve psişik gücü artar. Attığı etlerin belli belirsiz ama güzel bir tadı vardır.
+
+RESOURCE ID: pokemon_desc_0977
+TEXT: Bu Pokémon çok oburdur ama yemek bulmayı pek beceremez. Bu nedenle avlanmak için Tatsugiri ile işbirliği yapar.
+
+RESOURCE ID: pokemon_desc_0978_2991
+TEXT: Bu küçük bir ejderha Pokémon’dur. Kendini düşmanlardan korumak için Dondozo’nun ağzının içinde yaşar.
+
+RESOURCE ID: pokemon_desc_0978_2992
+TEXT: Tatsugiri’nin değişken renk ve desenleri anlaşılan tuzağına düşürmeye çalıştığı avının tercihlerine göre kendisini değiştirmesinden kaynaklanır.
+
+RESOURCE ID: pokemon_desc_0978_2993
+TEXT: En çok kuş Pokémon avlar. Bu Pokémon zayıf olduğunun farkındadır, bu nedenle bir partnerle birlikte avlanır.
+
+RESOURCE ID: pokemon_desc_0979
+TEXT: Bu Pokémon, öfkesi kritik seviyeleri aştığında vücudunun fiziksel sınırlarının ötesine geçen bir güç elde eder.
+
+RESOURCE ID: pokemon_desc_0980
+TEXT: Bu Pokémon, saldırıya uğradığında intikamını vücudundan kalın dikenler çıkararak alır. Bu her şeyi tehlikeye atan riskli bir harekettir.
+
+RESOURCE ID: pokemon_desc_0981
+TEXT: Kafasından ve kuyruğundan çıkan beyin dalgaları artık uyumlu olduğu için bu Pokémon’un psişik gücü Girafarig’inkinden on kat daha fazladır.
+
+RESOURCE ID: pokemon_desc_0982_2994
+TEXT: Bu Pokémon sert kuyruğuyla yerin altında kayaları delerek kendine yuva yapar. Bu yuvaların uzunluğu on kilometreyi aşabilir.
+
+RESOURCE ID: pokemon_desc_0982_2995
+TEXT: Nazik Dudunsparce yollarını kaybedip kendilerini yuvasında bulan Pokémon’ları sırtına alarak yuvasının girişine geri götürür.
+
+RESOURCE ID: pokemon_desc_0983
+TEXT: Yalnızca geniş ordusunun en üst düzeyinde bulunan bir Bisharp Kingambit’e evrimleşebilir.
+
+RESOURCE ID: pokemon_desc_0984
+TEXT: Bu Pokémon ancak geçtiğimiz yıllarda görülmüştür. İri Diş adı bir kitapta listelenen bir yaratığın adından gelir.
+
+RESOURCE ID: pokemon_desc_0985
+TEXT: Bu Pokémon kayıtlara göre yalnızca bir defa görülmüştür. Eski bir keşif dergisinde görülen gizemli bir yaratığa benzer.
+
+RESOURCE ID: pokemon_desc_0986
+TEXT: Bir kitapta Kaba Şapka ismiyle anılan yaratığın bu Pokémon olması mümkündür.
+
+RESOURCE ID: pokemon_desc_0987
+TEXT: Bu Pokémon bir kitapta adı geçen Titrek Yele ile benzer özelliklere sahiptir.
+
+RESOURCE ID: pokemon_desc_0988
+TEXT: Bu gizemli Pokémon eski bir kitapta Sürüngen Kanat olarak geçen bir yaratıkla bazı benzerlikler gösterir.
+
+RESOURCE ID: pokemon_desc_0989
+TEXT: Bu Pokémon’un yakalandığına dair hiçbir kayıt yoktur. Bilgi eksikliği olmakla birlikte bu Pokémon’un özellikleri bir keşif dergisinde görülen bir yaratıkla uyumludur.
+
+RESOURCE ID: pokemon_desc_0990
+TEXT: Sightings of this Pokémon have occurred in recent years. It resembles a mysterious object described in an old expedition journal.
+
+RESOURCE ID: pokemon_desc_0991
+TEXT: It resembles a mysterious object mentioned in an old book. There are only two reported sightings of this Pokémon.
+
+RESOURCE ID: pokemon_desc_0992
+TEXT: This Pokémon shares many similarities with Iron Hands, an object mentioned in a certain expedition journal.
+
+RESOURCE ID: pokemon_desc_0993
+TEXT: It’s possible that Iron Jugulis, an object described in an old book, may actually be this Pokémon.
+
+RESOURCE ID: pokemon_desc_0994
+TEXT: No records exist of this species being caught. Data is lacking, but the Pokémon’s traits match up with an object described in an old book.
+
+RESOURCE ID: pokemon_desc_0995
+TEXT: Some of its notable features match those of an object named within a certain expedition journal as Iron Thorns.
+
+RESOURCE ID: pokemon_desc_0996
+TEXT: Frigibax sırtındaki yüzgeci kullanarak ısıyı emer ve buz enerjisine çevirir. Isı yükseldikçe Frigibax’in depoladığı enerji de artar.
+
+RESOURCE ID: pokemon_desc_0997
+TEXT: Arctibax yüzünü buzdan bir maskeyle koruyarak ve sırtındaki yüzgeci buzdan bir bıçağa dönüştürerek etrafındaki havayı dondurur.
+
+RESOURCE ID: pokemon_desc_0998
+TEXT: Bu Pokémon ağzından dondurucu hava püskürtür. Bu hava sıvı halindeki lavı bile anında dondurabilir.
+
 RESOURCE ID: pokemon_desc_0999
 TEXT: Bu Pokémon tutkunun paraya sızmasıyla dünyaya gelmiştir. Gezip durur ve söylenene göre bir zamanlar içinde yaşadığı hazine sandığına geri dönmenin yollarını arar.
 
 RESOURCE ID: pokemon_desc_1000
 TEXT: Vücudu 1000 madeni paradan oluşmuşa benzer. Bu Pokémon herkesle iyi geçinip hemen arkadaşlık kurar.
+
+RESOURCE ID: pokemon_desc_1001
+TEXT: Kralın işlediği günahları ahşap tabletlere yazdığı için cezalandırılan bir kişinin kini ölü yaprakların üstünü örterek bir Pokémon’a dönüşmüştür.
+
+RESOURCE ID: pokemon_desc_1002
+TEXT: Bu Pokémon yüz tonluk bir kar yığınını kontrol edebilir. Sebep olduğu çığların arasında masumane oyunlar oynar.
+
+RESOURCE ID: pokemon_desc_1003
+TEXT: Eski ayinlerde kullanılan bir kaba dökülen korku hissi kayaların ve toprağın üstünü kaplayarak bir Pokémon’a dönüşmüştür.
+
+RESOURCE ID: pokemon_desc_1004
+TEXT: 3000 derecede yanan ateşleri kontrol edebilir. Kaya ve kumları eriterek meydana getirdiği lav denizinde rahat rahat yüzer.
+
+RESOURCE ID: pokemon_desc_1005
+TEXT: Bir keşif dergisinde Kükreyen Hilal olarak geçen ve hâlâ birçok gizem barındıran yaratığın bu olması ihtimal dahilindedir.
+
+RESOURCE ID: pokemon_desc_1006
+TEXT: It’s possible that this is the object listed as Iron Valiant in a certain expedition journal.
+
+RESOURCE ID: pokemon_desc_1007_2996
+TEXT: Eski bir keşif dergisinde bahsedilen Kanatlı Kral olması muhtemeldir. Çıplak yumruğuyla yeri ortadan ikiye yardığı söylenir.
+
+RESOURCE ID: pokemon_desc_1008_2997
+TEXT: This seems to be the Iron Serpent mentioned in an old book. The Iron Serpent is said to have turned the land to ash with its lightning.
 
 RESOURCE ID: pokemon_desc_tmpevo_0003_0001
 TEXT: Mega Evrim sayesinde büyüyen çiçeğini tutmak için sırtı ve bacakları güçlenmiştir.
@@ -41243,7 +42004,7 @@ RESOURCE ID: pokemon_info_unlockmove3_confirmation
 TEXT: {0} yeni bir Güçlü Saldırı öğrensin mi?
 
 RESOURCE ID: pokemon_info_upgrade_evolution_confirmation
-TEXT: Do you want to change {0}’s form?
+TEXT: {0} formu değiştirilsin mi?
 
 RESOURCE ID: pokemon_info_upgrade_evolve_button
 TEXT: Formunu Değiştir
@@ -44179,11 +44940,314 @@ TEXT: Overqwil
 RESOURCE ID: pokemon_name_0905
 TEXT: Enamorus
 
+RESOURCE ID: pokemon_name_0906
+TEXT: Sprigatito
+
+RESOURCE ID: pokemon_name_0907
+TEXT: Floragato
+
+RESOURCE ID: pokemon_name_0908
+TEXT: Meowscarada
+
+RESOURCE ID: pokemon_name_0909
+TEXT: Fuecoco
+
+RESOURCE ID: pokemon_name_0910
+TEXT: Crocalor
+
+RESOURCE ID: pokemon_name_0911
+TEXT: Skeledirge
+
+RESOURCE ID: pokemon_name_0912
+TEXT: Quaxly
+
+RESOURCE ID: pokemon_name_0913
+TEXT: Quaxwell
+
+RESOURCE ID: pokemon_name_0914
+TEXT: Quaquaval
+
+RESOURCE ID: pokemon_name_0915
+TEXT: Lechonk
+
+RESOURCE ID: pokemon_name_0916
+TEXT: Oinkologne
+
+RESOURCE ID: pokemon_name_0917
+TEXT: Tarountula
+
+RESOURCE ID: pokemon_name_0918
+TEXT: Spidops
+
+RESOURCE ID: pokemon_name_0919
+TEXT: Nymble
+
+RESOURCE ID: pokemon_name_0920
+TEXT: Lokix
+
+RESOURCE ID: pokemon_name_0921
+TEXT: Pawmi
+
+RESOURCE ID: pokemon_name_0922
+TEXT: Pawmo
+
+RESOURCE ID: pokemon_name_0923
+TEXT: Pawmot
+
+RESOURCE ID: pokemon_name_0924
+TEXT: Tandemaus
+
+RESOURCE ID: pokemon_name_0925
+TEXT: Maushold
+
+RESOURCE ID: pokemon_name_0926
+TEXT: Fidough
+
+RESOURCE ID: pokemon_name_0927
+TEXT: Dachsbun
+
+RESOURCE ID: pokemon_name_0928
+TEXT: Smoliv
+
+RESOURCE ID: pokemon_name_0929
+TEXT: Dolliv
+
+RESOURCE ID: pokemon_name_0930
+TEXT: Arboliva
+
+RESOURCE ID: pokemon_name_0931
+TEXT: Squawkabilly
+
+RESOURCE ID: pokemon_name_0932
+TEXT: Nacli
+
+RESOURCE ID: pokemon_name_0933
+TEXT: Naclstack
+
+RESOURCE ID: pokemon_name_0934
+TEXT: Garganacl
+
+RESOURCE ID: pokemon_name_0935
+TEXT: Charcadet
+
+RESOURCE ID: pokemon_name_0936
+TEXT: Armarouge
+
+RESOURCE ID: pokemon_name_0937
+TEXT: Ceruledge
+
+RESOURCE ID: pokemon_name_0938
+TEXT: Tadbulb
+
+RESOURCE ID: pokemon_name_0939
+TEXT: Bellibolt
+
+RESOURCE ID: pokemon_name_0940
+TEXT: Wattrel
+
+RESOURCE ID: pokemon_name_0941
+TEXT: Kilowattrel
+
+RESOURCE ID: pokemon_name_0942
+TEXT: Maschiff
+
+RESOURCE ID: pokemon_name_0943
+TEXT: Mabosstiff
+
+RESOURCE ID: pokemon_name_0944
+TEXT: Shroodle
+
+RESOURCE ID: pokemon_name_0945
+TEXT: Grafaiai
+
+RESOURCE ID: pokemon_name_0946
+TEXT: Bramblin
+
+RESOURCE ID: pokemon_name_0947
+TEXT: Brambleghast
+
+RESOURCE ID: pokemon_name_0948
+TEXT: Toedscool
+
+RESOURCE ID: pokemon_name_0949
+TEXT: Toedscruel
+
+RESOURCE ID: pokemon_name_0950
+TEXT: Klawf
+
+RESOURCE ID: pokemon_name_0951
+TEXT: Capsakid
+
+RESOURCE ID: pokemon_name_0952
+TEXT: Scovillain
+
+RESOURCE ID: pokemon_name_0953
+TEXT: Rellor
+
+RESOURCE ID: pokemon_name_0954
+TEXT: Rabsca
+
+RESOURCE ID: pokemon_name_0955
+TEXT: Flittle
+
+RESOURCE ID: pokemon_name_0956
+TEXT: Espathra
+
+RESOURCE ID: pokemon_name_0957
+TEXT: Tinkatink
+
+RESOURCE ID: pokemon_name_0958
+TEXT: Tinkatuff
+
+RESOURCE ID: pokemon_name_0959
+TEXT: Tinkaton
+
+RESOURCE ID: pokemon_name_0960
+TEXT: Wiglett
+
+RESOURCE ID: pokemon_name_0961
+TEXT: Wugtrio
+
+RESOURCE ID: pokemon_name_0962
+TEXT: Bombirdier
+
+RESOURCE ID: pokemon_name_0963
+TEXT: Finizen
+
+RESOURCE ID: pokemon_name_0964
+TEXT: Palafin
+
+RESOURCE ID: pokemon_name_0965
+TEXT: Varoom
+
+RESOURCE ID: pokemon_name_0966
+TEXT: Revavroom
+
+RESOURCE ID: pokemon_name_0967
+TEXT: Cyclizar
+
+RESOURCE ID: pokemon_name_0968
+TEXT: Orthworm
+
+RESOURCE ID: pokemon_name_0969
+TEXT: Glimmet
+
+RESOURCE ID: pokemon_name_0970
+TEXT: Glimmora
+
+RESOURCE ID: pokemon_name_0971
+TEXT: Greavard
+
+RESOURCE ID: pokemon_name_0972
+TEXT: Houndstone
+
+RESOURCE ID: pokemon_name_0973
+TEXT: Flamigo
+
+RESOURCE ID: pokemon_name_0974
+TEXT: Cetoddle
+
+RESOURCE ID: pokemon_name_0975
+TEXT: Cetitan
+
+RESOURCE ID: pokemon_name_0976
+TEXT: Veluza
+
+RESOURCE ID: pokemon_name_0977
+TEXT: Dondozo
+
+RESOURCE ID: pokemon_name_0978
+TEXT: Tatsugiri
+
+RESOURCE ID: pokemon_name_0979
+TEXT: Annihilape
+
+RESOURCE ID: pokemon_name_0980
+TEXT: Clodsire
+
+RESOURCE ID: pokemon_name_0981
+TEXT: Farigiraf
+
+RESOURCE ID: pokemon_name_0982
+TEXT: Dudunsparce
+
+RESOURCE ID: pokemon_name_0983
+TEXT: Kingambit
+
+RESOURCE ID: pokemon_name_0984
+TEXT: İri Diş
+
+RESOURCE ID: pokemon_name_0985
+TEXT: Kuyruklu Çığlık
+
+RESOURCE ID: pokemon_name_0986
+TEXT: Kaba Şapka
+
+RESOURCE ID: pokemon_name_0987
+TEXT: Titrek Yele
+
+RESOURCE ID: pokemon_name_0988
+TEXT: Sürüngen Kanat
+
+RESOURCE ID: pokemon_name_0989
+TEXT: Kuru Şok
+
+RESOURCE ID: pokemon_name_0990
+TEXT: Demir Palet
+
+RESOURCE ID: pokemon_name_0991
+TEXT: Demir Kuyruk
+
+RESOURCE ID: pokemon_name_0992
+TEXT: Demir Avuç
+
+RESOURCE ID: pokemon_name_0993
+TEXT: Demir Gerdan
+
+RESOURCE ID: pokemon_name_0994
+TEXT: Demir Güve
+
+RESOURCE ID: pokemon_name_0995
+TEXT: Demir Zırh
+
+RESOURCE ID: pokemon_name_0996
+TEXT: Frigibax
+
+RESOURCE ID: pokemon_name_0997
+TEXT: Arctibax
+
+RESOURCE ID: pokemon_name_0998
+TEXT: Baxcalibur
+
 RESOURCE ID: pokemon_name_0999
 TEXT: Gimmighoul
 
 RESOURCE ID: pokemon_name_1000
 TEXT: Gholdengo
+
+RESOURCE ID: pokemon_name_1001
+TEXT: Wo-Chien
+
+RESOURCE ID: pokemon_name_1002
+TEXT: Chien-Pao
+
+RESOURCE ID: pokemon_name_1003
+TEXT: Ting-Lu
+
+RESOURCE ID: pokemon_name_1004
+TEXT: Chi-Yu
+
+RESOURCE ID: pokemon_name_1005
+TEXT: Kükreyen Hilal
+
+RESOURCE ID: pokemon_name_1006
+TEXT: Demir Savaşçı
+
+RESOURCE ID: pokemon_name_1007
+TEXT: Koraidon
+
+RESOURCE ID: pokemon_name_1008
+TEXT: Miraidon
 
 RESOURCE ID: pokemon_nickname_error
 TEXT: Lütfen farklı bir takma isim girin.
@@ -46140,7 +47204,7 @@ RESOURCE ID: quest_complete_tepit
 TEXT: Kavrulmuş Meyveler
 
 RESOURCE ID: quest_complete_unique_routes
-TEXT: Travel to the end of {0} unique Routes
+TEXT: {0} farklı rotayı sonuna kadar katedin
 
 RESOURCE ID: quest_complete_wt
 TEXT: Sinir Bozucu Olay
@@ -48032,6 +49096,18 @@ TEXT: {0} Fletchinder evrimleştirin
 RESOURCE ID: quest_fraxure_evolve_b
 TEXT: {0} Fraxure evrimleştirin
 
+RESOURCE ID: quest_froakie_catch_b
+TEXT: {0} Froakie yakalayın
+
+RESOURCE ID: quest_froakie_evolve_b
+TEXT: {0} Froakie evrimleştirin
+
+RESOURCE ID: quest_froakie_snapshot_b
+TEXT: {0} Froakie’nin fotoğrafını çekin
+
+RESOURCE ID: quest_frogadier_evolve_b
+TEXT: {0} Frogadier evrimleştirin
+
 RESOURCE ID: quest_gbl_rank
 TEXT: GO Maç Ligi'nde {0}. Seviyeye ulaşın
 
@@ -49478,8 +50554,14 @@ TEXT: Doğada Butterfree, Shinx veya Blitzle'ın bir fotoğrafını çekin
 RESOURCE ID: quest_snapshot_wild_dark_plural
 TEXT: Vahşi Karanlık türü Pokémon’ların {0} fotoğrafını çekin
 
+RESOURCE ID: quest_snapshot_wild_dark_unique_plural
+TEXT: Take snapshots of {0} different wild Dark-type Pokémon
+
 RESOURCE ID: quest_snapshot_wild_dragon_plural
 TEXT: Vahşi Ejderha türü Pokémon’ların {0} fotoğrafını çekin
+
+RESOURCE ID: quest_snapshot_wild_dragon_unique_plural
+TEXT: Take snapshots of {0} different wild Dragon-type Pokémon
 
 RESOURCE ID: quest_snapshot_wild_ducklett_chinchou_finneon
 TEXT: Doğada Chinchou, Finneon ya da Ducklett'in bir fotoğrafını çekin
@@ -49490,14 +50572,23 @@ TEXT: Doğada Eevee'nin bir fotoğrafını çekin
 RESOURCE ID: quest_snapshot_wild_electric_plural
 TEXT: Vahşi Elektrik türü Pokémon’ların {0} fotoğrafını çekin
 
+RESOURCE ID: quest_snapshot_wild_electric_unique_plural
+TEXT: Take snapshots of {0} different wild Electric-type Pokémon
+
 RESOURCE ID: quest_snapshot_wild_entei
 TEXT: Doğada Entei’in bir fotoğrafını çekin
 
 RESOURCE ID: quest_snapshot_wild_fairy_plural
 TEXT: Vahşi Peri türü Pokémon’ların {0} fotoğrafını çekin
 
+RESOURCE ID: quest_snapshot_wild_fairy_unique_plural
+TEXT: Take snapshots of {0} different wild Fairy-type Pokémon
+
 RESOURCE ID: quest_snapshot_wild_fighting_plural
 TEXT: Vahşi Dövüşçü türü Pokémon’ların {0} fotoğrafını çekin
+
+RESOURCE ID: quest_snapshot_wild_fighting_unique_plural
+TEXT: Take snapshots of {0} different wild Fighting-type Pokémon
 
 RESOURCE ID: quest_snapshot_wild_fire_plural
 TEXT: Vahşi Ateş türü Pokémon’ların {0} fotoğrafını çekin
@@ -49505,11 +50596,17 @@ TEXT: Vahşi Ateş türü Pokémon’ların {0} fotoğrafını çekin
 RESOURCE ID: quest_snapshot_wild_flying_plural
 TEXT: Vahşi Uçan tür Pokémon’ların {0} fotoğrafını çekin
 
+RESOURCE ID: quest_snapshot_wild_flying_unique_plural
+TEXT: Take snapshots of {0} different wild Flying-type Pokémon
+
 RESOURCE ID: quest_snapshot_wild_geodude_sandshrew_cacnea
 TEXT: Doğada Sandshrew, Geodude ya da Cacnea'nın bir fotoğrafını çekin
 
 RESOURCE ID: quest_snapshot_wild_ghost_plural
 TEXT: Vahşi Hayalet türü Pokémon’ların {0} fotoğrafını çekin
+
+RESOURCE ID: quest_snapshot_wild_ghost_unique_plural
+TEXT: Take snapshots of {0} different wild Ghost-type Pokémon
 
 RESOURCE ID: quest_snapshot_wild_grass_plural
 TEXT: Vahşi Bitki türü Pokémon’ların {0} fotoğrafını çekin
@@ -49517,8 +50614,14 @@ TEXT: Vahşi Bitki türü Pokémon’ların {0} fotoğrafını çekin
 RESOURCE ID: quest_snapshot_wild_grass_singular
 TEXT: Bitki türünden vahşi bir Pokémon'un fotoğrafını çekin
 
+RESOURCE ID: quest_snapshot_wild_grass_unique_plural
+TEXT: Take snapshots of {0} different wild Grass-type Pokémon
+
 RESOURCE ID: quest_snapshot_wild_ground_plural
 TEXT: Vahşi Yer türü Pokémon’ların {0} fotoğrafını çekin
+
+RESOURCE ID: quest_snapshot_wild_ground_unique_plural
+TEXT: Take snapshots of {0} different wild Ground-type Pokémon
 
 RESOURCE ID: quest_snapshot_wild_hoothoot
 TEXT: Doğada Hoothoot'un bir fotoğrafını çekin
@@ -49528,6 +50631,9 @@ TEXT: Vahşi Buz türü Pokémon’ların {0} fotoğrafını çekin
 
 RESOURCE ID: quest_snapshot_wild_ice_singular
 TEXT: Vahşi Buz türü bir Pokémon’un fotoğrafını çekin
+
+RESOURCE ID: quest_snapshot_wild_ice_unique_plural
+TEXT: Take snapshots of {0} different wild Ice-type Pokémon
 
 RESOURCE ID: quest_snapshot_wild_lotad_metapod_aipom
 TEXT: Doğada Metapod, Aipom ya da Lotad'in bir fotoğrafını çekin
@@ -49541,14 +50647,23 @@ TEXT: Doğada Mareanie’nin bir fotoğrafını çekin
 RESOURCE ID: quest_snapshot_wild_normal_plural
 TEXT: Vahşi Normal tür Pokémon’ların {0} fotoğrafını çekin
 
+RESOURCE ID: quest_snapshot_wild_normal_unique_plural
+TEXT: Take snapshots of {0} different wild Normal-type Pokémon
+
 RESOURCE ID: quest_snapshot_wild_plural
 TEXT: Vahşi Pokémon’ların {0} fotoğrafını çekin
 
 RESOURCE ID: quest_snapshot_wild_poison_plural
 TEXT: Vahşi Zehir türü Pokémon’ların {0} fotoğrafını çekin
 
+RESOURCE ID: quest_snapshot_wild_poison_unique_plural
+TEXT: Take snapshots of {0} different wild Poison-type Pokémon
+
 RESOURCE ID: quest_snapshot_wild_psychic_plural
 TEXT: Vahşi Psişik türü Pokémon’ların {0} fotoğrafını çekin
+
+RESOURCE ID: quest_snapshot_wild_psychic_unique_plural
+TEXT: Take snapshots of {0} different wild Psychic-type Pokémon
 
 RESOURCE ID: quest_snapshot_wild_raikou
 TEXT: Doğada Raikou’nun bir fotoğrafını çekin
@@ -49558,6 +50673,9 @@ TEXT: {0} farklı Yer, Kaya veya Peri türü vahşi Pokémon’un fotoğrafını
 
 RESOURCE ID: quest_snapshot_wild_rock_plural
 TEXT: Vahşi Kaya türü Pokémon’ların {0} fotoğrafını çekin
+
+RESOURCE ID: quest_snapshot_wild_rock_unique_plural
+TEXT: Take snapshots of {0} different wild Rock-type Pokémon
 
 RESOURCE ID: quest_snapshot_wild_singular
 TEXT: Bir vahşi Pokémon'un fotoğrafını çekin
@@ -49594,6 +50712,9 @@ TEXT: Vahşi Su türü Pokémon’ların {0} fotoğrafını çekin
 
 RESOURCE ID: quest_snapshot_wild_water_singular
 TEXT: Take a snapshot of wild Water-type Pokémon
+
+RESOURCE ID: quest_snapshot_wild_water_unique_plural
+TEXT: Take snapshots of {0} different wild Water-type Pokémon
 
 RESOURCE ID: quest_snapshots_inarow_plural
 TEXT: {0} gün art arda bir Pokémon'un fotoğrafını çekin
@@ -51277,6 +52398,75 @@ TEXT: Bugünkü yardımların için teşekkürler Eğitmen. Umarım sen de benim
 
 RESOURCE ID: quest_special_dialogue_flett_3_6
 TEXT: Başlayalım!
+
+RESOURCE ID: quest_special_dialogue_froakie_0_0
+TEXT: Merhaba %PLAYERNAME%! Seni görmek ne güzel.
+
+RESOURCE ID: quest_special_dialogue_froakie_0_1
+TEXT: Görmekten bahsetmişken, bugün yürüyüşüm sırasında birileri beni izliyormuş gibi hissettim.
+
+RESOURCE ID: quest_special_dialogue_froakie_0_2
+TEXT: Gizemli takipçimin bir Pokémon olduğundan eminim ama hangisi olduğuna dair en ufak bir fikrim yok.
+
+RESOURCE ID: quest_special_dialogue_froakie_0_3
+TEXT: Sanırım öğrenmenin tek bir yolu var...
+
+RESOURCE ID: quest_special_dialogue_froakie_0_4
+TEXT: E hadi araştırmaya girişelim %PLAYERNAME%!
+
+RESOURCE ID: quest_special_dialogue_froakie_1_0
+TEXT: Tekrar hoş geldin %PLAYERNAME%!
+
+RESOURCE ID: quest_special_dialogue_froakie_1_1
+TEXT: Araştırman hop hop ilerlemişe benziyor. Froakie’yi böyle yakından görmek ne güzel!
+
+RESOURCE ID: quest_special_dialogue_froakie_1_2
+TEXT: Froakie göğsünden ve sırtından kabarcıklar çıkarır. Bu kabarcıklar onu saldırılara karşı koruyarak alabileceği hasarı azaltır.
+
+RESOURCE ID: quest_special_dialogue_froakie_1_3
+TEXT: Ne etkileyici, değil mi? Sen asıl bir de Froakie’nin evrimini gör!
+
+RESOURCE ID: quest_special_dialogue_froakie_1_4
+TEXT: Froakie’yi evrimleştirmeyi denemek ister misin?
+
+RESOURCE ID: quest_special_dialogue_froakie_2_0
+TEXT: İyi iş çıkardın %PLAYERNAME%!
+
+RESOURCE ID: quest_special_dialogue_froakie_2_1
+TEXT: Frogadier’dan hızlısını bulmak çok zordur. Yüz elli katlık bir gökdelene bir dakikada tırmanabilir!
+
+RESOURCE ID: quest_special_dialogue_froakie_2_2
+TEXT: Bu da bir şey değilmiş gibi, Frogadier kabarcık kaplı çakıl taşlarını istediği yere isabet ettirmekte de ustadır. Kıskanılacak yetenekler gerçekten, öyle değil mi?
+
+RESOURCE ID: quest_special_dialogue_froakie_2_3
+TEXT: Şahsen kabarcık deyince benim aklıma köpük banyosu geliyor, kırk yıl düşünsem onları çakıl taşlarını kaplamak için kullanmak aklıma gelmezdi!
+
+RESOURCE ID: quest_special_dialogue_froakie_2_4
+TEXT: Frogadier da gerçekten çok etkileyici ama duyduğuma göre evrimi ondan da daha iyiymiş.
+
+RESOURCE ID: quest_special_dialogue_froakie_2_5
+TEXT: Onu incelememe yardım eder misin %PLAYERNAME%?
+
+RESOURCE ID: quest_special_dialogue_froakie_2_6
+TEXT: Haydi hoplaya zıplaya gidelim o zaman!
+
+RESOURCE ID: quest_special_dialogue_froakie_3_0
+TEXT: Vay canına! Amma eli çabuksun %PLAYERNAME%!
+
+RESOURCE ID: quest_special_dialogue_froakie_3_1
+TEXT: Greninja basınçlı sudan ninja yıldızı yapabilir. Bu yıldızlar hızlı bir şekilde fırlatıldıklarında metali bile ikiye ayırabilir.
+
+RESOURCE ID: quest_special_dialogue_froakie_3_2
+TEXT: Frogadier’ın kabarcık kaplı çakıllarına göre oldukça gelişmiş, ne dersin?
+
+RESOURCE ID: quest_special_dialogue_froakie_3_3
+TEXT: Froakie ve evrimleri hakkında bilgi edinmeme yardım ettiğin için teşekkür ederim %PLAYERNAME%.
+
+RESOURCE ID: quest_special_dialogue_froakie_3_4
+TEXT: Greninja’nın haşmeti ve senin Eğitmen olarak gösterdiğin üstün beceri bir araya geldiğinde eminim ki tüm engelleri aşacaksınız. Belki de aşmak yerine ikiye bölersiniz! Haha!
+
+RESOURCE ID: quest_special_dialogue_froakie_3_5
+TEXT: Hadi GİDELİM!
 
 RESOURCE ID: quest_special_dialogue_galarian_mrmime_0_0
 TEXT: %PLAYERNAME%! Seni görmek ne güzel! Son zamanlarda çok tuhaf şeyler oluyor.
@@ -56050,6 +57240,135 @@ TEXT: Seni görmek ne güzel %PLAYERNAME%! Harika bir araştırma gününe başl
 RESOURCE ID: quest_special_dialogue_searching_gold_june23_1_1
 TEXT: Sen de bu Pokémon’lardan birini bulmak için sabırsızlanıyor musun? Araştırmamız çok iyi geçecek. Benim içime öyle doğuyor!
 
+RESOURCE ID: quest_special_dialogue_season12_0_0
+TEXT: %PLAYERNAME%, exciting news! In my recent research into other regions, I learned of Paldea—a vast, open place dotted with agricultural villages, port towns, and lively markets.
+
+RESOURCE ID: quest_special_dialogue_season12_0_1
+TEXT: And beyond those settlements, Paldea has all sorts of magnificent places begging to be explored, from towering mountains to resplendent lakes.
+
+RESOURCE ID: quest_special_dialogue_season12_0_2
+TEXT: Most importantly for us, there are plenty of Pokémon first discovered in Paldea for us to study!
+
+RESOURCE ID: quest_special_dialogue_season12_0_3
+TEXT: Doesn’t the very idea get your heart racing?
+
+RESOURCE ID: quest_special_dialogue_season12_0_4
+TEXT: If you’re up for it, I say we put our all-star teamwork to the proof by learning all there is to learn about them!
+
+RESOURCE ID: quest_special_dialogue_season12_a_1_0
+TEXT: Great choice! You know, Sprigatito’s a bit of a rascal. It’s capricious and attention-seeking, to the point that it may sulk if it sees you giving attention to another Pokémon!
+
+RESOURCE ID: quest_special_dialogue_season12_a_1_1
+TEXT: As for its physical characteristics, its fluffy fur is similar in composition to plants, letting it create energy by absorbing sunlight.
+
+RESOURCE ID: quest_special_dialogue_season12_a_1_2
+TEXT: And when Sprigatito kneads and rubs with its forepaws, a sweet aroma is released that can mesmerize those around it.
+
+RESOURCE ID: quest_special_dialogue_season12_a_1_3
+TEXT: While you contemplate that, how about you walk around and look for some Grass-type Pokémon, %PLAYERNAME%?
+
+RESOURCE ID: quest_special_dialogue_season12_a_2_0
+TEXT: Welcome back! How did it go? Exploring with a new Pokémon is a great way to develop your bond. Now, here’s another fun Sprigatito fact.
+
+RESOURCE ID: quest_special_dialogue_season12_a_2_1
+TEXT: Sprigatito washes its face regularly to keep its fur from drying out. What a great self-care regimen!
+
+RESOURCE ID: quest_special_dialogue_season12_a_2_2
+TEXT: I wonder how Sprigatito’s Evolution, Floragato, behaves in comparison. Could you help your Sprigatito evolve so we can find out for ourselves?
+
+RESOURCE ID: quest_special_dialogue_season12_a_3_0
+TEXT: Wow! Amazing progress, %PLAYERNAME%! I’m sure there’s plenty you’ll learn with a Pokémon like Floragato at your side.
+
+RESOURCE ID: quest_special_dialogue_season12_a_3_1
+TEXT: Did you know that its fur can become softer or harder depending on its mood? It can even be needle sharp when Floragato is ready to battle.
+
+RESOURCE ID: quest_special_dialogue_season12_a_3_2
+TEXT: Speaking of battle, Floragato deftly wields a vine hidden beneath its long fur, slamming the hard flower bud against its opponents. I bet that smarts!
+
+RESOURCE ID: quest_special_dialogue_season12_a_3_3
+TEXT: I can’t wait to see how Floragato changes when it evolves into Meowscarada. Please come see me when it does!
+
+RESOURCE ID: quest_special_dialogue_season12_a_4_0
+TEXT: Whoa! Meowscarada is one a-meow-zing Pokémon! I’ve heard that with skillful misdirection, it rigs foes with pollen-packed flower bombs, which it sets off before its foes realize what’s going on.
+
+RESOURCE ID: quest_special_dialogue_season12_a_4_1
+TEXT: That’s quite the magic trick. I hope to see it firsthand someday—from a safe distance, of course! But that’s enough out of me—you deserve a rest after all that research. Thanks for your help, as always, %PLAYERNAME%!
+
+RESOURCE ID: quest_special_dialogue_season12_b_1_0
+TEXT: Great choice! Fuecoco’s one cheerful little chomper. Flickering atop its head is fire energy that is leaking out from inside its body—and when Fuecoco gets excited, its head spouts more flames!
+
+RESOURCE ID: quest_special_dialogue_season12_b_1_1
+TEXT: How about you match that enthusiasm as you walk around and look for Fire-type Pokémon, %PLAYERNAME%?
+
+RESOURCE ID: quest_special_dialogue_season12_b_2_0
+TEXT: Welcome back! How did it go? Exploring with a new Pokémon is a great way to develop your bond. Now, here’s another fun Fuecoco fact.
+
+RESOURCE ID: quest_special_dialogue_season12_b_2_1
+TEXT: Fuecoco lies on warm rocks and uses the heat absorbed by its square-shaped scales to create fire energy.
+
+RESOURCE ID: quest_special_dialogue_season12_b_2_2
+TEXT: I wonder how Fuecoco’s Evolution, Crocalor, behaves in comparison. Could you help your Fuecoco evolve so we can find out for ourselves?
+
+RESOURCE ID: quest_special_dialogue_season12_b_3_0
+TEXT: Wow! Amazing progress, %PLAYERNAME%! I’m sure there’s plenty you’ll learn with a Pokémon like Crocalor at your side.
+
+RESOURCE ID: quest_special_dialogue_season12_b_3_1
+TEXT: Did you know that the combination of Crocalor’s fire energy and overflowing vitality is what caused an egg-shaped fireball to appear on the Pokémon’s head?
+
+RESOURCE ID: quest_special_dialogue_season12_b_3_2
+TEXT: What’s more, the valve in Crocalor’s flame sac is closely connected to its vocal cords. It utters a guttural cry as it spews flames every which way. Spicy!
+
+RESOURCE ID: quest_special_dialogue_season12_b_3_3
+TEXT: I can’t wait to see how Crocalor changes when it evolves into Skeledirge. Please come see me when it does!
+
+RESOURCE ID: quest_special_dialogue_season12_b_4_0
+TEXT: Whoa! Skeledirge is one sizzlingly slick Pokémon—and yet somehow so serene! I’ve heard that Skeledirge’s gentle singing soothes the souls of all that hear it.
+
+RESOURCE ID: quest_special_dialogue_season12_b_4_1
+TEXT: And yet it burns its enemies to a crisp with flames of over 5,400 degrees Fahrenheit. It’s, uh, certainly comforting to know you’re on the same team!
+
+RESOURCE ID: quest_special_dialogue_season12_b_4_2
+TEXT: But that’s enough out of me—you deserve a rest after all that research. Thanks for your help, as always, %PLAYERNAME%!
+
+RESOURCE ID: quest_special_dialogue_season12_branch_0
+TEXT: Which Pokémon first discovered in Paldea would you like to join you on your adventure, %PLAYERNAME%?
+
+RESOURCE ID: quest_special_dialogue_season12_c_1_0
+TEXT: Great choice! Quaxly is an earnest and tidy Pokémon. Perhaps you’re the sort of Trainer who likes it when everything is neatly in place—and for Quaxly, that place is at your side!
+
+RESOURCE ID: quest_special_dialogue_season12_c_1_1
+TEXT: Quaxly’s feathers secrete a gel that repels water and grime, so its body is always glossy. And get a gander at that coif atop its head! So luxurious.
+
+RESOURCE ID: quest_special_dialogue_season12_c_1_2
+TEXT: I’m suddenly inspired to tidy things up around here. While I’m doing that, why don’t you walk around and look for Water-type Pokémon, %PLAYERNAME%?
+
+RESOURCE ID: quest_special_dialogue_season12_c_2_0
+TEXT: Welcome back! How did it go? Exploring with a new Pokémon is a great way to develop your bond. Now, here’s another fun Quaxly fact.
+
+RESOURCE ID: quest_special_dialogue_season12_c_2_1
+TEXT: This Pokémon migrated to Paldea from distant lands long ago. Its strong legs let it easily swim around in even fast-flowing rivers.
+
+RESOURCE ID: quest_special_dialogue_season12_c_2_2
+TEXT: I wonder how Quaxly’s Evolution, Quaxwell, behaves in comparison. Could you help your Quaxly evolve so we can find out for ourselves?
+
+RESOURCE ID: quest_special_dialogue_season12_c_3_0
+TEXT: Wow! Amazing progress, %PLAYERNAME%! I’m sure there’s plenty you’ll learn with a Pokémon like Quaxwell at your side.
+
+RESOURCE ID: quest_special_dialogue_season12_c_3_1
+TEXT: Did you know that these Pokémon constantly run through shallow waters to train their legs, then compete with each other to see which of them kicks most gracefully?
+
+RESOURCE ID: quest_special_dialogue_season12_c_3_2
+TEXT: The hardworking Quaxwell observes people and Pokémon from various regions and incorporates their movements into its own dance routines. So studious!
+
+RESOURCE ID: quest_special_dialogue_season12_c_3_3
+TEXT: I can’t wait to see how Quaxwell changes when it evolves into Quaquaval. Please come see me when it does!
+
+RESOURCE ID: quest_special_dialogue_season12_c_4_0
+TEXT: Whoa! Quaquaval is one mesmerizing Pokémon! This Pokémon uses its powerful legs to perform striking dances from far-off lands. And that’s not all those legs can do—I’ve heard that a single kick from a Quaquaval can send a truck rolling. Yikes!
+
+RESOURCE ID: quest_special_dialogue_season12_c_4_1
+TEXT: But that’s enough out of me—you deserve a rest after all that research. Thanks for your help, as always, %PLAYERNAME%!
+
 RESOURCE ID: quest_special_dialogue_season2_0_0
 TEXT: Selam %PLAYERNAME%! Seni görmek ne güzel.
 
@@ -58794,6 +60113,21 @@ TEXT: En Cesur Kuş (3/4)
 RESOURCE ID: quest_title_flett_3
 TEXT: En Cesur Kuş (4/4)
 
+RESOURCE ID: quest_title_froakie
+TEXT: Fıkır Fıkır
+
+RESOURCE ID: quest_title_froakie_0
+TEXT: Fıkır Fıkır (1/4)
+
+RESOURCE ID: quest_title_froakie_1
+TEXT: Fıkır Fıkır (2/4)
+
+RESOURCE ID: quest_title_froakie_2
+TEXT: Fıkır Fıkır (3/4)
+
+RESOURCE ID: quest_title_froakie_3
+TEXT: Fıkır Fıkır (4/4)
+
 RESOURCE ID: quest_title_galarian_mrmime
 TEXT: Dans... Dans... Dans...
 
@@ -59867,6 +61201,24 @@ TEXT: Kum ve Buz (3/4)
 
 RESOURCE ID: quest_title_sandt_3
 TEXT: Kum ve Buz (4/4)
+
+RESOURCE ID: quest_title_season12
+TEXT: A Paldean Adventure
+
+RESOURCE ID: quest_title_season12_0
+TEXT: A Paldean Adventure (1/5)
+
+RESOURCE ID: quest_title_season12_1
+TEXT: A Paldean Adventure (2/5)
+
+RESOURCE ID: quest_title_season12_2
+TEXT: A Paldean Adventure (3/5)
+
+RESOURCE ID: quest_title_season12_3
+TEXT: A Paldean Adventure (4/5)
+
+RESOURCE ID: quest_title_season12_4
+TEXT: A Paldean Adventure (5/5)
 
 RESOURCE ID: quest_title_season2
 TEXT: Efsaneler Sezonu
@@ -61064,6 +62416,12 @@ TEXT: Yalnızca 1.500 DG ya da daha azına sahip Pokémon’lar kullanarak üç 
 
 RESOURCE ID: quest_win_raid_lvl3plus_less1500cp_singular
 TEXT: Yalnızca 1.500 DG ya da daha azına sahip Pokémon’lar kullanarak bir üç yıldızlı akın kazanın
+
+RESOURCE ID: quest_win_raid_lvl3plus_less2500cp_plural
+TEXT: Yalnızca 2.500 DG ya da daha azına sahip Pokémon’lar kullanarak üç yıldızlı {0} akın kazanın
+
+RESOURCE ID: quest_win_raid_lvl3plus_less2500cp_singular
+TEXT: Yalnızca 2.500 DG ya da daha azına sahip Pokémon’lar kullanarak üç yıldızlı bir akın kazanın
 
 RESOURCE ID: quest_win_raid_plural
 TEXT: {0} akın kazanın.
@@ -65990,7 +67348,7 @@ RESOURCE ID: rare_xl_candy_usage_confirmation
 TEXT: Nadir Büyük Şeker, {0} Büyük Şekere dönüştürülsün mü?
 
 RESOURCE ID: rating_submitted_toast
-TEXT: Rating submitted.
+TEXT: Verdiğiniz puan gönderildi.
 
 RESOURCE ID: ready_raid_button
 TEXT: HAZIR!
@@ -66347,47 +67705,47 @@ RESOURCE ID: report_issues_link
 TEXT: https://pokemongo.nianticlabs.com/support/contact/en
 
 RESOURCE ID: report_route_error_daily_max
-TEXT: You already reported this Route.
-You can report it again in {0} days.
+TEXT: Bu rotayı zaten bildirdiniz.
+{0} gün içinde tekrar bildirebilirsiniz.
 
 RESOURCE ID: report_route_error_missing_selection
-TEXT: Please select a reason for your report.
+TEXT: Lütfen bildirme nedenini seçin.
 
 RESOURCE ID: report_route_error_too_many_reports
-TEXT: You’ve reported the maximum number of Routes for today.
+TEXT: Bugün maksimum rota bildirimi sayısına ulaştınız.
 
 RESOURCE ID: report_route_header_1
-TEXT: Route travels through:
+TEXT: Rotanın geçtiği yerler:
 
 RESOURCE ID: report_route_header_2
-TEXT: Route title or description has:
+TEXT: Rota başlık ve açıklamasında yer alanlar:
 
 RESOURCE ID: report_route_reason_adult_establishment
-TEXT: Drinking or adult establishment
+TEXT: Yetişkinlere özel müessese
 
 RESOURCE ID: report_route_reason_child_safety
-TEXT: Issues regarding child safety
+TEXT: Çocuk güvenliğiyle ilgili sorunlar
 
 RESOURCE ID: report_route_reason_dangerous
-TEXT: Dangerous or unsafe area
+TEXT: Güvenli olmayan veya tehlikeli bölge
 
 RESOURCE ID: report_route_reason_dangerous_ex
-TEXT: e.g., highways or obstruction of emergency services
+TEXT: örn. otobanlar veya acil yardım hizmetlerinin erişemediği bölgeler
 
 RESOURCE ID: report_route_reason_grade_school
-TEXT: Daycare or grade school
+TEXT: Kreş, anaokulu veya ilkokul
 
 RESOURCE ID: report_route_reason_harassment
-TEXT: Harassment or hate speech
+TEXT: Taciz veya nefret söylemi
 
 RESOURCE ID: report_route_reason_illegal_goods
-TEXT: References to illegal or adult goods
+TEXT: Yasa dışı veya yetişkinlere özgü maddelere atıf
 
 RESOURCE ID: report_route_reason_illegal_goods_ex
-TEXT: e.g., drugs or firearms
+TEXT: örn. uyuşturucu veya ateşli silahlar
 
 RESOURCE ID: report_route_reason_inaccessible
-TEXT: Inaccessible area
+TEXT: Erişilemeyen bölge
 
 RESOURCE ID: report_route_reason_inappropriate
 TEXT: Diğer uygunsuz veya yakışıksız içerik
@@ -66399,37 +67757,37 @@ RESOURCE ID: report_route_reason_invasive_ex
 TEXT: örn. bir kimsenin özel alanını ihlal edebilecek veya bir kimseye rahatsızlık verebilecek yerler
 
 RESOURCE ID: report_route_reason_personal_info
-TEXT: Personal information
+TEXT: Kişisel bilgi
 
 RESOURCE ID: report_route_reason_personal_info_ex
-TEXT: e.g., addresses or phone numbers
+TEXT: örn. adres veya telefon numaraları
 
 RESOURCE ID: report_route_reason_private_residence
-TEXT: Private residential property
+TEXT: Konut
 
 RESOURCE ID: report_route_reason_private_residence_ex
-TEXT: e.g., apartments or homes
+TEXT: örn. apartman veya müstakil ev
 
 RESOURCE ID: report_route_reason_self_harm
-TEXT: Messages of self-harm
+TEXT: Kendine zarar verme mesajı
 
 RESOURCE ID: report_route_reason_sensitive_location
-TEXT: Sensitive location
+TEXT: Hassas konum
 
 RESOURCE ID: report_route_reason_sensitive_location_ex
-TEXT: e.g., memorial or burial ground
+TEXT: örn. anıt veya mezarlık
 
 RESOURCE ID: report_route_reason_spam
-TEXT: Game cheats or spam
+TEXT: Oyun hileleri veya spam
 
 RESOURCE ID: report_route_reason_temp_obstruction
-TEXT: Temporary obstruction
+TEXT: Geçici engel
 
 RESOURCE ID: report_route_reason_temp_obstruction_ex
-TEXT: e.g., construction
+TEXT: örn. yol çalışması
 
 RESOURCE ID: report_route_reason_violent_content
-TEXT: Violent or sexual content
+TEXT: Şiddet içeren veya cinsel içerik
 
 RESOURCE ID: report_video_ad_description
 TEXT: Bu reklamı neden şikâyet ediyorsunuz? Uygun olan bütün seçenekleri işaretleyin.
@@ -66468,7 +67826,7 @@ RESOURCE ID: resume_ar_multiplayer_session
 TEXT: Önceki ortak AR oturumuna tekrar katılmak istiyor musunuz?
 
 RESOURCE ID: resume_route_travel_error_toast
-TEXT: Error resuming Route
+TEXT: Rotaya devam etme hatası
 
 RESOURCE ID: retention_friend_bonus_message
 TEXT: Pokémon GO arkadaşlarla daha eğlencelidir! Hediyeleri arkadaşlarınla paylaşarak TP, Yumurta ve eşya kazanabilirsiniz.
@@ -66545,23 +67903,14 @@ TEXT: GO Roket Takımı İstilası
 RESOURCE ID: route_about_label
 TEXT: BU ROTA HAKKINDA
 
-RESOURCE ID: route_about_title
-TEXT: About this Route:
-
 RESOURCE ID: route_actions_label
 TEXT: EYLEMLER
 
-RESOURCE ID: route_add_point
-TEXT: Konum olarak seçin
-
 RESOURCE ID: route_cancel_description
-TEXT: If you start this route, you will lose your current progress on {0}, and you will have to wait {1} minutes to play it again.
+TEXT: Yeni bir rota başlatırsanız mevcut {0} ilerlemenizi kaybedersiniz.
 
 RESOURCE ID: route_cancel_description_same_route
-TEXT: If you restart this route, you will lose your current progress on {0}.
-
-RESOURCE ID: route_cancel_start_new_button
-TEXT: Start new route
+TEXT: Bu rotayı yeniden başlatırsanız mevcut ilerlemenizi kaybedersiniz.
 
 RESOURCE ID: route_cancel_title
 TEXT: Do you want to start a new route?
@@ -66569,29 +67918,14 @@ TEXT: Do you want to start a new route?
 RESOURCE ID: route_cancel_title_same_route
 TEXT: Do you want to restart this route?
 
-RESOURCE ID: route_cannot_delete_route_in_review_prompt
-TEXT: [placeholder on client]
-
-RESOURCE ID: route_cannot_delete_route_in_review_title
-TEXT: BU YOL SİLİNEMİYOR
-
-RESOURCE ID: route_cannot_edit_routes_in_review
-TEXT: İnceleme altındaki Yollar düzenlenemez!
-
 RESOURCE ID: route_change_endpoint_error
 TEXT: Bitiş noktası seçilirken bir hata oluştu
-
-RESOURCE ID: route_checkpoint_general
-TEXT: Kontrol Noktası
 
 RESOURCE ID: route_collapsed_show_more
 TEXT: SHOW MORE {0}
 
 RESOURCE ID: route_community_plays_label
 TEXT: TOPLULUK GEZİNTİLERİ
-
-RESOURCE ID: route_completion_congratulation
-TEXT: Tebrikler!
 
 RESOURCE ID: route_completion_explored_count_plural
 TEXT: Bu rotayı {0} kez
@@ -66601,53 +67935,20 @@ RESOURCE ID: route_completion_explored_count_singular
 TEXT: Bu rotayı bir kez
  keşfe çıktınız!
 
-RESOURCE ID: route_completion_get_medal
-TEXT: You got a {0} medal!
-
 RESOURCE ID: route_completion_great_job
 TEXT: Harikaydınız!
 
-RESOURCE ID: route_completion_once
-TEXT: {0} completed 1 time
-
-RESOURCE ID: route_completion_repeat
-TEXT: {0} completed {1} times
-
-RESOURCE ID: route_cooldown_toast_already_walking_this_route
-TEXT: You are already playing this route!
-
 RESOURCE ID: route_cooldown_toast_hour
 TEXT: You must wait 1 hour to play this route.
-
-RESOURCE ID: route_cooldown_toast_hour_and_minute
-TEXT: You must wait 1 hour and 1 minute to play this route.
-
-RESOURCE ID: route_cooldown_toast_hour_and_minutes
-TEXT: You must wait 1 hour and {0} minutes to play this route.
 
 RESOURCE ID: route_cooldown_toast_hours
 TEXT: You must wait {0} hours to play this route.
 
 RESOURCE ID: route_cooldown_toast_hours_and_minute
-TEXT: You must wait {0} hours and {1} minute to follow this Route.
-
-RESOURCE ID: route_cooldown_toast_hours_and_minutes
-TEXT: You must wait {0} hours and {1} minutes to play this route.
-
-RESOURCE ID: route_cooldown_toast_minute
-TEXT: You must wait {0} minutes to play this route.
-
-RESOURCE ID: route_cooldown_toast_minutes
-TEXT: You must wait {0} minutes to play this route.
+TEXT: Bu rotayı takip etmek için {0} saat {1} dakika beklemelisiniz.
 
 RESOURCE ID: route_create_action_menu_header
 TEXT: Mevcut Rota Eylemleri:
-
-RESOURCE ID: route_create_medal_context_page
-TEXT: Pick and image and a color to display on the medal when your route is completed
-
-RESOURCE ID: route_create_medal_context_title
-TEXT: Route Medal
 
 RESOURCE ID: route_create_play_conflict_error_a
 TEXT: Rota oluşturma devam ederken bir rota takip edemezsiniz.
@@ -66677,13 +67978,13 @@ RESOURCE ID: route_creation_action_menu_pause
 TEXT: Rota Oluşturmayı Duraklat
 
 RESOURCE ID: route_creation_action_menu_pin
-TEXT: Place a Pin
+TEXT: Konum İşareti Koy
 
 RESOURCE ID: route_creation_action_menu_resume
 TEXT: Rota Kaydetmeye Devam Et
 
 RESOURCE ID: route_creation_action_menu_select_endpoint
-TEXT: Choose End Point
+TEXT: Bitiş Noktası Seç
 
 RESOURCE ID: route_creation_active
 TEXT: Yapım aşamasında olan bir rotanız var.
@@ -66701,7 +68002,7 @@ RESOURCE ID: route_creation_ask_start_title
 TEXT: Seçtiğiniz başlangıç noktasının yakınındasınız. Rotanızın güzergâhını kaydetmeye hazır mısınız?
 
 RESOURCE ID: route_creation_ask_submit
-TEXT: You are near the end point you selected. Are you done recording?
+TEXT: Seçtiğiniz bitiş noktasının yakınındasınız. Kaydı sonlandırmak mı istiyorsunuz?
 
 RESOURCE ID: route_creation_ask_submit_cancel
 TEXT: KAYDETMEYE DEVAM ET
@@ -66765,6 +68066,9 @@ TEXT: İstenen eylem gerçekleştirilemiyor.
 
 RESOURCE ID: route_creation_go_to_start
 TEXT: Kaydetmeye başlamak için rotanızın başlangıç noktasına gidin.
+
+RESOURCE ID: route_creation_header_label
+TEXT: OLUŞTURULAN
 
 RESOURCE ID: route_creation_max_distance_exceeded_description
 TEXT: Rotanız maksimum mesafeyi aştığı için rota oluşturma sona erdi.
@@ -66838,7 +68142,7 @@ RESOURCE ID: route_creation_onboarding_title_2
 TEXT: Kriterler
 
 RESOURCE ID: route_creation_onboarding_title_3
-TEXT: Placing Pins
+TEXT: Konum İşareti Yerleştirme
 
 RESOURCE ID: route_creation_onboarding_title_4
 TEXT: Değerlendirme Süreci
@@ -66856,7 +68160,7 @@ RESOURCE ID: route_creation_resume_button
 TEXT: ROTA OLUŞTURMAYA DEVAM ET
 
 RESOURCE ID: route_creation_resume_error_adsync
-TEXT: Enable Adventure Sync to resume Route creation. 
+TEXT: Rota oluşturmaya devam etmek için Macera Senkronizasyonunu etkinleştirin.
 
 RESOURCE ID: route_creation_resume_label
 TEXT: KAYDA DEVAM ET
@@ -66874,71 +68178,59 @@ RESOURCE ID: route_creation_submit
 TEXT: DEBUG CREATION SUBMIT
 
 RESOURCE ID: route_creator_label
-TEXT: ROUTE CREATOR
+TEXT: ROTAYI OLUŞTURAN
 
 RESOURCE ID: route_creator_stats_label
 TEXT: Oluşturucu İstatistikleri
 
-RESOURCE ID: route_data_onboarding_page_1
-TEXT: Now that you’ve created a Route, it’s time to tell people about it!
-
-RESOURCE ID: route_data_onboarding_title_1
-TEXT: Enter Route Data
-
 RESOURCE ID: route_decayed_description
-TEXT: This Route has been archived.
+TEXT: Bu rota arşivlenmiş.
 
 RESOURCE ID: route_decayed_modal_description
-TEXT: The Route {0} was archived due to disuse.
-Archived Routes will remain visible on your Route Creator page, but they cannot be followed and they are not publicly discoverable.
+TEXT: {0} rotası kullanılmadığı için arşivlenmiş.
+Arşivlenmiş rotalar rota oluşturma sayfanızda görülebilecek, ama takip edilemeyecek ve başkaları tarafından bulunamayacak.
 
 RESOURCE ID: route_decayed_modal_title
-TEXT: The Route {0} has been archived.
-
-RESOURCE ID: route_denial_exceeds_max_total_distance
-TEXT: Adding this PokéStop or Gym will cause your Route to exceed the maximum Route length.
-
-RESOURCE ID: route_denial_too_close_to_last_poi
-TEXT: Bu PokéDurak, en son konuma çok yakın. En az {0} metre uzaklıkta olmalıdır.
-
-RESOURCE ID: route_denial_too_far_away_from_last_poi
-TEXT: Bu PokéDurak en son konuma çok uzak. {0} metreden yakında olmalıdır.
-
-RESOURCE ID: route_denial_too_many_stops_in_route
-TEXT: Bu Yol, maksimum konum sayısına ulaştı: {0}
+TEXT: {0} rotası arşivlenmiş.
 
 RESOURCE ID: route_detail_rejected_delete_button
-TEXT: DELETE ROUTE
+TEXT: ROTAYI SİL
 
 RESOURCE ID: route_detail_rejected_description
-TEXT: This Route was rejected.
+TEXT: Bu rota reddedildi.
 
 RESOURCE ID: route_detail_under_review_withdraw_button
-TEXT: WITHDRAW SUBMISSION
+TEXT: GÖNDERİMİ GERİ ÇEK
+
+RESOURCE ID: route_details_end_label
+TEXT: Bitiş noktası:
+
+RESOURCE ID: route_details_loop_label
+TEXT: Başlangıç ve bitiş noktaları:
+
+RESOURCE ID: route_details_start_label
+TEXT: Başlangıç noktası:
 
 RESOURCE ID: route_discovery_tab_all
-TEXT: All
+TEXT: Tümü
 
 RESOURCE ID: route_discovery_tab_known
-TEXT: Known
+TEXT: Bilinen
 
 RESOURCE ID: route_discovery_tab_new
-TEXT: New
+TEXT: Yeni
 
 RESOURCE ID: route_discovery_tab_official
-TEXT: Official
+TEXT: Resmî
 
 RESOURCE ID: route_discovery_tab_popular
-TEXT: Popular
+TEXT: Popüler
 
 RESOURCE ID: route_distance_walked_label
 TEXT: Rotada Katedilen Mesafe
 
-RESOURCE ID: route_earned_new_stamp
-TEXT: New stamp registered!
-
 RESOURCE ID: route_edit_button
-TEXT: DÜZENLEMEYE DEVAM EDİN
+TEXT: CONTINUE EDITING
 
 RESOURCE ID: route_edit_deleted_toast
 TEXT: {0} silindi.
@@ -67014,49 +68306,34 @@ RESOURCE ID: route_enforcement_warning_title
 TEXT: Hesap Uyarısı
 
 RESOURCE ID: route_enter_description_context_page
-TEXT: Enter a description that tells people what your route is about
+TEXT: Enter a description that tells other Trainers what your Route is about.
 
 RESOURCE ID: route_enter_description_context_title
 TEXT: Route Description
 
 RESOURCE ID: route_enter_title_context_page
-TEXT: Enter the title that others will see when searching for routes
+TEXT: Enter the title that other Trainers will see when they search for a Route.
 
 RESOURCE ID: route_enter_title_context_title
 TEXT: Route Title
 
 RESOURCE ID: route_error_unable_to_complete_action
-TEXT: Unable to complete the requested action. Please try again.
+TEXT: İstenen eylem gerçekleştirilemiyor. Lütfen tekrar deneyin.
 
 RESOURCE ID: route_error_unable_to_edit
 TEXT: Bu gönderilen rota düzenlenemez. Lütfen bu rotanın durumunun değişip değişmediğini görmek için Oluşturulan Rotalar listenizi yenileyin.
 
-RESOURCE ID: route_expired_error
-TEXT: Current route has expired
-
 RESOURCE ID: route_first_play_date_label
-TEXT: First Followed
+TEXT: İlk Takip Edilen Tarih
 
 RESOURCE ID: route_frame_select_subtitle
 TEXT: Ön İzleme
-
-RESOURCE ID: route_frame_select_title
-TEXT: Lütfen önizlemek için bir madalya seçin
 
 RESOURCE ID: route_general
 TEXT: ROTA
 
 RESOURCE ID: route_general_plural
-TEXT: Yol
-
-RESOURCE ID: route_get_route_maker
-TEXT: YOL OLUŞTURUCU AL
-
-RESOURCE ID: route_icon_select_subtitle
-TEXT: Madalya tüm Eğitmenlere gösterilecek
-
-RESOURCE ID: route_icon_select_title
-TEXT: Please select an image for this Route’s medal
+TEXT: Routes
 
 RESOURCE ID: route_km_label
 TEXT: {0} km
@@ -67064,41 +68341,29 @@ TEXT: {0} km
 RESOURCE ID: route_last_play_date_label
 TEXT: Son Takip Edilen Tarih
 
+RESOURCE ID: route_learn_more_url
+TEXT: https://niantic.helpshift.com/hc/faq/4184-routes-faq/
+
 RESOURCE ID: route_level
-TEXT: Route Level {0}
-
-RESOURCE ID: route_list_context_page
-TEXT: Arrange and modify your pokestop list from here
-
-RESOURCE ID: route_list_context_title
-TEXT: List of pokestops
-
-RESOURCE ID: route_list_item_default_description
-TEXT: Bir Yol oluşturmak için tıklayın
+TEXT: Rota Seviyesi: {0}
 
 RESOURCE ID: route_list_item_default_title
-TEXT: {0}. Yol
+TEXT: Route {0}
 
 RESOURCE ID: route_load_timeout
-TEXT: Yolun yüklenmesi çok uzun sürdü
+TEXT: This Route took too long to load. Please try again.
 
 RESOURCE ID: route_m_label
 TEXT: {0} m
-
-RESOURCE ID: route_maker_item_confirmation_description
-TEXT: Ekin Yol Oluşturucularınız burada gösterilir.
-
-RESOURCE ID: route_maker_max_warning
-TEXT: Maksimum Yol Oluşturucu sayısına ulaştınız! Daha fazlasını almadan önce yollarınızın onaylanması gerekir.
 
 RESOURCE ID: route_map_out_of_bound_warning
 TEXT: You are too far away from this area
 
 RESOURCE ID: route_medal
-TEXT: Badge
+TEXT: Rozet
 
 RESOURCE ID: route_medals_header
-TEXT: ROUTE BADGES
+TEXT: ROTA ROZETLERİ
 
 RESOURCE ID: route_medals_sort_name
 TEXT: Name
@@ -67107,25 +68372,13 @@ RESOURCE ID: route_medals_sort_recent
 TEXT: Recent
 
 RESOURCE ID: route_min_label
-TEXT: {0} mins
+TEXT: {0} dak.
 
 RESOURCE ID: route_move_closer_to_resume
 TEXT: Kaldığınız yerden kayda devam etmek için kaydı duraklattığınız konuma geri dönün.
 
-RESOURCE ID: route_nearby_help_distance
-TEXT: Start point distance from your current location.
-
-RESOURCE ID: route_nearby_help_duration
-TEXT: Estimate time from start point to end point.
-
 RESOURCE ID: route_nearby_help_official_route
 TEXT: The route created by NIANTIC partners has this label.
-
-RESOURCE ID: route_nearby_help_played_time
-TEXT: Number of played time of this route.
-
-RESOURCE ID: route_nearby_help_title
-TEXT: Route Information
 
 RESOURCE ID: route_nearby_label
 TEXT: {0} routes
@@ -67139,187 +68392,132 @@ TEXT: NEARBY ROUTE ({0})
 RESOURCE ID: route_not_playable
 TEXT: Bu rota şu anda kullanılamıyor.
 
-RESOURCE ID: route_notification_resume
-TEXT: Entered the route area.
-The paused route is now active!
-
-RESOURCE ID: route_one_time_label
-TEXT: 1 time
-
 RESOURCE ID: route_out_of_range
-TEXT: Bu yol, başlamak için çok uzakta.
-
-RESOURCE ID: route_pause_description
-TEXT: This route paused because you moved away from the route area. If you walk close to the next location, this route will automatically resume.
+TEXT: You can’t travel this Route because it is too far away.
 
 RESOURCE ID: route_pause_label
-TEXT: PAUSE ROUTE
-
-RESOURCE ID: route_pause_prompt
-TEXT: Yol ilerlemeniz kaydedilecek. ITEMS altında yer alan Yol Oluşturucu menüsünden dilediğiniz zaman devam edebilirsiniz.
-
-RESOURCE ID: route_pause_stamp_cancel
-TEXT: (This route will cancel in {0} hours)
-
-RESOURCE ID: route_pause_stamp_cancel_less_than
-TEXT: (This route will cancel in less than {0} hour)
-
-RESOURCE ID: route_pause_stamp_cancel_singular
-TEXT: (This route will cancel in {0} hour)
-
-RESOURCE ID: route_pause_stamp_message
-TEXT: {0} paused because you moved away from a route area. If you walk close to the next route point "<color=#{1}>{2}</color>”, this route automatically turn on again.
+TEXT: ROTAYI DURAKLAT
 
 RESOURCE ID: route_pause_title
-TEXT: Route play paused.
-
-RESOURCE ID: route_paused_prompt
-TEXT: Yol, {0} olarak kaydedildi.
+TEXT: Rota oynama duraklatıldı.
 
 RESOURCE ID: route_paused_title
-TEXT: Yol Oluşturma Duraklatıldı
+TEXT: Route Creation Paused
 
 RESOURCE ID: route_pin_subtitle
-TEXT: Pin Title:
+TEXT: Konum İşareti Başlığı:
 
 RESOURCE ID: route_pin_title_add
-TEXT: Select Pin to Add
+TEXT: Konum İşareti Seçme
 
 RESOURCE ID: route_pin_title_edit
-TEXT: Edit Pin Title
-
-RESOURCE ID: route_planning_context_page
-TEXT: Plan your Route here
-
-RESOURCE ID: route_planning_context_title
-TEXT: Planning your Route
-
-RESOURCE ID: route_planning_must_add_more_pois
-TEXT: Yola en az {0} PokéDurak ve/veya Spor Salonu daha ekleyin.
-
-RESOURCE ID: route_planning_must_add_one_poi
-TEXT: Add at least 1 more Pokéstop or Gym to this route.
+TEXT: Konum İşareti Başlığını Düzenleme
 
 RESOURCE ID: route_play_adsync_breadcrumb_notification
-TEXT: Route in progress. 
+TEXT: Rota devam ediyor.
 
 RESOURCE ID: route_play_badge_earn_description_bronze
-TEXT: You earned a Bronze Route Badge! 
+TEXT: Bronz Rota Rozeti kazandınız!
 
 RESOURCE ID: route_play_badge_earn_description_gold
-TEXT: You earned a Gold Route Badge! 
+TEXT: Altın Rota Rozeti kazandınız!
 
 RESOURCE ID: route_play_badge_earn_description_silver
-TEXT: You earned a Silver Route Badge! 
+TEXT: Gümüş Rota Rozeti kazandınız!
 
 RESOURCE ID: route_play_badge_earn_description_white
-TEXT: You earned a Route Badge! 
+TEXT: Rota Rozeti kazandınız!
 
 RESOURCE ID: route_play_badge_progress_title
-TEXT: Route complete!
+TEXT: Rota tamamlandı!
 
 RESOURCE ID: route_play_completion_reject_description_primary
-TEXT: You have reached the end point, but you have not traveled far enough to complete the  Route. 
+TEXT: Bitiş noktasına geldiniz, ama rotayı tamamlamaya yetecek kadar mesafe katetmediniz.
 
 RESOURCE ID: route_play_completion_reject_description_secondary
-TEXT: Please resume the Route and return to the end point when you have traveled the complete distance.
+TEXT: Lütfen rotaya devam edip tüm mesafeyi katettikten sonra bitiş noktasına geri dönün.
 
 RESOURCE ID: route_play_completion_reject_description_values
-TEXT: Route Length: {0}
-Your Travel Distance: <color=#F2A64B>{1}</color>
+TEXT: Rota uzunluğu: {0}
+Katettiğiniz mesafe: <color=#F2A64B>{1}</color>
 
 RESOURCE ID: route_play_completion_reject_title
-TEXT: Route requirements not yet met
+TEXT: Rota gereklilikleri henüz karşılanmadı
 
 RESOURCE ID: route_play_detail_map_soon
-TEXT: Route preview map currently unavailable.
+TEXT: Rota ön izleme haritası şu an açılamıyor.
+
+RESOURCE ID: route_play_end_point_push_notification
+TEXT: Rotanın bitiş noktasına yaklaştınız!
+
+RESOURCE ID: route_play_end_point_push_notification_description
+TEXT: Rotayı tamamlamak için Pokémon GO’yu açın.
 
 RESOURCE ID: route_play_hoo_warning_button
-TEXT: FOLLOW ROUTE
+TEXT: ROTAYI TAKİP ET
 
 RESOURCE ID: route_play_hoo_warning_description
-TEXT: You may encounter issues completing this Route if you decide to follow it at this time.
+TEXT: Bu rotayı şu an takip ederseniz tamamlarken sorun yaşayabilirsiniz.
 
 RESOURCE ID: route_play_hoo_warning_title
-TEXT: You may not be able to access some PokéStops on this Route by the time you arrive.
+TEXT: Vardığınız zaman bu rotadaki bazı PokéDuraklara erişiminiz olmayabilir.
 
 RESOURCE ID: route_play_label
-TEXT: FOLLOW
+TEXT: TAKİP ET
 
 RESOURCE ID: route_play_low_rating_description
-TEXT: If you experienced an issue, you can report the Route for Niantic to review.
+TEXT: Bir sorun yaşadıysanız rotayı Niantic’e bildirebilirsiniz.
 
 RESOURCE ID: route_play_low_rating_title
-TEXT: Did you experience any issues on this Route?
+TEXT: Bu rotada herhangi bir sorun mu yaşadınız?
 
 RESOURCE ID: route_play_pause_confirmation_description
-TEXT: You must return to this location to resume this Route.
+TEXT: Bu rotaya devam etmek için bu konuma geri dönmelisiniz.
 
 RESOURCE ID: route_play_pause_confirmation_title
-TEXT: Are you sure you want to pause the Route?
+TEXT: Bu rotayı duraklatmak istediğinizden emin misiniz?
 
 RESOURCE ID: route_play_pause_location_error_description
-TEXT: Your Route was automatically paused because your location could not be established. Get closer to the path to resume the Route.
+TEXT: Konumunuz saptanamadığı için rotanız otomatik olarak duraklatıldı. Rotaya devam etmek için güzergâha yaklaşın.
 
 RESOURCE ID: route_play_pause_location_error_title
-TEXT: Route was paused.
+TEXT: Rota duraklatıldı.
 
 RESOURCE ID: route_play_rate_route_description
-TEXT: Your rating will help other Trainers discover great Routes!
+TEXT: Verdiğiniz puan diğer Eğitmenlerin harika rotalar keşfetmesini sağlayacak!
 
 RESOURCE ID: route_play_rate_route_error_no_selection
-TEXT: Please specify a rating.
+TEXT: Lütfen puan verin.
 
 RESOURCE ID: route_play_rate_route_title
-TEXT: Rate this Route
+TEXT: Bu Rotayı Puanlayın
 
 RESOURCE ID: route_play_report_route_button
-TEXT: REPORT ROUTE
+TEXT: ROTAYI BİLDİR
 
 RESOURCE ID: route_play_resume_directive
-TEXT: Head toward the point where you last paused the Route to resume.
+TEXT: Devam etmek için rotayı duraklattığınız noktaya gidin.
 
 RESOURCE ID: route_play_resume_error_too_far
-TEXT: Get closer to the location where you last paused the Route to resume.
+TEXT: Devam etmek için rotayı duraklattığınız konuma yaklaşın.
 
 RESOURCE ID: route_play_resume_toast
-TEXT: Route resumed.
+TEXT: Rotaya devam ediliyor.
 
 RESOURCE ID: route_play_travel_distance
-TEXT: Your Travel Distance:
-
-RESOURCE ID: route_poi_list_view_description_short_tip
-TEXT: Yola en az {0} PokéDurak ve/veya Spor Salonu ekleyin.
-
-RESOURCE ID: route_poi_list_view_description_tip
-TEXT: Ek PokéDurak veya Spor Salonlarını sırayla ekleyerek Yolunuzu tamamlayın.
-
-RESOURCE ID: route_poi_list_view_max_wp_tip
-TEXT: Your Route has the maximum number of stops
-
-RESOURCE ID: route_poi_list_view_start_point_tip
-TEXT: Bir Başlangıç Noktası seçin
-
-RESOURCE ID: route_poi_list_view_total_distance
-TEXT: Toplam doğrudan mesafe: {0} m
-
-RESOURCE ID: route_poi_list_view_total_time
-TEXT: Toplam tahmini süre: {0} dk
+TEXT: Katettiğiniz Mesafe: 
 
 RESOURCE ID: route_pokemon_caught_label
-TEXT: Pokémon Caught on Route
+TEXT: Rotada Yakalanan Pokémon’lar
 
 RESOURCE ID: route_published_list_header
-TEXT: YAYINLANMIŞ YOLLAR
+TEXT: PUBLISHED ROUTES
 
 RESOURCE ID: route_published_title
 TEXT: PUBLISHED ROUTES
 
 RESOURCE ID: route_quit_label
-TEXT: QUIT ROUTE
-
-RESOURCE ID: route_rating_button
-TEXT: RATE
+TEXT: ROTAYI SONLANDIR
 
 RESOURCE ID: route_rating_description
 TEXT: Did you enjoy this route?
@@ -67328,62 +68526,8 @@ Can you rate this route?
 RESOURCE ID: route_rating_percentage_label
 TEXT: %{0}
 
-RESOURCE ID: route_rating_reason
-TEXT: You can pick multiple choices.
-
-RESOURCE ID: route_rating_reason_bad_accessibility
-TEXT: Inaccessible
-
-RESOURCE ID: route_rating_reason_bad_accuracy
-TEXT: No Longer Accurate
-
-RESOURCE ID: route_rating_reason_bad_length
-TEXT: Inapproriate Length
-
-RESOURCE ID: route_rating_reason_bad_location
-TEXT: Unrelated Locations
-
-RESOURCE ID: route_rating_reason_good_destination
-TEXT: Great Destination
-
-RESOURCE ID: route_rating_reason_good_learning
-TEXT: Great Learning
-
-RESOURCE ID: route_rating_reason_good_location
-TEXT: Great Locations
-
-RESOURCE ID: route_rating_reason_good_walk
-TEXT: Great Walk
-
-RESOURCE ID: route_rating_theme
-TEXT: You can pick a theme.
-
-RESOURCE ID: route_rating_theme_architecture
-TEXT: Architecture
-
 RESOURCE ID: route_rating_theme_art
 TEXT: Sanat Eseri
-
-RESOURCE ID: route_rating_theme_casual
-TEXT: Casual
-
-RESOURCE ID: route_rating_theme_culture
-TEXT: Culture
-
-RESOURCE ID: route_rating_theme_food
-TEXT: Food
-
-RESOURCE ID: route_rating_theme_history
-TEXT: History
-
-RESOURCE ID: route_rating_theme_nature
-TEXT: Nature
-
-RESOURCE ID: route_rating_theme_sightseeing
-TEXT: Sightseeing
-
-RESOURCE ID: route_rating_title
-TEXT: How was this route?
 
 RESOURCE ID: route_recording_paused
 TEXT: Kayıt duraklatıldı.
@@ -67395,86 +68539,55 @@ RESOURCE ID: route_recording_started
 TEXT: Kayıt başlatıldı.
 
 RESOURCE ID: route_rejected_deletion_confirm_description
-TEXT: This action cannot be undone. This Route will be completely lost and unrecoverable if you proceed.
+TEXT: Bu eylem geri alınamaz. Devam ederseniz bu rota tamamen ortadan kalkacak.
 
 RESOURCE ID: route_rejected_deletion_confirm_title
-TEXT: Are you sure you want to delete this Route?
+TEXT: Bu rotayı silmek istediğinizden emin misiniz?
 
 RESOURCE ID: route_rejected_deletion_success_description
-TEXT: This Route will be removed from your Created Routes list.
+TEXT: Bu rota Oluşturulan Rotalar listenizden kaldırılacak.
 
 RESOURCE ID: route_rejected_deletion_success_title
-TEXT: This Route was successfully deleted.
+TEXT: Bu rota başarıyla silindi.
 
 RESOURCE ID: route_rejection_action
 TEXT: EDIT AND RESUBMIT
 
 RESOURCE ID: route_rejection_title
-TEXT: Bu Yol reddedildi
-
-RESOURCE ID: route_remove_from_route
-TEXT: Yoldan kaldırın
+TEXT: This Route was rejected
 
 RESOURCE ID: route_report_body
-TEXT: When you report a route to Niantic, we review the report and take appropriate action in line with our policies. Your identity will never be shared with the Route’s creator. By submitting a report, you confirm that the report is truthful.
-
-RESOURCE ID: route_report_cancel_message
-TEXT: If you submit this report, the route will cancel.
-
-RESOURCE ID: route_report_description
-TEXT: What kind of issue happened?
-Could you describe it?
-
-RESOURCE ID: route_report_dont_know
-TEXT: I don't know
-
-RESOURCE ID: route_report_permanent
-TEXT: Permanent issue
+TEXT: Bir rotayla ilgili bir sorunu Niantic’e bildirdiğinizde, raporunuzu gözden geçirir ve politikalarımızın gerektirdiği şekilde gereken önlemleri alırız. Kimliğiniz hiçbir koşulda rotayı oluşturanlarla paylaşılmaz. Bir rapor gönderdiğinizde raporun doğruluğunu da teyit etmiş olursunuz.
 
 RESOURCE ID: route_report_submit_description
-TEXT: Thank you for submitting a report. We’re sorry for any inconvenience you experienced.
+TEXT: Bildirim gönderdiğiniz için teşekkürler. Yaşadığınız rahatsızlık için özür dileriz.
 
 RESOURCE ID: route_report_submit_description_long
-TEXT: Thank you for submitting a report. We’re sorry for any inconvenience you experienced. You will receive rewards for the section of the Route you completed.
+TEXT: Bildirim gönderdiğiniz için teşekkürler. Yaşadığınız rahatsızlık için özür dileriz. Rotanın tamamladığınız bölümü için ödüllerinizi alacaksınız.
 
 RESOURCE ID: route_report_submit_title
-TEXT: Route Reported
-
-RESOURCE ID: route_report_temporary
-TEXT: Temporary issue
+TEXT: Rota Bildirildi
 
 RESOURCE ID: route_report_title
 TEXT: Bu Rotayı Bildirin
 
 RESOURCE ID: route_report_warning_description
-TEXT: If you submit this report, your current Route session will end. 
+TEXT: Bu bildirimi gönderirseniz mevcut rota oturumunuz sonlanacak.
 
 RESOURCE ID: route_report_warning_title
-TEXT: Are you sure you want to report this Route?
-
-RESOURCE ID: route_reset_modal_promot
-TEXT: Sıfırlarsanız Yolunuza ait tüm veriler silinecek. Emin misiniz?
-
-RESOURCE ID: route_reset_modal_title
-TEXT: YOL SIFIRLANSIN MI?
+TEXT: Bu rotayı bildirmek istediğinizden emin misiniz?
 
 RESOURCE ID: route_resume_label
-TEXT: RESUME ROUTE
+TEXT: ROTAYA DEVAM ET
 
 RESOURCE ID: route_reversed_toast
-TEXT: Route direction reversed.
+TEXT: Rota yönü tersine çevrildi.
 
 RESOURCE ID: route_reversible_notice_label
 TEXT: Bu rota tersten takip edilebilir.
 
-RESOURCE ID: route_review_submission_page
-TEXT: Please look over all the information you’ve entered before submitting your Route.
-
 RESOURCE ID: route_review_submission_title
-TEXT: Review your submission
-
-RESOURCE ID: route_set_start_point
-TEXT: Başlangıç Noktası olarak seçin
+TEXT: Review Your Submission
 
 RESOURCE ID: route_sort_category
 TEXT: Theme
@@ -67483,28 +68596,13 @@ RESOURCE ID: route_sort_length
 TEXT: Length
 
 RESOURCE ID: route_sort_level
-TEXT: Level
+TEXT: Seviye
 
 RESOURCE ID: route_sort_proximity
 TEXT: Nearest
 
 RESOURCE ID: route_sort_rating
-TEXT: Sıralama
-
-RESOURCE ID: route_spinning_add_to_route
-TEXT: This stop isn’t included on this Route. Do you want to add it?
-
-RESOURCE ID: route_spinning_poi_out_of_order
-TEXT: Lütfen konumları, yol planında göründükleri sırayla döndürün.
-
-RESOURCE ID: route_spinning_visit_poi
-TEXT: Please spin the Photo Disc to verify this stop.
-
-RESOURCE ID: route_stamp_category
-TEXT: DEFAULT
-
-RESOURCE ID: route_stamp_category_default
-TEXT: STAMP COLLECTIONS
+TEXT: Puan
 
 RESOURCE ID: route_stamps_header
 TEXT: STAMPS
@@ -67519,43 +68617,31 @@ RESOURCE ID: route_status_decayed
 TEXT: Arşivlendi
 
 RESOURCE ID: route_status_in_progress
-TEXT: Henüz gönderilmedi
+TEXT: Not submitted yet
 
 RESOURCE ID: route_status_published
-TEXT: Yayınlandı
+TEXT: Published
 
 RESOURCE ID: route_status_rejected
-TEXT: Reddedildi
+TEXT: Rejected
 
 RESOURCE ID: route_status_submitted
-TEXT: İnceleniyor
-
-RESOURCE ID: route_status_time_stamp_saved
-TEXT: Son kayıt tarihi: {0}
+TEXT: Under review
 
 RESOURCE ID: route_status_time_stamp_submitted
-TEXT: Gönderim tarihi: {0}
-
-RESOURCE ID: route_stop_button
-TEXT: Stop this route
+TEXT: Submitted on {0}
 
 RESOURCE ID: route_stop_description
-TEXT: If you quit this Route, your current progress will be lost. This action cannot be undone.
+TEXT: Bu rotayı sonlandırırsanız mevcut ilerlemeniz silinecek. Bu eylem geri alınamaz.
 
 RESOURCE ID: route_stop_report
-TEXT: If you have experienced an issue on this Route that prevented you from completing it, you can report the issue <color=#{0}>here</color>.
-
-RESOURCE ID: route_stop_start_new_button
-TEXT: Start new route
-
-RESOURCE ID: route_stop_start_new_button_same_route
-TEXT: RESTART ROUTE
+TEXT: Bu rotayı tamamlamanızı engelleyen bir sorun yaşadıysanız  <color=#{0}>buradan</color> bildirebilirsiniz.
 
 RESOURCE ID: route_stop_title
-TEXT: Are you sure you want to quit this Route?
+TEXT: Bu rotayı sonlandırmak istediğinizden emin misiniz?
 
 RESOURCE ID: route_stop_toast
-TEXT: Route ended.
+TEXT: Rota sona erdi.
 
 RESOURCE ID: route_submission_abandon_back_button
 TEXT: BACK
@@ -67567,7 +68653,7 @@ RESOURCE ID: route_submission_abandon_header
 TEXT: Rota oluşturmaktan çıkmak istediğinize emin misiniz?
 
 RESOURCE ID: route_submission_add_description
-TEXT: Yol Açıklaması Ekleyin
+TEXT: Add Route Description
 
 RESOURCE ID: route_submission_add_description_placeholder
 TEXT: Please describe the journey, history, or background of this Route.
@@ -67579,31 +68665,25 @@ RESOURCE ID: route_submission_add_tags
 TEXT: {0} rota etiketine kadar ekleyin (tercihe bağlı)
 
 RESOURCE ID: route_submission_add_title
-TEXT: Yol Başlığı Ekleyin
+TEXT: Add Route Title
 
 RESOURCE ID: route_submission_bad_desc
 TEXT: Your description contains inappropriate or prohibited content
 
 RESOURCE ID: route_submission_bad_image
-TEXT: Geçersiz Yol görseli
+TEXT: Route image is not valid
 
 RESOURCE ID: route_submission_bad_name
 TEXT: Your title contains inappropriate or prohibited content
 
-RESOURCE ID: route_submission_badge_creation_title
-TEXT: Madalya Oluşturma
-
 RESOURCE ID: route_submission_badge_image_prompt
 TEXT: Rota Rozetiniz için bir görsel seçin:
 
-RESOURCE ID: route_submission_choose_icon
-TEXT: Lütfen bu Yol madalyası için bir simge seçin.
-
 RESOURCE ID: route_submission_color_tab_name
-TEXT: RENK
+TEXT: COLOR
 
 RESOURCE ID: route_submission_description
-TEXT: Açıklama
+TEXT: Description
 
 RESOURCE ID: route_submission_edit_description
 TEXT: Şimdi değişiklik yaparsanız bu rotayı değerlendirmek daha uzun süre alabilir.
@@ -67615,13 +68695,13 @@ RESOURCE ID: route_submission_medal_creation_title
 TEXT: Rozet Oluşturma
 
 RESOURCE ID: route_submission_medals
-TEXT: Badges
+TEXT: Rozetler
 
 RESOURCE ID: route_submission_must_add_description
-TEXT: Lütfen devam etmek için geçerli bir açıklama girin
+TEXT: Please enter a valid description to proceed
 
 RESOURCE ID: route_submission_must_add_title
-TEXT: Lütfen devam etmek için geçerli bir başlık girin
+TEXT: Please enter a valid title to proceed
 
 RESOURCE ID: route_submission_name_placeholder
 TEXT: Rota Başlığı
@@ -67632,13 +68712,13 @@ TEXT: The next step is to name and describe your Route.
 It might take a few minutes for you to write a description, and doing so will help speed up the approval process. Don’t worry—your progress will be saved if you exit!
 
 RESOURCE ID: route_submission_path
-TEXT: Path
+TEXT: Güzergâh
 
 RESOURCE ID: route_submission_photo_tab_name
-TEXT: FOTOĞRAF
+TEXT: PHOTO
 
 RESOURCE ID: route_submission_preview_title
-TEXT: Submission Preview
+TEXT: Gönderim Ön İzlemesi
 
 RESOURCE ID: route_submission_resubmit_no_change_error
 TEXT: Bu rotayı yeniden göndermek için lütfen adını ve/veya açıklamasını değiştirin.
@@ -67650,19 +68730,22 @@ RESOURCE ID: route_submission_result_matches_rejection
 TEXT: Bu rota, daha önce reddedilen başka bir rota ile aynı.
 
 RESOURCE ID: route_submission_result_publish_description
-TEXT: Thank you for your contribution to the Pokémon GO Community!
+TEXT: Pokémon GO topluluğuna katkılarınız için teşekkürler!
 
 RESOURCE ID: route_submission_result_publish_title
-TEXT: Your Route was published!
+TEXT: Rotanız yayınlandı!
 
 RESOURCE ID: route_submission_result_reject_description
 TEXT: Adında ve/veya açıklamasında uygunsuz ifadeler veya bağlantılar yer aldığı için rotanız reddedildi. Bu rotayı düzenleyip yeniden gönderemezsiniz.
 
+RESOURCE ID: route_submission_result_reject_reasons_generic
+TEXT: Bu rota gereklilikleri karşılamadı veya rota özelliğinde Oyuncu Talimatlarımızı ihlal etti.
+
 RESOURCE ID: route_submission_result_reject_reasons_primary
-TEXT: Your Route was rejected because:
+TEXT: Rotanız şu sebepten reddedildi: 
 
 RESOURCE ID: route_submission_result_reject_reasons_secondary
-TEXT: You can edit and resubmit this Route.
+TEXT: Bu rotayı düzenleyip yeniden gönderebilirsiniz.
 
 RESOURCE ID: route_submission_result_reject_title
 TEXT: Gönderdiğiniz rota reddedildi.
@@ -67673,20 +68756,14 @@ TEXT: Gönderdiğiniz rotanın durumunu dilediğiniz zaman Eğitmen profilinizin
 RESOURCE ID: route_submission_result_success_title
 TEXT: Rotanız inceleme için başarıyla gönderildi!
 
-RESOURCE ID: route_submission_result_too_many_recent
-TEXT: Çok fazla Yol gönderiyorsunuz! Lütfen biraz bekleyin
-
 RESOURCE ID: route_submission_result_unavailiable
 TEXT: Route submission unavailable. Please try again later.
 
 RESOURCE ID: route_submission_result_unknown_error
 TEXT: Unknown error in the Route submission process. Please try again later.
 
-RESOURCE ID: route_submission_result_unvisited_fort
-TEXT: Lütfen Yol üzerindeki bütün durakları ziyaret edin
-
 RESOURCE ID: route_submission_reversible
-TEXT: Bu Yolda tersten gidilebilir mi?
+TEXT: Can this Route be followed in reverse?
 
 RESOURCE ID: route_submission_review_adjust
 TEXT: DEĞİŞİKLİK YAP
@@ -67725,7 +68802,7 @@ RESOURCE ID: route_submission_status_review
 TEXT: Gönderim tarihi: {0}
 
 RESOURCE ID: route_submission_title
-TEXT: Başlık
+TEXT: Title
 
 RESOURCE ID: route_submission_write_later
 TEXT: Write Later
@@ -67734,13 +68811,7 @@ RESOURCE ID: route_submission_write_now
 TEXT: Write Now
 
 RESOURCE ID: route_submit_label
-TEXT: SUBMIT
-
-RESOURCE ID: route_submitted_confirmation_description
-TEXT: You've successfully submitted your Route. Once it's been reviewed, it will show in your Route Maker page.
-
-RESOURCE ID: route_submitted_confirmation_title
-TEXT: Congrats!
+TEXT: GÖNDER
 
 RESOURCE ID: route_tag_art
 TEXT: Sanat
@@ -67809,136 +68880,58 @@ RESOURCE ID: route_times_label
 TEXT: {0} times
 
 RESOURCE ID: route_total_activity_label
-TEXT: TOTAL ACTIVITY
+TEXT: TOPLAM AKTİVİTE
 
 RESOURCE ID: route_total_community_activity_label
-TEXT: TOTAL COMMUNITY ACTIVITY
+TEXT: TOPLAM TOPLULUK AKTİVİTESİ
 
 RESOURCE ID: route_total_plays_label
-TEXT: Total Times Followed
+TEXT: Toplam Takip Etme Sayısı
 
 RESOURCE ID: route_travel_reverse_button
-TEXT: REVERSE DIRECTION
+TEXT: YÖNÜ TERSİNE ÇEVİR
 
 RESOURCE ID: route_under_review_description
 TEXT: Bu rota inceleme altında.
 
 RESOURCE ID: route_under_review_withdraw_confirm_description
-TEXT: This action cannot be undone. This Route will return to an in-progress state if you proceed. You can edit and resubmit this Route for review later.
+TEXT: Bu eylem geri alınamaz. Devam ederseniz bu rota yapım aşamasına geri dönecek. Rotayı düzenleyip incelenmesi için daha sonra tekrar gönderebilirsiniz.
 
 RESOURCE ID: route_under_review_withdraw_confirm_title
-TEXT: Are you sure you want to withdraw this Route from review?
+TEXT: Bu rotayı incelemeden geri çekmek istediğinizden emin misiniz?
 
 RESOURCE ID: route_under_review_withdraw_fail_description
-TEXT: You have another Route in progress, so you cannot withdraw this Route from submission at this time. Please complete your current Route and return to this page to try again.
+TEXT: Yapım aşamasında bir başka rotanız var, o nedenle bu rota şu anda geri çekilemiyor. Lütfen mevcut rotanızı tamamladıktan sonra yeniden denemek için bu sayfaya geri dönün.
 
 RESOURCE ID: route_under_review_withdraw_fail_title
-TEXT: Unable to withdraw this Route from review
+TEXT: Bu rota incelemeden geri çekilemiyor
 
 RESOURCE ID: route_under_review_withdraw_success_description
-TEXT: This Route has returned to an in-progress state. You can now edit and submit this Route again via the Routes section of your Trainer profile.
+TEXT: Bu rota yapım aşamasına geri döndü. Şimdi Eğitmen profilinizin Rotalar kısmında bu rotayı düzenleyip yeniden gönderebilirsiniz.
 
 RESOURCE ID: route_under_review_withdraw_success_title
-TEXT: This Route was successfully withdrawn from review
+TEXT: Bu rota incelemeden başarıyla geri çekildi
 
 RESOURCE ID: route_unsubmit_label
-TEXT: UNSUBMIT ROUTE
-
-RESOURCE ID: route_validation_celebration
-TEXT: Nice job, you've verified your route! Now you can add information to the route you've created.
-
-RESOURCE ID: route_validation_description
-TEXT: Lütfen Yolunuzu göndermeden önce şu sorunları giderin.
+TEXT: ROTA GÖNDERMEYİ GERİ AL
 
 RESOURCE ID: route_validation_description_length
-TEXT: Yol açıklaması en fazla {0} karakter içerebilir.
-
-RESOURCE ID: route_validation_first_waypoint
-TEXT: Yolun başlangıç noktası bir PokéDurak veya Spor Salonu olmalıdır.
-
-RESOURCE ID: route_validation_last_waypoint
-TEXT: Yolun üzerindeki son konum bir PokéDurak veya Spor Salonu olmalıdır.
-
-RESOURCE ID: route_validation_max_checkpoint
-TEXT: Yollarda en fazla {0} kontrol noktası olabilir.
-
-RESOURCE ID: route_validation_max_checkpoint_between_poi
-TEXT: There cannot be more than {0} checkpoints between Waypoints #{1} and #{2}.
-
-RESOURCE ID: route_validation_max_checkpoint_per_distance
-TEXT: Yollarda her {0} metrede 1 ek kontrol noktası olabilir. Çok fazla konum eklediniz.
-
-RESOURCE ID: route_validation_max_distance_checkpoint
-TEXT: #{0}. Kontrol noktası {1} metreden uzak olamaz.
-
-RESOURCE ID: route_validation_max_distance_poi
-TEXT: The distance between stops #{0} and #{1} cannot exceed {2} meters.
-
-RESOURCE ID: route_validation_max_length
-TEXT: Yol {0} metreden uzun olamaz.
-
-RESOURCE ID: route_validation_max_poi
-TEXT: Yol üzerinde en fazla {0} PokéDurak/Spor Salonu olabilir.
-
-RESOURCE ID: route_validation_min_distance_checkpoint
-TEXT: #{0}. Kontrol noktası en az {1} metre uzaklıkta olmalıdır.
-
-RESOURCE ID: route_validation_min_distance_poi
-TEXT: The distance between stops #{0} and #{1} must exceed {2} meters.
-
-RESOURCE ID: route_validation_min_length
-TEXT: Yol {0} metreden kısa olamaz.
-
-RESOURCE ID: route_validation_min_poi
-TEXT: Yol üzerinde en az {0} PokéDurak/Spor Salonu olmalıdır
-
-RESOURCE ID: route_validation_poi_not_verified
-TEXT: Yol üzerindeki #{0}. PokéDurak/Spor Salonunun döndürülerek doğrulanması gerekiyor.
-
-RESOURCE ID: route_validation_pois_not_loaded
-TEXT: Doğrulamak için yol üzerindeki duraklardan çok uzakta
-
-RESOURCE ID: route_validation_title
-TEXT: Yol Doğrulama
+TEXT: Route descriptions cannot exceed {0} characters.
 
 RESOURCE ID: route_validation_title_length
-TEXT: Yol başlığı en fazla {0} karakter içerebilir.
-
-RESOURCE ID: route_view_stamp_button
-TEXT: About this Route:
+TEXT: Route titles cannot exceed {0} characters.
 
 RESOURCE ID: route_waiting_for_data
-TEXT: Verilerin yüklenmesi bekleniyor
+TEXT: Waiting for data to load
 
 RESOURCE ID: route_walk_button
-TEXT: YÜRÜ
-
-RESOURCE ID: route_walking_all_waypoints_verified
-TEXT: Tebrikler! Yol üzerindeki tüm konumları döndürdünüz!
-
-RESOURCE ID: route_walking_context_page
-TEXT: Walk and spin each pokestop
-
-RESOURCE ID: route_walking_context_title
-TEXT: Walking your Route
-
-RESOURCE ID: route_walking_first_poi_spin
-TEXT: Lütfen başlangıç noktası olarak seçtiğiniz bu PokéDurak/Spor Salonunu, diski döndürerek onaylayın.
+TEXT: TRAVEL
 
 RESOURCE ID: route_walking_follow_path
-TEXT: Follow the path to the Route end point to complete this Route. 
+TEXT: Bu rotayı tamamlamak için güzergâhı rota bitiş noktasına kadar takip edin.
 
 RESOURCE ID: route_walking_head_to_start
 TEXT: Rotayı başlatmak için başlangıç noktasına gidin.
-
-RESOURCE ID: route_walking_head_to_waypoint
-TEXT: Lütfen #{0}. konuma ({1}) giderek halkayı döndürün.
-
-RESOURCE ID: route_walking_poi_spin
-TEXT: Lütfen {1} adlı #{0}. PokéDurak/Spor Salonunu, diski döndürerek onaylayın.
-
-RESOURCE ID: route_walking_poi_verified
-TEXT: Yol üzerindeki PokéDurak/Spor Salonu doğrulandı.
 
 RESOURCE ID: route_weekly_community_activity_label
 TEXT: HAFTALIK TOPLULUK AKTİVİTESİ
@@ -67948,15 +68941,6 @@ TEXT: Takip Etme Sayısı
 
 RESOURCE ID: route_your_plays_label
 TEXT: GEZİNTİLERİNİZ
-
-RESOURCE ID: route_zero_route_maker_desc
-TEXT: You don’t have a Route Maker. You will need a Route Maker if you want to create a new Route.
-
-RESOURCE ID: routemaker_description
-TEXT: Yol oluşturmanıza olanak tanıyan bir cihaz. Aynı anda en fazla 5 cihaz etkin olabilir.
-
-RESOURCE ID: routemaker_title
-TEXT: Yol Oluşturucu
 
 RESOURCE ID: routes_begin_creation_button
 TEXT: Onayla ve İlerle
@@ -67979,8 +68963,8 @@ TEXT: Burası mevcut başlangıç noktanız.
 RESOURCE ID: routes_end_at
 TEXT: Bitiş: 
 
-RESOURCE ID: routes_general
-TEXT: Route Makers
+RESOURCE ID: routes_nearby_notification
+TEXT: Yakında rota var!
 
 RESOURCE ID: routes_no_endpoint_selection_made
 TEXT: Seçim Yapılmamış
@@ -68293,6 +69277,78 @@ TEXT: Safari Bölgesi: Pokémon yakalarken {0} Razz Meyvesi kullanın
 
 RESOURCE ID: safari_buddy_snapshot
 TEXT: Safari Bölgesi: Dostunuzun fotoğrafını çekin
+
+RESOURCE ID: safari_city_leave_behind_title_barcelona
+TEXT: Barselona Şehir Safarisi: Yolculuk Devam Ediyor
+
+RESOURCE ID: safari_city_leave_behind_title_barcelona_00
+TEXT: Barselona Şehir Safarisi: Yolculuk Devam Ediyor (1/7)
+
+RESOURCE ID: safari_city_leave_behind_title_barcelona_01
+TEXT: Barselona Şehir Safarisi: Yolculuk Devam Ediyor (2/7)
+
+RESOURCE ID: safari_city_leave_behind_title_barcelona_02
+TEXT: Barselona Şehir Safarisi: Yolculuk Devam Ediyor (3/7)
+
+RESOURCE ID: safari_city_leave_behind_title_barcelona_03
+TEXT: Barselona Şehir Safarisi: Yolculuk Devam Ediyor (4/7)
+
+RESOURCE ID: safari_city_leave_behind_title_barcelona_04
+TEXT: Barselona Şehir Safarisi: Yolculuk Devam Ediyor (5/7)
+
+RESOURCE ID: safari_city_leave_behind_title_barcelona_05
+TEXT: Barselona Şehir Safarisi: Yolculuk Devam Ediyor (6/7)
+
+RESOURCE ID: safari_city_leave_behind_title_barcelona_06
+TEXT: Barselona Şehir Safarisi: Yolculuk Devam Ediyor (7/7)
+
+RESOURCE ID: safari_city_leave_behind_title_mxc
+TEXT: Meksiko Şehir Safarisi: Yolculuk Devam Ediyor
+
+RESOURCE ID: safari_city_leave_behind_title_mxc_00
+TEXT: Meksiko Şehir Safarisi: Yolculuk Devam Ediyor (1/7)
+
+RESOURCE ID: safari_city_leave_behind_title_mxc_01
+TEXT: Meksiko Şehir Safarisi: Yolculuk Devam Ediyor (2/7)
+
+RESOURCE ID: safari_city_leave_behind_title_mxc_02
+TEXT: Meksiko Şehir Safarisi: Yolculuk Devam Ediyor (3/7)
+
+RESOURCE ID: safari_city_leave_behind_title_mxc_03
+TEXT: Meksiko Şehir Safarisi: Yolculuk Devam Ediyor (4/7)
+
+RESOURCE ID: safari_city_leave_behind_title_mxc_04
+TEXT: Meksiko Şehir Safarisi: Yolculuk Devam Ediyor (5/7)
+
+RESOURCE ID: safari_city_leave_behind_title_mxc_05
+TEXT: Meksiko Şehir Safarisi: Yolculuk Devam Ediyor (6/7)
+
+RESOURCE ID: safari_city_leave_behind_title_mxc_06
+TEXT: Meksiko Şehir Safarisi: Yolculuk Devam Ediyor (7/7)
+
+RESOURCE ID: safari_city_leave_behind_title_seoul
+TEXT: Seul Şehir Safarisi: Yolculuk Devam Ediyor
+
+RESOURCE ID: safari_city_leave_behind_title_seoul_00
+TEXT: Seul Şehir Safarisi: Yolculuk Devam Ediyor (1/7)
+
+RESOURCE ID: safari_city_leave_behind_title_seoul_01
+TEXT: Seul Şehir Safarisi: Yolculuk Devam Ediyor (2/7)
+
+RESOURCE ID: safari_city_leave_behind_title_seoul_02
+TEXT: Seul Şehir Safarisi: Yolculuk Devam Ediyor (3/7)
+
+RESOURCE ID: safari_city_leave_behind_title_seoul_03
+TEXT: Seul Şehir Safarisi: Yolculuk Devam Ediyor (4/7)
+
+RESOURCE ID: safari_city_leave_behind_title_seoul_04
+TEXT: Seul Şehir Safarisi: Yolculuk Devam Ediyor (5/7)
+
+RESOURCE ID: safari_city_leave_behind_title_seoul_05
+TEXT: Seul Şehir Safarisi: Yolculuk Devam Ediyor (6/7)
+
+RESOURCE ID: safari_city_leave_behind_title_seoul_06
+TEXT: Seul Şehir Safarisi: Yolculuk Devam Ediyor (7/7)
 
 RESOURCE ID: safari_event
 TEXT: Pokémon GO Safari Bölgesi
@@ -68670,11 +69726,41 @@ TEXT: Altına Hücum Araştırma Günü: Süreli Araştırma
 RESOURCE ID: season10_tr_willow_title
 TEXT: Willow’un Gardırobu
 
+RESOURCE ID: season12_branch_1_button_key
+TEXT: Adventure with Sprigatito
+
+RESOURCE ID: season12_branch_1_description_key
+TEXT: Choose this option to go adventuring with Sprigatito!
+
+RESOURCE ID: season12_branch_1_title_key
+TEXT: Adventure with Sprigatito
+
+RESOURCE ID: season12_branch_2_button_key
+TEXT: Adventure with Fuecoco
+
+RESOURCE ID: season12_branch_2_description_key
+TEXT: Choose this option to go adventuring with Fuecoco!
+
+RESOURCE ID: season12_branch_2_title_key
+TEXT: Adventure with Fuecoco
+
+RESOURCE ID: season12_branch_3_button_key
+TEXT: Adventure with Quaxly
+
+RESOURCE ID: season12_branch_3_description_key
+TEXT: Choose this option to go adventuring with Quaxly!
+
+RESOURCE ID: season12_branch_3_title_key
+TEXT: Adventure with Quaxly
+
 RESOURCE ID: season_gbl_forecast_title_10
 TEXT: 10. Sezon: Yükselen Kahramanlar
 
 RESOURCE ID: season_gbl_forecast_title_11
 TEXT: Pokémon GO: Gizli Cevherler
+
+RESOURCE ID: season_gbl_forecast_title_12
+TEXT: Pokémon GO: Adventures Abound
 
 RESOURCE ID: season_gbl_forecast_title_7
 TEXT: Season of GO
@@ -69066,6 +70152,12 @@ TEXT: Oyun verilerini yenilemek istediğinizden emin misiniz?
 
 RESOURCE ID: settings_resources_str
 TEXT: Kaynaklar
+
+RESOURCE ID: settings_route_guidance
+TEXT: Rota Rehberi
+
+RESOURCE ID: settings_route_guidance_tip
+TEXT: Mevcut rotanızın bitiş noktasına yaklaştığınızda veya gizemli şeyler belirdiğinde uyarı alın.
 
 RESOURCE ID: settings_select_legendary_label
 TEXT: Genişletilmiş Grup Gönderimi
@@ -70239,6 +71331,9 @@ TEXT: Doğada daha fazla Fennekin ortaya çıkıyor!
 
 RESOURCE ID: spawn_fletchling
 TEXT: Doğada daha fazla Fletchling ortaya çıkıyor
+
+RESOURCE ID: spawn_froakie
+TEXT: Doğada daha fazla Froakie ortaya çıkıyor
 
 RESOURCE ID: spawn_gastly
 TEXT: Doğada daha fazla Gastly ortaya çıkıyor
@@ -72507,7 +73602,7 @@ RESOURCE ID: style_shop
 TEXT: AYRINTILAR
 
 RESOURCE ID: submit_age_button
-TEXT: Onayla
+TEXT: Gönder
 
 RESOURCE ID: success_inventory_daily_butterfly_limit
 TEXT: Vivillon madalyalarınıza sayılmadı; sabitleme sınırına ulaşıldı. Arkadaşlarınızdan gelen kartpostalları sabitleyin!
@@ -72559,7 +73654,7 @@ TEXT: Hesap Askıya Alma Bildirimi
  Askıya alınma süreci yaklaşık olarak 30 gün sürecek. Daha fazla ihlal olması durumunda hesap kalıcı olarak kapatılacak.
 
 RESOURCE ID: suspension_rate_limit_desc
-TEXT: <0>1. aşama (24 saat):</0><1/>Hesabınızda olağan dışı bir aktivite tespit ettik ve bunun sonucunda oyununuza geçici kısıtlamalar getirildi.
+TEXT: Hesabınızda olağandışı bir faaliyet tespit ettik. Bu nedenle oyununuza geçici kısıtlamalar getirildi.
 
 RESOURCE ID: switch_sleep_warning
 TEXT: Nintendo Switch'e bağlanırken akıllı telefonunuzu kapatmayın ya da uyku moduna almayın. 
@@ -72842,6 +73937,9 @@ TEXT: Kurnaz Alev özel araştırma hikâyesi biletini mağazadan alabilirsiniz
 RESOURCE ID: ticket_fletchling
 TEXT: En Cesur Kuş Özel Araştırma hikâyesi için mağazada bilet mevcut
 
+RESOURCE ID: ticket_froakie
+TEXT: Fıkır Fıkır özel araştırma hikâyesi biletini mağazadan alabilirsiniz
+
 RESOURCE ID: ticket_gastly
 TEXT: Muhteşem Gastly Özel Araştırma hikâyesi için mağazada bilet mevcut
 
@@ -73067,6 +74165,9 @@ TEXT: Nidoran ♀ ve Nidoran ♂ Süreli Araştırmada yer aldı
 
 RESOURCE ID: timed_research_pokemon_snubbull
 TEXT: Snubbull, Süreli Araştırmada yer aldı
+
+RESOURCE ID: timed_trial_mb_research_title
+TEXT: Timed Investigation: Master Ball
 
 RESOURCE ID: tips_battle_at_gyms_tutorial_body
 TEXT: Spor Salonundaki Pokémon'ları yenerek, rakip bir takımın kontrolündeki Spor Salonlarını ele geçirebilirsiniz. Spor Salonunu koruyan Pokémon''ların motivasyonunu sıfıra indirirseniz, Spor Salonunu kendi takımınızın kontrolüne alabilirsiniz.
@@ -74371,44 +75472,44 @@ RESOURCE ID: tutorial_level_40_plus_intro
 TEXT: Olağanüstü ilerlemeniz için tebrikler Eğitmen!
 
 RESOURCE ID: tutorial_route_bonus_0
-TEXT: Buddy Candy earned more quickly
+TEXT: Daha hızlıca dost şekeri kazanılır
 
 RESOURCE ID: tutorial_route_bonus_1
-TEXT: Incense attracts more Pokémon on new Routes
+TEXT: Tütsüler yeni rotalar üzerinde daha fazla Pokémon çeker
 
 RESOURCE ID: tutorial_route_bonus_2
-TEXT: Unusual Pokémon may appear on Routes
+TEXT: Rotalar üzerinde alışılmadık Pokémon’lar ortaya çıkabilir
 
 RESOURCE ID: tutorial_route_play_body_0
-TEXT: Discover your local community and earn rewards by exploring Routes!
+TEXT: Rotaları keşfederek yerel topluluğunuzu tanıyın ve ödüller kazanın!
 
-To start:
-1. Choose a Route from the list or map.
-2. Go to the start point.
-3. Follow the Route to its end point.
+Başlamak için:
+1. Listeden veya haritadan bir rota seçin.
+2. Başlangıç noktasına gidin.
+3. Rotayı bitiş noktasına kadar takip edin.
 
 RESOURCE ID: tutorial_route_play_body_1
-TEXT: When you’re within {0} m of the Route’s path, you will earn special bonuses.
+TEXT: Rota güzergâhına olan mesafeniz {0} m veya altında olduğunda özel bonuslar kazanacaksınız.
 
 RESOURCE ID: tutorial_route_play_body_2
-TEXT: • You will earn a new Route Badge the first time you complete a Route.
-• Follow a Route multiple times to progress your badge and improve the rewards you receive from that Route.
+TEXT: • Her bir rotayı ilk defa bitirdiğinizde bir Rota Rozeti kazanırsınız.
+• Rozetinizi ilerletmek için rotayı birçok kere takip edin ve o rotadan alacağınız ödülleri artırın.
 
 RESOURCE ID: tutorial_route_play_body_3
-TEXT: 1. Stay near the Route’s path to ensure your progress is recorded.
-2. Your travel distance must be close to the length of the Route in order to complete it.
+TEXT: 1. İlerlemenizin kaydedilmesi için rotanın güzergâhından uzaklaşmayın.
+2. Rotayı tamamlamak için katettiğiniz mesafenin rota uzunluğuna yakın olması gerekir.
 
 RESOURCE ID: tutorial_route_play_title_0
-TEXT: Explore a Route
+TEXT: Bir Rota Keşfedin
 
 RESOURCE ID: tutorial_route_play_title_1
-TEXT: Bonuses
+TEXT: Bonuslar
 
 RESOURCE ID: tutorial_route_play_title_2
-TEXT: Rewards
+TEXT: Ödüller
 
 RESOURCE ID: tutorial_route_play_title_3
-TEXT: Rules
+TEXT: Kurallar
 
 RESOURCE ID: tutorial_vivillon_postcard_body_0
 TEXT: Her bölgeden çok sayıda kartpostal toplarsanız bir Pokémon’la karşılaşma şansınız olacak!
@@ -74501,10 +75602,10 @@ RESOURCE ID: type_tutorial_fire__male_speaker
 TEXT: Ateş türü Pokémon’lar, Su, Yer ve Kaya türü saldırılarına karşı güçsüzdür.
 
 RESOURCE ID: type_tutorial_flying__female_speaker
-TEXT: Uçan türü Pokémon’lar, Elektrik, Buz ve Kaya türü saldırılarına karşı güçsüzdür.
+TEXT: Uçan tür Pokémon’lar, Elektrik, Buz ve Kaya türü saldırılarına karşı güçsüzdür.
 
 RESOURCE ID: type_tutorial_flying__male_speaker
-TEXT: Uçan türü Pokémon’lar, Elektrik, Buz ve Kaya türü saldırılarına karşı güçsüzdür.
+TEXT: Uçan tür Pokémon’lar, Elektrik, Buz ve Kaya türü saldırılarına karşı güçsüzdür.
 
 RESOURCE ID: type_tutorial_ghost__female_speaker
 TEXT: Hayalet türü Pokémon’lar, Hayalet ve Karanlık türü saldırılarına karşı güçsüzdür.
@@ -74920,6 +76021,12 @@ TEXT: Yükleme bitti!
 
 RESOURCE ID: upmgmt_summary_thanks
 TEXT: Katkılarınız için teşekkürler.
+
+RESOURCE ID: usa_gofest_2023_global_event_name
+TEXT: Tehlikeli Bataklık
+
+RESOURCE ID: usa_timed_header_0
+TEXT: Tehlikeli Bataklık: Süreli Araştırma
 
 RESOURCE ID: use_now_button
 TEXT: HEMEN KULLAN
@@ -75415,9 +76522,6 @@ TEXT: km
 RESOURCE ID: walk_steps
 TEXT: adım
 
-RESOURCE ID: walked_label
-TEXT: WALKED
-
 RESOURCE ID: water_festival_catch_timed_research
 TEXT: Su Festivali: Yakalama Görevi
 
@@ -75481,8 +76585,62 @@ TEXT: Pokémon GO Londra, İngiltere’deki 2022 Pokémon Dünya Şampiyonasınd
 RESOURCE ID: wcs_2022_title
 TEXT: 2022 Pokémon Dünya Şampiyonası
 
+RESOURCE ID: wcs_2023_battle_tr_description
+TEXT: 2023 Pokémon Dünya Şampiyonası: Bonus Süreli Araştırma
+
+RESOURCE ID: wcs_2023_battle_tr_dialogue_00
+TEXT: Merhaba %PLAYERNAME%! Bir maç yapalım mı, ne dersin?
+
+RESOURCE ID: wcs_2023_battle_tr_dialogue_01
+TEXT: Süper! Eğitmek için üç Pokémon seçelim o zaman.
+
+RESOURCE ID: wcs_2023_battle_tr_path_a
+TEXT: Skarmory’yi seçin
+
+RESOURCE ID: wcs_2023_battle_tr_path_a_desc
+TEXT: Bu seçenek ile Skarmory, Swampert ve Vigoroth’tan meydana gelen bir Süper Lig takımı oluşturun ve eğitin.
+
+RESOURCE ID: wcs_2023_battle_tr_path_b
+TEXT: Trevenant’ı seçin
+
+RESOURCE ID: wcs_2023_battle_tr_path_b_desc
+TEXT: Bu seçenek ile Noctowl, Lanturn ve Trevenant’tan meydana gelen bir Süper Lig takımı oluşturun ve eğitin.
+
+RESOURCE ID: wcs_2023_battle_tr_path_c
+TEXT: Azumarill’i seçin
+
+RESOURCE ID: wcs_2023_battle_tr_path_c_desc
+TEXT: Bu seçenek ile Azumarill, Umbreon ve Mandibuzz’dan meydana gelen bir Süper Lig takımı oluşturun ve eğitin.
+
+RESOURCE ID: wcs_2023_battle_tr_title
+TEXT: Süper Bir Süper Lig
+
+RESOURCE ID: wcs_2023_battle_tr_title_00
+TEXT: Süper Bir Süper Lig (1/3)
+
+RESOURCE ID: wcs_2023_battle_tr_title_01
+TEXT: Süper Bir Süper Lig (2/3)
+
+RESOURCE ID: wcs_2023_battle_tr_title_02
+TEXT: Süper Bir Süper Lig (3/3)
+
+RESOURCE ID: wcs_2023_champion_tr_description
+TEXT: 2023 Pokémon Dünya Şampiyonası: Bonus Süreli Araştırma
+
+RESOURCE ID: wcs_2023_champion_tr_title
+TEXT: DancingRob’ın Şampiyonu
+
+RESOURCE ID: wcs_2023_champion_tr_title_00
+TEXT: DancingRob’ın Şampiyonu (1/2)
+
+RESOURCE ID: wcs_2023_champion_tr_title_01
+TEXT: DancingRob’ın Şampiyonu (2/2)
+
+RESOURCE ID: wcs_2023_yokohama_event_title
+TEXT: 2023 Pokémon Dünya Şampiyonası, Yokohama
+
 RESOURCE ID: wcs_aug23_header_0
-TEXT: 2023 Pokémon World Championships
+TEXT: 2023 Pokémon Dünya Şampiyonası
 
 RESOURCE ID: wcs_battle_tr_description
 TEXT: 2022 Pokémon Dünya Şampiyonası: Bonus Süreli Araştırma
@@ -75528,6 +76686,27 @@ TEXT: 2022 Pokémon Dünya Şampiyonası etkinlik mekanındaki PokéDurakları d
 
 RESOURCE ID: wcs_collection_title
 TEXT: 2022 Şampiyona Toplama Görevi
+
+RESOURCE ID: wcs_froakie_bonus_tr_desc
+TEXT: Froakie Topluluk Günü: Bonus Süreli Araştırma
+
+RESOURCE ID: wcs_froakie_bonus_tr_title
+TEXT: Froakie Topluluk Günü: Bonus Süreli Araştırma
+
+RESOURCE ID: wcs_froakie_bonus_tr_title_00
+TEXT: Froakie Topluluk Günü: Bonus Süreli Araştırma (1/5)
+
+RESOURCE ID: wcs_froakie_bonus_tr_title_01
+TEXT: Froakie Topluluk Günü: Bonus Süreli Araştırma (2/5)
+
+RESOURCE ID: wcs_froakie_bonus_tr_title_02
+TEXT: Froakie Topluluk Günü: Bonus Süreli Araştırma (3/5)
+
+RESOURCE ID: wcs_froakie_bonus_tr_title_03
+TEXT: Froakie Topluluk Günü: Bonus Süreli Araştırma (4/5)
+
+RESOURCE ID: wcs_froakie_bonus_tr_title_04
+TEXT: Froakie Topluluk Günü: Bonus Süreli Araştırma (5/5)
 
 RESOURCE ID: wcs_implicit_social_description
 TEXT: 20 Eğitmen bir akın maçında işbirliği yapıp başarılı olursa 10 dakika boyunca o Spor Salonunun etrafında özel etkinlik Pokémon’ları belirecek!
@@ -75771,4 +76950,10 @@ TEXT: Referans kodunuz değiştirildi.
 
 RESOURCE ID: your_trainer_code_title
 TEXT: Eğitmen Kodunuz
+
+RESOURCE ID: zygarde_tappable_push_notification
+TEXT: Gizemli bir şey belirdi!
+
+RESOURCE ID: zygarde_tappable_push_notification_description
+TEXT: Araştırmak için Pokémon GO’yu açın.
 

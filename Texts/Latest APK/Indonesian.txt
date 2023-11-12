@@ -6178,6 +6178,18 @@ TEXT: Penelitian Partner - Permata Tersembunyi: Don Quijote
 RESOURCE ID: badge_event_0068_title
 TEXT: Penelitian Partner: Don Quijote
 
+RESOURCE ID: badge_event_0073
+TEXT: Pokémon World Championship 2023: Bonus Penelitian Berwaktu
+
+RESOURCE ID: badge_event_0073_title
+TEXT: Kehebatan di Liga Great
+
+RESOURCE ID: badge_event_0074
+TEXT: Pokémon World Championship 2023: Bonus Penelitian Berwaktu
+
+RESOURCE ID: badge_event_0074_title
+TEXT: Jawaranya DancingRob
+
 RESOURCE ID: badge_event_yoshinoya
 TEXT: Mei 2021: Yoshinoya
 
@@ -6195,12 +6207,6 @@ TEXT: 2 November 2019
 
 RESOURCE ID: badge_global_ticketed_event_title
 TEXT: Sebuah Penemuan Kolosal
-
-RESOURCE ID: badge_gofest2023_global
-TEXT: 26–27 Agustus 2023
-
-RESOURCE ID: badge_gofest2023_global_title
-TEXT: Pokémon GO Fest 2023
 
 RESOURCE ID: badge_gofest_2019_americas_day_00_north_earlyaccess
 TEXT: Chicago, 12 Juni 2019, Utara
@@ -6771,6 +6777,12 @@ TEXT: Global, 4–5 Juni 2022, dan 27 Agustus 2022
 
 RESOURCE ID: badge_gofest_2022_test_title
 TEXT: Pokémon GO Fest 2022
+
+RESOURCE ID: badge_gofest_2023_global
+TEXT: 26–27 Agustus 2023
+
+RESOURCE ID: badge_gofest_2023_global_title
+TEXT: Pokémon GO Fest 2023
 
 RESOURCE ID: badge_gofest_2023_london_addon_hatch
 TEXT: London, 4–6 Agustus 2023
@@ -8210,7 +8222,7 @@ RESOURCE ID: badge_type_psychic
 TEXT: Tangkap {0} Pokémon tipe Psychic.
 
 RESOURCE ID: badge_type_psychic_title
-TEXT: Cenayang
+TEXT: Psychic
 
 RESOURCE ID: badge_type_psychic_value_format
 TEXT: N0
@@ -11262,6 +11274,9 @@ TEXT: Evolusikan Dragonair untuk mendapatkan Dragonite yang mempelajari Meteor N
 RESOURCE ID: bonus_cd_move_fennekin
 TEXT: Evolusikan Braixen untuk mendapatkan Delphox yang mempelajari Blast Burn!
 
+RESOURCE ID: bonus_cd_move_froakie
+TEXT: Evolusikan Frogadier untuk mendapatkan Greninja yang mempelajari Hydro Cannon
+
 RESOURCE ID: bonus_cd_move_larvitar_cdc
 TEXT: Evolusikan Pupitar (Evolusi Larvitar) untuk mendapatkan Tyranitar yang mempelajari Tembak Jatuh!
 
@@ -11327,6 +11342,12 @@ TEXT: Pada tepat setiap jam, sangat banyak Finneon yang akan muncul!
 
 RESOURCE ID: bonus_fr_party_pikachu
 TEXT: Selesaikan tugas Penelitian Lapangan yang didapat dari PokéStop Temu Sapa untuk bertemu dengan Pikachu bertopi pesta!
+
+RESOURCE ID: bonus_friendship_levelup_1.5x
+TEXT: Perolehan XP dari peningkatan Level Pertemanan ×1,5
+
+RESOURCE ID: bonus_friendship_levelup_2x
+TEXT: Perolehan XP dari peningkatan Level Pertemanan ×2
 
 RESOURCE ID: bonus_friendship_raid_double
 TEXT: Bonus Kerusakan Raid Pertemanan ×2
@@ -11396,6 +11417,9 @@ TEXT: Tantangan Hari Komunitas: Raid
 
 RESOURCE ID: bonus_implicit_social_fennekin_raid
 TEXT: Jika Pelatih bekerja sama untuk memenangkan Raid Braixen, Fennekin akan muncul dalam jumlah besar di area selama 30 menit
+
+RESOURCE ID: bonus_implicit_social_froakie_raid
+TEXT: Jika Pelatih bekerja sama untuk memenangkan Raid Frogadier, Froakie akan muncul di sekitar Gym selama 30 menit.
 
 RESOURCE ID: bonus_implicit_social_litwick_raid
 TEXT: Jika Pelatih bekerja sama untuk memenangkan Raid Lampent, Litwick akan muncul dalam jumlah besar di area selama 30 menit.
@@ -11568,6 +11592,9 @@ TEXT: Jarak Penetasan ×1/2
 RESOURCE ID: bonus_reward_quarter_hatch_distance
 TEXT: Jarak Penetasan ×1/4 
 
+RESOURCE ID: bonus_rrp_limit_uncap
+TEXT: Tidak ada limit harian Raid Jarak Jauh
+
 RESOURCE ID: bonus_singapore_photobomb
 TEXT: 5 pertemuan kejutan dengan Corsola dan Pikachu berkaus ungu di Foto GO
 
@@ -11633,6 +11660,12 @@ TEXT: Pemakaian Debu Bintang -75% untuk pertukaran yang dilakukan selama event d
 
 RESOURCE ID: bonus_unlocked
 TEXT: Bonus terbuka!
+
+RESOURCE ID: bonus_versioned_field_research_2x_daily
+TEXT: Dapatkan Penelitian Lapangan dari 1 PokéStop hingga 2 penelitian per hari (pagi dan siang).
+
+RESOURCE ID: bonus_xl_candy_5x
+TEXT: Peluang perolehan Permen XL dari menangkap Pokémon meningkat pesat
 
 RESOURCE ID: bonus_xl_candy_nice_great_excel
 TEXT: Peluang mendapatkan Permen XL meningkat dari menangkap Pokémon dengan Nice, Great, dan Excellent Throw
@@ -14404,6 +14437,9 @@ TEXT: Festival Lentera Taiwan 2023
 RESOURCE ID: collection_twlantern2023_description
 TEXT: Tangkap Pokémon berikut selama event berlangsung!
 
+RESOURCE ID: collection_wcs2023_irl_bonus
+TEXT: Tantangan Koleksi Pokémon World Championship
+
 RESOURCE ID: color_cup_great_title
 TEXT: Kejuaraan Warna: Edisi Liga Great
 
@@ -15142,6 +15178,9 @@ TEXT: Musim 10: Kebangkitan Hero
 RESOURCE ID: combat_title_season_11
 TEXT: GO Battle League: Permata Tersembunyi
 
+RESOURCE ID: combat_title_season_12
+TEXT: GO Battle League: Penuh Petualangan
+
 RESOURCE ID: combat_title_season_7
 TEXT: Jadwal GO Battle League: Musim GO
 
@@ -15213,6 +15252,9 @@ TEXT: Hari Komunitas: Fennekin
 
 RESOURCE ID: community_day_fletchling_event_name
 TEXT: Hari Komunitas: Fletchling
+
+RESOURCE ID: community_day_froakie_event_name
+TEXT: Hari Komunitas: Froakie
 
 RESOURCE ID: community_day_gastly_event_name
 TEXT: Hari Komunitas: Gastly
@@ -15667,9 +15709,6 @@ TEXT: Gagal membuat label.
 RESOURCE ID: create_tag_gui_title
 TEXT: BUAT LABEL
 
-RESOURCE ID: created_by_label
-TEXT: Dibuat oleh
-
 RESOURCE ID: created_routes_title
 TEXT: RUTE YANG DIBUAT
 
@@ -16073,7 +16112,7 @@ RESOURCE ID: download_all_assets_all_downloaded
 TEXT: Semua aset sudah diunduh.
 
 RESOURCE ID: download_all_assets_checking_assets_indicator
-TEXT: Checking assets...
+TEXT: Memeriksa aset ...
 
 RESOURCE ID: download_all_assets_complete_description
 TEXT: Kamu sudah berhasil mengunduh semua aset ke perangkat. Saatnya GO!
@@ -16135,7 +16174,7 @@ RESOURCE ID: download_all_assets_title
 TEXT: Unduh Semua Aset
 
 RESOURCE ID: download_all_assets_verifying_download_indicator
-TEXT: Verifying download...
+TEXT: Memverifikasi unduhan ...
 
 RESOURCE ID: download_all_assets_wifi_lost
 TEXT: Pengunduhan tidak bisa diselesaikan karena koneksi Wi-Fi terputus. Sambungkan kembali, lalu coba lagi.
@@ -17517,6 +17556,9 @@ TEXT: Musim 10: Kebangkitan Hero
 RESOURCE ID: event_season11_name
 TEXT: Musim Sekarang: Permata Tersembunyi
 
+RESOURCE ID: event_season12_name
+TEXT: Musim Sekarang: Penuh Petualangan
+
 RESOURCE ID: event_season1_name
 TEXT: Musim Perayaan
 
@@ -18520,6 +18562,9 @@ TEXT: Wujud Semangat Tinggi
 RESOURCE ID: form_antique
 TEXT: Bentuk Antik Asli
 
+RESOURCE ID: form_apex
+TEXT: Postur Sempurna
+
 RESOURCE ID: form_arceus_bug
 TEXT: Tipe-Serangga
 
@@ -18588,6 +18633,9 @@ TEXT: Gaya Baile
 
 RESOURCE ID: form_black
 TEXT: Kyurem Hitam
+
+RESOURCE ID: form_blue
+TEXT: Bulu Biru
 
 RESOURCE ID: form_blue_striped
 TEXT: Wujud Bergaris Biru
@@ -18697,6 +18745,9 @@ TEXT: Raja Perisai
 RESOURCE ID: form_crowned_sword
 TEXT: Raja Pedang
 
+RESOURCE ID: form_curly
+TEXT: Wujud Bengkok
+
 RESOURCE ID: form_darmanitan_standard
 TEXT: Mode Normal
 
@@ -18724,11 +18775,20 @@ TEXT: Wujud Samaran
 RESOURCE ID: form_douse_drive
 TEXT: Douse Drive
 
+RESOURCE ID: form_droopy
+TEXT: Wujud Merunduk
+
 RESOURCE ID: form_dusk
 TEXT: Wujud Senja
 
 RESOURCE ID: form_east_sea
 TEXT: Laut Timur
+
+RESOURCE ID: form_family_of_four
+TEXT: Famili Kuartet
+
+RESOURCE ID: form_family_of_three
+TEXT: Famili Trio
 
 RESOURCE ID: form_fan
 TEXT: Rotom Kipas
@@ -18853,6 +18913,9 @@ TEXT: Ukuran Kecil
 RESOURCE ID: form_gourgeist_super
 TEXT: Ukuran Super
 
+RESOURCE ID: form_green
+TEXT: Bulu Hijau
+
 RESOURCE ID: form_greninja_ash
 TEXT: Ash-Greninja
 
@@ -18961,6 +19024,12 @@ TEXT: No Ice Face
 RESOURCE ID: form_normal
 TEXT: Wujud Castform
 
+RESOURCE ID: form_oinkologne_female
+TEXT: Wujud Betina
+
+RESOURCE ID: form_oinkologne_male
+TEXT: Wujud Jantan
+
 RESOURCE ID: form_ordinary
 TEXT: Wujud Biasa
 
@@ -18984,6 +19053,9 @@ TEXT: Bentuk Asli
 
 RESOURCE ID: form_overcast
 TEXT: Bentuk Kuncup
+
+RESOURCE ID: form_palafin_hero
+TEXT: Bentuk Perkasa
 
 RESOURCE ID: form_pau
 TEXT: Gaya Pa'u
@@ -19135,8 +19207,14 @@ TEXT: Kecepatan
 RESOURCE ID: form_spring
 TEXT: Wujud Musim Semi
 
+RESOURCE ID: form_squakabilly_white
+TEXT: Bulu Putih
+
 RESOURCE ID: form_standard_mode
 TEXT: Mode Normal
+
+RESOURCE ID: form_stretchy
+TEXT: Wujud Merenggang
 
 RESOURCE ID: form_summer
 TEXT: Wujud Musim Panas
@@ -19153,6 +19231,9 @@ TEXT: Campuran Delima
 RESOURCE ID: form_therian
 TEXT: Bentuk Therian
 
+RESOURCE ID: form_three
+TEXT: Bentuk Tiga Segmen
+
 RESOURCE ID: form_thundurus_incarnate
 TEXT: Bentuk Inkarnasi
 
@@ -19167,6 +19248,12 @@ TEXT: Bentuk Therian
 
 RESOURCE ID: form_trash_cloak
 TEXT: Jubah Sampah
+
+RESOURCE ID: form_two
+TEXT: Bentuk Dua Segmen
+
+RESOURCE ID: form_ultimate
+TEXT: Mode Optimum
 
 RESOURCE ID: form_vivillon_archipelago
 TEXT: Pola Kepulauan
@@ -19248,6 +19335,12 @@ TEXT: Wujud Menggerombol
 
 RESOURCE ID: form_wishiwashi_solo
 TEXT: Wujud Sendirian
+
+RESOURCE ID: form_yellow
+TEXT: Bulu Kuning
+
+RESOURCE ID: form_zero
+TEXT: Bentuk Naif
 
 RESOURCE ID: form_zygarde_complete
 TEXT: Bentuk Sempurna
@@ -19678,6 +19771,20 @@ KAMU HARUS BERMAIN SELAMA WAKTU TERTENTU UNTUK MENDAPATKAN SEMUA BONUS EVENT SPE
 
 RESOURCE ID: general1.ticket.2_aprilcdc2023_title
 TEXT: Hari Komunitas Klasik April 2023: Swinub
+
+RESOURCE ID: general1.ticket.2_augcd2023_description
+TEXT: Tiket untuk mengakses Penelitian Spesial Hari Komunitas: Froakie, pada 13 Agustus 2023 dari pukul 14.00 hingga 17.00 waktu setempat, di mana pun kamu berada. 
+
+Hadiah Penelitiannya termasuk: 
+- Item Premium dalam game seperti Permen Langka, Bola Ultra, dan lain sebagainya. 
+- Pertemuan ekstra dengan Froakie dan Evolusinya. 
+
+Rinciannya bisa dibaca di Berita dalam game. 
+
+KAMU HARUS BERMAIN SELAMA WAKTU TERTENTU UNTUK MENDAPATKAN SEMUA BONUS EVENT SPESIAL.
+
+RESOURCE ID: general1.ticket.2_augcd2023_title
+TEXT: Tiket Hari Komunitas Froakie
 
 RESOURCE ID: general1.ticket.2_bulbt_description
 TEXT: Tiket untuk mengakses Penelitian Spesial: Hari Komunitas Klasik Bulbasaur pada 22 Januari 2022, mulai pukul 14.00 hingga 17.00 waktu setempat, di mana pun kamu berada. Rinciannya bisa dibaca di Berita dalam game.
@@ -26155,6 +26262,9 @@ TEXT: https://niantic.helpshift.com/a/pokemon-go/?p=all&s=top-articles&f=sharing
 RESOURCE ID: helpshift_sharing_game_logs
 TEXT: https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/3325-sharing-game-logs/
 
+RESOURCE ID: hindi
+TEXT: Hindi
+
 RESOURCE ID: hisui_cup_title
 TEXT: Hisui Cup
 
@@ -26897,7 +27007,7 @@ RESOURCE ID: item_event_ticket_pink_bulbt_details
 TEXT: Tiket ini akan aktif secara otomatis dan memberimu akses ke Penelitian Spesial pada 22 Januari 2022, di mana pun kamu berada.
 
 RESOURCE ID: item_event_ticket_pink_desc
-TEXT: Tiket untuk mengakses Penelitian Spesial: Hari Komunitas Poliwag pada 30 Juli 2023, mulai pukul 14.00 hingga 17.00 waktu setempat, di mana pun kamu berada.
+TEXT: Tiket untuk mengakses Penelitian Spesial pada 13 Agustus 2023, mulai pukul 14.00 hingga 17.00 waktu setempat, di mana pun kamu berada.
 
 RESOURCE ID: item_event_ticket_pink_desc_alodude
 TEXT: Tiket untuk mengakses Penelitian Spesial pada tanggal 21 Mei 2022, mulai pukul 11.00 hingga 14.00 waktu setempat, di mana pun kamu berada.
@@ -26923,6 +27033,9 @@ TEXT: Tiket untuk mengakses Penelitian Berwaktu: Pencarian Emas pada 3 Juni 2023
 RESOURCE ID: item_event_ticket_pink_desc_mrmime
 TEXT: Tiket untuk mengakses event spesial mulai tanggal 19 Desember 2020, pukul 10.00 hingga 20 Desember 2020 pukul 20.00 waktu setempat, di mana pun kamu berada.
 
+RESOURCE ID: item_event_ticket_pink_desc_poliwag
+TEXT: Tiket untuk mengakses Penelitian Spesial: Hari Komunitas Poliwag pada 30 Juli 2023, mulai pukul 14.00 hingga 17.00 waktu setempat, di mana pun kamu berada.
+
 RESOURCE ID: item_event_ticket_pink_desc_squirtle
 TEXT: Tiket untuk mengakses Penelitian Spesial: Hari Komunitas Squirtle, di mana pun kamu berada.
 
@@ -26933,7 +27046,7 @@ RESOURCE ID: item_event_ticket_pink_desc_togetic
 TEXT: Tiket untuk mengakses Penelitian Spesial pada 15 April 2023, mulai pukul 14.00 hingga 17.00 waktu setempat, di mana pun kamu berada.
 
 RESOURCE ID: item_event_ticket_pink_details
-TEXT: Tiket ini akan aktif secara otomatis dan memberimu akses ke Penelitian Spesial: Pusaran Licin pada 30 Juli 2023 di mana pun kamu berada.
+TEXT: Tiket ini akan aktif secara otomatis dan memberimu akses ke cerita Penelitian Spesial: Hari Komunitas Froakie, di mana pun kamu berada.
 
 RESOURCE ID: item_event_ticket_pink_details_axew
 TEXT: Tiket ini akan aktif secara otomatis dan memberimu akses ke Penelitian Spesial: Hari Komunitas Axew pada Sabtu, 10 Juni 2023, mulai pukul 14.00 hingga 17.00 waktu setempat, di mana pun kamu berada.
@@ -26955,6 +27068,9 @@ TEXT: Tiket ini akan aktif secara otomatis dan memberimu akses ke Penelitian Ber
 
 RESOURCE ID: item_event_ticket_pink_details_mrmime
 TEXT: Tiket ini akan aktif secara otomatis dan memberimu akses ke event Mr. Mime Galarian mulai tanggal 19 Desember 2020, pukul 10.00 hingga 20 Desember 2020 pukul 08.00 waktu setempat, di mana pun kamu berada.
+
+RESOURCE ID: item_event_ticket_pink_details_poliwag
+TEXT: Tiket ini akan aktif secara otomatis dan memberimu akses ke Penelitian Spesial: Pusaran Licin pada 30 Juli 2023 di mana pun kamu berada.
 
 RESOURCE ID: item_event_ticket_pink_details_squirtle
 TEXT: Tiket ini akan aktif secara otomatis dan memberimu akses ke Penelitian Spesial: Hari Komunitas Squirtle pada 23 Juli 2023, mulai pukul 14.00 hingga 17.00 waktu setempat, di mana pun kamu berada.
@@ -27420,12 +27536,6 @@ TEXT: Obat untuk membangkitkan sekaligus memulihkan setengah HP Pokémon yang pi
 RESOURCE ID: item_revive_name
 TEXT: Serpihan Pembangkit
 
-RESOURCE ID: item_route_maker_desc
-TEXT: Alat untuk membuat Rute. Dapat memiliki hingga 5 Rute dalam satu waktu.
-
-RESOURCE ID: item_route_maker_name
-TEXT: Pembuat Rute
-
 RESOURCE ID: item_shadow_gem_desc
 TEXT: Permata bening yang terbentuk dari penyatuan dan purifikasi Serpihan Bayangan. Digunakan untuk menenangkan Bos Raid Bayangan yang murka.
 
@@ -27473,6 +27583,24 @@ TEXT: Koin unik untuk mengganti tim. Hanya dapat dibeli sekali per 365 hari.
 
 RESOURCE ID: item_team_change_name
 TEXT: Tim Medallion
+
+RESOURCE ID: item_ticket_city_safari_00_desc
+TEXT: A ticket to access the Special Research Seoul City Safari: The Journey Continues.
+
+RESOURCE ID: item_ticket_city_safari_00_name
+TEXT: Safari Ticket: Seoul
+
+RESOURCE ID: item_ticket_city_safari_01_desc
+TEXT: A ticket to access the Special Research Barcelona City Safari: The Journey Continues.
+
+RESOURCE ID: item_ticket_city_safari_01_name
+TEXT: Safari Ticket: Barcelona
+
+RESOURCE ID: item_ticket_city_safari_02_desc
+TEXT: A ticket to access the Special Research Mexico City Safari: The Journey Continues.
+
+RESOURCE ID: item_ticket_city_safari_02_name
+TEXT: Safari Ticket: Mexico City
 
 RESOURCE ID: item_troy_disk_desc
 TEXT: Modul untuk menarik perhatian Pokémon agar mendatangi PokéStop selama 30 menit. Pelatih lain dapat menerima efeknya.
@@ -27776,9 +27904,6 @@ TEXT: Terakhir kali dimainkan: 2+ hari lalu
 
 RESOURCE ID: last_played_yesterday
 TEXT: Terakhir kali dimainkan: Kemarin
-
-RESOURCE ID: last_time_activity_label
-TEXT: Akivitas Terakhir
 
 RESOURCE ID: leader_map_assembled
 TEXT: Kamu telah merakit Radar Roket!
@@ -31378,9 +31503,9 @@ RESOURCE ID: mega_walking_progress
 TEXT: Progres Perjalanan
 
 RESOURCE ID: metadata_local
-TEXT: Built at 2023-09-05T22:09:08.100530
-at SHA d365896004d0c49ae898e6ba22bc12199da9507a
-Pipeline 1726595, job 20964204
+TEXT: Built at 2023-09-08T08:09:58.647032
+at SHA abedd456fa33f1749c1b73b689b06e1e22fe245b
+Pipeline 1736915, job 21075377
 
 RESOURCE ID: mex_fighting_promo_title
 TEXT: Penelitian Berwaktu: Pilih Tipe Petarungmu
@@ -31707,7 +31832,7 @@ RESOURCE ID: move_name_0044
 TEXT: Tusukan Beracun
 
 RESOURCE ID: move_name_0045
-TEXT: Serangan Balik Walet
+TEXT: Jungkiran Walet
 
 RESOURCE ID: move_name_0046
 TEXT: Drill Liner
@@ -32157,7 +32282,7 @@ RESOURCE ID: move_name_0256
 TEXT: Brave Bird
 
 RESOURCE ID: move_name_0257
-TEXT: God Bird
+TEXT: Serangan Langit
 
 RESOURCE ID: move_name_0258
 TEXT: Perangkap Pasir
@@ -32921,7 +33046,7 @@ RESOURCE ID: mystery_invasion_onboarding_dialogue_9
 TEXT: Terima kasih! Kalau begitu, sampai jumpa!
 
 RESOURCE ID: name your route
-TEXT: Name your Route
+TEXT: Detail Rutemu
 
 RESOURCE ID: nearby_pokemon_clear_button
 TEXT: Hapus
@@ -33297,57 +33422,6 @@ TEXT: Kamu bisa membuka AR yang disponsori untuk mendapatkan beberapa item!
 RESOURCE ID: open_webar_sponsored_gift_button
 TEXT: Buka AR
 
-RESOURCE ID: ops_reject_i-ina
-TEXT: Gambar yang tidak pantas
-
-RESOURCE ID: ops_reject_i-nl
-TEXT: Tidak dapat menggunakan logo Niantic pada Rute
-
-RESOURCE ID: ops_reject_i-ppl
-TEXT: Tidak boleh ada orang yang tersorot di foto
-
-RESOURCE ID: ops_reject_i-tmc
-TEXT: Gambar yang tidak pantas
-
-RESOURCE ID: ops_reject_or-dan
-TEXT: Rute kurang aman atau sulit diakses
-
-RESOURCE ID: ops_reject_or-h
-TEXT: Rute tidak aman
-
-RESOURCE ID: ops_reject_t-dan
-TEXT: Rute kurang aman atau sulit diakses
-
-RESOURCE ID: ops_reject_t-def
-TEXT: Teks yang tidak pantas
-
-RESOURCE ID: ops_reject_t-desc
-TEXT: Jelaskan Alasannya
-
-RESOURCE ID: ops_reject_t-ina
-TEXT: Teks yang tidak pantas
-
-RESOURCE ID: ops_reject_t-off
-TEXT: Tidak dapat membuat rute "resmi"
-
-RESOURCE ID: ops_reject_t-pii
-TEXT: Rute tidak boleh mengandung informasi pribadi
-
-RESOURCE ID: ops_reject_t-sell
-TEXT: Teks yang tidak pantas
-
-RESOURCE ID: ops_reject_t-spam
-TEXT: Teks tidak relevan
-
-RESOURCE ID: ops_reject_t-test
-TEXT: Rute belum selesai
-
-RESOURCE ID: ops_reject_t-tmc
-TEXT: Teks berupa sitasi
-
-RESOURCE ID: ops_reject_t-url
-TEXT: Teks tidak boleh mengandung HTML atau email
-
 RESOURCE ID: other_section_title
 TEXT: Lainnya
 
@@ -33641,6 +33715,9 @@ TEXT: 5 pertemuan kejutan dengan Fennekin di Foto GO
 
 RESOURCE ID: photobomb_five_fletchling
 TEXT: 5 pertemuan kejutan dengan Fletchling di Foto GO
+
+RESOURCE ID: photobomb_five_froakie
+TEXT: 5 pertemuan kejutan dengan Froakie di Foto GO
 
 RESOURCE ID: photobomb_five_gastly
 TEXT: 5 pertemuan kejutan dengan Gastly di Foto GO
@@ -35233,6 +35310,15 @@ TEXT: Pokémon Kumbang Rusa
 RESOURCE ID: pokemon_category_0128
 TEXT: Pokémon Sapi Mengamuk
 
+RESOURCE ID: pokemon_category_0128_3006
+TEXT: Pokémon Sapi Mengamuk
+
+RESOURCE ID: pokemon_category_0128_3007
+TEXT: Pokémon Sapi Mengamuk
+
+RESOURCE ID: pokemon_category_0128_3008
+TEXT: Pokémon Sapi Mengamuk
+
 RESOURCE ID: pokemon_category_0129
 TEXT: Pokémon Ikan
 
@@ -35451,6 +35537,9 @@ TEXT: Pokémon Sayap Tipis
 
 RESOURCE ID: pokemon_category_0194
 TEXT: Pokémon Ikan Tawar
+
+RESOURCE ID: pokemon_category_0194_3009
+TEXT: Pokémon Ikan Beracun
 
 RESOURCE ID: pokemon_category_0195
 TEXT: Pokémon Ikan Tawar
@@ -37646,11 +37735,341 @@ TEXT: Pokémon Himpunan Duri
 RESOURCE ID: pokemon_category_0905
 TEXT: Pokémon Cinta & Benci
 
+RESOURCE ID: pokemon_category_0906
+TEXT: Pokémon Kucing Daun
+
+RESOURCE ID: pokemon_category_0907
+TEXT: Pokémon Kucing Daun
+
+RESOURCE ID: pokemon_category_0908
+TEXT: Pokémon Pesulap
+
+RESOURCE ID: pokemon_category_0909
+TEXT: Pokémon Buaya Api
+
+RESOURCE ID: pokemon_category_0910
+TEXT: Pokémon Buaya Api
+
+RESOURCE ID: pokemon_category_0911
+TEXT: Pokémon Penyanyi
+
+RESOURCE ID: pokemon_category_0912
+TEXT: Pokémon Anak Bebek
+
+RESOURCE ID: pokemon_category_0913
+TEXT: Pokémon Berlatih
+
+RESOURCE ID: pokemon_category_0914
+TEXT: Pokémon Penari
+
+RESOURCE ID: pokemon_category_0915
+TEXT: Pokémon Babi
+
+RESOURCE ID: pokemon_category_0916_2981
+TEXT: Pokémon Babi
+
+RESOURCE ID: pokemon_category_0916_2982
+TEXT: Pokémon Babi
+
+RESOURCE ID: pokemon_category_0917
+TEXT: Pokémon Bola Benang
+
+RESOURCE ID: pokemon_category_0918
+TEXT: Pokémon Perangkap
+
+RESOURCE ID: pokemon_category_0919
+TEXT: Pokémon Belalang
+
+RESOURCE ID: pokemon_category_0920
+TEXT: Pokémon Belalang
+
+RESOURCE ID: pokemon_category_0921
+TEXT: Pokémon Tikus
+
+RESOURCE ID: pokemon_category_0922
+TEXT: Pokémon Tikus
+
+RESOURCE ID: pokemon_category_0923
+TEXT: Pokémon Penyentuh
+
+RESOURCE ID: pokemon_category_0924
+TEXT: Pokémon Pasangan
+
+RESOURCE ID: pokemon_category_0925_2983
+TEXT: Pokémon Keluarga
+
+RESOURCE ID: pokemon_category_0925_2984
+TEXT: Pokémon Keluarga
+
+RESOURCE ID: pokemon_category_0926
+TEXT: Pokémon Anak Anjing
+
+RESOURCE ID: pokemon_category_0927
+TEXT: Pokémon Anjing
+
+RESOURCE ID: pokemon_category_0928
+TEXT: Pokémon Zaitun
+
+RESOURCE ID: pokemon_category_0929
+TEXT: Pokémon Zaitun
+
+RESOURCE ID: pokemon_category_0930
+TEXT: Pokémon Zaitun
+
+RESOURCE ID: pokemon_category_0931_2985
+TEXT: Pokémon Parkit
+
+RESOURCE ID: pokemon_category_0931_2986
+TEXT: Pokémon Parkit
+
+RESOURCE ID: pokemon_category_0931_2987
+TEXT: Pokémon Parkit
+
+RESOURCE ID: pokemon_category_0931_2988
+TEXT: Pokémon Parkit
+
+RESOURCE ID: pokemon_category_0932
+TEXT: Pokémon Garam Batu
+
+RESOURCE ID: pokemon_category_0933
+TEXT: Pokémon Garam Batu
+
+RESOURCE ID: pokemon_category_0934
+TEXT: Pokémon Garam Batu
+
+RESOURCE ID: pokemon_category_0935
+TEXT: Pokémon Anak Api
+
+RESOURCE ID: pokemon_category_0936
+TEXT: Pokémon Pendekar Api
+
+RESOURCE ID: pokemon_category_0937
+TEXT: Pokémon Kesatria Api
+
+RESOURCE ID: pokemon_category_0938
+TEXT: Pokémon Bola Setrum
+
+RESOURCE ID: pokemon_category_0939
+TEXT: Pokémon Katak Setrum
+
+RESOURCE ID: pokemon_category_0940
+TEXT: Pokémon Petrel Badai
+
+RESOURCE ID: pokemon_category_0941
+TEXT: Pokémon Cikalang
+
+RESOURCE ID: pokemon_category_0942
+TEXT: Pokémon Bocah
+
+RESOURCE ID: pokemon_category_0943
+TEXT: Pokémon Ketua
+
+RESOURCE ID: pokemon_category_0944
+TEXT: Pokémon Tikus Toksik
+
+RESOURCE ID: pokemon_category_0945
+TEXT: Pokémon Kera Beracun
+
+RESOURCE ID: pokemon_category_0946
+TEXT: Pokémon Rumput Gulir
+
+RESOURCE ID: pokemon_category_0947
+TEXT: Pokémon Rumput Gulir
+
+RESOURCE ID: pokemon_category_0948
+TEXT: Pokémon Jamur Kuping
+
+RESOURCE ID: pokemon_category_0949
+TEXT: Pokémon Jamur Kuping
+
+RESOURCE ID: pokemon_category_0950
+TEXT: Pokémon Sergap
+
+RESOURCE ID: pokemon_category_0951
+TEXT: Pokémon Cabai Gendot
+
+RESOURCE ID: pokemon_category_0952
+TEXT: Pokémon Cabai Gendot
+
+RESOURCE ID: pokemon_category_0953
+TEXT: Pokémon Penggulir
+
+RESOURCE ID: pokemon_category_0954
+TEXT: Pokémon Penggulir
+
+RESOURCE ID: pokemon_category_0955
+TEXT: Pokémon Embel-Embel
+
+RESOURCE ID: pokemon_category_0956
+TEXT: Pokémon Burung Unta
+
+RESOURCE ID: pokemon_category_0957
+TEXT: Pokémon Pandai Besi
+
+RESOURCE ID: pokemon_category_0958
+TEXT: Pokémon Palu
+
+RESOURCE ID: pokemon_category_0959
+TEXT: Pokémon Palu
+
+RESOURCE ID: pokemon_category_0960
+TEXT: Pokémon Belut
+
+RESOURCE ID: pokemon_category_0961
+TEXT: Pokémon Belut
+
+RESOURCE ID: pokemon_category_0962
+TEXT: Pokémon Barang Jatuh
+
+RESOURCE ID: pokemon_category_0963
+TEXT: Pokémon Lumba-Lumba
+
+RESOURCE ID: pokemon_category_0964_2989
+TEXT: Pokémon Lumba-Lumba
+
+RESOURCE ID: pokemon_category_0964_2990
+TEXT: Pokémon Hero
+
+RESOURCE ID: pokemon_category_0965
+TEXT: Pokémon Sil. Mono
+
+RESOURCE ID: pokemon_category_0966
+TEXT: Pokémon Sil. Jamak
+
+RESOURCE ID: pokemon_category_0967
+TEXT: Pokémon Tunggang
+
+RESOURCE ID: pokemon_category_0968
+TEXT: Pokémon Cacing
+
+RESOURCE ID: pokemon_category_0969
+TEXT: Pokémon Bijih
+
+RESOURCE ID: pokemon_category_0970
+TEXT: Pokémon Bijih
+
+RESOURCE ID: pokemon_category_0971
+TEXT: Pokémon Anjing Hantu
+
+RESOURCE ID: pokemon_category_0972
+TEXT: Pokémon Anjing Hantu
+
+RESOURCE ID: pokemon_category_0973
+TEXT: Pokémon Sinkronisasi
+
+RESOURCE ID: pokemon_category_0974
+TEXT: Pokémon Paus Darat
+
+RESOURCE ID: pokemon_category_0975
+TEXT: Pokémon Paus Darat
+
+RESOURCE ID: pokemon_category_0976
+TEXT: Pokémon Melepaskan
+
+RESOURCE ID: pokemon_category_0977
+TEXT: Pokémon Lele Besar
+
+RESOURCE ID: pokemon_category_0978_2991
+TEXT: Pokémon Mimikri
+
+RESOURCE ID: pokemon_category_0978_2992
+TEXT: Pokémon Mimikri
+
+RESOURCE ID: pokemon_category_0978_2993
+TEXT: Pokémon Mimikri
+
+RESOURCE ID: pokemon_category_0979
+TEXT: Pokémon Kera Murka
+
+RESOURCE ID: pokemon_category_0980
+TEXT: Pokémon Ikan Berduri
+
+RESOURCE ID: pokemon_category_0981
+TEXT: Pokémon Leher Panjang
+
+RESOURCE ID: pokemon_category_0982_2994
+TEXT: Pokémon Ular Tanah
+
+RESOURCE ID: pokemon_category_0982_2995
+TEXT: Pokémon Ular Tanah
+
+RESOURCE ID: pokemon_category_0983
+TEXT: Pokémon Pedang Besar
+
+RESOURCE ID: pokemon_category_0984
+TEXT: Pokémon Paradoks
+
+RESOURCE ID: pokemon_category_0985
+TEXT: Pokémon Paradoks
+
+RESOURCE ID: pokemon_category_0986
+TEXT: Pokémon Paradoks
+
+RESOURCE ID: pokemon_category_0987
+TEXT: Pokémon Paradoks
+
+RESOURCE ID: pokemon_category_0988
+TEXT: Pokémon Paradoks
+
+RESOURCE ID: pokemon_category_0989
+TEXT: Pokémon Paradoks
+
+RESOURCE ID: pokemon_category_0990
+TEXT: Pokémon Paradoks
+
+RESOURCE ID: pokemon_category_0991
+TEXT: Pokémon Paradoks
+
+RESOURCE ID: pokemon_category_0992
+TEXT: Pokémon Paradoks
+
+RESOURCE ID: pokemon_category_0993
+TEXT: Pokémon Paradoks
+
+RESOURCE ID: pokemon_category_0994
+TEXT: Pokémon Paradoks
+
+RESOURCE ID: pokemon_category_0995
+TEXT: Pokémon Paradoks
+
+RESOURCE ID: pokemon_category_0996
+TEXT: Pokémon Sirip Es
+
+RESOURCE ID: pokemon_category_0997
+TEXT: Pokémon Sirip Es
+
+RESOURCE ID: pokemon_category_0998
+TEXT: Pokémon Naga Es
+
 RESOURCE ID: pokemon_category_0999
 TEXT: Pokémon Pemburu Koin
 
 RESOURCE ID: pokemon_category_1000
 TEXT: Pokémon Entitas Koin
+
+RESOURCE ID: pokemon_category_1001
+TEXT: Pokémon Petaka
+
+RESOURCE ID: pokemon_category_1002
+TEXT: Pokémon Petaka
+
+RESOURCE ID: pokemon_category_1003
+TEXT: Pokémon Petaka
+
+RESOURCE ID: pokemon_category_1004
+TEXT: Pokémon Petaka
+
+RESOURCE ID: pokemon_category_1005
+TEXT: Pokémon Paradoks
+
+RESOURCE ID: pokemon_category_1006
+TEXT: Pokémon Paradoks
+
+RESOURCE ID: pokemon_category_1007_2996
+TEXT: Pokémon Paradoks
+
+RESOURCE ID: pokemon_category_1008_2997
+TEXT: Pokémon Paradoks
 
 RESOURCE ID: pokemon_costume_info_transfer_to_professor_confirmation
 TEXT: Yakin ingin mentransfer Pokémon Event ini?
@@ -38135,6 +38554,15 @@ TEXT: Pinsir memiliki kekuatan super yang dengan mudah menjepit dan mengangkat l
 RESOURCE ID: pokemon_desc_0128
 TEXT: Tauros tidak akan puas jika tidak mengamuk. Pokémon ini menenangkan dirinya dengan mendobrak dan merobohkan pohon besar ketika tidak ada lawan untuk bertarung.
 
+RESOURCE ID: pokemon_desc_0128_3006
+TEXT: Tauros memiliki tubuh kekar dan ahli bertarung. Ia mengincar titik kritis lawan dengan tanduk pendeknya.
+
+RESOURCE ID: pokemon_desc_0128_3007
+TEXT: Tauros memanaskan tanduknya menjadi 1000 ºC dengan energi api. Musuh yang tertusuk tanduk ini akan menderita oleh luka dan luka bakar.
+
+RESOURCE ID: pokemon_desc_0128_3008
+TEXT: Tauros menembus tubuh musuhnya dengan menyemprotkan air yang mengalir deras dari lubang di ujung tanduknya.
+
 RESOURCE ID: pokemon_desc_0129
 TEXT: Magikarp adalah Pokémon menyedihkan yang hanya bisa melompat-lompat. Ia hanya terus melompat-lompat hingga muncul peneliti yang menganalisa kenapa Pokémon ini melompat-lompat.
 
@@ -38353,6 +38781,9 @@ TEXT: Yanma dapat melihat sekelilingnya 360° tanpa menggerakkan bola matanya. S
 
 RESOURCE ID: pokemon_desc_0194
 TEXT: Wooper biasanya tinggal di dalam air, tapi kadang keluar ke darat saat mencari makanan dan lainnya. Di daratan, Pokémon ini melapisi tubuhnya dengan lendir beracun.
+
+RESOURCE ID: pokemon_desc_0194_3009
+TEXT: Membran beracun jadi melindungi tubuh Wooper seiring ia hidup di darat setelah kalah dalam pertarungan perebutan wilayah teritorial.
 
 RESOURCE ID: pokemon_desc_0195
 TEXT: Quagsire berburu makanannya dengan membiarkan mulutnya terbuka lebar-lebar di dalam air dan menunggu mangsanya masuk secara tidak sengaja. Pokémon ini tidak bergerak sehingga tidak mudah lapar.
@@ -39783,7 +40214,7 @@ RESOURCE ID: pokemon_desc_0655
 TEXT: Delphox memandang nyala api di ujung rantingnya untuk memfokuskan diri agar dapat melihat kejadian di masa depan.
 
 RESOURCE ID: pokemon_desc_0656
-TEXT: Froakie mengeluarkan gelembung dari dada dan punggungnya. Pokémon ini menerima serangan menggunakan gelembungnya yang membal dan mengurangi kerusakan.
+TEXT: Froakie mengeluarkan gelembung dari dada dan punggungnya. Pokémon ini menerima serangan menggunakan gelembungnya yang elastis dan mengurangi kerusakan.
 
 RESOURCE ID: pokemon_desc_0657
 TEXT: Frogadier menggunakan serangan dengan melemparkan batu kecil yang dilapisi gelembung. Memiliki kontrol yang akurat sehingga dapat mengenai kaleng kosong dari jarak 30 meter.
@@ -40697,11 +41128,341 @@ TEXT: Jika Enamorus datang terbang melampaui laut, artinya musim dingin yang gan
 RESOURCE ID: pokemon_desc_0905_2803
 TEXT: Fenomena perubahan dari wujud perempuan. Jika ada yang mempermainkan nyawa, Enamorus akan muncul dari lautan awan dan memberikan hukuman penuh kemurkaan dengan tanpa ampun.
 
+RESOURCE ID: pokemon_desc_0906
+TEXT: Bulu Sprigatito yang halus mengandung komponen yang dekat dengan tumbuhan. Pokémon ini rajin mencuci mukanya agar tidak kering.
+
+RESOURCE ID: pokemon_desc_0907
+TEXT: Floragato mengendalikan sulur ranting yang tersembunyi di bawah bulu panjangnya dengan mahir, lalu membanting kuncup keras ke musuh.
+
+RESOURCE ID: pokemon_desc_0908
+TEXT: Bunga yang terlihat melayang adalah kamuflase tangkai bunga oleh pantulan bulu di balik jubah Meowscarada.
+
+RESOURCE ID: pokemon_desc_0909
+TEXT: Fuecoco berbaring di atas batu hangat dan menciptakan energi api dengan menyerap energi panas tersebut menggunakan sisik perseginya.
+
+RESOURCE ID: pokemon_desc_0910
+TEXT: Bola api berbentuk telur yang muncul di kepala Crocalor terbentuk oleh campuran energi api dan vitalitasnya yang melimpah.
+
+RESOURCE ID: pokemon_desc_0911
+TEXT: Dikabarkan burung api yang berubah wujud dengan suara nyanyian di atas kepala Skeledirge adalah arwah yang bersemayam di bola api.
+
+RESOURCE ID: pokemon_desc_0912
+TEXT: Dulu, Quaxly bermigrasi dari daerah yang jauh. Gel yang disekresi dari bulunya menangkis air dan kotoran.
+
+RESOURCE ID: pokemon_desc_0913
+TEXT: Quaxwell melatih kaki dan pinggangnya dengan terus berlari di perairan dangkal. Pokémon ini saling mengadu keindahan teknik serangan kaki dengan sesamanya.
+
+RESOURCE ID: pokemon_desc_0914
+TEXT: Quaquaval menunjukkan tarian eksotis dengan memanfaatkan kaki kuatnya yang dapat menggulingkan truk hanya dengan satu tendangan.
+
+RESOURCE ID: pokemon_desc_0915
+TEXT: Lechonk mencari makanan seharian penuh. Meskipun memiliki indra penciuman yang sangat baik, Pokémon ini tidak menggunakannya selain untuk mencari makan.
+
+RESOURCE ID: pokemon_desc_0916_2981
+TEXT: Kulit halus dan berkilaunya adalah kebanggaan Oinkologne. Pokémon ini mengeluarkan aroma harum yang terkonsentrasi dari ujung ekornya.
+
+RESOURCE ID: pokemon_desc_0916_2982
+TEXT: Oinkologne menyebarkan wangi semerbak layaknya bunga. Otot kakinya yang telah berkembang membuat Pokémon ini melompat setinggi lebih dari 5 m dengan mudahnya.
+
+RESOURCE ID: pokemon_desc_0917
+TEXT: Bola benang yang melilit di tubuh Tarountula memiliki elastisitas yang dapat menangkis sabit tajam Scyther, musuh alaminya.
+
+RESOURCE ID: pokemon_desc_0918
+TEXT: Spidops bergerak tanpa bersuara, bergelantung di atas pohon atau langit-langit menggunakan benangnya. Pokémon ini mengalahkan mangsanya sebelum ketahuan.
+
+RESOURCE ID: pokemon_desc_0919
+TEXT: Sepasang kaki ketiga Nymble terlipat. Pokémon ini memiliki kekuatan kaki untuk dapat melompat setinggi 10 m ketika terdesak.
+
+RESOURCE ID: pokemon_desc_0920
+TEXT: Lokix berdiri dengan kakinya yang terlipat dan menjadi mode bertarung jika menjadi serius dalam pertarungan. Pokémon ini akan mengalahkan musuhnya dalam waktu singkat.
+
+RESOURCE ID: pokemon_desc_0921
+TEXT: Kantong listrik pipi Pawmi masih belum berkembang. Pokémon ini baru dapat menghasilkan listrik setelah berusaha menggosok kantong pipinya menggunakan bantalan kaki depannya.
+
+RESOURCE ID: pokemon_desc_0922
+TEXT: Ketika kelompoknya diserang, yang langsung dilakukan oleh Pawmo adalah menantang dan mengalahkan musuh dengan seni bela diri yang menggunakan serangan listrik.
+
+RESOURCE ID: pokemon_desc_0923
+TEXT: Biasanya ia bersikap tenang, namun saat bertarung, Pawmot akan menghabisi musuhnya secepat kilat.
+
+RESOURCE ID: pokemon_desc_0924
+TEXT: Dengan kombinasi yang serasi, pasangan Tandemaus memotong benda yang kelihatannya dapat dijadikan bahan-bahan untuk membuat sarang menggunakan gigi depan dan membawanya.
+
+RESOURCE ID: pokemon_desc_0925_2983
+TEXT: Maushold membuat sarang besar yang terdiri dari berbagai ruangan dengan fungsinya masing-masing seperti kamar tidur, ruang makan, dan sebagainya.
+
+RESOURCE ID: pokemon_desc_0925_2984
+TEXT: Entah kapan anaknya bertambah menjadi 2. Maushold terlihat seperti keluarga, tetapi kebenarannya tidak diketahui.
+
+RESOURCE ID: pokemon_desc_0926
+TEXT: Tubuh Fidough empuk, halus, dan nyaman dipegang. Napasnya yang mengandung ragi dapat memfermentasikan benda-benda yang ada di sekitarnya.
+
+RESOURCE ID: pokemon_desc_0927
+TEXT: Dachsbun dijaga dengan baik di desa pertanian karena aroma wangi yang keluar dari tubuh Pokémon ini membantu pertumbuhan gandum.
+
+RESOURCE ID: pokemon_desc_0928
+TEXT: Smoliv melindungi diri dari musuh dengan mengeluarkan minyak dari buah di kepalanya. Rasa minyaknya sangat pahit dan sepat.
+
+RESOURCE ID: pokemon_desc_0929
+TEXT: Dolliv membagikan minyak lezat beraroma segar. Pokémon ini telah hidup bersama manusia sejak zaman dahulu.
+
+RESOURCE ID: pokemon_desc_0930
+TEXT: Sifatnya tenang dan sangat penyayang. Arboliva memberikan minyak bernutrisi nan lezat kepada Pokémon yang melemah.
+
+RESOURCE ID: pokemon_desc_0931_2985
+TEXT: Squawkabilly suka hidup di dalam kota. Pokémon ini membentuk kelompok sesuai dengan warna bulunya dan sering terjadi pertarungan perebutan wilayah teritorial.
+
+RESOURCE ID: pokemon_desc_0931_2986
+TEXT: Kelompok besar Squawkabilly beranggotakan hingga lebih dari 50 Squawkabilly lainnya. Mereka terbang dengan bising di tengah kota atau hutan ketika mencari makan.
+
+RESOURCE ID: pokemon_desc_0931_2987
+TEXT: Sifat dan gaya bertarungnya kasar. Squawkabilly terbang mendekati lawannya, lalu bertarung dalam jarak dekat.
+
+RESOURCE ID: pokemon_desc_0931_2988
+TEXT: Squawkabilly tidak suka hidup sendiri. Pokémon ini memiliki rasa solidaritas yang tinggi dan hidup saling tolong-menolong dengan sesamanya.
+
+RESOURCE ID: pokemon_desc_0932
+TEXT: Nacli terlahir di kubah garam di dasar tanah. Karena ia membagikan garam yang begitu berharga, Pokémon ini dijaga dengan baik pada zaman dahulu.
+
+RESOURCE ID: pokemon_desc_0933
+TEXT: Naclstack menyemburkan garam dan menggaramkan mangsanya. Garam tersebut membuat lawan menderita dengan cara merenggut cairan dalam tubuhnya.
+
+RESOURCE ID: pokemon_desc_0934
+TEXT: Garganacl menaburkan garam kepada Pokémon yang terluka dengan menggosok-gosokkan ujung jarinya. Luka parah pun akan segera sembuh.
+
+RESOURCE ID: pokemon_desc_0935
+TEXT: Jiwa bersemayam ke dalam arang terbakar, lalu berubah menjadi Pokémon. Dengan semangat bertarung yang membara, Charcadet menantang untuk bertarung meskipun melawan musuh yang kuat.
+
+RESOURCE ID: pokemon_desc_0936
+TEXT: Wujud evolusi dari Charcadet menjadi Armarouge berkat zirah milik pendekar yang memenangkan banyak pertarungan. Pokémon yang sangat setia.
+
+RESOURCE ID: pokemon_desc_0937
+TEXT: Pedang api pada sepasang lengan Ceruledge membara dengan dendam kesatria yang meninggal sebelum tujuannya tercapai.
+
+RESOURCE ID: pokemon_desc_0938
+TEXT: Tadbulb menghasilkan listrik dengan menggoyangkan ekornya. Ketika merasakan adanya bahaya, Pokémon ini memberitahukan sesamanya dengan mengedipkan cahaya kepalanya.
+
+RESOURCE ID: pokemon_desc_0939
+TEXT: Dengan memanjangkan dan memendekkan tubuhnya yang bergelambir, pusar dinamo Bellibolt menghasilkan energi listrik yang besar.
+
+RESOURCE ID: pokemon_desc_0940
+TEXT: Kerangka sayap Wattrel menciptakan listrik jika menerima angin. Pokémon ini terjun ke laut, menyetrum mangsa, dan menangkapnya.
+
+RESOURCE ID: pokemon_desc_0941
+TEXT: Kilowattrel menggembungkan kantong tenggorokannya dan menambahkan daya listriknya. Pokémon ini menaiki angin dan terbang sejauh 700 km dalam sehari.
+
+RESOURCE ID: pokemon_desc_0942
+TEXT: Agar tidak diremehkan oleh lawannya, Maschiff selalu memasang wajah seram, tetapi anak-anak yang menangis malah tertawa melihatnya.
+
+RESOURCE ID: pokemon_desc_0943
+TEXT: Mabosstiff dapat menyimpan energi di dalam kantong tenggorokannya yang besar. Pokémon ini dengan sekaligus melepaskan seluruh energinya, lalu menghempaskan musuhnya.
+
+RESOURCE ID: pokemon_desc_0944
+TEXT: Walaupun ramah, Shroodle akan menggigit dan melumpuhkan siapa pun yang membuatnya marah dengan gigi depan tajam berlumur racun miliknya.
+
+RESOURCE ID: pokemon_desc_0945
+TEXT: Grafaiai melumuri jarinya dengan air liur beracun yang warnanya berubah tergantung dari makanannya, dan melukis pola pada pohon-pohon yang ada di hutan.
+
+RESOURCE ID: pokemon_desc_0946
+TEXT: Bramblin adalah arwah gentayangan yang diterbangkan oleh angin, lalu terjerat oleh rumput kering, dan berubah menjadi Pokémon.
+
+RESOURCE ID: pokemon_desc_0947
+TEXT: Brambleghast membuka ranting di kepalanya dan menelan bulat-bulat mangsanya. Pokémon ini memuntahkan dan membuang mangsanya begitu saja setelah mengisap habis vitalitasnya.
+
+RESOURCE ID: pokemon_desc_0948
+TEXT: Toedscool hidup di dalam hutan yang lembap. Embel-embel yang terkelupas dari tubuhnya bertekstur kenyal dan sangat lezat.
+
+RESOURCE ID: pokemon_desc_0949
+TEXT: Toedscruel hidup berkelompok dan membentuk koloni di dalam hutan. Pokémon ini sangat membenci kedatangan makhluk asing.
+
+RESOURCE ID: pokemon_desc_0950
+TEXT: Klawf mengincar mangsanya dengan bergantung secara terbalik dari atas tebing, tetapi tidak akan bertahan lama karena darah mengalir ke kepalanya.
+
+RESOURCE ID: pokemon_desc_0951
+TEXT: Makin lama Capsakid berjemur, unsur pedas dalam tubuhnya makin bertambah, dan serangan jurusnya menjadi makin pedas.
+
+RESOURCE ID: pokemon_desc_0952
+TEXT: Kepala merah Scovillain mengubah unsur pedas menjadi energi api dan menyebarkan semburan api yang sangat pedas.
+
+RESOURCE ID: pokemon_desc_0953
+TEXT: Rellor membuat bola lumpur dengan tanah dan pasir sambil mencampurkan energi psikokinesisnya. Bola lumpur tersebut lebih penting daripada nyawanya.
+
+RESOURCE ID: pokemon_desc_0954
+TEXT: Karena tubuh yang menyokong bolanya hampir tidak pernah bergerak, diduga tubuh asli Rabsca berada di dalam bolanya.
+
+RESOURCE ID: pokemon_desc_0955
+TEXT: Dengan kekuatan psikokinesis yang dipancarkan dari embel-embel di perutnya, ujung kaki Flittle melayang di udara hanya setinggi 1 cm.
+
+RESOURCE ID: pokemon_desc_0956
+TEXT: Espathra membuat lawannya menjadi tidak berkutik dengan memancarkan kekuatan psikokinesis dari bola matanya yang besar. Berbanding terbalik dengan penampilannya, sifat Pokémon ini kasar.
+
+RESOURCE ID: pokemon_desc_0957
+TEXT: Tinkatink mengayunkan palu buatannya untuk melindungi dirinya, tetapi palu tersebut sering direbut oleh Pokémon pemakan logam.
+
+RESOURCE ID: pokemon_desc_0958
+TEXT: Untuk membuat palu yang besar dan kuat, Tinkatuff menyerang kelompok Bisharp dan mengumpulkan logam dari mereka.
+
+RESOURCE ID: pokemon_desc_0959
+TEXT: Tinkaton memiliki kecerdasan tinggi dan sangat kuat. Ia memukul batu ke langit menggunakan palunya dan mengincar Corviknight yang terbang.
+
+RESOURCE ID: pokemon_desc_0960
+TEXT: Wiglett dapat mencium bau yang dikeluarkan Veluza yang berada dalam jarak 20 m, lalu bersembunyi di dalam pasir.
+
+RESOURCE ID: pokemon_desc_0961
+TEXT: Berbanding terbalik dengan penampilannya, sifat Wugtrio kasar. Dengan tubuh panjangnya, Pokémon ini melilit dan menarik mangsa ke dalam sarangnya.
+
+RESOURCE ID: pokemon_desc_0962
+TEXT: Bombirdier bermain-main dengan memasukkan benda ke dalam kantong yang terbuat dari bulu dada dan bulunya yang rontok, kemudian menjatuhkannya dari tempat tinggi.
+
+RESOURCE ID: pokemon_desc_0963
+TEXT: Finizen suka bermain-main dengan ring air pada sirip ekornya bersama sesamanya. Pokémon ini mendeteksi emosi makhluk hidup dengan gelombang ultrasonik.
+
+RESOURCE ID: pokemon_desc_0964_2989
+TEXT: Palafin akan berubah wujud begitu mendengar suara kawannya meminta pertolongan. Pokémon ini tidak pernah menunjukkan momen tersebut kepada siapa pun.
+
+RESOURCE ID: pokemon_desc_0964_2990
+TEXT: Gen zaman purba Pokémon ini telah bangkit. Palafin memiliki tenaga super yang membuatnya dapat mengangkat kapal pesiar menggunakan satu siripnya dengan mudah.
+
+RESOURCE ID: pokemon_desc_0965
+TEXT: Dikatakan bahwa Varoom terlahir dari Pokémon racun misterius yang masuk ke dalam mesin terbengkalai di pabrik besi bekas.
+
+RESOURCE ID: pokemon_desc_0966
+TEXT: Revavroom menciptakan energi dengan cara meledakkan gas yang tercampur dari zat beracun dan komponen batu pada silinder motornya yang bertambah menjadi 8.
+
+RESOURCE ID: pokemon_desc_0967
+TEXT: Kabarnya, sudah sejak dahulu kala manusia menunggangi punggung Cyclizar. Situasi tersebut terlukiskan dalam sebuah mural dari 10 ribu tahun lalu.
+
+RESOURCE ID: pokemon_desc_0968
+TEXT: Jika diserang musuh, Orthworm menggunakan bulu badannya seperti kepalan tangan dan menyarangkan badai pukulan.
+
+RESOURCE ID: pokemon_desc_0969
+TEXT: Glimmet menyerap nutrisi dari dinding gua. Kelopak bunga yang terbuat dari kristal beracun menyelimuti tubuh Pokémon ini.
+
+RESOURCE ID: pokemon_desc_0970
+TEXT: Jika mendeteksi adanya bahaya, Glimmora membuka kelopak bunga kristalnya dan menembakkan sinar laser dari tubuhnya yang berbentuk kerucut.
+
+RESOURCE ID: pokemon_desc_0971
+TEXT: Dikatakan bahwa Greavard adalah reinkarnasi Pokémon anjing liar yang meninggal tanpa pernah berinteraksi dengan manusia.
+
+RESOURCE ID: pokemon_desc_0972
+TEXT: Houndstone biasanya tidur di dalam kuburan. Pokémon yang paling setia di antara Pokémon anjing lainnya.
+
+RESOURCE ID: pokemon_desc_0973
+TEXT: Kabarnya Flamigo mengikat lehernya pada pangkal lehernya agar energi yang terkumpul di dalam perut tidak keluar dari paruhnya.
+
+RESOURCE ID: pokemon_desc_0974
+TEXT: Pada zaman dahulu, Cetoddle naik dari laut dan hidup di daratan. Tampaknya spesies Pokémon ini dekat dengan Wailmer.
+
+RESOURCE ID: pokemon_desc_0975
+TEXT: Cetitan bermigrasi ke daerah bersalju. Pokémon ini melindungi tubuhnya dengan otot yang kuat dan lemak tebal di bawah kulit.
+
+RESOURCE ID: pokemon_desc_0976
+TEXT: Begitu membuang daging yang tidak dibutuhkan, hati Veluza menjadi terasah, dan kekuatan psikokinesisnya meningkat. Daging berlebih Pokémon ini hambar namun lezat.
+
+RESOURCE ID: pokemon_desc_0977
+TEXT: Meskipun rakus, Dondozo tidak pandai menangkap makanannya. Pokémon ini membentuk tim dengan Tatsugiri untuk berburu dan menangkap mangsa.
+
+RESOURCE ID: pokemon_desc_0978_2991
+TEXT: Pokémon naga kecil. Tatsugiri tinggal di dalam mulut Dondozo agar terlindung dari serangan luar.
+
+RESOURCE ID: pokemon_desc_0978_2992
+TEXT: Kabarnya, warna dan pola tubuh Tatsugiri berubah-ubah untuk menyesuaikan dengan umpan kesukaan mangsanya.
+
+RESOURCE ID: pokemon_desc_0978_2993
+TEXT: Pokémon burung adalah mangsa utamanya. Tatsugiri berburu bersama kawannya karena paham betul akan kelemahannya sendiri.
+
+RESOURCE ID: pokemon_desc_0979
+TEXT: Annihilape memperoleh kekuatan yang tidak dapat ditahan oleh wadah fisik ketika amarahnya melewati titik kritis.
+
+RESOURCE ID: pokemon_desc_0980
+TEXT: Clodsire melawan balik dengan mengeluarkan duri tebal dari tubuhnya ketika diserang musuh. Jurus berbahaya yang memerlukan determinasi untuk melukai dirinya sendiri.
+
+RESOURCE ID: pokemon_desc_0981
+TEXT: Kekuatan psikokinesis Farigiraf meningkat 10 kali lipat lebih kuat dari Girafarig karena dua gelombang otak dari kepala dan ekornya telah melakukan sinkronisasi.
+
+RESOURCE ID: pokemon_desc_0982_2994
+TEXT: Dudunsparce membuat sarangnya dengan melubangi batuan dasar jauh di bawah tanah menggunakan ekor kerasnya. Panjang sarangnya mencapai 10 km.
+
+RESOURCE ID: pokemon_desc_0982_2995
+TEXT: Dudunsparce adalah Pokémon ramah yang mengangkut dan mengantar Pokémon yang tersesat di dalam sarangnya menuju pintu masuk.
+
+RESOURCE ID: pokemon_desc_0983
+TEXT: Hanya Bisharp yang berada pada posisi teratas di dalam pasukannya yang dapat berevolusi menjadi Kingambit.
+
+RESOURCE ID: pokemon_desc_0984
+TEXT: Terdapat laporan kesaksian atas Pokémon ini dalam beberapa tahun terakhir. Nama Great Tusk diambil dari nama makhluk hidup yang tercantum dalam suatu buku.
+
+RESOURCE ID: pokemon_desc_0985
+TEXT: Laporan kesaksian atas Pokémon ini hanya ada 1 di masa lalu. Sosoknya mirip dengan makhluk hidup misterius yang tertera dalam jurnal ekspedisi kuno.
+
+RESOURCE ID: pokemon_desc_0986
+TEXT: Terdapat kemungkinan bahwa Pokémon ini merupakan makhluk hidup yang tertera sebagai Brute Bonnet dalam suatu buku.
+
+RESOURCE ID: pokemon_desc_0987
+TEXT: Pokémon yang memiliki karakteristik yang mirip dengan makhluk hidup bernama Flutter Mane yang disebutkan dalam suatu buku.
+
+RESOURCE ID: pokemon_desc_0988
+TEXT: Pokémon misterius yang memiliki kemiripan dengan makhluk hidup bernama Slither Wing yang diperkenalkan dalam sebuah buku kuno.
+
+RESOURCE ID: pokemon_desc_0989
+TEXT: Laporan penangkapannya tidak ada, dan data terkait Pokémon ini kurang. Ia mirip dengan makhluk hidup yang tertera dalam suatu jurnal ekspedisi.
+
+RESOURCE ID: pokemon_desc_0990
+TEXT: Sightings of this Pokémon have occurred in recent years. It resembles a mysterious object described in an old expedition journal.
+
+RESOURCE ID: pokemon_desc_0991
+TEXT: It resembles a mysterious object mentioned in an old book. There are only two reported sightings of this Pokémon.
+
+RESOURCE ID: pokemon_desc_0992
+TEXT: This Pokémon shares many similarities with Iron Hands, an object mentioned in a certain expedition journal.
+
+RESOURCE ID: pokemon_desc_0993
+TEXT: It’s possible that Iron Jugulis, an object described in an old book, may actually be this Pokémon.
+
+RESOURCE ID: pokemon_desc_0994
+TEXT: No records exist of this species being caught. Data is lacking, but the Pokémon’s traits match up with an object described in an old book.
+
+RESOURCE ID: pokemon_desc_0995
+TEXT: Some of its notable features match those of an object named within a certain expedition journal as Iron Thorns.
+
+RESOURCE ID: pokemon_desc_0996
+TEXT: Frigibax menyerap panas menggunakan sirip punggungnya dan mengubahnya menjadi energi es. Makin panas suhunya, makin banyak energi yang terkumpul.
+
+RESOURCE ID: pokemon_desc_0997
+TEXT: Arctibax membekukan udara di sekitarnya, menggunakan masker es untuk melindungi wajahnya, dan mengubah sirip punggungnya menjadi pedang es.
+
+RESOURCE ID: pokemon_desc_0998
+TEXT: Baxcalibur menyemburkan hawa dingin yang bersuhu sangat rendah dari mulutnya. Magma panas membara pun akan membeku dalam sekejap.
+
 RESOURCE ID: pokemon_desc_0999
 TEXT: Pokémon ini terlahir dari jiwa yang merasuki kepingan koin. Kabarnya, Gimmighoul bergentayangan untuk kembali ke kotak harta asalnya.
 
 RESOURCE ID: pokemon_desc_1000
 TEXT: Kabarnya tubuh Gholdengo terbentuk dari 1000 keping koin. Pokémon ini jinak dan segera menjadi akrab dengan siapa pun.
+
+RESOURCE ID: pokemon_desc_1001
+TEXT: Wo-Chien adalah perasaan dendam manusia yang dihukum mati karena mengukirkan keburukan raja di papan kayu. Ia menyelimuti dirinya dengan daun tandus, lalu berubah menjadi Pokémon.
+
+RESOURCE ID: pokemon_desc_1002
+TEXT: Chien-Pao mengendalikan tumpukan salju seberat 100 ton. Pokémon ini menyebabkan longsor salju dan dengan polosnya keluar-masuk bermain di dalamnya.
+
+RESOURCE ID: pokemon_desc_1003
+TEXT: Ting-Lu adalah rasa takut yang tertuang pada wadah yang digunakan dalam ritual kuno. Ia menyelimuti dirinya dengan tanah dan batu, lalu berubah menjadi Pokémon.
+
+RESOURCE ID: pokemon_desc_1004
+TEXT: Chi-Yu mengendalikan api bersuhu 3000 ºC. Pokémon ini melelehkan batu dan kerikil, dan berenang dengan tenang di lautan magma buatannya.
+
+RESOURCE ID: pokemon_desc_1005
+TEXT: Terdapat kemungkinan Pokémon ini adalah makhluk hidup bernama Roaring Moon yang tertulis dalam jurnal ekspedisi yang penuh misteri.
+
+RESOURCE ID: pokemon_desc_1006
+TEXT: It’s possible that this is the object listed as Iron Valiant in a certain expedition journal.
+
+RESOURCE ID: pokemon_desc_1007_2996
+TEXT: Kabarnya, identitas asli Winged King yang membelah tanah dengan tinjunya seperti yang tertulis dalam jurnal ekspedisi kuno adalah Koraidon.
+
+RESOURCE ID: pokemon_desc_1008_2997
+TEXT: This seems to be the Iron Serpent mentioned in an old book. The Iron Serpent is said to have turned the land to ash with its lightning.
 
 RESOURCE ID: pokemon_desc_tmpevo_0003_0001
 TEXT: Untuk menopang bunganya yang sudah tumbuh menjadi lebih besar karena Evolusi Mega, punggung dan kaki Venusaur menjadi lebih kuat.
@@ -44146,11 +44907,314 @@ TEXT: Overqwil
 RESOURCE ID: pokemon_name_0905
 TEXT: Enamorus
 
+RESOURCE ID: pokemon_name_0906
+TEXT: Sprigatito
+
+RESOURCE ID: pokemon_name_0907
+TEXT: Floragato
+
+RESOURCE ID: pokemon_name_0908
+TEXT: Meowscarada
+
+RESOURCE ID: pokemon_name_0909
+TEXT: Fuecoco
+
+RESOURCE ID: pokemon_name_0910
+TEXT: Crocalor
+
+RESOURCE ID: pokemon_name_0911
+TEXT: Skeledirge
+
+RESOURCE ID: pokemon_name_0912
+TEXT: Quaxly
+
+RESOURCE ID: pokemon_name_0913
+TEXT: Quaxwell
+
+RESOURCE ID: pokemon_name_0914
+TEXT: Quaquaval
+
+RESOURCE ID: pokemon_name_0915
+TEXT: Lechonk
+
+RESOURCE ID: pokemon_name_0916
+TEXT: Oinkologne
+
+RESOURCE ID: pokemon_name_0917
+TEXT: Tarountula
+
+RESOURCE ID: pokemon_name_0918
+TEXT: Spidops
+
+RESOURCE ID: pokemon_name_0919
+TEXT: Nymble
+
+RESOURCE ID: pokemon_name_0920
+TEXT: Lokix
+
+RESOURCE ID: pokemon_name_0921
+TEXT: Pawmi
+
+RESOURCE ID: pokemon_name_0922
+TEXT: Pawmo
+
+RESOURCE ID: pokemon_name_0923
+TEXT: Pawmot
+
+RESOURCE ID: pokemon_name_0924
+TEXT: Tandemaus
+
+RESOURCE ID: pokemon_name_0925
+TEXT: Maushold
+
+RESOURCE ID: pokemon_name_0926
+TEXT: Fidough
+
+RESOURCE ID: pokemon_name_0927
+TEXT: Dachsbun
+
+RESOURCE ID: pokemon_name_0928
+TEXT: Smoliv
+
+RESOURCE ID: pokemon_name_0929
+TEXT: Dolliv
+
+RESOURCE ID: pokemon_name_0930
+TEXT: Arboliva
+
+RESOURCE ID: pokemon_name_0931
+TEXT: Squawkabilly
+
+RESOURCE ID: pokemon_name_0932
+TEXT: Nacli
+
+RESOURCE ID: pokemon_name_0933
+TEXT: Naclstack
+
+RESOURCE ID: pokemon_name_0934
+TEXT: Garganacl
+
+RESOURCE ID: pokemon_name_0935
+TEXT: Charcadet
+
+RESOURCE ID: pokemon_name_0936
+TEXT: Armarouge
+
+RESOURCE ID: pokemon_name_0937
+TEXT: Ceruledge
+
+RESOURCE ID: pokemon_name_0938
+TEXT: Tadbulb
+
+RESOURCE ID: pokemon_name_0939
+TEXT: Bellibolt
+
+RESOURCE ID: pokemon_name_0940
+TEXT: Wattrel
+
+RESOURCE ID: pokemon_name_0941
+TEXT: Kilowattrel
+
+RESOURCE ID: pokemon_name_0942
+TEXT: Maschiff
+
+RESOURCE ID: pokemon_name_0943
+TEXT: Mabosstiff
+
+RESOURCE ID: pokemon_name_0944
+TEXT: Shroodle
+
+RESOURCE ID: pokemon_name_0945
+TEXT: Grafaiai
+
+RESOURCE ID: pokemon_name_0946
+TEXT: Bramblin
+
+RESOURCE ID: pokemon_name_0947
+TEXT: Brambleghast
+
+RESOURCE ID: pokemon_name_0948
+TEXT: Toedscool
+
+RESOURCE ID: pokemon_name_0949
+TEXT: Toedscruel
+
+RESOURCE ID: pokemon_name_0950
+TEXT: Klawf
+
+RESOURCE ID: pokemon_name_0951
+TEXT: Capsakid
+
+RESOURCE ID: pokemon_name_0952
+TEXT: Scovillain
+
+RESOURCE ID: pokemon_name_0953
+TEXT: Rellor
+
+RESOURCE ID: pokemon_name_0954
+TEXT: Rabsca
+
+RESOURCE ID: pokemon_name_0955
+TEXT: Flittle
+
+RESOURCE ID: pokemon_name_0956
+TEXT: Espathra
+
+RESOURCE ID: pokemon_name_0957
+TEXT: Tinkatink
+
+RESOURCE ID: pokemon_name_0958
+TEXT: Tinkatuff
+
+RESOURCE ID: pokemon_name_0959
+TEXT: Tinkaton
+
+RESOURCE ID: pokemon_name_0960
+TEXT: Wiglett
+
+RESOURCE ID: pokemon_name_0961
+TEXT: Wugtrio
+
+RESOURCE ID: pokemon_name_0962
+TEXT: Bombirdier
+
+RESOURCE ID: pokemon_name_0963
+TEXT: Finizen
+
+RESOURCE ID: pokemon_name_0964
+TEXT: Palafin
+
+RESOURCE ID: pokemon_name_0965
+TEXT: Varoom
+
+RESOURCE ID: pokemon_name_0966
+TEXT: Revavroom
+
+RESOURCE ID: pokemon_name_0967
+TEXT: Cyclizar
+
+RESOURCE ID: pokemon_name_0968
+TEXT: Orthworm
+
+RESOURCE ID: pokemon_name_0969
+TEXT: Glimmet
+
+RESOURCE ID: pokemon_name_0970
+TEXT: Glimmora
+
+RESOURCE ID: pokemon_name_0971
+TEXT: Greavard
+
+RESOURCE ID: pokemon_name_0972
+TEXT: Houndstone
+
+RESOURCE ID: pokemon_name_0973
+TEXT: Flamigo
+
+RESOURCE ID: pokemon_name_0974
+TEXT: Cetoddle
+
+RESOURCE ID: pokemon_name_0975
+TEXT: Cetitan
+
+RESOURCE ID: pokemon_name_0976
+TEXT: Veluza
+
+RESOURCE ID: pokemon_name_0977
+TEXT: Dondozo
+
+RESOURCE ID: pokemon_name_0978
+TEXT: Tatsugiri
+
+RESOURCE ID: pokemon_name_0979
+TEXT: Annihilape
+
+RESOURCE ID: pokemon_name_0980
+TEXT: Clodsire
+
+RESOURCE ID: pokemon_name_0981
+TEXT: Farigiraf
+
+RESOURCE ID: pokemon_name_0982
+TEXT: Dudunsparce
+
+RESOURCE ID: pokemon_name_0983
+TEXT: Kingambit
+
+RESOURCE ID: pokemon_name_0984
+TEXT: Great Tusk
+
+RESOURCE ID: pokemon_name_0985
+TEXT: Scream Tail
+
+RESOURCE ID: pokemon_name_0986
+TEXT: Brute Bonnet
+
+RESOURCE ID: pokemon_name_0987
+TEXT: Flutter Mane
+
+RESOURCE ID: pokemon_name_0988
+TEXT: Slither Wing
+
+RESOURCE ID: pokemon_name_0989
+TEXT: Sandy Shocks
+
+RESOURCE ID: pokemon_name_0990
+TEXT: Iron Treads
+
+RESOURCE ID: pokemon_name_0991
+TEXT: Iron Bundle
+
+RESOURCE ID: pokemon_name_0992
+TEXT: Iron Hands
+
+RESOURCE ID: pokemon_name_0993
+TEXT: Iron Jugulis
+
+RESOURCE ID: pokemon_name_0994
+TEXT: Iron Moth
+
+RESOURCE ID: pokemon_name_0995
+TEXT: Iron Thorns
+
+RESOURCE ID: pokemon_name_0996
+TEXT: Frigibax
+
+RESOURCE ID: pokemon_name_0997
+TEXT: Arctibax
+
+RESOURCE ID: pokemon_name_0998
+TEXT: Baxcalibur
+
 RESOURCE ID: pokemon_name_0999
 TEXT: Gimmighoul
 
 RESOURCE ID: pokemon_name_1000
 TEXT: Gholdengo
+
+RESOURCE ID: pokemon_name_1001
+TEXT: Wo-Chien
+
+RESOURCE ID: pokemon_name_1002
+TEXT: Chien-Pao
+
+RESOURCE ID: pokemon_name_1003
+TEXT: Ting-Lu
+
+RESOURCE ID: pokemon_name_1004
+TEXT: Chi-Yu
+
+RESOURCE ID: pokemon_name_1005
+TEXT: Roaring Moon
+
+RESOURCE ID: pokemon_name_1006
+TEXT: Iron Valiant
+
+RESOURCE ID: pokemon_name_1007
+TEXT: Koraidon
+
+RESOURCE ID: pokemon_name_1008
+TEXT: Miraidon
 
 RESOURCE ID: pokemon_nickname_error
 TEXT: Masukkan nama panggilan yang berbeda.
@@ -47999,6 +49063,18 @@ TEXT: Evolusikan {0} Fletchinder
 RESOURCE ID: quest_fraxure_evolve_b
 TEXT: Evolusikan {0} Fraxure
 
+RESOURCE ID: quest_froakie_catch_b
+TEXT: Tangkap {0} Froakie
+
+RESOURCE ID: quest_froakie_evolve_b
+TEXT: Evolusikan {0} Froakie
+
+RESOURCE ID: quest_froakie_snapshot_b
+TEXT: Ambil {0} foto Froakie
+
+RESOURCE ID: quest_frogadier_evolve_b
+TEXT: Evolusikan {0} Frogadier
+
 RESOURCE ID: quest_gbl_rank
 TEXT: Raih peringkat {0} di GO Battle League
 
@@ -49445,8 +50521,14 @@ TEXT: Ambil foto Butterfree, Shinx, atau Blitzle di alam liar
 RESOURCE ID: quest_snapshot_wild_dark_plural
 TEXT: Ambil {0} foto Pokémon Liar tipe Kegelapan
 
+RESOURCE ID: quest_snapshot_wild_dark_unique_plural
+TEXT: Ambil foto {0} Pokémon liar tipe Kegelapan yang berbeda
+
 RESOURCE ID: quest_snapshot_wild_dragon_plural
 TEXT: Ambil {0} foto Pokémon Liar tipe Naga
+
+RESOURCE ID: quest_snapshot_wild_dragon_unique_plural
+TEXT: Ambil foto {0} Pokémon liar tipe Naga yang berbeda
 
 RESOURCE ID: quest_snapshot_wild_ducklett_chinchou_finneon
 TEXT: Ambil foto Chinchou, Finneon, atau Ducklett di alam liar
@@ -49457,14 +50539,23 @@ TEXT: Ambil foto Eevee di alam liar
 RESOURCE ID: quest_snapshot_wild_electric_plural
 TEXT: Ambil {0} foto Pokémon Liar tipe Listrik
 
+RESOURCE ID: quest_snapshot_wild_electric_unique_plural
+TEXT: Ambil foto {0} Pokémon liar tipe Listrik yang berbeda
+
 RESOURCE ID: quest_snapshot_wild_entei
 TEXT: Ambil foto Entei di alam liar
 
 RESOURCE ID: quest_snapshot_wild_fairy_plural
 TEXT: Ambil {0} foto Pokémon Liar tipe Peri
 
+RESOURCE ID: quest_snapshot_wild_fairy_unique_plural
+TEXT: Ambil foto {0} Pokémon liar tipe Peri yang berbeda
+
 RESOURCE ID: quest_snapshot_wild_fighting_plural
 TEXT: Ambil {0} foto Pokémon Liar tipe Petarung
+
+RESOURCE ID: quest_snapshot_wild_fighting_unique_plural
+TEXT: Ambil foto {0} Pokémon liar tipe Petarung yang berbeda
 
 RESOURCE ID: quest_snapshot_wild_fire_plural
 TEXT: Ambil {0} foto Pokémon Liar tipe Api
@@ -49472,11 +50563,17 @@ TEXT: Ambil {0} foto Pokémon Liar tipe Api
 RESOURCE ID: quest_snapshot_wild_flying_plural
 TEXT: Ambil {0} foto Pokémon Liar tipe Terbang
 
+RESOURCE ID: quest_snapshot_wild_flying_unique_plural
+TEXT: Ambil foto {0} Pokémon liar tipe Terbang yang berbeda
+
 RESOURCE ID: quest_snapshot_wild_geodude_sandshrew_cacnea
 TEXT: Ambil foto Sandshrew, Geodude, atau Cacnea di alam liar
 
 RESOURCE ID: quest_snapshot_wild_ghost_plural
 TEXT: Ambil {0} foto Pokémon Liar tipe Hantu
+
+RESOURCE ID: quest_snapshot_wild_ghost_unique_plural
+TEXT: Ambil foto {0} Pokémon liar tipe Hantu yang berbeda
 
 RESOURCE ID: quest_snapshot_wild_grass_plural
 TEXT: Ambil {0} foto Pokémon Liar tipe Daun
@@ -49484,8 +50581,14 @@ TEXT: Ambil {0} foto Pokémon Liar tipe Daun
 RESOURCE ID: quest_snapshot_wild_grass_singular
 TEXT: Ambil foto Pokémon liar tipe Daun
 
+RESOURCE ID: quest_snapshot_wild_grass_unique_plural
+TEXT: Ambil foto {0} Pokémon liar tipe Daun yang berbeda
+
 RESOURCE ID: quest_snapshot_wild_ground_plural
 TEXT: Ambil {0} foto Pokémon liar tipe Tanah
+
+RESOURCE ID: quest_snapshot_wild_ground_unique_plural
+TEXT: Ambil foto {0} Pokémon liar tipe Tanah yang berbeda
 
 RESOURCE ID: quest_snapshot_wild_hoothoot
 TEXT: Ambil foto Hoothoot di alam liar
@@ -49495,6 +50598,9 @@ TEXT: Ambil {0} foto Pokémon liar tipe Es
 
 RESOURCE ID: quest_snapshot_wild_ice_singular
 TEXT: Ambil foto Pokémon liar tipe Es
+
+RESOURCE ID: quest_snapshot_wild_ice_unique_plural
+TEXT: Ambil foto {0} Pokémon liar tipe Es yang berbeda
 
 RESOURCE ID: quest_snapshot_wild_lotad_metapod_aipom
 TEXT: Ambil foto Metapod, Aipom, atau Lotad di alam liar
@@ -49508,14 +50614,23 @@ TEXT: Ambil foto Mareanie di alam liar
 RESOURCE ID: quest_snapshot_wild_normal_plural
 TEXT: Ambil {0} foto Pokémon liar tipe Normal
 
+RESOURCE ID: quest_snapshot_wild_normal_unique_plural
+TEXT: Ambil foto {0} Pokémon liar tipe Normal yang berbeda
+
 RESOURCE ID: quest_snapshot_wild_plural
 TEXT: Ambil {0} foto Pokémon Liar
 
 RESOURCE ID: quest_snapshot_wild_poison_plural
 TEXT: Ambil {0} foto Pokémon liar tipe Racun
 
+RESOURCE ID: quest_snapshot_wild_poison_unique_plural
+TEXT: Ambil foto {0} Pokémon liar tipe Racun yang berbeda
+
 RESOURCE ID: quest_snapshot_wild_psychic_plural
 TEXT: Ambil {0} foto Pokémon liar tipe Psychic
+
+RESOURCE ID: quest_snapshot_wild_psychic_unique_plural
+TEXT: Ambil foto {0} Pokémon liar tipe Psychic yang berbeda
 
 RESOURCE ID: quest_snapshot_wild_raikou
 TEXT: Ambil foto Raikou di alam liar
@@ -49525,6 +50640,9 @@ TEXT: Ambil foto {0} Pokémon liar tipe Tanah, Bebatuan, atau Peri yang berbeda
 
 RESOURCE ID: quest_snapshot_wild_rock_plural
 TEXT: Ambil {0} foto Pokémon liar tipe Bebatuan
+
+RESOURCE ID: quest_snapshot_wild_rock_unique_plural
+TEXT: Ambil foto {0} Pokémon liar tipe Bebatuan yang berbeda
 
 RESOURCE ID: quest_snapshot_wild_singular
 TEXT: Ambil foto Pokémon Liar
@@ -49561,6 +50679,9 @@ TEXT: Ambil {0} foto Pokémon liar tipe Air
 
 RESOURCE ID: quest_snapshot_wild_water_singular
 TEXT: Ambil foto Pokémon liar tipe Air
+
+RESOURCE ID: quest_snapshot_wild_water_unique_plural
+TEXT: Ambil foto {0} Pokémon liar tipe Air yang berbeda
 
 RESOURCE ID: quest_snapshots_inarow_plural
 TEXT: Ambil foto Pokémon selama {0} hari beruntun
@@ -51243,6 +52364,75 @@ TEXT: Terima kasih atas bantuanmu hari ini, Pelatih. Kuharap kamu bersenang-sena
 
 RESOURCE ID: quest_special_dialogue_flett_3_6
 TEXT: Saatnya GO!
+
+RESOURCE ID: quest_special_dialogue_froakie_0_0
+TEXT: Halo, %PLAYERNAME%! Senang bertemu denganmu!
+
+RESOURCE ID: quest_special_dialogue_froakie_0_1
+TEXT: Hari ini rasanya lebih ramai dari biasanya ya.
+
+RESOURCE ID: quest_special_dialogue_froakie_0_2
+TEXT: ... Terdengar suara ... Apakah itu milik Pokémon?
+
+RESOURCE ID: quest_special_dialogue_froakie_0_3
+TEXT: Bagaimana menurutmu, %PLAYERNAME%? Kira-kira itu Pokémon apa ya?
+
+RESOURCE ID: quest_special_dialogue_froakie_0_4
+TEXT: Langsung saja kita selidiki!
+
+RESOURCE ID: quest_special_dialogue_froakie_1_0
+TEXT: Selamat datang kembali, %PLAYERNAME%!
+
+RESOURCE ID: quest_special_dialogue_froakie_1_1
+TEXT: Barusan ada satu Froakie yang melompat keluar. Senang sekali rasanya bisa melihat Pokémon ini dari dekat.
+
+RESOURCE ID: quest_special_dialogue_froakie_1_2
+TEXT: Froakie mengeluarkan gelembung dari dada dan punggungnya. Dikarenakan bersifat elastis, gelembungnya dapat menerima serangan dan mengurangi kerusakan.
+
+RESOURCE ID: quest_special_dialogue_froakie_1_3
+TEXT: Jika Froakie berevolusi, kelincahannya meningkat sehingga ia bisa memanjat menara tinggi hingga mencapai puncaknya dengan cepat.
+
+RESOURCE ID: quest_special_dialogue_froakie_1_4
+TEXT: Cobalah mengevolusikannya dan pastikan sendiri kecepatannya itu, %PLAYERNAME%!
+
+RESOURCE ID: quest_special_dialogue_froakie_2_0
+TEXT: Kerja bagus, %PLAYERNAME%!
+
+RESOURCE ID: quest_special_dialogue_froakie_2_1
+TEXT: Gelembung Frogadier terlihat seperti syal dan tampak modis. Namun, itu bukan cuma sekadar pajangan lho.
+
+RESOURCE ID: quest_special_dialogue_froakie_2_2
+TEXT: Bagian belakang kakinya begitu kuat sehingga tubuhnya secara keseluruhan terkesan ramping.
+
+RESOURCE ID: quest_special_dialogue_froakie_2_3
+TEXT: Frogadier dapat melempar batu yang dilapisi oleh gelembung. Dan kontrolnya juga luar biasa.
+
+RESOURCE ID: quest_special_dialogue_froakie_2_4
+TEXT: Pokémon yang memanjat menara dan melempar batu gelembung dengan mahir. Wah, jadi ingin melihatnya di pertarungan!
+
+RESOURCE ID: quest_special_dialogue_froakie_2_5
+TEXT: Hmm, tetapi sebaiknya kita mengevolusikannya terlebih dahulu.
+
+RESOURCE ID: quest_special_dialogue_froakie_2_6
+TEXT: %PLAYERNAME%, cobalah mengevolusikan Frogadier milikmu!
+
+RESOURCE ID: quest_special_dialogue_froakie_3_0
+TEXT: Frogadier sudah berevolusi jadi Greninja ya, %PLAYERNAME%!
+
+RESOURCE ID: quest_special_dialogue_froakie_3_1
+TEXT: Greninja bergerak sangat cepat di alam liar sehingga sulit sekali mengejarnya. Padahal lidah yang melingkar di lehernya terlihat begitu berat ...
+
+RESOURCE ID: quest_special_dialogue_froakie_3_2
+TEXT: Terus, ia juga bisa memutarkan secara cepat syuriken yang dibuat dengan mengompreskan air.
+
+RESOURCE ID: quest_special_dialogue_froakie_3_3
+TEXT: Saking cepatnya, logam pun dapat dibelah menjadi dua.
+
+RESOURCE ID: quest_special_dialogue_froakie_3_4
+TEXT: Namun, itu merupakan jurus yang memerlukan teknik dan ikatan kuat dengan Pelatihnya.
+
+RESOURCE ID: quest_special_dialogue_froakie_3_5
+TEXT: Oke, penelitian hari ini kita akhiri sampai sini dulu. Sampai jumpa lagi, %PLAYERNAME%. Saatnya GO!
 
 RESOURCE ID: quest_special_dialogue_galarian_mrmime_0_0
 TEXT: %PLAYERNAME%! Senang sekali melihatmu! Telah terjadi hal-hal yang aneh akhir-akhir ini.
@@ -56012,6 +57202,135 @@ TEXT: Halo, %PLAYERNAME%! Hal yang harus kita selidiki jadi makin banyak karena 
 RESOURCE ID: quest_special_dialogue_searching_gold_june23_1_1
 TEXT: Di antara Pokémon berikut, kamu ingin bertemu dengan yang mana?
 
+RESOURCE ID: quest_special_dialogue_season12_0_0
+TEXT: %PLAYERNAME%, aku membutuhkan bantuanmu terkait penelitian Daerah Paldea. Aku memiliki beberapa dokumen terkait daerah tersebut.
+
+RESOURCE ID: quest_special_dialogue_season12_0_1
+TEXT: Gunung-gunung yang menjulang tinggi, danau, padang luas, area pegunungan yang berbahaya saling sambung-menyambung.
+
+RESOURCE ID: quest_special_dialogue_season12_0_2
+TEXT: Terus, ada pedesaan yang makmur akan pertanian, serta kota pelabuhan dengan pasar yang ramai.
+
+RESOURCE ID: quest_special_dialogue_season12_0_3
+TEXT: Hmm ... Pemandangan tersebut tergambar di mataku...
+
+RESOURCE ID: quest_special_dialogue_season12_0_4
+TEXT: Pasti itu merupakan tempat luar biasa yang melebihi bayanganku. Oh iya, ada Pokémon di berbagai macam tempat seperti di atas pohon, dalam sungai, dan sebagainya!
+
+RESOURCE ID: quest_special_dialogue_season12_a_1_0
+TEXT: Pilihan bagus! Sprigatito itu Pokémon yang manja dan sedikit pencemburu sehingga ia akan merajuk jika melihatmu memberikan perhatian ke Pokémon lainnya!
+
+RESOURCE ID: quest_special_dialogue_season12_a_1_1
+TEXT: Bulu tubuhnya mengandung unsur yang mirip dengan tanaman sehingga ia dapat menciptakan energi dengan menyerap sinar matahari.
+
+RESOURCE ID: quest_special_dialogue_season12_a_1_2
+TEXT: Lalu, ia memesona sekelilingnya dengan mengeluarkan aroma manis yang keluar dari tubuhnya. Kabarnya aromanya menguat jika terkena sinar matahari.
+
+RESOURCE ID: quest_special_dialogue_season12_a_1_3
+TEXT: Oke, untuk permulaan, cobalah menangkap Pokémon yang bertipe sama dengan Sprigatito!
+
+RESOURCE ID: quest_special_dialogue_season12_a_2_0
+TEXT: Selamat datang kembali, %PLAYERNAME%! Wah, kamu menangkap Sprigatito!
+
+RESOURCE ID: quest_special_dialogue_season12_a_2_1
+TEXT: Sprigatito rajin mencuci wajahnya untuk mencegah wajahnya kering. Perawatannya pun mirip dengan merawat tanaman.
+
+RESOURCE ID: quest_special_dialogue_season12_a_2_2
+TEXT: Oh iya, aku jadi ingin melihat hasil perawatanmu ke Sprigatito ... Cobalah mengevolusikannya!
+
+RESOURCE ID: quest_special_dialogue_season12_a_3_0
+TEXT: Bagus sekali, %PLAYERNAME%! Kamu telah mengevolusikannya menjadi Floragato! Perhatikan baik-baik kuncup yang ada di pangkal lehernya, itu menempel diujung sulurnya.
+
+RESOURCE ID: quest_special_dialogue_season12_a_3_1
+TEXT: Lalu, kekerasan bulunya juga bisa berubah, lho. Ketika ia mengambil posisi bertarung, bulunya menjadi setajam jarum.
+
+RESOURCE ID: quest_special_dialogue_season12_a_3_2
+TEXT: Floragato mengendalikan sulur ranting yang tersembunyi di bawah bulu panjangnya dengan mahir, lalu membanting kuncup keras ke musuh.
+
+RESOURCE ID: quest_special_dialogue_season12_a_3_3
+TEXT: Floragato itu juga mudah kesepian sehingga alangkah baiknya kamu selalu memperhatikannya saat kalian bertualang bersama. Tolong ya, %PLAYERNAME%.
+
+RESOURCE ID: quest_special_dialogue_season12_a_4_0
+TEXT: Wow! Kamu mengevolusikannya menjadi Meowscarada! Lihat bunganya! Itu terlihat melayang, tetapi itu tersambung dengan sulur, lho. Hanya saja tidak terlihat oleh kamuflase.
+
+RESOURCE ID: quest_special_dialogue_season12_a_4_1
+TEXT: Teknik sulapnya luar biasa ya! Oke, penyelidikan untuk hari ini kita akhiri sampai sini. Nikmati petualanganmu bersama Meowscarada, %PLAYERNAME%!
+
+RESOURCE ID: quest_special_dialogue_season12_b_1_0
+TEXT: Pilihan bagus! Fuecoco itu Pokémon yang penuh energi. Energi api yang mengalir di dalam tubuhnya dikeluarkan dari atas kepalanya.
+
+RESOURCE ID: quest_special_dialogue_season12_b_1_1
+TEXT: Oke, untuk permulaan, cobalah menangkap Pokémon yang bertipe sama dengan Fuecoco!
+
+RESOURCE ID: quest_special_dialogue_season12_b_2_0
+TEXT: Selamat datang kembali, %PLAYERNAME%! Wah, kamu menangkap Fuecoco!
+
+RESOURCE ID: quest_special_dialogue_season12_b_2_1
+TEXT: Fuecoco berbaring di atas batu hangat dan menciptakan energi api dengan menyerap energi panas tersebut menggunakan sisik perseginya.
+
+RESOURCE ID: quest_special_dialogue_season12_b_2_2
+TEXT: Kalau ia berevolusi menjadi Crocalor, energi apinya akan jadi makin membesar. Ayo coba mengevolusikan dan memastikannya secara langsung!
+
+RESOURCE ID: quest_special_dialogue_season12_b_3_0
+TEXT: Bagus sekali, %PLAYERNAME%! Kamu telah mengevolusikannya menjadi Crocalor! Lihat bola api berbentuk telur yang ada di atas kepalanya, menurutmu itu apa ya?
+
+RESOURCE ID: quest_special_dialogue_season12_b_3_1
+TEXT: Bola api berbentuk telur yang muncul di kepala Crocalor terbentuk oleh campuran energi api dan vitalitasnya yang melimpah.
+
+RESOURCE ID: quest_special_dialogue_season12_b_3_2
+TEXT: Lalu, Crocalor mengembuskan api sambil mengeluarkan suara serak.
+
+RESOURCE ID: quest_special_dialogue_season12_b_3_3
+TEXT: Ia memiliki kebiasaan mengeluarkan suara ketika mengembuskan api, jadi hati-hati ya!
+
+RESOURCE ID: quest_special_dialogue_season12_b_4_0
+TEXT: Wow! Kamu mengevolusikannya menjadi Skeledirge! Dikatakan bahwa suara lembutnya itu akan menenangkan jiwa siapa yang mendengarnya.
+
+RESOURCE ID: quest_special_dialogue_season12_b_4_1
+TEXT: Namun, kamu perlu berhati-hati dengan apinya! Apinya bersuhu 3000 ℃, lho!
+
+RESOURCE ID: quest_special_dialogue_season12_b_4_2
+TEXT: Tetap hati-hati dengan apinya ya! Oke, penyelidikan untuk hari ini kita akhiri sampai sini. Nikmati petualanganmu bersama Skeledirge, %PLAYERNAME%!
+
+RESOURCE ID: quest_special_dialogue_season12_branch_0
+TEXT: Kamu ingin mempelajari Pokémon yang mana? Pilihlah, %PLAYERNAME%!
+
+RESOURCE ID: quest_special_dialogue_season12_c_1_0
+TEXT: Pilihan bagus! Quaxly itu Pokémon yang maniak kebersihan.
+
+RESOURCE ID: quest_special_dialogue_season12_c_1_1
+TEXT: Gel yang menangkal kotoran dan air disekresi dari bulunya. Quaxly juga selalu merapikan bulu di kepalanya sehingga selalu terkesan rapi dan bersih.
+
+RESOURCE ID: quest_special_dialogue_season12_c_1_2
+TEXT: Oke, untuk permulaan, cobalah menangkap Pokémon yang bertipe sama dengan Quaxly!
+
+RESOURCE ID: quest_special_dialogue_season12_c_2_0
+TEXT: Selamat datang kembali, %PLAYERNAME%! Wah, kamu menangkap Quaxly!
+
+RESOURCE ID: quest_special_dialogue_season12_c_2_1
+TEXT: Quaxly bermigrasi dari daerah yang jauh ke Daerah Paldea pada zaman dahulu. Ia bisa berenang dengan bebas meskipun di sungai beraliran kencang.
+
+RESOURCE ID: quest_special_dialogue_season12_c_2_2
+TEXT: Kalau ia berevolusi menjadi Quaxwell, kekuatan kakinya akan makin meningkat. Ayo coba mengevolusikan dan memastikannya secara langsung!
+
+RESOURCE ID: quest_special_dialogue_season12_c_3_0
+TEXT: Bagus sekali, %PLAYERNAME%! Kamu telah mengevolusikannya menjadi Quaxwell! Coba kita lihat kakinya.
+
+RESOURCE ID: quest_special_dialogue_season12_c_3_1
+TEXT: Quaxwell melatih kaki dan pinggangnya dengan terus berlari di perairan dangkal. Pokémon ini saling mengadu keindahan teknik serangan kaki dengan sesamanya.
+
+RESOURCE ID: quest_special_dialogue_season12_c_3_2
+TEXT: Lalu, kabarnya dengan melihat gerakan Pokémon atau manusia yang tinggal di berbagai macam daerah, ia menjadikan gerakan tersebut sebagai tariannya sendiri.
+
+RESOURCE ID: quest_special_dialogue_season12_c_3_3
+TEXT: Hmm ... Aku jadi penasaran dengan tariannya jika ia berevolusi. Cobalah mengevolusikannya!
+
+RESOURCE ID: quest_special_dialogue_season12_c_4_0
+TEXT: Wow! Kamu mengevolusikannya menjadi Quaquaval! Kekuatan kakinya dapat membuat truk jungkir balik hanya dengan sekali tendang. Terus, tariannya begitu lincah.
+
+RESOURCE ID: quest_special_dialogue_season12_c_4_1
+TEXT: Teruslah melangkah dan menari bersamanya! Oke, penyelidikan untuk hari ini kita akhiri sampai sini. Nikmati petualanganmu bersama Quaquaval, %PLAYERNAME%!
+
 RESOURCE ID: quest_special_dialogue_season2_0_0
 TEXT: Hai, %PLAYERNAME%! Senang bertemu denganmu.
 
@@ -58756,6 +60075,21 @@ TEXT: Burung Paling Berani (3/4)
 RESOURCE ID: quest_title_flett_3
 TEXT: Burung Paling Berani (4/4)
 
+RESOURCE ID: quest_title_froakie
+TEXT: Gelembung Gembung
+
+RESOURCE ID: quest_title_froakie_0
+TEXT: Gelembung Gembung (1/4)
+
+RESOURCE ID: quest_title_froakie_1
+TEXT: Gelembung Gembung (2/4)
+
+RESOURCE ID: quest_title_froakie_2
+TEXT: Gelembung Gembung (3/4)
+
+RESOURCE ID: quest_title_froakie_3
+TEXT: Gelembung Gembung (4/4)
+
 RESOURCE ID: quest_title_galarian_mrmime
 TEXT: Tap ... Tap ... Tap ... 
 
@@ -59829,6 +61163,24 @@ TEXT: Pasir dan Es (3/4)
 
 RESOURCE ID: quest_title_sandt_3
 TEXT: Pasir dan Es (4/4)
+
+RESOURCE ID: quest_title_season12
+TEXT: Petualangan Paldea
+
+RESOURCE ID: quest_title_season12_0
+TEXT: Petualangan Paldea (1/5)
+
+RESOURCE ID: quest_title_season12_1
+TEXT: Petualangan Paldea (2/5)
+
+RESOURCE ID: quest_title_season12_2
+TEXT: Petualangan Paldea (3/5)
+
+RESOURCE ID: quest_title_season12_3
+TEXT: Petualangan Paldea (4/5)
+
+RESOURCE ID: quest_title_season12_4
+TEXT: Petualangan Paldea (5/5)
 
 RESOURCE ID: quest_title_season2
 TEXT: Musim Legenda
@@ -61026,6 +62378,12 @@ TEXT: Menangkan {0} Raid bintang tiga dengan hanya menggunakan Pokémon dengan 1
 
 RESOURCE ID: quest_win_raid_lvl3plus_less1500cp_singular
 TEXT: Menangkan Raid bintang tiga dengan hanya menggunakan Pokémon dengan 1.500 CP atau lebih rendah
+
+RESOURCE ID: quest_win_raid_lvl3plus_less2500cp_plural
+TEXT: Menangkan {0} Raid bintang tiga hanya dengan Pokémon 2.500 CP atau kurang
+
+RESOURCE ID: quest_win_raid_lvl3plus_less2500cp_singular
+TEXT: Menangkan Raid bintang tiga hanya dengan Pokémon 2.500 CP atau kurang
 
 RESOURCE ID: quest_win_raid_plural
 TEXT: Menangkan {0} Raid
@@ -66507,14 +67865,8 @@ TEXT: Pengambilalihan Tim Roket GO
 RESOURCE ID: route_about_label
 TEXT: PERINCIAN RUTE
 
-RESOURCE ID: route_about_title
-TEXT: Rincian Rute:
-
 RESOURCE ID: route_actions_label
 TEXT: AKSI
-
-RESOURCE ID: route_add_point
-TEXT: Jadikan Pemberhentian
 
 RESOURCE ID: route_cancel_description
 TEXT: Jika memulai rute ini, segala progres pada {0} akan hilang. Kamu juga harus menunggu {1} menit untuk memainkannya lagi.
@@ -66522,38 +67874,20 @@ TEXT: Jika memulai rute ini, segala progres pada {0} akan hilang. Kamu juga haru
 RESOURCE ID: route_cancel_description_same_route
 TEXT: Progresmu pada {0} akan hilang jika rute ini dimulai ulang.
 
-RESOURCE ID: route_cancel_start_new_button
-TEXT: Mulai rute baru
-
 RESOURCE ID: route_cancel_title
 TEXT: Mulai rute baru?
 
 RESOURCE ID: route_cancel_title_same_route
 TEXT: Mulai ulang rute ini?
 
-RESOURCE ID: route_cannot_delete_route_in_review_prompt
-TEXT: [placeholder on client]
-
-RESOURCE ID: route_cannot_delete_route_in_review_title
-TEXT: RUTE INI TIDAK DAPAT DIHAPUS
-
-RESOURCE ID: route_cannot_edit_routes_in_review
-TEXT: Tidak dapat mengedit Rute yang sedang ditinjau
-
 RESOURCE ID: route_change_endpoint_error
 TEXT: Kesalahan saat mengeset titik akhir
-
-RESOURCE ID: route_checkpoint_general
-TEXT: Pemberhentian
 
 RESOURCE ID: route_collapsed_show_more
 TEXT: TUNJUKKAN {0}
 
 RESOURCE ID: route_community_plays_label
 TEXT: DITELUSURI KOMUNITAS
-
-RESOURCE ID: route_completion_congratulation
-TEXT: Selamat!
 
 RESOURCE ID: route_completion_explored_count_plural
 TEXT: Telah menjelajahi Rute ini
@@ -66563,29 +67897,11 @@ RESOURCE ID: route_completion_explored_count_singular
 TEXT: Telah menjelajahi Rute ini
 satu kali!
 
-RESOURCE ID: route_completion_get_medal
-TEXT: Kamu mendapatkan medali {0}!
-
 RESOURCE ID: route_completion_great_job
 TEXT: Kerja Bagus!
 
-RESOURCE ID: route_completion_once
-TEXT: Menyelesaikan {0} 1 kali
-
-RESOURCE ID: route_completion_repeat
-TEXT: Menyelesaikan {0} {1} kali
-
-RESOURCE ID: route_cooldown_toast_already_walking_this_route
-TEXT: Rute ini telah dimainkan!
-
 RESOURCE ID: route_cooldown_toast_hour
 TEXT: Kamu harus menunggu selama 1 jam untuk memainkan rute ini.
-
-RESOURCE ID: route_cooldown_toast_hour_and_minute
-TEXT: Kamu harus menunggu selama 1 jam 1 menit untuk memainkan rute ini.
-
-RESOURCE ID: route_cooldown_toast_hour_and_minutes
-TEXT: Kamu harus menunggu selama 1 jam {0} menit untuk memainkan rute ini.
 
 RESOURCE ID: route_cooldown_toast_hours
 TEXT: Kamu harus menunggu selama {0} jam untuk memainkan rute ini.
@@ -66593,23 +67909,8 @@ TEXT: Kamu harus menunggu selama {0} jam untuk memainkan rute ini.
 RESOURCE ID: route_cooldown_toast_hours_and_minute
 TEXT: Kamu harus menunggu selama {0} jam {1} menit untuk menelusuri Rute ini.
 
-RESOURCE ID: route_cooldown_toast_hours_and_minutes
-TEXT: Kamu harus menunggu selama {0} jam {1} menit untuk memainkan rute ini.
-
-RESOURCE ID: route_cooldown_toast_minute
-TEXT: Kamu harus menunggu selama {0} menit untuk memainkan rute ini.
-
-RESOURCE ID: route_cooldown_toast_minutes
-TEXT: Kamu harus menunggu selama {0} menit untuk memainkan rute ini.
-
 RESOURCE ID: route_create_action_menu_header
-TEXT: Available Route Actions:
-
-RESOURCE ID: route_create_medal_context_page
-TEXT: Pilih gambar dan warna untuk tampilan medali yang akan diterima oleh Pelatih lain ketika mereka menyelesaikan Rutemu.
-
-RESOURCE ID: route_create_medal_context_title
-TEXT: Medali Rute
+TEXT: Tindakan Rute Tersedia:
 
 RESOURCE ID: route_create_play_conflict_error_a
 TEXT: Tidak dapat menelusuri Rute saat pembuatan Rute sedang berlangsung.
@@ -66728,6 +68029,9 @@ TEXT: Tidak bisa melakukan tindakan yang diminta.
 RESOURCE ID: route_creation_go_to_start
 TEXT: Silakan berjalan menuju titik awal Rutemu untuk memulai perekaman jalur.
 
+RESOURCE ID: route_creation_header_label
+TEXT: TELAH DIBUAT
+
 RESOURCE ID: route_creation_max_distance_exceeded_description
 TEXT: Pembuatan Rute tidak dapat dilanjutkan karena telah mencapai jarak maksimum.
 
@@ -66832,19 +68136,13 @@ RESOURCE ID: route_creation_start_recording_error_too_far
 TEXT: Perekaman tidak dapat dimulai karena sedang tidak berada di dekat titik awal.
 
 RESOURCE ID: route_creation_submit
-TEXT: DEBUG CREATION SUBMIT
+TEXT: KIRIM PEMBUATAN DEBUG
 
 RESOURCE ID: route_creator_label
 TEXT: PEMBUAT RUTE
 
 RESOURCE ID: route_creator_stats_label
 TEXT: Info Pembuat
-
-RESOURCE ID: route_data_onboarding_page_1
-TEXT: Rutemu selesai dibuat. Saatnya memberi tahukan semuanya!
-
-RESOURCE ID: route_data_onboarding_title_1
-TEXT: Input Data Rute
 
 RESOURCE ID: route_decayed_description
 TEXT: Rute ini telah diarsipkan.
@@ -66856,18 +68154,6 @@ TEXT: {0} telah diarsipkan karena tidak cukup dimainkan.
 RESOURCE ID: route_decayed_modal_title
 TEXT: {0} telah diarsipkan
 
-RESOURCE ID: route_denial_exceeds_max_total_distance
-TEXT: Menambahkan PokéStop atau Gym ini akan membuat Rutemu melebihi batas jarak tempuh maksimal.
-
-RESOURCE ID: route_denial_too_close_to_last_poi
-TEXT: PokéStop ini terlalu dekat dengan PokéStop terakhir. Harus berjarak minimal {0} meter.
-
-RESOURCE ID: route_denial_too_far_away_from_last_poi
-TEXT: PokéStop ini terlalu jauh dengan PokéStop terakhir. Harus berjarak maksimal {0} meter.
-
-RESOURCE ID: route_denial_too_many_stops_in_route
-TEXT: Rute ini telah mencapai jumlah maksimal pemberhentian.
-
 RESOURCE ID: route_detail_rejected_delete_button
 TEXT: HAPUS RUTE
 
@@ -66876,6 +68162,15 @@ TEXT: Rute ini telah ditolak.
 
 RESOURCE ID: route_detail_under_review_withdraw_button
 TEXT: BATALKAN AJUAN
+
+RESOURCE ID: route_details_end_label
+TEXT: Titik Akhir:
+
+RESOURCE ID: route_details_loop_label
+TEXT: Titik Awal dan Akhir:
+
+RESOURCE ID: route_details_start_label
+TEXT: Titik Awal:
 
 RESOURCE ID: route_discovery_tab_all
 TEXT: Semua
@@ -66894,9 +68189,6 @@ TEXT: Populer
 
 RESOURCE ID: route_distance_walked_label
 TEXT: Jarak Tempuh di Rute
-
-RESOURCE ID: route_earned_new_stamp
-TEXT: Mendapatkan stempel baru!
 
 RESOURCE ID: route_edit_button
 TEXT: LANJUT MENGEDIT
@@ -66955,7 +68247,7 @@ TEXT: Akses Anda ke Pokémon GO telah dibekukan secara permanen.
 RESOURCE ID: route_enforcement_suspension_description
 TEXT: Akun Pokémon GO Anda telah dibekukan untuk {0} hari dikarenakan pelanggaran berulang kali terhadap Panduan Pemain terkait Rute. Akses ke Pokémon GO akan diberikan dalam {1} hari.
 
-Pelanggaran lebih lanjut menyebabkan pembekuan akun secara permanen dari Pokémon GO dan game Niantic lainnya. Harap tinjau Panduan Pemain guna mencegah pelanggaran lebih lanjut.
+Pelanggaran lebih lanjut menyebabkan pembekuan akun secara permanen dari Pokémon GO.
 
 RESOURCE ID: route_enforcement_suspension_title
 TEXT: Anda telah dibekukan untuk sementara dari Pokémon GO.
@@ -66992,17 +68284,11 @@ TEXT: Tidak dapat menyelesaikan tindakan yang diminta. Silakan coba lagi.
 RESOURCE ID: route_error_unable_to_edit
 TEXT: Pengajuan Rute ini tidak dapat diedit. Harap perbarui lis Rute yang Dibuat guna memeriksa status perubahan Rute ini.
 
-RESOURCE ID: route_expired_error
-TEXT: Rute saat ini telah kedaluwarsa
-
 RESOURCE ID: route_first_play_date_label
 TEXT: Penelusuran Pertama
 
 RESOURCE ID: route_frame_select_subtitle
 TEXT: Pratinjau
-
-RESOURCE ID: route_frame_select_title
-TEXT: Pilih medali untuk dipratinjau
 
 RESOURCE ID: route_general
 TEXT: Rute
@@ -67010,32 +68296,17 @@ TEXT: Rute
 RESOURCE ID: route_general_plural
 TEXT: Rute
 
-RESOURCE ID: route_get_route_maker
-TEXT: DAPATKAN PEMBUAT RUTE
-
-RESOURCE ID: route_icon_select_subtitle
-TEXT: Medali ini akan ditampilkan ke semua Pelatih
-
-RESOURCE ID: route_icon_select_title
-TEXT: Pilih gambar untuk medali Rute ini
-
 RESOURCE ID: route_km_label
 TEXT: {0} km
 
 RESOURCE ID: route_last_play_date_label
 TEXT: Penelusuran Terakhir
 
+RESOURCE ID: route_learn_more_url
+TEXT: https://niantic.helpshift.com/hc/faq/4184-routes-faq/
+
 RESOURCE ID: route_level
 TEXT: Level Rute {0}
-
-RESOURCE ID: route_list_context_page
-TEXT: Atur dan modifikasi daftar PokéStop atau Gym-mu di sini
-
-RESOURCE ID: route_list_context_title
-TEXT: Daftar PokéStop atau Gym
-
-RESOURCE ID: route_list_item_default_description
-TEXT: Ketuk untuk membuat Rute
 
 RESOURCE ID: route_list_item_default_title
 TEXT: Rute {0}
@@ -67045,12 +68316,6 @@ TEXT: Rute ini memakan waktu lama untuk dimuat. Coba lagi nanti.
 
 RESOURCE ID: route_m_label
 TEXT: {0} m
-
-RESOURCE ID: route_maker_item_confirmation_description
-TEXT: Pembuat Rute aktif ditampilkan di sini.
-
-RESOURCE ID: route_maker_max_warning
-TEXT: Telah memiliki jumlah maksimal Pembuat Rute aktif.
 
 RESOURCE ID: route_map_out_of_bound_warning
 TEXT: Kamu berada terlalu jauh dari area ini
@@ -67073,20 +68338,8 @@ TEXT: {0} menit
 RESOURCE ID: route_move_closer_to_resume
 TEXT: Kembali ke lokasi Rute dijeda untuk melanjutkan perekaman.
 
-RESOURCE ID: route_nearby_help_distance
-TEXT: Jarak antara titik awal dengan lokasi saat ini.
-
-RESOURCE ID: route_nearby_help_duration
-TEXT: Jangka waktu dari titik awal hingga titik akhir.
-
 RESOURCE ID: route_nearby_help_official_route
 TEXT: Rute buatan NIANTIC partner memiliki label ini.
-
-RESOURCE ID: route_nearby_help_played_time
-TEXT: Frekuensi bermain Rute ini.
-
-RESOURCE ID: route_nearby_help_title
-TEXT: Informasi Rute
 
 RESOURCE ID: route_nearby_label
 TEXT: {0} rute
@@ -67100,42 +68353,14 @@ TEXT: RUTE SEKITAR ({0})
 RESOURCE ID: route_not_playable
 TEXT: Tidak dapat memainkan Rute ini.
 
-RESOURCE ID: route_notification_resume
-TEXT: Memasuki area rute.
-Rute ini aktif kembali!
-
-RESOURCE ID: route_one_time_label
-TEXT: 1 kali
-
 RESOURCE ID: route_out_of_range
 TEXT: Kamu tidak dapat menjelajahi Rute ini karena terlalu jauh.
-
-RESOURCE ID: route_pause_description
-TEXT: Rute ini dijeda karena kamu pergi dari area rute. Rute ini akan dilanjutkan secara otomatis jika kamu berjalan mendekat ke lokasi selanjutnya.
 
 RESOURCE ID: route_pause_label
 TEXT: JEDA RUTE
 
-RESOURCE ID: route_pause_prompt
-TEXT: Progresmu akan tersimpan. Kamu dapat melanjutkan pembuatan Rutemu kapan saja dengan mengetuk item Pembuat Rute di Tas Item.
-
-RESOURCE ID: route_pause_stamp_cancel
-TEXT: (Rute ini akan dibatalkan dalam {0} jam)
-
-RESOURCE ID: route_pause_stamp_cancel_less_than
-TEXT: (Rute ini akan dibatalkan kurang dari {0} jam)
-
-RESOURCE ID: route_pause_stamp_cancel_singular
-TEXT: (Rute ini akan dibatalkan dalam {0} jam)
-
-RESOURCE ID: route_pause_stamp_message
-TEXT: {0} dijeda karena kamu pergi dari area rute. Rute ini akan dilanjutkan secara otomatis jika kamu berjalan mendekat ke titik rute selanjutnya "<color=#{1}><color=#{1}>{2}</color>".
-
 RESOURCE ID: route_pause_title
 TEXT: Permainan Rute dijeda.
-
-RESOURCE ID: route_paused_prompt
-TEXT: Rute tersimpan sebagai {0}.
 
 RESOURCE ID: route_paused_title
 TEXT: Pembuatan Rute Dijeda
@@ -67148,18 +68373,6 @@ TEXT: Pilih Pin
 
 RESOURCE ID: route_pin_title_edit
 TEXT: Edit Judul Pin
-
-RESOURCE ID: route_planning_context_page
-TEXT: Mulai perencanaan Rute
-
-RESOURCE ID: route_planning_context_title
-TEXT: Perencanaan Rute
-
-RESOURCE ID: route_planning_must_add_more_pois
-TEXT: Harap tambahkan {0} PokéStop atau Gym lagi ke Rute ini.
-
-RESOURCE ID: route_planning_must_add_one_poi
-TEXT: Harap tambahkan 1 PokéStop atau Gym lagi ke Rute ini.
 
 RESOURCE ID: route_play_adsync_breadcrumb_notification
 TEXT: Rute dalam proses.
@@ -67194,6 +68407,12 @@ TEXT: Persyaratan Rute belum tercapai
 
 RESOURCE ID: route_play_detail_map_soon
 TEXT: Pratinjau peta Rute saat ini tidak tersedia.
+
+RESOURCE ID: route_play_end_point_push_notification
+TEXT: Mendekati titik akhir!
+
+RESOURCE ID: route_play_end_point_push_notification_description
+TEXT: Buka Pokémon GO dan selesaikan Rutemu.
 
 RESOURCE ID: route_play_hoo_warning_button
 TEXT: TELUSURI RUTE
@@ -67249,24 +68468,6 @@ TEXT: Rute dilanjutkan.
 RESOURCE ID: route_play_travel_distance
 TEXT: Jarak Tempuhmu:
 
-RESOURCE ID: route_poi_list_view_description_short_tip
-TEXT: Harap tambahkan {0} PokéStop atau Gym lagi ke Rutemu.
-
-RESOURCE ID: route_poi_list_view_description_tip
-TEXT: Silakan pilih dan tambahkan PokéStop atau Gym sesuai urutan untuk dikunjungi.
-
-RESOURCE ID: route_poi_list_view_max_wp_tip
-TEXT: Rutemu telah mencapai jumlah maksimal pemberhentian
-
-RESOURCE ID: route_poi_list_view_start_point_tip
-TEXT: Pilih titik awal
-
-RESOURCE ID: route_poi_list_view_total_distance
-TEXT: Jarak Total: {0} meter
-
-RESOURCE ID: route_poi_list_view_total_time
-TEXT: Estimasi waktu hingga selesai: {0} menit
-
 RESOURCE ID: route_pokemon_caught_label
 TEXT: Pokémon Tertangkap di Rute
 
@@ -67279,71 +68480,14 @@ TEXT: RUTE YANG DIPUBLIKASI
 RESOURCE ID: route_quit_label
 TEXT: KELUAR
 
-RESOURCE ID: route_rating_button
-TEXT: NILAI
-
 RESOURCE ID: route_rating_description
 TEXT: Apakah kamu menikmati rute ini? Mohon berikan penilaiannya.
 
 RESOURCE ID: route_rating_percentage_label
 TEXT: {0}%
 
-RESOURCE ID: route_rating_reason
-TEXT: Dapat memilih lebih dari 1
-
-RESOURCE ID: route_rating_reason_bad_accessibility
-TEXT: Sulit Diakses
-
-RESOURCE ID: route_rating_reason_bad_accuracy
-TEXT: Lokasi Tidak Akurat
-
-RESOURCE ID: route_rating_reason_bad_length
-TEXT: Jaraknya Tidak Sesuai
-
-RESOURCE ID: route_rating_reason_bad_location
-TEXT: Lokasi Yang Tidak Relevan
-
-RESOURCE ID: route_rating_reason_good_destination
-TEXT: Titik Tujuannya Baik
-
-RESOURCE ID: route_rating_reason_good_learning
-TEXT: Cocok Untuk Belajar
-
-RESOURCE ID: route_rating_reason_good_location
-TEXT: Lokasinya Bagus
-
-RESOURCE ID: route_rating_reason_good_walk
-TEXT: Cocok Untuk Jalan
-
-RESOURCE ID: route_rating_theme
-TEXT: Silakan pilih tema.
-
-RESOURCE ID: route_rating_theme_architecture
-TEXT: Arsitektur
-
 RESOURCE ID: route_rating_theme_art
 TEXT: Seni
-
-RESOURCE ID: route_rating_theme_casual
-TEXT: Kasual
-
-RESOURCE ID: route_rating_theme_culture
-TEXT: Budaya
-
-RESOURCE ID: route_rating_theme_food
-TEXT: Makanan
-
-RESOURCE ID: route_rating_theme_history
-TEXT: Sejarah
-
-RESOURCE ID: route_rating_theme_nature
-TEXT: Alam
-
-RESOURCE ID: route_rating_theme_sightseeing
-TEXT: Wisata
-
-RESOURCE ID: route_rating_title
-TEXT: Bagaimana rute ini?
 
 RESOURCE ID: route_recording_paused
 TEXT: Perekaman dijeda.
@@ -67372,23 +68516,8 @@ TEXT: EDIT DAN AJUKAN LAGI
 RESOURCE ID: route_rejection_title
 TEXT: Rute ini telah ditolak
 
-RESOURCE ID: route_remove_from_route
-TEXT: Hapus dari Rute
-
 RESOURCE ID: route_report_body
 TEXT: Laporan Rute yang dikirimkan ke Niantic akan kami tinjau dan menindak dengan tepat sesuai dengan kebijakan kami. Kami tidak akan membagikan identitas pelapor kepada pembuat Rute. Dengan mengirim laporan, kamu telah mengonfirmasi bahwa laporanmu terpercaya.
-
-RESOURCE ID: route_report_cancel_message
-TEXT: Rute akan dibatalkan jika kamu mengajukan laporan ini.
-
-RESOURCE ID: route_report_description
-TEXT: Deskripsikan masalah yang terjadi.
-
-RESOURCE ID: route_report_dont_know
-TEXT: Tidak Tahu
-
-RESOURCE ID: route_report_permanent
-TEXT: Masalah Permanen
 
 RESOURCE ID: route_report_submit_description
 TEXT: Terima kasih atas laporannya. Kami memohon maaf atas ketidaknyamanan yang kamu alami.
@@ -67399,9 +68528,6 @@ TEXT: Terima kasih atas laporannya. Kami memohon maaf atas ketidaknyamanan yang 
 RESOURCE ID: route_report_submit_title
 TEXT: Laporan Telah Diajukan
 
-RESOURCE ID: route_report_temporary
-TEXT: Masalah Temporer
-
 RESOURCE ID: route_report_title
 TEXT: Laporkan Rute ini
 
@@ -67410,12 +68536,6 @@ TEXT: Jika kamu mengirimkan laporan ini, sesi permainan Rutemu saat ini akan ber
 
 RESOURCE ID: route_report_warning_title
 TEXT: Yakin ingin melaporkan Rute ini?
-
-RESOURCE ID: route_reset_modal_promot
-TEXT: Mereset Rute akan menghapus segala informasi yang telah diinput. Tetap reset Rute ini?
-
-RESOURCE ID: route_reset_modal_title
-TEXT: RESET RUTE?
 
 RESOURCE ID: route_resume_label
 TEXT: LANJUTKAN RUTE
@@ -67426,14 +68546,8 @@ TEXT: Arah Rute dibalikkan.
 RESOURCE ID: route_reversible_notice_label
 TEXT: Rute ini dapat ditelusuri secara terbalik.
 
-RESOURCE ID: route_review_submission_page
-TEXT: Harap periksa kembali segala informasi yang dimasukkan sebelum mengajukan Rute.
-
 RESOURCE ID: route_review_submission_title
 TEXT: Tinjau Pengajuanmu
-
-RESOURCE ID: route_set_start_point
-TEXT: Jadikan titik awal
 
 RESOURCE ID: route_sort_category
 TEXT: Tema
@@ -67449,21 +68563,6 @@ TEXT: Terdekat
 
 RESOURCE ID: route_sort_rating
 TEXT: Nilai
-
-RESOURCE ID: route_spinning_add_to_route
-TEXT: Pemberhentian ini tidak termasuk dalam Rute ini. Tambahkan?
-
-RESOURCE ID: route_spinning_poi_out_of_order
-TEXT: Harap kunjungi PokéStop atau Gym dan putar Disk Fotonya sesuai dengan urutan Rute ini.
-
-RESOURCE ID: route_spinning_visit_poi
-TEXT: Mohon putar Disk Foto untuk memverifikasi pemberhentian ini.
-
-RESOURCE ID: route_stamp_category
-TEXT: DEFAULT
-
-RESOURCE ID: route_stamp_category_default
-TEXT: KOLEKSI STEMPEL
 
 RESOURCE ID: route_stamps_header
 TEXT: STEMPEL
@@ -67489,26 +68588,14 @@ TEXT: Ditolak
 RESOURCE ID: route_status_submitted
 TEXT: Sedang Ditinjau
 
-RESOURCE ID: route_status_time_stamp_saved
-TEXT: Terakhir Disimpan: {0}
-
 RESOURCE ID: route_status_time_stamp_submitted
 TEXT: Diajukan pada {0}
-
-RESOURCE ID: route_stop_button
-TEXT: Hentikan rute ini
 
 RESOURCE ID: route_stop_description
 TEXT: Jika berhenti menelusuri Rute ini, progresmu saat ini akan hilang. Tindakan ini tidak dapat dibatalkan.
 
 RESOURCE ID: route_stop_report
 TEXT: Jika kamu mengalami isu di Rute ini yang membuatmu terhalang dalam menyelesaikannya, kamu dapat melaporkannya <color=#{0}>di sini</color>.
-
-RESOURCE ID: route_stop_start_new_button
-TEXT: Mulai rute baru
-
-RESOURCE ID: route_stop_start_new_button_same_route
-TEXT: MULAI ULANG
 
 RESOURCE ID: route_stop_title
 TEXT: Yakin ingin berhenti menelusuri rute ini?
@@ -67517,7 +68604,7 @@ RESOURCE ID: route_stop_toast
 TEXT: Rute dihentikan.
 
 RESOURCE ID: route_submission_abandon_back_button
-TEXT: BACK
+TEXT: KEMBALI
 
 RESOURCE ID: route_submission_abandon_body
 TEXT: Progresmu akan disimpan. Kamu dapat melanjutkan Pembuatan Rute kapan saja dari Profil-mu.
@@ -67549,14 +68636,8 @@ TEXT: Gambar Rute tidak valid
 RESOURCE ID: route_submission_bad_name
 TEXT: Judul mengandung konten yang tidak pantas atau terlarang
 
-RESOURCE ID: route_submission_badge_creation_title
-TEXT: Pembuatan Medali
-
 RESOURCE ID: route_submission_badge_image_prompt
 TEXT: Pilih gambar untuk Lencana Rutemu:
-
-RESOURCE ID: route_submission_choose_icon
-TEXT: Pilih gambar untuk medali Rute ini.
 
 RESOURCE ID: route_submission_color_tab_name
 TEXT: WARNA
@@ -67586,9 +68667,9 @@ RESOURCE ID: route_submission_name_placeholder
 TEXT: Tambah Judul Rute
 
 RESOURCE ID: route_submission_next_steps
-TEXT: The next step is to name and describe your Route.
+TEXT: Langkah selanjutnya adalah berikan judul dan deskripsi Rute.
 
-It might take a few minutes for you to write a description, and doing so will help speed up the approval process. Don’t worry—your progress will be saved if you exit!
+Menuliskan deskripsi mungkin memakan beberapa menit, tetapi dengan itu akan mempercepat proses persetujuan. Jangan khawatir—progresmu akan disimpan jika kamu keluar!
 
 RESOURCE ID: route_submission_path
 TEXT: Jalur
@@ -67617,6 +68698,9 @@ TEXT: Rutemu telah dipublikasi!
 RESOURCE ID: route_submission_result_reject_description
 TEXT: Rutemu telah ditolak karena judul dan/atau deskripsinya mengandung ungkapan atau tautan yang tidak pantas. Rute ini tidak dapat di edit dan diajukan ulang.
 
+RESOURCE ID: route_submission_result_reject_reasons_generic
+TEXT: Rute tidak memenuhi persyaratan Rute atau melanggar panduan Rute kami.
+
 RESOURCE ID: route_submission_result_reject_reasons_primary
 TEXT: Rutemu ditolak karena alasan berikut:
 
@@ -67632,20 +68716,14 @@ TEXT: Kamu dapat memeriksa status pengajuan via menu Rute di halaman Profil Pela
 RESOURCE ID: route_submission_result_success_title
 TEXT: Pengajuan Rute untuk ditinjau berhasil!
 
-RESOURCE ID: route_submission_result_too_many_recent
-TEXT: Terlalu banyak mengajukan Rute! Tunggu dan coba lagi nanti.
-
 RESOURCE ID: route_submission_result_unavailiable
 TEXT: Pengajuan Rute tidak tersedia. Coba lagi nanti.
 
 RESOURCE ID: route_submission_result_unknown_error
 TEXT: Terjadi kesalahan yang tidak diketahui dalam pengajuan Rute. Coba lagi nanti.
 
-RESOURCE ID: route_submission_result_unvisited_fort
-TEXT: Harap kunjungi semua PokéStop atau Gym sesuai dengan urutan Rute ini.
-
 RESOURCE ID: route_submission_reversible
-TEXT: Can this Route be followed in reverse?
+TEXT: Apakah Rute ini dapat ditelusuri secara terbalik?
 
 RESOURCE ID: route_submission_review_adjust
 TEXT: LAKUKAN PENYESUAIAN
@@ -67669,7 +68747,7 @@ RESOURCE ID: route_submission_show_name
 TEXT: Apakah kamu ingin menampilkan nama Pelatihmu di deskripsi Rute? Ini akan membuat Pelatih lain dapat melihat namamu.
 
 RESOURCE ID: route_submission_start_title
-TEXT: Nama Rutemu
+TEXT: Detail Rutemu
 
 RESOURCE ID: route_submission_status_decayed
 TEXT: Diarsipkan pada {0}
@@ -67694,12 +68772,6 @@ TEXT: Tulis Sekarang
 
 RESOURCE ID: route_submit_label
 TEXT: KIRIM
-
-RESOURCE ID: route_submitted_confirmation_description
-TEXT: Pengajuan Rute sukses! Hasil peninjauan akan ditampilkan pada halaman Pembuat Rute milikmu.
-
-RESOURCE ID: route_submitted_confirmation_title
-TEXT: Selamat!
 
 RESOURCE ID: route_tag_art
 TEXT: Seni
@@ -67803,68 +68875,11 @@ TEXT: Pembatalan peninjauan Rute ini berhasil.
 RESOURCE ID: route_unsubmit_label
 TEXT: BATALKAN PENGAJUAN
 
-RESOURCE ID: route_validation_celebration
-TEXT: Rutemu telah diverifikasi! Tambahkan informasi ke Rute yang telah dibuat.
-
-RESOURCE ID: route_validation_description
-TEXT: Mohon selesaikan permasalahan berikut sebelum mengajukan Rute ini.
-
 RESOURCE ID: route_validation_description_length
-TEXT: Route descriptions cannot exceed {0} characters.
-
-RESOURCE ID: route_validation_first_waypoint
-TEXT: Titik awal Rute harus berupa PokéStop atau Gym.
-
-RESOURCE ID: route_validation_last_waypoint
-TEXT: Pemberhentian akhir Rute harus berupa PokéStop atau Gym.
-
-RESOURCE ID: route_validation_max_checkpoint
-TEXT: Routes cannot have more than {0} stops.
-
-RESOURCE ID: route_validation_max_checkpoint_between_poi
-TEXT: There cannot be more than {0} checkpoints between stops #{1} and #{2}.
-
-RESOURCE ID: route_validation_max_checkpoint_per_distance
-TEXT: Routes can have one additional stop per {0} meters. Too many stops have been added.
-
-RESOURCE ID: route_validation_max_distance_checkpoint
-TEXT: Jarak Pemberhentian #{0} tidak boleh lebih dari {1}.
-
-RESOURCE ID: route_validation_max_distance_poi
-TEXT: Jarak antara pemberhentian #{0} dan #{1} tidak boleh melebihi {2} meter.
-
-RESOURCE ID: route_validation_max_length
-TEXT: Jarak Rute tidak boleh lebih dari {0} meter.
-
-RESOURCE ID: route_validation_max_poi
-TEXT: Rute tidak boleh terisi lebih dari {0} PokéStop atau Gym.
-
-RESOURCE ID: route_validation_min_distance_checkpoint
-TEXT: Pemberhentian #{0} minimal harus berada dalam jarak {1}.
-
-RESOURCE ID: route_validation_min_distance_poi
-TEXT: Jarak antara pemberhentian #{0} dan #{1} harus melebihi {2} meter.
-
-RESOURCE ID: route_validation_min_length
-TEXT: Jarak Rute tidak boleh kurang dari {0} meter.
-
-RESOURCE ID: route_validation_min_poi
-TEXT: Rute harus terisi minimal {0} PokéStop atau Gym.
-
-RESOURCE ID: route_validation_poi_not_verified
-TEXT: Pemberhentian #{0} perlu diverifikasi. Harap kunjungi dan putar Disk Foto-nya.
-
-RESOURCE ID: route_validation_pois_not_loaded
-TEXT: Kamu berada terlalu jauh dari pemberhentian Rute ini
-
-RESOURCE ID: route_validation_title
-TEXT: Validasi Rute
+TEXT: Deskripsi Rute tidak boleh lebih dari {0} huruf.
 
 RESOURCE ID: route_validation_title_length
 TEXT: Judul Rute tidak boleh lebih dari {0} huruf.
-
-RESOURCE ID: route_view_stamp_button
-TEXT: Rincian Rute:
 
 RESOURCE ID: route_waiting_for_data
 TEXT: Menunggu data memuat
@@ -67872,32 +68887,11 @@ TEXT: Menunggu data memuat
 RESOURCE ID: route_walk_button
 TEXT: JELAJAHI
 
-RESOURCE ID: route_walking_all_waypoints_verified
-TEXT: Kerja bagus! Kamu telah mengunjungi semua pemberhentian pada Rute ini!
-
-RESOURCE ID: route_walking_context_page
-TEXT: Jalan dan putar Disk Foto tiap PokéStop atau Gym.
-
-RESOURCE ID: route_walking_context_title
-TEXT: Telusuri Rutemu
-
-RESOURCE ID: route_walking_first_poi_spin
-TEXT: This is the starting point that you selected. Please spin the Photo Disc at this PokéStop or Gym to confirm it.
-
 RESOURCE ID: route_walking_follow_path
 TEXT: Telusuri jalur hingga titik akhir Rute untuk menyelesaikan Rute ini.
 
 RESOURCE ID: route_walking_head_to_start
 TEXT: Pergi ke titik awal untuk memulai Rute.
-
-RESOURCE ID: route_walking_head_to_waypoint
-TEXT: Harap kunjungi pemberhentian #{0}—{1} dan putar Disk Fotonya.
-
-RESOURCE ID: route_walking_poi_spin
-TEXT: This is stop #{0}: {1}. Please spin the Photo Disc at this PokéStop or Gym to confirm it.
-
-RESOURCE ID: route_walking_poi_verified
-TEXT: Rute PokéStop atau Gym telah diverifikasi.
 
 RESOURCE ID: route_weekly_community_activity_label
 TEXT: AKTIVITAS KOMUNITAS MINGGUAN
@@ -67907,15 +68901,6 @@ TEXT: Jumlah Ditelusuri
 
 RESOURCE ID: route_your_plays_label
 TEXT: PENELUSURANMU
-
-RESOURCE ID: route_zero_route_maker_desc
-TEXT: Tidak memiliki Pembuat Rute. Pembuat Rute dibutuhkan untuk membuat Rute baru.
-
-RESOURCE ID: routemaker_description
-TEXT: Alat untuk membuat Rute. Dapat memiliki hingga 5 Rute dalam satu waktu.
-
-RESOURCE ID: routemaker_title
-TEXT: Pembuat Rute
 
 RESOURCE ID: routes_begin_creation_button
 TEXT: Konfirmasi dan Proses
@@ -67938,8 +68923,8 @@ TEXT: Merupakan titik awal saat ini.
 RESOURCE ID: routes_end_at
 TEXT: Berakhir Di:
 
-RESOURCE ID: routes_general
-TEXT: Pembuat Rute
+RESOURCE ID: routes_nearby_notification
+TEXT: Ada Rute di dekatmu!
 
 RESOURCE ID: routes_no_endpoint_selection_made
 TEXT: Tidak Ada yang Dipilih
@@ -68252,6 +69237,78 @@ TEXT: Safari Zone: Gunakan {0} Beri Razz untuk mempermudah penangkapan Pokémon
 
 RESOURCE ID: safari_buddy_snapshot
 TEXT: Safari Zone: Ambil foto partnermu
+
+RESOURCE ID: safari_city_leave_behind_title_barcelona
+TEXT: Barcelona City Safari: The Journey Continues
+
+RESOURCE ID: safari_city_leave_behind_title_barcelona_00
+TEXT: Barcelona City Safari: The Journey Continues (1/7)
+
+RESOURCE ID: safari_city_leave_behind_title_barcelona_01
+TEXT: Barcelona City Safari: The Journey Continues (2/7)
+
+RESOURCE ID: safari_city_leave_behind_title_barcelona_02
+TEXT: Barcelona City Safari: The Journey Continues (3/7)
+
+RESOURCE ID: safari_city_leave_behind_title_barcelona_03
+TEXT: Barcelona City Safari: The Journey Continues (4/7)
+
+RESOURCE ID: safari_city_leave_behind_title_barcelona_04
+TEXT: Barcelona City Safari: The Journey Continues (5/7)
+
+RESOURCE ID: safari_city_leave_behind_title_barcelona_05
+TEXT: Barcelona City Safari: The Journey Continues (6/7)
+
+RESOURCE ID: safari_city_leave_behind_title_barcelona_06
+TEXT: Barcelona City Safari: The Journey Continues (7/7)
+
+RESOURCE ID: safari_city_leave_behind_title_mxc
+TEXT: Mexico City Safari: The Journey Continues
+
+RESOURCE ID: safari_city_leave_behind_title_mxc_00
+TEXT: Mexico City Safari: The Journey Continues (1/7)
+
+RESOURCE ID: safari_city_leave_behind_title_mxc_01
+TEXT: Mexico City Safari: The Journey Continues (2/7)
+
+RESOURCE ID: safari_city_leave_behind_title_mxc_02
+TEXT: Mexico City Safari: The Journey Continues (3/7)
+
+RESOURCE ID: safari_city_leave_behind_title_mxc_03
+TEXT: Mexico City Safari: The Journey Continues (4/7)
+
+RESOURCE ID: safari_city_leave_behind_title_mxc_04
+TEXT: Mexico City Safari: The Journey Continues (5/7)
+
+RESOURCE ID: safari_city_leave_behind_title_mxc_05
+TEXT: Mexico City Safari: The Journey Continues (6/7)
+
+RESOURCE ID: safari_city_leave_behind_title_mxc_06
+TEXT: Mexico City Safari: The Journey Continues (7/7)
+
+RESOURCE ID: safari_city_leave_behind_title_seoul
+TEXT: Seoul City Safari: The Journey Continues
+
+RESOURCE ID: safari_city_leave_behind_title_seoul_00
+TEXT: Seoul City Safari: The Journey Continues (1/7)
+
+RESOURCE ID: safari_city_leave_behind_title_seoul_01
+TEXT: Seoul City Safari: The Journey Continues (2/7)
+
+RESOURCE ID: safari_city_leave_behind_title_seoul_02
+TEXT: Seoul City Safari: The Journey Continues (3/7)
+
+RESOURCE ID: safari_city_leave_behind_title_seoul_03
+TEXT: Seoul City Safari: The Journey Continues (4/7)
+
+RESOURCE ID: safari_city_leave_behind_title_seoul_04
+TEXT: Seoul City Safari: The Journey Continues (5/7)
+
+RESOURCE ID: safari_city_leave_behind_title_seoul_05
+TEXT: Seoul City Safari: The Journey Continues (6/7)
+
+RESOURCE ID: safari_city_leave_behind_title_seoul_06
+TEXT: Seoul City Safari: The Journey Continues (7/7)
 
 RESOURCE ID: safari_event
 TEXT: Pokémon GO Safari Zone
@@ -68631,11 +69688,41 @@ TEXT: Hari Penelitian Pencarian Emas: Penelitian Berwaktu
 RESOURCE ID: season10_tr_willow_title
 TEXT: Lemari Willow
 
+RESOURCE ID: season12_branch_1_button_key
+TEXT: Petualangan dengan Sprigatito
+
+RESOURCE ID: season12_branch_1_description_key
+TEXT: Pilih opsi ini untuk bertualang bersama Sprigatito!
+
+RESOURCE ID: season12_branch_1_title_key
+TEXT: Petualangan dengan Sprigatito
+
+RESOURCE ID: season12_branch_2_button_key
+TEXT: Petualangan dengan Fuecoco
+
+RESOURCE ID: season12_branch_2_description_key
+TEXT: Pilih opsi ini untuk bertualang bersama Fuecoco!
+
+RESOURCE ID: season12_branch_2_title_key
+TEXT: Petualangan dengan Fuecoco
+
+RESOURCE ID: season12_branch_3_button_key
+TEXT: Petualangan dengan Quaxly
+
+RESOURCE ID: season12_branch_3_description_key
+TEXT: Pilih opsi ini untuk bertualang bersama Quaxly!
+
+RESOURCE ID: season12_branch_3_title_key
+TEXT: Petualangan dengan Quaxly
+
 RESOURCE ID: season_gbl_forecast_title_10
 TEXT: Musim 10: Kebangkitan Hero
 
 RESOURCE ID: season_gbl_forecast_title_11
 TEXT: Pokémon GO: Permata Tersembunyi
+
+RESOURCE ID: season_gbl_forecast_title_12
+TEXT: Pokémon GO: Penuh Petualangan
 
 RESOURCE ID: season_gbl_forecast_title_7
 TEXT: Musim GO
@@ -69027,6 +70114,12 @@ TEXT: Yakin ingin refresh data game?
 
 RESOURCE ID: settings_resources_str
 TEXT: Sumber Data
+
+RESOURCE ID: settings_route_guidance
+TEXT: Notifikasi Rute
+
+RESOURCE ID: settings_route_guidance_tip
+TEXT: Memberikan notifikasi saat kamu mendekati titik akhir Rute atau kemunculan sesuatu yang misterius.
 
 RESOURCE ID: settings_select_legendary_label
 TEXT: Perluas Grup Transfer
@@ -70198,6 +71291,9 @@ TEXT: Lebih banyak Fennekin yang muncul di alam liar!
 
 RESOURCE ID: spawn_fletchling
 TEXT: Lebih banyak Fletchling yang muncul di alam liar
+
+RESOURCE ID: spawn_froakie
+TEXT: Lebih banyak Froakie yang muncul di alam liar
 
 RESOURCE ID: spawn_gastly
 TEXT: Lebih banyak Gastly yang muncul di alam liar
@@ -72517,7 +73613,7 @@ TEXT: Pemberitahuan Penangguhan Akun
  Penangguhan ini akan berlangsung selama sekitar 30 hari. Pelanggaran lebih lanjut akan mengakibatkan penangguhan akun secara permanen.
 
 RESOURCE ID: suspension_rate_limit_desc
-TEXT: <0>Serangan ke-1 (24 jam):</0><1/>Kami telah mendeteksi aktivitas yang tidak biasa dari akun Anda dan telah membatasi permainan Anda untuk sementara waktu.
+TEXT: Kami telah mendeteksi aktivitas yang tidak biasa dari akun Anda. Permainan Anda telah dibatasi untuk sementara waktu.
 
 RESOURCE ID: switch_sleep_warning
 TEXT: Jangan matikan atau gunakan mode tidur smartphone saat menghubungkan ke Nintendo Switch,.
@@ -72800,6 +73896,9 @@ TEXT: Tiket untuk Penelitian Spesial: Berbulu dan Berapi tersedia di toko
 RESOURCE ID: ticket_fletchling
 TEXT: Tiket untuk cerita Penelitian Spesial: Burung Paling Berani tersedia di toko
 
+RESOURCE ID: ticket_froakie
+TEXT: Tiket untuk cerita Penelitian Spesial: Gelembung Gembung tersedia di toko
+
 RESOURCE ID: ticket_gastly
 TEXT: Tiket untuk cerita Penelitian Spesial: Gastly yang Hebat tersedia di toko
 
@@ -73025,6 +74124,9 @@ TEXT: Nidoran♀ and Nidoran♂ terpilih dalam Penelitian Berwaktu
 
 RESOURCE ID: timed_research_pokemon_snubbull
 TEXT: Snubbull terpilih dalam Penelitian Berwaktu
+
+RESOURCE ID: timed_trial_mb_research_title
+TEXT: Percobaan Berwaktu: Bola Master
 
 RESOURCE ID: tips_battle_at_gyms_tutorial_body
 TEXT: Kamu dapat mengeklaim Gym yang dikendalikan oleh tim lawan dengan mengalahkan Pokémon di Gym. Jika kamu menurunkan motivasi semua Pokémon di Gym menjadi nol, kamu dapat mengeklaim Gym untuk timmu.
@@ -74880,6 +75982,12 @@ TEXT: Unggahan selesai!
 RESOURCE ID: upmgmt_summary_thanks
 TEXT: Terima kasih atas kontribusimu.
 
+RESOURCE ID: usa_gofest_2023_global_event_name
+TEXT: Rawa Toksik
+
+RESOURCE ID: usa_timed_header_0
+TEXT: Rawa Toksik: Penelitian Berwaktu
+
 RESOURCE ID: use_now_button
 TEXT: PAKAI SEKARANG
 
@@ -75147,7 +76255,7 @@ RESOURCE ID: vss_badge_expert
 TEXT: Ahli
 
 RESOURCE ID: vss_badge_legend
-TEXT: Legendaris
+TEXT: Legenda
 
 RESOURCE ID: vss_badge_veteran
 TEXT: Veteran
@@ -75374,9 +76482,6 @@ TEXT: km
 RESOURCE ID: walk_steps
 TEXT: langkah
 
-RESOURCE ID: walked_label
-TEXT: BERJALAN
-
 RESOURCE ID: water_festival_catch_timed_research
 TEXT: Festival Air: Tantangan Tangkapan
 
@@ -75440,6 +76545,60 @@ TEXT: Pokémon GO - Pokémon World Championship 2022 di London, Inggris
 RESOURCE ID: wcs_2022_title
 TEXT: Pokémon World Championship 2022
 
+RESOURCE ID: wcs_2023_battle_tr_description
+TEXT: Pokémon World Championship 2023: Bonus Penelitian Berwaktu
+
+RESOURCE ID: wcs_2023_battle_tr_dialogue_00
+TEXT: Halo, %PLAYERNAME%! Sudah siap persiapanmu untuk bertarung?
+
+RESOURCE ID: wcs_2023_battle_tr_dialogue_01
+TEXT: Bagus! Sekarang pilih Pokémon yang ingin kamu latih!
+
+RESOURCE ID: wcs_2023_battle_tr_path_a
+TEXT: Pilih Skarmory
+
+RESOURCE ID: wcs_2023_battle_tr_path_a_desc
+TEXT: Pilih opsi ini untuk membentuk dan melatih tim untuk Liga Great yang terdiri dari Skarmory, Swampert, dan Vigoroth.
+
+RESOURCE ID: wcs_2023_battle_tr_path_b
+TEXT: Pilih Trevenant
+
+RESOURCE ID: wcs_2023_battle_tr_path_b_desc
+TEXT: Pilih opsi ini untuk membentuk dan melatih tim untuk Liga Great yang terdiri dari Noctowl, Lanturn, dan Trevenant.
+
+RESOURCE ID: wcs_2023_battle_tr_path_c
+TEXT: Pilih Azumarill
+
+RESOURCE ID: wcs_2023_battle_tr_path_c_desc
+TEXT: Pilih opsi ini untuk membentuk dan melatih tim untuk Liga Great yang terdiri dari Azumarill, Umbreon, dan Mandibuzz.
+
+RESOURCE ID: wcs_2023_battle_tr_title
+TEXT: Kehebatan di Liga Great
+
+RESOURCE ID: wcs_2023_battle_tr_title_00
+TEXT: Kehebatan di Liga Great (1/3)
+
+RESOURCE ID: wcs_2023_battle_tr_title_01
+TEXT: Kehebatan di Liga Great (2/3)
+
+RESOURCE ID: wcs_2023_battle_tr_title_02
+TEXT: Kehebatan di Liga Great (3/3)
+
+RESOURCE ID: wcs_2023_champion_tr_description
+TEXT: Pokémon World Championship 2023: Bonus Penelitian Berwaktu
+
+RESOURCE ID: wcs_2023_champion_tr_title
+TEXT: Jawaranya DancingRob
+
+RESOURCE ID: wcs_2023_champion_tr_title_00
+TEXT: Jawaranya DancingRob (1/2)
+
+RESOURCE ID: wcs_2023_champion_tr_title_01
+TEXT: Jawaranya DancingRob (2/2)
+
+RESOURCE ID: wcs_2023_yokohama_event_title
+TEXT: Pokémon World Championship 2023, Yokohama
+
 RESOURCE ID: wcs_aug23_header_0
 TEXT: Pokémon World Championship 2023
 
@@ -75487,6 +76646,27 @@ TEXT: Kamu bisa mendapatkan item avatar Kaus eksklusif dengan memutar PokéStop 
 
 RESOURCE ID: wcs_collection_title
 TEXT: Tantangan Koleksi WCS 2022
+
+RESOURCE ID: wcs_froakie_bonus_tr_desc
+TEXT: Hari Komunitas Froakie - Bonus Penelitian Berwaktu
+
+RESOURCE ID: wcs_froakie_bonus_tr_title
+TEXT: Hari Komunitas Froakie - Bonus Penelitian Berwaktu
+
+RESOURCE ID: wcs_froakie_bonus_tr_title_00
+TEXT: Hari Komunitas Froakie - Bonus Penelitian Berwaktu (1/5)
+
+RESOURCE ID: wcs_froakie_bonus_tr_title_01
+TEXT: Hari Komunitas Froakie - Bonus Penelitian Berwaktu (2/5)
+
+RESOURCE ID: wcs_froakie_bonus_tr_title_02
+TEXT: Hari Komunitas Froakie - Bonus Penelitian Berwaktu (3/5)
+
+RESOURCE ID: wcs_froakie_bonus_tr_title_03
+TEXT: Hari Komunitas Froakie - Bonus Penelitian Berwaktu (4/5)
+
+RESOURCE ID: wcs_froakie_bonus_tr_title_04
+TEXT: Hari Komunitas Froakie - Bonus Penelitian Berwaktu (5/5)
 
 RESOURCE ID: wcs_implicit_social_description
 TEXT: Jika 20 Pelatih bekerja sama untuk memenangkan Pertarungan Raid, Pokémon event khusus akan muncul di dekat Gym selama 10 menit!
@@ -75730,4 +76910,10 @@ TEXT: Kode referral-mu telah diubah.
 
 RESOURCE ID: your_trainer_code_title
 TEXT: Kode Pelatihku
+
+RESOURCE ID: zygarde_tappable_push_notification
+TEXT: Sesuatu muncul!
+
+RESOURCE ID: zygarde_tappable_push_notification_description
+TEXT: Buka Pokémon GO dan selidiki.
 

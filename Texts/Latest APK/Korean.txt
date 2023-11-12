@@ -6087,6 +6087,18 @@ TEXT: 파트너 리서치- 숨겨진 보석: Don Quijote
 RESOURCE ID: badge_event_0068_title
 TEXT: 파트너 리서치: Don Quijote
 
+RESOURCE ID: badge_event_0073
+TEXT: 포켓몬 월드챔피언십2023 보너스 시간제한 리서치
+
+RESOURCE ID: badge_event_0073_title
+TEXT: 슈퍼리그 스페셜
+
+RESOURCE ID: badge_event_0074
+TEXT: 포켓몬 월드챔피언십2023 보너스 시간제한 리서치
+
+RESOURCE ID: badge_event_0074_title
+TEXT: DancingRob님의 배틀 팀
+
 RESOURCE ID: badge_event_yoshinoya
 TEXT: May 2021 - Yoshinoya
 
@@ -6104,12 +6116,6 @@ TEXT: 2019년 11월 2일
 
 RESOURCE ID: badge_global_ticketed_event_title
 TEXT: 거대 포켓몬의 수수께끼를 풀어라!
-
-RESOURCE ID: badge_gofest2023_global
-TEXT: 2023년 8월 26일, 27일
-
-RESOURCE ID: badge_gofest2023_global_title
-TEXT: Pokémon GO Fest 2023
 
 RESOURCE ID: badge_gofest_2019_americas_day_00_north_earlyaccess
 TEXT: 2019년 6월 12일 시카고(북)
@@ -6680,6 +6686,12 @@ TEXT: 글로벌, 2022년 6월 4일~5일& 8월 27일
 
 RESOURCE ID: badge_gofest_2022_test_title
 TEXT: Pokémon GO Fest 2022
+
+RESOURCE ID: badge_gofest_2023_global
+TEXT: 2023년 8월 26일, 27일
+
+RESOURCE ID: badge_gofest_2023_global_title
+TEXT: Pokémon GO Fest 2023
 
 RESOURCE ID: badge_gofest_2023_london_addon_hatch
 TEXT: 런던, 2023년 8월 4일~6일
@@ -11168,6 +11180,9 @@ TEXT: 신뇽을 망나뇽으로 진화시키면 스페셜 어택 용성군을 �
 RESOURCE ID: bonus_cd_move_fennekin
 TEXT: 테르나를 마폭시로 진화시키면 블라스트번을 배운다
 
+RESOURCE ID: bonus_cd_move_froakie
+TEXT: 개굴반장을 개굴닌자로 진화시키면 스페셜 어택 하이드로캐논을 배운다
+
 RESOURCE ID: bonus_cd_move_larvitar_cdc
 TEXT: 데기라스를 마기라스로 진화시키면 떨어뜨리기를 배우고 있다
 
@@ -11233,6 +11248,12 @@ TEXT: 정시에 형광어가 대량발생
 
 RESOURCE ID: bonus_fr_party_pikachu
 TEXT: 미트앤그릿 포켓스톱의 필드리서치 과제를 완료하면 파티 모자를 쓴 피카츄를 만날 수 있다
+
+RESOURCE ID: bonus_friendship_levelup_1.5x
+TEXT: 1.5× XP from increasing Friendship levels
+
+RESOURCE ID: bonus_friendship_levelup_2x
+TEXT: 2× XP from increasing Friendship levels
 
 RESOURCE ID: bonus_friendship_raid_double
 TEXT: 2× 프렌드와 함께시 레이드 데미지 보너스
@@ -11302,6 +11323,9 @@ TEXT: 커뮤니티 데이 챌린지: 레이드
 
 RESOURCE ID: bonus_implicit_social_fennekin_raid
 TEXT: 트레이너가 협력해서 레이드배틀에서 테르나를 이기면 그 체육관 주변에 30분동안 푸호꼬가 나타남
+
+RESOURCE ID: bonus_implicit_social_froakie_raid
+TEXT: 트레이너가 협력해 레이드배틀에서 개굴반장을 이기면 그 체육관 주변에 30분동안 개구마르가 나타남
 
 RESOURCE ID: bonus_implicit_social_litwick_raid
 TEXT: 트레이너가 협력해서 레이드배틀에서 램프라를 이기면 그 체육관 주변에 30분동안 불켜미가 나타남
@@ -11474,6 +11498,9 @@ TEXT: 1/2 알 부화 거리
 RESOURCE ID: bonus_reward_quarter_hatch_distance
 TEXT: 1/4 알 부화 거리
 
+RESOURCE ID: bonus_rrp_limit_uncap
+TEXT: 리모트 레이드의 하루 제한 없음
+
 RESOURCE ID: bonus_singapore_photobomb
 TEXT: GO스냅샷에서 코산호와 나무열매 티셔츠 피카츄 서프라이즈 5회
 
@@ -11539,6 +11566,12 @@ TEXT: 이벤트 진행 중과 종료 후 5시간 동안 진행 되는 교환에 
 
 RESOURCE ID: bonus_unlocked
 TEXT: 보너스 언록!
+
+RESOURCE ID: bonus_versioned_field_research_2x_daily
+TEXT: 포켓스톱에서 필드리서치가 2건(오전, 오후 1번씩) 나온다
+
+RESOURCE ID: bonus_xl_candy_5x
+TEXT: 포켓몬을 잡았을 때 받는 사탕XL의 확률 대폭 업
 
 RESOURCE ID: bonus_xl_candy_nice_great_excel
 TEXT: Nice 이상 나오게 포켓몬을 잡았을 때 사탕XL 확률 업
@@ -14308,6 +14341,9 @@ TEXT: 타이완 등불축제 2023
 RESOURCE ID: collection_twlantern2023_description
 TEXT: 다음 포켓몬을 타이완 등불 축제에서 잡아 보자!
 
+RESOURCE ID: collection_wcs2023_irl_bonus
+TEXT: 포켓몬 월드챔피언십 콜렉션 챌린지 
+
 RESOURCE ID: color_cup_great_title
 TEXT: 4색컵: 슈퍼리그 버전
 
@@ -15046,6 +15082,9 @@ TEXT: 시즌10: 라이징 히어로
 RESOURCE ID: combat_title_season_11
 TEXT: GO배틀리그: 숨겨진 보석
 
+RESOURCE ID: combat_title_season_12
+TEXT: GO Battle League: Adventures Abound
+
 RESOURCE ID: combat_title_season_7
 TEXT: GO Battle League Season of GO Schedule
 
@@ -15117,6 +15156,9 @@ TEXT: 커뮤니티 데이: 푸호꼬
 
 RESOURCE ID: community_day_fletchling_event_name
 TEXT: 커뮤니티 데이: 화살꼬빈
+
+RESOURCE ID: community_day_froakie_event_name
+TEXT: 커뮤니티 데이: 개구마르
 
 RESOURCE ID: community_day_gastly_event_name
 TEXT: 커뮤니티 데이: 고오스
@@ -15571,9 +15613,6 @@ TEXT: 태그를 작성하지 못했습니다.
 RESOURCE ID: create_tag_gui_title
 TEXT: 태크 작성
 
-RESOURCE ID: created_by_label
-TEXT: Created By
-
 RESOURCE ID: created_routes_title
 TEXT: 작성한 루트
 
@@ -15978,7 +16017,7 @@ RESOURCE ID: download_all_assets_all_downloaded
 TEXT: 모든 에셋 다운로드 완료
 
 RESOURCE ID: download_all_assets_checking_assets_indicator
-TEXT: Checking assets...
+TEXT: 에셋 확인 중....
 
 RESOURCE ID: download_all_assets_complete_description
 TEXT: 다운로드가 완료했습니다.
@@ -16040,7 +16079,7 @@ RESOURCE ID: download_all_assets_title
 TEXT: 에셋 다운로드
 
 RESOURCE ID: download_all_assets_verifying_download_indicator
-TEXT: Verifying download...
+TEXT: 다운로드 확인 중....
 
 RESOURCE ID: download_all_assets_wifi_lost
 TEXT: Wi-Fi 접속이 끊겨 다운로드를 완료할 수 없었습니다. Wi-Fi에 접속하고 다시 시도해 주십시오.
@@ -17423,6 +17462,9 @@ TEXT: 시즌10: 라이징 히어로
 RESOURCE ID: event_season11_name
 TEXT: 현재 시즌: 숨겨진 보석
 
+RESOURCE ID: event_season12_name
+TEXT: Current Season: Adventures Abound
+
 RESOURCE ID: event_season1_name
 TEXT: 기념 시즌
 
@@ -18423,6 +18465,9 @@ TEXT: 하이한 모습
 RESOURCE ID: form_antique
 TEXT: 진작폼
 
+RESOURCE ID: form_apex
+TEXT: 완전형태
+
 RESOURCE ID: form_arceus_bug
 TEXT: Bug-Type
 
@@ -18491,6 +18536,9 @@ TEXT: 이글이글스타일
 
 RESOURCE ID: form_black
 TEXT: 블랙큐레무
+
+RESOURCE ID: form_blue
+TEXT: 블루 페더
 
 RESOURCE ID: form_blue_striped
 TEXT: 청색근의 모습
@@ -18600,6 +18648,9 @@ TEXT: Crowned Shield
 RESOURCE ID: form_crowned_sword
 TEXT: Crowned Sword
 
+RESOURCE ID: form_curly
+TEXT: 젖힌 모습
+
 RESOURCE ID: form_darmanitan_standard
 TEXT: 노말모드
 
@@ -18627,11 +18678,20 @@ TEXT: Disguised Form
 RESOURCE ID: form_douse_drive
 TEXT: 아쿠아카세트
 
+RESOURCE ID: form_droopy
+TEXT: 늘어진 모습
+
 RESOURCE ID: form_dusk
 TEXT: 황혼의 모습
 
 RESOURCE ID: form_east_sea
 TEXT: 동쪽바다
+
+RESOURCE ID: form_family_of_four
+TEXT: 네 식구
+
+RESOURCE ID: form_family_of_three
+TEXT: 세 식구
 
 RESOURCE ID: form_fan
 TEXT: 스핀로토무
@@ -18756,6 +18816,9 @@ TEXT: 작은 사이즈
 RESOURCE ID: form_gourgeist_super
 TEXT: 특대 사이즈
 
+RESOURCE ID: form_green
+TEXT: 그린 페더
+
 RESOURCE ID: form_greninja_ash
 TEXT: Ash-Greninja
 
@@ -18864,6 +18927,12 @@ TEXT: Noice Face
 RESOURCE ID: form_normal
 TEXT: 캐스퐁의 모습
 
+RESOURCE ID: form_oinkologne_female
+TEXT: 암컷의 모습
+
+RESOURCE ID: form_oinkologne_male
+TEXT: 수컷의 모습
+
 RESOURCE ID: form_ordinary
 TEXT: 평상시 모습
 
@@ -18887,6 +18956,9 @@ TEXT: 오리진폼
 
 RESOURCE ID: form_overcast
 TEXT: 네거폼
+
+RESOURCE ID: form_palafin_hero
+TEXT: 마이티폼 
 
 RESOURCE ID: form_pau
 TEXT: 훌라훌라스타일
@@ -19038,8 +19110,14 @@ TEXT: 스피드폼
 RESOURCE ID: form_spring
 TEXT: 봄의 모습
 
+RESOURCE ID: form_squakabilly_white
+TEXT: 화이트 페더
+
 RESOURCE ID: form_standard_mode
 TEXT: 노말모드
+
+RESOURCE ID: form_stretchy
+TEXT: 뻗은 모습
 
 RESOURCE ID: form_summer
 TEXT: 여름의 모습
@@ -19056,6 +19134,9 @@ TEXT: 루비믹스
 RESOURCE ID: form_therian
 TEXT: 영물폼
 
+RESOURCE ID: form_three
+TEXT: 세 마디폼
+
 RESOURCE ID: form_thundurus_incarnate
 TEXT: 화신폼
 
@@ -19070,6 +19151,12 @@ TEXT: 영물폼
 
 RESOURCE ID: form_trash_cloak
 TEXT: 슈레도롱
+
+RESOURCE ID: form_two
+TEXT: 두 마디폼
+
+RESOURCE ID: form_ultimate
+TEXT: 컴플리트모드
 
 RESOURCE ID: form_vivillon_archipelago
 TEXT: 군도의 모양
@@ -19151,6 +19238,12 @@ TEXT: 군집의 모습
 
 RESOURCE ID: form_wishiwashi_solo
 TEXT: Solo Form
+
+RESOURCE ID: form_yellow
+TEXT: 옐로 페더
+
+RESOURCE ID: form_zero
+TEXT: 나이브폼
 
 RESOURCE ID: form_zygarde_complete
 TEXT: 퍼펙트폼
@@ -19494,7 +19587,7 @@ RESOURCE ID: gbl_quintuple_dust_win
 TEXT: 5x GO배틀리그 승리시 별의모래
 
 RESOURCE ID: gbl_sets_extra_ten_total
-TEXT: 10 total sets of battles in the GO Battle League
+TEXT: GO배틀리그 대전 10회
 
 RESOURCE ID: gbl_sets_extra_three
 TEXT: GO배틀리그 3대전 추가
@@ -19570,6 +19663,15 @@ TEXT: 전 세계 어디에 있어도 현지 시간 2023년 4월 29일 14시~ 17�
 
 RESOURCE ID: general1.ticket.2_aprilcdc2023_title
 TEXT: 2023년 4월 꾸꾸리 커뮤니티 데이(복각)
+
+RESOURCE ID: general1.ticket.2_augcd2023_description
+TEXT: 전 세계 어디에 있어도 현지 시간 2023년 8월 13일 14시~ 17시에 개구마르 커뮤니티 데이 스페셜리서치를 진행할 수 있는 티켓. 완료하면 개구마르와 그 진화형 포켓몬을 자주 만날 수 있으며 이상한사탕, 하이퍼볼 등의 도구를 손에 넣을 수 있습니다.
+
+자세한 내용은 게임 내 새소식에서 확인할 수 있습니다.
+이벤트를 최대한 즐기려면 기재된 개최 시간 내에 완료할 필요가 있습니다.
+
+RESOURCE ID: general1.ticket.2_augcd2023_title
+TEXT: 거품개구리포켓몬의 수수께끼를 풀어라!
 
 RESOURCE ID: general1.ticket.2_bulbt_description
 TEXT: 전 세계 어디에 있어도 현지 시간 2022년 1월 22일 14시~17시까지 이상해씨 커뮤니티 데이(복각) 스페셜리서치를 플레이할 수 있는 티켓. 자세한 내용은 게임 내 새소식에서 확인할 수 있습니다.
@@ -19990,7 +20092,7 @@ RESOURCE ID: general1.ticket.gbweekend_bundle_title
 TEXT: GO배틀 데이: 별의모래 시간제한 리서치
 
 RESOURCE ID: general1.ticket.gofest2023_alldetails
-TEXT: 전 세계 어디에 있어도 현지 시간 2023년 8월 26일, 27일에  Pokémon GO Fest 2023: 글로벌 스페셜리서치를 진행할 수 있는 티켓. 이 스페셜리서치를 완료하면 디안지와 만날 수 있습니다. 그 외 다음을 받을 수 있습니다.
+TEXT: 전 세계 어디에 있어도 현지 시간 2023년 8월 26일, 27일에  Pokémon GO Fest 2023: 글로벌 스페셜리서치를 진행할 수 있는 티켓. 이 스페셜리서치를 완료하면 디안시와 만날 수 있습니다. 그 외 다음을 받을 수 있습니다.
 -색이 다른 포켓몬과 만날 확률 업
 -대단한 기술머신스페셜, 대단한 기술머신노말, 이상한사탕
 -아바타 포즈와 의상 아이템
@@ -20293,7 +20395,7 @@ RESOURCE ID: general_paste
 TEXT: 붙여넣기
 
 RESOURCE ID: general_player_guidelines
-TEXT: Player Guidelines
+TEXT: 플레이어 가이드라인
 
 RESOURCE ID: general_pokemon
 TEXT: 포켓몬
@@ -20332,7 +20434,7 @@ RESOURCE ID: general_submit
 TEXT: 송신
 
 RESOURCE ID: general_submit_an_appeal
-TEXT: Submit an Appeal
+TEXT: 이의 신청
 
 RESOURCE ID: general_total_caps
 TEXT: TOTAL
@@ -25941,6 +26043,9 @@ TEXT: https://niantic.helpshift.com/a/pokemon-go/?p=all&s=top-articles&f=sharing
 RESOURCE ID: helpshift_sharing_game_logs
 TEXT: https://niantic.helpshift.com/hc/ko/6-pokemon-go/faq/3325-sharing-game-logs/
 
+RESOURCE ID: hindi
+TEXT: Hindi
+
 RESOURCE ID: hisui_cup_title
 TEXT: 히스이컵
 
@@ -26685,7 +26790,7 @@ RESOURCE ID: item_event_ticket_pink_bulbt_details
 TEXT: 이 티켓은 자동으로 활성화되어 현지시간 2022년 1월 22일에 스페셜리서치가 진행됩니다.
 
 RESOURCE ID: item_event_ticket_pink_desc
-TEXT: 현지시간 2023년 7월 30일 14:00~17:00까지 발챙이 커뮤니티 데이 스페셜리서치를 진행하기 위한 티켓.
+TEXT: 현지시간 2023년 8월 13일 14:00~17:00까지 개구마르 커뮤니티 데이 스페셜리서치를 진행하기 위한 티켓.
 
 RESOURCE ID: item_event_ticket_pink_desc_alodude
 TEXT: 현지시간 2022년 5월 21일 11시~14시에 스페셜리서치를 진행하기 위한 티켓.
@@ -26711,6 +26816,9 @@ TEXT: 현지 시간 2023년 6월 3일 14시~17시까지 '빛나는 리서치데�
 RESOURCE ID: item_event_ticket_pink_desc_mrmime
 TEXT: 현지시간 2020년 12월 19일 10시~ 12월 20일 20시에 스페셜리서치를 진행하기 위한 티켓.
 
+RESOURCE ID: item_event_ticket_pink_desc_poliwag
+TEXT: 현지시간 2023년 7월 30일 14:00~17:00까지 발챙이 커뮤니티 데이 스페셜리서치를 진행하기 위한 티켓.
+
 RESOURCE ID: item_event_ticket_pink_desc_squirtle
 TEXT: 꼬부기 커뮤니티 데이(복각) 스페셜리서치를 참가하기 위한 티켓.
 
@@ -26721,7 +26829,7 @@ RESOURCE ID: item_event_ticket_pink_desc_togetic
 TEXT: 현지 시간 2023년 4월 15일 14시~17시에 스페셜리서치를 진행하기 위한 티켓
 
 RESOURCE ID: item_event_ticket_pink_details
-TEXT: 이 티켓은 자동으로 활성화되어 현지시간 2023년 7월 30일에 "올챙이포켓몬의 수수께끼를 풀어라!" 스페셜리서치가 진행됩니다.
+TEXT: 이 티켓은 자동으로 활성화되어 현지시간 2023년8월 13일에 '거품개구리포켓몬의 수수께끼를 풀어라!' 스페셜리서치가 진행됩니다.
 
 RESOURCE ID: item_event_ticket_pink_details_axew
 TEXT: 이 티켓은 자동으로 활성화되어 현지 시간 2023년 6월 10일 14시~17시까지 스페셜리서치가 진행됩니다.
@@ -26743,6 +26851,9 @@ TEXT: 이 티켓은 자동으로 활성화 되어 현지시간 2023년 6월 3일
 
 RESOURCE ID: item_event_ticket_pink_details_mrmime
 TEXT: 이 티켓은 자동으로 활성화되어 현지시간 2020년12월 19일 10시~12월 20일 20시까지 스페셜리서치가 진행됩니다.
+
+RESOURCE ID: item_event_ticket_pink_details_poliwag
+TEXT: 이 티켓은 자동으로 활성화되어 현지시간 2023년 7월 30일에 "올챙이포켓몬의 수수께끼를 풀어라!" 스페셜리서치가 진행됩니다.
 
 RESOURCE ID: item_event_ticket_pink_details_squirtle
 TEXT: 이 티켓은 자동으로 활성화 되어 현지시간 2023년 7월 23일 14시~17시까지 꼬부기 커뮤니티 데이(복각) 스페셜리서치를 진행할 수 있습니다.
@@ -27208,12 +27319,6 @@ TEXT: 기절해 버린 포켓몬 1마리의 HP를 절반 회복한다.
 RESOURCE ID: item_revive_name
 TEXT: 기력의조각
 
-RESOURCE ID: item_route_maker_desc
-TEXT: 루트를 만들 수 있는 장치. 한번에 5개까지 지닐 수 있다.
-
-RESOURCE ID: item_route_maker_name
-TEXT: 루트 메이커
-
 RESOURCE ID: item_shadow_gem_desc
 TEXT: 그림자의 조각을 조합해서 빛을 비춰 만들어진 크리스탈. 폭주한 그림자 포켓몬을 진정시킬 수 있다.
 
@@ -27261,6 +27366,24 @@ TEXT: 팀을 변경할 수 있는 메달리온. 365일 사이에 1회만 숍에�
 
 RESOURCE ID: item_team_change_name
 TEXT: 팀변경 메달리온
+
+RESOURCE ID: item_ticket_city_safari_00_desc
+TEXT: A ticket to access the Special Research Seoul City Safari: The Journey Continues.
+
+RESOURCE ID: item_ticket_city_safari_00_name
+TEXT: Safari Ticket: Seoul
+
+RESOURCE ID: item_ticket_city_safari_01_desc
+TEXT: A ticket to access the Special Research Barcelona City Safari: The Journey Continues.
+
+RESOURCE ID: item_ticket_city_safari_01_name
+TEXT: Safari Ticket: Barcelona
+
+RESOURCE ID: item_ticket_city_safari_02_desc
+TEXT: A ticket to access the Special Research Mexico City Safari: The Journey Continues.
+
+RESOURCE ID: item_ticket_city_safari_02_name
+TEXT: Safari Ticket: Mexico City
 
 RESOURCE ID: item_troy_disk_desc
 TEXT: 포켓스톱에 사용하면 30분 동안 포켓몬을 불러냅니다. 주변 사람에게도 영향을 줍니다.
@@ -27564,9 +27687,6 @@ TEXT: 마지막 플레이: 2일 이전
 
 RESOURCE ID: last_played_yesterday
 TEXT: 마지막 플레이: 어제
-
-RESOURCE ID: last_time_activity_label
-TEXT: Last Time Activity
 
 RESOURCE ID: leader_map_assembled
 TEXT: 로켓레이더를 조립했다!
@@ -31147,9 +31267,9 @@ RESOURCE ID: mega_walking_progress
 TEXT: 걸어서 발견
 
 RESOURCE ID: metadata_local
-TEXT: Built at 2023-09-05T22:09:08.100530
-at SHA d365896004d0c49ae898e6ba22bc12199da9507a
-Pipeline 1726595, job 20964204
+TEXT: Built at 2023-09-08T08:09:58.647032
+at SHA abedd456fa33f1749c1b73b689b06e1e22fe245b
+Pipeline 1736915, job 21075377
 
 RESOURCE ID: mex_fighting_promo_title
 TEXT: 시간제한 리서치: 격투타입
@@ -33062,57 +33182,6 @@ TEXT: 스폰서의 AR 광고를 확인하고 아이템을 받자!
 RESOURCE ID: open_webar_sponsored_gift_button
 TEXT: AR 열기
 
-RESOURCE ID: ops_reject_i-ina
-TEXT: 이미지가 부적절함
-
-RESOURCE ID: ops_reject_i-nl
-TEXT: Niantic 로고는 사용할 수 없다
-
-RESOURCE ID: ops_reject_i-ppl
-TEXT: 이미지에 인물을 포함할 수 없습니다.
-
-RESOURCE ID: ops_reject_i-tmc
-TEXT: 이미지가 부적절함
-
-RESOURCE ID: ops_reject_or-dan
-TEXT: 안전하지 않거나 접근할 수 없다
-
-RESOURCE ID: ops_reject_or-h
-TEXT: 도로가 안전하지 않다
-
-RESOURCE ID: ops_reject_t-dan
-TEXT: 안전하지 않거나 접근할 수 없다
-
-RESOURCE ID: ops_reject_t-def
-TEXT: 텍스트가 부적절함
-
-RESOURCE ID: ops_reject_t-desc
-TEXT: 설명이 필요
-
-RESOURCE ID: ops_reject_t-ina
-TEXT: 텍스트가 부적절함
-
-RESOURCE ID: ops_reject_t-off
-TEXT: "공식" 루트는 작성할 수 없습니다
-
-RESOURCE ID: ops_reject_t-pii
-TEXT: 도로에 개인정보를 포함할 없습니다
-
-RESOURCE ID: ops_reject_t-sell
-TEXT: 텍스트가 부적절함
-
-RESOURCE ID: ops_reject_t-spam
-TEXT: 무관한 텍스트
-
-RESOURCE ID: ops_reject_t-test
-TEXT: 미완료
-
-RESOURCE ID: ops_reject_t-tmc
-TEXT: 텍스트 인용됨
-
-RESOURCE ID: ops_reject_t-url
-TEXT: 텍스트에 HTML이나 메일주소를 넣을 수 없습니다
-
 RESOURCE ID: other_section_title
 TEXT: 기타
 
@@ -33406,6 +33475,9 @@ TEXT: GO스냅샷으로 푸호꼬의 서프라이즈 5회
 
 RESOURCE ID: photobomb_five_fletchling
 TEXT: GO스냅샷으로 화살꼬빈의 서프라이즈 5회
+
+RESOURCE ID: photobomb_five_froakie
+TEXT: GO스냅샷으로 개구마르의 서프라이즈 5회
 
 RESOURCE ID: photobomb_five_gastly
 TEXT: GO스냅샷으로 고오스의 서프라이즈 5회
@@ -34992,6 +35064,15 @@ TEXT: 뿔집게포켓몬
 RESOURCE ID: pokemon_category_0128
 TEXT: 성난소포켓몬
 
+RESOURCE ID: pokemon_category_0128_3006
+TEXT: 성난소포켓몬
+
+RESOURCE ID: pokemon_category_0128_3007
+TEXT: 성난소포켓몬
+
+RESOURCE ID: pokemon_category_0128_3008
+TEXT: 성난소포켓몬
+
 RESOURCE ID: pokemon_category_0129
 TEXT: 물고기포켓몬
 
@@ -35210,6 +35291,9 @@ TEXT: 얇은날개포켓몬
 
 RESOURCE ID: pokemon_category_0194
 TEXT: 수어포켓몬
+
+RESOURCE ID: pokemon_category_0194_3009
+TEXT: 독물고기포켓몬
 
 RESOURCE ID: pokemon_category_0195
 TEXT: 수어포켓몬
@@ -37389,11 +37473,341 @@ TEXT: 침봉포켓몬
 RESOURCE ID: pokemon_category_0905
 TEXT: 애증포켓몬
 
+RESOURCE ID: pokemon_category_0906
+TEXT: 풀고양이포켓몬
+
+RESOURCE ID: pokemon_category_0907
+TEXT: 풀고양이포켓몬
+
+RESOURCE ID: pokemon_category_0908
+TEXT: 매지션포켓몬
+
+RESOURCE ID: pokemon_category_0909
+TEXT: 불꽃악어포켓몬
+
+RESOURCE ID: pokemon_category_0910
+TEXT: 불꽃악어포켓몬
+
+RESOURCE ID: pokemon_category_0911
+TEXT: 싱어포켓몬
+
+RESOURCE ID: pokemon_category_0912
+TEXT: 꼬마오리포켓몬
+
+RESOURCE ID: pokemon_category_0913
+TEXT: 레슨포켓몬
+
+RESOURCE ID: pokemon_category_0914
+TEXT: 댄서포켓몬
+
+RESOURCE ID: pokemon_category_0915
+TEXT: 돼지포켓몬
+
+RESOURCE ID: pokemon_category_0916_2981
+TEXT: 돼지포켓몬
+
+RESOURCE ID: pokemon_category_0916_2982
+TEXT: 돼지포켓몬
+
+RESOURCE ID: pokemon_category_0917
+TEXT: 실타래포켓몬
+
+RESOURCE ID: pokemon_category_0918
+TEXT: 트랩포켓몬
+
+RESOURCE ID: pokemon_category_0919
+TEXT: 메뚜기포켓몬
+
+RESOURCE ID: pokemon_category_0920
+TEXT: 메뚜기포켓몬
+
+RESOURCE ID: pokemon_category_0921
+TEXT: 쥐포켓몬
+
+RESOURCE ID: pokemon_category_0922
+TEXT: 쥐포켓몬
+
+RESOURCE ID: pokemon_category_0923
+TEXT: 손길포켓몬
+
+RESOURCE ID: pokemon_category_0924
+TEXT: 커플포켓몬
+
+RESOURCE ID: pokemon_category_0925_2983
+TEXT: 패밀리포켓몬
+
+RESOURCE ID: pokemon_category_0925_2984
+TEXT: 패밀리포켓몬
+
+RESOURCE ID: pokemon_category_0926
+TEXT: 강아지포켓몬
+
+RESOURCE ID: pokemon_category_0927
+TEXT: 개포켓몬
+
+RESOURCE ID: pokemon_category_0928
+TEXT: 올리브포켓몬
+
+RESOURCE ID: pokemon_category_0929
+TEXT: 올리브포켓몬
+
+RESOURCE ID: pokemon_category_0930
+TEXT: 올리브포켓몬
+
+RESOURCE ID: pokemon_category_0931_2985
+TEXT: 잉꼬포켓몬
+
+RESOURCE ID: pokemon_category_0931_2986
+TEXT: 잉꼬포켓몬
+
+RESOURCE ID: pokemon_category_0931_2987
+TEXT: 잉꼬포켓몬
+
+RESOURCE ID: pokemon_category_0931_2988
+TEXT: 잉꼬포켓몬
+
+RESOURCE ID: pokemon_category_0932
+TEXT: 암염포켓몬
+
+RESOURCE ID: pokemon_category_0933
+TEXT: 암염포켓몬
+
+RESOURCE ID: pokemon_category_0934
+TEXT: 암염포켓몬
+
+RESOURCE ID: pokemon_category_0935
+TEXT: 불의아이포켓몬
+
+RESOURCE ID: pokemon_category_0936
+TEXT: 불의전사포켓몬
+
+RESOURCE ID: pokemon_category_0937
+TEXT: 불의검사포켓몬
+
+RESOURCE ID: pokemon_category_0938
+TEXT: 전기올챙이포켓몬
+
+RESOURCE ID: pokemon_category_0939
+TEXT: 전기개구리포켓몬
+
+RESOURCE ID: pokemon_category_0940
+TEXT: 바다제비포켓몬
+
+RESOURCE ID: pokemon_category_0941
+TEXT: 군함조포켓몬
+
+RESOURCE ID: pokemon_category_0942
+TEXT: 애송이포켓몬
+
+RESOURCE ID: pokemon_category_0943
+TEXT: 두목포켓몬
+
+RESOURCE ID: pokemon_category_0944
+TEXT: 독쥐포켓몬
+
+RESOURCE ID: pokemon_category_0945
+TEXT: 독원숭이포켓몬
+
+RESOURCE ID: pokemon_category_0946
+TEXT: 회전초포켓몬
+
+RESOURCE ID: pokemon_category_0947
+TEXT: 회전초포켓몬
+
+RESOURCE ID: pokemon_category_0948
+TEXT: 목이버섯포켓몬
+
+RESOURCE ID: pokemon_category_0949
+TEXT: 목이버섯포켓몬
+
+RESOURCE ID: pokemon_category_0950
+TEXT: 매복포켓몬
+
+RESOURCE ID: pokemon_category_0951
+TEXT: 하바네로포켓몬
+
+RESOURCE ID: pokemon_category_0952
+TEXT: 하바네로포켓몬
+
+RESOURCE ID: pokemon_category_0953
+TEXT: 굴리기포켓몬
+
+RESOURCE ID: pokemon_category_0954
+TEXT: 굴리기포켓몬
+
+RESOURCE ID: pokemon_category_0955
+TEXT: 프릴포켓몬
+
+RESOURCE ID: pokemon_category_0956
+TEXT: 타조포켓몬
+
+RESOURCE ID: pokemon_category_0957
+TEXT: 대장장이포켓몬
+
+RESOURCE ID: pokemon_category_0958
+TEXT: 해머포켓몬
+
+RESOURCE ID: pokemon_category_0959
+TEXT: 해머포켓몬
+
+RESOURCE ID: pokemon_category_0960
+TEXT: 정원장어포켓몬
+
+RESOURCE ID: pokemon_category_0961
+TEXT: 정원장어포켓몬
+
+RESOURCE ID: pokemon_category_0962
+TEXT: 낙하물포켓몬
+
+RESOURCE ID: pokemon_category_0963
+TEXT: 돌고래포켓몬
+
+RESOURCE ID: pokemon_category_0964_2989
+TEXT: 돌고래포켓몬
+
+RESOURCE ID: pokemon_category_0964_2990
+TEXT: 히어로포켓몬
+
+RESOURCE ID: pokemon_category_0965
+TEXT: 단기통포켓몬
+
+RESOURCE ID: pokemon_category_0966
+TEXT: 다기통포켓몬
+
+RESOURCE ID: pokemon_category_0967
+TEXT: 라이드포켓몬
+
+RESOURCE ID: pokemon_category_0968
+TEXT: 지렁이포켓몬
+
+RESOURCE ID: pokemon_category_0969
+TEXT: 광석포켓몬
+
+RESOURCE ID: pokemon_category_0970
+TEXT: 광석포켓몬
+
+RESOURCE ID: pokemon_category_0971
+TEXT: 유령개포켓몬
+
+RESOURCE ID: pokemon_category_0972
+TEXT: 유령개포켓몬
+
+RESOURCE ID: pokemon_category_0973
+TEXT: 싱크로포켓몬
+
+RESOURCE ID: pokemon_category_0974
+TEXT: 육지고래포켓몬
+
+RESOURCE ID: pokemon_category_0975
+TEXT: 육지고래포켓몬
+
+RESOURCE ID: pokemon_category_0976
+TEXT: 분리포켓몬
+
+RESOURCE ID: pokemon_category_0977
+TEXT: 큰메기포켓몬
+
+RESOURCE ID: pokemon_category_0978_2991
+TEXT: 의태포켓몬
+
+RESOURCE ID: pokemon_category_0978_2992
+TEXT: 의태포켓몬
+
+RESOURCE ID: pokemon_category_0978_2993
+TEXT: 의태포켓몬
+
+RESOURCE ID: pokemon_category_0979
+TEXT: 분노숭이포켓몬
+
+RESOURCE ID: pokemon_category_0980
+TEXT: 가시물고기포켓몬
+
+RESOURCE ID: pokemon_category_0981
+TEXT: 긴목포켓몬
+
+RESOURCE ID: pokemon_category_0982_2994
+TEXT: 땅뱀포켓몬
+
+RESOURCE ID: pokemon_category_0982_2995
+TEXT: 땅뱀포켓몬
+
+RESOURCE ID: pokemon_category_0983
+TEXT: 대도포켓몬
+
+RESOURCE ID: pokemon_category_0984
+TEXT: 패러독스포켓몬
+
+RESOURCE ID: pokemon_category_0985
+TEXT: 패러독스포켓몬
+
+RESOURCE ID: pokemon_category_0986
+TEXT: 패러독스포켓몬
+
+RESOURCE ID: pokemon_category_0987
+TEXT: 패러독스포켓몬
+
+RESOURCE ID: pokemon_category_0988
+TEXT: 패러독스포켓몬
+
+RESOURCE ID: pokemon_category_0989
+TEXT: 패러독스포켓몬
+
+RESOURCE ID: pokemon_category_0990
+TEXT: 패러독스포켓몬
+
+RESOURCE ID: pokemon_category_0991
+TEXT: 패러독스포켓몬
+
+RESOURCE ID: pokemon_category_0992
+TEXT: 패러독스포켓몬
+
+RESOURCE ID: pokemon_category_0993
+TEXT: 패러독스포켓몬
+
+RESOURCE ID: pokemon_category_0994
+TEXT: 패러독스포켓몬
+
+RESOURCE ID: pokemon_category_0995
+TEXT: 패러독스포켓몬
+
+RESOURCE ID: pokemon_category_0996
+TEXT: 얼음지느러미포켓몬
+
+RESOURCE ID: pokemon_category_0997
+TEXT: 얼음지느러미포켓몬
+
+RESOURCE ID: pokemon_category_0998
+TEXT: 빙룡포켓몬
+
 RESOURCE ID: pokemon_category_0999
 TEXT: 보물찾기포켓몬
 
 RESOURCE ID: pokemon_category_1000
 TEXT: 보물생명체포켓몬
+
+RESOURCE ID: pokemon_category_1001
+TEXT: 재액포켓몬
+
+RESOURCE ID: pokemon_category_1002
+TEXT: 재액포켓몬
+
+RESOURCE ID: pokemon_category_1003
+TEXT: 재액포켓몬
+
+RESOURCE ID: pokemon_category_1004
+TEXT: 재액포켓몬
+
+RESOURCE ID: pokemon_category_1005
+TEXT: 패러독스포켓몬
+
+RESOURCE ID: pokemon_category_1006
+TEXT: 패러독스포켓몬
+
+RESOURCE ID: pokemon_category_1007_2996
+TEXT: 패러독스포켓몬
+
+RESOURCE ID: pokemon_category_1008_2997
+TEXT: 패러독스포켓몬
 
 RESOURCE ID: pokemon_costume_info_transfer_to_professor_confirmation
 TEXT: 이 포켓몬을 보내도 괜찮겠습니까?
@@ -37878,6 +38292,15 @@ TEXT: 자신의 몸무게 두 배나 되는 상대를 뿔로 집어 가볍게 �
 RESOURCE ID: pokemon_desc_0128
 TEXT: 항상 날뛰지 않으면 성에 차지 않는다. 싸울 상대가 없을 때는 큰 나무를 들이받아 쓰러트리고 맘을 가라앉힌다.
 
+RESOURCE ID: pokemon_desc_0128_3006
+TEXT: 체격이 우람하고 육탄전이 특기다. 짧은 뿔로 급소를 노린다.
+
+RESOURCE ID: pokemon_desc_0128_3007
+TEXT: 불꽃 에너지로 가열된 뿔은 섭씨 1000도에 달하며, 뿔에 찔린 상대는 상처와 화상에 고통받게 된다.
+
+RESOURCE ID: pokemon_desc_0128_3008
+TEXT: 뿔 끝에 난 구멍을 통해 물을 강하게 분출하여 고압의 물줄기로 상대를 관통한다.
+
 RESOURCE ID: pokemon_desc_0129
 TEXT: 튀어 오르기만 하는 한심한 포켓몬이다. 왜 튀어 오르는지 조사한 연구자가 있을 정도로 무조건 튀고 튀고 튀어 오르기만 한다.
 
@@ -38096,6 +38519,9 @@ TEXT: 눈알을 움직이지 않고 360도를 볼 수 있다. 급브레이크나
 
 RESOURCE ID: pokemon_desc_0194
 TEXT: 평상시엔 물속에서 지내지만 먹이를 찾거나 할 때는 가끔 지상에 나온다. 땅에서는 독 점액으로 몸을 둘러싼다.
+
+RESOURCE ID: pokemon_desc_0194_3009
+TEXT: 영역 다툼에서 밀려 육지에 살게 되면서 독성을 띠는 점막으로 몸을 보호하도록 변화했다.
 
 RESOURCE ID: pokemon_desc_0195
 TEXT: 물속에서 입을 열고 우연히 먹이가 뛰어들기를 그저 기다리고 있다. 움직이지 않기에 별로 배가 안 고프다.
@@ -40646,11 +41072,341 @@ TEXT: 바다를 건너 날아와 혹독한 겨울의 끝을 알린다. 자애로
 RESOURCE ID: pokemon_desc_0905_2803
 TEXT: 여인의 형상에서 변한 모습. 목숨을 함부로 여기는 자가 있으면 운해로부터 나타나서 자비 없는 분노의 벌을 내린다.
 
+RESOURCE ID: pokemon_desc_0906
+TEXT: 복슬복슬한 털은 식물에 가까운 성분으로 이루어져 있다. 수시로 세수를 하면서 건조해지는 것을 방지한다.
+
+RESOURCE ID: pokemon_desc_0907
+TEXT: 긴 털 아래 숨긴 덩굴을 능숙하게 다뤄서 단단한 꽃봉오리로 상대를 가격한다.
+
+RESOURCE ID: pokemon_desc_0908
+TEXT: 꽃이 떠 있는 것처럼 보이는 것은 망토 뒷면의 털이 빛을 반사해서 줄기를 보이지 않게 하기 때문이다.
+
+RESOURCE ID: pokemon_desc_0909
+TEXT: 따뜻한 바위 위에 드러누워서 네모난 비늘을 통해 흡수한 열로 불꽃 에너지를 만든다.
+
+RESOURCE ID: pokemon_desc_0910
+TEXT: 불꽃 에너지와 남아도는 생명력이 섞여서 머리 위에 알 모양의 불덩이가 생겨났다.
+
+RESOURCE ID: pokemon_desc_0911
+TEXT: 노랫소리에 따라 모습이 바뀌는 불새는 머리 위에 있던 불덩이에 영혼이 깃든 것이라고 한다.
+
+RESOURCE ID: pokemon_desc_0912
+TEXT: 옛날에 머나먼 땅에서 찾아와 정착했다. 날개에서 분비되는 젤은 물과 먼지를 튕겨 낸다.
+
+RESOURCE ID: pokemon_desc_0913
+TEXT: 열심히 얕은 여울을 달리며 하반신을 단련하고, 동료들끼리 발 기술의 화려함을 겨룬다.
+
+RESOURCE ID: pokemon_desc_0914
+TEXT: 발차기 한 번에 트럭을 굴려 버릴 정도로 강한 다릿심을 활용하여 이국적인 춤을 선보인다.
+
+RESOURCE ID: pokemon_desc_0915
+TEXT: 하루 종일 먹이를 찾는다. 뛰어난 후각을 가졌지만 먹이를 찾는 일 외에는 사용하지 않는다.
+
+RESOURCE ID: pokemon_desc_0916_2981
+TEXT: 곱고 윤기가 흐르는 피부를 자랑한다. 꼬리 끝에서 응축된 향기를 내보낸다.
+
+RESOURCE ID: pokemon_desc_0916_2982
+TEXT: 꽃향기 같은 향기를 흩뿌린다. 근육이 발달한 다리는 5m도 가볍게 뛰어넘을 수 있다.
+
+RESOURCE ID: pokemon_desc_0917
+TEXT: 몸을 감싸고 있는 실타래는 천적인 스라크의 낫을 튕겨 낼 정도의 탄력을 자랑한다.
+
+RESOURCE ID: pokemon_desc_0918
+TEXT: 나뭇가지나 천장에 실로 달라붙어 소리 없이 행동한다. 먹잇감에게 들키기 전에 쓰러뜨린다.
+
+RESOURCE ID: pokemon_desc_0919
+TEXT: 제3의 다리가 접혀 있다. 위기에 처하면 10m 이상을 점프하는 다릿심을 가지고 있다.
+
+RESOURCE ID: pokemon_desc_0920
+TEXT: 진심을 다하게 되면 접었던 다리로 일어나 결전 모드로 변하여 단시간에 적을 제압한다.
+
+RESOURCE ID: pokemon_desc_0921
+TEXT: 볼의 전기 주머니가 아직 발달하지 않았다. 앞발의 볼록살을 열심히 비벼야 겨우 전기가 만들어진다.
+
+RESOURCE ID: pokemon_desc_0922
+TEXT: 무리가 공격을 받으면 전격을 날리는 격투기로 먼저 싸움을 걸고 적을 쓰러뜨린다.
+
+RESOURCE ID: pokemon_desc_0923
+TEXT: 평소에는 느긋하지만 싸움이 시작되면 전광석화와도 같은 몸놀림으로 적을 때려눕힌다.
+
+RESOURCE ID: pokemon_desc_0924
+TEXT: 호흡이 척척 맞는 콤비네이션으로 집의 재료가 될 만한 것을 앞니로 잘라 내어 가지고 간다.
+
+RESOURCE ID: pokemon_desc_0925_2983
+TEXT: 잠을 자는 곳이나 먹이를 먹는 곳 등, 용도에 따라 나눈 여러 개의 방으로 구성된 커다란 집을 만든다.
+
+RESOURCE ID: pokemon_desc_0925_2984
+TEXT: 어느새 아이가 2마리로 늘었다. 가족처럼 보이기도 하나 진상은 밝혀지지 않았다.
+
+RESOURCE ID: pokemon_desc_0926
+TEXT: 만지면 촉촉하고 매끈매끈하다. 숨결에 포함되어 있는 효모로 주위의 것들을 발효시킨다.
+
+RESOURCE ID: pokemon_desc_0927
+TEXT: 몸에서 나는 좋은 향기가 밀의 성장을 돕기 때문에 농촌에서 소중히 여겨진다.
+
+RESOURCE ID: pokemon_desc_0928
+TEXT: 머리의 열매에서 오일을 나오게 해서 적으로부터 몸을 지킨다. 오일은 펄쩍 뛸 만큼 떫고 쓰다.
+
+RESOURCE ID: pokemon_desc_0929
+TEXT: 신선한 향기가 나는 맛있는 오일을 나눠 준다. 오래전부터 인간과 공존해 왔다.
+
+RESOURCE ID: pokemon_desc_0930
+TEXT: 온화하면서도 매우 자비롭다. 영양이 풍부한 맛있는 오일을 약해진 포켓몬에게 나눠 준다.
+
+RESOURCE ID: pokemon_desc_0931_2985
+TEXT: 마을에서 사는 것을 선호한다. 깃털 색에 따라 그룹을 만들고는 영역 다툼을 벌인다.
+
+RESOURCE ID: pokemon_desc_0931_2986
+TEXT: 큰 그룹은 50마리가 넘는다. 먹이를 찾아 마을이나 숲을 시끄럽게 날아다닌다.
+
+RESOURCE ID: pokemon_desc_0931_2987
+TEXT: 성질이 사납고 싸우는 방식도 매우 거칠다. 상대의 품으로 파고들어 육탄전을 벌인다.
+
+RESOURCE ID: pokemon_desc_0931_2988
+TEXT: 단독 행동은 서툴다. 연대감이 강한 동료끼리 서로 도우며 살아가고 있다.
+
+RESOURCE ID: pokemon_desc_0932
+TEXT: 땅속의 암염층에서 태어났다. 귀한 소금을 나눠 주기 때문에 옛날에는 특히 더 귀하게 여겨졌다.
+
+RESOURCE ID: pokemon_desc_0933
+TEXT: 분출한 소금을 먹이에게 끼얹어서 소금절이로 만들어 버린다. 체내의 수분을 빼앗는 것이다.
+
+RESOURCE ID: pokemon_desc_0934
+TEXT: 손끝을 문질러서 나온 소금을 다친 포켓몬에게 뿌리면 심한 상처도 금방 낫는다.
+
+RESOURCE ID: pokemon_desc_0935
+TEXT: 불탄 숯에 영혼이 깃들어서 포켓몬이 되었다. 타오르는 투지로 강한 상대에게도 싸움을 건다.
+
+RESOURCE ID: pokemon_desc_0936
+TEXT: 많은 무공을 세운 전사의 갑옷에 의해 진화한 모습. 충성심이 강한 포켓몬이다.
+
+RESOURCE ID: pokemon_desc_0937
+TEXT: 양팔의 불꽃 검은 뜻을 다 이루지 못한 채 스러진 검사의 원념에 의해 타오르고 있다.
+
+RESOURCE ID: pokemon_desc_0938
+TEXT: 꼬리를 흔들어서 전기를 발생시킨다. 위험을 감지하면 머리를 깜빡여서 동료에게 알린다.
+
+RESOURCE ID: pokemon_desc_0939
+TEXT: 말랑말랑한 몸을 늘였다 줄였다 하면 배에 달린 배꼽 발전기가 큰 전력을 발생시킨다.
+
+RESOURCE ID: pokemon_desc_0940
+TEXT: 날개의 뼈는 바람을 받으면 전기를 만들어 낸다. 바다에 뛰어들어 먹이를 감전시켜서 잡는다.
+
+RESOURCE ID: pokemon_desc_0941
+TEXT: 목의 주머니를 부풀려서 전기를 증폭시킨다. 바람을 타고 하루에 700km를 비행할 수 있다.
+
+RESOURCE ID: pokemon_desc_0942
+TEXT: 상대에게 얕보이지 않기 위해 항상 얼굴을 찌푸리고 있지만 우는 아이는 그 모습을 보고 웃게 된다.
+
+RESOURCE ID: pokemon_desc_0943
+TEXT: 커다란 목 주머니에 에너지를 비축할 수 있다. 단숨에 이를 방출하여 적을 날려 버린다.
+
+RESOURCE ID: pokemon_desc_0944
+TEXT: 온화하지만 화가 나게 하면 독이 밴 날카로운 앞니로 물어서 상대를 마비시킨다.
+
+RESOURCE ID: pokemon_desc_0945
+TEXT: 먹이에 따라 색이 변하는 독성의 침을 손가락에 묻혀서 숲의 나무들에 무늬를 그린다.
+
+RESOURCE ID: pokemon_desc_0946
+TEXT: 성불하지 못한 영혼이 바람에 날리다가 마른 풀과 엉키면서 포켓몬이 되었다.
+
+RESOURCE ID: pokemon_desc_0947
+TEXT: 머리의 가지를 열어서 먹이를 삼킨다. 생기를 실컷 흡수한 다음 그대로 뱉어 버린다.
+
+RESOURCE ID: pokemon_desc_0948
+TEXT: 축축한 숲속에 산다. 떨어져 나온 몸의 하늘하늘한 부분은 쫄깃쫄깃하고 아주 맛있다.
+
+RESOURCE ID: pokemon_desc_0949
+TEXT: 깊은 숲속에 집단으로 살며 군체를 형성한다. 외부인이 접근하는 것을 극도로 싫어한다.
+
+RESOURCE ID: pokemon_desc_0950
+TEXT: 거꾸로 매달린 채 절벽 위에서 먹이를 노리지만, 머리에 피가 몰리기 때문에 오랫동안은 버틸 수 없다고 한다.
+
+RESOURCE ID: pokemon_desc_0951
+TEXT: 태양 빛을 쬐면 쬘수록 체내의 매운 성분이 늘어나서 기술이 점점 더 매워진다.
+
+RESOURCE ID: pokemon_desc_0952
+TEXT: 레드 헤드가 매운 성분을 불꽃 에너지로 변환시켜 불같이 매운 화염방사를 사방에 흩뿌린다.
+
+RESOURCE ID: pokemon_desc_0953
+TEXT: 에스퍼 에너지를 섞어서 흙과 모래로 진흙구슬을 만든다. 진흙구슬을 목숨보다 소중히 여긴다.
+
+RESOURCE ID: pokemon_desc_0954
+TEXT: 구슬을 지탱하는 몸은 거의 움직이지 않기 때문에, 구슬 안에 본체가 있는 것으로 여겨지고 있다.
+
+RESOURCE ID: pokemon_desc_0955
+TEXT: 배의 하늘하늘한 부분에서 나오는 사이코 파워를 통해, 겨우 1cm지만 발끝이 지상에 떠 있다.
+
+RESOURCE ID: pokemon_desc_0956
+TEXT: 커다란 눈동자에서 사이코 파워를 발산하여 상대를 움직일 수 없게 한다. 겉보기와 다르게 성질이 사납다.
+
+RESOURCE ID: pokemon_desc_0957
+TEXT: 손수 만든 해머를 휘둘러 몸을 지키려 하나 금속을 먹는 포켓몬에게 자주 빼앗기고 만다.
+
+RESOURCE ID: pokemon_desc_0958
+TEXT: 크고 튼튼한 해머를 만들기 위해 절각참 무리를 습격해서 금속을 모은다.
+
+RESOURCE ID: pokemon_desc_0959
+TEXT: 지능이 높고 매우 호쾌하다. 해머로 바위를 날려서 하늘을 나는 아머까오를 노린다.
+
+RESOURCE ID: pokemon_desc_0960
+TEXT: 20m 떨어진 가비루사에게서 나는 냄새도 맡을 수 있어서 모래 속에 몸을 숨긴다.
+
+RESOURCE ID: pokemon_desc_0961
+TEXT: 겉보기와 다르게 성질이 사납다. 기다란 몸으로 먹잇감을 죄어서 굴 안으로 끌고 들어간다.
+
+RESOURCE ID: pokemon_desc_0962
+TEXT: 가슴의 깃털과 떨어진 깃털로 만든 주머니에 물건을 넣고는 높은 곳에서 떨어뜨리며 논다.
+
+RESOURCE ID: pokemon_desc_0963
+TEXT: 꼬리지느러미에 있는 물의 고리를 가지고 동료와 노는 것을 좋아한다. 초음파로 생명체의 기분을 감지한다.
+
+RESOURCE ID: pokemon_desc_0964_2989
+TEXT: 도움을 구하는 동료의 소리를 들으면 모습을 바꾼다. 그 순간은 누구에게도 보여 주지 않는다.
+
+RESOURCE ID: pokemon_desc_0964_2990
+TEXT: 태고의 유전자가 각성했다. 한쪽 지느러미로 크루즈선도 가볍게 들어 올리는 괴력의 소유자.
+
+RESOURCE ID: pokemon_desc_0965
+TEXT: 고철 처리장에 방치된 엔진에 정체불명의 독포켓몬이 들어가 탄생한 것으로 전해지고 있다.
+
+RESOURCE ID: pokemon_desc_0966
+TEXT: 독소와 바위 성분이 섞인 가스를 8개로 늘어난 실린더에서 폭발시켜 에너지를 만들어 낸다.
+
+RESOURCE ID: pokemon_desc_0967
+TEXT: 먼 옛날부터 인간을 등에 태우고 다녔다고 한다. 1만 년 전 벽화에도 그 모습이 그려져 있다.
+
+RESOURCE ID: pokemon_desc_0968
+TEXT: 적에게 공격을 받으면 털을 주먹처럼 사용하여 폭풍 같은 기세로 펀치를 날린다.
+
+RESOURCE ID: pokemon_desc_0969
+TEXT: 동굴의 벽에서 영양분을 흡수한다. 독의 결정으로 만들어진 꽃잎을 몸에 두르고 있다.
+
+RESOURCE ID: pokemon_desc_0970
+TEXT: 위험을 감지하면 결정으로 된 꽃잎을 펼친 뒤 원뿔 모양의 몸에서 빔을 발사한다.
+
+RESOURCE ID: pokemon_desc_0971
+TEXT: 사람과의 접점 없이 숨을 거둔 들개포켓몬이 환생한 것으로 여겨지고 있다.
+
+RESOURCE ID: pokemon_desc_0972
+TEXT: 평소에는 묘지에서 자고 있다. 수많은 개포켓몬 중에서도 가장 주인에게 충직하다.
+
+RESOURCE ID: pokemon_desc_0973
+TEXT: 배에 비축해 둔 에너지가 부리를 통해 새어 나오지 않게 하기 위해 목 아래쪽을 꼬아 놓은 듯하다.
+
+RESOURCE ID: pokemon_desc_0974
+TEXT: 먼 옛날에 바다에서 올라와 육지에 살게 되었다. 고래왕자의 근연종이라고 한다.
+
+RESOURCE ID: pokemon_desc_0975
+TEXT: 빙설 지대를 떼 지어 다닌다. 강인한 근육과 두꺼운 피하지방으로 몸을 보호한다.
+
+RESOURCE ID: pokemon_desc_0976
+TEXT: 불필요한 살을 분리하면 정신이 예민해져 사이코 파워가 상승한다. 떨어진 살은 담백하고 맛있다.
+
+RESOURCE ID: pokemon_desc_0977
+TEXT: 대식가지만 먹이를 잡는 것이 서툴다. 싸리용과 콤비를 이뤄 먹이를 사냥한다.
+
+RESOURCE ID: pokemon_desc_0978_2991
+TEXT: 작은 몸집의 드래곤포켓몬. 어써러셔의 입안에 살며 외부의 적으로부터 몸을 지킨다.
+
+RESOURCE ID: pokemon_desc_0978_2992
+TEXT: 몸의 색과 무늬가 다른 것은 유인하려는 먹이의 취향에 맞춰 변화한 결과라는 듯하다.
+
+RESOURCE ID: pokemon_desc_0978_2993
+TEXT: 새포켓몬이 주된 먹이다. 자신이 약한 것을 알기 때문에 동료와 콤비를 이뤄 사냥을 한다.
+
+RESOURCE ID: pokemon_desc_0979
+TEXT: 분노의 볼티지가 임계점을 돌파하면서 육체라는 틀에 얽매이지 않는 파워를 손에 넣게 되었다.
+
+RESOURCE ID: pokemon_desc_0980
+TEXT: 적에게 공격을 받으면 몸에서 굵은 가시를 내지르며 반격한다. 몸이 끊어질 각오가 필요한 위험한 기술이다.
+
+RESOURCE ID: pokemon_desc_0981
+TEXT: 머리와 꼬리 2개의 뇌파가 동기화하여 에스퍼 파워가 키링키의 10배로 강화되었다.
+
+RESOURCE ID: pokemon_desc_0982_2994
+TEXT: 단단한 꼬리로 땅속 깊은 곳에 있는 암반을 뚫어서 보금자리를 만든다. 굴의 깊이는 무려 10km에 이른다.
+
+RESOURCE ID: pokemon_desc_0982_2995
+TEXT: 굴 안을 헤매는 포켓몬을 등에 태우고 입구까지 데려다주는 온화한 성질을 지녔다.
+
+RESOURCE ID: pokemon_desc_0983
+TEXT: 큰 군세의 정점에 올라선 단 한 마리의 절각참만이 대도각참으로 진화할 수 있다.
+
+RESOURCE ID: pokemon_desc_0984
+TEXT: 근년에 목격된 사례가 있다. "위대한엄니"라는 이름은 어떤 책에 기록된 생물에게서 따온 것이다.
+
+RESOURCE ID: pokemon_desc_0985
+TEXT: 목격된 사례는 과거에 단 1건뿐이다. 오래된 탐험기에 기록된 정체불명의 생물을 닮은 포켓몬.
+
+RESOURCE ID: pokemon_desc_0986
+TEXT: 어떤 책에 "사나운버섯"이라는 이름으로 기록된 생물이 이 포켓몬일 가능성이 있다.
+
+RESOURCE ID: pokemon_desc_0987
+TEXT: 어떤 서적에 등장하는 "날개치는머리"라는 생물과 비슷한 특징을 가진 포켓몬.
+
+RESOURCE ID: pokemon_desc_0988
+TEXT: 오래된 책에 "땅을기는날개"라는 이름으로 소개된 생물과 닮은 점이 있는 정체불명의 포켓몬.
+
+RESOURCE ID: pokemon_desc_0989
+TEXT: 포획된 사례는 없으며 데이터도 부족하다. 어느 탐험기에 기록된 생물과 특징이 일치한다.
+
+RESOURCE ID: pokemon_desc_0990
+TEXT: Sightings of this Pokémon have occurred in recent years. It resembles a mysterious object described in an old expedition journal.
+
+RESOURCE ID: pokemon_desc_0991
+TEXT: It resembles a mysterious object mentioned in an old book. There are only two reported sightings of this Pokémon.
+
+RESOURCE ID: pokemon_desc_0992
+TEXT: This Pokémon shares many similarities with Iron Hands, an object mentioned in a certain expedition journal.
+
+RESOURCE ID: pokemon_desc_0993
+TEXT: It’s possible that Iron Jugulis, an object described in an old book, may actually be this Pokémon.
+
+RESOURCE ID: pokemon_desc_0994
+TEXT: No records exist of this species being caught. Data is lacking, but the Pokémon’s traits match up with an object described in an old book.
+
+RESOURCE ID: pokemon_desc_0995
+TEXT: Some of its notable features match those of an object named within a certain expedition journal as Iron Thorns.
+
+RESOURCE ID: pokemon_desc_0996
+TEXT: 등지느러미로 열을 흡수해서 얼음 에너지로 변환한다. 고온일수록 에너지가 많이 모인다.
+
+RESOURCE ID: pokemon_desc_0997
+TEXT: 주변의 공기를 얼려서 얼음 마스크로 얼굴을 보호하고 등지느러미를 얼음 검으로 바꾼다.
+
+RESOURCE ID: pokemon_desc_0998
+TEXT: 극저온의 냉기를 입에서 분사한다. 작열하는 마그마조차도 순식간에 얼려 버린다.
+
 RESOURCE ID: pokemon_desc_0999
 TEXT: 코인에 깃든 정념으로 인해 태어났다. 원래 있던 보물 상자로 돌아가기 위해 떠돌고 있다고 한다.
 
 RESOURCE ID: pokemon_desc_1000
 TEXT: 몸은 1000개의 코인으로 이뤄져 있다고 한다. 붙임성이 좋아서 누구와도 금방 친해진다.
+
+RESOURCE ID: pokemon_desc_1001
+TEXT: 왕의 악행을 목간에 기록했다는 이유로 처벌을 받은 사람의 원한이 마른 잎을 두르고 포켓몬이 되었다.
+
+RESOURCE ID: pokemon_desc_1002
+TEXT: 100t의 눈을 조종한다. 눈사태를 일으키고는 그 안을 드나들며 천진난만하게 논다.
+
+RESOURCE ID: pokemon_desc_1003
+TEXT: 옛날 의식에 사용되었던 그릇에 공포가 깃들게 되었고 이것이 흙과 돌을 둘러 포켓몬이 되었다.
+
+RESOURCE ID: pokemon_desc_1004
+TEXT: 3000도의 불꽃을 조종한다. 바위와 자갈을 녹여서 만든 마그마의 바다를 유유히 헤엄친다.
+
+RESOURCE ID: pokemon_desc_1005
+TEXT: 수수께끼로 가득한 탐험기에 "고동치는달"이라는 이름으로 기록된 생물일 가능성이 있다.
+
+RESOURCE ID: pokemon_desc_1006
+TEXT: It’s possible that this is the object listed as Iron Valiant in a certain expedition journal.
+
+RESOURCE ID: pokemon_desc_1007_2996
+TEXT: 주먹으로 대지를 갈랐다고 오래된 탐험기에 기록된 "날개의왕"의 정체인 듯하다.
+
+RESOURCE ID: pokemon_desc_1008_2997
+TEXT: This seems to be the Iron Serpent mentioned in an old book. The Iron Serpent is said to have turned the land to ash with its lightning.
 
 RESOURCE ID: pokemon_desc_tmpevo_0003_0001
 TEXT: 충분한 영양분과 태양의 빛이 꽃의 색을 선명하게 만든다고 한다. 꽃의 향기는 사람의 마음을 치유한다.
@@ -44140,11 +44896,314 @@ TEXT: 장침바루
 RESOURCE ID: pokemon_name_0905
 TEXT: 러브로스
 
+RESOURCE ID: pokemon_name_0906
+TEXT: 나오하
+
+RESOURCE ID: pokemon_name_0907
+TEXT: 나로테
+
+RESOURCE ID: pokemon_name_0908
+TEXT: 마스카나
+
+RESOURCE ID: pokemon_name_0909
+TEXT: 뜨아거
+
+RESOURCE ID: pokemon_name_0910
+TEXT: 악뜨거
+
+RESOURCE ID: pokemon_name_0911
+TEXT: 라우드본
+
+RESOURCE ID: pokemon_name_0912
+TEXT: 꾸왁스
+
+RESOURCE ID: pokemon_name_0913
+TEXT: 아꾸왁
+
+RESOURCE ID: pokemon_name_0914
+TEXT: 웨이니발
+
+RESOURCE ID: pokemon_name_0915
+TEXT: 맛보돈
+
+RESOURCE ID: pokemon_name_0916
+TEXT: 퍼퓨돈
+
+RESOURCE ID: pokemon_name_0917
+TEXT: 타랜툴라
+
+RESOURCE ID: pokemon_name_0918
+TEXT: 트래피더
+
+RESOURCE ID: pokemon_name_0919
+TEXT: 콩알뚜기
+
+RESOURCE ID: pokemon_name_0920
+TEXT: 엑스레그
+
+RESOURCE ID: pokemon_name_0921
+TEXT: 빠모
+
+RESOURCE ID: pokemon_name_0922
+TEXT: 빠모트
+
+RESOURCE ID: pokemon_name_0923
+TEXT: 빠르모트
+
+RESOURCE ID: pokemon_name_0924
+TEXT: 두리쥐
+
+RESOURCE ID: pokemon_name_0925
+TEXT: 파밀리쥐
+
+RESOURCE ID: pokemon_name_0926
+TEXT: 쫀도기
+
+RESOURCE ID: pokemon_name_0927
+TEXT: 바우첼
+
+RESOURCE ID: pokemon_name_0928
+TEXT: 미니브
+
+RESOURCE ID: pokemon_name_0929
+TEXT: 올리뇨
+
+RESOURCE ID: pokemon_name_0930
+TEXT: 올리르바
+
+RESOURCE ID: pokemon_name_0931
+TEXT: 시비꼬
+
+RESOURCE ID: pokemon_name_0932
+TEXT: 베베솔트
+
+RESOURCE ID: pokemon_name_0933
+TEXT: 스태솔트
+
+RESOURCE ID: pokemon_name_0934
+TEXT: 콜로솔트
+
+RESOURCE ID: pokemon_name_0935
+TEXT: 카르본
+
+RESOURCE ID: pokemon_name_0936
+TEXT: 카디나르마
+
+RESOURCE ID: pokemon_name_0937
+TEXT: 파라블레이즈
+
+RESOURCE ID: pokemon_name_0938
+TEXT: 빈나두
+
+RESOURCE ID: pokemon_name_0939
+TEXT: 찌리배리
+
+RESOURCE ID: pokemon_name_0940
+TEXT: 찌리비
+
+RESOURCE ID: pokemon_name_0941
+TEXT: 찌리비크
+
+RESOURCE ID: pokemon_name_0942
+TEXT: 오라티프
+
+RESOURCE ID: pokemon_name_0943
+TEXT: 마피티프
+
+RESOURCE ID: pokemon_name_0944
+TEXT: 땃쭈르
+
+RESOURCE ID: pokemon_name_0945
+TEXT: 태깅구르
+
+RESOURCE ID: pokemon_name_0946
+TEXT: 그푸리
+
+RESOURCE ID: pokemon_name_0947
+TEXT: 공푸리
+
+RESOURCE ID: pokemon_name_0948
+TEXT: 들눈해
+
+RESOURCE ID: pokemon_name_0949
+TEXT: 육파리
+
+RESOURCE ID: pokemon_name_0950
+TEXT: 절벼게
+
+RESOURCE ID: pokemon_name_0951
+TEXT: 캡싸이
+
+RESOURCE ID: pokemon_name_0952
+TEXT: 스코빌런
+
+RESOURCE ID: pokemon_name_0953
+TEXT: 구르데
+
+RESOURCE ID: pokemon_name_0954
+TEXT: 베라카스
+
+RESOURCE ID: pokemon_name_0955
+TEXT: 하느라기
+
+RESOURCE ID: pokemon_name_0956
+TEXT: 클레스퍼트라
+
+RESOURCE ID: pokemon_name_0957
+TEXT: 어리짱
+
+RESOURCE ID: pokemon_name_0958
+TEXT: 벼리짱
+
+RESOURCE ID: pokemon_name_0959
+TEXT: 두드리짱
+
+RESOURCE ID: pokemon_name_0960
+TEXT: 바다그다
+
+RESOURCE ID: pokemon_name_0961
+TEXT: 바닥트리오
+
+RESOURCE ID: pokemon_name_0962
+TEXT: 떨구새
+
+RESOURCE ID: pokemon_name_0963
+TEXT: 맨돌핀
+
+RESOURCE ID: pokemon_name_0964
+TEXT: 돌핀맨
+
+RESOURCE ID: pokemon_name_0965
+TEXT: 부르롱
+
+RESOURCE ID: pokemon_name_0966
+TEXT: 부르르룸
+
+RESOURCE ID: pokemon_name_0967
+TEXT: 모토마
+
+RESOURCE ID: pokemon_name_0968
+TEXT: 꿈트렁
+
+RESOURCE ID: pokemon_name_0969
+TEXT: 초롱순
+
+RESOURCE ID: pokemon_name_0970
+TEXT: 킬라플로르
+
+RESOURCE ID: pokemon_name_0971
+TEXT: 망망이
+
+RESOURCE ID: pokemon_name_0972
+TEXT: 묘두기
+
+RESOURCE ID: pokemon_name_0973
+TEXT: 꼬이밍고
+
+RESOURCE ID: pokemon_name_0974
+TEXT: 터벅고래
+
+RESOURCE ID: pokemon_name_0975
+TEXT: 우락고래
+
+RESOURCE ID: pokemon_name_0976
+TEXT: 가비루사
+
+RESOURCE ID: pokemon_name_0977
+TEXT: 어써러셔
+
+RESOURCE ID: pokemon_name_0978
+TEXT: 싸리용
+
+RESOURCE ID: pokemon_name_0979
+TEXT: 저승갓숭
+
+RESOURCE ID: pokemon_name_0980
+TEXT: 토오
+
+RESOURCE ID: pokemon_name_0981
+TEXT: 키키링
+
+RESOURCE ID: pokemon_name_0982
+TEXT: 노고고치
+
+RESOURCE ID: pokemon_name_0983
+TEXT: 대도각참
+
+RESOURCE ID: pokemon_name_0984
+TEXT: 위대한엄니
+
+RESOURCE ID: pokemon_name_0985
+TEXT: 우렁찬꼬리
+
+RESOURCE ID: pokemon_name_0986
+TEXT: 사나운버섯
+
+RESOURCE ID: pokemon_name_0987
+TEXT: 날개치는머리
+
+RESOURCE ID: pokemon_name_0988
+TEXT: 땅을기는날개
+
+RESOURCE ID: pokemon_name_0989
+TEXT: 모래털가죽
+
+RESOURCE ID: pokemon_name_0990
+TEXT: 무쇠바퀴
+
+RESOURCE ID: pokemon_name_0991
+TEXT: 무쇠보따리
+
+RESOURCE ID: pokemon_name_0992
+TEXT: 무쇠손
+
+RESOURCE ID: pokemon_name_0993
+TEXT: 무쇠머리
+
+RESOURCE ID: pokemon_name_0994
+TEXT: 무쇠독나방
+
+RESOURCE ID: pokemon_name_0995
+TEXT: 무쇠가시
+
+RESOURCE ID: pokemon_name_0996
+TEXT: 드니차
+
+RESOURCE ID: pokemon_name_0997
+TEXT: 드니꽁
+
+RESOURCE ID: pokemon_name_0998
+TEXT: 드닐레이브
+
 RESOURCE ID: pokemon_name_0999
 TEXT: 모으령
 
 RESOURCE ID: pokemon_name_1000
 TEXT: 타부자고
+
+RESOURCE ID: pokemon_name_1001
+TEXT: 총지엔
+
+RESOURCE ID: pokemon_name_1002
+TEXT: 파오젠
+
+RESOURCE ID: pokemon_name_1003
+TEXT: 딩루
+
+RESOURCE ID: pokemon_name_1004
+TEXT: 위유이
+
+RESOURCE ID: pokemon_name_1005
+TEXT: 고동치는달
+
+RESOURCE ID: pokemon_name_1006
+TEXT: 무쇠무인
+
+RESOURCE ID: pokemon_name_1007
+TEXT: 코라이돈
+
+RESOURCE ID: pokemon_name_1008
+TEXT: 미라이돈 
 
 RESOURCE ID: pokemon_nickname_error
 TEXT: 올바른 닉네임을 입력해주십시오
@@ -47993,6 +49052,18 @@ TEXT: 불화살빈을 {0}마리 진화시킨다
 RESOURCE ID: quest_fraxure_evolve_b
 TEXT: 액슨도를 {0}마리 진화시킨다
 
+RESOURCE ID: quest_froakie_catch_b
+TEXT: 개구마르를 {0}마리 잡는다
+
+RESOURCE ID: quest_froakie_evolve_b
+TEXT: 개구마르를 {0}마리 진화시킨다
+
+RESOURCE ID: quest_froakie_snapshot_b
+TEXT: 개구마르의 GO스냅샷을 {0}장 찍는다
+
+RESOURCE ID: quest_frogadier_evolve_b
+TEXT: 개굴반장을 {0}마리 진화시킨다
+
 RESOURCE ID: quest_gbl_rank
 TEXT: GO배틀리그에서 랭크 {0}(이)가 된다
 
@@ -49440,8 +50511,14 @@ TEXT: 야생의 버터플 또는 꼬링크 또는 줄뮤마의 GO스냅샷을 �
 RESOURCE ID: quest_snapshot_wild_dark_plural
 TEXT: 악타입 야생 포켓몬의 GO스냅샷을 {0}장 찍는다
 
+RESOURCE ID: quest_snapshot_wild_dark_unique_plural
+TEXT: Take snapshots of {0} different wild Dark-type Pokémon
+
 RESOURCE ID: quest_snapshot_wild_dragon_plural
 TEXT: 드래곤타입 야생 포켓몬의 GO스냅샷을 {0}장 찍는다
+
+RESOURCE ID: quest_snapshot_wild_dragon_unique_plural
+TEXT: Take snapshots of {0} different wild Dragon-type Pokémon
 
 RESOURCE ID: quest_snapshot_wild_ducklett_chinchou_finneon
 TEXT: 야생 꼬지보리 또는 초라기 또는 형광어의 GO스냅샷을 찍는다
@@ -49452,14 +50529,23 @@ TEXT: 야생 이브이의 GO스냅샷을 찍는다
 RESOURCE ID: quest_snapshot_wild_electric_plural
 TEXT: 전기타입 야생 포켓몬의 GO스냅샷을 {0}장 찍는다
 
+RESOURCE ID: quest_snapshot_wild_electric_unique_plural
+TEXT: Take snapshots of {0} different wild Electric-type Pokémon
+
 RESOURCE ID: quest_snapshot_wild_entei
 TEXT: 야생 앤테이의 GO스냅샷을 찍는다
 
 RESOURCE ID: quest_snapshot_wild_fairy_plural
 TEXT: 페어리타입 야생 포켓몬의 GO스냅샷을 {0}장 찍는다
 
+RESOURCE ID: quest_snapshot_wild_fairy_unique_plural
+TEXT: Take snapshots of {0} different wild Fairy-type Pokémon
+
 RESOURCE ID: quest_snapshot_wild_fighting_plural
 TEXT: 격투타입 야생 포켓몬의 GO스냅샷을 {0}장 찍는다
+
+RESOURCE ID: quest_snapshot_wild_fighting_unique_plural
+TEXT: Take snapshots of {0} different wild Fighting-type Pokémon
 
 RESOURCE ID: quest_snapshot_wild_fire_plural
 TEXT: 불꽃타입 야생 포켓몬의 GO스냅샷을 {0}장 찍는다
@@ -49467,11 +50553,17 @@ TEXT: 불꽃타입 야생 포켓몬의 GO스냅샷을 {0}장 찍는다
 RESOURCE ID: quest_snapshot_wild_flying_plural
 TEXT: 비행타입 야생 포켓몬의 GO스냅샷을 {0}장 찍는다
 
+RESOURCE ID: quest_snapshot_wild_flying_unique_plural
+TEXT: Take snapshots of {0} different wild Flying-type Pokémon
+
 RESOURCE ID: quest_snapshot_wild_geodude_sandshrew_cacnea
 TEXT: 야생 꼬마돌 또는 모래두지 또는 선인왕의 GO스냅샷을 찍는다
 
 RESOURCE ID: quest_snapshot_wild_ghost_plural
 TEXT: 고스트타입 야생 포켓몬의 GO스냅샷을 {0}장 찍는다
+
+RESOURCE ID: quest_snapshot_wild_ghost_unique_plural
+TEXT: Take snapshots of {0} different wild Ghost-type Pokémon
 
 RESOURCE ID: quest_snapshot_wild_grass_plural
 TEXT: 풀타입 야생 포켓몬의 GO스냅샷을 {0}장 찍는다
@@ -49479,8 +50571,14 @@ TEXT: 풀타입 야생 포켓몬의 GO스냅샷을 {0}장 찍는다
 RESOURCE ID: quest_snapshot_wild_grass_singular
 TEXT: 풀타입 야생 포켓몬의 GO스냅샷을 1장 찍는다
 
+RESOURCE ID: quest_snapshot_wild_grass_unique_plural
+TEXT: Take snapshots of {0} different wild Grass-type Pokémon
+
 RESOURCE ID: quest_snapshot_wild_ground_plural
 TEXT: 땅타입 야생 포켓몬의 GO스냅샷을 {0}장 찍는다
+
+RESOURCE ID: quest_snapshot_wild_ground_unique_plural
+TEXT: Take snapshots of {0} different wild Ground-type Pokémon
 
 RESOURCE ID: quest_snapshot_wild_hoothoot
 TEXT: 야생 부우부의 GO스냅샷을 찍는다
@@ -49490,6 +50588,9 @@ TEXT: 얼음타입 야생 포켓몬의 GO스냅샷을 {0}장 찍는다
 
 RESOURCE ID: quest_snapshot_wild_ice_singular
 TEXT: 얼음타입 야생 포켓몬의 GO스냅샷을 1장 찍는다
+
+RESOURCE ID: quest_snapshot_wild_ice_unique_plural
+TEXT: Take snapshots of {0} different wild Ice-type Pokémon
 
 RESOURCE ID: quest_snapshot_wild_lotad_metapod_aipom
 TEXT: 야생 연꽃몬 또는 단데기 또는 에이팜의 GO스냅샷을 찍는다
@@ -49503,14 +50604,23 @@ TEXT: 야생 시마사리의 GO스냅샷을 찍는다
 RESOURCE ID: quest_snapshot_wild_normal_plural
 TEXT: 노말타입 야생 포켓몬의 GO스냅샷을 {0}장 찍는다
 
+RESOURCE ID: quest_snapshot_wild_normal_unique_plural
+TEXT: Take snapshots of {0} different wild Normal-type Pokémon
+
 RESOURCE ID: quest_snapshot_wild_plural
 TEXT: 야생 포켓몬의 GO스냅샷을 {0}장 찍는다
 
 RESOURCE ID: quest_snapshot_wild_poison_plural
 TEXT: 독타입 야생 포켓몬의 GO스냅샷을 {0}장 찍는다
 
+RESOURCE ID: quest_snapshot_wild_poison_unique_plural
+TEXT: Take snapshots of {0} different wild Poison-type Pokémon
+
 RESOURCE ID: quest_snapshot_wild_psychic_plural
 TEXT: 에스퍼타입 야생 포켓몬의 GO스냅샷을 {0}장 찍는다
+
+RESOURCE ID: quest_snapshot_wild_psychic_unique_plural
+TEXT: Take snapshots of {0} different wild Psychic-type Pokémon
 
 RESOURCE ID: quest_snapshot_wild_raikou
 TEXT: 야생 라이코의 GO스냅샷을 찍는다
@@ -49520,6 +50630,9 @@ TEXT: 야생 땅타입, 바위타입, 또는 페어리타입 포켓몬의 GO스�
 
 RESOURCE ID: quest_snapshot_wild_rock_plural
 TEXT: 바위타입 야생 포켓몬의 GO스냅샷을 {0}장 찍는다
+
+RESOURCE ID: quest_snapshot_wild_rock_unique_plural
+TEXT: Take snapshots of {0} different wild Rock-type Pokémon
 
 RESOURCE ID: quest_snapshot_wild_singular
 TEXT: 야생 포켓몬의 GO스냅샷을 1장 찍는다
@@ -49556,6 +50669,9 @@ TEXT: 물타입 야생 포켓몬의 GO스냅샷을 {0}장 찍는다
 
 RESOURCE ID: quest_snapshot_wild_water_singular
 TEXT: Take a snapshot of wild Water-type Pokémon
+
+RESOURCE ID: quest_snapshot_wild_water_unique_plural
+TEXT: Take snapshots of {0} different wild Water-type Pokémon
 
 RESOURCE ID: quest_snapshots_inarow_plural
 TEXT: GO스냅샷 사진을 {0}일 연속으로 찍는다
@@ -51237,6 +52353,75 @@ TEXT: 오늘도 뜻깊은 조사였어. 너도 그렇지?
 
 RESOURCE ID: quest_special_dialogue_flett_3_6
 TEXT: 그럼 다음에 만날 때까지 힘차게 GO!
+
+RESOURCE ID: quest_special_dialogue_froakie_0_0
+TEXT: 안녕, %PLAYERNAME%! 오늘도 조사 협조 부탁할게.
+
+RESOURCE ID: quest_special_dialogue_froakie_0_1
+TEXT: 오늘은 다른 때보다 더 시끌벅적한 것 같군.
+
+RESOURCE ID: quest_special_dialogue_froakie_0_2
+TEXT: 이 소리는... 포켓몬인가?
+
+RESOURCE ID: quest_special_dialogue_froakie_0_3
+TEXT: 무슨 포켓몬일 것 같아?
+
+RESOURCE ID: quest_special_dialogue_froakie_0_4
+TEXT: 실제로 확인해 보자!
+
+RESOURCE ID: quest_special_dialogue_froakie_1_0
+TEXT: 어서와, %PLAYERNAME%!
+
+RESOURCE ID: quest_special_dialogue_froakie_1_1
+TEXT: 바로 눈앞에 한 마리가 튀어나와서 가까이서 볼 수 있어 좋았어.
+
+RESOURCE ID: quest_special_dialogue_froakie_1_2
+TEXT: 개구마르의 가슴과 등에서 나오는 거품은 탄력이 있어, 공격을 받아낼 수도 있다는 거 알고 있었니?
+
+RESOURCE ID: quest_special_dialogue_froakie_1_3
+TEXT: 개굴반장으로 진화하면 몸이 더 가벼워져서 높은 타워 꼭대기까지 재빨리 올라갈 수 있어. 
+
+RESOURCE ID: quest_special_dialogue_froakie_1_4
+TEXT: 진화시켜서 스피드를 확인해 보자!
+
+RESOURCE ID: quest_special_dialogue_froakie_2_0
+TEXT: 아주 잘하고 있어, %PLAYERNAME%!
+
+RESOURCE ID: quest_special_dialogue_froakie_2_1
+TEXT: 개굴반장의 거품, 머플러 같고 멋있군. 당연히 그냥 장식이 아니야.
+
+RESOURCE ID: quest_special_dialogue_froakie_2_2
+TEXT: 뒤쪽 다리가 꽤 단단해져서 전체적으로 스마트한 인상이야.
+
+RESOURCE ID: quest_special_dialogue_froakie_2_3
+TEXT: 개굴반장은 거품으로 싼 작은 돌을 던질 수 있어, 그것도 아주 잘 컨트롤해서 말이지.
+
+RESOURCE ID: quest_special_dialogue_froakie_2_4
+TEXT: 높은 건물을 올라타거나 거품의 작은 돌을 능숙하게 던지는 포켓몬. 배틀에서도 사용해 보고 싶군!
+
+RESOURCE ID: quest_special_dialogue_froakie_2_5
+TEXT: 개굴닌자로 진화시키는게 먼저겠군.
+
+RESOURCE ID: quest_special_dialogue_froakie_2_6
+TEXT: 자, 어서 진화시켜보자!
+
+RESOURCE ID: quest_special_dialogue_froakie_3_0
+TEXT: %PLAYERNAME%, 벌써 개굴닌자로 진화시켰다니!
+
+RESOURCE ID: quest_special_dialogue_froakie_3_1
+TEXT: 개굴닌자의 움직임, 눈에 담을 수 없는 스피드라는 건 이걸 말하는 거군. 목에 두르고 있는 혀는 꽤 무거워 보이는데....
+
+RESOURCE ID: quest_special_dialogue_froakie_3_2
+TEXT: 물을 압축해서 만드는 수리검도 고속 회전시킬 수 있어.
+
+RESOURCE ID: quest_special_dialogue_froakie_3_3
+TEXT: 너무 고속이라 금속도 두 동강 낸다고 할 정도야.
+
+RESOURCE ID: quest_special_dialogue_froakie_3_4
+TEXT: 하지만 이건 숙련된 트레이너와의 연계가 필요한 기술이야.
+
+RESOURCE ID: quest_special_dialogue_froakie_3_5
+TEXT: 오늘은 이쯤 하지. 다음에 또 만날 때까지 힘차게 GO!
 
 RESOURCE ID: quest_special_dialogue_galarian_mrmime_0_0
 TEXT: %PLAYERNAME%! 잘 왔어! 좀 이상한 일이 일어나서 말이야. 며칠전에...
@@ -55951,6 +57136,135 @@ TEXT: 안녕, %PLAYERNAME%! 포켓몬도 많고 조사할 것도 많아. 어서 
 RESOURCE ID: quest_special_dialogue_searching_gold_june23_1_1
 TEXT: 넌 어떤 포켓몬과 만나고 싶니?
 
+RESOURCE ID: quest_special_dialogue_season12_0_0
+TEXT: %PLAYERNAME%, exciting news! In my recent research into other regions, I learned of Paldea—a vast, open place dotted with agricultural villages, port towns, and lively markets.
+
+RESOURCE ID: quest_special_dialogue_season12_0_1
+TEXT: And beyond those settlements, Paldea has all sorts of magnificent places begging to be explored, from towering mountains to resplendent lakes.
+
+RESOURCE ID: quest_special_dialogue_season12_0_2
+TEXT: Most importantly for us, there are plenty of Pokémon first discovered in Paldea for us to study!
+
+RESOURCE ID: quest_special_dialogue_season12_0_3
+TEXT: Doesn’t the very idea get your heart racing?
+
+RESOURCE ID: quest_special_dialogue_season12_0_4
+TEXT: If you’re up for it, I say we put our all-star teamwork to the proof by learning all there is to learn about them!
+
+RESOURCE ID: quest_special_dialogue_season12_a_1_0
+TEXT: Great choice! You know, Sprigatito’s a bit of a rascal. It’s capricious and attention-seeking, to the point that it may sulk if it sees you giving attention to another Pokémon!
+
+RESOURCE ID: quest_special_dialogue_season12_a_1_1
+TEXT: As for its physical characteristics, its fluffy fur is similar in composition to plants, letting it create energy by absorbing sunlight.
+
+RESOURCE ID: quest_special_dialogue_season12_a_1_2
+TEXT: And when Sprigatito kneads and rubs with its forepaws, a sweet aroma is released that can mesmerize those around it.
+
+RESOURCE ID: quest_special_dialogue_season12_a_1_3
+TEXT: While you contemplate that, how about you walk around and look for some Grass-type Pokémon, %PLAYERNAME%?
+
+RESOURCE ID: quest_special_dialogue_season12_a_2_0
+TEXT: Welcome back! How did it go? Exploring with a new Pokémon is a great way to develop your bond. Now, here’s another fun Sprigatito fact.
+
+RESOURCE ID: quest_special_dialogue_season12_a_2_1
+TEXT: Sprigatito washes its face regularly to keep its fur from drying out. What a great self-care regimen!
+
+RESOURCE ID: quest_special_dialogue_season12_a_2_2
+TEXT: I wonder how Sprigatito’s Evolution, Floragato, behaves in comparison. Could you help your Sprigatito evolve so we can find out for ourselves?
+
+RESOURCE ID: quest_special_dialogue_season12_a_3_0
+TEXT: Wow! Amazing progress, %PLAYERNAME%! I’m sure there’s plenty you’ll learn with a Pokémon like Floragato at your side.
+
+RESOURCE ID: quest_special_dialogue_season12_a_3_1
+TEXT: Did you know that its fur can become softer or harder depending on its mood? It can even be needle sharp when Floragato is ready to battle.
+
+RESOURCE ID: quest_special_dialogue_season12_a_3_2
+TEXT: Speaking of battle, Floragato deftly wields a vine hidden beneath its long fur, slamming the hard flower bud against its opponents. I bet that smarts!
+
+RESOURCE ID: quest_special_dialogue_season12_a_3_3
+TEXT: I can’t wait to see how Floragato changes when it evolves into Meowscarada. Please come see me when it does!
+
+RESOURCE ID: quest_special_dialogue_season12_a_4_0
+TEXT: Whoa! Meowscarada is one a-meow-zing Pokémon! I’ve heard that with skillful misdirection, it rigs foes with pollen-packed flower bombs, which it sets off before its foes realize what’s going on.
+
+RESOURCE ID: quest_special_dialogue_season12_a_4_1
+TEXT: That’s quite the magic trick. I hope to see it firsthand someday—from a safe distance, of course! But that’s enough out of me—you deserve a rest after all that research. Thanks for your help, as always, %PLAYERNAME%!
+
+RESOURCE ID: quest_special_dialogue_season12_b_1_0
+TEXT: Great choice! Fuecoco’s one cheerful little chomper. Flickering atop its head is fire energy that is leaking out from inside its body—and when Fuecoco gets excited, its head spouts more flames!
+
+RESOURCE ID: quest_special_dialogue_season12_b_1_1
+TEXT: How about you match that enthusiasm as you walk around and look for Fire-type Pokémon, %PLAYERNAME%?
+
+RESOURCE ID: quest_special_dialogue_season12_b_2_0
+TEXT: Welcome back! How did it go? Exploring with a new Pokémon is a great way to develop your bond. Now, here’s another fun Fuecoco fact.
+
+RESOURCE ID: quest_special_dialogue_season12_b_2_1
+TEXT: Fuecoco lies on warm rocks and uses the heat absorbed by its square-shaped scales to create fire energy.
+
+RESOURCE ID: quest_special_dialogue_season12_b_2_2
+TEXT: I wonder how Fuecoco’s Evolution, Crocalor, behaves in comparison. Could you help your Fuecoco evolve so we can find out for ourselves?
+
+RESOURCE ID: quest_special_dialogue_season12_b_3_0
+TEXT: Wow! Amazing progress, %PLAYERNAME%! I’m sure there’s plenty you’ll learn with a Pokémon like Crocalor at your side.
+
+RESOURCE ID: quest_special_dialogue_season12_b_3_1
+TEXT: Did you know that the combination of Crocalor’s fire energy and overflowing vitality is what caused an egg-shaped fireball to appear on the Pokémon’s head?
+
+RESOURCE ID: quest_special_dialogue_season12_b_3_2
+TEXT: What’s more, the valve in Crocalor’s flame sac is closely connected to its vocal cords. It utters a guttural cry as it spews flames every which way. Spicy!
+
+RESOURCE ID: quest_special_dialogue_season12_b_3_3
+TEXT: I can’t wait to see how Crocalor changes when it evolves into Skeledirge. Please come see me when it does!
+
+RESOURCE ID: quest_special_dialogue_season12_b_4_0
+TEXT: Whoa! Skeledirge is one sizzlingly slick Pokémon—and yet somehow so serene! I’ve heard that Skeledirge’s gentle singing soothes the souls of all that hear it.
+
+RESOURCE ID: quest_special_dialogue_season12_b_4_1
+TEXT: And yet it burns its enemies to a crisp with flames of over 5,400 degrees Fahrenheit. It’s, uh, certainly comforting to know you’re on the same team!
+
+RESOURCE ID: quest_special_dialogue_season12_b_4_2
+TEXT: But that’s enough out of me—you deserve a rest after all that research. Thanks for your help, as always, %PLAYERNAME%!
+
+RESOURCE ID: quest_special_dialogue_season12_branch_0
+TEXT: Which Pokémon first discovered in Paldea would you like to join you on your adventure, %PLAYERNAME%?
+
+RESOURCE ID: quest_special_dialogue_season12_c_1_0
+TEXT: Great choice! Quaxly is an earnest and tidy Pokémon. Perhaps you’re the sort of Trainer who likes it when everything is neatly in place—and for Quaxly, that place is at your side!
+
+RESOURCE ID: quest_special_dialogue_season12_c_1_1
+TEXT: Quaxly’s feathers secrete a gel that repels water and grime, so its body is always glossy. And get a gander at that coif atop its head! So luxurious.
+
+RESOURCE ID: quest_special_dialogue_season12_c_1_2
+TEXT: I’m suddenly inspired to tidy things up around here. While I’m doing that, why don’t you walk around and look for Water-type Pokémon, %PLAYERNAME%?
+
+RESOURCE ID: quest_special_dialogue_season12_c_2_0
+TEXT: Welcome back! How did it go? Exploring with a new Pokémon is a great way to develop your bond. Now, here’s another fun Quaxly fact.
+
+RESOURCE ID: quest_special_dialogue_season12_c_2_1
+TEXT: This Pokémon migrated to Paldea from distant lands long ago. Its strong legs let it easily swim around in even fast-flowing rivers.
+
+RESOURCE ID: quest_special_dialogue_season12_c_2_2
+TEXT: I wonder how Quaxly’s Evolution, Quaxwell, behaves in comparison. Could you help your Quaxly evolve so we can find out for ourselves?
+
+RESOURCE ID: quest_special_dialogue_season12_c_3_0
+TEXT: Wow! Amazing progress, %PLAYERNAME%! I’m sure there’s plenty you’ll learn with a Pokémon like Quaxwell at your side.
+
+RESOURCE ID: quest_special_dialogue_season12_c_3_1
+TEXT: Did you know that these Pokémon constantly run through shallow waters to train their legs, then compete with each other to see which of them kicks most gracefully?
+
+RESOURCE ID: quest_special_dialogue_season12_c_3_2
+TEXT: The hardworking Quaxwell observes people and Pokémon from various regions and incorporates their movements into its own dance routines. So studious!
+
+RESOURCE ID: quest_special_dialogue_season12_c_3_3
+TEXT: I can’t wait to see how Quaxwell changes when it evolves into Quaquaval. Please come see me when it does!
+
+RESOURCE ID: quest_special_dialogue_season12_c_4_0
+TEXT: Whoa! Quaquaval is one mesmerizing Pokémon! This Pokémon uses its powerful legs to perform striking dances from far-off lands. And that’s not all those legs can do—I’ve heard that a single kick from a Quaquaval can send a truck rolling. Yikes!
+
+RESOURCE ID: quest_special_dialogue_season12_c_4_1
+TEXT: But that’s enough out of me—you deserve a rest after all that research. Thanks for your help, as always, %PLAYERNAME%!
+
 RESOURCE ID: quest_special_dialogue_season2_0_0
 TEXT: 안녕, %PLAYERNAME%! 잘 지냈지?
 
@@ -58692,6 +60006,21 @@ TEXT: 울새포켓몬의 수수께끼를 풀어라!(3/4)
 RESOURCE ID: quest_title_flett_3
 TEXT: 울새포켓몬의 수수께끼를 풀어라!(4/4)
 
+RESOURCE ID: quest_title_froakie
+TEXT: 거품개구리포켓몬의 수수께끼를 풀어라!
+
+RESOURCE ID: quest_title_froakie_0
+TEXT: 거품개구리포켓몬의 수수께끼를 풀어라!(1/4)
+
+RESOURCE ID: quest_title_froakie_1
+TEXT: 거품개구리포켓몬의 수수께끼를 풀어라!(2/4)
+
+RESOURCE ID: quest_title_froakie_2
+TEXT: 거품개구리포켓몬의 수수께끼를 풀어라!(3/4)
+
+RESOURCE ID: quest_title_froakie_3
+TEXT: 거품개구리포켓몬의 수수께끼를 풀어라!(4/4)
+
 RESOURCE ID: quest_title_galarian_mrmime
 TEXT: 댄스포켓몬의 수수께끼를 풀어라!
 
@@ -59765,6 +61094,24 @@ TEXT: 쥐포켓몬의 수수께끼를 풀어라!(3/4)
 
 RESOURCE ID: quest_title_sandt_3
 TEXT: 쥐포켓몬의 수수께끼를 풀어라!(4/4)
+
+RESOURCE ID: quest_title_season12
+TEXT: A Paldean Adventure
+
+RESOURCE ID: quest_title_season12_0
+TEXT: A Paldean Adventure (1/5)
+
+RESOURCE ID: quest_title_season12_1
+TEXT: A Paldean Adventure (2/5)
+
+RESOURCE ID: quest_title_season12_2
+TEXT: A Paldean Adventure (3/5)
+
+RESOURCE ID: quest_title_season12_3
+TEXT: A Paldean Adventure (4/5)
+
+RESOURCE ID: quest_title_season12_4
+TEXT: A Paldean Adventure (5/5)
 
 RESOURCE ID: quest_title_season2
 TEXT: 레전드 시즌
@@ -60962,6 +62309,12 @@ TEXT: CP1,500이하 포켓몬만 사용해 별3 레이드에서 {0}번 이긴다
 
 RESOURCE ID: quest_win_raid_lvl3plus_less1500cp_singular
 TEXT: CP1,500이하 포켓몬만 사용해 별3 레이드에서 1번 이긴다
+
+RESOURCE ID: quest_win_raid_lvl3plus_less2500cp_plural
+TEXT: CP2,500이하 포켓몬만 사용해 별3 레이드에서 {0}번 이긴다
+
+RESOURCE ID: quest_win_raid_lvl3plus_less2500cp_singular
+TEXT: CP2,500이하 포켓몬만 사용해 별3 레이드에서 1번 이긴다
 
 RESOURCE ID: quest_win_raid_plural
 TEXT: 레이드배틀에서 {0}번 이긴다
@@ -66442,14 +67795,8 @@ TEXT: GO로켓단 점령
 RESOURCE ID: route_about_label
 TEXT: 상세
 
-RESOURCE ID: route_about_title
-TEXT: About this Route:
-
 RESOURCE ID: route_actions_label
 TEXT: 할 수 있는 것
-
-RESOURCE ID: route_add_point
-TEXT: 스톱으로 설정
 
 RESOURCE ID: route_cancel_description
 TEXT: 다른 루트를 시작하면 {0}의 진행 상황은 사라집니다.
@@ -66457,38 +67804,20 @@ TEXT: 다른 루트를 시작하면 {0}의 진행 상황은 사라집니다.
 RESOURCE ID: route_cancel_description_same_route
 TEXT: 이 루트를 다시 시작하면 현재까지의 진행 상황은 사라집니다.
 
-RESOURCE ID: route_cancel_start_new_button
-TEXT: 신규 작성
-
 RESOURCE ID: route_cancel_title
 TEXT: 새로운 루트를 시작하겠습니까?
 
 RESOURCE ID: route_cancel_title_same_route
 TEXT: 이 루트를 다시 시작하겠습니까?
 
-RESOURCE ID: route_cannot_delete_route_in_review_prompt
-TEXT: [placeholder on client]
-
-RESOURCE ID: route_cannot_delete_route_in_review_title
-TEXT: 삭제할 수 없습니다.
-
-RESOURCE ID: route_cannot_edit_routes_in_review
-TEXT: 심사 중인 루트는 편집할 수 없습니다.
-
 RESOURCE ID: route_change_endpoint_error
 TEXT: 끝나는 지점 설정 에러
-
-RESOURCE ID: route_checkpoint_general
-TEXT: 스톱
 
 RESOURCE ID: route_collapsed_show_more
 TEXT: SHOW MORE {0}
 
 RESOURCE ID: route_community_plays_label
 TEXT: 커뮤니티가 플레이한 수
-
-RESOURCE ID: route_completion_congratulation
-TEXT: 감사합니다.
 
 RESOURCE ID: route_completion_explored_count_plural
 TEXT: 이 루트를 
@@ -66498,29 +67827,11 @@ RESOURCE ID: route_completion_explored_count_singular
 TEXT: 이 루트를 
 1번 걸었습니다!
 
-RESOURCE ID: route_completion_get_medal
-TEXT: {0}메달을 손에 넣었다!
-
 RESOURCE ID: route_completion_great_job
 TEXT: 완료!
 
-RESOURCE ID: route_completion_once
-TEXT: {0} completed 1 time
-
-RESOURCE ID: route_completion_repeat
-TEXT: {0} completed {1} times
-
-RESOURCE ID: route_cooldown_toast_already_walking_this_route
-TEXT: You are already playing this route!
-
 RESOURCE ID: route_cooldown_toast_hour
 TEXT: You must wait 1 hour to play this route.
-
-RESOURCE ID: route_cooldown_toast_hour_and_minute
-TEXT: You must wait 1 hour and 1 minute to play this route.
-
-RESOURCE ID: route_cooldown_toast_hour_and_minutes
-TEXT: You must wait 1 hour and {0} minutes to play this route.
 
 RESOURCE ID: route_cooldown_toast_hours
 TEXT: You must wait {0} hours to play this route.
@@ -66528,23 +67839,8 @@ TEXT: You must wait {0} hours to play this route.
 RESOURCE ID: route_cooldown_toast_hours_and_minute
 TEXT: 이 루트를 플레이 하려면 {0}시간 {1}분 기다려야합니다.
 
-RESOURCE ID: route_cooldown_toast_hours_and_minutes
-TEXT: 이 루트를 플레이 하려면 {0}시간 {1}분 기다려야 합니다
-
-RESOURCE ID: route_cooldown_toast_minute
-TEXT: You must wait {0} minutes to play this route.
-
-RESOURCE ID: route_cooldown_toast_minutes
-TEXT: 이 루트를 플레이 하려면 {0}분 기다려야 합니다
-
 RESOURCE ID: route_create_action_menu_header
 TEXT: 할 수 있는 것:
-
-RESOURCE ID: route_create_medal_context_page
-TEXT: 다른 트레이너가 당신이 만든 루트를 완료했을 때 받을 수 있는 메달의 이미지와 색을 선택합니다.
-
-RESOURCE ID: route_create_medal_context_title
-TEXT: 루트 메달
 
 RESOURCE ID: route_create_play_conflict_error_a
 TEXT: 루트 작성 중에 다른 루트를 걸을 수 없습니다.
@@ -66663,6 +67959,9 @@ TEXT: 조작을 실행할 수 없습니다
 RESOURCE ID: route_creation_go_to_start
 TEXT: 시작 지점으로 가주세요. 거기서부터 루트 기록을 시작합니다.
 
+RESOURCE ID: route_creation_header_label
+TEXT: 작성한 루트
+
 RESOURCE ID: route_creation_max_distance_exceeded_description
 TEXT: 최장 거리를 넘었기 때문에 루트 작성을 계속할 수 없습니다.
 
@@ -66775,12 +68074,6 @@ TEXT: 루트 작성자
 RESOURCE ID: route_creator_stats_label
 TEXT: 작성자 정보
 
-RESOURCE ID: route_data_onboarding_page_1
-TEXT: 작성한 루트에 대해 주변에 알려 주세요!
-
-RESOURCE ID: route_data_onboarding_title_1
-TEXT: 루트 데이터 입력
-
 RESOURCE ID: route_decayed_description
 TEXT: 이 루트는 아카이빙 되었습니다.
 
@@ -66791,18 +68084,6 @@ TEXT: {0}(은)는 필요 횟수만큼 플레이되지 않아 아카이빙되었�
 RESOURCE ID: route_decayed_modal_title
 TEXT: {0}(은)는 아카이빙 되었습니다.
 
-RESOURCE ID: route_denial_exceeds_max_total_distance
-TEXT: 이 포켓스톱 또는 체육관을 추가하면 루트상 최대 거리 {0}m를 초과합니다.
-
-RESOURCE ID: route_denial_too_close_to_last_poi
-TEXT: 이 포켓스톱은 마지막 스톱과 가깝습니다. 적어도 {0}m 이상 떨어져야 합니다.
-
-RESOURCE ID: route_denial_too_far_away_from_last_poi
-TEXT: 이 포켓스톱은 마지막 스톱에서 너무 멉니다. {0}m 이내 거리에 있어야합니다.
-
-RESOURCE ID: route_denial_too_many_stops_in_route
-TEXT: 이 루트에는 포켓스톱, 체육관의 최대 수 {0}개를 포함하고 있습니다.
-
 RESOURCE ID: route_detail_rejected_delete_button
 TEXT: 삭제
 
@@ -66811,6 +68092,15 @@ TEXT: 이 루트는 거절되었습니다.
 
 RESOURCE ID: route_detail_under_review_withdraw_button
 TEXT: 심사 신청 취소
+
+RESOURCE ID: route_details_end_label
+TEXT: 끝나는 지점:
+
+RESOURCE ID: route_details_loop_label
+TEXT: 시작 지점과 끝나는 지점:
+
+RESOURCE ID: route_details_start_label
+TEXT: 시작 지점:
 
 RESOURCE ID: route_discovery_tab_all
 TEXT: 모두
@@ -66829,9 +68119,6 @@ TEXT: 인기
 
 RESOURCE ID: route_distance_walked_label
 TEXT: 루트상에서 걸은 거리
-
-RESOURCE ID: route_earned_new_stamp
-TEXT: New stamp registered!
 
 RESOURCE ID: route_edit_button
 TEXT: 편집을 계속한다.
@@ -66927,17 +68214,11 @@ TEXT: 조작이 완료되지 않았습니다. 다시 시도해 주십시오.
 RESOURCE ID: route_error_unable_to_edit
 TEXT: 이 루트는 편집할 수 없습니다. 만든 루트 리스트를 갱신하여 이 루트 상황에 변경이 있었는지 확인해 주십시오.
 
-RESOURCE ID: route_expired_error
-TEXT: Current route has expired
-
 RESOURCE ID: route_first_play_date_label
 TEXT: 첫 번째
 
 RESOURCE ID: route_frame_select_subtitle
 TEXT: 미리보기
-
-RESOURCE ID: route_frame_select_title
-TEXT: 메달 미리보기 선택
 
 RESOURCE ID: route_general
 TEXT: 루트
@@ -66945,32 +68226,17 @@ TEXT: 루트
 RESOURCE ID: route_general_plural
 TEXT: 루트
 
-RESOURCE ID: route_get_route_maker
-TEXT: 루트 메이커 입수
-
-RESOURCE ID: route_icon_select_subtitle
-TEXT: 모든 트레이너가 볼 수 있습니다.
-
-RESOURCE ID: route_icon_select_title
-TEXT: 루트 메달 이미지 선택
-
 RESOURCE ID: route_km_label
 TEXT: {0} km
 
 RESOURCE ID: route_last_play_date_label
 TEXT: 마지막
 
+RESOURCE ID: route_learn_more_url
+TEXT: https://niantic.helpshift.com/hc/faq/4184-routes-faq/
+
 RESOURCE ID: route_level
 TEXT: 레벨 {0}
-
-RESOURCE ID: route_list_context_page
-TEXT: 여기에서 포켓스톱 또는 체육관의 순서를 바꾸거나 변경할 수 있습니다.
-
-RESOURCE ID: route_list_context_title
-TEXT: 포켓스톱 또는 체육관 리스트
-
-RESOURCE ID: route_list_item_default_description
-TEXT: 탭 해서 루트 작성을 시작
 
 RESOURCE ID: route_list_item_default_title
 TEXT: 루트 {0}
@@ -66980,12 +68246,6 @@ TEXT: 로딩에 너무 많은 시간이 걸렸습니다. 다시 시도해 주세
 
 RESOURCE ID: route_m_label
 TEXT: {0} m
-
-RESOURCE ID: route_maker_item_confirmation_description
-TEXT: 활성화 된 루트 메이커는 여기에 표시됩니다.
-
-RESOURCE ID: route_maker_max_warning
-TEXT: 루트 메이커의 최대수를 가지고 있습니다. 루트를 만들어서 승인을 받아주세요.
 
 RESOURCE ID: route_map_out_of_bound_warning
 TEXT: You are too far away from this area
@@ -67003,25 +68263,13 @@ RESOURCE ID: route_medals_sort_recent
 TEXT: Recent
 
 RESOURCE ID: route_min_label
-TEXT: {0} mins
+TEXT: {0}분
 
 RESOURCE ID: route_move_closer_to_resume
 TEXT: 일시 정지한 장소에 돌아가 기록을 재개해 주십시오.
 
-RESOURCE ID: route_nearby_help_distance
-TEXT: 현재 위치에서 시작 지점까지의 거리
-
-RESOURCE ID: route_nearby_help_duration
-TEXT: 시작 지점에서 종점까지의 예상 소요 시간
-
 RESOURCE ID: route_nearby_help_official_route
 TEXT: NIANTIC 파트너로 만들어진 도로에 이 레벨이 붙습니다.
-
-RESOURCE ID: route_nearby_help_played_time
-TEXT: 이 도로가 플레이된 횟수
-
-RESOURCE ID: route_nearby_help_title
-TEXT: 도로 정보
 
 RESOURCE ID: route_nearby_label
 TEXT: {0} route(s)
@@ -67035,42 +68283,14 @@ TEXT: 주변 도로({0})
 RESOURCE ID: route_not_playable
 TEXT: 이 루트는 현재 플레이할 수 없습니다
 
-RESOURCE ID: route_notification_resume
-TEXT: 루트 범위 내로 들어왔습니다.
-다시 활성화 상태로 변경되었습니다!
-
-RESOURCE ID: route_one_time_label
-TEXT: 1 time
-
 RESOURCE ID: route_out_of_range
 TEXT: 너무 멀어서 이 루트를 시작할 수 없습니다.
-
-RESOURCE ID: route_pause_description
-TEXT: 루트 범위 밖으로 나왔기 때문에 일시 정지 되었습니다. 다음 스톱으로 향해 걸으면 자동으로 다시 시작합니다.
 
 RESOURCE ID: route_pause_label
 TEXT: 일시 정지
 
-RESOURCE ID: route_pause_prompt
-TEXT: 진행 상황은 저장됩니다. 도구에서 루트 메이커를 선택하여 언젠든지 이어서 진행할 수 있습니다.
-
-RESOURCE ID: route_pause_stamp_cancel
-TEXT: (이 루트는 {0}시간 후 취소 됩니다)
-
-RESOURCE ID: route_pause_stamp_cancel_less_than
-TEXT: (This route will cancel in less than {0} hour)
-
-RESOURCE ID: route_pause_stamp_cancel_singular
-TEXT: (This route will cancel in {0} hour)
-
-RESOURCE ID: route_pause_stamp_message
-TEXT: {0}(은)는 범위 밖으로 나왔기 때문에 일시 정지 되었습니다. 다음 스톱 "<color=#{1}>{2}</color>”(으)로 향해 걸으면 다시 시작됩니다.
-
 RESOURCE ID: route_pause_title
 TEXT: 일시 정지했습니다.
-
-RESOURCE ID: route_paused_prompt
-TEXT: {0}(으)로 저장되었습니다.
 
 RESOURCE ID: route_paused_title
 TEXT: 루트 작성 일시 중지
@@ -67083,18 +68303,6 @@ TEXT: 핀을 선택한다
 
 RESOURCE ID: route_pin_title_edit
 TEXT: 핀 타이틀 편집
-
-RESOURCE ID: route_planning_context_page
-TEXT: 여기에서 계획을 시작
-
-RESOURCE ID: route_planning_context_title
-TEXT: 루트를 계획
-
-RESOURCE ID: route_planning_must_add_more_pois
-TEXT: 포켓스톱 또는 체육관을 적어도 {0}개 이상 추가해 주세요.
-
-RESOURCE ID: route_planning_must_add_one_poi
-TEXT: Add at least 1 more Pokéstop or Gym to this route.
 
 RESOURCE ID: route_play_adsync_breadcrumb_notification
 TEXT: 루트 진행 중
@@ -67129,6 +68337,12 @@ TEXT: 루트 완료 조건을 만족하지 않았습니다
 
 RESOURCE ID: route_play_detail_map_soon
 TEXT: 루트 미리보기 맵은 현재 표시할 수 없습니다.
+
+RESOURCE ID: route_play_end_point_push_notification
+TEXT: 루트 끝나는 지점이 가깝다!
+
+RESOURCE ID: route_play_end_point_push_notification_description
+TEXT: Pokémon GO를 열고 루트 완료한다
 
 RESOURCE ID: route_play_hoo_warning_button
 TEXT: 루트를 플레이
@@ -67184,24 +68398,6 @@ TEXT: 루트 진행을 재개했습니다
 RESOURCE ID: route_play_travel_distance
 TEXT: 현재 거리:
 
-RESOURCE ID: route_poi_list_view_description_short_tip
-TEXT: 포켓스톱 또는 체육관을 적어도 {0}개 이상 추가해 주세요.
-
-RESOURCE ID: route_poi_list_view_description_tip
-TEXT: 방문할 순서로 포켓스톱 또는 체육관을 선택해 추가해 주세요.
-
-RESOURCE ID: route_poi_list_view_max_wp_tip
-TEXT: 최대 수의 포켓스톱 또는 체육관이 포함되어 있습니다
-
-RESOURCE ID: route_poi_list_view_start_point_tip
-TEXT: 시작 지점을 선택
-
-RESOURCE ID: route_poi_list_view_total_distance
-TEXT: 총 거리: {0}m
-
-RESOURCE ID: route_poi_list_view_total_time
-TEXT: 예상 소요시간: {0}분
-
 RESOURCE ID: route_pokemon_caught_label
 TEXT: 루트에서 잡은 포켓몬
 
@@ -67214,71 +68410,14 @@ TEXT: PUBLISHED ROUTES
 RESOURCE ID: route_quit_label
 TEXT: 나가기
 
-RESOURCE ID: route_rating_button
-TEXT: 평가
-
 RESOURCE ID: route_rating_description
 TEXT: 이 도로를 즐기셨나요? 평가 해주세요.
 
 RESOURCE ID: route_rating_percentage_label
 TEXT: {0}%
 
-RESOURCE ID: route_rating_reason
-TEXT: 복수 선택 가능합니다
-
-RESOURCE ID: route_rating_reason_bad_accessibility
-TEXT: 접근 불가
-
-RESOURCE ID: route_rating_reason_bad_accuracy
-TEXT: 정확하지 않았다
-
-RESOURCE ID: route_rating_reason_bad_length
-TEXT: 부적절한 거리
-
-RESOURCE ID: route_rating_reason_bad_location
-TEXT: 관계 없는 장소
-
-RESOURCE ID: route_rating_reason_good_destination
-TEXT: 도착지가 좋았다
-
-RESOURCE ID: route_rating_reason_good_learning
-TEXT: 배움이 많았다
-
-RESOURCE ID: route_rating_reason_good_location
-TEXT: 장소가 좋았다
-
-RESOURCE ID: route_rating_reason_good_walk
-TEXT: 걷기 좋았다
-
-RESOURCE ID: route_rating_theme
-TEXT: 테마를 정한다
-
-RESOURCE ID: route_rating_theme_architecture
-TEXT: 건축
-
 RESOURCE ID: route_rating_theme_art
 TEXT: 아트
-
-RESOURCE ID: route_rating_theme_casual
-TEXT: 캐주얼
-
-RESOURCE ID: route_rating_theme_culture
-TEXT: 문화
-
-RESOURCE ID: route_rating_theme_food
-TEXT: 음식
-
-RESOURCE ID: route_rating_theme_history
-TEXT: 역사
-
-RESOURCE ID: route_rating_theme_nature
-TEXT: 자연
-
-RESOURCE ID: route_rating_theme_sightseeing
-TEXT: 관광
-
-RESOURCE ID: route_rating_title
-TEXT: 이 도로는 어땠나요?
 
 RESOURCE ID: route_recording_paused
 TEXT: 루트 기록을 일시 정지했습니다
@@ -67307,24 +68446,8 @@ TEXT: 편집해서 다시 제출
 RESOURCE ID: route_rejection_title
 TEXT: 이 루트는 거절 되었습니다.
 
-RESOURCE ID: route_remove_from_route
-TEXT: 루트에서 삭제
-
 RESOURCE ID: route_report_body
 TEXT: 보내주신 보고 내용은 Niantic 방침에 따라 심사 진행 후, 적절한 조치를 결정합니다. 보고자의 정보가 루트 작성자에게 공유되지 않습니다. 송신하면 보고 내용이 맞는지에 대한 확인 및 증명이 완료 된 것으로 간주합니다.
-
-RESOURCE ID: route_report_cancel_message
-TEXT: 이 보고를 송신하면 이 루트는 취소됩니다.
-
-RESOURCE ID: route_report_description
-TEXT: 어떤 문제가 발생했습니까?
-설명해 주세요.
-
-RESOURCE ID: route_report_dont_know
-TEXT: 알 수 없다
-
-RESOURCE ID: route_report_permanent
-TEXT: 영구적인 문제
 
 RESOURCE ID: route_report_submit_description
 TEXT: 보고 감사합니다. 루트 체험이 중단된 경우 불편을 드려 죄송합니다.
@@ -67335,9 +68458,6 @@ TEXT: 보고 감사합니다. 루트 체험이 중단 된 경우 불편을 드�
 RESOURCE ID: route_report_submit_title
 TEXT: 보고 송신 완료
 
-RESOURCE ID: route_report_temporary
-TEXT: 일시적인 문제
-
 RESOURCE ID: route_report_title
 TEXT: 이 루트를 보고한다
 
@@ -67346,12 +68466,6 @@ TEXT: 이 루트에 관한 보고를 송신하면 현재 섹션이 종료 될 �
 
 RESOURCE ID: route_report_warning_title
 TEXT: 이 루트를 보고하겠습니까?
-
-RESOURCE ID: route_reset_modal_promot
-TEXT: 리셋하며 루트의 모든 정보가 삭제됩니다. 리셋하겠습니까?
-
-RESOURCE ID: route_reset_modal_title
-TEXT: 루트 리셋
 
 RESOURCE ID: route_resume_label
 TEXT: 다시 시작
@@ -67362,14 +68476,8 @@ TEXT: 루트 방향을 반전했습니다.
 RESOURCE ID: route_reversible_notice_label
 TEXT: 이 루트는 거꾸로 걷는 것이 가능합니다
 
-RESOURCE ID: route_review_submission_page
-TEXT: 제출 전에 입력한 정보를 확인하세요.
-
 RESOURCE ID: route_review_submission_title
 TEXT: 심사
-
-RESOURCE ID: route_set_start_point
-TEXT: 시작 지점으로 설정
 
 RESOURCE ID: route_sort_category
 TEXT: 테마
@@ -67385,21 +68493,6 @@ TEXT: 가까움
 
 RESOURCE ID: route_sort_rating
 TEXT: 평가
-
-RESOURCE ID: route_spinning_add_to_route
-TEXT: 이 포켓스톱 또는 체육관은 루트에 포함되어 있지 않습니다. 추가하겠습까?
-
-RESOURCE ID: route_spinning_poi_out_of_order
-TEXT: 포켓스톱 또는 체육관을 순서대로 방문해 포토디스크를 돌려 주세요.
-
-RESOURCE ID: route_spinning_visit_poi
-TEXT: 포토디스크를 돌려 검증을 종료해주세요.
-
-RESOURCE ID: route_stamp_category
-TEXT: DEFAULT
-
-RESOURCE ID: route_stamp_category_default
-TEXT: STAMP COLLECTIONS
 
 RESOURCE ID: route_stamps_header
 TEXT: STAMPS
@@ -67425,26 +68518,14 @@ TEXT: 거절
 RESOURCE ID: route_status_submitted
 TEXT: 심사 중
 
-RESOURCE ID: route_status_time_stamp_saved
-TEXT: 마지막 저장일: {0}
-
 RESOURCE ID: route_status_time_stamp_submitted
 TEXT: 제출일: {0}
-
-RESOURCE ID: route_stop_button
-TEXT: 중단한다
 
 RESOURCE ID: route_stop_description
 TEXT: 이 루트 걷는 것을 그만두면 진행 상태는 삭제됩니다. 이 조작은 복구되지 않습니다.
 
 RESOURCE ID: route_stop_report
 TEXT: 이 루트에서 문제가 생긴 경우 루트 걷기를 멈추고 문제를 보고할 수 있습니다
-
-RESOURCE ID: route_stop_start_new_button
-TEXT: 신규 작성
-
-RESOURCE ID: route_stop_start_new_button_same_route
-TEXT: 루트 다시 시작
 
 RESOURCE ID: route_stop_title
 TEXT: 이 루트 걷기를 그만두겠습니까?
@@ -67485,14 +68566,8 @@ TEXT: 사용할 수 없는 루트 이미지
 RESOURCE ID: route_submission_bad_name
 TEXT: 타이틀에 부적절한 내용이 포함되어 있습니다.
 
-RESOURCE ID: route_submission_badge_creation_title
-TEXT: 메달 작성
-
 RESOURCE ID: route_submission_badge_image_prompt
 TEXT: 배지에 달 이미지를 선택:
-
-RESOURCE ID: route_submission_choose_icon
-TEXT: 이 루트 메달 아이콘을 선택해 주세요.
 
 RESOURCE ID: route_submission_color_tab_name
 TEXT: 색
@@ -67553,6 +68628,9 @@ TEXT: 당신의 루트가 발표되었습니다!
 RESOURCE ID: route_submission_result_reject_description
 TEXT: 루트 타이틀, 설명에 부적절한 문구 또는 링크가 있어 거절되었습니다. 이 루트를 편집해서 다시 제출할 수 없습니다.
 
+RESOURCE ID: route_submission_result_reject_reasons_generic
+TEXT: 루트 조건을 충족하지 않았거나, 루트 가이드라인을 벗어났습니다.
+
 RESOURCE ID: route_submission_result_reject_reasons_primary
 TEXT: 다음 이유로 거절되어습니다.
 
@@ -67568,17 +68646,11 @@ TEXT: 루트 상세 화면에서 언제든지 확인할 수 있습니다. 승인
 RESOURCE ID: route_submission_result_success_title
 TEXT: 루트를 제출했습니다!
 
-RESOURCE ID: route_submission_result_too_many_recent
-TEXT: 제출한 루트 수가 너무 많습니다. 잠시 후 다시 시도해 주십시오.
-
 RESOURCE ID: route_submission_result_unavailiable
 TEXT: 루트를 제출할 수 없습니다. 잠시 후 시도해 주십시오.
 
 RESOURCE ID: route_submission_result_unknown_error
 TEXT: 제출 에러. 잠시 후 다시 시도해 주십시오.
-
-RESOURCE ID: route_submission_result_unvisited_fort
-TEXT: 루트상 모든 포켓스톱 또는 체육관을 방문해 주세요.
 
 RESOURCE ID: route_submission_reversible
 TEXT: 이 루트는 순서대로 걸을 수 있나요?
@@ -67630,12 +68702,6 @@ TEXT: 지금 작성
 
 RESOURCE ID: route_submit_label
 TEXT: 보내기
-
-RESOURCE ID: route_submitted_confirmation_description
-TEXT: 루트를 제출했습니다. 루트 메이커 화면에 심사 결과가 표시됩니다.
-
-RESOURCE ID: route_submitted_confirmation_title
-TEXT: 제출 완료!
 
 RESOURCE ID: route_tag_art
 TEXT: 아트
@@ -67739,68 +68805,11 @@ TEXT: This Route was successfully withdrawn from review
 RESOURCE ID: route_unsubmit_label
 TEXT: 제출 취소
 
-RESOURCE ID: route_validation_celebration
-TEXT: 루트를 검증했습니다! 만든 루트의 정보를 추가해 주세요.
-
-RESOURCE ID: route_validation_description
-TEXT: 이 문제를 해결 후 제출해 주십시오.
-
 RESOURCE ID: route_validation_description_length
 TEXT: Route description cannot exceed {0} characters.
 
-RESOURCE ID: route_validation_first_waypoint
-TEXT: The Start Point of a Route must be a Pokéstop or a Gym.
-
-RESOURCE ID: route_validation_last_waypoint
-TEXT: The last waypoint of a route must be a Pokéstop or a Gym.
-
-RESOURCE ID: route_validation_max_checkpoint
-TEXT: Routes cannot have more than {0} checkpoints.
-
-RESOURCE ID: route_validation_max_checkpoint_between_poi
-TEXT: There cannot be more than {0} checkpoints between Waypoints #{1} and #{2}.
-
-RESOURCE ID: route_validation_max_checkpoint_per_distance
-TEXT: Routes can have 1 added checkpoint per each {0} meters. Too many waypoints added.
-
-RESOURCE ID: route_validation_max_distance_checkpoint
-TEXT: Checkpoint #{0} cannot be further than {1} meters away.
-
-RESOURCE ID: route_validation_max_distance_poi
-TEXT: Distance between Waypoints #{0} and #{1} cannot exceed {2} meters.
-
-RESOURCE ID: route_validation_max_length
-TEXT: Route cannot be longer than {0} meters.
-
-RESOURCE ID: route_validation_max_poi
-TEXT: 루트에는 {0}보다 많은 포켓스톱 또는 체육관을 포함할 수 없습니다.
-
-RESOURCE ID: route_validation_min_distance_checkpoint
-TEXT: Checkpoint #{0} must be at least {1} meters away.
-
-RESOURCE ID: route_validation_min_distance_poi
-TEXT: Distance between Waypoints #{0} and #{1} must exceed {2} meters.
-
-RESOURCE ID: route_validation_min_length
-TEXT: {0}m보다 짧은 루트는 만들 수 없습니다.
-
-RESOURCE ID: route_validation_min_poi
-TEXT: 루트에는 적어도 포켓스톱 또는 체육관이 {0}개 있어야합니다.
-
-RESOURCE ID: route_validation_poi_not_verified
-TEXT: Route Waypoint #{0} needs to be verified by spinning it.
-
-RESOURCE ID: route_validation_pois_not_loaded
-TEXT: 이 루트에서 너무 멀어 검증할 수 없습니다.
-
-RESOURCE ID: route_validation_title
-TEXT: 루트 검증
-
 RESOURCE ID: route_validation_title_length
 TEXT: Route title cannot exceed {0} characters.
-
-RESOURCE ID: route_view_stamp_button
-TEXT: About this Route:
 
 RESOURCE ID: route_waiting_for_data
 TEXT: 데이터 로딩 중
@@ -67808,32 +68817,11 @@ TEXT: 데이터 로딩 중
 RESOURCE ID: route_walk_button
 TEXT: 걷기
 
-RESOURCE ID: route_walking_all_waypoints_verified
-TEXT: 루트상의 모든 스톱을 돌았습니다!
-
-RESOURCE ID: route_walking_context_page
-TEXT: 각 포켓스톱 또는 체육관을 방문하여 포토디스크를 돌린다
-
-RESOURCE ID: route_walking_context_title
-TEXT: 루트를 걷는다
-
-RESOURCE ID: route_walking_first_poi_spin
-TEXT: This is the Starting Point that you selected. Please spin the disk to confirm it.
-
 RESOURCE ID: route_walking_follow_path
 TEXT: 경로를 따라 끝나는 지점까지 걸어주세요.
 
 RESOURCE ID: route_walking_head_to_start
 TEXT: 시작 지점에서 루트를 시작해 주세요.
-
-RESOURCE ID: route_walking_head_to_waypoint
-TEXT: #{0}번 스톱의 {1}행 디스크를 돌려주세요.
-
-RESOURCE ID: route_walking_poi_spin
-TEXT: This is Waypoint #{0}: {1}. Please spin the disk to confirm it.
-
-RESOURCE ID: route_walking_poi_verified
-TEXT: 루트의 포켓스톱 또는 체육관은 검증되었습니다.
 
 RESOURCE ID: route_weekly_community_activity_label
 TEXT: 이번 주 커뮤니티 활동
@@ -67843,17 +68831,6 @@ TEXT: 플레이 수
 
 RESOURCE ID: route_your_plays_label
 TEXT: 내가 플레이한 수
-
-RESOURCE ID: route_zero_route_maker_desc
-TEXT: 루트 메이커를 가지고 있지 않습니다.
-
-신규 루트를 만들려면 루트 메이커가 필요합니다.
-
-RESOURCE ID: routemaker_description
-TEXT: 루트를 만들 수 있는 장치. 한번에 5개까지 지닐 수 있다.
-
-RESOURCE ID: routemaker_title
-TEXT: 루트 메이커
 
 RESOURCE ID: routes_begin_creation_button
 TEXT: 확정 후 다음으로
@@ -67876,8 +68853,8 @@ TEXT: 이미 시작 지점으로 설정했습니다.
 RESOURCE ID: routes_end_at
 TEXT: 끝:
 
-RESOURCE ID: routes_general
-TEXT: 루트 메이커
+RESOURCE ID: routes_nearby_notification
+TEXT: 근처에 루트가 있습니다!
 
 RESOURCE ID: routes_no_endpoint_selection_made
 TEXT: 미설정
@@ -68190,6 +69167,78 @@ TEXT: Safari Zone: 포켓몬을 잡을 때 라즈열매를 {0}개 사용한다
 
 RESOURCE ID: safari_buddy_snapshot
 TEXT: Safari Zone: 파트너의 사진을 찍기
+
+RESOURCE ID: safari_city_leave_behind_title_barcelona
+TEXT: Barcelona City Safari: The Journey Continues
+
+RESOURCE ID: safari_city_leave_behind_title_barcelona_00
+TEXT: Barcelona City Safari: The Journey Continues (1/7)
+
+RESOURCE ID: safari_city_leave_behind_title_barcelona_01
+TEXT: Barcelona City Safari: The Journey Continues (2/7)
+
+RESOURCE ID: safari_city_leave_behind_title_barcelona_02
+TEXT: Barcelona City Safari: The Journey Continues (3/7)
+
+RESOURCE ID: safari_city_leave_behind_title_barcelona_03
+TEXT: Barcelona City Safari: The Journey Continues (4/7)
+
+RESOURCE ID: safari_city_leave_behind_title_barcelona_04
+TEXT: Barcelona City Safari: The Journey Continues (5/7)
+
+RESOURCE ID: safari_city_leave_behind_title_barcelona_05
+TEXT: Barcelona City Safari: The Journey Continues (6/7)
+
+RESOURCE ID: safari_city_leave_behind_title_barcelona_06
+TEXT: Barcelona City Safari: The Journey Continues (7/7)
+
+RESOURCE ID: safari_city_leave_behind_title_mxc
+TEXT: Mexico City Safari: The Journey Continues
+
+RESOURCE ID: safari_city_leave_behind_title_mxc_00
+TEXT: Mexico City Safari: The Journey Continues (1/7)
+
+RESOURCE ID: safari_city_leave_behind_title_mxc_01
+TEXT: Mexico City Safari: The Journey Continues (2/7)
+
+RESOURCE ID: safari_city_leave_behind_title_mxc_02
+TEXT: Mexico City Safari: The Journey Continues (3/7)
+
+RESOURCE ID: safari_city_leave_behind_title_mxc_03
+TEXT: Mexico City Safari: The Journey Continues (4/7)
+
+RESOURCE ID: safari_city_leave_behind_title_mxc_04
+TEXT: Mexico City Safari: The Journey Continues (5/7)
+
+RESOURCE ID: safari_city_leave_behind_title_mxc_05
+TEXT: Mexico City Safari: The Journey Continues (6/7)
+
+RESOURCE ID: safari_city_leave_behind_title_mxc_06
+TEXT: Mexico City Safari: The Journey Continues (7/7)
+
+RESOURCE ID: safari_city_leave_behind_title_seoul
+TEXT: Seoul City Safari: The Journey Continues
+
+RESOURCE ID: safari_city_leave_behind_title_seoul_00
+TEXT: Seoul City Safari: The Journey Continues (1/7)
+
+RESOURCE ID: safari_city_leave_behind_title_seoul_01
+TEXT: Seoul City Safari: The Journey Continues (2/7)
+
+RESOURCE ID: safari_city_leave_behind_title_seoul_02
+TEXT: Seoul City Safari: The Journey Continues (3/7)
+
+RESOURCE ID: safari_city_leave_behind_title_seoul_03
+TEXT: Seoul City Safari: The Journey Continues (4/7)
+
+RESOURCE ID: safari_city_leave_behind_title_seoul_04
+TEXT: Seoul City Safari: The Journey Continues (5/7)
+
+RESOURCE ID: safari_city_leave_behind_title_seoul_05
+TEXT: Seoul City Safari: The Journey Continues (6/7)
+
+RESOURCE ID: safari_city_leave_behind_title_seoul_06
+TEXT: Seoul City Safari: The Journey Continues (7/7)
 
 RESOURCE ID: safari_event
 TEXT: Pokémon GO Safari
@@ -68567,11 +69616,41 @@ TEXT: 빛나는 리서치데이: 시간제한 리서치
 RESOURCE ID: season10_tr_willow_title
 TEXT: 박사의 모험 도전
 
+RESOURCE ID: season12_branch_1_button_key
+TEXT: Adventure with Sprigatito
+
+RESOURCE ID: season12_branch_1_description_key
+TEXT: Choose this option to go adventuring with Sprigatito!
+
+RESOURCE ID: season12_branch_1_title_key
+TEXT: Adventure with Sprigatito
+
+RESOURCE ID: season12_branch_2_button_key
+TEXT: Adventure with Fuecoco
+
+RESOURCE ID: season12_branch_2_description_key
+TEXT: Choose this option to go adventuring with Fuecoco!
+
+RESOURCE ID: season12_branch_2_title_key
+TEXT: Adventure with Fuecoco
+
+RESOURCE ID: season12_branch_3_button_key
+TEXT: Adventure with Quaxly
+
+RESOURCE ID: season12_branch_3_description_key
+TEXT: Choose this option to go adventuring with Quaxly!
+
+RESOURCE ID: season12_branch_3_title_key
+TEXT: Adventure with Quaxly
+
 RESOURCE ID: season_gbl_forecast_title_10
 TEXT: 시즌10: 라이징 히어로
 
 RESOURCE ID: season_gbl_forecast_title_11
 TEXT: Pokémon GO: 숨겨진 보석
+
+RESOURCE ID: season_gbl_forecast_title_12
+TEXT: Pokémon GO: Adventures Abound
 
 RESOURCE ID: season_gbl_forecast_title_7
 TEXT: 시즌 오브 GO
@@ -68965,6 +70044,12 @@ TEXT: 새로고침하여 게임 데이터 캐시를 삭제하겠습니까?
 
 RESOURCE ID: settings_resources_str
 TEXT: 힌트와 자료
+
+RESOURCE ID: settings_route_guidance
+TEXT: 루트 안내
+
+RESOURCE ID: settings_route_guidance_tip
+TEXT: 루트 끝나는 지점에 있거나 뭔가 신기한 것이 나타났을 때 알림
 
 RESOURCE ID: settings_select_legendary_label
 TEXT: 확장 선택
@@ -69881,6 +70966,8 @@ TEXT: 몸에서 멀리 떨어지면 수면 계측을 올바르게 할 수 없습
 RESOURCE ID: sleep_tips_2_description_1
 TEXT: 수면 세션을 시작하려면, 본체 메인 버튼이 1번만 파랑 불이 들어올때까지 계속 누릅니다.
 
+Pokémon GO의 연결은 끊은 상태에서 진행합니다.
+
 RESOURCE ID: sleep_tips_2_description_2
 TEXT: 수면 세션을 종료하려면 본체 메인 버튼을 무지개색이 될때까지 계속 누르세요.
 
@@ -70133,6 +71220,9 @@ TEXT: 푸호꼬가 야생에서 많이 출현!
 
 RESOURCE ID: spawn_fletchling
 TEXT: 화살꼬빈이 야생에서 많이 출현
+
+RESOURCE ID: spawn_froakie
+TEXT: 개구마르가 야생에서 많이 출현
 
 RESOURCE ID: spawn_gastly
 TEXT: 고오스가 야생에서 많이 출현
@@ -72452,7 +73542,7 @@ TEXT: 계정 일시 정지 안내
 계정 일시 정지는 약 30일간 유지됩니다. 그 후에도 올바르지 않은 접속이 계속된다고 인정이 되는 경우 계정은 영구정지 됩니다.
 
 RESOURCE ID: suspension_rate_limit_desc
-TEXT: <0>스트라이크 1 (24시간):</0><1/>귀하의 계정에서 비정상적인 활동이 감지되었으므로, 귀하의 플레이가 일시적으로 제한됩니다.
+TEXT: 귀하의 계정에서 비정상적인 활동이 감지되었으므로, 귀하의 플레이가 일시적으로 제한됩니다.
 
 RESOURCE ID: switch_sleep_warning
 TEXT: 디바이스가 절전 상태 등으로 통신이 끊기지 않도록 주의해주십시오. 
@@ -72735,6 +73825,9 @@ TEXT: '여우포켓몬의 수수께끼를 풀어라!' 티켓이 숍에 등장
 RESOURCE ID: ticket_fletchling
 TEXT: 울새포켓몬의 수수께끼를 풀어라!'의 티켓이 숍에 등장
 
+RESOURCE ID: ticket_froakie
+TEXT: 「거품개구리포켓몬의 수수께끼를 풀어라!」 티켓이 숍에 등장
+
 RESOURCE ID: ticket_gastly
 TEXT: 가스포켓몬의 수수께끼를 풀어라! 티켓이 숍에 등장
 
@@ -72960,6 +74053,9 @@ TEXT: 니드런♀과 니드런♂의 시간제한 리서치
 
 RESOURCE ID: timed_research_pokemon_snubbull
 TEXT: 블루의 시간 제한 리서치
+
+RESOURCE ID: timed_trial_mb_research_title
+TEXT: Timed Investigation: Master Ball
 
 RESOURCE ID: tips_battle_at_gyms_tutorial_body
 TEXT: 다른 팀의 체육관에서 포켓몬을 쓰러뜨리면(모든 포켓몬의 의욕을 0으로 만들면), 그 체육관을 내 팀 컬러로 만들 수 있습니다.
@@ -74811,6 +75907,12 @@ TEXT: 업로드 완료!
 RESOURCE ID: upmgmt_summary_thanks
 TEXT: 감사합니다.
 
+RESOURCE ID: usa_gofest_2023_global_event_name
+TEXT: 독 늪 프로젝트
+
+RESOURCE ID: usa_timed_header_0
+TEXT: 독 늪 프로젝트 시간제한 리서치
+
 RESOURCE ID: use_now_button
 TEXT: 바로 사용
 
@@ -75075,7 +76177,7 @@ RESOURCE ID: vss_badge_ace
 TEXT: 엘리트
 
 RESOURCE ID: vss_badge_expert
-TEXT: 달인
+TEXT: 엑스퍼트
 
 RESOURCE ID: vss_badge_legend
 TEXT: 레전드
@@ -75305,9 +76407,6 @@ TEXT: KM
 RESOURCE ID: walk_steps
 TEXT: 걸음 수
 
-RESOURCE ID: walked_label
-TEXT: WALKED
-
 RESOURCE ID: water_festival_catch_timed_research
 TEXT: 워터 페스티벌: 캐치 챌린지
 
@@ -75371,8 +76470,62 @@ TEXT:  포켓몬 월드챔피언십2022 런던 - Pokémon GO
 RESOURCE ID: wcs_2022_title
 TEXT: 포켓몬 월드챔피언십2022
 
+RESOURCE ID: wcs_2023_battle_tr_description
+TEXT: 포켓몬 월드챔피언십2023 보너스 시간제한 리서치
+
+RESOURCE ID: wcs_2023_battle_tr_dialogue_00
+TEXT: 안녕, %PLAYERNAME%! 배틀 준비는 어때?
+
+RESOURCE ID: wcs_2023_battle_tr_dialogue_01
+TEXT: 마음에 드는 포켓몬 3마리를 선택해줘!
+
+RESOURCE ID: wcs_2023_battle_tr_path_a
+TEXT: 무장조
+
+RESOURCE ID: wcs_2023_battle_tr_path_a_desc
+TEXT: 이 길을 선택하면 무장조, 대짱이, 발바로의 팀을 슈퍼리그용으로 키울 수 있습니다.
+
+RESOURCE ID: wcs_2023_battle_tr_path_b
+TEXT: 대로트
+
+RESOURCE ID: wcs_2023_battle_tr_path_b_desc
+TEXT: 이 길을 선택하면 야부엉, 랜턴, 대로트의 팀을 슈퍼리그용으로 키울 수 있습니다.
+
+RESOURCE ID: wcs_2023_battle_tr_path_c
+TEXT: 마릴리
+
+RESOURCE ID: wcs_2023_battle_tr_path_c_desc
+TEXT: 이 길을 선택하면 마릴리, 블래키, 버랜지나의 팀을 슈퍼리그용으로 키울 수 있습니다.
+
+RESOURCE ID: wcs_2023_battle_tr_title
+TEXT: 슈퍼리그 스페셜
+
+RESOURCE ID: wcs_2023_battle_tr_title_00
+TEXT: 슈퍼리그 스페셜 (1/3)
+
+RESOURCE ID: wcs_2023_battle_tr_title_01
+TEXT: 슈퍼리그 스페셜 (2/3)
+
+RESOURCE ID: wcs_2023_battle_tr_title_02
+TEXT: 슈퍼리그 스페셜 (3/3)
+
+RESOURCE ID: wcs_2023_champion_tr_description
+TEXT: 포켓몬 월드챔피언십2023 보너스 시간제한 리서치
+
+RESOURCE ID: wcs_2023_champion_tr_title
+TEXT: DancingRob님의 배틀 팀
+
+RESOURCE ID: wcs_2023_champion_tr_title_00
+TEXT: DancingRob님의 배틀 팀(1/2)
+
+RESOURCE ID: wcs_2023_champion_tr_title_01
+TEXT: DancingRob님의 배틀 팀(2/2)
+
+RESOURCE ID: wcs_2023_yokohama_event_title
+TEXT: 포켓몬 월드챔피언십2023, 요코하마
+
 RESOURCE ID: wcs_aug23_header_0
-TEXT: 2023 Pokémon World Championships
+TEXT: 포켓몬 월드챔피언십2023
 
 RESOURCE ID: wcs_battle_tr_description
 TEXT: WCS2022 보너스 시간제한 리서치
@@ -75418,6 +76571,27 @@ TEXT: 포켓몬 월드챔피언십2022의 이벤트 포켓스톱을 돌리면 �
 
 RESOURCE ID: wcs_collection_title
 TEXT: 2022 월드 콜렉션 챌린지
+
+RESOURCE ID: wcs_froakie_bonus_tr_desc
+TEXT: 개구마르 커뮤니티 데이: 보너스 시간제한 리서치
+
+RESOURCE ID: wcs_froakie_bonus_tr_title
+TEXT: 개구마르 커뮤니티 데이: 보너스 시간제한 리서치
+
+RESOURCE ID: wcs_froakie_bonus_tr_title_00
+TEXT: 개구마르 커뮤니티 데이: 보너스 시간제한 리서치(1/5)
+
+RESOURCE ID: wcs_froakie_bonus_tr_title_01
+TEXT: 개구마르 커뮤니티 데이: 보너스 시간제한 리서치(2/5)
+
+RESOURCE ID: wcs_froakie_bonus_tr_title_02
+TEXT: 개구마르 커뮤니티 데이: 보너스 시간제한 리서치(3/5)
+
+RESOURCE ID: wcs_froakie_bonus_tr_title_03
+TEXT: 개구마르 커뮤니티 데이: 보너스 시간제한 리서치(4/5)
+
+RESOURCE ID: wcs_froakie_bonus_tr_title_04
+TEXT: 개구마르 커뮤니티 데이: 보너스 시간제한 리서치(5/5)
 
 RESOURCE ID: wcs_implicit_social_description
 TEXT: 트레이너 20명이 협력하여 레이드배틀에 이기면 그 체육관 주변에서 10분 동안 특별한 포켓몬이 출현합니다
@@ -75661,4 +76835,10 @@ TEXT: 리퍼럴 코드를 변경했습니다
 
 RESOURCE ID: your_trainer_code_title
 TEXT: 자신의 트레이너 코드
+
+RESOURCE ID: zygarde_tappable_push_notification
+TEXT: 뭔가 신기한 것이 나타났다!
+
+RESOURCE ID: zygarde_tappable_push_notification_description
+TEXT: Pokémon GO를 열고 확인한다
 
