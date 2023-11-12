@@ -31313,9 +31313,9 @@ RESOURCE ID: mega_walking_progress
 TEXT: Walking Progress
 
 RESOURCE ID: metadata_local
-TEXT: Built at 2023-08-30T09:01:57.857742
-at SHA 6bec196e00a39beb99a5722a28190c52d8b04c3a
-Pipeline 1713716, job 20790701
+TEXT: Built at 2023-09-05T22:09:08.100530
+at SHA d365896004d0c49ae898e6ba22bc12199da9507a
+Pipeline 1726595, job 20964204
 
 RESOURCE ID: mex_fighting_promo_title
 TEXT: Timed Research: Choose Your Fighting Type
