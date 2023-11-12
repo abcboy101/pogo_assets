@@ -208,6 +208,9 @@ TEXT: 仲間がいればもっと楽しい
 RESOURCE ID: abi_new_player_onboarding_title_2
 TEXT: 連絡先リストから仲間を見つける
 
+RESOURCE ID: ability_already_applied
+TEXT: すでに使っています
+
 RESOURCE ID: about_screen_btn
 TEXT: Pokémon GO について
 
@@ -932,7 +935,7 @@ RESOURCE ID: appraise_overall_mid_3|1
 TEXT: きみの {0} は、全体的に普通だと思うぜ。
 
 RESOURCE ID: appraise_size_huge_1|1
-TEXT: きみの{0}は非常に大きいと言えるだろう。
+TEXT: {0}の大きさは... 分類できないほどだ。興味深い。
 
 RESOURCE ID: appraise_size_huge_1|1_tgr
 TEXT: すごく大きい{0}だ。
@@ -941,7 +944,7 @@ RESOURCE ID: appraise_size_huge_1|1b
 TEXT: きみの{0}は非常に大きいと言えるだろう。
 
 RESOURCE ID: appraise_size_huge_2|1
-TEXT: えっ、けっこう大きい{0}ね！
+TEXT: きみの{0}は巨大ね！今までで一番大きいわ。
 
 RESOURCE ID: appraise_size_huge_2|1_tgr
 TEXT: けっこう大きい{0}ですね。いいんじゃないですか。
@@ -1004,7 +1007,7 @@ RESOURCE ID: appraise_size_small_3|1_tgr
 TEXT: この{0}は小さいほうよ。
 
 RESOURCE ID: appraise_size_tiny_1|1
-TEXT: きみの{0}は非常に小さいと言えるだろう。
+TEXT: きみの{0}は記録に残っているかぎり、最小のようだ。驚異的。
 
 RESOURCE ID: appraise_size_tiny_1|1_tgr
 TEXT: とても小さい{0}だ。
@@ -1013,7 +1016,7 @@ RESOURCE ID: appraise_size_tiny_1|1b
 TEXT: きみの{0}は非常に小さいと言えるだろう。
 
 RESOURCE ID: appraise_size_tiny_2|1
-TEXT: あら、小さい{0}ね！
+TEXT: きみの{0}は、とっても小さいね！よく見つけられたわね。
 
 RESOURCE ID: appraise_size_tiny_2|1_tgr
 TEXT: これほど小さい{0}は冗談じゃないかと思うほどです。
@@ -1022,7 +1025,7 @@ RESOURCE ID: appraise_size_tiny_2|1b
 TEXT: あら、小さい{0}ね！
 
 RESOURCE ID: appraise_size_tiny_3|1
-TEXT: きみの{0}はかなり小さめ、じゃないかな？
+TEXT: なんと！今まで見たなかでいちばん小さい{0}だぜ！
 
 RESOURCE ID: appraise_size_tiny_3|1_tgr
 TEXT: なんて小さい{0}なんでしょ。 
@@ -3626,8 +3629,14 @@ TEXT: 帽子
 RESOURCE ID: avatar_lock_badge
 TEXT: {1}メダル第{0}段階でアンロック
 
+RESOURCE ID: avatar_lock_badge_item_name
+TEXT: {0}：{2}メダル第{1}段階でアンロック
+
 RESOURCE ID: avatar_lock_level
 TEXT: レベル{0}でアンロック
+
+RESOURCE ID: avatar_lock_level_item_name
+TEXT: {0}：レベル{1}でアンロック
 
 RESOURCE ID: avatar_m_backpack_alolaitemslittenbp_00_bundle_icon
 TEXT: ニャビー　バックパック
@@ -7844,6 +7853,96 @@ TEXT: GOロケット団員に{0}回勝った！
 RESOURCE ID: badge_rocket_grunts_defeated_title
 TEXT: ヒーロー
 
+RESOURCE ID: badge_safari_2023_barcelona_add_on_hatch
+TEXT: Pokémon GO City Safari
+
+RESOURCE ID: badge_safari_2023_barcelona_add_on_hatch_title
+TEXT: City Safari—タマゴ名人
+
+RESOURCE ID: badge_safari_2023_barcelona_add_on_raid
+TEXT: Pokémon GO City Safari
+
+RESOURCE ID: badge_safari_2023_barcelona_add_on_raid_title
+TEXT: City Safari—レイド大好き
+
+RESOURCE ID: badge_safari_2023_barcelona_day_00
+TEXT: バルセロナ2023
+
+RESOURCE ID: badge_safari_2023_barcelona_day_00_title
+TEXT: Pokémon GO City Safari
+
+RESOURCE ID: badge_safari_2023_barcelona_day_01
+TEXT: バルセロナ2023年10月13日
+
+RESOURCE ID: badge_safari_2023_barcelona_day_01_title
+TEXT: Pokémon GO City Safari
+
+RESOURCE ID: badge_safari_2023_barcelona_day_02
+TEXT: バルセロナ2023年10月14日
+
+RESOURCE ID: badge_safari_2023_barcelona_day_02_title
+TEXT: Pokémon GO City Safari
+
+RESOURCE ID: badge_safari_2023_mexcity_add_on_hatch
+TEXT: Pokémon GO City Safari
+
+RESOURCE ID: badge_safari_2023_mexcity_add_on_hatch_title
+TEXT: City Safari—タマゴ名人
+
+RESOURCE ID: badge_safari_2023_mexcity_add_on_raid
+TEXT: Pokémon GO City Safari
+
+RESOURCE ID: badge_safari_2023_mexcity_add_on_raid_title
+TEXT: City Safari—レイド大好き
+
+RESOURCE ID: badge_safari_2023_mexcity_day_00
+TEXT: メキシコシティ2023
+
+RESOURCE ID: badge_safari_2023_mexcity_day_00_title
+TEXT: Pokémon GO Safari City
+
+RESOURCE ID: badge_safari_2023_mexcity_day_01
+TEXT: メキシコシティ2023年11月4日
+
+RESOURCE ID: badge_safari_2023_mexcity_day_01_title
+TEXT: Pokémon GO Safari City
+
+RESOURCE ID: badge_safari_2023_mexcity_day_02
+TEXT: メキシコシティ2023年11月5日
+
+RESOURCE ID: badge_safari_2023_mexcity_day_02_title
+TEXT: Pokémon GO Safari City
+
+RESOURCE ID: badge_safari_2023_seoul_add_on_hatch
+TEXT: Pokémon GO City Safari
+
+RESOURCE ID: badge_safari_2023_seoul_add_on_hatch_title
+TEXT: City Safari—タマゴ名人
+
+RESOURCE ID: badge_safari_2023_seoul_add_on_raid
+TEXT: Pokémon GO City Safari
+
+RESOURCE ID: badge_safari_2023_seoul_add_on_raid_title
+TEXT: City Safari—レイド大好き
+
+RESOURCE ID: badge_safari_2023_seoul_day_00
+TEXT: ソウル2023
+
+RESOURCE ID: badge_safari_2023_seoul_day_00_title
+TEXT: Pokémon GO City Safari
+
+RESOURCE ID: badge_safari_2023_seoul_day_01
+TEXT: ソウル2023年10月7日
+
+RESOURCE ID: badge_safari_2023_seoul_day_01_title
+TEXT: Pokémon GO City Safari
+
+RESOURCE ID: badge_safari_2023_seoul_day_02
+TEXT: ソウル2023年10月8日
+
+RESOURCE ID: badge_safari_2023_seoul_day_02_title
+TEXT: Pokémon GO City Safari
+
 RESOURCE ID: badge_safari_zone_europe_2017
 TEXT: 2017年9月16日 欧州
 
@@ -7861,60 +7960,6 @@ TEXT: GO Safari Zone - 2017年欧州
 
 RESOURCE ID: badge_safari_zone_europe_2017_title
 TEXT: Pokémon GO Safari
-
-RESOURCE ID: badge_safaricity_2023_barcelona_day_00_general
-TEXT: バルセロナ2023
-
-RESOURCE ID: badge_safaricity_2023_barcelona_day_00_general_title
-TEXT: Pokémon GO City Safari
-
-RESOURCE ID: badge_safaricity_2023_barcelona_day_01_general
-TEXT: バルセロナ2023年10月13日
-
-RESOURCE ID: badge_safaricity_2023_barcelona_day_01_general_title
-TEXT: Pokémon GO City Safari
-
-RESOURCE ID: badge_safaricity_2023_barcelona_day_02_general
-TEXT: バルセロナ2023年10月14日
-
-RESOURCE ID: badge_safaricity_2023_barcelona_day_02_general_title
-TEXT: Pokémon GO City Safari
-
-RESOURCE ID: badge_safaricity_2023_mexico_city_day_00_general
-TEXT: メキシコシティ2023
-
-RESOURCE ID: badge_safaricity_2023_mexico_city_day_00_general_title
-TEXT: Pokémon GO Safari City
-
-RESOURCE ID: badge_safaricity_2023_mexico_city_day_01_general
-TEXT: メキシコシティ2023年11月4日
-
-RESOURCE ID: badge_safaricity_2023_mexico_city_day_01_general_title
-TEXT: Pokémon GO Safari City
-
-RESOURCE ID: badge_safaricity_2023_mexico_city_day_02_general
-TEXT: メキシコシティ2023年11月5日
-
-RESOURCE ID: badge_safaricity_2023_mexico_city_day_02_general_title
-TEXT: Pokémon GO Safari City
-
-RESOURCE ID: badge_safaricity_2023_seoul_day_00_general
-TEXT: ソウル2023
-
-RESOURCE ID: badge_safaricity_2023_seoul_day_00_general_title
-TEXT: Pokémon GO City Safari
-
-RESOURCE ID: badge_safaricity_2023_seoul_day_01_general
-TEXT: ソウル2023年10月7日
-
-RESOURCE ID: badge_safaricity_2023_seoul_day_01_general_title
-TEXT: Pokémon GO City Safari
-
-RESOURCE ID: badge_safaricity_2023_seoul_day_02_general
-TEXT: ソウル2023年10月8日
-
-RESOURCE ID: badge_safaricity_2023_seoul_day_02_general_title
-TEXT: Pokémon GO City Safari
 
 RESOURCE ID: badge_safarizone_2019_montreal_day_00_earlyaccess
 TEXT: 2019年9月19日モントリオール
@@ -11107,6 +11152,9 @@ TEXT: GOチャレンジャーと対戦する
 RESOURCE ID: battle_week_event_name
 TEXT: バトルウィーク
 
+RESOURCE ID: battle_weekend
+TEXT: GOバトルウィークエンド
+
 RESOURCE ID: battle_weekend_2022_event_name
 TEXT: バトルウィークエンド
 
@@ -11556,8 +11604,14 @@ TEXT: ウルトラビーストレイドでウルトラボールが使える
 RESOURCE ID: bonus_buddy_catch_assist_boosted
 TEXT: グレートな相棒以上のポケモンによるボールアシスト確率アップ
 
+RESOURCE ID: bonus_candy_ditto_eevee_pikachu_snorlax
+TEXT: ピカチュウ、メタモン、イーブイ、カビゴンを捕まえてもらえるアメ3個追加
+
 RESOURCE ID: bonus_candy_nice_great_excel
 TEXT: ナイススロー以上でポケモンを捕まえたときのアメ増
+
+RESOURCE ID: bonus_candy_pumpkaboo
+TEXT: バケッチャを捕まえてもらえるアメ追加
 
 RESOURCE ID: bonus_candy_xl_candy_nice_great_excel
 TEXT: ナイススロー以上でアメが増えアメXLの確率アップ
@@ -11591,6 +11645,9 @@ TEXT: テールナーをマフォクシーに進化させるとブラストバ�
 
 RESOURCE ID: bonus_cd_move_froakie
 TEXT: ゲコガシラをゲッコウガに進化させるとハイドロカノンを覚えている
+
+RESOURCE ID: bonus_cd_move_grubbin
+TEXT: デンヂムシをクワガノンに進化させるとボルトチェンジを覚えている
 
 RESOURCE ID: bonus_cd_move_larvitar_cdc
 TEXT: サナギラスをバンギラスに進化させるとうちおとすを覚えている
@@ -11654,6 +11711,9 @@ TEXT: チケット購入でプレイしているセッション中ほしのか�
 
 RESOURCE ID: bonus_double_guaranteed_xl_evolve
 TEXT: 2x　進化してもらえるアメXL確定
+
+RESOURCE ID: bonus_event_2023_france_title
+TEXT: Pokémon: Art Through the Ages
 
 RESOURCE ID: bonus_event_sticker
 TEXT: エリア内のポケストップを回すとイベントのステッカーがもらえる
@@ -11755,6 +11815,9 @@ TEXT: トレーナーが協力してレイドでテールナーを倒すと、�
 
 RESOURCE ID: bonus_implicit_social_froakie_raid
 TEXT: トレーナーが協力してレイドでゲコガシラを倒すと、そのジムの周りに30分間ケロマツが現れる
+
+RESOURCE ID: bonus_implicit_social_grubbin_raid
+TEXT: トレーナーが協力してレイドでデンヂムシを倒すと、そのジムの周りに30分間アゴジムシが現れる
 
 RESOURCE ID: bonus_implicit_social_litwick_raid
 TEXT: トレーナーが協力してレイドでランプラーを倒すと、そのジムの周りに30分間ヒトモシが現れる
@@ -11871,6 +11934,9 @@ TEXT: イベント期間中につかまえた「ラグラージ」はスペシ�
 
 RESOURCE ID: bonus_raid_trainers_gym_bug_types
 TEXT: トレーナーが一緒にレイドするとその近くでむしタイプのポケモンが15分間大量発生する
+
+RESOURCE ID: bonus_research_day_oddish_stone
+TEXT: ナゾノクサがたいようのいしを持っていることがある
 
 RESOURCE ID: bonus_reward_100_catch_startdust
 TEXT: +100　ポケモンを捕まえたときのほしのすな
@@ -12030,6 +12096,9 @@ TEXT: ボーナスアンロック！
 
 RESOURCE ID: bonus_versioned_field_research_2x_daily
 TEXT: ポケストップからフィールドリサーチが2件（午前と午後）出る
+
+RESOURCE ID: bonus_weekend_booster_desc
+TEXT: 2023年末まで毎週末ログインして、きのみ、モンスターボール、おこうがもらえるタイムチャレンジを入手
 
 RESOURCE ID: bonus_xl_candy_5x
 TEXT: ポケモンを捕まえてもらえるアメXLの確率大幅アップ
@@ -12800,7 +12869,7 @@ RESOURCE ID: buddy_multiplayer_quit_description
 TEXT: 「はい」をタップしてグループを抜けます
 
 RESOURCE ID: buddy_multiplayer_safety_warning
-TEXT: 安全を十分に確認したうえで、ARモードを使用してください。お子さま連れの場合は、お子さまから目を離さないようお願いいたします。
+TEXT: 安全を十分に確認したうえでARモードを使用し、お子さま連れの場合は、お子さまから目を離さないようお願いいたします。
 
 RESOURCE ID: buddy_multiplayer_scan_button
 TEXT: グループコード読取
@@ -12976,11 +13045,11 @@ TEXT: 細くて小さいバネ。すっかりのびきって使いみちが見�
 RESOURCE ID: buddy_souvenir_stretchy_spring_name
 TEXT: のびたバネ
 
-RESOURCE ID: buddy_souvenir_tiny_compass
-TEXT: ちいさな方位計
-
-RESOURCE ID: buddy_souvenir_tiny_compass_desc
+RESOURCE ID: buddy_souvenir_tiny_compass_description
 TEXT: 相棒ポケモンのもとにいつでもすぐに戻って来られるようにする方位計。
+
+RESOURCE ID: buddy_souvenir_tiny_compass_name
+TEXT: ちいさな方位計
 
 RESOURCE ID: buddy_souvenir_torn_ticket_description
 TEXT: 何のチケットなのかわからない、ぼろぼろの紙片。
@@ -14997,10 +15066,10 @@ TEXT: スピンでシールド全開！
 RESOURCE ID: combat_defense_warning
 TEXT: スペシャルアタックがくる！
 
-RESOURCE ID: combat_description_season_10
+RESOURCE ID: combat_description_season_11
 TEXT: （開催日と時間はすべて現地時間）
 
-RESOURCE ID: combat_description_season_11
+RESOURCE ID: combat_description_season_12
 TEXT: （開催日と時間はすべて現地時間）
 
 RESOURCE ID: combat_description_season_7
@@ -15648,6 +15717,9 @@ TEXT: コミュニティ・デイ：ゴース
 RESOURCE ID: community_day_gible_event_name
 TEXT: コミュニティ・デイ：フカマル
 
+RESOURCE ID: community_day_grubbin_event_name
+TEXT: アゴジムシコミュニティ・デイ
+
 RESOURCE ID: community_day_hoppip_event_name
 TEXT: コミュニティ・デイ：ハネッコ
 
@@ -15805,6 +15877,9 @@ TEXT: 範囲外に出たか道具バッグがいっぱいで赤色か白色点�
 
 RESOURCE ID: complete_geotarget_quest
 TEXT: ARマッピングフィールドリサーチを完了する
+
+RESOURCE ID: complete_route_button
+TEXT: ルートを完了
 
 RESOURCE ID: complete_route_travel_error_toast
 TEXT: ルート完了エラー
@@ -16067,6 +16142,15 @@ TEXT: 自分のトレーナーコードをコピーしました
 
 RESOURCE ID: copy_referral_code_toast
 TEXT: コードをコピーしました！
+
+RESOURCE ID: cornet_oct_event_title
+TEXT: 帰ってきた名探偵ピカチュウイベント
+
+RESOURCE ID: cornet_oct_tr_title_01
+TEXT: 帰ってきた名探偵ピカチュウイベント(1/2)
+
+RESOURCE ID: cornet_oct_tr_title_02
+TEXT: 帰ってきた名探偵ピカチュウイベント(2/2)
 
 RESOURCE ID: corphish_o_clock
 TEXT: ヘイガニ大量発生
@@ -16767,6 +16851,9 @@ TEXT: 選んだノーマルアタックをポケモンが覚えることを可�
 
 RESOURCE ID: elitefasttm.1_title
 TEXT: すごいわざマシン  ノーマル
+
+RESOURCE ID: empty_events_message
+TEXT: 開催予定のイベントなどが表示されます
 
 RESOURCE ID: empty_tags_subtitle
 TEXT: +をタップしてタグを作成
@@ -18445,6 +18532,10 @@ RESOURCE ID: f_avatar_poses_bundle_pose_53
 TEXT: トレジャーマップ
 ポーズ
 
+RESOURCE ID: f_avatar_poses_bundle_pose_54
+TEXT: 名探偵ピカチュウ
+ポーズ
+
 RESOURCE ID: f_avatar_poses_bundle_pose_55
 TEXT: オモダカ　ポーズ
 
@@ -18587,6 +18678,9 @@ TEXT: シママとデデンネがより多く野生で出現
 
 RESOURCE ID: field_research
 TEXT: イベントに沿ったフィールドリサーチ
+
+RESOURCE ID: field_research_event_start_refresh_bonus
+TEXT: イベント開始後にポケストップから2件目のフィールドリサーチが出る
 
 RESOURCE ID: field_research_special
 TEXT: 特別なフィールドリサーチがいくつかのポケストップ・ジムから出る
@@ -18846,7 +18940,7 @@ RESOURCE ID: first_time_ar_mode_prompt_ar_on_btn
 TEXT: はい
 
 RESOURCE ID: first_time_ar_mode_prompt_description
-TEXT: 安全を十分に確認したうえで、ARモードを使用してください。お子さま連れの場合は、お子さまから目を離さないようお願いいたします。
+TEXT: 安全を十分に確認したうえでARモードを使用し、お子さま連れの場合は、お子さまから目を離さないようお願いいたします。
 
 RESOURCE ID: first_time_ar_mode_prompt_title
 TEXT: 現実世界を背景にしてみましょう！
@@ -18893,8 +18987,17 @@ TEXT: 現実の世界を歩くことで、画面の中のトレーナーも歩�
 RESOURCE ID: first_time_walk_title
 TEXT: さぁ 歩きだそう！
 
+RESOURCE ID: firstcatch_experience_50p
+TEXT: 1.5x　最初の1匹でもらえるXP
+
+RESOURCE ID: firstcatch_experince_double
+TEXT: 2x　その日最初の1匹でもらえるXP
+
+RESOURCE ID: firstcatch_stardust_50p
+TEXT: 1.5x　最初の1匹でもらえるほしのすな
+
 RESOURCE ID: firstcatch_stardust_double
-TEXT: 最初の1匹でもらえるほしのすなが倍増
+TEXT: 2x　その日最初の1匹でもらえるほしのすな
 
 RESOURCE ID: fitness_background_distance_notification
 TEXT: いつでも冒険モードで{0:0.#}{1}歩きました！
@@ -18991,6 +19094,9 @@ TEXT: タイプ上昇：ひこう
 
 RESOURCE ID: foc22_collection_challenge
 TEXT: カラーフェスティバル
+
+RESOURCE ID: followed_routes_title
+TEXT: 遊んだルート
 
 RESOURCE ID: form_aegislash_blade
 TEXT: ブレードフォルム
@@ -20332,13 +20438,20 @@ RESOURCE ID: general1.ticket.2_giblt_title
 TEXT: 「りくザメポケモンを解明せよ！」チケット
 
 RESOURCE ID: general1.ticket.2_goldtr2023_description
-TEXT: 世界中のどこにいても、現地時間2023年6月3日2:00PM～5:00PMに輝くリサーチデイタイムチャレンジを遊ぶことができるチケット。選ぶ道に応じて、色違いポケモン（イベント開催中のフィールドリサーチ完了で出会える色違いポケモンと同等）を含むキャタピー、コイキング、ノズパス、ヤミラミ、ドジョッチのどれかとより多く出会えます。
+TEXT: 世界中のどこにいても、現地時間2023年6月3日2:00PM～5:00PMに輝くリサーチデイタイムチャレンジを遊ぶことができるチケット。選ぶ道に応じて、色違いポケモン（イベント開催中のフィールドリサーチ完了で出会える色違いポケモンと同等）を含むノズパス、ドジョッチ、ヤミラミ、キャタピー、コイキングとより多く出会えます。
 このタイムチャレンジに関する詳細はゲーム内ニュースでご確認ください。
 
 イベントに関連するすべてのボーナスを受け取るには時間内に遊び終える必要があります。
 
 RESOURCE ID: general1.ticket.2_goldtr2023_title
 TEXT: 輝くリサーチデイタイムチャレンジ
+
+RESOURCE ID: general1.ticket.2_growlitheroute2023_description
+TEXT: 世界中のどこにいても現地時間2023年10月2日8:00PMまでガーディタイムチャレンジを行うことができるチケット。完了することで、ガーディとガーディ（ヒスイのすがた）に出会えます。以下ももらえます。
+・ふかそうち2個
+・スーパーふかそうち1個
+
+関連するすべてのリワードを受け取るには、タイムチャレンジが消える前に遊び終える必要があります。
 
 RESOURCE ID: general1.ticket.2_halloween_description
 TEXT: 世界中のどこにいても、現地時間2022年10月20日10:00AM～11月1日10:00AMに、ゲーム内でスタートできるデスマスタイムチャレンジを遊ぶことができるチケット。詳細はゲーム内ニュースで確認できます。
@@ -20455,6 +20568,16 @@ TEXT: 世界中のどこにいても、現地時間2022年4月10日2:00PM～5:00
 RESOURCE ID: general1.ticket.2_mudkt_title
 TEXT: ミズゴロウコミュニティ・デイ（復刻）チケット
 
+RESOURCE ID: general1.ticket.2_octobercd2023_description
+TEXT: 世界中のどこにいても現地時間2023年10月15日2:00PM～5:00PMにドッコラーコミュニティ・デイのスペシャルリサーチを行うことができるチケット。完了することで、ドッコラーとその進化形ポケモンにより多く出会え、ふしぎなアメ、ハイパーボールなどの道具が手に入ります。
+
+詳細はゲーム内ニュースでご確認ください。
+
+<b>イベントを最大限にお楽しみいただくには開催時間内に遊び終える必要があります。</b>
+
+RESOURCE ID: general1.ticket.2_octobercd2023_title
+TEXT: ドッコラーコミュニティ・デイチケット
+
 RESOURCE ID: general1.ticket.2_oshat_description
 TEXT: 世界中のどこにいても、現地時間2021年9月19日の11:00AM～5:00PMに、ゲーム内でスタートできるイベント「ラッコポケモンを解明せよ！」を遊ぶことができるチケット。詳細は、ゲーム内ニュースで確認できます。
 
@@ -20504,7 +20627,7 @@ TEXT: 世界中のどこにいても現地時間2023年9月23日2:00PM～5:00PM�
 <b>イベントを最大限にお楽しみいただくには開催時間内に遊び終える必要があります。</b>
 
 RESOURCE ID: general1.ticket.2_septembercd2023_title
-TEXT: アゴジムシコミュニティ・デイチケット
+TEXT: ようちゅうポケモンを解明せよ！
 
 RESOURCE ID: general1.ticket.2_shint_description
 TEXT: 世界中のどこにいても、現地時間2021年11月21日（11:00AM～5:00PM）にゲーム内イベント「せんこうポケモンを解明せよ！」を遊ぶことができるチケット。詳細は、ゲーム内ニュースで確認できます。
@@ -20570,6 +20693,23 @@ TEXT: 世界中のどこにいても、現地時間2021年7月3日11:00AM～5:00
 RESOURCE ID: general1.ticket.2_tepit_title
 TEXT: 「ひぶたポケモンを解明せよ！」チケット
 
+RESOURCE ID: general1.ticket.2_ticketoftreats2023_description
+TEXT: 現地時間2023年10月31日11:59PMまで、毎週木曜に始まる4つのタイムチャレンジを行うことができるチケット。全タイムチャレンジを完了することでムウマ、ボクレー、バケッチャに出会え、以下を含むリワードがもらえます。
+・プレミアムバトルパス3枚
+・ハーブルアー1個
+・ふかそうち2個
+・ぎんのパイルのみ3個
+・スーパーふかそうち2個
+・ふしぎなアメ2個
+また、購入時から10月31日11:59PMまで、毎日最初に捕まえた1匹のXPとほしのすなが1.5倍になります。
+
+詳細はゲーム内ニュースでご確認ください。
+
+<b>関連するすべてのリワードを受け取るには、時間内に遊び終える必要があります。</b>
+
+RESOURCE ID: general1.ticket.2_ticketoftreats2023_title
+TEXT: 実りの秋パス
+
 RESOURCE ID: general1.ticket.2_title
 TEXT: 「ラッコポケモンを解明せよ！」チケット
 
@@ -20622,6 +20762,9 @@ TEXT: 世界中のどこにいても、現地時間2021年7月17日・18日10:00
 RESOURCE ID: general1.ticket.5_title
 TEXT: Pokémon GO Fest 2021 チケット
 
+RESOURCE ID: general1.ticket._growlitheroute2023_title
+TEXT: ガーディタイムチャレンジチケット
+
 RESOURCE ID: general1.ticket.anniversary_bundle_description
 TEXT: 世界中のどこにいても、現地時間2023年7月12日8:00PMまで7周年記念タイムチャレンジを行うことができるチケット。完了するとパーティーハットをかぶったピカチュウに出会え、以下を含むリワードがもらえます。
 77777XP
@@ -20658,6 +20801,19 @@ TEXT: 現地時間2023年7月2日11:59PMまで、GOバトルリーグで50戦す
 
 RESOURCE ID: general1.ticket.gbweekend_bundle_title
 TEXT: GOバトル・デイ：ほしのすなタイムチャレンジ
+
+RESOURCE ID: general1.ticket.gbweekendoct_bundle_title
+TEXT: GOバトル・デイ：ほしのすなタイムチャレンジ
+
+RESOURCE ID: general1.ticket.gbweekenoct_bundle_description
+TEXT: 現地時間2023年10月8日11:59PMまで、GOバトルリーグで50戦するなどのタスクを含むGOバトル・デイ：ほしのすなタイムチャレンジを行うためのチケット。完了すると以下がもらえます。
+・ほしのすな30000
+・ほしのかけら1個
+・ふしぎなアメ3個
+・ふしぎなアメXL3個（プレイヤーレベル31以上）
+このチケットは現地時間2023年10月8日11:59PMまでショップで購入できます。
+
+関連するすべてのリワードを受け取るにはタイムチャレンジが消える前にタスクを完了する必要があります。
 
 RESOURCE ID: general1.ticket.gofest2023_alldetails
 TEXT: 世界中のどこにいても、現地時間2023年8月26日・27日開催のPokémonGOFest2023グローバルでスペシャルリサーチを行うことができるチケット。このスペシャルリサーチを完了するとディアンシーに出会えます。他にも以下がもらえます。
@@ -20886,6 +21042,12 @@ TEXT: ショップへ
 
 RESOURCE ID: general_hp
 TEXT: HP
+
+RESOURCE ID: general_image_saved
+TEXT: 画像が保存されました
+
+RESOURCE ID: general_image_unable_to_save
+TEXT: 画像保存できませんでした
 
 RESOURCE ID: general_include
 TEXT: 含める
@@ -26588,6 +26750,9 @@ RESOURCE ID: halloween_ultra_cup_title
 TEXT: ハロウィンカップ
 ハイパーリーグVer.
 
+RESOURCE ID: harvest_festival_event_name
+TEXT: 収穫祭
+
 RESOURCE ID: hatch_box
 TEXT: タマゴボックス
 
@@ -26597,8 +26762,14 @@ TEXT: 1.5x　タマゴふかでもらえるアメ
 RESOURCE ID: hatch_candy_double
 TEXT: 2× タマゴふかアメ
 
+RESOURCE ID: hatch_day_2k_azurill
+TEXT: ルリリが2kmタマゴから生まれる
+
 RESOURCE ID: hatch_day_2k_riolu
 TEXT: リオルが2kmタマゴから生まれる
+
+RESOURCE ID: hatch_day_azurill_timed_research
+TEXT: ルリリふかの日タイムチャレンジ
 
 RESOURCE ID: hatch_day_riolu_limited_research
 TEXT: リオルふかの日タイムチャレンジ
@@ -26626,6 +26797,12 @@ TEXT: https://niantic.helpshift.com/a/pokemon-go/?p=all&s=top-articles&f=sharing
 
 RESOURCE ID: helpshift_sharing_game_logs
 TEXT: https://niantic.helpshift.com/hc/ja/6-pokemon-go/faq/3325-sharing-game-logs/
+
+RESOURCE ID: hf_oct23_pumpkaboo_collection_challenge
+TEXT: 収穫祭コレクションチャレンジ：バケッチャ
+
+RESOURCE ID: hf_oct23_smoliv_collection_challenge
+TEXT: 収穫祭コレクションチャレンジ：ミニーブ
 
 RESOURCE ID: hindi
 TEXT: Hindi
@@ -26870,7 +27047,7 @@ RESOURCE ID: iap_sale_days_left
 TEXT: あと{0}日
 
 RESOURCE ID: iap_sale_discount
-TEXT: {0}%オフ
+TEXT: {0}%OFF
 
 RESOURCE ID: iap_sale_ends_today
 TEXT: 本日終了
@@ -26998,6 +27175,9 @@ TEXT: いつでも冒険モードの来週リワード増
 RESOURCE ID: increased_chance_buddy_xl_bonus
 TEXT: 相棒のポケモンと一緒に冒険するとみつかるアメXLの確率アップ
 
+RESOURCE ID: increased_kecleon_pokestops_bonus
+TEXT: カクレオンがポケストップに隠れている頻度アップ
+
 RESOURCE ID: increased_shiny_2k_5k_10k_eggs
 TEXT: 2km・5km・10kmタマゴから色違いのポケモンが生まれる確率アップ
 
@@ -27009,6 +27189,9 @@ TEXT: ポケモンを送ってもらえるアメとアメXL増
 
 RESOURCE ID: increased_xp_pokestop_streak_bonus
 TEXT: 7日連続スピンでもらえるXP増
+
+RESOURCE ID: increased_xp_route_completion_bonus
+TEXT: ルート完了でもらえるXP増
 
 RESOURCE ID: increased_xp_stardust_pokemon_streak_bonus
 TEXT: 7日連続ゲットでもらえるXPとほしのすな増
@@ -27042,6 +27225,12 @@ TEXT: タマゴを入れて歩くと、通常よりもポケモンが早くか�
 
 RESOURCE ID: incubatorsuper.1_title
 TEXT: スーパーふかそうち
+
+RESOURCE ID: india_live_op_desc
+TEXT: ボーナスイベント：Aao Khele Pokémon GO
+
+RESOURCE ID: india_live_op_title
+TEXT: Aao Khele Pokémon GO
 
 RESOURCE ID: indonesia_live_op_title
 TEXT: Waktu Indonesia Nangkep
@@ -27368,19 +27557,19 @@ TEXT: ある特定のポケモンを進化させるウロコ。固くて丈夫�
 RESOURCE ID: item_dragon_scale_name
 TEXT: りゅうのウロコ
 
-RESOURCE ID: item_event_ticket_blue_desc_pawmibackpack
-TEXT: 現地時間2023年9月10日10:00AM～9月15日8:00PMにタイムチャレンジを遂行するためのチケット。
-
-RESOURCE ID: item_event_ticket_blue_details_pawmibackpack
-TEXT: このチケットは自動的に発動し、現地時間2023年9月10日10:00AM～9月15日8:00PMに「パモと歩こう」タイムチャレンジが行えるようになります。
-
 RESOURCE ID: item_event_ticket_gray_desc
+TEXT: 10月中毎週木曜に始まるタイムチャレンジ用のパス。
+
+RESOURCE ID: item_event_ticket_gray_desc_gofest2023
 TEXT: Pokémon GO Fest 2023：グローバルに参加できるチケット。
 
 RESOURCE ID: item_event_ticket_gray_desc_jirachi
 TEXT: 続行リサーチ：願い
 
 RESOURCE ID: item_event_ticket_gray_details
+TEXT: このチケットは自動的に発動し現地時間2023年10月31日11:59PMまで実りの秋タイムチャレンジが行えるようになります。
+
+RESOURCE ID: item_event_ticket_gray_details_gofest2023
 TEXT: このチケットは自動的に発動し、現地時間2023年8月26日・27日開催のPokémon GOFest2023：グローバルに参加できるようになります。
 
 RESOURCE ID: item_event_ticket_gray_details_jirachi
@@ -27408,7 +27597,7 @@ RESOURCE ID: item_event_ticket_pink_bulbt_details
 TEXT: このチケットは自動的に発動し、現地時間2022年1月22日にスペシャルリサーチが行えるようになります。
 
 RESOURCE ID: item_event_ticket_pink_desc
-TEXT: ヒトカゲコミュニティデイ復刻のスペシャルリサーチを遂行するためのチケット。
+TEXT: GOバトル・デイ：ほしのすなタイムチャレンジを行うためのチケット。
 
 RESOURCE ID: item_event_ticket_pink_desc_alodude
 TEXT: 現地時間2022年5月21日11:00AM～2:00PMにスペシャルリサーチを遂行するためのチケット。
@@ -27418,6 +27607,9 @@ TEXT: キバゴコミュニティ・デイのスペシャルリサーチを遂�
 
 RESOURCE ID: item_event_ticket_pink_desc_back
 TEXT: 現地時間2022年11月5日2:00PM～5:00PMにスペシャルリサーチを遂行するためのチケット。
+
+RESOURCE ID: item_event_ticket_pink_desc_charmander
+TEXT: ヒトカゲコミュニティデイ復刻のスペシャルリサーチを遂行するためのチケット。
 
 RESOURCE ID: item_event_ticket_pink_desc_dcdc
 TEXT: 現地時間2022年11月5日2:00PM～5:00PMにスペシャルリサーチを遂行するためのチケット。
@@ -27432,10 +27624,10 @@ RESOURCE ID: item_event_ticket_pink_desc_gbd
 TEXT: GOバトル・デイ：ほしのすなタイムチャレンジを行うためのチケット。
 
 RESOURCE ID: item_event_ticket_pink_desc_gold
-TEXT: 現地時間2023年6月3日2:00PM～5:00PMにタイムチャレンジを行うためのチケット。
+TEXT: 輝くリサーチデイタイムチャレンジを行うためのチケット。
 
 RESOURCE ID: item_event_ticket_pink_desc_grubbin
-TEXT: 現地時間23023年9月23日2:00PM～5:00PMにアゴジムシコミュニティ・デイのスペシャルリサーチを遂行するためのチケット。
+TEXT: 現地時間2023年9月23日2:00PM～5:00PMにアゴジムシコミュニティ・デイのスペシャルリサーチを遂行するためのチケット。
 
 RESOURCE ID: item_event_ticket_pink_desc_mrmime
 TEXT: 現地時間2020年12月19日10:00AM～2020年12月20日8:00PMにスペシャルリサーチを遂行するためのチケット。
@@ -27449,17 +27641,23 @@ TEXT: ゼニガメコミュニティ・デイ復刻スペシャルリサーチ�
 RESOURCE ID: item_event_ticket_pink_desc_swinub
 TEXT: ウリムーコミュニティ・デイ復刻スペシャルリサーチを遂行するためのチケット。
 
+RESOURCE ID: item_event_ticket_pink_desc_timburr
+TEXT: 現地時間2023年10月15日2:00PM～5:00PMにドッコラーコミュニティ・デイのスペシャルリサーチを遂行するためのチケット。
+
 RESOURCE ID: item_event_ticket_pink_desc_togetic
 TEXT: 現地時間2023年4月15日2:00PM～5:00PMにスペシャルリサーチを遂行するためのチケット。
 
 RESOURCE ID: item_event_ticket_pink_details
-TEXT: このチケットは自動的に発動し、現地時間2023年9月2日2:00PM～5:00PMにヒトカゲコミュニティ・デイ復刻のスペシャルリサーチが行えるようになります。
+TEXT: このチケットは自動的に発動し、現地時間2023年10月8日11:59PMまでGOバトル・デイ：ほしのすなタイムチャレンジが行えるようになります。
 
 RESOURCE ID: item_event_ticket_pink_details_axew
 TEXT: このチケットは自動的に発動し、現地時間2023年6月10日2:00PM～5:00PMにスペシャルリサーチが行えるようになります。
 
 RESOURCE ID: item_event_ticket_pink_details_back
 TEXT: このチケットは自動的に発動し、現地時間2022年11月5日にスペシャルリサーチが行えるようになります。
+
+RESOURCE ID: item_event_ticket_pink_details_charmander
+TEXT: このチケットは自動的に発動し、現地時間2023年9月2日2:00PM～5:00PMにヒトカゲコミュニティ・デイ復刻のスペシャルリサーチが行えるようになります。
 
 RESOURCE ID: item_event_ticket_pink_details_dcdc
 TEXT: このチケットは自動的に発動し、現地時間2022年11月5日にスペシャルリサーチが行えるようになります。
@@ -27477,7 +27675,7 @@ RESOURCE ID: item_event_ticket_pink_details_gold
 TEXT: このチケットは自動的に発動し、現地時間2023年6月3日2:00PM～5:00PMに輝くリサーチデイタイムチャレンジが行えるようになります。
 
 RESOURCE ID: item_event_ticket_pink_details_grubbin
-TEXT: このチケットは自動的に発動し、アゴジムシコミュニティ・デイのスペシャルリサーチが行えるようになります。
+TEXT: このチケットは自動的に発動し、2023年9月23日に「ようちゅうポケモンを解明せよ！」スペシャルリサーチが行えるようになります。
 
 RESOURCE ID: item_event_ticket_pink_details_mrmime
 TEXT: このチケットは自動的に発動し、現地時間2020年12月19日10:00AM～2020年12月20日8:00PMにスペシャルリサーチが行えるようになります。
@@ -27490,6 +27688,9 @@ TEXT: このチケットは自動的に発動し、現地時間2023年7月23日2
 
 RESOURCE ID: item_event_ticket_pink_details_swinub
 TEXT: このチケットは自動的に発動し、現地時間2023年4月29日2:00PM～5:00PMにウリムーコミュニティ・デイ復刻スペシャルリサーチが行えるようになります。
+
+RESOURCE ID: item_event_ticket_pink_details_timburr
+TEXT: このチケットは自動的に発動し、ドッコラーコミュニティ・デイのスペシャルリサーチが行えるようになります。
 
 RESOURCE ID: item_event_ticket_pink_details_togetic
 TEXT: このチケットは自動的に発動し、現地時間2023年4月15日にスペシャルリサーチが行えるようになります。
@@ -27579,16 +27780,22 @@ RESOURCE ID: item_event_ticket_to_gift_desc
 TEXT: 余分チケット購入エラー。フレンドに贈るか払い戻しを受けることができます。
 
 RESOURCE ID: item_evergreen_ticket_desc
-TEXT: アドベンチャーウィーク2023タイムチャレンジを行うためのチケット。
+TEXT: ガーディタイムチャレンジを行うためのチケット。
 
 RESOURCE ID: item_evergreen_ticket_desc_7th_anniversary_tr
 TEXT: このチケットは自動的に発動し、現地時間2023年7月12日8:00PMまで7周年記念タイムチャレンジが行えるようになります。
 
+RESOURCE ID: item_evergreen_ticket_desc_adventureweek2023
+TEXT: アドベンチャーウィーク2023タイムチャレンジを行うためのチケット。
+
 RESOURCE ID: item_evergreen_ticket_details
-TEXT: このチケットは自動的に発動し、現地時間2023年7月27日10:00AM～8月2日8:00PMにアドベンチャーウィーク2023タイムチャレンジが行えるようになります。
+TEXT: このチケットは自動的に発動し、現地時間2023年10月2日8:00PMまでガーディタイムチャレンジが行えるようになります。
 
 RESOURCE ID: item_evergreen_ticket_details_7th_anniversary_tr
 TEXT: このチケットは自動的に発動し、現地時間2023年7月12日8:00PMまで7周年記念タイムチャレンジが行えるようになります。
+
+RESOURCE ID: item_evergreen_ticket_details_adventureweek2023
+TEXT: このチケットは自動的に発動し、現地時間2023年7月27日10:00AM～8月2日8:00PMにアドベンチャーウィーク2023タイムチャレンジが行えるようになります。
 
 RESOURCE ID: item_evergreen_ticket_name
 TEXT: チケット
@@ -27624,7 +27831,7 @@ RESOURCE ID: item_giovanni_map_name
 TEXT: スーパーロケットレーダー
 
 RESOURCE ID: item_global_event_ticket_desc
-TEXT: 「続行リサーチ151」を遂行するためのチケット。
+TEXT: 現地時間2023年9月10日10:00AM～9月15日8:00PMにタイムチャレンジを遂行するためのチケット。
 
 RESOURCE ID: item_global_event_ticket_desc_beachweek
 TEXT: ウォーターフェスティバル：ビーチウィークタイムチャレンジを行うためのチケット。
@@ -27636,7 +27843,7 @@ RESOURCE ID: item_global_event_ticket_desc_willow
 TEXT: 2023年3月1日～6月30日に博士の冒険チャレンジを遂行するためのチケット。
 
 RESOURCE ID: item_global_event_ticket_details
-TEXT: このチケットは自動的に発動し、現地時間2023年7月6日10:00AMに続行リサーチ151が行えるようになります。
+TEXT: このチケットは自動的に発動し、現地時間2023年9月10日10:00AM～9月15日8:00PMに「パモと歩こう」タイムチャレンジが行えるようになります。
 
 RESOURCE ID: item_global_event_ticket_details_beachweek
 TEXT: このチケットは自動的に発動し、現地時間2023年6月6日10:00AM～6月12日8:00PMにウォーターフェスティバル：ビーチウィークタイムチャレンジが行えるようになります。
@@ -27648,6 +27855,9 @@ TEXT: このチケットは自動的に発動し、PokémonGOTour：ホウエン
 
 RESOURCE ID: item_global_event_ticket_details_no_version_selected_abridged
 TEXT: このチケットは自動的に発動し、PokémonGOTour：ホウエン地方に関連するスペシャルボーナスがもらえるようになります。
+
+RESOURCE ID: item_global_event_ticket_details_shinymew
+TEXT: このチケットは自動的に発動し、現地時間2023年7月6日10:00AMに続行リサーチ151が行えるようになります。
 
 RESOURCE ID: item_global_event_ticket_details_solstice
 TEXT: このチケットは自動的に発動し、現地時間2023年6月16日10:00AM～6月25日8:00PMに「輝く星雲」スペシャルリサーチが行えるようになります。
@@ -27864,7 +28074,7 @@ RESOURCE ID: item_other_evolution_stone_a_desc
 TEXT: なんだかあやしいコイン。パルデア地方に由来するものらしい。
 
 RESOURCE ID: item_other_evolution_stone_a_name
-TEXT: コレクレーのコイン
+TEXT: ??????コイン
 
 RESOURCE ID: item_other_evolution_stone_a_name_plural
 TEXT: コレクレーのコイン
@@ -31054,6 +31264,10 @@ RESOURCE ID: m_avatar_poses_bundle_pose_53
 TEXT: トレジャーマップ
 ポーズ
 
+RESOURCE ID: m_avatar_poses_bundle_pose_54
+TEXT: 名探偵ピカチュウ
+ポーズ
+
 RESOURCE ID: m_avatar_poses_bundle_pose_55
 TEXT: オモダカ　ポーズ
 
@@ -31194,7 +31408,7 @@ RESOURCE ID: marrd_2019_easy_raid_participate
 TEXT: ハスボーリサーチ：レイドバトルを1回する
 
 RESOURCE ID: marrd_2019_easy_supereffective_charge
-TEXT: ハスボーリサーチ：効果ばつぐんのスペシャルアタックを使ってジムバトルする・1回
+TEXT: ハスボーリサーチ：こうかばつぐんのスペシャルアタックを使ってジムバトルする・1回
 
 RESOURCE ID: master_classic_title
 TEXT: MLクラシック
@@ -31914,9 +32128,9 @@ RESOURCE ID: mega_walking_progress
 TEXT: 歩いて見つけるもの
 
 RESOURCE ID: metadata_local
-TEXT: Built at 2023-10-09T20:21:45.748080
-at SHA 4cfe80a4adbc1f8b5f1a0a1c1119104a28c4ab22
-Pipeline 1814685, job 21993717
+TEXT: Built at 2023-10-17T20:57:13.936757
+at SHA e295afa3e17f1349b4a1bb2e22a722ecf66ae436
+Pipeline 1838232, job 22276469
 
 RESOURCE ID: mex_fighting_promo_title
 TEXT: タイムチャレンジ：かくとうタイプ
@@ -33159,7 +33373,7 @@ RESOURCE ID: mrd_spin_easy
 TEXT: チラーミィリサーチ：ポケストップ{0}個を回す
 
 RESOURCE ID: mrd_supereffective_charge_easy
-TEXT: チラーミィリサーチ：効果ばつぐんのスペシャルアタックを使って1回ジムバトルする
+TEXT: チラーミィリサーチ：こうかばつぐんのスペシャルアタックを使って1回ジムバトルする
 
 RESOURCE ID: mrmime_ticket_description
 TEXT: 世界中のどこにいても、現地時間2020年12月19日10:00AM～2020年12月20日8:00PMに「ダンスポケモンを解明せよ！」を遊ぶことができるチケット。詳細は、ゲーム内ニュースで確認できます。
@@ -33503,6 +33717,12 @@ TEXT: 見つかりませんでした
 RESOURCE ID: nearby_pokemon_view_button
 TEXT: 探す
 
+RESOURCE ID: nearby_raid_invite_distance_kilometers
+TEXT: {0:0.0}km
+
+RESOURCE ID: nearby_raid_invite_distance_meters
+TEXT: {0:0}m
+
 RESOURCE ID: nearby_raid_local_only
 TEXT: ローカルのみ
 
@@ -33693,6 +33913,12 @@ RESOURCE ID: oct22_evo_collection_challenge_4
 TEXT: 進化フォーカス：
 シンオウチャレンジ
 
+RESOURCE ID: oct23_cornet_collection_title
+TEXT: 帰ってきた名探偵ピカチュウコレクションチャレンジ
+
+RESOURCE ID: oddish_rd_event_title
+TEXT: ナゾノクサリサーチデイ
+
 RESOURCE ID: old_friends_description
 TEXT: 友との新たな冒険 - タイムチャレンジ
 
@@ -33811,7 +34037,7 @@ RESOURCE ID: onboard_welcome_screen|9
 TEXT: さて、どんなスタイルで出かけるのかな？
 
 RESOURCE ID: one_route_nearby_label
-TEXT: 1ルート
+TEXT: ルート(1)
 
 RESOURCE ID: oneyearanniversary.1_title
 TEXT: アニバーサリーボックス
@@ -33828,6 +34054,12 @@ TEXT: バッグがいっぱいでもギフト開封
 RESOURCE ID: open_gifts_on_bag_full_tip
 TEXT: 道具バッグがいっぱいでもギフトを
 開けてほしのすなを入手
+
+RESOURCE ID: open_in_map_route_pause_location
+TEXT: 場所
+
+RESOURCE ID: open_in_map_route_pause_location_backup
+TEXT: ここで一時停止
 
 RESOURCE ID: open_settings
 TEXT: 設定を開く
@@ -33853,6 +34085,12 @@ TEXT: ARを開く
 
 RESOURCE ID: other_section_title
 TEXT: コード入力以外の方法
+
+RESOURCE ID: out_to_play_23_free_header_0
+TEXT: ルートを歩けば：タイムチャレンジ
+
+RESOURCE ID: out_to_play_event_name
+TEXT: ルートを歩けば
 
 RESOURCE ID: paid_raid_ticket_details_desc
 TEXT: レイドバトル参加、もしくは、GOバトルリーグのプレミアム戦参加に使用できるパス。
@@ -33937,6 +34175,429 @@ TEXT: バトルに出せるのは6匹までです
 
 RESOURCE ID: party_hat_pikachu_tr_title
 TEXT: ピカピカ冒険
+
+RESOURCE ID: party_play_ability_activate
+TEXT: チームパワー発動
+
+RESOURCE ID: party_play_ability_charge_attack
+TEXT: {0}はチームパワーで{1}を使った！
+
+RESOURCE ID: party_play_ability_charge_attack_nameplate
+TEXT: チームパワー！
+
+RESOURCE ID: party_play_activities
+TEXT: アクティビティ
+
+RESOURCE ID: party_play_activity_category_0
+TEXT: お気に入り
+
+RESOURCE ID: party_play_activity_category_1
+TEXT: スペシャル
+
+RESOURCE ID: party_play_activity_category_2
+TEXT: ポケモン
+
+RESOURCE ID: party_play_activity_category_3
+TEXT: その他
+
+RESOURCE ID: party_play_activity_category_4
+TEXT: アドベンチャー
+
+RESOURCE ID: party_play_activity_category_5
+TEXT: ボール投げ
+
+RESOURCE ID: party_play_activity_category_6
+TEXT: バトル
+
+RESOURCE ID: party_play_activity_description_100
+TEXT: 対人戦の勝利数：<color=#F2A64B>{0}</color>
+
+RESOURCE ID: party_play_activity_description_101
+TEXT: ジムバトル勝利数：<color=#F2A64B>{0}</color>
+
+RESOURCE ID: party_play_activity_description_21
+TEXT: 捕まえたポケモン総数：<color=#F2A64B>{0}</color>
+
+RESOURCE ID: party_play_activity_description_22
+TEXT: 捕まえた色違いポケモン数：<color=#F2A64B>{0}</color>
+
+RESOURCE ID: party_play_activity_description_23
+TEXT: 捕まえたノーマルタイプポケモン数：<color=#F2A64B>{0}</color>
+
+RESOURCE ID: party_play_activity_description_24
+TEXT: 捕まえたかくとうタイプポケモン数：<color=#F2A64B>{0}</color>
+
+RESOURCE ID: party_play_activity_description_25
+TEXT: 捕まえたひこうタイプポケモン数：<color=#F2A64B>{0}</color>
+
+RESOURCE ID: party_play_activity_description_26
+TEXT: 捕まえたどくタイプポケモン数：<color=#F2A64B>{0}</color>
+
+RESOURCE ID: party_play_activity_description_27
+TEXT: 捕まえたじめんタイプポケモン数：<color=#F2A64B>{0}</color>
+
+RESOURCE ID: party_play_activity_description_28
+TEXT: 捕まえたいわタイプポケモン数：<color=#F2A64B>{0}</color>
+
+RESOURCE ID: party_play_activity_description_29
+TEXT: 捕まえたむしタイプポケモン数：<color=#F2A64B>{0}</color>
+
+RESOURCE ID: party_play_activity_description_30
+TEXT: 捕まえたゴーストタイプポケモン数：<color=#F2A64B>{0}</color>
+
+RESOURCE ID: party_play_activity_description_31
+TEXT: 捕まえたはがねタイプポケモン数：<color=#F2A64B>{0}</color>
+
+RESOURCE ID: party_play_activity_description_32
+TEXT: 捕まえたほのおタイプポケモン数：<color=#F2A64B>{0}</color>
+
+RESOURCE ID: party_play_activity_description_33
+TEXT: 捕まえたくさタイプポケモン数：<color=#F2A64B>{0}</color>
+
+RESOURCE ID: party_play_activity_description_34
+TEXT: 捕まえたみずタイプポケモン数：<color=#F2A64B>{0}</color>
+
+RESOURCE ID: party_play_activity_description_35
+TEXT: 捕まえたでんきタイプポケモン数：<color=#F2A64B>{0}</color>
+
+RESOURCE ID: party_play_activity_description_36
+TEXT: 捕まえたエスパータイプポケモン数：<color=#F2A64B>{0}</color>
+
+RESOURCE ID: party_play_activity_description_37
+TEXT: 捕まえたこおりタイプポケモン数：<color=#F2A64B>{0}</color>
+
+RESOURCE ID: party_play_activity_description_38
+TEXT: 捕まえたドラゴンタイプポケモン数：<color=#F2A64B>{0}</color>
+
+RESOURCE ID: party_play_activity_description_39
+TEXT: 捕まえたあくタイプポケモン数：<color=#F2A64B>{0}</color>
+
+RESOURCE ID: party_play_activity_description_40
+TEXT: 捕まえたフェアリータイプポケモン数：<color=#F2A64B>{0}</color>
+
+RESOURCE ID: party_play_activity_description_41
+TEXT: 捕まえたXXSポケモン数：<color=#F2A64B>{0}</color>
+
+RESOURCE ID: party_play_activity_description_42
+TEXT: 捕まえたXXSポケモン数：<color=#F2A64B>{0}</color>
+
+RESOURCE ID: party_play_activity_description_59
+TEXT: 回したポケストップ数：<color=#F2A64B>{0}</color>
+
+RESOURCE ID: party_play_activity_description_60
+TEXT: 完了したフィールドリサーチ数：<color=#F2A64B>{0}</color>
+
+RESOURCE ID: party_play_activity_description_71
+TEXT: 歩いたkm距離：<color=#F2A64B>{0}</color>
+
+RESOURCE ID: party_play_activity_description_72
+TEXT: かえしたタマゴ数：<color=#F2A64B>{0}</color>
+
+RESOURCE ID: party_play_activity_description_73
+TEXT: 獲得アメ数：<color=#F2A64B>{0}</color>
+
+RESOURCE ID: party_play_activity_description_84
+TEXT: 投げたボール数：<color=#F2A64B>{0}</color>
+
+RESOURCE ID: party_play_activity_description_85
+TEXT: エクセレントスロー数：<color=#F2A64B>{0}</color>
+
+RESOURCE ID: party_play_activity_description_86
+TEXT: グレートスロー数：<color=#F2A64B>{0}</color>
+
+RESOURCE ID: party_play_activity_description_87
+TEXT: ナイススロー数：<color=#F2A64B>{0}</color>
+
+RESOURCE ID: party_play_activity_description_98
+TEXT: レイド勝利数：<color=#F2A64B>{0}</color>
+
+RESOURCE ID: party_play_activity_description_99
+TEXT: GOロケット団バトル勝利数：<color=#F2A64B>{0}</color>
+
+RESOURCE ID: party_play_activity_leave_summary_100
+TEXT: 対人戦
+
+RESOURCE ID: party_play_activity_leave_summary_101
+TEXT: ジムバトル
+
+RESOURCE ID: party_play_activity_leave_summary_21
+TEXT: 捕まえたポケモン
+
+RESOURCE ID: party_play_activity_leave_summary_22
+TEXT: 色違いポケモン
+
+RESOURCE ID: party_play_activity_leave_summary_23
+TEXT: ノーマルタイプポケモン
+
+RESOURCE ID: party_play_activity_leave_summary_24
+TEXT: かくとうタイプポケモン
+
+RESOURCE ID: party_play_activity_leave_summary_25
+TEXT: ひこうタイプポケモン
+
+RESOURCE ID: party_play_activity_leave_summary_26
+TEXT: どくタイプポケモン
+
+RESOURCE ID: party_play_activity_leave_summary_27
+TEXT: じめんタイプポケモン
+
+RESOURCE ID: party_play_activity_leave_summary_28
+TEXT: いわタイプポケモン
+
+RESOURCE ID: party_play_activity_leave_summary_29
+TEXT: むしタイプポケモン
+
+RESOURCE ID: party_play_activity_leave_summary_30
+TEXT: ゴーストタイプポケモン
+
+RESOURCE ID: party_play_activity_leave_summary_31
+TEXT: はがねタイプポケモン
+
+RESOURCE ID: party_play_activity_leave_summary_32
+TEXT: ほのおタイプポケモン
+
+RESOURCE ID: party_play_activity_leave_summary_33
+TEXT: くさタイプポケモン
+
+RESOURCE ID: party_play_activity_leave_summary_34
+TEXT: みずタイプポケモン
+
+RESOURCE ID: party_play_activity_leave_summary_35
+TEXT: でんきタイプポケモン
+
+RESOURCE ID: party_play_activity_leave_summary_36
+TEXT: エスパータイプポケモン
+
+RESOURCE ID: party_play_activity_leave_summary_37
+TEXT: こおりタイプポケモン
+
+RESOURCE ID: party_play_activity_leave_summary_38
+TEXT: ドラゴンタイプポケモン
+
+RESOURCE ID: party_play_activity_leave_summary_39
+TEXT: あくタイプポケモン
+
+RESOURCE ID: party_play_activity_leave_summary_40
+TEXT: フェアリータイプポケモン
+
+RESOURCE ID: party_play_activity_leave_summary_41
+TEXT: XXSポケモン
+
+RESOURCE ID: party_play_activity_leave_summary_42
+TEXT: XXLポケモン
+
+RESOURCE ID: party_play_activity_leave_summary_59
+TEXT: 訪れたポケストップ
+
+RESOURCE ID: party_play_activity_leave_summary_60
+TEXT: 完了したフィールドリサーチ
+
+RESOURCE ID: party_play_activity_leave_summary_71
+TEXT: 歩いた距離
+
+RESOURCE ID: party_play_activity_leave_summary_72
+TEXT: かえしたタマゴ
+
+RESOURCE ID: party_play_activity_leave_summary_73
+TEXT: 獲得したアメ
+
+RESOURCE ID: party_play_activity_leave_summary_84
+TEXT: 投げたスロー
+
+RESOURCE ID: party_play_activity_leave_summary_85
+TEXT: エクセレントスロー
+
+RESOURCE ID: party_play_activity_leave_summary_86
+TEXT: グレートスロー
+
+RESOURCE ID: party_play_activity_leave_summary_87
+TEXT: ナイススロー
+
+RESOURCE ID: party_play_activity_leave_summary_98
+TEXT: レイド
+
+RESOURCE ID: party_play_activity_leave_summary_99
+TEXT: GOロケット団バトル
+
+RESOURCE ID: party_play_activity_summary
+TEXT: アクティビティサマリー
+
+RESOURCE ID: party_play_bonuses
+TEXT: ボーナス
+
+RESOURCE ID: party_play_bookmark_description_text
+TEXT: お気に入りでアクティビティを整理
+
+RESOURCE ID: party_play_bookmark_description_title
+TEXT: お気に入りアクティビティ
+
+RESOURCE ID: party_play_cannot_play_routes
+TEXT: チームに参加しているときはルートを遊ぶことはできません
+
+RESOURCE ID: party_play_challenge_description
+TEXT: チャレンジを選んでチームで完了しよう！
+
+RESOURCE ID: party_play_code_invalid
+TEXT: チームが見つかりませんでした
+
+RESOURCE ID: party_play_copy_code_toast
+TEXT: コピーしました
+
+RESOURCE ID: party_play_create
+TEXT: チーム作成
+
+RESOURCE ID: party_play_disbanded_message
+TEXT: トレーナーが一人抜けました。チームを続けるには最低2人のトレーナーが必要です。
+
+RESOURCE ID: party_play_disbanded_title
+TEXT: チーム終了
+
+RESOURCE ID: party_play_expired_lobby_timer_message
+TEXT: チームロビーの時間切れ
+
+RESOURCE ID: party_play_invite
+TEXT: 招待する
+
+RESOURCE ID: party_play_invite_more_players
+TEXT: メンバーを追加！
+
+RESOURCE ID: party_play_join
+TEXT: チームに参加
+
+RESOURCE ID: party_play_join_error_full
+TEXT: 満員です
+
+RESOURCE ID: party_play_join_error_generic
+TEXT: エラー発生。再度お試しください。
+
+RESOURCE ID: party_play_join_error_proximity
+TEXT: ホストに近づいてください
+
+RESOURCE ID: party_play_join_error_u13
+TEXT: 参加するにはホストとフレンドである必要があります
+
+RESOURCE ID: party_play_join_nearby_body
+TEXT: チームコード読み込み・入力はホストの近くで行ってください。
+
+RESOURCE ID: party_play_join_nearby_title
+TEXT: ホストから離れない
+
+RESOURCE ID: party_play_leave
+TEXT: チームを抜ける
+
+RESOURCE ID: party_play_leave_party_message
+TEXT: ホストの近くでチームコードを入力して再参加できます。
+
+RESOURCE ID: party_play_leave_party_title
+TEXT: 本当にチームを抜けてもいいですか？
+
+RESOURCE ID: party_play_members
+TEXT: チームメンバー
+
+RESOURCE ID: party_play_missing_player_name
+TEXT: ???
+
+RESOURCE ID: party_play_modal_pause_route_consumption_body
+TEXT: チームに参加しているときはルートを遊ぶことができないため、チームに加わるとルートは一時停止されます。
+
+RESOURCE ID: party_play_modal_pause_route_consumption_title
+TEXT: ルートを一時停止してチームに参加しますか？
+
+RESOURCE ID: party_play_modal_pause_route_creation_body
+TEXT: チームに参加しているときはルート作成できないため、チームに参加するとルート作成は一時停止されます。
+
+RESOURCE ID: party_play_modal_pause_route_creation_title
+TEXT: ルート作成を一時停止してチームに参加しますか？
+
+RESOURCE ID: party_play_only_host_can_start_party
+TEXT: {0}さんがチームコラボを開始するのを待っています...
+
+RESOURCE ID: party_play_party_challenge_complete
+TEXT: チームチャレンジ完了！
+
+RESOURCE ID: party_play_party_challenge_start
+TEXT: スタート
+
+RESOURCE ID: party_play_party_challenge_start_guest
+TEXT: {0}さんがチームチャレンジを選択中...
+
+RESOURCE ID: party_play_party_challenge_start_warning
+TEXT: チャレンジを選んでください
+
+RESOURCE ID: party_play_party_code
+TEXT: チームコード
+
+RESOURCE ID: party_play_party_code_description
+TEXT: チームのコードを入力することで仲間と一緒にプレイできます。
+（ホストの近くでのみ参加可）
+
+RESOURCE ID: party_play_party_name
+TEXT: {0}のチーム
+
+RESOURCE ID: party_play_popup_tutorial_1
+TEXT: リアクションを使ってチームメンバーに伝えたいことを表現しよう！マップのチームメンバーアイコンをタップするとリアクションが見られます。
+
+RESOURCE ID: party_play_popup_tutorial_2
+TEXT: チームのメンバーと一緒にレイドに参加すると、スペシャルアタックが強くなるチームパワーが使えます。
+
+人数が増えるほど早くチャージがたまります。
+
+RESOURCE ID: party_play_popup_tutorial_3
+TEXT: チームパワー
+
+RESOURCE ID: party_play_raid_menu_header
+TEXT: チームコラボレイド
+
+RESOURCE ID: party_play_scan_qr_code
+TEXT: チームの二次元コードを読み取る
+
+RESOURCE ID: party_play_see_all_activities
+TEXT: すべてのアクティビティを見る
+
+RESOURCE ID: party_play_show_in_app_notifications
+TEXT: チームコラボ中にゲーム内通知を表示
+
+RESOURCE ID: party_play_start_requirement_not_met
+TEXT: チームにはトレーナーが最低2人必要です
+
+RESOURCE ID: party_play_toast_player_is_new_host
+TEXT: {0}さんが抜けたため、{1}さんがホストになりました
+
+RESOURCE ID: party_play_toast_player_joined
+TEXT: {0}さんが参加しました
+
+RESOURCE ID: party_play_toast_player_left
+TEXT: {0}さんが離脱しました
+
+RESOURCE ID: party_play_tutorial_1_body
+TEXT: 他のトレーナーと一緒にポケモンを捕まえるなどしてボーナスをもらおう！
+
+RESOURCE ID: party_play_tutorial_1_title
+TEXT: チームで協力
+
+RESOURCE ID: party_play_tutorial_2_body
+TEXT: チームチャレンジを完了してリワードをもらおう！
+
+RESOURCE ID: party_play_tutorial_2_title
+TEXT: チームチャレンジ
+
+RESOURCE ID: party_play_zone_boot_body
+TEXT: ホストから離れすぎています。ホストに近づいてからチームコードを入力すると再参加できます。
+
+RESOURCE ID: party_play_zone_boot_title
+TEXT: チームから離脱しました
+
+RESOURCE ID: party_play_zone_reenter_toast
+TEXT: ホスト付近に戻りました
+
+RESOURCE ID: party_play_zone_warning_body
+TEXT: チーム内にとどまるには、ホストに近くにいる必要があります
+
+RESOURCE ID: party_play_zone_warning_ok
+TEXT: OK
+
+RESOURCE ID: party_play_zone_warning_title
+TEXT: {0}さんから離れすぎです
 
 RESOURCE ID: passcode_log_received_badge
 TEXT: コード{0}を使ってメダルを手に入れた！
@@ -34112,6 +34773,9 @@ TEXT: 写真を保存しました
 RESOURCE ID: photo_unable_to_save
 TEXT: 画像保存できませんでした
 
+RESOURCE ID: photobomb_cornet_pikachu
+TEXT: GOスナップショットでピカチュウのサプライズの可能性
+
 RESOURCE ID: photobomb_five_abra
 TEXT: GOスナップショットでケーシィのサプライズ5回
 
@@ -34162,6 +34826,9 @@ TEXT: GOスナップショットでゴースのサプライズ5回
 
 RESOURCE ID: photobomb_five_gible
 TEXT: GOスナップショットでフカマルのサプライズ5回
+
+RESOURCE ID: photobomb_five_grubbin
+TEXT: GOスナップショットでアゴジムシのサプライズ5回
 
 RESOURCE ID: photobomb_five_hoppip
 TEXT: GOスナップショットでハネッコのサプライズ5回
@@ -34258,6 +34925,9 @@ TEXT: GOスナップショットでサファリ帽ピカチュウのサプライ
 
 RESOURCE ID: photobomb_special
 TEXT: イベントに沿ったGOスナップショットのサプライズ
+
+RESOURCE ID: photobomb_torkoal
+TEXT: GOスナップショットでコータスのサプライズの可能性
 
 RESOURCE ID: pick_team1_desc
 TEXT: チーム ミスティックへようこそ！
@@ -41370,7 +42040,7 @@ RESOURCE ID: pokemon_desc_0869_caramel_swirl
 TEXT: 進化の瞬間体の細胞が揺れ動くことで苦味あるフレーバーになった。
 
 RESOURCE ID: pokemon_desc_0869_lemon_cream
-TEXT: 進化の瞬間体の細胞が揺れ動くことで酸っぱいフレーバーになった。
+TEXT: 進化の瞬間体の細胞が揺れ動くことで爽やかなフレーバーになった。
 
 RESOURCE ID: pokemon_desc_0869_matcha_cream
 TEXT: 進化の瞬間体の細胞が揺れ動くことで香ばしいフレーバーになった。
@@ -45869,6 +46539,9 @@ TEXT: ポケストップ モジュール
 RESOURCE ID: pokestop_item_inventory_full
 TEXT: 道具がいっぱいです！
 
+RESOURCE ID: pokestop_item_inventory_full_button
+TEXT: 道具がいっぱいです！
+
 RESOURCE ID: pokestop_item_passcode_inventory_full
 TEXT: 道具がいっぱい、もしくは、チェックインできる場所から離れてしまっています
 
@@ -46439,6 +47112,9 @@ TEXT: トレーナークラブ
 RESOURCE ID: ptc_need_to_register_button
 TEXT: 登録する
 
+RESOURCE ID: pumpkaboo_event_mossy_lure_pokemon
+TEXT: バケッチャがハーブルアーに反応
+
 RESOURCE ID: pups_tutorial_p0_body
 TEXT: ロケーションをスキャンするか写真提出を行うと、ロケーションポイントが増え、レベルが上がるにつれてボーナスも増えます。
 
@@ -46566,7 +47242,7 @@ RESOURCE ID: quest_battle19_raid_win_veryhard
 TEXT: レイドバトルで{0}回勝つ
 
 RESOURCE ID: quest_battle19_supereffective_charge_hard
-TEXT: 効果ばつぐんのスペシャルアタックを使ってジムバトルする・{0}回
+TEXT: こうかばつぐんのスペシャルアタックを使ってジムバトルする・{0}回
 
 RESOURCE ID: quest_battle_buddy_adventure_plural
 TEXT: 相棒が共にに歩いているときに一緒にトレーナー対戦を{0}回する
@@ -46635,10 +47311,10 @@ RESOURCE ID: quest_battle_reward_modal_title
 TEXT: 新たな相手が現れた！
 
 RESOURCE ID: quest_battle_supereffective_charge_plural
-TEXT: 効果ばつぐんのスペシャルアタックを使ってジムバトルする・{0}回
+TEXT: こうかばつぐんのスペシャルアタックを使ってジムバトルする・{0}回
 
 RESOURCE ID: quest_battle_supereffective_charge_singular
-TEXT: 効果ばつぐんのスペシャルアタックを使ってジムバトルする・1回
+TEXT: こうかばつぐんのスペシャルアタックを使ってジムバトルする・1回
 
 RESOURCE ID: quest_battle_team_rocket_plural
 TEXT: GOロケット団員とのバトルを{0}回する
@@ -46883,8 +47559,20 @@ TEXT: おさんぽおこうに呼び寄せられたポケモン{0}匹を捕ま�
 RESOURCE ID: quest_catch_pokemon_days
 TEXT: ポケモンを{0}日捕まえる
 
+RESOURCE ID: quest_catch_pokemon_great_ball_plural
+TEXT: スーパーボールでポケモンを{0}匹捕まえる
+
+RESOURCE ID: quest_catch_pokemon_great_ball_singular
+TEXT: スーパーボールでポケモンを捕まえる
+
 RESOURCE ID: quest_catch_pokemon_plural
 TEXT: ポケモンを{0}匹捕まえる
+
+RESOURCE ID: quest_catch_pokemon_poke_ball_plural
+TEXT: モンスターボールでポケモンを{0}匹捕まえる
+
+RESOURCE ID: quest_catch_pokemon_poke_ball_singular
+TEXT: モンスターボールでポケモンを捕まえる
 
 RESOURCE ID: quest_catch_pokemon_routes_plural
 TEXT: ルートでポケモンを{0}匹捕まえる
@@ -46897,6 +47585,12 @@ TEXT: ポケモンを1匹捕まえる
 
 RESOURCE ID: quest_catch_pokemon_task
 TEXT: ポケモンを捕まえる
+
+RESOURCE ID: quest_catch_pokemon_ultra_ball_plural
+TEXT: ハイパーボールでポケモンを{0}匹捕まえる
+
+RESOURCE ID: quest_catch_pokemon_ultra_ball_singular
+TEXT: ハイパーボールでポケモンを捕まえる
 
 RESOURCE ID: quest_catch_psychic_steel
 TEXT: はがねタイプか、エスパータイプのポケモンを{0}匹捕まえる
@@ -47431,6 +48125,9 @@ TEXT: ポケモンのすがたを変える
 
 RESOURCE ID: quest_charged_attack_plural
 TEXT: スペシャルアタックを{0}回使う
+
+RESOURCE ID: quest_charjabug_evolve_b
+TEXT: デンヂムシを{0}匹進化させる
 
 RESOURCE ID: quest_chart_catch_b
 TEXT: ヒトカゲを{0}匹捕まえる
@@ -48199,6 +48896,12 @@ TEXT: メキシコシティであなたのイーブイのGOスナップショッ
 
 RESOURCE ID: quest_event_eevee_snapshot_seoul
 TEXT: ソウルであなたのイーブイのGOスナップショット写真を1枚撮る
+
+RESOURCE ID: quest_event_leave_behind_spin
+TEXT: 訪れたことがないポケストップ・ジム10個を回す
+
+RESOURCE ID: quest_event_leave_behind_spin_safari_city
+TEXT: イーブイチャレンジのポケストップを回す
 
 RESOURCE ID: quest_event_leave_behind_spin_safari_city_plural
 TEXT: まだ訪れていないイーブイチャレンジのポケストップ{0}個を回す
@@ -49446,7 +50149,7 @@ RESOURCE ID: quest_febresearchday_battle_raid_singular
 TEXT: パールルリサーチ：レイドバトルを1回する
 
 RESOURCE ID: quest_febresearchday_battle_supereffective_charge_singular
-TEXT: パールルリサーチ：効果ばつぐんのスペシャルアタックを使ってジムバトルする・1回
+TEXT: パールルリサーチ：こうかばつぐんのスペシャルアタックを使ってジムバトルする・1回
 
 RESOURCE ID: quest_febresearchday_catch_feed_plural
 TEXT: パールルリサーチ：ポケモンを捕まえるときにきのみ{0}個を使う
@@ -50132,6 +50835,15 @@ TEXT: チームヴァーラー地点で写真を撮る
 
 RESOURCE ID: quest_gotoursik_photo_willow
 TEXT: ウィロー博士地点で写真を撮る
+
+RESOURCE ID: quest_grubbin_catch_b
+TEXT: アゴジムシを{0}匹捕まえる
+
+RESOURCE ID: quest_grubbin_evolve_b
+TEXT: アゴジムシを{0}匹進化させる
+
+RESOURCE ID: quest_grubbin_snapshot_b
+TEXT: アゴジムシのGOスナップショット写真を{0}枚撮る
 
 RESOURCE ID: quest_gt_catch_b
 TEXT: ゴースを{0}匹捕まえる
@@ -50821,7 +51533,7 @@ RESOURCE ID: quest_rockethq1_spin_row
 TEXT: ポケストップを{0}日間連続で回す
 
 RESOURCE ID: quest_rockethq1_supereffective
-TEXT: 効果ばつぐんのスペシャルアタックをジムバトルで{0}回使う
+TEXT: こうかばつぐんのスペシャルアタックをジムバトルで{0}回使う
 
 RESOURCE ID: quest_rockethq1_trainerbattle_win
 TEXT: スーパーリーグでのトレーナー対戦で{0}回勝つ
@@ -50945,6 +51657,9 @@ TEXT: カイリキーのGOスナップショット写真を撮る
 
 RESOURCE ID: quest_snapshot_okinawa
 TEXT: 沖縄でGOスナップショット写真を撮る
+
+RESOURCE ID: quest_snapshot_poison_grass_singular
+TEXT: 野生のどくタイプポケモンのGOスナップショット写真を撮る
 
 RESOURCE ID: quest_snapshot_regi_ice
 TEXT: レジアイスのGOスナップショット写真を撮る
@@ -53158,6 +53873,78 @@ TEXT: きみなしには成し遂げられなかった、本当に感謝して�
 
 RESOURCE ID: quest_special_dialogue_gofest_4_4
 TEXT: いつまでも心に残る週末となった．．．
+
+RESOURCE ID: quest_special_dialogue_grubbin_1_0
+TEXT: やぁ、%PLAYERNAME%！この粘着質の線はなんだ？
+
+RESOURCE ID: quest_special_dialogue_grubbin_1_1
+TEXT: アゴジムシの糸だな！
+
+RESOURCE ID: quest_special_dialogue_grubbin_1_2
+TEXT: 相手の動きを止めるために使うネバネバした糸だ。
+
+RESOURCE ID: quest_special_dialogue_grubbin_1_3
+TEXT: 普段は、地面の中で暮らしているのに、地上に出てきた？捕まえてみてくれ、%PLAYERNAME%！
+
+RESOURCE ID: quest_special_dialogue_grubbin_1_4
+TEXT: 今日は空の天敵が少ないのかもしれないな。
+
+RESOURCE ID: quest_special_dialogue_grubbin_1_4_0
+TEXT: おかえり、%PLAYERNAME%。なぜアゴジムシがたくさんいるのかわかったかな？
+
+RESOURCE ID: quest_special_dialogue_grubbin_1_5
+TEXT: もしくは、甘い樹液の香りに誘い出されたのか？アゴジムシの好物は樹液だからね。
+
+RESOURCE ID: quest_special_dialogue_grubbin_1_6
+TEXT: 機会があれば、パイルのみジュースに寄って来るかどうか実験したいな．．．。
+
+RESOURCE ID: quest_special_dialogue_grubbin_1_7
+TEXT: アゴジムシが進化するのは？そう、デンヂムシだ。デンヂムシは、頑丈なカラで守りに徹すると言われている。
+
+RESOURCE ID: quest_special_dialogue_grubbin_1_8
+TEXT: それだけじゃない。もうひとつ特徴的なことが．．．これは、実際に進化させて調べてみよう、%PLAYERNAME%！
+
+RESOURCE ID: quest_special_dialogue_grubbin_2_0
+TEXT: 進化させることができたね、%PLAYERNAME%！感電していないかな？
+
+RESOURCE ID: quest_special_dialogue_grubbin_2_1
+TEXT: そう、デンヂムシは落ち葉を食べて発電する。
+
+RESOURCE ID: quest_special_dialogue_grubbin_2_2
+TEXT: しかも、その電気エネルギーを体内に溜めることができる。
+
+RESOURCE ID: quest_special_dialogue_grubbin_2_3
+TEXT: そのため、キャンプのときなど1匹いるとありがたいポケモンだと言われている。
+
+RESOURCE ID: quest_special_dialogue_grubbin_2_4
+TEXT: バッテリーの役割をする．．．すごいポケモンだな！
+
+RESOURCE ID: quest_special_dialogue_grubbin_2_5
+TEXT: 守りに徹する、と言ったが、反撃するときはアゴの先端から電気を流すぞ。
+
+RESOURCE ID: quest_special_dialogue_grubbin_2_6
+TEXT: クワガノンに進化すると、強力な電撃ビームになるわけだ。
+
+RESOURCE ID: quest_special_dialogue_grubbin_2_7
+TEXT: 進化させて観察してみよう。
+
+RESOURCE ID: quest_special_dialogue_grubbin_3_0
+TEXT: かっこいいクワガノンじゃないか！
+
+RESOURCE ID: quest_special_dialogue_grubbin_3_1
+TEXT: アゴジムシ、デンヂムシであったときからは考えられないような羽が生えた！
+
+RESOURCE ID: quest_special_dialogue_grubbin_3_2
+TEXT: アクロバティックな飛行で敵をほんろうするクワガノン。
+
+RESOURCE ID: quest_special_dialogue_grubbin_3_3
+TEXT: 森の中で複雑に絡み合う枝があっても、かいくぐりながら飛行できる。
+
+RESOURCE ID: quest_special_dialogue_grubbin_3_4
+TEXT: おなかには発電器官があって、電撃ビームでとりポケモンも圧倒するんだ。
+
+RESOURCE ID: quest_special_dialogue_grubbin_3_5
+TEXT: クワガノンとの冒険を十分に楽しんでくれ。ではまたすぐ会おう、%PLAYERNAME%！
 
 RESOURCE ID: quest_special_dialogue_gt_0_0
 TEXT: やぁ、%PLAYERNAME%！ちょうどいいところに来てくれた。また不思議な現象が起きていて、
@@ -57501,7 +58288,7 @@ RESOURCE ID: quest_special_dialogue_roset_3_6
 TEXT: では、次に会う日まで、元気にGOだ！
 
 RESOURCE ID: quest_special_dialogue_rue_0_0
-TEXT: やぁ、%PLAYERNAME%じゃないか！
+TEXT: %PLAYERNAME%だね？元気かい？
 
 RESOURCE ID: quest_special_dialogue_rue_0_1
 TEXT: ちょっとしたフィールドワークをお願いするよ。
@@ -60186,6 +60973,24 @@ TEXT: 期限つきスペシャルリサーチ終了まで残り{0}日
 RESOURCE ID: quest_time_remaining_day_singular
 TEXT: 期限つきスペシャルリサーチ終了まで残り{0}日
 
+RESOURCE ID: quest_timed_dialogue_cornet_0_0
+TEXT: やぁ、%PLAYERNAME%！今日は特別さえてる、って感じだな。
+
+RESOURCE ID: quest_timed_dialogue_cornet_0_1
+TEXT: ひとつ謎解きをしてみようか。重要参考ポケモンを探せ！だ。
+
+RESOURCE ID: quest_timed_dialogue_cornet_0_2
+TEXT: ヒントを出すから、あててみてくれ。
+
+RESOURCE ID: quest_timed_dialogue_cornet_0_3
+TEXT: 緑のアクセントも鮮やかな、周辺に最近よくいるポケモンとはタイプが違う．．．
+
+RESOURCE ID: quest_timed_dialogue_cornet_0_4
+TEXT: ．．．ぱっと見は別のものに見えるポケモン。
+
+RESOURCE ID: quest_timed_dialogue_cornet_0_5
+TEXT: それは一体誰だと思う、%PLAYERNAME%？正しく推理できたらちょっとしたサプライズがあるぞ。
+
 RESOURCE ID: quest_title_af2022
 TEXT: エイプリルフール2022
 
@@ -60617,6 +61422,21 @@ TEXT: GO Fest 2018 (4/5)
 
 RESOURCE ID: quest_title_gofest_4
 TEXT: GO Fest 2018 (5/5)
+
+RESOURCE ID: quest_title_grubbin
+TEXT: ようちゅうポケモンを解明せよ！
+
+RESOURCE ID: quest_title_grubbin_0
+TEXT: ようちゅうポケモンを解明せよ！(1/4)
+
+RESOURCE ID: quest_title_grubbin_1
+TEXT: ようちゅうポケモンを解明せよ！(2/4)
+
+RESOURCE ID: quest_title_grubbin_2
+TEXT: ようちゅうポケモンを解明せよ！(3/4)
+
+RESOURCE ID: quest_title_grubbin_3
+TEXT: ようちゅうポケモンを解明せよ！(4/4)
 
 RESOURCE ID: quest_title_gt
 TEXT: ガスじょうポケモンを解明せよ！
@@ -62580,6 +63400,12 @@ TEXT: はがねタイプのポケモンを{0}匹送る
 RESOURCE ID: quest_transfer_type_water_plural
 TEXT: みずタイプのポケモンを{0}匹送る
 
+RESOURCE ID: quest_travel_routes_km_plural
+TEXT: ルートで{0}km歩く
+
+RESOURCE ID: quest_travel_routes_meters_plural
+TEXT: ルートで{0}メートル歩く
+
 RESOURCE ID: quest_under_investigation
 TEXT: ウィロー博士が調査中です。しばらくしてから再度アクセスしてください。
 
@@ -62632,7 +63458,7 @@ RESOURCE ID: quest_urd22_june_spin_stops
 TEXT: リサーチデイ：ポケストップ{0}個を回す
 
 RESOURCE ID: quest_urd22_june_supereffective
-TEXT: リサーチデイ：効果ばつぐんのスペシャルアタックを使ってバトルする
+TEXT: リサーチデイ：こうかばつぐんのスペシャルアタックを使ってバトルする
 
 RESOURCE ID: quest_ursaring_evolve_b
 TEXT: リングマを{0}匹進化させる
@@ -62739,6 +63565,9 @@ TEXT: 相棒と歩いてアメを1個もらう
 
 RESOURCE ID: quest_walk_eevee_for_evo
 TEXT: イーブイを相棒にして10km歩く
+
+RESOURCE ID: quest_walk_hgrowlithe_header_0
+TEXT: ガーディタイムチャレンジ
 
 RESOURCE ID: quest_walk_km
 TEXT: {0} km歩く
@@ -68345,7 +69174,7 @@ RESOURCE ID: route_change_endpoint_error
 TEXT: ゴール地点設定エラー
 
 RESOURCE ID: route_collapsed_show_more
-TEXT: もっと見る ({0})
+TEXT: もっと見る({0})
 
 RESOURCE ID: route_community_plays_label
 TEXT: コミュニティが遊んだ回数
@@ -68364,11 +69193,17 @@ TEXT: このルートを
 RESOURCE ID: route_completion_great_job
 TEXT: 完了！
 
-RESOURCE ID: route_cooldown_toast_hour
-TEXT: このルートを遊ぶには1時間待つ必要があります
+RESOURCE ID: route_completion_loading_error
+TEXT: ルート進捗が確認できませんでした。しばらくして再度お試しください。
 
-RESOURCE ID: route_cooldown_toast_hours
-TEXT: このルートを遊ぶには{0}時間待つ必要があります
+RESOURCE ID: route_completion_modal_description
+TEXT: 完了後ジガルデ・セルは現れません。
+
+RESOURCE ID: route_completion_modal_title
+TEXT: このルートを完了してもいいですか？
+
+RESOURCE ID: route_completion_out_of_range_error
+TEXT: ゴール地点にいないため道筋記録を終えることができません
 
 RESOURCE ID: route_cooldown_toast_hours_and_minute
 TEXT: このルートを遊ぶには{0}時間{1}分待つ必要があります
@@ -68399,6 +69234,9 @@ TEXT: ルート作成終了
 
 RESOURCE ID: route_creation_action_menu_new_endpoint
 TEXT: 新たなゴール地点を選ぶ
+
+RESOURCE ID: route_creation_action_menu_open_in_map
+TEXT: マップ上で開く
 
 RESOURCE ID: route_creation_action_menu_pause
 TEXT: 一時停止
@@ -68448,6 +69286,9 @@ TEXT: スタート地点からゴール地点まで道筋をたどってくだ�
 RESOURCE ID: route_creation_choose_end_header
 TEXT: ポケストップ・ジムを選んで
 
+RESOURCE ID: route_creation_choose_end_header_b
+TEXT: マップからポケストップ・ジムを選んでゴール地点にする
+
 RESOURCE ID: route_creation_choose_end_sub_header
 TEXT: ゴール地点に設定
 
@@ -68456,6 +69297,9 @@ TEXT: スタート地点から新ゴール地点まで道筋をたどってく�
 
 RESOURCE ID: route_creation_choose_new_end_header
 TEXT: ポケストップ・ジムを選んで
+
+RESOURCE ID: route_creation_choose_new_end_header_b
+TEXT: マップからポケストップ・ジムを選んで新ゴール地点にする
 
 RESOURCE ID: route_creation_choose_new_end_sub_header
 TEXT: 新ゴール地点に設定
@@ -68466,6 +69310,9 @@ TEXT: 新スタート地点に行くと道筋記録が始まります。記録�
 RESOURCE ID: route_creation_choose_new_start_header
 TEXT: ポケストップ・ジムを選んで
 
+RESOURCE ID: route_creation_choose_new_start_header_b
+TEXT: マップからポケストップ・ジムを選んで新スタート地点にする
+
 RESOURCE ID: route_creation_choose_new_start_sub_header
 TEXT: 新スタート地点に設定
 
@@ -68475,8 +69322,14 @@ TEXT: スタート地点に行くと道筋記録が始まります。記録開�
 RESOURCE ID: route_creation_choose_start_header
 TEXT: ポケストップ・ジムを選んで
 
+RESOURCE ID: route_creation_choose_start_header_b
+TEXT: マップからポケストップ・ジムを選んでスタート地点にする
+
 RESOURCE ID: route_creation_choose_start_sub_header
 TEXT: スタート地点に設定
+
+RESOURCE ID: route_creation_edit_error
+TEXT: すでに編集しています。編集・再提出は1回だけできます。
 
 RESOURCE ID: route_creation_error_invalid_start
 TEXT: 無効なスタート地点
@@ -68494,7 +69347,7 @@ RESOURCE ID: route_creation_go_to_start
 TEXT: スタート地点に向かってください。そこから道筋の記録を始めます。
 
 RESOURCE ID: route_creation_header_label
-TEXT: 作成したルート
+TEXT: 作成した
 
 RESOURCE ID: route_creation_max_distance_exceeded_description
 TEXT: 最長距離を超えたため、ルート作成を続けることができません。
@@ -68530,6 +69383,12 @@ TEXT: 距離不足
 RESOURCE ID: route_creation_min_distance_values
 TEXT: 最短距離： {0}
 現在距離： <color=#F2A64B>{1}</color>
+
+RESOURCE ID: route_creation_minimum_length_error_toast
+TEXT: 記録終了には最短{0}km必要です
+
+RESOURCE ID: route_creation_not_at_start_point_error_toast
+TEXT: スタート地点にいないため道筋記録を始めることができません
 
 RESOURCE ID: route_creation_onboarding_loop_page_desc
 TEXT: 同じポケストップをスタート地点とゴール地点として選んだため、ループのルートを作成します。スタート地点に戻りループを閉じて終了します。
@@ -68583,6 +69442,39 @@ TEXT: ルート作成を一時停止してもいいですか？
 RESOURCE ID: route_creation_pause_message
 TEXT: 進捗は保存されます。再開時には、この場所に戻って続きを記録する必要があります。
 
+RESOURCE ID: route_creation_point_selection_skip_button
+TEXT: スキップ
+
+RESOURCE ID: route_creation_recording_controls_button_end
+TEXT: 終了
+
+RESOURCE ID: route_creation_recording_controls_button_pause
+TEXT: 一時停止
+
+RESOURCE ID: route_creation_recording_controls_button_resume
+TEXT: 再開
+
+RESOURCE ID: route_creation_recording_controls_button_start
+TEXT: 記録を始める
+
+RESOURCE ID: route_creation_recording_controls_title
+TEXT: 道筋記録：
+
+RESOURCE ID: route_creation_recording_end_toast
+TEXT: ゴール地点にいます。道筋記録画面を開いて記録を終了してください。
+
+RESOURCE ID: route_creation_recording_start_toast
+TEXT: スタート地点にいます。道筋記録画面を開いて記録を始めてください。
+
+RESOURCE ID: route_creation_recording_state_active
+TEXT: 記録中
+
+RESOURCE ID: route_creation_recording_state_not_started
+TEXT: 記録開始していない
+
+RESOURCE ID: route_creation_recording_state_paused
+TEXT: 一時停止中
+
 RESOURCE ID: route_creation_resume_button
 TEXT: ルート作成再開
 
@@ -68598,11 +69490,11 @@ TEXT: 新ゴール地点を選ぶ
 RESOURCE ID: route_creation_selected_points_header
 TEXT: 選んだスタート・ゴール地点：
 
+RESOURCE ID: route_creation_start_record_button
+TEXT: 記録開始
+
 RESOURCE ID: route_creation_start_recording_error_too_far
 TEXT: スタート地点から外れたため記録が開始できません
-
-RESOURCE ID: route_creation_submit
-TEXT: デバッグ作成送信
 
 RESOURCE ID: route_creator_label
 TEXT: ルート作成者
@@ -68625,6 +69517,9 @@ TEXT: 削除
 
 RESOURCE ID: route_detail_rejected_description
 TEXT: このルートは却下されました。
+
+RESOURCE ID: route_detail_under_review_delete_button
+TEXT: 提出ルートを削除
 
 RESOURCE ID: route_detail_under_review_withdraw_button
 TEXT: 審査申請を取り下げる
@@ -68655,9 +69550,6 @@ TEXT: 人気
 
 RESOURCE ID: route_distance_walked_label
 TEXT: ルート上で歩いた距離
-
-RESOURCE ID: route_edit_button
-TEXT: 編集を続ける
 
 RESOURCE ID: route_edit_deleted_toast
 TEXT: {0}は削除されました
@@ -68747,7 +69639,7 @@ RESOURCE ID: route_error_unable_to_complete_action
 TEXT: 操作が完了できませんでした。再度お試しください。
 
 RESOURCE ID: route_error_unable_to_edit
-TEXT: このルートは編集できません。つくったルートリストを更新してこのルートの状況に変化があったか確認してください。
+TEXT: このルートは編集できません。作成したルートのリストを更新してこのルートの状況に変化があったか確認してください。
 
 RESOURCE ID: route_first_play_date_label
 TEXT: 初回
@@ -68760,6 +69652,9 @@ TEXT: ルート
 
 RESOURCE ID: route_general_plural
 TEXT: ルート
+
+RESOURCE ID: route_header_travel_time_label
+TEXT: ({0}分)
 
 RESOURCE ID: route_km_label
 TEXT: {0} km
@@ -68807,13 +69702,13 @@ RESOURCE ID: route_nearby_help_official_route
 TEXT: NIANTICパートナーによりつくられたルートにこのラベルが付きます
 
 RESOURCE ID: route_nearby_label
-TEXT: {0}個のルート
+TEXT: ルート({0})
 
 RESOURCE ID: route_nearby_list_button
 TEXT: 近くのルートを見る ({0})
 
 RESOURCE ID: route_nearby_list_header
-TEXT: 近くのルート ({0})
+TEXT: 近くのルート({0})
 
 RESOURCE ID: route_not_playable
 TEXT: このルートは現在遊べません
@@ -68879,6 +69774,9 @@ TEXT: ゴール地点が近い！
 RESOURCE ID: route_play_end_point_push_notification_description
 TEXT: ゲームを開いてルートを完了
 
+RESOURCE ID: route_play_header_label
+TEXT: 歩いた
+
 RESOURCE ID: route_play_hoo_warning_button
 TEXT: ルートを遊ぶ
 
@@ -68896,6 +69794,9 @@ TEXT: 問題が発生した場合は、このルートを報告することが�
 
 RESOURCE ID: route_play_low_rating_title
 TEXT: このルート上で何か問題が発生しましたか？
+
+RESOURCE ID: route_play_no_routes_campfire_message
+TEXT: 近くにルートがありません。Campfireを見ると、少し遠くにあるルートが確認できます。
 
 RESOURCE ID: route_play_pause_confirmation_description
 TEXT: ルート歩行を再開するときは、一時停止した場所まで戻る必要があります
@@ -68945,9 +69846,6 @@ TEXT: 発表済みルート
 RESOURCE ID: route_quit_label
 TEXT: ルートを終了
 
-RESOURCE ID: route_rating_description
-TEXT: このルートを楽しめましたか？評価をお願いします。
-
 RESOURCE ID: route_rating_percentage_label
 TEXT: {0}%
 
@@ -68970,7 +69868,7 @@ RESOURCE ID: route_rejected_deletion_confirm_title
 TEXT: このルートを削除してもいいですか？
 
 RESOURCE ID: route_rejected_deletion_success_description
-TEXT: このルートはつくったルートリストから削除されます。
+TEXT: このルートは作成したルートのリストから削除されます。
 
 RESOURCE ID: route_rejected_deletion_success_title
 TEXT: 削除完了
@@ -69029,8 +69927,11 @@ TEXT: 近さ
 RESOURCE ID: route_sort_rating
 TEXT: 評価
 
-RESOURCE ID: route_stamps_header
-TEXT: スタンプ
+RESOURCE ID: route_start_distance_label_km
+TEXT: {0} km
+
+RESOURCE ID: route_start_distance_label_m
+TEXT: {0} m
 
 RESOURCE ID: route_start_failed
 TEXT: ルートをスタートできませんでした
@@ -69081,7 +69982,7 @@ RESOURCE ID: route_submission_abandon_header
 TEXT: ルート作成を終了してもいいですか？
 
 RESOURCE ID: route_submission_add_description
-TEXT: ルート情報を追加
+TEXT: ルート説明を追加
 
 RESOURCE ID: route_submission_add_description_placeholder
 TEXT: このルートの旅程・歴史・背景などを説明してください
@@ -69095,14 +69996,8 @@ TEXT: {0}個までタグを付けることができます (任意)
 RESOURCE ID: route_submission_add_title
 TEXT: ルートタイトルをつける
 
-RESOURCE ID: route_submission_bad_desc
-TEXT: 説明に不適切な内容が含まれています
-
 RESOURCE ID: route_submission_bad_image
 TEXT: 無効なルート画像
-
-RESOURCE ID: route_submission_bad_name
-TEXT: タイトルに不適切な内容が含まれています
 
 RESOURCE ID: route_submission_badge_image_prompt
 TEXT: バッジにつける画像を選択：
@@ -69114,7 +70009,8 @@ RESOURCE ID: route_submission_description
 TEXT: 説明
 
 RESOURCE ID: route_submission_edit_description
-TEXT: 審査中のルート編集により審査にかかる時間が延びる可能性があります。
+TEXT: 変更を行うと、このルートの審査時間が延びる可能性があります。
+（再提出できるのは1回だけ）
 
 RESOURCE ID: route_submission_edit_title
 TEXT: 本当に編集を行いますか？
@@ -69229,6 +70125,9 @@ TEXT: {0}に却下
 RESOURCE ID: route_submission_status_review
 TEXT: {0}に提出
 
+RESOURCE ID: route_submission_tag_placeholder
+TEXT: タグを選んでください
+
 RESOURCE ID: route_submission_title
 TEXT: タイトル
 
@@ -69304,9 +70203,6 @@ TEXT: 車いす可
 RESOURCE ID: route_tags_label
 TEXT: タグ
 
-RESOURCE ID: route_times_label
-TEXT: {1}回利用
-
 RESOURCE ID: route_total_activity_label
 TEXT: アクティビティ
 
@@ -69318,6 +70214,9 @@ TEXT: 総プレイ回数
 
 RESOURCE ID: route_travel_reverse_button
 TEXT: 方向を逆にする
+
+RESOURCE ID: route_under_review_deletion_confirm_title
+TEXT: このルート審査を取り下げてもいいですか？
 
 RESOURCE ID: route_under_review_description
 TEXT: 審査中のルート
@@ -69351,9 +70250,6 @@ TEXT: {0}文字を超えるルートタイトルは付けられません
 
 RESOURCE ID: route_waiting_for_data
 TEXT: データロード中
-
-RESOURCE ID: route_walk_button
-TEXT: 歩く
 
 RESOURCE ID: route_walking_follow_path
 TEXT: 道筋に沿ってゴール地点まで歩いてください
@@ -69390,6 +70286,9 @@ TEXT: すでにスタート地点に設定しています
 
 RESOURCE ID: routes_end_at
 TEXT: 終わり：
+
+RESOURCE ID: routes_nearby_callout
+TEXT: 近くにルートがあります！
 
 RESOURCE ID: routes_nearby_notification
 TEXT: 近くにルートがあります！
@@ -69743,6 +70642,78 @@ TEXT: City Safari：ソウル2023 (2/3)
 RESOURCE ID: safari_city_2023_seoul_title_02
 TEXT: City Safari：ソウル2023 (3/3)
 
+RESOURCE ID: safari_city_leave_behind_dialog_00_00
+TEXT: やぁ、%PLAYERNAME%。会えてうれしいよ。トレーナー諸君にもなじみがあるこの街で。
+
+RESOURCE ID: safari_city_leave_behind_dialog_00_01
+TEXT: 先ほど、この辺りではあまり見かけないポケモンがいて、トレーナーたちが集まっていたよ。
+
+RESOURCE ID: safari_city_leave_behind_dialog_00_02
+TEXT: 準備が整い次第、どんなポケモンがいるか探しに行こう、%PLAYERNAME%。
+
+RESOURCE ID: safari_city_leave_behind_dialog_01_00
+TEXT: 探索の準備はいいかな、%PLAYERNAME%？
+
+RESOURCE ID: safari_city_leave_behind_dialog_01_01
+TEXT: 早速始めよう。
+
+RESOURCE ID: safari_city_leave_behind_dialog_01_02
+TEXT: まずは、あそこのポケストップ、回してみよう。
+
+RESOURCE ID: safari_city_leave_behind_dialog_02_00
+TEXT: よくやった、%PLAYERNAME%！この辺りではあまり見かけないポケモンを捕まえたんだね。
+
+RESOURCE ID: safari_city_leave_behind_dialog_02_01
+TEXT: トレーナーたちが騒いでいたのは、このポケモンのことだったんだな。
+
+RESOURCE ID: safari_city_leave_behind_dialog_02_02
+TEXT: 他にどんなポケモンがいるか、引き続き探索しよう。
+
+RESOURCE ID: safari_city_leave_behind_dialog_03_00
+TEXT: すごいな、%PLAYERNAME%！
+
+RESOURCE ID: safari_city_leave_behind_dialog_03_01
+TEXT: またこの辺りでは見ないポケモンだ！
+
+RESOURCE ID: safari_city_leave_behind_dialog_03_02
+TEXT: この調子でどんどん進もう！
+
+RESOURCE ID: safari_city_leave_behind_dialog_04_00
+TEXT: また同じことを言うが、そのポケモンもこの辺りでは非常にめずらしい。
+
+RESOURCE ID: safari_city_leave_behind_dialog_04_01
+TEXT: だからトレーナーたちも大喜びで歩いていたんだな！
+
+RESOURCE ID: safari_city_leave_behind_dialog_04_02
+TEXT: ポケモンもトレーナーの様子を見ていたのかもしれないな。
+
+RESOURCE ID: safari_city_leave_behind_dialog_04_03
+TEXT: そして、きみに出会った！
+
+RESOURCE ID: safari_city_leave_behind_dialog_05_00
+TEXT: 順調そのものだな、%PLAYERNAME%。
+
+RESOURCE ID: safari_city_leave_behind_dialog_05_01
+TEXT: ふぅ、ずいぶん歩いたな。もう少し調査して終わりにしようか。
+
+RESOURCE ID: safari_city_leave_behind_dialog_05_02
+TEXT: どう思う？
+
+RESOURCE ID: safari_city_leave_behind_dialog_06_00
+TEXT: これで調査はひと段落した、%PLAYERNAME%。
+
+RESOURCE ID: safari_city_leave_behind_dialog_06_01
+TEXT: 残りの時間は自由に楽しんでくれ。
+
+RESOURCE ID: safari_city_leave_behind_dialog_06_02
+TEXT: 次にこのような調査があるときは、また協力をお願いできるかな？
+
+RESOURCE ID: safari_city_leave_behind_dialog_06_03
+TEXT: きみのようなトレーナーと一緒に調査を行うのが一番楽しい、しみじみそう思うよ。
+
+RESOURCE ID: safari_city_leave_behind_dialog_06_04
+TEXT: では、%PLAYERNAME%、次に会えるその日まで、元気にGOだ！
+
 RESOURCE ID: safari_city_leave_behind_title_barcelona
 TEXT: バルセロナシティサファリ：コンティニュー
 
@@ -69760,6 +70731,84 @@ TEXT: ソウルシティサファリ：コンティニュー
 
 RESOURCE ID: safari_city_leave_behind_title_seoul_00
 TEXT: ソウルシティサファリ：コンティニュー(1/1)
+
+RESOURCE ID: safari_city_sr_dialog_00_00
+TEXT: やぁ、%PLAYERNAME%、この街できみに会えるとは！楽しい調査になりそうだ！
+
+RESOURCE ID: safari_city_sr_dialog_00_01
+TEXT: 今日はたくさんのポケモンに出会える予感がする。だが始める前に、一緒に冒険してくれるイーブイを紹介しよう。
+
+RESOURCE ID: safari_city_sr_dialog_00_02
+TEXT: 素敵なパートナーになりそうだろう？きみと街をめぐる準備は完璧、という感じがする！
+
+RESOURCE ID: safari_city_sr_dialog_01_00_backup
+TEXT: 良い選択だ、%PLAYERNAME%。
+
+RESOURCE ID: safari_city_sr_dialog_01_00_blanche
+TEXT: 妥当な選択だ、%PLAYERNAME%。
+
+RESOURCE ID: safari_city_sr_dialog_01_00_candela
+TEXT: 良いと思うわ、%PLAYERNAME%！
+
+RESOURCE ID: safari_city_sr_dialog_01_00_spark
+TEXT: しびれる選択だな、%PLAYERNAME%！ 
+
+RESOURCE ID: safari_city_sr_dialog_01_01_backup
+TEXT: では、イーブイと一緒に街をめぐってみてくれ！休憩をはさみつつ行うといい。写真を撮るのも忘れずに。
+
+RESOURCE ID: safari_city_sr_dialog_01_01_blanche
+TEXT: 写真を効率的に撮りながら、イーブイと街をめぐって有意義な調査を行うことを目指してもらいたい。
+
+RESOURCE ID: safari_city_sr_dialog_01_01_candela
+TEXT: イーブイと一緒に街をめぐって十分に楽しんでね。時々は休憩するのよ。それと写真も撮って。
+
+RESOURCE ID: safari_city_sr_dialog_01_01_spark
+TEXT: イーブイと存分に楽しみながら街中をめぐるといいぜ。写真を撮ること、休憩も取ること、忘れずにな！
+
+RESOURCE ID: safari_city_sr_dialog_01_02_backup
+TEXT: どんな発見や学びがあったか、戻ったら聞かせてもらうよ。
+
+RESOURCE ID: safari_city_sr_dialog_01_02_blanche
+TEXT: 調査報告書を楽しみにしている。
+
+RESOURCE ID: safari_city_sr_dialog_01_02_candela
+TEXT: あとではなしを聞くのが楽しみだわ！
+
+RESOURCE ID: safari_city_sr_dialog_01_02_spark
+TEXT: 戻ったらはなしを聞くぜ！
+
+RESOURCE ID: safari_city_sr_dialog_02_00
+TEXT: おかえり、%PLAYERNAME%。おかえり、イーブイ。
+
+RESOURCE ID: safari_city_sr_dialog_02_01
+TEXT: 写真撮影はうまくいったかな？何かご当地名物を食べたりしたかな？
+
+RESOURCE ID: safari_city_sr_dialog_02_02
+TEXT: 街の探索に加え、お互いのことをよく知る機会にしてくれるといいと思う。イーブイときみ、なかなか良いコンビだよ！
+
+RESOURCE ID: safari_city_sr_dialog_branch_00_backup
+TEXT: やぁ、%PLAYERNAME%！ 
+
+RESOURCE ID: safari_city_sr_dialog_branch_00_blanche
+TEXT: %PLAYERNAME%か。元気そうだな。
+
+RESOURCE ID: safari_city_sr_dialog_branch_00_candela
+TEXT: あら、%PLAYERNAME%！久しぶりじゃない？
+
+RESOURCE ID: safari_city_sr_dialog_branch_00_spark
+TEXT: ヘイ、%PLAYERNAME%！きみに会えてハッピーだ！
+
+RESOURCE ID: safari_city_sr_dialog_branch_01_backup
+TEXT: 調査の手助けを用意したから、きみに適したものを選んでくれ。
+
+RESOURCE ID: safari_city_sr_dialog_branch_01_blanche
+TEXT: 今日の調査補助手段を用意した。一番妥当だと思えるものを選ぶといい。
+
+RESOURCE ID: safari_city_sr_dialog_branch_01_candela
+TEXT: 調査の手助けを選んで始めましょ。一番熱いのを選ぶといいわ。
+
+RESOURCE ID: safari_city_sr_dialog_branch_01_spark
+TEXT: 調査の手助けを用意したぜ。直観で選ぶといいぜ。
 
 RESOURCE ID: safari_event
 TEXT: Pokémon GO Safari
@@ -70060,6 +71109,9 @@ TEXT: ポケストップ1個を回した
 RESOURCE ID: screen_friends_title
 TEXT: フレンド
 
+RESOURCE ID: screen_party_title
+TEXT: チーム
+
 RESOURCE ID: screen_title_badge_collection
 TEXT: ジムバッジ
 
@@ -70269,6 +71321,22 @@ TEXT: クワッスコレクションチャレンジ
 RESOURCE ID: sep23_paldea_collection_challenge_4
 TEXT: グルトンコレクションチャレンジ
 
+RESOURCE ID: sept20_psychic_collection_challenge_1
+TEXT: ねんりきチャレンジ：
+サーナイト
+
+RESOURCE ID: sept20_psychic_collection_challenge_2
+TEXT: ねんりきチャレンジ：
+フーディン
+
+RESOURCE ID: sept20_psychic_collection_challenge_3
+TEXT: ねんりきチャレンジ：
+ヤドラン
+
+RESOURCE ID: sept20_psychic_collection_challenge_4
+TEXT: ねんりきチャレンジ：
+チャーレム
+
 RESOURCE ID: server_lockout
 TEXT: メンテナンスのためサービスを一時停止しています。しばらくしてから再度お試しください。
 
@@ -70402,6 +71470,18 @@ TEXT: フレンド申請が通ったとき
 RESOURCE ID: settings_friend_request_received
 TEXT: フレンド申請が届いたとき
 
+RESOURCE ID: settings_friend_requests_header
+TEXT: 以下からフレンド申請を受ける：
+
+RESOURCE ID: settings_friend_requests_party_play
+TEXT: チームメンバー
+
+RESOURCE ID: settings_friend_requests_raids
+TEXT: レイド参加者
+
+RESOURCE ID: settings_friends_header
+TEXT: フレンド
+
 RESOURCE ID: settings_general_title
 TEXT: 一般
 
@@ -70503,6 +71583,18 @@ TEXT: つながらない時は
 
 RESOURCE ID: settings_palma_troubleshooting_url
 TEXT: https://www.pokemongo.jp/monsterballplus-support/pairing/
+
+RESOURCE ID: settings_party_play_header
+TEXT: チームコラボ
+
+RESOURCE ID: settings_party_play_location_avatars_toast
+TEXT: チーム内で現在地を共有しマップ上で他トレーナーを見る
+
+RESOURCE ID: settings_party_play_location_share
+TEXT: チームと現在位置を共有
+
+RESOURCE ID: settings_party_play_map_avatars
+TEXT: 他トレーナーをマップ上で見る
 
 RESOURCE ID: settings_pbp_check_other_menu
 TEXT: 設定から「Pokémon GO Plus」画面を開いてください
@@ -71027,7 +72119,7 @@ RESOURCE ID: shinjuku_cross_title
 TEXT: クロス新宿ビジョン
 
 RESOURCE ID: shop_already_own_this_ticket
-TEXT: このイベントのチケットを持っています
+TEXT: このイベントのチケットを持っているか、対象リサーチやチャレンジを進行・完了しているなどの理由でこのチケットを購入することができません
 
 RESOURCE ID: shop_battle_tickets_title
 TEXT: プレミアムバトルパスを持っていません！
@@ -71118,7 +72210,7 @@ TEXT: {0} はこれ以上アップグレードできません
 
 RESOURCE ID: shop_gift_friend_ineligible_description
 TEXT: 以下の理由でフレンドが有料ギフトを受け取ることができないことがあります。
- •すでにチケットを持っている
+ •すでにチケットを持っているか対象リサーチやチャレンジを進行・完了している
  •他の人がチケットを贈った
  •ギフトを贈るための仲良し度に達していない
  •有料ギフトを受け取らない設定にしている
@@ -71444,6 +72536,9 @@ TEXT: 春イベント野生ポケモン
 
 RESOURCE ID: six_free_raid_passes
 TEXT: 一日6枚までジムのフォトディスクからレイドパス入手
+
+RESOURCE ID: size_xxs_xxl_increase_oddish
+TEXT: XXS・XXLのナゾノクサが現れる確率アップ
 
 RESOURCE ID: size_xxs_xxl_increase_pidgey
 TEXT: XXS・XXLのポッポが現れる確率アップ
@@ -71803,6 +72898,9 @@ TEXT: ゴースがより多く野生で出現
 
 RESOURCE ID: spawn_gible
 TEXT: フカマルがより多く野生で出現
+
+RESOURCE ID: spawn_grubbin
+TEXT: アゴジムシがより多く野生で出現
 
 RESOURCE ID: spawn_hoppip
 TEXT: ハネッコがより多く野生で出現
@@ -74431,6 +75529,9 @@ TEXT: 「ガスじょうポケモンを解明せよ！」チケットがショ�
 RESOURCE ID: ticket_gible
 TEXT: 「りくザメポケモンの謎を解け！」チケットがショップに登場
 
+RESOURCE ID: ticket_grubbin
+TEXT: アゴジムシコミュニティ・デイスペシャルリサーチのチケットがショップに登場
+
 RESOURCE ID: ticket_hoopau
 TEXT: 「フーパを解き放て！」チケットがショップに登場
 
@@ -74460,6 +75561,21 @@ TEXT: ミズゴロウコミュニティ・デイ復刻スペシャルリサー�
 
 RESOURCE ID: ticket_noibat
 TEXT: 「おんぱポケモンを解明せよ！」チケットがショップに登場
+
+RESOURCE ID: ticket_of_treats_title
+TEXT: 実りの秋
+
+RESOURCE ID: ticket_of_treats_title_1
+TEXT: 実りの秋パート1
+
+RESOURCE ID: ticket_of_treats_title_2
+TEXT: 実りの秋パート2
+
+RESOURCE ID: ticket_of_treats_title_3
+TEXT: 実りの秋パート3
+
+RESOURCE ID: ticket_of_treats_title_4
+TEXT: 実りの秋パート4
 
 RESOURCE ID: ticket_oshawott
 TEXT: 「ラッコポケモンを解明せよ！」チケットがショップに登場
@@ -74633,6 +75749,33 @@ TEXT: 特定のポケモンを捕まえたり、フィールドリサーチを�
 RESOURCE ID: timed_quest_adventure_adv23_branch_2_title_key
 TEXT: 視察アドベンチャー
 
+RESOURCE ID: timed_quest_cornet23_branch_1_button_key
+TEXT: ツタージャ
+
+RESOURCE ID: timed_quest_cornet23_branch_1_description_key
+TEXT: ツタージャだと思う！
+
+RESOURCE ID: timed_quest_cornet23_branch_1_title_key
+TEXT: ツタージャ
+
+RESOURCE ID: timed_quest_cornet23_branch_2_button_key
+TEXT: モクロー
+
+RESOURCE ID: timed_quest_cornet23_branch_2_description_key
+TEXT: モクローだと思う！
+
+RESOURCE ID: timed_quest_cornet23_branch_2_title_key
+TEXT: モクロー
+
+RESOURCE ID: timed_quest_cornet23_branch_3_button_key
+TEXT: ウソッキー
+
+RESOURCE ID: timed_quest_cornet23_branch_3_description_key
+TEXT: ウソッキーだと思う！
+
+RESOURCE ID: timed_quest_cornet23_branch_3_title_key
+TEXT: ウソッキー
+
 RESOURCE ID: timed_research
 TEXT: タイムチャレンジあり
 
@@ -74667,15 +75810,15 @@ RESOURCE ID: tips_friends_list_no_friends_title
 TEXT: フレンド追加
 
 RESOURCE ID: tips_friends_online_status_body
-TEXT: オンライン表示はいつでも、フレンドリストに表示されるこのボタンで切り替えることができます。
+TEXT: オンライン状況の共有はフレンドリスト上のボタンでいつでもオフにできます。
 
-オンライン表示をONにすると、あなたがプレイしていることをフレンドに知らせることができます。
+オンライン状況表示で、あなたがプレイしていることをフレンドに表示します。
 
 RESOURCE ID: tips_friends_online_status_title
-TEXT: オンラインステータス
+TEXT: オンライン状況
 
 RESOURCE ID: tips_friends_tutorial_add_body
-TEXT: トレーナーコードを教えてもらう、もしくは、二次元バーコードを読み取ってフレンド追加ができます。フレンド追加を行うと、両者がプレイしているNianticゲームすべてにおいてフレンドとして追加されます。
+TEXT: フレンド追加したい相手のコードを入力、もしくは、二次元バーコードを読み取ってフレンド追加ができます。フレンド追加を行うと、両者がプレイしているNianticゲームすべてにおいてフレンドとして追加されます。
 
 Facebookのアカウント連携をすることでもフレンド追加できます。
 
@@ -75241,6 +76384,9 @@ TEXT: ポケストップスキャン
 RESOURCE ID: titan_upload_wifi_recommended
 TEXT: Wi-Fi 接続推奨
 
+RESOURCE ID: title_hatch_day_azurill
+TEXT: ルリリふかの日
+
 RESOURCE ID: title_hatch_day_riolu
 TEXT: リオルふかの日
 
@@ -75480,6 +76626,21 @@ TEXT: Pokémon GO Safari Zone シンガポール：
 
 RESOURCE ID: tr_sz_taipei_global
 TEXT: Safari Zone 台北：探索チャレンジ
+
+RESOURCE ID: tr_weekend_booster_desc_00
+TEXT: 2023年9月ウィークエンドプロジェクト
+
+RESOURCE ID: tr_weekend_booster_desc_01
+TEXT: 2023年10月ウィークエンドプロジェクト
+
+RESOURCE ID: tr_weekend_booster_desc_02
+TEXT: 2023年11月ウィークエンドプロジェクト
+
+RESOURCE ID: tr_weekend_booster_desc_03
+TEXT: 2023年12月ウィークエンドプロジェクト
+
+RESOURCE ID: tr_weekend_booster_title
+TEXT: ウィークエンドプロジェクト
 
 RESOURCE ID: trade_action
 TEXT: 交換
@@ -76047,7 +77208,7 @@ RESOURCE ID: two_plus_days_ago
 TEXT: 2日以上前
 
 RESOURCE ID: type_2019_supereffective_charge
-TEXT: こうかばつぐんウィーク：効果ばつぐんのスペシャルアタックを使って1回ジムバトルする
+TEXT: こうかばつぐんウィーク：こうかばつぐんのスペシャルアタックを使って1回ジムバトルする
 
 RESOURCE ID: type_event_egg
 TEXT: フィーチャーポケモンタイプがタマゴから生まれる頻度アップ

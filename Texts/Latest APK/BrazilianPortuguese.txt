@@ -208,6 +208,9 @@ TEXT: O Pokémon GO é muito melhor com amigos!
 RESOURCE ID: abi_new_player_onboarding_title_2
 TEXT: Encontrar amigos usando sua lista de contatos
 
+RESOURCE ID: ability_already_applied
+TEXT: A Habilidade já foi aplicada.
+
 RESOURCE ID: about_screen_btn
 TEXT: Sobre
 
@@ -814,7 +817,7 @@ RESOURCE ID: anniversary_2023_timed_research_0
 TEXT: Pesquisa temporária de Festa de 7º aniversário
 
 RESOURCE ID: app_exit_confirmation_message
-TEXT: Quer sair do <i>Pokémon GO</i>?
+TEXT: Quer sair do Pokémon GO?
 
 RESOURCE ID: app_launch_deeplink
 TEXT: https://pokemongolive.com/launchapp
@@ -919,7 +922,7 @@ RESOURCE ID: appraise_overall_mid_3|1
 TEXT: Em geral, seu {0} está muito bem!
 
 RESOURCE ID: appraise_size_huge_1|1
-TEXT: 0 seu {0} pode ser classificado como excepcionalmente grande.
+TEXT: O tamanho de seu {0} é colossal. Isto é realmente incrível. Fascinante!
 
 RESOURCE ID: appraise_size_huge_1|1_tgr
 TEXT: Há Pokémon grandes, mas este {0} é ainda maior.
@@ -928,7 +931,7 @@ RESOURCE ID: appraise_size_huge_1|1b
 TEXT: 0 seu {0} pode ser classificado como excepcionalmente grande.
 
 RESOURCE ID: appraise_size_huge_2|1
-TEXT: Nossa, que {0} enorme!
+TEXT: Seu {0} é gigante, o maior que já vi!
 
 RESOURCE ID: appraise_size_huge_2|1_tgr
 TEXT: Mas que {0} corpulento. Quase me impressionou.
@@ -991,7 +994,7 @@ RESOURCE ID: appraise_size_small_3|1_tgr
 TEXT: Este {0} é dos menores.
 
 RESOURCE ID: appraise_size_tiny_1|1
-TEXT: O seu {0} pode ser classificado como excepcionalmente pequeno.
+TEXT: Seu {0} é menor do que os que temos no registro. Impressionante.
 
 RESOURCE ID: appraise_size_tiny_1|1_tgr
 TEXT: Que {0} pequenininho. Se esforce mais.
@@ -1000,7 +1003,7 @@ RESOURCE ID: appraise_size_tiny_1|1b
 TEXT: O seu {0} pode ser classificado como excepcionalmente pequeno.
 
 RESOURCE ID: appraise_size_tiny_2|1
-TEXT: Que {0} pequenino!
+TEXT: Seu {0} é tão pequeno que quase não o vi!
 
 RESOURCE ID: appraise_size_tiny_2|1_tgr
 TEXT: Isso é uma piada? Que tipo de {0} microscópico é esse?
@@ -1009,7 +1012,7 @@ RESOURCE ID: appraise_size_tiny_2|1b
 TEXT: Que {0} pequenino!
 
 RESOURCE ID: appraise_size_tiny_3|1
-TEXT: O seu {0} é bem pequeno, né?
+TEXT: Ua… Uau. Este é o menor {0} que já vi!
 
 RESOURCE ID: appraise_size_tiny_3|1_tgr
 TEXT: Mas que {0} peculiar.
@@ -3714,8 +3717,14 @@ TEXT: Chapéus
 RESOURCE ID: avatar_lock_badge
 TEXT: Desbloqueia no nível {0} da insígnia {1}.
 
+RESOURCE ID: avatar_lock_badge_item_name
+TEXT: {0} desbloqueia no nível {1} da insígnia {2}
+
 RESOURCE ID: avatar_lock_level
 TEXT: Desbloqueia no nível {0}.
+
+RESOURCE ID: avatar_lock_level_item_name
+TEXT: {0} desbloqueia no nível {1}
 
 RESOURCE ID: avatar_m_backpack_alolaitemslittenbp_00_bundle_icon
 TEXT: Mochila de
@@ -7975,6 +7984,96 @@ TEXT: Derrotar {0} membros da Equipe GO Rocket.
 RESOURCE ID: badge_rocket_grunts_defeated_title
 TEXT: Herói
 
+RESOURCE ID: badge_safari_2023_barcelona_add_on_hatch
+TEXT: Safári urbano de Pokémon GO
+
+RESOURCE ID: badge_safari_2023_barcelona_add_on_hatch_title
+TEXT: Safári urbano: Chocante
+
+RESOURCE ID: badge_safari_2023_barcelona_add_on_raid
+TEXT: Safári urbano de Pokémon GO
+
+RESOURCE ID: badge_safari_2023_barcelona_add_on_raid_title
+TEXT: Safári urbano: Fã de Reide
+
+RESOURCE ID: badge_safari_2023_barcelona_day_00
+TEXT: Barcelona 2023
+
+RESOURCE ID: badge_safari_2023_barcelona_day_00_title
+TEXT: Safári urbano de Pokémon GO
+
+RESOURCE ID: badge_safari_2023_barcelona_day_01
+TEXT: Barcelona, 13 de outubro de 2023
+
+RESOURCE ID: badge_safari_2023_barcelona_day_01_title
+TEXT: Safári urbano de Pokémon GO
+
+RESOURCE ID: badge_safari_2023_barcelona_day_02
+TEXT: Barcelona 14 de outubro de 2023
+
+RESOURCE ID: badge_safari_2023_barcelona_day_02_title
+TEXT: Safári urbano de Pokémon GO
+
+RESOURCE ID: badge_safari_2023_mexcity_add_on_hatch
+TEXT: Safári urbano de Pokémon GO
+
+RESOURCE ID: badge_safari_2023_mexcity_add_on_hatch_title
+TEXT: Safári urbano: Chocante
+
+RESOURCE ID: badge_safari_2023_mexcity_add_on_raid
+TEXT: Safári urbano de Pokémon GO
+
+RESOURCE ID: badge_safari_2023_mexcity_add_on_raid_title
+TEXT: Safári urbano: Fã de Reide
+
+RESOURCE ID: badge_safari_2023_mexcity_day_00
+TEXT: Cidade do México 2023
+
+RESOURCE ID: badge_safari_2023_mexcity_day_00_title
+TEXT: Safári urbano de Pokémon GO
+
+RESOURCE ID: badge_safari_2023_mexcity_day_01
+TEXT: Cidade do México, 4 de novembro de 2023
+
+RESOURCE ID: badge_safari_2023_mexcity_day_01_title
+TEXT: Safári urbano de Pokémon GO
+
+RESOURCE ID: badge_safari_2023_mexcity_day_02
+TEXT: Cidade do México, 5 de novembro de 2023
+
+RESOURCE ID: badge_safari_2023_mexcity_day_02_title
+TEXT: Safári urbano de Pokémon GO
+
+RESOURCE ID: badge_safari_2023_seoul_add_on_hatch
+TEXT: Safári urbano de Pokémon GO
+
+RESOURCE ID: badge_safari_2023_seoul_add_on_hatch_title
+TEXT: Safári urbano: Chocante
+
+RESOURCE ID: badge_safari_2023_seoul_add_on_raid
+TEXT: Safári urbano de Pokémon GO
+
+RESOURCE ID: badge_safari_2023_seoul_add_on_raid_title
+TEXT: Safári urbano: Fã de Reide
+
+RESOURCE ID: badge_safari_2023_seoul_day_00
+TEXT: Seul 2023
+
+RESOURCE ID: badge_safari_2023_seoul_day_00_title
+TEXT: Safári urbano de Pokémon GO
+
+RESOURCE ID: badge_safari_2023_seoul_day_01
+TEXT: Seul, 7 de outubro de 2023
+
+RESOURCE ID: badge_safari_2023_seoul_day_01_title
+TEXT: Safári urbano de Pokémon GO
+
+RESOURCE ID: badge_safari_2023_seoul_day_02
+TEXT: Seul, 8 de outubro de 2023
+
+RESOURCE ID: badge_safari_2023_seoul_day_02_title
+TEXT: Safári urbano de Pokémon GO
+
 RESOURCE ID: badge_safari_zone_europe_2017
 TEXT: Europa, 16 de setembro de 2017
 
@@ -7992,60 +8091,6 @@ TEXT: Safári Pokémon GO: Europa 2017
 
 RESOURCE ID: badge_safari_zone_europe_2017_title
 TEXT: Safári Pokémon GO: Europa 2017
-
-RESOURCE ID: badge_safaricity_2023_barcelona_day_00_general
-TEXT: Barcelona 2023
-
-RESOURCE ID: badge_safaricity_2023_barcelona_day_00_general_title
-TEXT: Safári urbano de Pokémon GO
-
-RESOURCE ID: badge_safaricity_2023_barcelona_day_01_general
-TEXT: Barcelona, 13 de outubro de 2023
-
-RESOURCE ID: badge_safaricity_2023_barcelona_day_01_general_title
-TEXT: Safári urbano de Pokémon GO
-
-RESOURCE ID: badge_safaricity_2023_barcelona_day_02_general
-TEXT: Barcelona 14 de outubro de 2023
-
-RESOURCE ID: badge_safaricity_2023_barcelona_day_02_general_title
-TEXT: Safári urbano de Pokémon GO
-
-RESOURCE ID: badge_safaricity_2023_mexico_city_day_00_general
-TEXT: Cidade do México 2023
-
-RESOURCE ID: badge_safaricity_2023_mexico_city_day_00_general_title
-TEXT: Safári urbano de Pokémon GO
-
-RESOURCE ID: badge_safaricity_2023_mexico_city_day_01_general
-TEXT: Cidade do México, 4 de novembro de 2023
-
-RESOURCE ID: badge_safaricity_2023_mexico_city_day_01_general_title
-TEXT: Safári urbano de Pokémon GO
-
-RESOURCE ID: badge_safaricity_2023_mexico_city_day_02_general
-TEXT: Cidade do México, 5 de novembro de 2023
-
-RESOURCE ID: badge_safaricity_2023_mexico_city_day_02_general_title
-TEXT: Safári urbano de Pokémon GO
-
-RESOURCE ID: badge_safaricity_2023_seoul_day_00_general
-TEXT: Seul 2023
-
-RESOURCE ID: badge_safaricity_2023_seoul_day_00_general_title
-TEXT: Safári urbano de Pokémon GO
-
-RESOURCE ID: badge_safaricity_2023_seoul_day_01_general
-TEXT: Seul, 7 de outubro de 2023
-
-RESOURCE ID: badge_safaricity_2023_seoul_day_01_general_title
-TEXT: Safári urbano de Pokémon GO
-
-RESOURCE ID: badge_safaricity_2023_seoul_day_02_general
-TEXT: Seul, 8 de outubro de 2023
-
-RESOURCE ID: badge_safaricity_2023_seoul_day_02_general_title
-TEXT: Safári urbano de Pokémon GO
 
 RESOURCE ID: badge_safarizone_2019_montreal_day_00_earlyaccess
 TEXT: Montreal, 19 de setembro de 2019
@@ -8861,7 +8906,7 @@ TEXT: <size=36><b>Quer transferir {0} Pokémon ao Professor?</b></size>
 Você não poderá recuperar nenhum Pokémon após serem transferidos.
 
 RESOURCE ID: batch_transfer_eligible_confirm_plural
-TEXT: <size=36><b>Apenas {0} dos Pokémon selecionados podem ser transferidos.
+TEXT: <size=36><b>Apenas {0} dos Pokémon selecionados podem ser transferidos.</b></size>
 
 Qualquer Pokémon que não possa ser transferido continuará no seu estoque de Pokémon. Pokémon que forem transferidos não podem ser recuperados.
 
@@ -11219,6 +11264,9 @@ TEXT: Batalhe contra 1 Desafiante
 RESOURCE ID: battle_week_event_name
 TEXT: Desafio de força
 
+RESOURCE ID: battle_weekend
+TEXT: Fim de semana de batalhas GO
+
 RESOURCE ID: battle_weekend_2022_event_name
 TEXT: Fim de semana de batalha
 
@@ -11669,8 +11717,14 @@ TEXT: Bolas Criatura disponíveis em Reide de Ultracriaturas
 RESOURCE ID: bonus_buddy_catch_assist_boosted
 TEXT: Maior chance de contar com o seu companheiro como Assistente de captura se o nível dele for grande companheiro ou superior
 
+RESOURCE ID: bonus_candy_ditto_eevee_pikachu_snorlax
+TEXT: Three additional Candy from catching Pikachu, Ditto, Eevee, or Snorlax
+
 RESOURCE ID: bonus_candy_nice_great_excel
 TEXT: Doces adicionais por pegar Pokémon com boas, ótimas e excelentes jogadas
+
+RESOURCE ID: bonus_candy_pumpkaboo
+TEXT: Doces adicionais por pegar Pumpkaboo
 
 RESOURCE ID: bonus_candy_xl_candy_nice_great_excel
 TEXT: Doces adicionais e maior chance de receber Doces GG por pegar Pokémon com boas, ótimas e excelentes jogadas
@@ -11704,6 +11758,9 @@ TEXT: Evolua Braixen para conseguir Delphox que sabe o ataque carregado Queimadu
 
 RESOURCE ID: bonus_cd_move_froakie
 TEXT: Evolua Frogadier para conseguir Greninja que sabe o ataque carregado Hidrocanhão
+
+RESOURCE ID: bonus_cd_move_grubbin
+TEXT: Evolua Charjabug para conseguir Vikavolt que sabe o ataque ágil Troca Elétrica!
 
 RESOURCE ID: bonus_cd_move_larvitar_cdc
 TEXT: Evolua Pupitar (a Evolução de Larvitar) para conseguir Tyranitar que sabe o ataque ágil Derrubada!
@@ -11767,6 +11824,9 @@ TEXT: Escolha este bônus para aproveitar uma duração maior do Pedaço de Estr
 
 RESOURCE ID: bonus_double_guaranteed_xl_evolve
 TEXT: 2 doces GG garantidos ao evoluir Pokémon
+
+RESOURCE ID: bonus_event_2023_france_title
+TEXT: Pokémon: Art through the Ages
 
 RESOURCE ID: bonus_event_sticker
 TEXT: Adesivo do evento especial disponível ao girar Poképaradas na área
@@ -11866,6 +11926,9 @@ TEXT: Se Treinadores trabalharem juntos para vencer um Reide Braixen, um grande 
 
 RESOURCE ID: bonus_implicit_social_froakie_raid
 TEXT: Se Treinadores trabalharem juntos para vencer um Reide de Frogadier, um grande número de Froakie aparecerá na área por 30 minutos
+
+RESOURCE ID: bonus_implicit_social_grubbin_raid
+TEXT: Se Treinadores trabalharem juntos para vencer um Reide de Charjabug, um grande número de Grubbin aparecerá na área por 30 minutos.
 
 RESOURCE ID: bonus_implicit_social_litwick_raid
 TEXT: Se Treinadores trabalharem juntos para vencer um Reide de Lampent, um grande número de Litwick aparecerá na área por 30 minutos.
@@ -11980,6 +12043,9 @@ TEXT: Swampert capturados durante este evento conhecerão o ataque carregado Hid
 
 RESOURCE ID: bonus_raid_trainers_gym_bug_types
 TEXT: Se Treinadores participarem de um Reide juntos, um grande número de Pokémon de tipo Inseto aparecerá na área por 15 minutos.
+
+RESOURCE ID: bonus_research_day_oddish_stone
+TEXT: Oddish selvagens podem estar segurando uma Pedra Solar
 
 RESOURCE ID: bonus_reward_100_catch_startdust
 TEXT: +100 Poeira Estelar por captura
@@ -12140,6 +12206,9 @@ TEXT: Bônus desbloqueado!
 RESOURCE ID: bonus_versioned_field_research_2x_daily
 TEXT: Pesquisa de campo disponível em Poképaradas duas vezes por dia: uma antes do meio-dia e outra depois do meio-dia
 
+RESOURCE ID: bonus_weekend_booster_desc
+TEXT: Inicie uma sessão todos os fins de semana até o final de 2023 para receber uma pesquisa temporária que dará como recompensa Frutas, Poké Bolas e Incenso!
+
 RESOURCE ID: bonus_xl_candy_5x
 TEXT: Muito mais chances de receber Doces GG por pegar Pokémon
 
@@ -12201,13 +12270,13 @@ RESOURCE ID: boot_safety_warning
 TEXT: Lembre-se de estar em alerta a todo momento. Preste atenção à sua volta.
 
 RESOURCE ID: boot_safety_warning_1
-TEXT: Não jogue <i>Pokémon GO</i> enquanto dirige.
+TEXT: Não jogue Pokémon GO enquanto dirige.
 
 RESOURCE ID: boot_safety_warning_2
-TEXT: Não entre em propriedade privada enquanto joga <i>Pokémon GO</i>.
+TEXT: Não entre em propriedade privada enquanto joga Pokémon GO.
 
 RESOURCE ID: boot_safety_warning_3
-TEXT: Não entre em áreas perigosas enquanto joga <i>Pokémon GO</i>.
+TEXT: Não entre em áreas perigosas enquanto joga Pokémon GO.
 
 RESOURCE ID: boot_safety_warning_4
 TEXT: Seja educado com pessoas do mundo real ao jogar Pokémon GO.
@@ -13075,11 +13144,11 @@ TEXT: Uma mola pequena e fina totalmente esticada.
 RESOURCE ID: buddy_souvenir_stretchy_spring_name
 TEXT: Mola maleável
 
-RESOURCE ID: buddy_souvenir_tiny_compass
-TEXT: Minibússola 
-
-RESOURCE ID: buddy_souvenir_tiny_compass_desc
+RESOURCE ID: buddy_souvenir_tiny_compass_description
 TEXT: O seu companheiro deixou esta bússola para que você sempre encontre seu caminho de volta a ele.
+
+RESOURCE ID: buddy_souvenir_tiny_compass_name
+TEXT: Minibússola 
 
 RESOURCE ID: buddy_souvenir_torn_ticket_description
 TEXT: Um bilhete usado, rasgado e desbotado. Provavelmente, o seu companheiro achou que era legal!
@@ -13506,7 +13575,7 @@ RESOURCE ID: candela_map_time_warning|2
 TEXT: Vamos checar novamente pela manhã. Eu sei que a Equipe GO Rocket aprontará alguma coisa nesta parte do dia. Enquanto isso, eu vou perguntar a Blanche se ela sabe de alguma coisa.
 
 RESOURCE ID: candy_exchange_button
-TEXT: Permuta
+TEXT: Trocar
 
 RESOURCE ID: candy_to_xl_trade
 TEXT: Trocar {0} doce por {0} doce GG?
@@ -15096,11 +15165,11 @@ TEXT: Gire para construir o seu escudo!
 RESOURCE ID: combat_defense_warning
 TEXT: Lá vem um ataque!
 
-RESOURCE ID: combat_description_season_10
-TEXT: As datas e horários abaixo estão listados na hora local.
-
 RESOURCE ID: combat_description_season_11
 TEXT: As datas e horários listados abaixo estão na hora local.
+
+RESOURCE ID: combat_description_season_12
+TEXT: As datas e horários abaixo estão listados na hora local.
 
 RESOURCE ID: combat_description_season_7
 TEXT: Quando a Temporada de GO começar em 31 de maio, suas recompensas do fim da temporada 6 estarão disponíveis na tela de batalha, incluindo uma MT elite de ataque ágil se você tiver alcançado o ranque 19 ou superior. A sua pontuação será redefinida. Fique de olho, pois avisaremos caso haja alguma mudança.
@@ -15747,6 +15816,9 @@ TEXT: Dia Comunitário: Gastly
 RESOURCE ID: community_day_gible_event_name
 TEXT: Dia Comunitário: Gible
 
+RESOURCE ID: community_day_grubbin_event_name
+TEXT: Dia Comunitário de Grubbin
+
 RESOURCE ID: community_day_hoppip_event_name
 TEXT: Dia Comunitário: Hoppip
 
@@ -15902,6 +15974,9 @@ TEXT: Se aparecer uma luz vermelha ou branca, a Poképarada estava fora de alcan
 
 RESOURCE ID: complete_geotarget_quest
 TEXT: Concluir uma tarefa de mapeamento de RA
+
+RESOURCE ID: complete_route_button
+TEXT: ROTA COMPLETADA
 
 RESOURCE ID: complete_route_travel_error_toast
 TEXT: Error completing Route
@@ -16161,6 +16236,15 @@ TEXT: Seu código de Treinador foi copiado!
 
 RESOURCE ID: copy_referral_code_toast
 TEXT: Seu código de indicação foi copiado.
+
+RESOURCE ID: cornet_oct_event_title
+TEXT: Evento Detective Pikachu Returns
+
+RESOURCE ID: cornet_oct_tr_title_01
+TEXT: Evento Detective Pikachu Returns: pesquisa temporária (1/2)
+
+RESOURCE ID: cornet_oct_tr_title_02
+TEXT: Evento Detective Pikachu Returns: pesquisa temporária (2/2)
 
 RESOURCE ID: corphish_o_clock
 TEXT: É hora de Corphish
@@ -16720,19 +16804,19 @@ RESOURCE ID: eevee_explorers_barcelona_title
 TEXT: Eevee Exploradores: Barcelona
 
 RESOURCE ID: eevee_explorers_barcelona_title_00
-TEXT: Eevee Exploradores: Barcelona (1/8)
+TEXT: Eevee Exploradores: Barcelona (1/1)
 
 RESOURCE ID: eevee_explorers_mexico_city_title
 TEXT: Eevee Exploradores: Cidade do México
 
 RESOURCE ID: eevee_explorers_mexico_city_title_00
-TEXT: Eevee Exploradores: Cidade do México (1/8)
+TEXT: Eevee Exploradores: Cidade do México (1/1)
 
 RESOURCE ID: eevee_explorers_seoul_title
 TEXT: Eevee Exploradores: Seul
 
 RESOURCE ID: eevee_explorers_seoul_title_00
-TEXT: Eevee Exploradores: Seul (1/8)
+TEXT: Eevee Exploradores: Seul (1/1)
 
 RESOURCE ID: egg_anticipation
 TEXT: O que há aí dentro?!
@@ -16851,6 +16935,9 @@ TEXT: Esta máquina técnica permite que você escolha um ataque ágil para ensi
 
 RESOURCE ID: elitefasttm.1_title
 TEXT: MT elite de ataque ágil
+
+RESOURCE ID: empty_events_message
+TEXT: Confira a seção de novidades do jogo para ver os próximos eventos!
 
 RESOURCE ID: empty_tags_subtitle
 TEXT: Crie tags tocando em +
@@ -17018,7 +17105,7 @@ RESOURCE ID: enter_friend_code_prompt
 TEXT: Para adicionar alguém à sua lista de amigos, insira o código de Treinador.
 
 RESOURCE ID: enter_friend_code_prompt_v2
-TEXT: Send a Friend Request by entering or scanning your friend’s Trainer Code.
+TEXT: Envie um pedido de amizade inserindo ou escaneando o código de Treinador da outra pessoa.
 
 RESOURCE ID: enter_tag_name_placeholder
 TEXT: Adicione o nome da tag
@@ -17057,7 +17144,7 @@ RESOURCE ID: err_go_settings
 TEXT: Configurações
 
 RESOURCE ID: err_gps_off
-TEXT: Seu GPS está desativado. <i>Pokémon GO</i> requer que seu GPS esteja ativado.
+TEXT: Seu GPS está desativado. O Pokémon GO requer que seu GPS esteja ativado.
 
 RESOURCE ID: err_gps_silent
 TEXT: Sinal do GPS não encontrado.
@@ -17138,7 +17225,7 @@ RESOURCE ID: err_update
 TEXT: Atualizar
 
 RESOURCE ID: err_update_now
-TEXT: Uma nova versão de <i>Pokémon GO</i> está disponível. Quer atualizar sua versão agora?
+TEXT: Uma nova versão de Pokémon GO está disponível. Quer atualizar sua versão agora?
 
 RESOURCE ID: error_already_sent_gift_today
 TEXT: Já enviou um presente para este Treinador hoje.
@@ -18305,7 +18392,7 @@ RESOURCE ID: ex_raid_pass_invite_prompt
 TEXT: Selecione um amigo para convidar para o Reide EX.
 
 RESOURCE ID: exclusive_incense_pokemon
-TEXT: Incense may attract Pokémon you wouldn’t see otherwise
+TEXT: Incensos podem atrair Pokémon que não costumam aparecer
 
 RESOURCE ID: exclusive_raid_log_cancelled
 TEXT: O Reide EX programado para {0}, às {1} em {2} foi cancelado.
@@ -18532,6 +18619,10 @@ RESOURCE ID: f_avatar_poses_bundle_pose_53
 TEXT: Pose Mapa do
 Tesouro
 
+RESOURCE ID: f_avatar_poses_bundle_pose_54
+TEXT: Pose de
+Detetive Pikachu
+
 RESOURCE ID: f_avatar_poses_bundle_pose_55
 TEXT: Pose estilo da Guita
 
@@ -18578,7 +18669,7 @@ RESOURCE ID: f_shirt_lvl50_1
 TEXT: Jaqueta do nível 50
 
 RESOURCE ID: f_shirt_tshirt_fest_chicago_2017_bundle_icon
-TEXT: Camiseta do Festival de <i>Pokémon GO</i>
+TEXT: Camiseta do Festival de Pokémon GO
 
 RESOURCE ID: f_shoes_battlegirl_bundle_icon
 TEXT: Tênis de lutadora
@@ -18673,6 +18764,9 @@ TEXT: Blitzle e Dedenne estão aparecendo com mais frequência
 RESOURCE ID: field_research
 TEXT: Pesquisa de campo de evento
 
+RESOURCE ID: field_research_event_start_refresh_bonus
+TEXT: Poképaradas giradas podem conceder uma segunda tarefa de pesquisa de campo após o início do evento
+
 RESOURCE ID: field_research_special
 TEXT: Pesquisas de campo exclusivas agora estão disponíveis em determinadas Poképaradas e Ginásios
 
@@ -18680,7 +18774,7 @@ RESOURCE ID: field_research_special_abbrev
 TEXT: Pesquisas de campo exclusivas já disponíveis
 
 RESOURCE ID: field_test_lockout
-TEXT: Agradecemos por realizar testes de campo do <i>Pokémon GO</i>!
+TEXT: Agradecemos por realizar testes de campo do Pokémon GO!
 Voltaremos em breve!
 
 RESOURCE ID: fighting_cup_great_remix_title
@@ -18978,6 +19072,15 @@ TEXT: Mova-se no mundo real para mover seu avatar.
 RESOURCE ID: first_time_walk_title
 TEXT: É hora de caminhar!
 
+RESOURCE ID: firstcatch_experience_50p
+TEXT: 1,5× PE pela sua primeira pegada do dia
+
+RESOURCE ID: firstcatch_experince_double
+TEXT: 2× XP awarded for your first catch each day
+
+RESOURCE ID: firstcatch_stardust_50p
+TEXT: 1,5× Poeira Estelar pela sua primeira pegada do dia
+
 RESOURCE ID: firstcatch_stardust_double
 TEXT: Dobro de Poeira Estelar na sua primeira captura do dia
 
@@ -19076,6 +19179,9 @@ TEXT: Invasão de tipo: Voador
 
 RESOURCE ID: foc22_collection_challenge
 TEXT: Festival das Cores
+
+RESOURCE ID: followed_routes_title
+TEXT: FOLLOWED ROUTES
 
 RESOURCE ID: form_aegislash_blade
 TEXT: Forma Lâmina
@@ -20437,6 +20543,17 @@ Você deve jogar durante o tempo especificado para receber todos os bônus espec
 RESOURCE ID: general1.ticket.2_goldtr2023_title
 TEXT: Pesquisa temporária Em busca de ouro
 
+RESOURCE ID: general1.ticket.2_growlitheroute2023_description
+TEXT: Um ingresso para acessar a pesquisa temporária de Caudas da aventura até 2 de outubro de 2023, às 20h do seu horário local, de onde você estiver. 
+ 
+As recompensas da pesquisa incluem: 
+- 6 encontros com Growlithe de Hisui 
+- 5 encontros com Growlithe 
+- 2 Incubadoras 
+- 1 Superincubadora 
+ 
+<b>Observe que a pesquisa temporária expira.</b> As tarefas associadas a esta pesquisa temporária devem ser completadas e suas recompensas devem ser resgatadas antes de segunda-feira, 2 de outubro de 2023, às 20h do seu horário local.
+
 RESOURCE ID: general1.ticket.2_halloween_description
 TEXT: Um ingresso para acessar a pesquisa temporária de Yamask de 20 de outubro de 2022, às 10h, a 1º de novembro de 2022, às 10h, no horário local, de onde você estiver. Esta pesquisa temporária garante encontros com Yamask. Mais detalhes podem ser encontrados na seção de novidades do jogo.
 
@@ -20570,6 +20687,20 @@ VOCÊ DEVE JOGAR DURANTE O HORÁRIO ESPECIFICADO PARA RECEBER TODOS OS BÔNUS ES
 RESOURCE ID: general1.ticket.2_mudkt_title
 TEXT: Ingresso para Clássicos do Dia Comunitário: Mudkip
 
+RESOURCE ID: general1.ticket.2_octobercd2023_description
+TEXT: Um ingresso para acessar a pesquisa especial do Dia Comunitário de Timburr no dia 15 de outubro de 2023, das 14h às 17h do seu horário local, de onde você estiver. 
+ 
+As recompensas da pesquisa incluem: 
+- Itens premium de jogo, como Doces Raros, Ultra Bolas e mais 
+- Encontros extra com Timburr e suas Evoluções 
+
+Mais detalhes podem ser encontrados na seção de novidades do jogo.
+
+Você deve jogar durante o horário especificado para receber todos os bônus especiais de evento.</b>
+
+RESOURCE ID: general1.ticket.2_octobercd2023_title
+TEXT: Memória muscular
+
 RESOURCE ID: general1.ticket.2_oshat_description
 TEXT: Um ingresso para acessar a pesquisa especial "De scalchops a espadaquas", em 19 de setembro de 2021, das 11h às 17h, horário local, de onde você estiver. Mais detalhes podem ser encontrados na seção de novidades do jogo.
 
@@ -20620,18 +20751,18 @@ RESOURCE ID: general1.ticket.2_septcdc2023_title
 TEXT: Ingresso para Clássicos do Dia Comunitário: Charmander
 
 RESOURCE ID: general1.ticket.2_septembercd2023_description
-TEXT: A ticket to access the Community Day: Grubbin Special Research on September 23, 2023, from 2:00 p.m. to 5:00 p.m. local time, wherever you are. 
- 
-Research rewards include: 
-- Premium in-game items, such as Rare Candies, Ultra Balls, and more 
-- Extra encounters with Grubbin and its Evolutions 
- 
-Details can be found in the in-game News. 
- 
-<b>You must play during the specified time to receive all the special event bonuses.</b>
+TEXT: Um ingresso para acessar a pesquisa especial do Dia Comunitário de Grubbin no dia 23 de setembro de 2023, das 14h às 17h do seu horário local, de onde você estiver.
+
+As recompensas da pesquisa incluem:
+- Itens premium de jogo, como Doces Raros, Ultra Bolas e mais 
+- Encontros extra com Grubbin e suas Evoluções 
+
+Mais detalhes podem ser encontrados na seção de novidades do jogo.
+
+<b>Você deve jogar durante o horário especificado para receber todos os bônus especiais de evento.</b>
 
 RESOURCE ID: general1.ticket.2_septembercd2023_title
-TEXT: Grubbin Community Day Ticket
+TEXT: Ligado na tomada
 
 RESOURCE ID: general1.ticket.2_shint_description
 TEXT: Um ingresso para acessar a pesquisa especial "Lampejante, Fagulhante e Fulgurante", em 21 de novembro de 2021, das 11h às 17h, horário local, de onde você estiver. Mais detalhes podem ser encontrados na seção de novidades do jogo.
@@ -20697,6 +20828,29 @@ VOCÊ DEVE JOGAR DURANTE O HORÁRIO ESPECIFICADO PARA RECEBER O BÔNUS.
 RESOURCE ID: general1.ticket.2_tepit_title
 TEXT: Ingresso: Frutas torradas
 
+RESOURCE ID: general1.ticket.2_ticketoftreats2023_description
+TEXT: Um ingresso para acessar uma nova pesquisa temporária todas as quintas-feiras de outubro. Você pode completar as tarefas de pesquisa temporária e resgatar as recompensas até 31 de outubro de 2023, às 23h59 do seu horário local. No total, essa pesquisa temporária concederá as seguintes recompensas: 
+ 
+- Três Passes de Batalha Premium 
+- Um Módulo Musgoso
+- Encontros com Misdreavus, Phantump e Pumpkaboo
+- Duas Incubadoras 
+- Três Frutas Caxí prateadas 
+- Duas Superincubadoras 
+- Dois Doces Raros 
+...e muito mais!
+ 
+Os seguintes bônus também estarão disponíveis a partir da data de compra até terça-feira, 31 de outubro de 2023, às 23h59 do seu horário local: 
+ - 1,5x a mais de PE pela sua primeira pegada do dia 
+ - 1,5× Poeira Estelar pela sua primeira pegada do dia 
+ 
+Mais detalhes podem ser encontrados na seção de novidades do jogo. 
+ 
+<b>Você deve jogar durante o horário especificado para receber todos os bônus especiais de evento.</b>
+
+RESOURCE ID: general1.ticket.2_ticketoftreats2023_title
+TEXT: Ingresso de gostosuras
+
 RESOURCE ID: general1.ticket.2_title
 TEXT: Ingresso: De scalchops a espadaquas
 
@@ -20749,6 +20903,9 @@ VOCÊ DEVE JOGAR DURANTE O HORÁRIO ESPECIFICADO PARA RECEBER TODOS OS BÔNUS ES
 RESOURCE ID: general1.ticket.5_title
 TEXT: Ingresso: Festival de Pokémon GO 2021
 
+RESOURCE ID: general1.ticket._growlitheroute2023_title
+TEXT: Ingresso de Caudas da aventura
+
 RESOURCE ID: general1.ticket.anniversary_bundle_description
 TEXT: Um ingresso para a pesquisa temporária Festa de 7º Aniversário, que inclui as seguintes recompensas. 
  
@@ -20798,6 +20955,21 @@ Esta pesquisa temporária estará disponível na loja do jogo até domingo, 2 de
 
 RESOURCE ID: general1.ticket.gbweekend_bundle_title
 TEXT: Pesquisa temporária do Dia de Batalhas GO: Poeira Estelar
+
+RESOURCE ID: general1.ticket.gbweekendoct_bundle_title
+TEXT: Pesquisa temporária do Dia de Batalhas GO: Poeira Estelar
+
+RESOURCE ID: general1.ticket.gbweekenoct_bundle_description
+TEXT: Um ingresso para acessar a pesquisa temporária do Dia de Batalhas GO: Poeira Estelar. As tarefas incluem batalhar na Liga de Batalha GO 50 vezes e outras tarefas relacionadas à batalha. As recompensas da pesquisa incluirão o seguinte:
+
+- 30.000 Poeira Estelar
+- 1 Pedaço de Estrela
+- 3 Doces Raros
+- 3 Doces Raros GG para Treinadores de nível 31 ou superior
+
+Esta pesquisa temporária estará disponível na loja do jogo até domingo, 8 de outubro de 2023, às 23h59 do seu horário local.
+
+<b>Pesquisas temporárias expiram.</b> Para receber as recompensas associadas a esta pesquisa temporária, as tarefas deverão ser completadas e as recompensas deverão ser resgatadas até domingo, 8 de outubro de 2023, às 23h59 do seu horário local.
 
 RESOURCE ID: general1.ticket.gofest2023_alldetails
 TEXT: Um ingresso para acessar a pesquisa especial durante o Festival de Pokémon GO 2023: Global em 26 e 27 de agosto de 2023, de onde você estiver. Essa pesquisa especial leva a um encontro exclusivo com o Pokémon Mítico Diancie! Os bônus e recompensas também incluem: 
@@ -21069,6 +21241,12 @@ TEXT: Ir para a loja
 RESOURCE ID: general_hp
 TEXT: PS
 
+RESOURCE ID: general_image_saved
+TEXT: Imagem salva.
+
+RESOURCE ID: general_image_unable_to_save
+TEXT: Não foi possível salvar a imagem.
+
 RESOURCE ID: general_include
 TEXT: INCLUIR
 
@@ -21136,7 +21314,7 @@ RESOURCE ID: general_pokemon
 TEXT: Pokémon
 
 RESOURCE ID: general_pokemon_inventory_full
-TEXT: Sua coleção está completa.
+TEXT: A sua coleção está cheia.
 
 RESOURCE ID: general_quit
 TEXT: Sair
@@ -26755,6 +26933,9 @@ TEXT: Travessura de Dia das Bruxas - Parte 2
 RESOURCE ID: halloween_ultra_cup_title
 TEXT: Copa de Dias das Bruxas: edição da Ultra-liga
 
+RESOURCE ID: harvest_festival_event_name
+TEXT: Festival da Colheita
+
 RESOURCE ID: hatch_box
 TEXT: Combo de Incubadoras
 
@@ -26764,8 +26945,14 @@ TEXT: 1,5× doces por chocar Ovos
 RESOURCE ID: hatch_candy_double
 TEXT: 2× doces por chocar Ovos
 
+RESOURCE ID: hatch_day_2k_azurill
+TEXT: Azurill pode chocar de Ovos de 2 km
+
 RESOURCE ID: hatch_day_2k_riolu
 TEXT: Riolu pode chocar de Ovos de 2 km
+
+RESOURCE ID: hatch_day_azurill_timed_research
+TEXT: Pesquisa temporária Dia de chocar Azurill
 
 RESOURCE ID: hatch_day_riolu_limited_research
 TEXT: Pesquisa temporária Dia de chocar Riolu
@@ -26793,6 +26980,12 @@ TEXT: https://niantic.helpshift.com/a/pokemon-go/?p=all&s=top-articles&f=sharing
 
 RESOURCE ID: helpshift_sharing_game_logs
 TEXT: https://niantic.helpshift.com/hc/pt-br/6-pokemon-go/faq/3325-sharing-game-logs
+
+RESOURCE ID: hf_oct23_pumpkaboo_collection_challenge
+TEXT: Desafio de coleção do Festival da Colheita: Pumpkaboo
+
+RESOURCE ID: hf_oct23_smoliv_collection_challenge
+TEXT: Desafio de coleção do Festival da Colheita: Smoliv
 
 RESOURCE ID: hindi
 TEXT: Hindi
@@ -27110,7 +27303,7 @@ RESOURCE ID: incident_encounter_already_complete_error
 TEXT: Batalha já concluída.
 
 RESOURCE ID: incident_encounter_inventory_full
-TEXT: Sua coleção está completa.
+TEXT: A sua coleção está cheia.
 
 RESOURCE ID: incident_not_found_error
 TEXT: Batalha não encontrada.
@@ -27136,6 +27329,9 @@ TEXT: Maior número de recompensas da Sincroaventura na semana que vem
 RESOURCE ID: increased_chance_buddy_xl_bonus
 TEXT: Maior chance de receber Doces GG se aventurando com seu Pokémon companheiro
 
+RESOURCE ID: increased_kecleon_pokestops_bonus
+TEXT: Kecleon aparecerá em Poképaradas com mais frequência
+
 RESOURCE ID: increased_shiny_2k_5k_10k_eggs
 TEXT: Mais chances de chocar um Pokémon Brilhante de Ovos de 2 km, 5 km e 10 km
 
@@ -27147,6 +27343,9 @@ TEXT: Aumento de doces e doces GG ao transferir Pokémon
 
 RESOURCE ID: increased_xp_pokestop_streak_bonus
 TEXT: Aumento de PE nas recompensas de sete dias consecutivos de giros de Poképaradas.
+
+RESOURCE ID: increased_xp_route_completion_bonus
+TEXT: Aumento de PE ao completar Rotas
 
 RESOURCE ID: increased_xp_stardust_pokemon_streak_bonus
 TEXT: Aumento de PE e Poeira Estelar nas recompensas de sete dias consecutivos de captura de Pokémon.
@@ -27180,6 +27379,12 @@ TEXT: Uma Incubadora mais potente que ajuda a chocar ovos rapidamente. Pode ser 
 
 RESOURCE ID: incubatorsuper.1_title
 TEXT: Superincubadora
+
+RESOURCE ID: india_live_op_desc
+TEXT: Bônus de evento: Aao Khele Pokémon GO
+
+RESOURCE ID: india_live_op_title
+TEXT: Aao Khele Pokémon GO
 
 RESOURCE ID: indonesia_live_op_title
 TEXT: Waktu Indonesia Nangkep
@@ -27505,19 +27710,19 @@ TEXT: Escama que faz com que certas espécies de Pokémon evoluam. É robusta e 
 RESOURCE ID: item_dragon_scale_name
 TEXT: Escama de Dragão
 
-RESOURCE ID: item_event_ticket_blue_desc_pawmibackpack
-TEXT: Um ingresso para acessar a pesquisa temporária, de domingo 10 de setembro de 2023, às 10h, até sexta-feira, 15 de setembro de 2023, às 20h do seu horário local, de onde você estiver.
-
-RESOURCE ID: item_event_ticket_blue_details_pawmibackpack
-TEXT: Este ingresso será ativado automaticamente para lhe garantir acesso à pesquisa temporária, Conte Comigo, de onde você estiver.
-
 RESOURCE ID: item_event_ticket_gray_desc
+TEXT: Um ingresso para acessar uma nova pesquisa temporária todas as quintas-feiras de outubro, de onde você estiver.
+
+RESOURCE ID: item_event_ticket_gray_desc_gofest2023
 TEXT: Um ingresso para participar do Festival de Pokémon GO 2023: Global, de onde você estiver.
 
 RESOURCE ID: item_event_ticket_gray_desc_jirachi
 TEXT: Pesquisa magistral: Desejos Concedidos
 
 RESOURCE ID: item_event_ticket_gray_details
+TEXT: Este ingresso será ativado automaticamente para lhe garantir acesso a uma coleção de pesquisas temporárias até 31 de outubro de 2023, às 23h59 do seu horário local, de onde você estiver.
+
+RESOURCE ID: item_event_ticket_gray_details_gofest2023
 TEXT: Este ingresso será ativado automaticamente para lhe garantir acesso ao Festival de Pokémon GO 2023: Global nos dias 26 e 27 de agosto de 2023, de onde você estiver.
 
 RESOURCE ID: item_event_ticket_gray_details_jirachi
@@ -27545,7 +27750,7 @@ RESOURCE ID: item_event_ticket_pink_bulbt_details
 TEXT: Este ingresso será ativado automaticamente para lhe garantir acesso a uma pesquisa especial no dia 22 de janeiro de 2022, de onde você estiver.
 
 RESOURCE ID: item_event_ticket_pink_desc
-TEXT: Um ingresso para participar pesquisa especial do evento Clássicos do Dia Comunitário: Charmander, de onde você estiver.
+TEXT: Um ingresso para acessar a pesquisa temporária do Dia de Batalhas GO: Poeira Estelar, de onde você estiver.
 
 RESOURCE ID: item_event_ticket_pink_desc_alodude
 TEXT: Um ingresso para acessar uma pesquisa especial em 21 de maio de 2022, das 11h às 14h, horário local, de onde você estiver.
@@ -27555,6 +27760,9 @@ TEXT: Um ingresso para acessar a pesquisa especial do Dia Comunitário de Axew, 
 
 RESOURCE ID: item_event_ticket_pink_desc_back
 TEXT: Um ingresso para acessar a pesquisa especial no dia 5 de novembro de 2022, das 14h às 17h do seu horário local, de onde você estiver.
+
+RESOURCE ID: item_event_ticket_pink_desc_charmander
+TEXT: Um ingresso para participar pesquisa especial do evento Clássicos do Dia Comunitário: Charmander, de onde você estiver.
 
 RESOURCE ID: item_event_ticket_pink_desc_dcdc
 TEXT: Um ingresso para acessar a pesquisa especial no dia 5 de novembro de 2022, das 14h às 17h do seu horário local, de onde você estiver.
@@ -27572,7 +27780,7 @@ RESOURCE ID: item_event_ticket_pink_desc_gold
 TEXT: Um ingresso para acessar a pesquisa temporária Em busca de ouro no dia 3 de junho de 2023, das 14h às 17h do seu horário local, de onde você estiver.
 
 RESOURCE ID: item_event_ticket_pink_desc_grubbin
-TEXT: A ticket to access Special Research on September 23, 2023, from 2:00 p.m. to 5:00 p.m. local time, wherever you are.
+TEXT: Um ingresso para acessar a pesquisa especial do Dia Comunitário de Grubbin no dia 23 de setembro de 2023, das 14h às 17h do seu horário local, de onde você estiver.
 
 RESOURCE ID: item_event_ticket_pink_desc_mrmime
 TEXT: Um ingresso para acessar a pesquisa especial entre os dias 19 de dezembro de 2020, às 10h, e 20 de dezembro de 2020, às 20h, horário local, de onde você estiver.
@@ -27586,17 +27794,23 @@ TEXT: Um ingresso para participar pesquisa especial do evento Clássicos do Dia 
 RESOURCE ID: item_event_ticket_pink_desc_swinub
 TEXT: Um ingresso para participar do evento Clássicos do Dia Comunitário: Swinub, de onde você estiver.
 
+RESOURCE ID: item_event_ticket_pink_desc_timburr
+TEXT: Um ingresso para acessar a pesquisa especial do Dia Comunitário de Timburr no dia 15 de outubro de 2023, das 14h às 17h do seu horário local, de onde você estiver.
+
 RESOURCE ID: item_event_ticket_pink_desc_togetic
 TEXT: Um ingresso para acessar a pesquisa especial no dia 15 de abril de 2023, das 14h às 17h do seu horário local, de onde você estiver.
 
 RESOURCE ID: item_event_ticket_pink_details
-TEXT: Esse ingresso será ativado automaticamente para lhe garantir acesso à pesquisa especial do evento Clássicos do Dia Comunitário: Charmander no dia 2 de setembro de 2023, das 14h às 17h do seu horário local, de onde você estiver.
+TEXT: Esse ingresso será ativado automaticamente para lhe garantir acesso à pesquisa temporária do Dia de Batalhas GO: Poeira Estelar até 8 de outubro de 2023, às 23h59 do seu horário local.
 
 RESOURCE ID: item_event_ticket_pink_details_axew
 TEXT: Esse ingresso será ativado automaticamente para lhe garantir acesso à pesquisa especial do Dia Comunitário de Axew no sábado, 10 de junho de 2023, das 14h às 17h do seu horário local, de onde você estiver.
 
 RESOURCE ID: item_event_ticket_pink_details_back
 TEXT: Este ingresso será ativado automaticamente para lhe garantir acesso a uma pesquisa especial 5 de novembro de 2022, de onde você estiver.
+
+RESOURCE ID: item_event_ticket_pink_details_charmander
+TEXT: Esse ingresso será ativado automaticamente para lhe garantir acesso à pesquisa especial do evento Clássicos do Dia Comunitário: Charmander no dia 2 de setembro de 2023, das 14h às 17h do seu horário local, de onde você estiver.
 
 RESOURCE ID: item_event_ticket_pink_details_dcdc
 TEXT: Este ingresso será ativado automaticamente para lhe garantir acesso a uma pesquisa especial 5 de novembro de 2022, de onde você estiver.
@@ -27614,7 +27828,7 @@ RESOURCE ID: item_event_ticket_pink_details_gold
 TEXT: Este ingresso será ativado automaticamente para lhe garantir acesso à pesquisa temporária Em busca de ouro no dia 3 de junho de 2023, das 14h às 17h, do seu horário local, de onde você estiver.
 
 RESOURCE ID: item_event_ticket_pink_details_grubbin
-TEXT: This ticket will automatically activate to give you access to the Grubbin Community Day Special Research, wherever you are.
+TEXT: Esse ingresso será ativado automaticamente para lhe garantir acesso à pesquisa especial Ligado na tomada no dia 23 de setembro de 2023, de onde você estiver.
 
 RESOURCE ID: item_event_ticket_pink_details_mrmime
 TEXT: Este ingresso será ativado automaticamente para lhe garantir acesso ao evento de Mr. Mime de Galar entre os dias 19 de dezembro de 2020, às 10h, a 20 de dezembro de 2020, às 20h, horário local, de onde você estiver.
@@ -27627,6 +27841,9 @@ TEXT: Esse ingresso será ativado automaticamente para lhe garantir acesso à pe
 
 RESOURCE ID: item_event_ticket_pink_details_swinub
 TEXT: Este ingresso será ativado automaticamente para lhe garantir acesso à pesquisa especial do evento Clássicos do Dia Comunitário: Swinub no dia 29 de abril de 2023, das 14h às 17h, horário local, de onde você estiver.
+
+RESOURCE ID: item_event_ticket_pink_details_timburr
+TEXT: Este ingresso será ativado automaticamente para lhe garantir acesso à pesquisa especial do Dia Comunitário de Timburr, de onde você estiver.
 
 RESOURCE ID: item_event_ticket_pink_details_togetic
 TEXT: Este ingresso será ativado automaticamente para lhe garantir acesso a uma pesquisa especial no dia 15 de abril de 2023, de onde você estiver.
@@ -27716,16 +27933,22 @@ RESOURCE ID: item_event_ticket_to_gift_desc
 TEXT: Um ingresso de evento extra recebido após um erro ocorrido ao efetuar a compra. Você pode enviá-lo a um amigo ou pedir o reembolso.
 
 RESOURCE ID: item_evergreen_ticket_desc
-TEXT: Um ingresso para acessar a pesquisa temporária da Semana de aventuras, de 27 de julho de 2023, às 10h, até 2 de agosto de 2023, às 20h do seu horário local, de onde você estiver.
+TEXT: Um ingresso para acessar a pesquisa temporária de Caudas da aventura, de onde você estiver.
 
 RESOURCE ID: item_evergreen_ticket_desc_7th_anniversary_tr
 TEXT: Este ingresso será ativado automaticamente para lhe garantir acesso à pesquisa temporária Festa de 7º aniversário até quarta-feira, 12 de julho de 2023, às 20h do seu horário local, de onde você estiver.
 
+RESOURCE ID: item_evergreen_ticket_desc_adventureweek2023
+TEXT: Um ingresso para acessar a pesquisa temporária da Semana de aventuras, de 27 de julho de 2023, às 10h, até 2 de agosto de 2023, às 20h do seu horário local, de onde você estiver.
+
 RESOURCE ID: item_evergreen_ticket_details
-TEXT: Este ingresso será ativado automaticamente para lhe garantir acesso à pesquisa temporária da Semana de aventuras, de 27 de julho de 2023, às 10h, até 2 de agosto de 2023, às 20h do seu horário local, de onde você estiver.
+TEXT: Este ingresso será ativado automaticamente para lhe garantir acesso à pesquisa temporária de Caudas da aventura até segunda-feira, 2 de outubro de 2023, às 20h do seu horário local, de onde você estiver.
 
 RESOURCE ID: item_evergreen_ticket_details_7th_anniversary_tr
 TEXT: Este ingresso será ativado automaticamente para lhe garantir acesso à pesquisa temporária Festa de 7º aniversário até quarta-feira, 12 de julho de 2023, às 20h do seu horário local. 
+
+RESOURCE ID: item_evergreen_ticket_details_adventureweek2023
+TEXT: Este ingresso será ativado automaticamente para lhe garantir acesso à pesquisa temporária da Semana de aventuras, de 27 de julho de 2023, às 10h, até 2 de agosto de 2023, às 20h do seu horário local, de onde você estiver.
 
 RESOURCE ID: item_evergreen_ticket_name
 TEXT: Ingresso
@@ -27761,7 +27984,7 @@ RESOURCE ID: item_giovanni_map_name
 TEXT: Super-radar Rocket
 
 RESOURCE ID: item_global_event_ticket_desc
-TEXT: Um ingresso para acessar a pesquisa especial Todos por um 151, de onde você estiver.
+TEXT: Um ingresso para acessar a pesquisa temporária, de domingo 10 de setembro de 2023, às 10h, até sexta-feira, 15 de setembro de 2023, às 20h do seu horário local, de onde você estiver.
 
 RESOURCE ID: item_global_event_ticket_desc_beachweek
 TEXT: Um ingresso para acessar a pesquisa temporária do Festival Aquático: Semana na Praia.
@@ -27773,7 +27996,7 @@ RESOURCE ID: item_global_event_ticket_desc_willow
 TEXT: Um ingresso para acessar a pesquisa temporária “Guarda-roupa do Willow” de 1º de março a 30 de junho de 2023, de onde você estiver.
 
 RESOURCE ID: item_global_event_ticket_details
-TEXT: Este ingresso será ativado automaticamente para lhe garantir acesso à pesquisa magistral Todos por um 151 na quinta-feira, 6 de julho de 2023, às 10h, de onde você estiver.
+TEXT: Este ingresso será ativado automaticamente para lhe garantir acesso à pesquisa temporária, Conte Comigo, de onde você estiver.
 
 RESOURCE ID: item_global_event_ticket_details_beachweek
 TEXT: Este ingresso será ativado automaticamente para lhe garantir acesso à pesquisa temporária do Festival Aquático: Semana na Praia de terça-feira, 6 de junho de 2023, às 10h, até segunda-feira, 12 de junho de 2023, às 20h do seu horário local, de onde você estiver.
@@ -27785,6 +28008,9 @@ Você deve escolher uma versão do evento para participar dos desafios Invasão 
 
 RESOURCE ID: item_global_event_ticket_details_no_version_selected_abridged
 TEXT: Este ingresso será ativado automaticamente para lhe garantir acesso aos bônus especiais do Pokémon GO Tour: Hoenn!
+
+RESOURCE ID: item_global_event_ticket_details_shinymew
+TEXT: Este ingresso será ativado automaticamente para lhe garantir acesso à pesquisa magistral Todos por um 151 na quinta-feira, 6 de julho de 2023, às 10h, de onde você estiver.
 
 RESOURCE ID: item_global_event_ticket_details_solstice
 TEXT: Esse ingresso será ativado automaticamente para lhe garantir acesso à pesquisa especial Céu estrelado de sexta-feira, 16 de junho de 2023, às 10h, até domingo, 25 de junho de 2023, às 20h do seu horário local, de onde você estiver.
@@ -28135,19 +28361,19 @@ RESOURCE ID: item_team_change_name
 TEXT: Medalhão de Equipe
 
 RESOURCE ID: item_ticket_city_safari_00_desc
-TEXT: Um ingresso para acessar a pesquisa especial do Safári urbano: Seul - A jornada continua.
+TEXT: Um ingresso para acessar a pesquisa especial do Safári urbano de Seul: A jornada continua.
 
 RESOURCE ID: item_ticket_city_safari_00_name
 TEXT: Ingresso para o Safári: Seul
 
 RESOURCE ID: item_ticket_city_safari_01_desc
-TEXT: Um ingresso para acessar a pesquisa especial do Safári urbano: Barcelona - A jornada continua.
+TEXT: Um ingresso para acessar a pesquisa especial do Safári urbano de Barcelona: A jornada continua.
 
 RESOURCE ID: item_ticket_city_safari_01_name
 TEXT: Ingresso para o Safári: Barcelona
 
 RESOURCE ID: item_ticket_city_safari_02_desc
-TEXT: Um ingresso para acessar a pesquisa especial do Safári urbano: Cidade do México - A jornada continua.
+TEXT: Um ingresso para acessar a pesquisa especial do Safári urbano da Cidade do México: A jornada continua.
 
 RESOURCE ID: item_ticket_city_safari_02_name
 TEXT: Ingresso para o Safári: Cidade do México
@@ -31192,6 +31418,10 @@ RESOURCE ID: m_avatar_poses_bundle_pose_53
 TEXT: Pose Mapa do
 Tesouro
 
+RESOURCE ID: m_avatar_poses_bundle_pose_54
+TEXT: Pose de
+Detetive Pikachu
+
 RESOURCE ID: m_avatar_poses_bundle_pose_55
 TEXT: Pose estilo da Guita
 
@@ -31248,7 +31478,7 @@ RESOURCE ID: m_shirt_lvl50_1
 TEXT: Jaqueta do nível 50
 
 RESOURCE ID: m_shirt_tshirt_fest_chicago_2017_bundle_icon
-TEXT: Camiseta do Festival de <i>Pokémon GO</i>
+TEXT: Camiseta do Festival de Pokémon GO
 
 RESOURCE ID: m_shoes_coolboots_0
 TEXT: Botas do nível 49
@@ -31347,7 +31577,7 @@ RESOURCE ID: master_premier_classic_title
 TEXT: Premier LM Clássica
 
 RESOURCE ID: master_premier_cup_title
-TEXT: Master Premier
+TEXT: Mestra Premier
 
 RESOURCE ID: master_raid_box_title
 TEXT: Combo Mestre de Reide
@@ -32061,9 +32291,9 @@ RESOURCE ID: mega_walking_progress
 TEXT: Progresso de caminhada
 
 RESOURCE ID: metadata_local
-TEXT: Built at 2023-10-09T20:21:45.748080
-at SHA 4cfe80a4adbc1f8b5f1a0a1c1119104a28c4ab22
-Pipeline 1814685, job 21993717
+TEXT: Built at 2023-10-17T20:57:13.936757
+at SHA e295afa3e17f1349b4a1bb2e22a722ecf66ae436
+Pipeline 1838232, job 22276469
 
 RESOURCE ID: mex_fighting_promo_title
 TEXT: Pesquisa temporária: Escolha o seu tipo de lutador
@@ -33648,6 +33878,12 @@ TEXT: O Pokémon fugiu!
 RESOURCE ID: nearby_pokemon_view_button
 TEXT: Visualizar
 
+RESOURCE ID: nearby_raid_invite_distance_kilometers
+TEXT: A {0:0.0} km
+
+RESOURCE ID: nearby_raid_invite_distance_meters
+TEXT: A {0:0} m
+
 RESOURCE ID: nearby_raid_local_only
 TEXT: SÓ PRESENCIAL
 
@@ -33834,6 +34070,12 @@ TEXT: Estrelas em Evolução: desafio de Unova
 RESOURCE ID: oct22_evo_collection_challenge_4
 TEXT: Estrelas em Evolução: desafio de Sinnoh
 
+RESOURCE ID: oct23_cornet_collection_title
+TEXT: Desafio de coleção Detective Pikachu Returns
+
+RESOURCE ID: oddish_rd_event_title
+TEXT: Dia de pesquisar Oddish
+
 RESOURCE ID: old_friends_description
 TEXT: Pesquisa temporária “Velhos amigos, novos começos”
 
@@ -33916,13 +34158,13 @@ RESOURCE ID: onboard_select_your_avatar
 TEXT: Escolha seu estilo.
 
 RESOURCE ID: onboard_short_tos
-TEXT: <i>Pokémon GO</i> é um jogo baseado na sua localização, que é coletada por este aplicativo e que pode estar visível a outros usuários quando você realiza certas ações no jogo.
+TEXT: Pokémon GO é um jogo baseado na sua localização, que é coletada por este aplicativo e que pode estar visível a outros usuários quando você realiza certas ações no jogo.
 
 RESOURCE ID: onboard_terms_of_service
 TEXT: Termos de serviço
 
 RESOURCE ID: onboard_tos_title
-TEXT: Termos de serviço do <i>Pokémon GO</i>
+TEXT: Termos de serviço do Pokémon GO
 
 RESOURCE ID: onboard_welcome_screen|1
 TEXT: Olá!
@@ -33953,7 +34195,7 @@ RESOURCE ID: onboard_welcome_screen|9
 TEXT: Escolha um estilo para a sua aventura.
 
 RESOURCE ID: one_route_nearby_label
-TEXT: 1 route
+TEXT: 1 Rota
 
 RESOURCE ID: oneyearanniversary.1_title
 TEXT: Caixa de Aniversário
@@ -33969,6 +34211,12 @@ TEXT: Abrir presentes quando a Bolsa está cheia
 
 RESOURCE ID: open_gifts_on_bag_full_tip
 TEXT: Permite que você abra presentes quando sua Bolsa está cheia. Você ainda receberá Poeira Estelar, mas não receberá outros itens.
+
+RESOURCE ID: open_in_map_route_pause_location
+TEXT: Rota pausada aqui
+
+RESOURCE ID: open_in_map_route_pause_location_backup
+TEXT: Rota pausada aqui
 
 RESOURCE ID: open_settings
 TEXT: Abrir Configurações
@@ -33993,6 +34241,12 @@ TEXT: Abrir RA
 
 RESOURCE ID: other_section_title
 TEXT: Outro
+
+RESOURCE ID: out_to_play_23_free_header_0
+TEXT: Sair para jogar: pesquisa temporária
+
+RESOURCE ID: out_to_play_event_name
+TEXT: Sair para jogar
 
 RESOURCE ID: paid_raid_ticket_details_desc
 TEXT: O Passe de Batalha Premium pode ser usado para participar de uma Batalha de Reide ou da Liga de Batalha GO premium.
@@ -34075,6 +34329,428 @@ TEXT: Não há mais espaço na sua equipe.
 
 RESOURCE ID: party_hat_pikachu_tr_title
 TEXT: Eu, tu e Pikachu!
+
+RESOURCE ID: party_play_ability_activate
+TEXT: Poder de Grupo ativado
+
+RESOURCE ID: party_play_ability_charge_attack
+TEXT: {0} usou {1} com Poder de Grupo
+
+RESOURCE ID: party_play_ability_charge_attack_nameplate
+TEXT: Poder de Grupo!
+
+RESOURCE ID: party_play_activities
+TEXT: Atividades
+
+RESOURCE ID: party_play_activity_category_0
+TEXT: Favorito
+
+RESOURCE ID: party_play_activity_category_1
+TEXT: Especial
+
+RESOURCE ID: party_play_activity_category_2
+TEXT: Pokémon
+
+RESOURCE ID: party_play_activity_category_3
+TEXT: Geral
+
+RESOURCE ID: party_play_activity_category_4
+TEXT: Aventura
+
+RESOURCE ID: party_play_activity_category_5
+TEXT: Jogadas
+
+RESOURCE ID: party_play_activity_category_6
+TEXT: Batalha
+
+RESOURCE ID: party_play_activity_description_100
+TEXT: Total de batalhas de Treinador vencidas: <color=#F2A64B>{0}</color>
+
+RESOURCE ID: party_play_activity_description_101
+TEXT: Total de batalhas de Ginásio vencidas: <color=#F2A64B>{0}</color>
+
+RESOURCE ID: party_play_activity_description_21
+TEXT: Total de Pokémon pegos: <color=#F2A64B>{0}</color>
+
+RESOURCE ID: party_play_activity_description_22
+TEXT: Pokémon Brilhantes pegos: <color=#F2A64B>{0}</color>
+
+RESOURCE ID: party_play_activity_description_23
+TEXT: Pokémon de tipo Normal pegos: <color=#F2A64B>{0}</color>
+
+RESOURCE ID: party_play_activity_description_24
+TEXT: Pokémon de tipo Lutador pegos: <color=#F2A64B>{0}</color>
+
+RESOURCE ID: party_play_activity_description_25
+TEXT: Pokémon de tipo Voador pegos: <color=#F2A64B>{0}</color>
+
+RESOURCE ID: party_play_activity_description_26
+TEXT: Pokémon de tipo Venenoso pegos: <color=#F2A64B>{0}</color>
+
+RESOURCE ID: party_play_activity_description_27
+TEXT: Pokémon de tipo Terrestre: <color=#F2A64B>{0}</color>
+
+RESOURCE ID: party_play_activity_description_28
+TEXT: Pokémon de tipo Pedra pegos: <color=#F2A64B>{0}</color>
+
+RESOURCE ID: party_play_activity_description_29
+TEXT: Pokémon de tipo Inseto pegos: <color=#F2A64B>{0}</color>
+
+RESOURCE ID: party_play_activity_description_30
+TEXT: Pokémon de tipo Fantasma pegos: <color=#F2A64B>{0}</color>
+
+RESOURCE ID: party_play_activity_description_31
+TEXT: Pokémon de tipo Aço pegos: <color=#F2A64B>{0}</color>
+
+RESOURCE ID: party_play_activity_description_32
+TEXT: Pokémon de tipo Fogo pegos: <color=#F2A64B>{0}</color>
+
+RESOURCE ID: party_play_activity_description_33
+TEXT: Pokémon de tipo Planta pegos: <color=#F2A64B>{0}</color>
+
+RESOURCE ID: party_play_activity_description_34
+TEXT: Pokémon de tipo Água pegos: <color=#F2A64B>{0}</color>
+
+RESOURCE ID: party_play_activity_description_35
+TEXT: Pokémon de tipo Elétrico pegos: <color=#F2A64B>{0}</color>
+
+RESOURCE ID: party_play_activity_description_36
+TEXT: Pokémon de tipo Psíquico pegos: <color=#F2A64B>{0}</color>
+
+RESOURCE ID: party_play_activity_description_37
+TEXT: Pokémon de tipo Gelo pegos: <color=#F2A64B>{0}</color>
+
+RESOURCE ID: party_play_activity_description_38
+TEXT: Pokémon de tipo Dragão pegos: <color=#F2A64B>{0}</color>
+
+RESOURCE ID: party_play_activity_description_39
+TEXT: Pokémon de tipo Sombrio pegos: <color=#F2A64B>{0}</color>
+
+RESOURCE ID: party_play_activity_description_40
+TEXT: Pokémon de tipo Fada pegos: <color=#F2A64B>{0}</color>
+
+RESOURCE ID: party_play_activity_description_41
+TEXT: Pokémon XXS pegos: <color=#F2A64B>{0}</color>
+
+RESOURCE ID: party_play_activity_description_42
+TEXT: Pokémon XXL pegos: <color=#F2A64B>{0}</color>
+
+RESOURCE ID: party_play_activity_description_59
+TEXT: Poképaradas diferentes visitadas: <color=#F2A64B>{0}</color>
+
+RESOURCE ID: party_play_activity_description_60
+TEXT: Tarefas de pesquisa de campo completadas: <color=#F2A64B>{0}</color>
+
+RESOURCE ID: party_play_activity_description_71
+TEXT: Total de km explorados: <color=#F2A64B>{0}</color>
+
+RESOURCE ID: party_play_activity_description_72
+TEXT: Total de Ovos chocados: <color=#F2A64B>{0}</color>
+
+RESOURCE ID: party_play_activity_description_73
+TEXT: Total de doces recebidos: <color=#F2A64B>{0}</color>
+
+RESOURCE ID: party_play_activity_description_84
+TEXT: Total de jogadas: <color=#F2A64B>{0}</color>
+
+RESOURCE ID: party_play_activity_description_85
+TEXT: Total de jogadas excelentes: <color=#F2A64B>{0}</color>
+
+RESOURCE ID: party_play_activity_description_86
+TEXT: Total de jogadas ótimas: <color=#F2A64B>{0}</color>
+
+RESOURCE ID: party_play_activity_description_87
+TEXT: Total de jogadas boas: <color=#F2A64B>{0}</color>
+
+RESOURCE ID: party_play_activity_description_98
+TEXT: Total de Reides vencidos: <color=#F2A64B>{0}</color>
+
+RESOURCE ID: party_play_activity_description_99
+TEXT: Total de batalhas contra a Equipe GO Rocket vencidas: <color=#F2A64B>{0}</color>
+
+RESOURCE ID: party_play_activity_leave_summary_100
+TEXT: Total de batalhas de Treinador vencidas
+
+RESOURCE ID: party_play_activity_leave_summary_101
+TEXT: Total de batalhas de Ginásio vencidas
+
+RESOURCE ID: party_play_activity_leave_summary_21
+TEXT: Total de Pokémon pegos
+
+RESOURCE ID: party_play_activity_leave_summary_22
+TEXT: Pokémon Brilhantes pegos
+
+RESOURCE ID: party_play_activity_leave_summary_23
+TEXT: Pokémon de tipo Normal pegos
+
+RESOURCE ID: party_play_activity_leave_summary_24
+TEXT: Pokémon de tipo Lutador pegos
+
+RESOURCE ID: party_play_activity_leave_summary_25
+TEXT: Pokémon de tipo Voador pegos
+
+RESOURCE ID: party_play_activity_leave_summary_26
+TEXT: Pokémon de tipo Venenoso pegos
+
+RESOURCE ID: party_play_activity_leave_summary_27
+TEXT: Pokémon de tipo Terrestre pegos
+
+RESOURCE ID: party_play_activity_leave_summary_28
+TEXT: Pokémon de tipo Pedra pegos
+
+RESOURCE ID: party_play_activity_leave_summary_29
+TEXT: Pokémon de tipo Inseto pegos
+
+RESOURCE ID: party_play_activity_leave_summary_30
+TEXT: Pokémon de tipo Fantasma pegos
+
+RESOURCE ID: party_play_activity_leave_summary_31
+TEXT: Pokémon de tipo Aço pegos
+
+RESOURCE ID: party_play_activity_leave_summary_32
+TEXT: Pokémon de tipo Fogo pegos
+
+RESOURCE ID: party_play_activity_leave_summary_33
+TEXT: Pokémon de tipo Planta pegos
+
+RESOURCE ID: party_play_activity_leave_summary_34
+TEXT: Pokémon de tipo Água pegos
+
+RESOURCE ID: party_play_activity_leave_summary_35
+TEXT: Pokémon de tipo Elétrico pegos
+
+RESOURCE ID: party_play_activity_leave_summary_36
+TEXT: Pokémon de tipo Psíquico pegos
+
+RESOURCE ID: party_play_activity_leave_summary_37
+TEXT: Pokémon de tipo Gelo pegos
+
+RESOURCE ID: party_play_activity_leave_summary_38
+TEXT: Pokémon de tipo Dragão pegos
+
+RESOURCE ID: party_play_activity_leave_summary_39
+TEXT: Pokémon de tipo Sombrio pegos
+
+RESOURCE ID: party_play_activity_leave_summary_40
+TEXT: Pokémon de tipo Fada pegos
+
+RESOURCE ID: party_play_activity_leave_summary_41
+TEXT: Pokémon XXS pegos
+
+RESOURCE ID: party_play_activity_leave_summary_42
+TEXT: Pokémon XXL pegos
+
+RESOURCE ID: party_play_activity_leave_summary_59
+TEXT: Poképaradas visitadas
+
+RESOURCE ID: party_play_activity_leave_summary_60
+TEXT: Tarefas de pesquisa de campo completadas
+
+RESOURCE ID: party_play_activity_leave_summary_71
+TEXT: Total de km explorados
+
+RESOURCE ID: party_play_activity_leave_summary_72
+TEXT: Total de Ovos chocados
+
+RESOURCE ID: party_play_activity_leave_summary_73
+TEXT: Total de doces recebidos
+
+RESOURCE ID: party_play_activity_leave_summary_84
+TEXT: Total de jogadas
+
+RESOURCE ID: party_play_activity_leave_summary_85
+TEXT: Total de jogadas excelentes
+
+RESOURCE ID: party_play_activity_leave_summary_86
+TEXT: Total de jogadas ótimas
+
+RESOURCE ID: party_play_activity_leave_summary_87
+TEXT: Total de jogadas boas
+
+RESOURCE ID: party_play_activity_leave_summary_98
+TEXT: Total de Reides vencidos
+
+RESOURCE ID: party_play_activity_leave_summary_99
+TEXT: Total de batalhas contra a Equipe GO Rocket vencidas
+
+RESOURCE ID: party_play_activity_summary
+TEXT: Detalhes de atividade
+
+RESOURCE ID: party_play_bonuses
+TEXT: Bônus
+
+RESOURCE ID: party_play_bookmark_description_text
+TEXT: Acompanhe as atividades usando favoritos!
+
+RESOURCE ID: party_play_bookmark_description_title
+TEXT: Atividades favoritas
+
+RESOURCE ID: party_play_cannot_play_routes
+TEXT: Você não pode explorar Rotas quando estiver em um grupo.
+
+RESOURCE ID: party_play_challenge_description
+TEXT: Escolha uma tarefa de pesquisa para completar com seu grupo para receber uma recompensa!
+
+RESOURCE ID: party_play_code_invalid
+TEXT: Não foi possível encontrar o grupo.
+
+RESOURCE ID: party_play_copy_code_toast
+TEXT: Copiado
+
+RESOURCE ID: party_play_create
+TEXT: Criar
+
+RESOURCE ID: party_play_disbanded_message
+TEXT: Um Treinador saiu do grupo. Os grupos requerem pelo menos dois Treinadores para continuar.
+
+RESOURCE ID: party_play_disbanded_title
+TEXT: Grupo encerrado
+
+RESOURCE ID: party_play_expired_lobby_timer_message
+TEXT: A sala de espera do grupo expirou.
+
+RESOURCE ID: party_play_invite
+TEXT: Convidar
+
+RESOURCE ID: party_play_invite_more_players
+TEXT: Convide outro Treinador para entrar!
+
+RESOURCE ID: party_play_join
+TEXT: Entrar no grupo
+
+RESOURCE ID: party_play_join_error_full
+TEXT: O grupo está cheio.
+
+RESOURCE ID: party_play_join_error_generic
+TEXT: Erro. Tente novamente.
+
+RESOURCE ID: party_play_join_error_proximity
+TEXT: Você precisa estar próximo do anfitrião para entrar.
+
+RESOURCE ID: party_play_join_error_u13
+TEXT: Você deve ser amigo do anfitrião para entrar.
+
+RESOURCE ID: party_play_join_nearby_body
+TEXT: Você precisa estar próximo do anfitrião antes de escanear ou inserir o código de grupo.
+
+RESOURCE ID: party_play_join_nearby_title
+TEXT: Encontrar o anfitrião
+
+RESOURCE ID: party_play_leave
+TEXT: Sair do grupo
+
+RESOURCE ID: party_play_leave_party_message
+TEXT: Você pode voltar ao grupo inserindo o código de grupo enquanto estiver próximo do anfitrião.
+
+RESOURCE ID: party_play_leave_party_title
+TEXT: Tem certeza de que deseja sair do grupo?
+
+RESOURCE ID: party_play_members
+TEXT: Participantes do grupo
+
+RESOURCE ID: party_play_missing_player_name
+TEXT: ???
+
+RESOURCE ID: party_play_modal_pause_route_consumption_body
+TEXT: Você não pode seguir uma Rota enquanto está em um grupo. Se você escolher entrar em um grupo, a criação de Rota será pausada.
+
+RESOURCE ID: party_play_modal_pause_route_consumption_title
+TEXT: Deseja pausar a sua Rota para entrar em um grupo?
+
+RESOURCE ID: party_play_modal_pause_route_creation_body
+TEXT: Você não pode criar uma Rota enquanto está em um grupo. Se você escolher entrar em um grupo, a criação de Rota será pausada.
+
+RESOURCE ID: party_play_modal_pause_route_creation_title
+TEXT: Deseja pausar a criação de Rota para entrar em um grupo?
+
+RESOURCE ID: party_play_only_host_can_start_party
+TEXT: Aguardando {0} para começar o grupo...
+
+RESOURCE ID: party_play_party_challenge_complete
+TEXT: Seu grupo completou a pesquisa de grupo! Resgate sua recompensa!
+
+RESOURCE ID: party_play_party_challenge_start
+TEXT: Começar
+
+RESOURCE ID: party_play_party_challenge_start_guest
+TEXT: {0} está selecionando uma tarefa de pesquisa...
+
+RESOURCE ID: party_play_party_challenge_start_warning
+TEXT: Selecione uma tarefa de pesquisa para começar.
+
+RESOURCE ID: party_play_party_code
+TEXT: Código de grupo
+
+RESOURCE ID: party_play_party_code_description
+TEXT: Enter a party code to join a party. You must be near the host to join.
+
+RESOURCE ID: party_play_party_name
+TEXT: Grupo de {0}
+
+RESOURCE ID: party_play_popup_tutorial_1
+TEXT: Comunique-se com os participantes do grupo usando reações! Toque no seu ícone de participante do grupo no mapa para ver as suas reações disponíveis.
+
+RESOURCE ID: party_play_popup_tutorial_2
+TEXT: Batalhe em Reides com outros participantes do grupo para obter Poder de Grupo, que aumenta o dano causado do próximo ataque carregado de seu Pokémon.
+
+O Poder de Grupo carrega mais rapidamente com mais participantes no grupo.
+
+RESOURCE ID: party_play_popup_tutorial_3
+TEXT: Poder de Grupo
+
+RESOURCE ID: party_play_raid_menu_header
+TEXT: REIDES DE GRUPO
+
+RESOURCE ID: party_play_scan_qr_code
+TEXT: Escanear o código QR de grupo.
+
+RESOURCE ID: party_play_see_all_activities
+TEXT: Ver todas as atividades
+
+RESOURCE ID: party_play_show_in_app_notifications
+TEXT: Mostrar notificações no jogo durante o jogo em Grupo
+
+RESOURCE ID: party_play_start_requirement_not_met
+TEXT: Os grupos requerem pelo menos dois Treinadores.
+
+RESOURCE ID: party_play_toast_player_is_new_host
+TEXT: {0} saiu do grupo. Agora você é o anfitrião.
+
+RESOURCE ID: party_play_toast_player_joined
+TEXT: {0} entrou no grupo.
+
+RESOURCE ID: party_play_toast_player_left
+TEXT: {0} saiu do grupo.
+
+RESOURCE ID: party_play_tutorial_1_body
+TEXT: Ganhe bônus de grupo e receba recompensas enquanto joga com outros Treinadores!
+
+RESOURCE ID: party_play_tutorial_1_title
+TEXT: O que é um grupo?
+
+RESOURCE ID: party_play_tutorial_2_body
+TEXT: Receba recompensas por completar tarefas de pesquisa com seu grupo!
+
+RESOURCE ID: party_play_tutorial_2_title
+TEXT: Pesquisa de Grupo
+
+RESOURCE ID: party_play_zone_boot_body
+TEXT: Você está muito longe do anfitrião. Para voltar ao grupo, você precisa estar próximo do anfitrião e inserir o código de grupo.
+
+RESOURCE ID: party_play_zone_boot_title
+TEXT: Você saiu do grupo.
+
+RESOURCE ID: party_play_zone_reenter_toast
+TEXT: Agora você está próximo do anfitrião.
+
+RESOURCE ID: party_play_zone_warning_body
+TEXT: Você deve estar próximo do anfitrião para permanecer no grupo. Você será removido caso se distanciar muito dele.
+
+RESOURCE ID: party_play_zone_warning_ok
+TEXT: OK
+
+RESOURCE ID: party_play_zone_warning_title
+TEXT: Muito longe de {0}
 
 RESOURCE ID: passcode_log_received_badge
 TEXT: Insígnias recebidas com código {0}.
@@ -34246,6 +34922,9 @@ TEXT: Foto salva
 RESOURCE ID: photo_unable_to_save
 TEXT: Não foi possível salvar a foto.
 
+RESOURCE ID: photobomb_cornet_pikachu
+TEXT: Chance de um encontro surpresa com Pikachu ao usar o Retrato GO
+
 RESOURCE ID: photobomb_five_abra
 TEXT: 5 encontros surpresa com Abra ao usar o Retrato GO
 
@@ -34296,6 +34975,9 @@ TEXT: 5 encontros surpresa com Gastly ao usar o Retrato GO
 
 RESOURCE ID: photobomb_five_gible
 TEXT: 5 encontros surpresa com Gible ao usar o Retrato GO
+
+RESOURCE ID: photobomb_five_grubbin
+TEXT: 5 encontros surpresa com Grubbin no Retrato GO
 
 RESOURCE ID: photobomb_five_hoppip
 TEXT: 5 encontros surpresa com Hoppip ao usar o Retrato GO
@@ -34392,6 +35074,9 @@ TEXT: 5 encontros surpresa com Pikachu usando chapéu de safári no Retrato GO!
 
 RESOURCE ID: photobomb_special
 TEXT: Encontros surpresa temáticos no Retrato GO
+
+RESOURCE ID: photobomb_torkoal
+TEXT: Chance de um encontro surpresa com Torkoal ao usar Retrato GO
 
 RESOURCE ID: pick_team1_desc
 TEXT: Bem-vindo à Equipe Sabedoria!
@@ -42205,7 +42890,7 @@ RESOURCE ID: pokemon_info_candy_exchange_player_lv_too_low
 TEXT: Seu nível de Treinador é muito baixo para transformar doces em doces GG.
 
 RESOURCE ID: pokemon_info_candy_label
-TEXT: Doces {0}
+TEXT: Doces de {0}
 
 RESOURCE ID: pokemon_info_caught
 TEXT: PEGO
@@ -46003,6 +46688,9 @@ TEXT: Módulo de Poképarada
 RESOURCE ID: pokestop_item_inventory_full
 TEXT: Sua Bolsa está cheia.
 
+RESOURCE ID: pokestop_item_inventory_full_button
+TEXT: ITEM BAG IS FULL
+
 RESOURCE ID: pokestop_item_passcode_inventory_full
 TEXT: Sua Bolsa está cheia ou você está fora de alcance do local de registro.
 
@@ -46104,7 +46792,7 @@ RESOURCE ID: postcard_expansion_deeplink_button
 TEXT: Ir para o Livro de Cartões-postais
 
 RESOURCE ID: postcard_expansion_purchase_success_toast
-TEXT: Adicionado ao seu Livro de Cartão-postal
+TEXT: Adicionado ao seu Livro de Cartões-postais
 
 RESOURCE ID: postcard_favorite
 TEXT: FAVORITO
@@ -46141,7 +46829,7 @@ TEXT: Excluir este Cartão-postal?
 
 RESOURCE ID: postcard_name
 TEXT: Livro de
-Cartões-Postais
+Cartão-Postal
 
 RESOURCE ID: postcard_nocard
 TEXT: Você não fixou nenhum Cartão-postal.
@@ -46452,7 +47140,7 @@ RESOURCE ID: privacy_policy_text
 TEXT: Política de Privacidade da Niantic<br><br>Em vigor a partir de: 18 de junho de 2018<br><br>Nós somos Niantic. Nós fornecemos plataformas de realidade aumentada do mundo real, projetadas para permitir que você interaja em mundos compartilhados, perfeitamente integrados ao mundo real. Para fazer isso, precisamos de informações sobre você. Proteger sua privacidade é muito importante para nós. Nós só usamos suas informações quando temos uma base legal para isso. Esta Política de Privacidade ajudará você a entender quais informações coletamos, como as usamos e quais opções você tem quando joga nossos jogos, usa nossos sites, compra produtos de nós ou participa de eventos e promoções ao vivo (os "Serviços").<br><br>Observe que, além das informações gerais abaixo, informações específicas sobre como alguns de nossos Serviços usam suas informações são fornecidas no final desta Política de Privacidade em "Divulgações Específicas do Jogo".<br><br>Você também deve ler nossos Termos de Serviço, que estabelecem o contrato entre você e a Niantic.<br><br>Quem decide como sua informação é usada?<br><br>Niantic, Inc., é o controlador de dados responsável por tomar decisões sobre como usamos suas informações pessoais. Se você tiver dúvidas ou comentários sobre esta política, você pode:<br><br>Enviar um e-mail para privacy@nianticlabs.com<br><br>Escrever para 1 Ferry Building Suite 200, San Francisco, CA 94111<br><br>Entrar em contato com o nosso Oficial de Proteção de Dados em dpo@nianticlabs.com<br><br>As informações que coletamos sobre você e como as usamos<br><br>Esta Política de Privacidade cobre o uso de qualquer informação que pode ou poderia ser usada para identificá-lo ("Dados Pessoais"). Ela não cobre informações que não podem ser usadas para identificá-lo ("Dados Anônimos").<br><br>Precisamos coletar e usar certos Dados Pessoais para fornecer os Serviços a você e cumprir as promessas que fazemos a você nos Termos de Serviço:<br><br>Quando você se inscreve em nossos Serviços, você nos dá Dados Pessoais voluntariamente ao fornecê-los para nós, por exemplo, quando você se inscreve em uma conta. Coletamos e usamos essas informações para autenticá-lo quando você registra uma conta e usa os Serviços, para garantir que você esteja elegível e capaz de receber os Serviços e para que você receba a versão correta dos Serviços. Essas informações incluem seu nome de usuário dentro jogo que você escolhe usar em nossos Serviços, e IDs de conta interna que atribuímos à sua conta.<br><br><br>Você deve ter uma conta com um serviço de conexão única (“single sign-on”) de terceiros para usar nossos Serviços. Como tal, os Dados Pessoais que coletamos também dependem de quais contas de terceiros você escolhe usar, suas respectivas políticas de privacidade, e o quê suas configurações de privacidade com esses serviços nos permitem ver quando você usa seus serviços para acessar os Serviços da Niantic.<br><br>Se você optar por vincular sua conta do Google aos Serviços, coletaremos seu endereço de e-mail do Google e um token de autenticação fornecido pelo Google.<br><br>Se você optar por vincular sua conta do Facebook aos Serviços, coletaremos um ID de usuário único fornecido pelo Facebook e, se você permitir, seu endereço de e-mail registrado no Facebook.<br><br>Dependendo do Serviço específico em que você se inscrever, poderemos oferecer suporte a outros serviços de conexão única (“single sign-on”) de terceiros e coletar Dados Pessoais adicionais deles. Para mais detalhes, leia as Divulgações Específicas do Jogo ao final desta Política de Privacidade.<br><br>Alguns provedores terceirizados podem notificá-lo de que disponibilizam informações adicionais, como seu perfil público, disponível para nós quando você usa os serviços de conexão única (“single sign-on”) deles. Nós não coletamos essas informações deles.<br><br>Nós coletamos e usamos as informações de localização do seu dispositivo à medida que você usa nossos Serviços, incluindo como você se movimenta e eventos que ocorrem durante o jogo. Nossos serviços incluem jogos baseados em localização cuja principal característica é fornecer uma experiência de jogo ligada à sua localização no mundo real, portanto precisamos saber onde você está para operar esses jogos para você e planejar a localização dos recursos do jogo (por exemplo, PokéStops em Pokémon GO). Nós identificamos sua localização usando uma variedade de tecnologias, incluindo GPS, pontos de WiFi por meio dos quais você está acessando o Serviço e triangulação de torres de celular.<br><br>Nós também coletamos e utilizamos suas ações e conquistas no jogo, bem como certas informações sobre seu dispositivo móvel coletadas durante o jogo (incluindo identificadores de dispositivo, dispositivos de sistema operacional, modelo, configurações e informações sobre aplicativos de terceiros instalados no dispositivo) para operar Serviços para você e para garantir que proporcionamos uma experiência de jogo justa a todos os jogadores, de acordo com os nossos Termos de Serviço (que inclui medidas anti-fraude e anti-trapaça).<br><br>Nós também usamos as informações acima para mostrar locais patrocinados nos jogos que estão em sua vizinhança como parte da experiência de jogo.<br><br>Além disso, nós usamos as informações acima para fornecer atendimento ao cliente e suporte técnico para você.<br><br>Você também nos fornece Dados Pessoais quando faz uma compra através de nós, inscreve-se em nossas publicações, participa de uma competição, promoção, sorteio ou pesquisa, ou quando se comunica conosco. Dependendo de qual desses Serviços você usa, isso pode incluir seu nome, endereço para correspondência, número de telefone, país de residência, data de nascimento (conforme necessário, para verificar a elegibilidade) e endereço de e-mail. Nós usamos essas informações para aprimorar estes Serviços para você e fornecer atendimento ao cliente para você.<br><br>Além disso, nós temos e contamos com um interesse legítimo em usar seus Dados Pessoais, da seguinte maneira:<br><br>Usando seu endereço IP, tipo de navegador, sistema operacional, a página da web que você visitou antes de acessar nossos Serviços, as páginas de nossos Serviços nas quais você navegou ou os recursos que você usou e o tempo gasto nessas páginas ou recursos, os links em nossos Serviços nos quais você clica, identificadores de dispositivos, ações realizadas durante o jogo, suas configurações e preferências de usuário no jogo e suas compras no aplicativo para entender quem está usando nossos Serviços e como.<br><br>Usando suas informações de contato, a saber, seu endereço de e-mail, para nos comunicarmos com você para fins de suporte técnico e atendimento ao cliente.<br><br>Usando seu endereço de e-mail e informações do dispositivo para compartilhar atualizações e notícias sobre os Serviços com você, seja dentro dos jogos ou por e-mail. Você pode desativar essas funções a qualquer momento nas configurações do seu dispositivo ou aplicativo.<br><br>Para fornecer recursos sociais em nossos jogos com o intuito de permitir que você interaja e jogue com outros jogadores, inclusive que armazene suas comunicações com esses jogadores, encontre seus amigos e seja encontrado por eles e compartilhe sua experiência e conquistas de jogo com seus amigos.<br><br>Para oferecer recursos novos ou adicionais para nossos Serviços.<br><br>Para organizar e lançar eventos ao vivo baseados em ou apresentando nossos jogos. Observe que, quando você participar de eventos ao vivo, suas ações e conquistas no jogo, seu nome de usuário no jogo e seu avatar ficarão visíveis para outros participantes do evento e para o público (por exemplo, em placares exibidos no evento e online).<br><br>Para realizar medidas anti-fraude e anti-trapaça e para garantir que você e outros usuários cumpram com nossos Termos de Serviço.<br><br>Para fazer divulgações legais ou regulatórias.<br><br>Nós somente usaremos seus Dados Pessoais para fazer o seguinte se nós tivermos o seu consentimento:<br><br>Se você optar por ativar a permissão Amigos do Usuário do Facebook disponível em alguns de nossos jogos, nós importaremos da sua conta do Facebook vinculada a lista de seus amigos que também jogam o jogo e ativaram os Amigos do Usuário do Facebook. Se você ativar essa permissão, sua foto de perfil do Facebook e o nome em sua conta do Facebook ficarão visíveis para seus amigos no jogo. Você pode mudar de ideia e se desconectar de outros jogadores a qualquer momento nas suas configurações de Amigos do aplicativo. Você também pode revogar as permissões do Facebook para nossos jogos diretamente nas configurações da sua conta do Facebook.<br><br>Para enviar-lhe materiais de marketing por e-mail ou por notificações no aplicativo. Você pode desativar essa função a qualquer momento nas configurações do seu dispositivo ou aplicativo.<br><br><br>Nós também dependemos do seu consentimento quando usamos cookies ou tecnologias semelhantes. Por favor, consulte nossa Política de Cookies (https://www.nianticlabs.com/cookies/pt_br) para mais informações sobre como as usamos. Na medida em que os cookies coletem seus Dados Pessoais, nós os processaremos somente com base no seu consentimento explícito, de forma anônima ou sob um pseudônimo.<br><br>Embora você possa desabilitar o uso de cookies nas configurações do seu navegador, a Niantic atualmente não responde ao sinal “Não Rastrear” no cabeçalho HTTP do seu navegador ou aplicativo móvel devido à falta de padrão da indústria sobre como interpretar esse sinal.<br><br>Com quem compartilhamos informações<br><br>Nós não compartilharemos nenhum Dado Pessoal que tenhamos coletado de ou relacionado a você, exceto conforme descrito abaixo:<br><br>Informações Compartilhadas com Nossos Provedores de Serviços. Nós contratamos provedores de serviços terceirizados para trabalhar conosco na administração e fornecimento dos Serviços. Como parte disso, eles processarão seus Dados Pessoais em nosso nome. Esses provedores de serviços terceirizados têm acesso aos seus Dados Pessoais somente para fins de execução de serviços em nosso nome, em conformidade com esta Política de Privacidade, e garantimos que cada um deles seja contratualmente obrigado a não divulgar ou usar seus Dados Pessoais com qualquer outra finalidade. Os provedores de serviços que usamos nos ajudam a:<br><br>executar, operar e manter nossos jogos para dispositivos móveis por meio de plataformas e ferramentas de software de terceiros;<br>realizar moderação de conteúdo e análise de falhas;<br>executar campanhas de e-mail e mensagens de celular;<br>realizar análise de jogos e marketing;<br>administrar eventos ao vivo, competições, sorteios e promoções, incluindo registro de jogadores, administração de acesso e participação, verificação de elegibilidade e cumprimento do prêmio;<br>fornecer suporte técnico e atendimento ao cliente.<br><br>Informações Compartilhadas com Outros Jogadores. Quando você usar os Serviços e, em particular, quando participar de nossos jogos, usar recursos sociais nesses jogos ou participar de eventos ao vivo, nós compartilharemos certos Dados Pessoais com outros jogadores. Esses Dados Pessoais incluem seu perfil no jogo (como seu nome de usuário, seu avatar e seu time), suas ações e conquistas no jogo, a localização no mundo real dos recursos de jogabilidade com os quais você interagiu ao jogar os jogos (por exemplo, PokéStops dentro do Pokémon GO ou Portais dentro do Ingress) e suas mensagens públicas no jogo. Para alguns jogos, isso pode incluir sua localização. Para mais detalhes, leia as Divulgações Específicas do Jogo no final desta Política de Privacidade.<br><br>Informações Compartilhadas com Terceiros. Nós compartilhamos Dados Anônimos com terceiros para análise de indústria e mercado. Nós poderemos compartilhar Dados Pessoais com nossos parceiros de publicação terceirizados para fins de marketing direto somente se tivermos sua permissão expressa. Nós não compartilhamos Dados Pessoais com quaisquer outros terceiros para fins de marketing direto.<br><br><br>Informações Divulgadas para Nossa Proteção e Proteção de Outros. Nós cooperamos com autoridades governamentais e policiais ou com entidades privadas para cumprir e fazer cumprir a lei. Nós somente compartilhamos informações sobre você com autoridades governamentais ou policiais ou entidades privadas quando consideramos razoavelmente necessário ou apropriado para: (a) responder a reclamações, processos legais (incluindo intimações e mandados); (b) proteger nossa propriedade, direitos e segurança, bem como a propriedade, direitos e segurança de terceiros ou do público em geral; e (c) investigar e interromper qualquer atividade que consideremos ilegal, antiética ou legalmente acionável.<br><br>Informações Divulgadas em Relação a Transações Comerciais. As informações que coletamos de nossos usuários, incluindo dados pessoais, são um ativo comercial. Se nós formos adquiridos por terceiros como resultado de uma transação, como uma fusão, aquisição ou venda de ativos, ou se nossos ativos forem adquiridos por um terceiro no caso de fecharmos ou declararmos falência, alguns ou todos os nossos ativos, incluindo seus Dados Pessoais, serão divulgados ou transferidos para um terceiro adquirente relacionado à transação.<br><br>Como Seus Dados Pessoais são Transferidos<br><br>A Niantic opera seus Serviços em todo o mundo. Os seus dados pessoais serão muito provavelmente transferidos e armazenados em um país fora do seu país de origem, inclusive nos EUA, para os fins descritos nesta Política de Privacidade. As leis de proteção de dados nesses países podem não ser as mesmas do seu país de origem.<br><br>Se transferirmos os seus Dados Pessoais do Espaço Econômico Europeu (EEE) para outros países, incluindo os EUA, podemos assegurar que um nível de proteção semelhante ao do EEE será fornecido aos seus Dados Pessoais, garantindo que pelo menos uma das seguintes salvaguardas seja implementada:<br><br>O país para onde os seus Dados Pessoais são transferidos é um país que a Comissão Europeia considerou fornecer um nível adequado de proteção para Dados Pessoais, assim como no EEE.<br><br><br>Nós utilizamos contratos específicos aprovados pela Comissão Europeia, que conferem aos Dados Pessoais a mesma proteção que eles têm na Europa, quando nos envolvemos com provedores de serviços.<br><br><br>Onde nos envolvemos com provedores de serviços nos EUA, eles fazem parte do Escudo de Privacidade UE-EUA, que exige que eles forneçam a mesma proteção a seus Dados Pessoais que eles têm no EEE.<br><br>Como Mantemos seus Dados Pessoais Seguros<br><br>Nós temos medidas de segurança adequadas para impedir que os seus Dados Pessoais sejam acidentalmente perdidos, usados ou acessados sem autorização, alterados ou divulgados indevidamente. Nós também limitamos o acesso aos seus Dados Pessoais a funcionários, agentes, contratados e outros terceiros que tenham uma necessidade comercial de acessá-los. Eles somente processarão seus Dados Pessoais de acordo com nossas instruções e estarão sujeitos a um dever de confidencialidade. Nós estabelecemos procedimentos para lidar com qualquer suspeita de violação de Dados Pessoais e notificaremos você e qualquer regulador pertinente sobre uma violação quando formos obrigados por lei a fazê-lo.<br><br>Por Quanto Tempo Manteremos seus Dados Pessoais<br><br>Nós manteremos os seus Dados Pessoais pelo tempo que for necessário para lhe fornecer os Serviços e cumprir os propósitos estabelecidos nesta Política de Privacidade. Este também é o caso de qualquer um com quem compartilhamos suas informações e que realizam serviços em nosso nome.<br><br>Quando nós não precisarmos mais usar seus Dados Pessoais e não houver mais necessidade de mantê-los para cumprir com nossas obrigações legais ou regulatórias, nós iremos removê-los de nossos sistemas ou torná-los anônimos para que não possam mais ser associados a você.<br><br>Seus Direitos e Escolhas<br><br>Você tem certos direitos em relação aos seus Dados Pessoais. Para exercer esses direitos, entre em contato conosco:<br><br>Para Pokémon GO aqui (https://support.pokemongo.nianticlabs.com/hc/articles/115008306667.<br><br>Para Ingress aqui (https://support.ingress.com/hc/).<br><br>Para os demais Serviços em privacy@nianticlabs.com.<br><br>Você pode:<br><br>Solicitar acesso aos Dados Pessoais que mantemos sobre você.<br><br>Excluir ou corrigir seus dados pessoais. A maneira mais fácil de atualizar as informações da sua conta é por meio das configurações do aplicativo. Você também pode enviar uma solicitação de atendimento ao cliente pelo nosso site de suporte, aqui (https://support.pokemongo.nianticlabs.com/hc/articles/222060687) para Pokémon GO, ou aqui (https://support.ingress.com/hc/articles/206618198) para o Ingress.<br><br>Se opor ao processamento de seus Dados Pessoais por nós. Alguns dos Dados Pessoais que nós mantemos são necessários para que possamos fornecer os Serviços para você e cumprir as promessas que lhe fazemos nos Termos de Serviço.<br><br>Pedir-nos para parar de usar seus Dados Pessoais, inclusive para fins promocionais e de marketing (mas esteja ciente de que às vezes precisamos usar seus Dados Pessoais para que você possa usar os Serviços).<br><br>Ter seus Dados Pessoais transferidos para outra organização (onde isso for tecnicamente viável).<br><br>Reclamar para um regulador. Nós gostaríamos de ter a oportunidade de lidar diretamente com suas preocupações, por isso preferimos que você entre em contato conosco primeiro. No entanto, se estiver no EEE e acreditar que não cumprimos com as leis de proteção de dados, você pode reclamar com nosso regulador, com o Escritório do Comissário de Informações do Reino Unido ou com sua autoridade supervisora local.<br><br>A lei prevê exceções a esses direitos em determinadas circunstâncias. Onde você não puder exercer um desses direitos devido a tais exceções, prestaremos os devidos esclarecimentos.<br><br>Nós oferecemos opções com relação à coleta, ao uso e ao compartilhamento de seus Dados Pessoais, e nós respeitaremos as suas escolhas. Observe que, se você decidir não nos fornecer os Dados Pessoais que solicitamos, talvez não consiga acessar todos os recursos dos Serviços.<br><br>Nosso objetivo é fornecer as informações ou concluir o resultado que você solicitar dentro de 30 dias.<br><br>Crianças<br><br>Como regra geral, se você estiver fora do EEE, crianças menores de 13 anos não poderão usar os Serviços. Se você estiver baseado no EEE, somente poderá usar os Serviços se tiver mais de 16 anos, ou a idade necessária para consentir com o processamento de Dados Pessoais em seu país de residência. No entanto, permitimos que as crianças usem o Serviço Pokémon GO, desde que obtenhamos o requerido consentimento dos pais. Para mais detalhes, leia as Divulgações Específicas do Jogo ao final desta Política de Privacidade.<br><br>Se tomarmos conhecimento de que coletamos Dados Pessoais de uma criança menor de 13 anos, menor de 16 anos no caso do EEE ou abaixo da idade necessária para consentir com o processamento de Dados Pessoais, e não tivermos o consentimento dos pais, tomaremos as medidas necessárias para excluir essas informações de nossos arquivos o mais rápido possível.<br><br>Alterações a esta Política de Privacidade<br><br>Todos os Dados Pessoais que coletamos são cobertos pela Política de Privacidade em vigor no momento em que tais informações são coletadas. Nós podemos fazer alterações a esta Política de Privacidade de tempos em tempos. Você será devidamente notificado sobre qualquer alteração relevante.<br><br>Terceiros<br><br>Ao usar nossos Serviços, você poderá acessar links para sites e serviços que são de propriedade ou operados por terceiros (cada um, um "Serviço de Terceiros"). Qualquer informação que você fornecer para ou em um Serviço de Terceiros, ou que seja coletada por um Serviço de Terceiros é fornecida diretamente ao proprietário ou operador do Serviço de Terceiros e está sujeita à política de privacidade do proprietário ou do operador. Nós não somos responsáveis pelas práticas e políticas de conteúdo, privacidade ou segurança de qualquer serviço de terceiros. Para proteger suas informações, recomendamos que você analise cuidadosamente as políticas de privacidade de todos os Serviços de Terceiros acessados.<br><br>11. Divulgações Específicas do Jogo<br><br>Informações Adicionais de Privacidade para Pokémon GO<br><br>Contas do Clube de Treinadores Pokémon. Você pode se inscrever no Pokémon GO usando sua conta Clube de Treinadores Pokémon (“CTP”) administrada pela The Pokémon Company International (“TPCI”). Se você optar por fazê-lo, coletaremos do TPCI seu endereço de e-mail registrado no CTP, seu nome de usuário do CTP e um ID de usuário exclusivo do CTP. Se você estiver registrando sua conta CTP em nome de seu filho autorizado, também coletaremos alguns Dados Pessoais sobre seu filho. Consulte o parágrafo “Contas com crianças” abaixo para mais informações.<br><br>Contas com crianças. Nós cumprimos os requisitos de consentimento dos pais, conforme exigido pela Lei de Proteção à Privacidade Online das Crianças, dos EUA (COPPA), e pelas leis europeias de proteção de dados (incluindo, sem limitação, o Regulamento Geral de Proteção de Dados) por meio de um processo de verificação e consentimento administrado pelo TPCI. Conforme descrito nos Termos de Serviço do Pokémon GO, os pais ou responsáveis legais (“Responsáveis”) de cada criança menor de 13 anos, menor de 16 anos no caso do EEE ou abaixo da idade necessária para consentir com o processamento de Dados Pessoais, (“Criança”), devem se registrar junto ao TPCI por meio de uma conta CTP antes que seu filho possa acessar e usar o jogo. O Responsável terá que fornecer ao TPCI certos Dados Pessoais sobre a Criança, de acordo com a política de privacidade do TPCI. Desse modo, a Niantic somente coletará do TPCI o endereço de e-mail pessoal da Criança e a data em que a Criança atingirá idade superior aos limites listados acima.<br><br>Para residentes dos EUA, depois que o Responsável registrar uma conta CTP, o TPCI verificará a identidade do Responsável pedindo a soma do primeiro e último dígito de seu número de segurança social, bem como o seu nome, a sua data de nascimento e o seu endereço. O TPCI não compartilhará essas informações conosco. Depois que o TPCI verificar a identidade do Responsável, ele pedirá a este para consentir que o filho acesse o Pokémon GO. Se o Responsável não autorizar o acesso e uso da Criança ao Pokémon GO, ou não verificar sua identidade por meio do processo de consentimento, a Niantic barrará o registro dessa Criança no Pokémon GO e impedirá o acesso e o uso do jogo pela Criança.<br><br>Os Responsáveis têm o direito de recusar a coleta, o uso e/ou a divulgação dos Dados Pessoais da Criança, devendo avisar-nos. Como Responsável, você entende que a Niantic tem um interesse legítimo em fornecer as informações da Criança, coletadas por meio dos Serviços, a provedores de terceiros, com o único propósito de administrar ou fornecer os Serviços, conforme descrito no Parágrafo 3 desta Política de Privacidade.<br><br>Informações Compartilhadas com Outros Jogadores. Quando você realiza determinadas ações no Pokémon GO e captura uma Academia, seu nome de usuário (ou da Criança autorizada) é compartilhado publicamente no jogo, inclusive com outros jogadores, em relação à localização dessa Academia..<br>Apple Watch e Dados do Aplicativo Apple Health. Se você usa Pokémon GO com seu Apple Watch, utilizaremos, com o seu consentimento, as APIs do Apple HealthKit para processar e/ou gravar certos dados sobre sua atividade física (Contagem de passos, Calorias queimadas e Distância percorrida) no Banco de Dados do aplicativo Health no seu dispositivo (os “Dados do aplicativo Health”). Nós podemos armazenar os Dados do aplicativo Health em nossos servidores associados à sua conta de usuário do Pokémon GO. Nós usamos os Dados do aplicativo Health para lhe fornecer determinadas funcionalidades no jogo (como as distâncias percorridas para chocar os ovos), e para garantir que você receba “crédito” no seu aplicativo Apple Health por todas as caminhadas que você faz enquanto joga Pokémon GO. Nós não usaremos os Dados do aplicativo Health para fins de marketing ou publicidade. Nós não armazenamos Dados do aplicativo Health no iCloud. O Pokémon GO não pode processar ou gravar dados no Banco de Dados do aplicativo Health sem o seu consentimento.<br><br>Informações adicionais de privacidade para o Ingress<br><br>Informações compartilhadas publicamente. Quando você joga Ingress, por fazer parte do jogo, as seguintes informações sobre você serão compartilhadas através do jogo (inclusive com outros jogadores diretamente dentro do aplicativo, em notificações do jogo enviadas por email a outros jogadores, como parte do jogo, e online no Mapa Intel do site do Ingress) e, portanto, ficarão disponíveis publicamente: seu nome de usuário no jogo, mensagens enviadas a outros usuários em COMMS e portais no jogo com os quais você interage, bem como a localização do seu dispositivo sempre que você agir dentro do jogo.<br>
 
 RESOURCE ID: privacy_policy_title
-TEXT: Política de privacidade do <i>Pokémon GO</i>
+TEXT: Política de privacidade do Pokémon GO
 
 RESOURCE ID: privacy_policy_update_notice
 TEXT: Favor consultar a Política de Privacidade da Niantic atualizada para obter informações adicionais sobre novos recursos sociais e como processamos dados pessoais.
@@ -46500,13 +47188,13 @@ RESOURCE ID: profile_player_level
 TEXT: Nível
 
 RESOURCE ID: profile_pokestops_visited
-TEXT: Poképaradas visitadas:
+TEXT: Poképaradas visitadas
 
 RESOURCE ID: profile_start_date
 TEXT: Data de início
 
 RESOURCE ID: profile_total_xp
-TEXT: Total de PE:
+TEXT: Total de PE
 
 RESOURCE ID: projectguitar_event_name
 TEXT: Evento de colaboração com Ed Sheeran
@@ -46545,7 +47233,7 @@ RESOURCE ID: ptc_auth_failed
 TEXT: Não foi possível autenticar. Tente de novo.
 
 RESOURCE ID: ptc_error_activation_required
-TEXT: Ative sua conta para jogar <i>Pokémon GO</i>.
+TEXT: Ative sua conta para jogar Pokémon GO.
 
 RESOURCE ID: ptc_forgot_password
 TEXT: Esqueceu sua senha?
@@ -46570,6 +47258,9 @@ TEXT: Clube de Treinadores
 
 RESOURCE ID: ptc_need_to_register_button
 TEXT: Registrar
+
+RESOURCE ID: pumpkaboo_event_mossy_lure_pokemon
+TEXT: Pumpkaboo atraídos por Módulo Atrair Musgoso
 
 RESOURCE ID: pups_tutorial_p0_body
 TEXT: Se você escanear uma localização, seus pontos de localização aumentarão. Quando a localização for Fortificada, ele fornecerá bônus aos Treinadores próximos, dependendo do seu nível.
@@ -47012,8 +47703,20 @@ TEXT: Usar Incenso de Aventura Diário para ajudar a pegar {0} Pokémon.
 RESOURCE ID: quest_catch_pokemon_days
 TEXT: Pegar 1 Pokémon em {0} dias diferentes.
 
+RESOURCE ID: quest_catch_pokemon_great_ball_plural
+TEXT: Pegar {0} Pokémon com Grandes Bolas.
+
+RESOURCE ID: quest_catch_pokemon_great_ball_singular
+TEXT: Pegar 1 Pokémon com uma Grande Bola.
+
 RESOURCE ID: quest_catch_pokemon_plural
 TEXT: Pegar {0} Pokémon.
+
+RESOURCE ID: quest_catch_pokemon_poke_ball_plural
+TEXT: Pegar {0} Pokémon com Poké Bolas.
+
+RESOURCE ID: quest_catch_pokemon_poke_ball_singular
+TEXT: Pegar 1 Pokémon com uma Poké Bola.
 
 RESOURCE ID: quest_catch_pokemon_routes_plural
 TEXT: Pegar {0} Pokémon seguindo Rotas
@@ -47026,6 +47729,12 @@ TEXT: Pegar 1 Pokémon.
 
 RESOURCE ID: quest_catch_pokemon_task
 TEXT: Pegar Pokémon.
+
+RESOURCE ID: quest_catch_pokemon_ultra_ball_plural
+TEXT: Pegar {0} Pokémon com Ultra Bolas.
+
+RESOURCE ID: quest_catch_pokemon_ultra_ball_singular
+TEXT: Pegar 1 Pokémon com uma Ultra Bola.
 
 RESOURCE ID: quest_catch_psychic_steel
 TEXT: Pegar {0} Pokémon de tipo Psíquico ou Aço.
@@ -47561,6 +48270,9 @@ TEXT: Mudar a forma de 1 Pokémon.
 RESOURCE ID: quest_charged_attack_plural
 TEXT: Usar {0} ataques carregados
 
+RESOURCE ID: quest_charjabug_evolve_b
+TEXT: Evoluir {0} Charjabug
+
 RESOURCE ID: quest_chart_catch_b
 TEXT: Pegar {0} Charmander.
 
@@ -47709,8 +48421,7 @@ RESOURCE ID: quest_complete_routes_singular
 TEXT: Seguir uma Rota
 
 RESOURCE ID: quest_complete_rue
-TEXT: 
-Vamos dar uma aquecida
+TEXT: Vamos dar uma aquecida
 
 RESOURCE ID: quest_complete_sandt
 TEXT: Arenoso e congelante
@@ -47863,7 +48574,7 @@ RESOURCE ID: quest_dialogue_dai_willow_part2_0_3
 TEXT: O Incenso de Aventura Diário funciona melhor quando você está se movendo ativamente, então é melhor não usá-lo enquanto estiver descansando.
 
 RESOURCE ID: quest_dialogue_dai_willow_part2_0_4
-TEXT: É animação que estou sentindo? É né? Quer ta tentar usá-lo agora mesmo, %PLAYERNAME%?
+TEXT: É animação que estou sentindo? É né? Quer tentar usá-lo agora mesmo, %PLAYERNAME%?
 
 RESOURCE ID: quest_dialogue_dai_willow_part2_1_0
 TEXT: Vejo que você já fez novos amigos Pokémon, %PLAYERNAME%. Vamos dar uma olhada!
@@ -48330,11 +49041,17 @@ TEXT: Tirar uma foto de seu Eevee na Cidade do México
 RESOURCE ID: quest_event_eevee_snapshot_seoul
 TEXT: Tirar uma foto de seu Eevee em Seul.
 
+RESOURCE ID: quest_event_leave_behind_spin
+TEXT: Girar 10 fotodiscos de Poképaradas que não tenha visitado antes.
+
+RESOURCE ID: quest_event_leave_behind_spin_safari_city
+TEXT: Girar uma Poképarada em qualquer local de Eevee Explorador
+
 RESOURCE ID: quest_event_leave_behind_spin_safari_city_plural
-TEXT: Spin {0} Pokéstops at an Eevee Explorer location you've never visited before
+TEXT: Girar {0} fotodiscos de Poképaradas em um local de Eevee Exploradores que você ainda não visitou.
 
 RESOURCE ID: quest_event_leave_behind_spin_safari_city_singular
-TEXT: Spin a Pokéstop at an Eevee Explorer location you've never visited before
+TEXT: Girar 1 fotodisco de Poképarada em um local de Eevee Exploradores que você ainda não visitou.
 
 RESOURCE ID: quest_event_spin_barcelona
 TEXT: Girar 1 fotodisco de uma Poképarada ou Ginásio em Barcelona
@@ -50262,6 +50979,15 @@ TEXT: Tirar 1 foto no habitat da Equipe Valor.
 RESOURCE ID: quest_gotoursik_photo_willow
 TEXT: Tirar 1 foto no habitat do Professor Willow.
 
+RESOURCE ID: quest_grubbin_catch_b
+TEXT: Pegar {0} Grubbin
+
+RESOURCE ID: quest_grubbin_evolve_b
+TEXT: Evoluir {0} Grubbin
+
+RESOURCE ID: quest_grubbin_snapshot_b
+TEXT: Tirar 1 foto de {0} Grubbin.
+
 RESOURCE ID: quest_gt_catch_b
 TEXT: Pegar {0} Gastly.
 
@@ -51074,6 +51800,9 @@ TEXT: Tirar 1 foto de seu Machamp.
 
 RESOURCE ID: quest_snapshot_okinawa
 TEXT: Tirar 1 foto em Okinawa.
+
+RESOURCE ID: quest_snapshot_poison_grass_singular
+TEXT: Tirar 1 foto de um Pokémon selvagem de tipo Venenoso.
 
 RESOURCE ID: quest_snapshot_regi_ice
 TEXT: Tirar 1 foto de Regice.
@@ -53317,6 +54046,78 @@ TEXT: Obrigado por toda a sua ajuda hoje! Não teríamos conseguido sem você.
 
 RESOURCE ID: quest_special_dialogue_gofest_4_4
 TEXT: Este fim de semana vai ficar na memória!
+
+RESOURCE ID: quest_special_dialogue_grubbin_1_0
+TEXT: Oi, %PLAYERNAME%!
+
+RESOURCE ID: quest_special_dialogue_grubbin_1_1
+TEXT: Imagino que você tenha notado o influxo de Grubbin na área hoje.
+
+RESOURCE ID: quest_special_dialogue_grubbin_1_2
+TEXT: Esses Pokémon cospem fios grudentos para confundir os seus oponentes, então aconselho não os irritar!
+
+RESOURCE ID: quest_special_dialogue_grubbin_1_3
+TEXT: Grubbin normalmente vivem de baixo da terra, mas... o que será que os atraiu pra superfície hoje?
+
+RESOURCE ID: quest_special_dialogue_grubbin_1_4
+TEXT: Talvez só sejam mais fortes em equipe. Os inimigos naturais de Grubbin às vezes preferem fugir a arriscar um encontro com as poderosas mandíbulas do Pokémon Larva, ou pior, um choque inesperado!
+
+RESOURCE ID: quest_special_dialogue_grubbin_1_4_0
+TEXT: Você voltou, %PLAYERNAME%! Descobriu por que tantos Grubbin apareceram na superfície hoje?
+
+RESOURCE ID: quest_special_dialogue_grubbin_1_5
+TEXT: Eu também ouvi dizer que Grubbin adora tomar a seiva doce das árvores. Você acha que tem o gosto parecido com suco da Fruta Caxí?
+
+RESOURCE ID: quest_special_dialogue_grubbin_1_6
+TEXT: Talvez eu mesmo devesse experimentar... sabe, tudo pelo bem da ciência!
+
+RESOURCE ID: quest_special_dialogue_grubbin_1_7
+TEXT: Grubbin é mesmo um Pokémon fascinante, mas espere só até ver sua Evolução.
+
+RESOURCE ID: quest_special_dialogue_grubbin_1_8
+TEXT: Por que você não evolui um Grubbin, %PLAYERNAME%?
+
+RESOURCE ID: quest_special_dialogue_grubbin_2_0
+TEXT: Que Charjabug legal, %PLAYERNAME%!
+
+RESOURCE ID: quest_special_dialogue_grubbin_2_1
+TEXT: Charjabug podem armazenar eletricidade em seus corpos para usar mais tarde. Aparentemente, é companhia popular em acampamentos!
+
+RESOURCE ID: quest_special_dialogue_grubbin_2_2
+TEXT: Também gostam de se enterrar sob folhas caídas e comer a rica camada superficial do solo.
+
+RESOURCE ID: quest_special_dialogue_grubbin_2_3
+TEXT: Tome cuidado ao sair por aí, %PLAYERNAME%... você e Charjabug podem ficar igualmente chocados se você pisar em um!
+
+RESOURCE ID: quest_special_dialogue_grubbin_2_4
+TEXT: Ninguém gosta de ser incomodado durante a refeição.
+
+RESOURCE ID: quest_special_dialogue_grubbin_2_5
+TEXT: Enfim, com certeza, você vai se impressionar com o poder elétrico de Charjabug. Suas mandíbulas podem até ser menores que as de Grubbin, mas não se engane achando que não apresentam perigo!
+
+RESOURCE ID: quest_special_dialogue_grubbin_2_6
+TEXT: E sabe, Charjabug também pode evoluir. Eu mesmo nunca vi a sua Evolução, mas dizem que é uma visão e tanto!
+
+RESOURCE ID: quest_special_dialogue_grubbin_2_7
+TEXT: Por que não tenta evoluir seu Charjabug, %PLAYERNAME%?
+
+RESOURCE ID: quest_special_dialogue_grubbin_3_0
+TEXT: Uau! É Vikavolt!
+
+RESOURCE ID: quest_special_dialogue_grubbin_3_1
+TEXT: Quem poderia imaginar que um pequeno Pokémon como Grubbin pudesse evoluir para esta criatura alada impressionante?
+
+RESOURCE ID: quest_special_dialogue_grubbin_3_2
+TEXT: Vikavolt acumula eletricidade no seu abdômen, depois a focaliza na sua mandíbula e a dispara em raios concentrados.
+
+RESOURCE ID: quest_special_dialogue_grubbin_3_3
+TEXT: Também são Pokémon conhecidos por carregarem Charjabug para usar como bateria reserva, permitindo que Vikavolt consiga disparar ataques totalmente energizados rapidamente.
+
+RESOURCE ID: quest_special_dialogue_grubbin_3_4
+TEXT: Parece um pouco intimidador, mas também é um belo exemplo de dois Pokémon trabalhando em conjunto. Isso é algo inspirador, se quer saber!
+
+RESOURCE ID: quest_special_dialogue_grubbin_3_5
+TEXT: Quem sabe... talvez seu Pokémon Vikavolt funcione como uma espécie de bateria e manterá VOCÊ sempre com a energia lá pra cima enquanto se aventuram juntos! Mal posso esperar para ouvir sobre isso. Até a próxima, %PLAYERNAME%!
 
 RESOURCE ID: quest_special_dialogue_gt_0_0
 TEXT: Olá, %PLAYERNAME%! Que bom que você está aqui. Algo estranho está acontecendo e preciso da sua ajuda para investigar.
@@ -57707,7 +58508,7 @@ RESOURCE ID: quest_special_dialogue_roset_3_6
 TEXT: Até a próxima, e vamos nessa!
 
 RESOURCE ID: quest_special_dialogue_rue_0_0
-TEXT: Olá %PLAYERNAME%! É bom ver você por aqui.
+TEXT: Olá, %PLAYERNAME%! Que bom ver você de novo.
 
 RESOURCE ID: quest_special_dialogue_rue_0_1
 TEXT: Já faz um tempo, né? Tenho certeza de que suas habilidades estão tão afiadas como sempre, mas, mesmo assim, não faria mal darmos uma aquecida.
@@ -57929,7 +58730,7 @@ RESOURCE ID: quest_special_dialogue_season12_c_1_0
 TEXT: Ótima escolha! Quaxly é um Pokémon metódico e sincero. Talvez você seja o tipo de Treinador que gosta das coisas bem arrumadinhas. Se esse for o caso, estar ao seu lado é o lugar perfeito para Quaxly!
 
 RESOURCE ID: quest_special_dialogue_season12_c_1_1
-TEXT: As penas de Quaxly secretam um gel que repete água e sujeira, então seu corpo está sempre lustroso. E dê só uma olhada no penteado dele! Que luxo!
+TEXT: As penas de Quaxly secretam um gel que repele água e sujeira, então seu corpo está sempre lustroso. E dê só uma olhada no penteado dele! Que luxo!
 
 RESOURCE ID: quest_special_dialogue_season12_c_1_2
 TEXT: Até fiquei com vontade de arrumar as coisas por aqui. Enquanto eu estiver fazendo isso, por que não dá uma volta e procura por Pokémon de tipo Água, %PLAYERNAME%?
@@ -60396,6 +61197,24 @@ TEXT: Você tem {0} dias para completar esta pesquisa especial
 RESOURCE ID: quest_time_remaining_day_singular
 TEXT: Você tem {0} dia para completar esta pesquisa especial
 
+RESOURCE ID: quest_timed_dialogue_cornet_0_0
+TEXT: Olá, %PLAYERNAME%! Estou vendo que você também foi pego pela mania dos detetives. Aqueles Pikachu estão muito fofinhos de chapéu, né?
+
+RESOURCE ID: quest_timed_dialogue_cornet_0_1
+TEXT: E é nesse espírito de investigação que eu preparei um jogo de adivinhação que chamo de Pokémon suspeitos!
+
+RESOURCE ID: quest_timed_dialogue_cornet_0_2
+TEXT: Eu vou te dar algumas pistas e você tem que adivinhar de qual Pokémon eu estou falando. Vamos lá!
+
+RESOURCE ID: quest_timed_dialogue_cornet_0_3
+TEXT: Este Pokémon é conhecido por seus detalhes esverdeados, mas é um tipo de Pokémon que não tem aparecido por aqui recentemente.
+
+RESOURCE ID: quest_timed_dialogue_cornet_0_4
+TEXT: Também é ardiloso. Você pode dizer que ele não é o que parece ser!
+
+RESOURCE ID: quest_timed_dialogue_cornet_0_5
+TEXT: O que você acha, %PLAYERNAME%? Alguma ideia? Se o seu palpite estiver certo, você poderá receber os parabéns de um dos Pokémon locais!
+
 RESOURCE ID: quest_title_af2022
 TEXT: Dia da Mentira ’ 2-Oh?-22
 
@@ -60827,6 +61646,21 @@ TEXT: Festival de Pokémon GO 2018 (4/5)
 
 RESOURCE ID: quest_title_gofest_4
 TEXT: Festival de Pokémon GO 2018 (5/5)
+
+RESOURCE ID: quest_title_grubbin
+TEXT: Ligado na tomada
+
+RESOURCE ID: quest_title_grubbin_0
+TEXT: Ligado na tomada (1/4)
+
+RESOURCE ID: quest_title_grubbin_1
+TEXT: Ligado na tomada (2/4)
+
+RESOURCE ID: quest_title_grubbin_2
+TEXT: Ligado na tomada (3/4)
+
+RESOURCE ID: quest_title_grubbin_3
+TEXT: Ligado na tomada (4/4)
 
 RESOURCE ID: quest_title_gt
 TEXT: O grande Gastly
@@ -61801,8 +62635,7 @@ RESOURCE ID: quest_title_roset_3
 TEXT: A vida em cor de Roselia (4/4)
 
 RESOURCE ID: quest_title_rue
-TEXT: 
-Vamos dar uma aquecida
+TEXT: Vamos dar uma aquecida
 
 RESOURCE ID: quest_title_sandt
 TEXT: Arenoso e congelante
@@ -62785,6 +63618,12 @@ TEXT: Transferir {0} Pokémon de tipo Aço.
 RESOURCE ID: quest_transfer_type_water_plural
 TEXT: Transferir {0} Pokémon de tipo Água.
 
+RESOURCE ID: quest_travel_routes_km_plural
+TEXT: Percorrer {0} km enquanto explora Rotas
+
+RESOURCE ID: quest_travel_routes_meters_plural
+TEXT: Percorrer {0} m enquanto explora Rotas
+
 RESOURCE ID: quest_under_investigation
 TEXT: O Professor Willow está atualmente realizando uma investigação sobre esta pesquisa. Confira mais detalhes em breve!
 
@@ -62940,6 +63779,9 @@ TEXT: Ganhar 1 doce caminhando com seu companheiro.
 
 RESOURCE ID: quest_walk_eevee_for_evo
 TEXT: Caminhar 10 km com Eevee como seu companheiro para receber doce.
+
+RESOURCE ID: quest_walk_hgrowlithe_header_0
+TEXT: Caudas da aventura
 
 RESOURCE ID: quest_walk_km
 TEXT: Caminhar {0} km.
@@ -68530,22 +69372,22 @@ RESOURCE ID: route_cancel_description_same_route
 TEXT: Se reiniciar esta Rota, você perderá seu progresso atual.
 
 RESOURCE ID: route_cancel_title
-TEXT: Tem certeza de que deseja iniciar uma nova Rota?
+TEXT: Deseja iniciar uma nova Rota?
 
 RESOURCE ID: route_cancel_title_same_route
-TEXT: Tem certeza de que deseja reiniciar esta Rota?
+TEXT: Deseja reiniciar esta Rota?
 
 RESOURCE ID: route_change_endpoint_error
 TEXT: Erro ao definir ponto final
 
 RESOURCE ID: route_collapsed_show_more
-TEXT: SHOW MORE {0}
+TEXT: MOSTRAR MAIS {0}
 
 RESOURCE ID: route_community_plays_label
 TEXT: VIAGENS COMUNITÁRIAS
 
 RESOURCE ID: route_completion_congratulation
-TEXT: Congratulations!
+TEXT: Parabéns!
 
 RESOURCE ID: route_completion_explored_count_plural
 TEXT: Você explorou esta Rota
@@ -68558,11 +69400,17 @@ uma vez!
 RESOURCE ID: route_completion_great_job
 TEXT: Bom trabalho!
 
-RESOURCE ID: route_cooldown_toast_hour
-TEXT: You must wait 1 hour to play this route.
+RESOURCE ID: route_completion_loading_error
+TEXT: Verificando progresso da Rota. Tente novamente mais tarde.
 
-RESOURCE ID: route_cooldown_toast_hours
-TEXT: You must wait {0} hours to play this route.
+RESOURCE ID: route_completion_modal_description
+TEXT: Células de Zygarde não aparecerão mais quando você completar esta Rota.
+
+RESOURCE ID: route_completion_modal_title
+TEXT: Tem certeza de que deseja completar esta Rota?
+
+RESOURCE ID: route_completion_out_of_range_error
+TEXT: Cannot end path recording because you are not at the end point.
 
 RESOURCE ID: route_cooldown_toast_hours_and_minute
 TEXT: Você deve esperar {0} hora(s) e {1} minuto(s) para seguir esta Rota.
@@ -68571,7 +69419,7 @@ RESOURCE ID: route_create_action_menu_header
 TEXT: Ações de Rota disponíveis:
 
 RESOURCE ID: route_create_play_conflict_error_a
-TEXT: Não é possível seguir uma Rota enquanto a criação de Rota está em andamento.
+TEXT: Não é possível seguir uma Rota enquanto a criação de Rota está em progresso.
 
 RESOURCE ID: route_create_play_conflict_error_b
 TEXT: Não é possível iniciar a criação de Rota enquanto estiver seguindo uma Rota.
@@ -68594,35 +69442,38 @@ TEXT: Sair da criação de Rota
 RESOURCE ID: route_creation_action_menu_new_endpoint
 TEXT: Escolher novo ponto final
 
+RESOURCE ID: route_creation_action_menu_open_in_map
+TEXT: ABRIR NO MAPA
+
 RESOURCE ID: route_creation_action_menu_pause
-TEXT: 選擇新的終點
+TEXT: Pausar criação de Rota
 
 RESOURCE ID: route_creation_action_menu_pin
 TEXT: Posicionar um alfinete
 
 RESOURCE ID: route_creation_action_menu_resume
-TEXT: Retomar registro de Rota
+TEXT: Voltar à criação de Rota
 
 RESOURCE ID: route_creation_action_menu_select_endpoint
 TEXT: Escolher ponto final
 
 RESOURCE ID: route_creation_active
-TEXT: Você tem uma Rota em andamento.
+TEXT: Você tem uma Rota em progresso.
 
 RESOURCE ID: route_creation_adsync_breadcrumb_notification
-TEXT: Criação de Rota em andamento.
+TEXT: Criação de Rota em progresso.
 
 RESOURCE ID: route_creation_ask_start_description
-TEXT: You are near the start point, so the next step is to record your path. If you aren’t ready, you can pause Route creation and resume it later via the Route section of your Trainer profile.
+TEXT: Você está perto do ponto de início, então o próximo passo é registrar seu caminho. Se não estiver pronto, você pode pausar a criação de Rota e retomá-la mais tarde na seção Rota do seu perfil de Treinador.
 
 RESOURCE ID: route_creation_ask_start_pause_button
 TEXT: Pausar criação de Rota
 
 RESOURCE ID: route_creation_ask_start_title
-TEXT: Are you ready to record the path for your Route?
+TEXT: Está pronto para registrar o caminho da sua Rota?
 
 RESOURCE ID: route_creation_ask_submit
-TEXT: Are you done recording the path for your Route?
+TEXT: Você já terminou de registrar o seu caminho da Rota?
 
 RESOURCE ID: route_creation_ask_submit_cancel
 TEXT: CONTINUE RECORDING
@@ -68631,46 +69482,61 @@ RESOURCE ID: route_creation_ask_submit_confirm
 TEXT: SIM, TERMINEI
 
 RESOURCE ID: route_creation_ask_submit_description
-TEXT: You are near the end point, so you can stop recording your Route path. If you would like to extend your Route, you can continue recording and return to this end point later.
+TEXT: Você está perto do ponto final, então você pode parar de registrar o seu caminho da Rota. Se quiser estender sua Rota, pode continuar registrando e retornar a este ponto final mais tarde.
 
 RESOURCE ID: route_creation_autoexit_toast
 TEXT: A criação de Rota terminou.
 
 RESOURCE ID: route_creation_choose_end_body
-TEXT: Your recorded path must lead from the start point to this end point. You can change the end point at any time.
+TEXT: Seu caminho registrado deve partir do ponto de início e levar até este ponto final. Você pode mudar o ponto final a qualquer momento.
 
 RESOURCE ID: route_creation_choose_end_header
-TEXT: Select a PokéStop or Gym to be your
+TEXT: Selecione uma Poképarada ou Ginásio para ser seu
+
+RESOURCE ID: route_creation_choose_end_header_b
+TEXT: Selecione uma Poképarada ou Ginásio do mapa para ser seu ponto final.
 
 RESOURCE ID: route_creation_choose_end_sub_header
 TEXT: ponto final de Rota.
 
 RESOURCE ID: route_creation_choose_new_end_body
-TEXT: Your recorded path must lead from the start point to this new end point. You can change the end point at any time.
+TEXT: Seu caminho registrado deve partir do ponto de início e levar até este novo ponto final. Você pode mudar o ponto final a qualquer momento.
 
 RESOURCE ID: route_creation_choose_new_end_header
-TEXT: Select a PokéStop or Gym to be your new
+TEXT: Selecione uma Poképarada ou Ginásio para ser seu novo
+
+RESOURCE ID: route_creation_choose_new_end_header_b
+TEXT: Selecione uma Poképarada ou Ginásio do mapa para ser seu novo ponto final.
 
 RESOURCE ID: route_creation_choose_new_end_sub_header
 TEXT: ponto final de Rota.
 
 RESOURCE ID: route_creation_choose_new_start_body
-TEXT: Path recording will begin after you reach this new start point. You cannot change the start point after path recording begins.
+TEXT: O registro do caminho começará assim que chegar neste novo ponto de início. Não é possível mudar o ponto de início depois que o registro do caminho começar.
 
 RESOURCE ID: route_creation_choose_new_start_header
-TEXT: Select a PokéStop or Gym to be your new
+TEXT: Selecione uma Poképarada ou Ginásio para ser seu novo
+
+RESOURCE ID: route_creation_choose_new_start_header_b
+TEXT: Selecione uma Poképarada ou Ginásio do mapa para ser seu novo ponto de início.
 
 RESOURCE ID: route_creation_choose_new_start_sub_header
 TEXT: ponto de início de Rota.
 
 RESOURCE ID: route_creation_choose_start_body
-TEXT: Path recording will begin after you reach this start point. You cannot change the start point after path recording begins.
+TEXT: O registro do caminho começará assim que chegar neste ponto de início. Não é possível mudar o ponto de início depois que o registro do caminho começar.
 
 RESOURCE ID: route_creation_choose_start_header
-TEXT: Select a PokéStop or Gym to be your
+TEXT: Selecione uma Poképarada ou Ginásio para ser seu
+
+RESOURCE ID: route_creation_choose_start_header_b
+TEXT: Selecione uma Poképarada ou Ginásio do mapa para ser seu ponto de início.
 
 RESOURCE ID: route_creation_choose_start_sub_header
 TEXT: ponto de início de Rota.
+
+RESOURCE ID: route_creation_edit_error
+TEXT: Você já editou a submissão desta Rota. As Rotas submetidas só podem ser editadas uma vez.
 
 RESOURCE ID: route_creation_error_invalid_start
 TEXT: A Rota tem um ponto de início inválido.
@@ -68725,6 +69591,12 @@ RESOURCE ID: route_creation_min_distance_values
 TEXT: Extensão mínima: {0}
  Extensão atual: <color=#F2A64B>{1}</color>
 
+RESOURCE ID: route_creation_minimum_length_error_toast
+TEXT: Your path must be at least {0} km to end recording.
+
+RESOURCE ID: route_creation_not_at_start_point_error_toast
+TEXT: Cannot start path recording because you are not at the start point.
+
 RESOURCE ID: route_creation_onboarding_loop_page_desc
 TEXT: Você selecionou a mesma Poképarada como ponto de início e ponto final. Isso criará um circuito de Rota. Para terminar um circuito de Rota, retorne ao seu ponto de início quando estiver pronto para parar de registrar seu caminho.
 
@@ -68751,7 +69623,7 @@ Alfinetes devem ser posicionados:
 2. A pelo menos {1} metros de distância de outros alfinetes.
 
 RESOURCE ID: route_creation_onboarding_page_4
-TEXT: Rotas criadas são enviadas para a Niantic para serem revisadas e aceitas Se sua Rota for rejeitada, você pode tentar editar e reenviar sua Rota para revisão.
+TEXT: Rotas criadas são submetidas para a Niantic para serem revisadas e aceitas. Se sua Rota for rejeitada, você pode tentar editar e resubmeter sua Rota para revisão.
 
 Agora é hora de criar sua Rota!
 
@@ -68776,6 +69648,39 @@ TEXT: Tem certeza de que quer pausar a criação de Rota?
 RESOURCE ID: route_creation_pause_message
 TEXT: Seu progresso será salvo. Volte a este local para retomar o registro do caminho para a sua Rota.
 
+RESOURCE ID: route_creation_point_selection_skip_button
+TEXT: MAIS TARDE
+
+RESOURCE ID: route_creation_recording_controls_button_end
+TEXT: END
+
+RESOURCE ID: route_creation_recording_controls_button_pause
+TEXT: PAUSE
+
+RESOURCE ID: route_creation_recording_controls_button_resume
+TEXT: RESUME
+
+RESOURCE ID: route_creation_recording_controls_button_start
+TEXT: START RECORDING
+
+RESOURCE ID: route_creation_recording_controls_title
+TEXT: Path Recording:
+
+RESOURCE ID: route_creation_recording_end_toast
+TEXT: You are at the Route end point. Open the path recording page to finish recording your Route path.
+
+RESOURCE ID: route_creation_recording_start_toast
+TEXT: You are at the Route start point. Open the path recording page to begin recording your Route path.
+
+RESOURCE ID: route_creation_recording_state_active
+TEXT: Active
+
+RESOURCE ID: route_creation_recording_state_not_started
+TEXT: Not Started
+
+RESOURCE ID: route_creation_recording_state_paused
+TEXT: Paused
+
 RESOURCE ID: route_creation_resume_button
 TEXT: RETOMAR CRIAÇÃO DE ROTA
 
@@ -68791,11 +69696,11 @@ TEXT: SELECIONAR NOVO PONTO FINAL
 RESOURCE ID: route_creation_selected_points_header
 TEXT: Pontos de início e final selecionados:
 
+RESOURCE ID: route_creation_start_record_button
+TEXT: Iniciar registro
+
 RESOURCE ID: route_creation_start_recording_error_too_far
 TEXT: Não é possível iniciar o registro. Você não está perto do seu ponto de início.
-
-RESOURCE ID: route_creation_submit
-TEXT: DEBUG CREATION SUBMIT
 
 RESOURCE ID: route_creator_label
 TEXT: CRIADOR DE ROTA
@@ -68819,8 +69724,11 @@ TEXT: DELETAR ROTA
 RESOURCE ID: route_detail_rejected_description
 TEXT: Esta Rota foi rejeitada.
 
+RESOURCE ID: route_detail_under_review_delete_button
+TEXT: DELETAR SUBMISSÃO
+
 RESOURCE ID: route_detail_under_review_withdraw_button
-TEXT: RETIRAR ENVIO
+TEXT: RETIRAR SUBMISSÃO
 
 RESOURCE ID: route_details_end_label
 TEXT: Ponto final:
@@ -68849,9 +69757,6 @@ TEXT: Popular
 RESOURCE ID: route_distance_walked_label
 TEXT: Distância percorrida na Rota
 
-RESOURCE ID: route_edit_button
-TEXT: CONTINUE EDITING
-
 RESOURCE ID: route_edit_deleted_toast
 TEXT: Você deletou {0}
 
@@ -68871,16 +69776,16 @@ RESOURCE ID: route_edit_resubmit_label
 TEXT: EDITAR E REENVIAR
 
 RESOURCE ID: route_edit_submission_label
-TEXT: EDITAR ENVIO
+TEXT: EDITAR SUBMISSÃO
 
 RESOURCE ID: route_edit_warning_button
 TEXT: VER OUTRA ROTA
 
 RESOURCE ID: route_edit_warning_description
-TEXT: Não é possível editar um envio de Rota quando houver uma Rota em andamento. Se você deseja editar seu envio, complete ou descarte a Rota em andamento.
+TEXT: Não é possível editar uma Rota que foi submetida quando houver uma Rota em progresso. Se você deseja editar sua Rota submetida, complete ou descarte a Rota em progresso.
 
 RESOURCE ID: route_edit_warning_title
-TEXT: Não é possível editar o envio desta Rota
+TEXT: Não é possível editar esta Rota submetida
 
 RESOURCE ID: route_elevation_label
 TEXT: ELEVAÇÃO
@@ -68929,19 +69834,19 @@ RESOURCE ID: route_enter_description_context_page
 TEXT: Enter a description that tells other Trainers what your Route is about.
 
 RESOURCE ID: route_enter_description_context_title
-TEXT: Route Description
+TEXT: Descrição da Rota
 
 RESOURCE ID: route_enter_title_context_page
 TEXT: Enter the title that other Trainers will see when they search for a Route.
 
 RESOURCE ID: route_enter_title_context_title
-TEXT: Route Title
+TEXT: Nome da Rota
 
 RESOURCE ID: route_error_unable_to_complete_action
 TEXT: Não foi possível concluir a ação solicitada. Tente novamente.
 
 RESOURCE ID: route_error_unable_to_edit
-TEXT: Este envio de Rota não pode ser editado. Atualize sua lista de Rotas Criadas para ver se o status desta Rota foi alterado.
+TEXT: Esta Rota submetida não pode ser editada. Atualize sua lista de Rotas Criadas para ver se o status desta Rota foi alterado.
 
 RESOURCE ID: route_first_play_date_label
 TEXT: Seguida primeiro
@@ -68954,6 +69859,9 @@ TEXT: ROTA
 
 RESOURCE ID: route_general_plural
 TEXT: Rotas
+
+RESOURCE ID: route_header_travel_time_label
+TEXT: ({0} min)
 
 RESOURCE ID: route_km_label
 TEXT: {0} km
@@ -68977,7 +69885,7 @@ RESOURCE ID: route_m_label
 TEXT: {0} m
 
 RESOURCE ID: route_map_out_of_bound_warning
-TEXT: You are too far away from this area
+TEXT: Você está longe demais desta área.
 
 RESOURCE ID: route_medal
 TEXT: Insígnia
@@ -68986,10 +69894,10 @@ RESOURCE ID: route_medals_header
 TEXT: INSÍGNIAS DE ROTA
 
 RESOURCE ID: route_medals_sort_name
-TEXT: Name
+TEXT: Nome
 
 RESOURCE ID: route_medals_sort_recent
-TEXT: Recent
+TEXT: Recentes
 
 RESOURCE ID: route_min_label
 TEXT: {0} min
@@ -68998,16 +69906,16 @@ RESOURCE ID: route_move_closer_to_resume
 TEXT: Retorne ao local onde você pausou para retomar o registro.
 
 RESOURCE ID: route_nearby_help_official_route
-TEXT: The route created by NIANTIC partners has this label.
+TEXT: As Rotas criadas por parceiros da NIANTIC têm este selo.
 
 RESOURCE ID: route_nearby_label
-TEXT: {0} routes
+TEXT: {0} Routes
 
 RESOURCE ID: route_nearby_list_button
 TEXT: VER ROTAS PRÓXIMAS ({0})
 
 RESOURCE ID: route_nearby_list_header
-TEXT: NEARBY ROUTE ({0})
+TEXT: ({0}) ROTAS PRÓXIMAS
 
 RESOURCE ID: route_not_playable
 TEXT: Esta Rota não está disponível no momento.
@@ -69019,10 +69927,10 @@ RESOURCE ID: route_pause_label
 TEXT: PAUSAR ROTA
 
 RESOURCE ID: route_pause_title
-TEXT: Jogo de Rota pausado.
+TEXT: Rota pausada.
 
 RESOURCE ID: route_paused_title
-TEXT: Route Creation Paused
+TEXT: Criação de Rota pausada
 
 RESOURCE ID: route_pin_subtitle
 TEXT: Nome do alfinete:
@@ -69034,7 +69942,7 @@ RESOURCE ID: route_pin_title_edit
 TEXT: Editar nome do alfinete
 
 RESOURCE ID: route_play_adsync_breadcrumb_notification
-TEXT: Rota em andamento.
+TEXT: Rota em progresso.
 
 RESOURCE ID: route_play_badge_earn_description_bronze
 TEXT: Você ganhou uma Insígnia de Rota de bronze!
@@ -69073,6 +69981,9 @@ TEXT: Você está perto do ponto final da Rota!
 RESOURCE ID: route_play_end_point_push_notification_description
 TEXT: Abra o Pokémon GO para completar a Rota.
 
+RESOURCE ID: route_play_header_label
+TEXT: SEGUIDA
+
 RESOURCE ID: route_play_hoo_warning_button
 TEXT: SEGUIR ROTA
 
@@ -69090,6 +70001,9 @@ TEXT: Se você teve um problema, você pode reportar esta Rota para que seja ana
 
 RESOURCE ID: route_play_low_rating_title
 TEXT: Você teve algum problema nesta Rota?
+
+RESOURCE ID: route_play_no_routes_campfire_message
+TEXT: There are no Routes nearby. Browse Campfire to find Routes that are further away.
 
 RESOURCE ID: route_play_pause_confirmation_description
 TEXT: Você deve retornar a este local para retomar esta Rota.
@@ -69131,17 +70045,13 @@ RESOURCE ID: route_pokemon_caught_label
 TEXT: Pokémon capturados na Rota
 
 RESOURCE ID: route_published_list_header
-TEXT: PUBLISHED ROUTES
+TEXT: ROTAS PUBLICADAS
 
 RESOURCE ID: route_published_title
-TEXT: PUBLISHED ROUTES
+TEXT: ROTAS PUBLICADAS
 
 RESOURCE ID: route_quit_label
 TEXT: SAIR DA ROTA
-
-RESOURCE ID: route_rating_description
-TEXT: Did you enjoy this route?
-Can you rate this route?
 
 RESOURCE ID: route_rating_percentage_label
 TEXT: {0}%
@@ -69174,7 +70084,7 @@ RESOURCE ID: route_rejection_action
 TEXT: EDIT AND RESUBMIT
 
 RESOURCE ID: route_rejection_title
-TEXT: This Route was rejected
+TEXT: Esta Rota foi rejeitada.
 
 RESOURCE ID: route_report_body
 TEXT: Quando você reporta uma Rota para a Niantic, analisamos o relatório e tomamos as medidas apropriadas de acordo com nossas políticas. Sua identidade nunca será compartilhada com o criador da Rota. Ao enviar um relatório, você confirma que o mesmo é verdadeiro.
@@ -69207,49 +70117,52 @@ RESOURCE ID: route_reversible_notice_label
 TEXT: Esta Rota pode ser seguida na ordem inversa
 
 RESOURCE ID: route_review_submission_title
-TEXT: Review Your Submission
+TEXT: Revise a sua submissão
 
 RESOURCE ID: route_sort_category
-TEXT: Theme
+TEXT: Tema
 
 RESOURCE ID: route_sort_length
-TEXT: Length
+TEXT: Extensão
 
 RESOURCE ID: route_sort_level
 TEXT: Nível
 
 RESOURCE ID: route_sort_proximity
-TEXT: Nearest
+TEXT: Mais próxima
 
 RESOURCE ID: route_sort_rating
 TEXT: Rating
 
-RESOURCE ID: route_stamps_header
-TEXT: STAMPS
+RESOURCE ID: route_start_distance_label_km
+TEXT: {0} km away
+
+RESOURCE ID: route_start_distance_label_m
+TEXT: {0} m away
 
 RESOURCE ID: route_start_failed
-TEXT: Failed to start route
+TEXT: Falha ao iniciar a Rota.
 
 RESOURCE ID: route_start_toast
-TEXT: {0} started!
+TEXT: {0} começou!
 
 RESOURCE ID: route_status_decayed
 TEXT: Archived
 
 RESOURCE ID: route_status_in_progress
-TEXT: Not submitted yet
+TEXT: Ainda não foi submetida
 
 RESOURCE ID: route_status_published
-TEXT: Published
+TEXT: Publicada
 
 RESOURCE ID: route_status_rejected
-TEXT: Rejected
+TEXT: Rejeitada
 
 RESOURCE ID: route_status_submitted
-TEXT: Under review
+TEXT: Em revisão
 
 RESOURCE ID: route_status_time_stamp_submitted
-TEXT: Submitted on {0}
+TEXT: Submetida em {0}
 
 RESOURCE ID: route_stop_description
 TEXT: Se você sair desta Rota, o progresso atual será perdido. Esta ação não pode ser desfeita.
@@ -69258,7 +70171,7 @@ RESOURCE ID: route_stop_report
 TEXT: Se você teve algum problema com esta Rota que impediu de completá-la, você poderá reportar o problema  <color=#{0}>aqui</color>.
 
 RESOURCE ID: route_stop_start_new_button
-TEXT: Start new route
+TEXT: COMEÇAR NOVA ROTA
 
 RESOURCE ID: route_stop_title
 TEXT: Tem certeza de que quer sair desta Rota?
@@ -69276,43 +70189,37 @@ RESOURCE ID: route_submission_abandon_header
 TEXT: Tem certeza de que quer sair da criação de Rota?
 
 RESOURCE ID: route_submission_add_description
-TEXT: Add Route Description
+TEXT: Adicionar descrição da Rota
 
 RESOURCE ID: route_submission_add_description_placeholder
 TEXT: Please describe the journey, history, or background of this Route.
 
 RESOURCE ID: route_submission_add_info_title
-TEXT: Add Route Information
+TEXT: Adicionar informações da Rota
 
 RESOURCE ID: route_submission_add_tags
 TEXT: Adicione até {0} tags de Rota (opcional)
 
 RESOURCE ID: route_submission_add_title
-TEXT: Add Route Title
-
-RESOURCE ID: route_submission_bad_desc
-TEXT: Your description contains inappropriate or prohibited content
+TEXT: Adicionar nome da Rota
 
 RESOURCE ID: route_submission_bad_image
-TEXT: Route image is not valid
-
-RESOURCE ID: route_submission_bad_name
-TEXT: Your title contains inappropriate or prohibited content
+TEXT: A foto da Rota não é válida.
 
 RESOURCE ID: route_submission_badge_image_prompt
-TEXT: Selecione uma imagem para sua Insígnia de Rota:
+TEXT: Selecione uma foto para sua Insígnia de Rota:
 
 RESOURCE ID: route_submission_color_tab_name
-TEXT: COLOR
+TEXT: COR
 
 RESOURCE ID: route_submission_description
-TEXT: Description
+TEXT: Descrição
 
 RESOURCE ID: route_submission_edit_description
 TEXT: Pode levar mais tempo para que esta Rota seja revisada se você optar por fazer alterações agora.
 
 RESOURCE ID: route_submission_edit_title
-TEXT: Tem certeza de que deseja editar este envio?
+TEXT: Tem certeza de que deseja editar esta submissão?
 
 RESOURCE ID: route_submission_medal_creation_title
 TEXT: Criação de Insígnia
@@ -69321,10 +70228,10 @@ RESOURCE ID: route_submission_medals
 TEXT: Insígnias
 
 RESOURCE ID: route_submission_must_add_description
-TEXT: Please enter a valid description to proceed
+TEXT: Insira uma descrição válida para prosseguir.
 
 RESOURCE ID: route_submission_must_add_title
-TEXT: Please enter a valid title to proceed
+TEXT: Insira um nome válido para prosseguir.
 
 RESOURCE ID: route_submission_name_placeholder
 TEXT: Nome da minha Rota
@@ -69338,16 +70245,16 @@ RESOURCE ID: route_submission_path
 TEXT: Caminho
 
 RESOURCE ID: route_submission_photo_tab_name
-TEXT: PHOTO
+TEXT: FOTO
 
 RESOURCE ID: route_submission_preview_title
-TEXT: Pré-visualização de envio
+TEXT: Pré-visualização de submissão
 
 RESOURCE ID: route_submission_resubmit_no_change_error
 TEXT: Please modify the title and/or description to resubmit this Route.
 
 RESOURCE ID: route_submission_result_invalid_route
-TEXT: Route submission error. Please try again later.
+TEXT: Erro na submissão da Rota. Tente novamente mais tarde.
 
 RESOURCE ID: route_submission_result_matches_rejection
 TEXT: A Rota corresponde a uma Rota rejeitada anteriormente.
@@ -69371,13 +70278,13 @@ RESOURCE ID: route_submission_result_reject_reasons_secondary
 TEXT: Você pode editar e reenviar esta Rota.
 
 RESOURCE ID: route_submission_result_reject_title
-TEXT: Seu envio de Rota foi rejeitado.
+TEXT: A sua Rota foi rejeitada.
 
 RESOURCE ID: route_submission_result_success_description
 TEXT: Você pode verificar o status do seu envio na seção de Rotas do seu perfil de Treinador a qualquer momento. Você será notificado quando uma decisão for tomada.
 
 RESOURCE ID: route_submission_result_success_title
-TEXT: Sua Rota foi enviada para análise com sucesso!
+TEXT: Sua Rota foi submetida para revisão com sucesso!
 
 RESOURCE ID: route_submission_result_unavailiable
 TEXT: Route submission unavailable. Please try again later.
@@ -69386,7 +70293,7 @@ RESOURCE ID: route_submission_result_unknown_error
 TEXT: Unknown error in the Route submission process. Please try again later.
 
 RESOURCE ID: route_submission_reversible
-TEXT: Allow this Route to be followed in reverse.
+TEXT: Permitir que essa Rota seja seguida no sentido inverso.
 
 RESOURCE ID: route_submission_review_adjust
 TEXT: FAZER AJUSTES
@@ -69407,7 +70314,7 @@ RESOURCE ID: route_submission_select_color_prompt
 TEXT: Selecione uma cor de cabeçalho para sua Insígnia de Rota:
 
 RESOURCE ID: route_submission_show_name
-TEXT: Show my Trainer name as the Route Creator in the published Route details.
+TEXT: Mostrar meu apelido de Treinador na descrição pública desta Rota.
 
 RESOURCE ID: route_submission_start_title
 TEXT: Nomeie sua Rota
@@ -69422,16 +70329,19 @@ RESOURCE ID: route_submission_status_rejection
 TEXT: Rejected {0}
 
 RESOURCE ID: route_submission_status_review
-TEXT: Enviadas: {0}
+TEXT: Submetida em {0}
+
+RESOURCE ID: route_submission_tag_placeholder
+TEXT: Selecionar uma tag
 
 RESOURCE ID: route_submission_title
-TEXT: Title
+TEXT: Nome
 
 RESOURCE ID: route_submission_write_later
-TEXT: Write Later
+TEXT: Escrever mais tarde
 
 RESOURCE ID: route_submission_write_now
-TEXT: Write Now
+TEXT: Escrever agora
 
 RESOURCE ID: route_submit_label
 TEXT: ENVIAR
@@ -69499,9 +70409,6 @@ TEXT: Acessível a cadeiras de rodas
 RESOURCE ID: route_tags_label
 TEXT: TAGS
 
-RESOURCE ID: route_times_label
-TEXT: {0} times
-
 RESOURCE ID: route_total_activity_label
 TEXT: ATIVIDADE TOTAL
 
@@ -69514,29 +70421,32 @@ TEXT: Total de vezes seguida
 RESOURCE ID: route_travel_reverse_button
 TEXT: DIREÇÃO INVERSA
 
+RESOURCE ID: route_under_review_deletion_confirm_title
+TEXT: Tem certeza de que deseja deletar a submissão desta Rota?
+
 RESOURCE ID: route_under_review_description
-TEXT: Esta Rota está sob análise.
+TEXT: Esta Rota está em revisão.
 
 RESOURCE ID: route_under_review_withdraw_confirm_description
-TEXT: Esta ação não pode ser desfeita. Essa Rota retornará a um estado em andamento se você prosseguir. Você pode editar e reenviar essa Rota para revisão posteriormente.
+TEXT: Esta ação não pode ser desfeita. Essa Rota voltar a ser "em progresso" se você prosseguir. Você pode editar e reenviar essa Rota para revisão posteriormente.
 
 RESOURCE ID: route_under_review_withdraw_confirm_title
 TEXT: Tem certeza de que deseja retirar esta Rota da revisão?
 
 RESOURCE ID: route_under_review_withdraw_fail_description
-TEXT: Você tem outra Rota em andamento, então não pode retirar esta Rota do envio no momento. Complete sua Rota atual e retorne a esta página para tentar novamente.
+TEXT: Você tem outra Rota em progresso, então não pode remover a submissão desta Rota no momento. Complete sua Rota atual e retorne a esta página para tentar novamente.
 
 RESOURCE ID: route_under_review_withdraw_fail_title
 TEXT: Não foi possível retirar essa Rota da revisão
 
 RESOURCE ID: route_under_review_withdraw_success_description
-TEXT: Essa Rota retornou a um estado em andamento. Você já pode editar e reenviar esta Rota novamente através da seção de Rotas do seu perfil de Treinador.
+TEXT: Essa Rota agora está em progresso. Você já pode editar e resubmeter esta Rota novamente através da seção de Rotas do seu perfil de Treinador.
 
 RESOURCE ID: route_under_review_withdraw_success_title
 TEXT: Esta Rota foi retirada da revisão com sucesso.
 
 RESOURCE ID: route_unsubmit_label
-TEXT: CANCELAR ENVIO DE ROTA
+TEXT: CANCELAR SUBMISSÃO DE ROTA
 
 RESOURCE ID: route_validation_description_length
 TEXT: Route descriptions cannot exceed {0} characters.
@@ -69545,10 +70455,7 @@ RESOURCE ID: route_validation_title_length
 TEXT: Route titles cannot exceed {0} characters.
 
 RESOURCE ID: route_waiting_for_data
-TEXT: Waiting for data to load
-
-RESOURCE ID: route_walk_button
-TEXT: TRAVEL
+TEXT: Waiting for data to load.
 
 RESOURCE ID: route_walking_follow_path
 TEXT: Siga o caminho até o ponto final da Rota para completá-la.
@@ -69578,13 +70485,16 @@ RESOURCE ID: routes_current_end_point_warning
 TEXT: Este é o seu ponto final atual.
 
 RESOURCE ID: routes_current_path_length
-TEXT: EXTENSÃO DA ROTA ATUAL:
+TEXT: EXTENSÃO ATUAL DA ROTA:
 
 RESOURCE ID: routes_current_start_point_warning
 TEXT: Este é o seu ponto de início atual.
 
 RESOURCE ID: routes_end_at
 TEXT: Terminar em:
+
+RESOURCE ID: routes_nearby_callout
+TEXT: Há uma Rota por perto!
 
 RESOURCE ID: routes_nearby_notification
 TEXT: Há Rotas por perto!
@@ -69937,23 +70847,173 @@ TEXT: Safári urbano: Seul 2023 (2/3)
 RESOURCE ID: safari_city_2023_seoul_title_02
 TEXT: Safári urbano: Seul 2023 (3/3)
 
+RESOURCE ID: safari_city_leave_behind_dialog_00_00
+TEXT: Oi, %PLAYERNAME%. Que ótimo te ver por aqui! Essa é uma das minhas cidades preferidas e ela é bem popular entre os outros Treinadores de Pokémon também!
+
+RESOURCE ID: safari_city_leave_behind_dialog_00_01
+TEXT: Na verdade, teve uma grande reunião de Treinadores aqui um tempo atrás, assim como estavam aparecendo algumas espécies de Pokémon que não são comumente encontradas na área.
+
+RESOURCE ID: safari_city_leave_behind_dialog_00_02
+TEXT: E, como não poderia deixar de ser, esses Pokémon também estão aparecendo agora! Vamos ver se conseguimos encontrá-los.
+
+RESOURCE ID: safari_city_leave_behind_dialog_01_00
+TEXT: Tudo pronto para explorar a cidade, %PLAYERNAME%?
+
+RESOURCE ID: safari_city_leave_behind_dialog_01_01
+TEXT: Esse é o espírito da coisa! Vamos ao que interessa.
+
+RESOURCE ID: safari_city_leave_behind_dialog_01_02
+TEXT: Podemos começar conferindo aquelas Poképaradas ali.
+
+RESOURCE ID: safari_city_leave_behind_dialog_02_00
+TEXT: Bom trabalho, %PLAYERNAME%! Esse é um Pokémon que você não costuma ver por aqui.
+
+RESOURCE ID: safari_city_leave_behind_dialog_02_01
+TEXT: Curiosamente, eu me lembro de ter visto ele por aqui durante o encontro anterior de Treinadores que mencionei.
+
+RESOURCE ID: safari_city_leave_behind_dialog_02_02
+TEXT: Que outros Pokémon você acha que vamos ver hoje?
+
+RESOURCE ID: safari_city_leave_behind_dialog_03_00
+TEXT: Uau! Ótimo trabalho, %PLAYERNAME%.
+
+RESOURCE ID: safari_city_leave_behind_dialog_03_01
+TEXT: Fazia tempo que eu não via esse Pokémon! Você está em um ritmo bom hoje.
+
+RESOURCE ID: safari_city_leave_behind_dialog_03_02
+TEXT: Vamos ver que outros Pokémon estão por perto?
+
+RESOURCE ID: safari_city_leave_behind_dialog_04_00
+TEXT: Caramba!
+
+RESOURCE ID: safari_city_leave_behind_dialog_04_01
+TEXT: Esse Pokémon também foi visto durante a reunião anterior!
+
+RESOURCE ID: safari_city_leave_behind_dialog_04_02
+TEXT: Talvez tenha se divertido tanto que ficou por perto para conhecer mais Treinadores...
+
+RESOURCE ID: safari_city_leave_behind_dialog_04_03
+TEXT: Seja qual for o caso, ele não poderia ter encontrado um Treinador mais legal, %PLAYERNAME%.
+
+RESOURCE ID: safari_city_leave_behind_dialog_05_00
+TEXT: Bom trabalho, %PLAYERNAME%! Tenho certeza de que o Pokémon se divertirá muito se aventurando com você.
+
+RESOURCE ID: safari_city_leave_behind_dialog_05_01
+TEXT: Ufa! Estamos nos movimentando muito hoje, né? Vamos fazer só mais uma parada antes do nosso merecido descanso.
+
+RESOURCE ID: safari_city_leave_behind_dialog_05_02
+TEXT: O que você acha?
+
+RESOURCE ID: safari_city_leave_behind_dialog_06_00
+TEXT: Concluímos nossa tour da vez, %PLAYERNAME%. Obrigado por participar dessa pequena aventura!
+
+RESOURCE ID: safari_city_leave_behind_dialog_06_01
+TEXT: Sou sempre grato pela chance de pesquisar Pokémon ao lado de Treinadores habilidosos como você.
+
+RESOURCE ID: safari_city_leave_behind_dialog_06_02
+TEXT: Também, não tem como não ficar entusiasmado diante de tanta paixão! Então, da próxima vez que tiver uma oportunidade de pesquisa, tenho certeza de que vou te ver lá.
+
+RESOURCE ID: safari_city_leave_behind_dialog_06_03
+TEXT: Até a próxima, %PLAYERNAME%!
+
+RESOURCE ID: safari_city_leave_behind_dialog_06_04
+TEXT: Vamos nessa!
+
 RESOURCE ID: safari_city_leave_behind_title_barcelona
-TEXT: Safári urbano: Barcelona - A jornada continua
+TEXT: Safári urbano de Barcelona: A jornada continua
 
 RESOURCE ID: safari_city_leave_behind_title_barcelona_00
-TEXT: Safári urbano: Barcelona - A jornada continua (1/7)
+TEXT: Safári urbano de Barcelona: A jornada continua (1/1)
 
 RESOURCE ID: safari_city_leave_behind_title_mxc
-TEXT: Safári urbano: Cidade do México - A jornada continua
+TEXT: Safári urbano da Cidade do México: A jornada continua
 
 RESOURCE ID: safari_city_leave_behind_title_mxc_00
-TEXT: Safári urbano: Cidade do México - A jornada continua (1/7)
+TEXT: Safári urbano da Cidade do México: A jornada continua (1/1)
 
 RESOURCE ID: safari_city_leave_behind_title_seoul
-TEXT: Safári urbano: Seul - A jornada continua
+TEXT: Safári urbano de Seul: A jornada continua
 
 RESOURCE ID: safari_city_leave_behind_title_seoul_00
-TEXT: Safári urbano: Seul - A jornada continua (1/7)
+TEXT: Safári urbano de Seul: A jornada continua (1/1)
+
+RESOURCE ID: safari_city_sr_dialog_00_00
+TEXT: Olá, %PLAYERNAME%! Está com tudo pronto para um dia agitado de pesquisa na cidade?
+
+RESOURCE ID: safari_city_sr_dialog_00_01
+TEXT: Tenho certeza de que você conhecerá vários Pokémon, mas primeiro eu gostaria de te apresentar um em particular: um intrépido Eevee!
+
+RESOURCE ID: safari_city_sr_dialog_00_02
+TEXT: Um charme, né? Algo me diz que vocês vão formar uma equipe excelente. Agora, vão lá e comecem sua aventura juntos!
+
+RESOURCE ID: safari_city_sr_dialog_01_00_backup
+TEXT: Excelente escolha, %PLAYERNAME%.
+
+RESOURCE ID: safari_city_sr_dialog_01_00_blanche
+TEXT: Uma escolha sábia, %PLAYERNAME%.
+
+RESOURCE ID: safari_city_sr_dialog_01_00_candela
+TEXT: Escolha firme, %PLAYERNAME%.
+
+RESOURCE ID: safari_city_sr_dialog_01_00_spark
+TEXT: Que escolha épica, %PLAYERNAME%!
+
+RESOURCE ID: safari_city_sr_dialog_01_01_backup
+TEXT: Agora, você e Eevee vão se divertir muito explorando a cidade! Não se esqueça de parar comer de vez em quando e tire fotos para guardar as recordações dessa aventura!
+
+RESOURCE ID: safari_city_sr_dialog_01_01_blanche
+TEXT: Espero que você e Eevee tenham um dia educativo explorando a cidade. Lembre-se de se hidratar e de tirar fotos para documentar suas descobertas.
+
+RESOURCE ID: safari_city_sr_dialog_01_01_candela
+TEXT: Você e Eevee estão prontos para um dia proveitoso de exploração. Só não se esqueça de parar para fazer um lanche e tirar fotos de vez em quando, certo?
+
+RESOURCE ID: safari_city_sr_dialog_01_01_spark
+TEXT: Espero que você e Eevee se divirtam muito passeando pela cidade! Não se esqueça de levar uns lanchinhos, tirar fotos e, principalmente, se hidratar!
+
+RESOURCE ID: safari_city_sr_dialog_01_02_backup
+TEXT: Vou ficar esperando ansiosamente para ouvir tudo sobre suas descobertas quando você voltar.
+
+RESOURCE ID: safari_city_sr_dialog_01_02_blanche
+TEXT: Vou ficar esperando ansiosamente seu relatório final.
+
+RESOURCE ID: safari_city_sr_dialog_01_02_candela
+TEXT: Mal posso esperar pra ouvir tudo sobre suas aventuras depois!
+
+RESOURCE ID: safari_city_sr_dialog_01_02_spark
+TEXT: Me conta tudo quando voltar!
+
+RESOURCE ID: safari_city_sr_dialog_02_00
+TEXT: Você voltou, %PLAYERNAME%! Ah, e você também, Eevee!
+
+RESOURCE ID: safari_city_sr_dialog_02_01
+TEXT: Tiraram boas fotos? Comeram comidas gostosas?
+
+RESOURCE ID: safari_city_sr_dialog_02_02
+TEXT: É muita coisa pra ver, então espero que vocês tenham gostado de explorar juntos! Não tenho dúvidas de que você e Eevee compartilharão muitas jornadas no futuro.
+
+RESOURCE ID: safari_city_sr_dialog_branch_00_backup
+TEXT: Oi de novo, %PLAYERNAME%!
+
+RESOURCE ID: safari_city_sr_dialog_branch_00_blanche
+TEXT: Oi, %PLAYERNAME%. Que bom ver você por aqui.
+
+RESOURCE ID: safari_city_sr_dialog_branch_00_candela
+TEXT: Ei, %PLAYERNAME%! Quanto tempo.
+
+RESOURCE ID: safari_city_sr_dialog_branch_00_spark
+TEXT: E aí, %PLAYERNAME%! Que bom te ver.
+
+RESOURCE ID: safari_city_sr_dialog_branch_01_backup
+TEXT: Qual desses você acha que vai te ajudar a aproveitar ao máximo sua experiência no Safári urbano?
+
+RESOURCE ID: safari_city_sr_dialog_branch_01_blanche
+TEXT: Quero te oferecer algo que pode ajudar na sua pesquisa. Fique à vontade para escolher o que você acha que será mais útil.
+
+RESOURCE ID: safari_city_sr_dialog_branch_01_candela
+TEXT: Por que você não escolhe alguma coisa que te anime?
+
+RESOURCE ID: safari_city_sr_dialog_branch_01_spark
+TEXT: Vamos aumentar o nível hoje. Qual desses te dá uma dose extra de entusiasmo?
 
 RESOURCE ID: safari_event
 TEXT: Zona de Safári de Pokémon GO
@@ -70250,6 +71310,9 @@ TEXT: Girou 1 fotodisco de Poképarada
 RESOURCE ID: screen_friends_title
 TEXT: amigos
 
+RESOURCE ID: screen_party_title
+TEXT: Grupo
+
 RESOURCE ID: screen_title_badge_collection
 TEXT: Insígnias de Ginásio
 
@@ -70457,6 +71520,18 @@ TEXT: Desafio de coleção: Quaxly
 RESOURCE ID: sep23_paldea_collection_challenge_4
 TEXT: Desafio de coleção: Lechonk
 
+RESOURCE ID: sept20_psychic_collection_challenge_1
+TEXT: Desafio Mentes Incríveis: Gardevoir
+
+RESOURCE ID: sept20_psychic_collection_challenge_2
+TEXT: Desafio Mentes Incríveis: Alakazam
+
+RESOURCE ID: sept20_psychic_collection_challenge_3
+TEXT: Desafio Mentes Incríveis: Slowbro
+
+RESOURCE ID: sept20_psychic_collection_challenge_4
+TEXT: Desafio Mentes Incríveis: Medicham
+
 RESOURCE ID: server_lockout
 TEXT: O Pokémon GO está em manutenção no momento. Por favor, tente de novo mais tarde.
 
@@ -70587,6 +71662,18 @@ TEXT: Pedido de amizade aceito
 RESOURCE ID: settings_friend_request_received
 TEXT: Pedido de amizade recebido
 
+RESOURCE ID: settings_friend_requests_header
+TEXT: Permitir solicitações de amizade de:
+
+RESOURCE ID: settings_friend_requests_party_play
+TEXT: Participantes do grupo
+
+RESOURCE ID: settings_friend_requests_raids
+TEXT: Membros do Reide
+
+RESOURCE ID: settings_friends_header
+TEXT: Amigos
+
 RESOURCE ID: settings_general_title
 TEXT: Geral
 
@@ -70689,6 +71776,18 @@ TEXT: Solução de problemas
 RESOURCE ID: settings_palma_troubleshooting_url
 TEXT: https://support.pokemon.com/hc/articles/360001435906
 
+RESOURCE ID: settings_party_play_header
+TEXT: Jogo em Grupo
+
+RESOURCE ID: settings_party_play_location_avatars_toast
+TEXT: Compartilhe a sua localização com o grupo para ver outros Treinadores no mapa.
+
+RESOURCE ID: settings_party_play_location_share
+TEXT: Compartilhar localização com o grupo
+
+RESOURCE ID: settings_party_play_map_avatars
+TEXT: Veja outros Treinadores no mapa.
+
 RESOURCE ID: settings_pbp_check_other_menu
 TEXT: Para acessar seu dispositivo atualmente emparelhado, vá para a tela do Pokémon GO Plus através do menu de Configurações.
 
@@ -70780,7 +71879,7 @@ RESOURCE ID: settings_route_guidance_tip
 TEXT: Receba alertas quando estiver perto do ponto final da Rota atual ou quando aparecerem coisas misteriosas.
 
 RESOURCE ID: settings_save_image_tip
-TEXT: Save image to device when you take snapshot in AR.
+TEXT: Salvar fotos de RA no seu dispositivo.
 
 RESOURCE ID: settings_select_legendary_label
 TEXT: Transferência expandida
@@ -71623,6 +72722,9 @@ TEXT: Pokémon exclusivos do evento de Páscoa
 RESOURCE ID: six_free_raid_passes
 TEXT: Até 6 Passes de Reide gratuitos por dia ao girar fotodiscos de Ginásios
 
+RESOURCE ID: size_xxs_xxl_increase_oddish
+TEXT: Maior chance de encontrar Oddish XXS e XXL durante este evento
+
 RESOURCE ID: size_xxs_xxl_increase_pidgey
 TEXT: Maior chance de encontrar Pidgey XXS e XXL durante este evento!
 
@@ -71765,7 +72867,7 @@ RESOURCE ID: social_add_friend_qr
 TEXT: Código QR
 
 RESOURCE ID: social_add_friend_qr_v2
-TEXT: SCAN QR CODE
+TEXT: ESCANEAR CÓDIGO QR
 
 RESOURCE ID: social_add_friends
 TEXT: Adicionar amigos
@@ -71832,7 +72934,7 @@ RESOURCE ID: social_send_my_code
 TEXT: COMPARTILHAR MEU CÓDIGO
 
 RESOURCE ID: social_send_my_code_v2
-TEXT: SHARE CODE
+TEXT: COMPARTILHAR CÓDIGO
 
 RESOURCE ID: solrock_lunatone_regions
 TEXT: Lunatone e Solrock estão aparecendo em regiões diferentes
@@ -71968,6 +73070,9 @@ TEXT: Gastly selvagens estão aparecendo com mais frequência
 
 RESOURCE ID: spawn_gible
 TEXT: Gible selvagens estão aparecendo com mais frequência
+
+RESOURCE ID: spawn_grubbin
+TEXT: Grubbin selvagens estão aparecendo com mais frequência!
 
 RESOURCE ID: spawn_hoppip
 TEXT: Hoppip selvagens estão aparecendo com mais frequência
@@ -72177,7 +73282,7 @@ RESOURCE ID: special_trades_plus_5
 TEXT: Cinco trocas especiais adicionais por dia
 
 RESOURCE ID: speed_modal_slow_down
-TEXT: Não jogue <i>Pokémon GO</i> enquanto dirige.
+TEXT: Não jogue Pokémon GO enquanto dirige.
 
 RESOURCE ID: speed_modal_too_fast
 TEXT: Está andando muito rápido!
@@ -74580,6 +75685,9 @@ TEXT: Ingressos para a pesquisa especial "O grande Gastly" estão disponíveis n
 RESOURCE ID: ticket_gible
 TEXT: O ingresso para a pesquisa especial "Só uma mordidinha" está disponível na loja
 
+RESOURCE ID: ticket_grubbin
+TEXT: Ingressos para a narrativa de pesquisa especial do Dia Comunitário de Grubbin estão disponíveis na loja
+
 RESOURCE ID: ticket_hoopau
 TEXT: O ingresso para a narrativa de pesquisa especial está disponível na loja
 
@@ -74609,6 +75717,21 @@ TEXT: Ingressos para a pesquisa especial de Clássicos do Dia Comunitário: Mudk
 
 RESOURCE ID: ticket_noibat
 TEXT: O ingresso para a narrativa de pesquisa especial Um barulho ensurdecedor está disponível na loja
+
+RESOURCE ID: ticket_of_treats_title
+TEXT: Ingresso de gostosuras
+
+RESOURCE ID: ticket_of_treats_title_1
+TEXT: Ingresso de gostosuras: Parte 1
+
+RESOURCE ID: ticket_of_treats_title_2
+TEXT: Ingresso de gostosuras: Parte 2
+
+RESOURCE ID: ticket_of_treats_title_3
+TEXT: Ingresso de gostosuras: Parte 3
+
+RESOURCE ID: ticket_of_treats_title_4
+TEXT: Ingresso de gostosuras: Parte 4
 
 RESOURCE ID: ticket_oshawott
 TEXT: Ingressos para a pesquisa especial "De scalchops a espadaquas" estão disponíveis na loja
@@ -74782,6 +75905,33 @@ TEXT: Escolha esta opção para receber tarefas focadas em pegar Pokémon espec�
 RESOURCE ID: timed_quest_adventure_adv23_branch_2_title_key
 TEXT: Aventura de estudo
 
+RESOURCE ID: timed_quest_cornet23_branch_1_button_key
+TEXT: Snivy
+
+RESOURCE ID: timed_quest_cornet23_branch_1_description_key
+TEXT: Escolha esta opção se você acha que o Professor está descrevendo Snivy!
+
+RESOURCE ID: timed_quest_cornet23_branch_1_title_key
+TEXT: Snivy
+
+RESOURCE ID: timed_quest_cornet23_branch_2_button_key
+TEXT: Rowlet
+
+RESOURCE ID: timed_quest_cornet23_branch_2_description_key
+TEXT: Escolha esta opção se você acha que o Professor está descrevendo Rowlet!
+
+RESOURCE ID: timed_quest_cornet23_branch_2_title_key
+TEXT: Rowlet
+
+RESOURCE ID: timed_quest_cornet23_branch_3_button_key
+TEXT: Sudowoodo
+
+RESOURCE ID: timed_quest_cornet23_branch_3_description_key
+TEXT: Escolha esta opção se você acha que o Professor está descrevendo Sudowoodo!
+
+RESOURCE ID: timed_quest_cornet23_branch_3_title_key
+TEXT: Sudowoodo
+
 RESOURCE ID: timed_research
 TEXT: Pesquisa temporária disponível
 
@@ -74816,15 +75966,17 @@ RESOURCE ID: tips_friends_list_no_friends_title
 TEXT: Adicionar amigos
 
 RESOURCE ID: tips_friends_online_status_body
-TEXT: Agora você pode ativar ou desativar o status online usando a alternância Online/Offline na sua lista de amigos.
+TEXT: Você pode ativar o compartilhamento de status online agora ou mais tarde usando o botão Online/Offline na sua lista de amigos.
 
-Seu status online informará às suas amizades quando você estiver disponível para jogar.
+Seu status online indica aos seus amigos quando você está jogando.
 
 RESOURCE ID: tips_friends_online_status_title
 TEXT: Status online
 
 RESOURCE ID: tips_friends_tutorial_add_body
-TEXT: Adicione amigos obtendo o código de Treinador ou escaneando o código QR deles. Você também pode adicionar amigos conectando sua conta ao Facebook na tela de adicionar amigo.
+TEXT: Adicione amigos inserindo o código de Treinador ou escaneando o código QR deles. Quando adicionar um amigo no Pokémon GO, você também se conectará a essa pessoa em todos os jogos da Niantic que vocês jogam.
+
+Você também pode adicionar amigos conectando sua conta ao Facebook, na tela de adicionar amigo.
 
 RESOURCE ID: tips_friends_tutorial_add_title
 TEXT: Adicionar amigos
@@ -75393,6 +76545,9 @@ TEXT: Scan de Poképarada
 RESOURCE ID: titan_upload_wifi_recommended
 TEXT: Wi-fi recomendado
 
+RESOURCE ID: title_hatch_day_azurill
+TEXT: Dia de chocar Azurill
+
 RESOURCE ID: title_hatch_day_riolu
 TEXT: Dia de chocar Riolu
 
@@ -75617,6 +76772,21 @@ TEXT: Zona de Safári de Pokémon GO: Singapura 2022 (desafio de exploração)
 
 RESOURCE ID: tr_sz_taipei_global
 TEXT: Zona de Safári do Pokémon GO: Taipei 2022 (desafio de exploração)
+
+RESOURCE ID: tr_weekend_booster_desc_00
+TEXT: Recompensas de fim de semana, setembro 2023
+
+RESOURCE ID: tr_weekend_booster_desc_01
+TEXT: Recompensas de fim de semana, outubro 2023
+
+RESOURCE ID: tr_weekend_booster_desc_02
+TEXT: Recompensas de fim de semana, novembro 2023
+
+RESOURCE ID: tr_weekend_booster_desc_03
+TEXT: Recompensas de fim de semana, dezembro 2023
+
+RESOURCE ID: tr_weekend_booster_title
+TEXT: Recompensas de fim de semana
 
 RESOURCE ID: trade_action
 TEXT: Trocar
@@ -76137,7 +77307,7 @@ TEXT: Quando estiver a {0} m do caminho da Rota, você ganhará bônus especiais
 
 RESOURCE ID: tutorial_route_play_body_2
 TEXT: • Complete uma Rota pela primeira vez para ganhar uma nova Insígnia de Rota.
-• Jogue uma Rota várias vezes para progredir sua Insígnia e melhorar as recompensas que você pode receber dessa Rota.
+• Siga uma Rota várias vezes para progredir sua Insígnia e melhorar as recompensas que você pode receber dessa Rota.
 
 RESOURCE ID: tutorial_route_play_body_3
 TEXT: 1. Fique perto do caminho da Rota para que seu progresso seja registrado.
@@ -76408,7 +77578,7 @@ RESOURCE ID: unauthorized_device_help_center_link
 TEXT: https://pokemongo.nianticlabs.com/support/unauthorized-device/en
 
 RESOURCE ID: unauthorized_device_lockout
-TEXT: Este dispositivo, sistema operacional ou software não é compatível com <i>Pokémon GO</i>.
+TEXT: Este dispositivo, sistema operacional ou software não é compatível com Pokémon GO.
 
 RESOURCE ID: unauthorized_device_lockout_1
 TEXT: Este dispositivo, sistema operacional ou software não é compatível com Pokémon GO.

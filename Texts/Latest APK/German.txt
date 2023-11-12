@@ -208,6 +208,9 @@ TEXT: Pokémon GO ist besser mit Freunden!
 RESOURCE ID: abi_new_player_onboarding_title_2
 TEXT: Finde Freunde mithilfe deiner Kontaktliste
 
+RESOURCE ID: ability_already_applied
+TEXT: Fähigkeit schon verwendet
+
 RESOURCE ID: about_screen_btn
 TEXT: Über Pokémon GO
 
@@ -3857,8 +3860,14 @@ TEXT: Mützen
 RESOURCE ID: avatar_lock_badge
 TEXT: Wird mit {1}-Medaille-{0} freigeschaltet.
 
+RESOURCE ID: avatar_lock_badge_item_name
+TEXT: {0} wird bei {2}-Medaille-{1} freigeschaltet.
+
 RESOURCE ID: avatar_lock_level
 TEXT: Wird bei Level {0} freigeschaltet.
+
+RESOURCE ID: avatar_lock_level_item_name
+TEXT: {0} wird bei Level {1} freigeschaltet.
 
 RESOURCE ID: avatar_m_backpack_alolaitemslittenbp_00_bundle_icon
 TEXT: Flamiau-
@@ -8247,6 +8256,96 @@ TEXT: Besiege {0} Mitglieder von Team GO Rocket.
 RESOURCE ID: badge_rocket_grunts_defeated_title
 TEXT: Held
 
+RESOURCE ID: badge_safari_2023_barcelona_add_on_hatch
+TEXT: Pokémon GO-Stadt-Safari
+
+RESOURCE ID: badge_safari_2023_barcelona_add_on_hatch_title
+TEXT: Stadt-Safari – Schwärmer-Ei
+
+RESOURCE ID: badge_safari_2023_barcelona_add_on_raid
+TEXT: Pokémon GO-Stadt-Safari
+
+RESOURCE ID: badge_safari_2023_barcelona_add_on_raid_title
+TEXT: Stadt-Safari – Raid-Liebe
+
+RESOURCE ID: badge_safari_2023_barcelona_day_00
+TEXT: Barcelona 2023
+
+RESOURCE ID: badge_safari_2023_barcelona_day_00_title
+TEXT: Pokémon GO-Stadt-Safari
+
+RESOURCE ID: badge_safari_2023_barcelona_day_01
+TEXT: Barcelona, 13. Oktober 2023
+
+RESOURCE ID: badge_safari_2023_barcelona_day_01_title
+TEXT: Pokémon GO-Stadt-Safari
+
+RESOURCE ID: badge_safari_2023_barcelona_day_02
+TEXT: Barcelona, 14. Oktober 2023
+
+RESOURCE ID: badge_safari_2023_barcelona_day_02_title
+TEXT: Pokémon GO-Stadt-Safari
+
+RESOURCE ID: badge_safari_2023_mexcity_add_on_hatch
+TEXT: Pokémon GO-Stadt-Safari
+
+RESOURCE ID: badge_safari_2023_mexcity_add_on_hatch_title
+TEXT: Stadt-Safari – Schwärmer-Ei
+
+RESOURCE ID: badge_safari_2023_mexcity_add_on_raid
+TEXT: Pokémon GO-Stadt-Safari
+
+RESOURCE ID: badge_safari_2023_mexcity_add_on_raid_title
+TEXT: Stadt-Safari – Raid-Liebe
+
+RESOURCE ID: badge_safari_2023_mexcity_day_00
+TEXT: Mexico City 2023
+
+RESOURCE ID: badge_safari_2023_mexcity_day_00_title
+TEXT: Pokémon GO-Stadt-Safari
+
+RESOURCE ID: badge_safari_2023_mexcity_day_01
+TEXT: Mexico City, 4. November 2023
+
+RESOURCE ID: badge_safari_2023_mexcity_day_01_title
+TEXT: Pokémon GO-Stadt-Safari
+
+RESOURCE ID: badge_safari_2023_mexcity_day_02
+TEXT: Mexico City, 5. November 2023
+
+RESOURCE ID: badge_safari_2023_mexcity_day_02_title
+TEXT: Pokémon GO-Stadt-Safari
+
+RESOURCE ID: badge_safari_2023_seoul_add_on_hatch
+TEXT: Pokémon GO-Stadt-Safari
+
+RESOURCE ID: badge_safari_2023_seoul_add_on_hatch_title
+TEXT: Stadt-Safari – Schwärmer-Ei
+
+RESOURCE ID: badge_safari_2023_seoul_add_on_raid
+TEXT: Pokémon GO-Stadt-Safari
+
+RESOURCE ID: badge_safari_2023_seoul_add_on_raid_title
+TEXT: Stadt-Safari – Raid-Liebe
+
+RESOURCE ID: badge_safari_2023_seoul_day_00
+TEXT: Seoul 2023
+
+RESOURCE ID: badge_safari_2023_seoul_day_00_title
+TEXT: Pokémon GO-Stadt-Safari
+
+RESOURCE ID: badge_safari_2023_seoul_day_01
+TEXT: Seoul, 7. Oktober 2023
+
+RESOURCE ID: badge_safari_2023_seoul_day_01_title
+TEXT: Pokémon GO-Stadt-Safari
+
+RESOURCE ID: badge_safari_2023_seoul_day_02
+TEXT: Seoul, 8. Oktober 2023
+
+RESOURCE ID: badge_safari_2023_seoul_day_02_title
+TEXT: Pokémon GO-Stadt-Safari
+
 RESOURCE ID: badge_safari_zone_europe_2017
 TEXT: Europa, 16. September 2017
 
@@ -8264,60 +8363,6 @@ TEXT: GO-Safari-Zone: Europa 2017
 
 RESOURCE ID: badge_safari_zone_europe_2017_title
 TEXT: GO-Safari-Zone: Europa 2017
-
-RESOURCE ID: badge_safaricity_2023_barcelona_day_00_general
-TEXT: Barcelona 2023
-
-RESOURCE ID: badge_safaricity_2023_barcelona_day_00_general_title
-TEXT: Pokémon GO-Stadt-Safari
-
-RESOURCE ID: badge_safaricity_2023_barcelona_day_01_general
-TEXT: Barcelona, 13. Oktober 2023
-
-RESOURCE ID: badge_safaricity_2023_barcelona_day_01_general_title
-TEXT: Pokémon GO-Stadt-Safari
-
-RESOURCE ID: badge_safaricity_2023_barcelona_day_02_general
-TEXT: Barcelona, 14. Oktober 2023
-
-RESOURCE ID: badge_safaricity_2023_barcelona_day_02_general_title
-TEXT: Pokémon GO-Stadt-Safari
-
-RESOURCE ID: badge_safaricity_2023_mexico_city_day_00_general
-TEXT: Mexico City 2023
-
-RESOURCE ID: badge_safaricity_2023_mexico_city_day_00_general_title
-TEXT: Pokémon GO-Stadt-Safari
-
-RESOURCE ID: badge_safaricity_2023_mexico_city_day_01_general
-TEXT: Mexico City, 4. November 2023
-
-RESOURCE ID: badge_safaricity_2023_mexico_city_day_01_general_title
-TEXT: Pokémon GO-Stadt-Safari
-
-RESOURCE ID: badge_safaricity_2023_mexico_city_day_02_general
-TEXT: Mexico City, 5. November 2023
-
-RESOURCE ID: badge_safaricity_2023_mexico_city_day_02_general_title
-TEXT: Pokémon GO-Stadt-Safari
-
-RESOURCE ID: badge_safaricity_2023_seoul_day_00_general
-TEXT: Seoul 2023
-
-RESOURCE ID: badge_safaricity_2023_seoul_day_00_general_title
-TEXT: Pokémon GO-Stadt-Safari
-
-RESOURCE ID: badge_safaricity_2023_seoul_day_01_general
-TEXT: Seoul, 7. Oktober 2023
-
-RESOURCE ID: badge_safaricity_2023_seoul_day_01_general_title
-TEXT: Pokémon GO-Stadt-Safari
-
-RESOURCE ID: badge_safaricity_2023_seoul_day_02_general
-TEXT: Seoul, 8. Oktober 2023
-
-RESOURCE ID: badge_safaricity_2023_seoul_day_02_general_title
-TEXT: Pokémon GO-Stadt-Safari
 
 RESOURCE ID: badge_safarizone_2019_montreal_day_00_earlyaccess
 TEXT: Montreal, 19. September 2019
@@ -11487,6 +11532,9 @@ TEXT: Kämpfe gegen einen Herausforderer.
 RESOURCE ID: battle_week_event_name
 TEXT: Kampf-Showdown
 
+RESOURCE ID: battle_weekend
+TEXT: GO-Kampfwochenende
+
 RESOURCE ID: battle_weekend_2022_event_name
 TEXT: Kampfwochenende
 
@@ -11937,8 +11985,14 @@ TEXT: Ultrabälle in Ultrabestien-Raids verfügbar
 RESOURCE ID: bonus_buddy_catch_assist_boosted
 TEXT: Erhöhte Chance auf Fanghilfe durch deinen Kumpel, wenn dein Kumpel-Level Superkumpel oder höher ist.
 
+RESOURCE ID: bonus_candy_ditto_eevee_pikachu_snorlax
+TEXT: Three additional Candy from catching Pikachu, Ditto, Eevee, or Snorlax
+
 RESOURCE ID: bonus_candy_nice_great_excel
 TEXT: Zusätzliche Bonbons für das Fangen von Pokémon mit guten, großartigen und fabelhaften Würfen
+
+RESOURCE ID: bonus_candy_pumpkaboo
+TEXT: Zusätzliche Bonbons für das Fangen von Irrbis
 
 RESOURCE ID: bonus_candy_xl_candy_nice_great_excel
 TEXT: Zusätzliche Bonbons und erhöhte Chance auf Bonbons XL für das Fangen von Pokémon mit guten, großartigen und fabelhaften Würfen
@@ -11972,6 +12026,9 @@ TEXT: Entwickle Rutena, um ein Fennexis zu erhalten, das die Lade-Attacke Loheka
 
 RESOURCE ID: bonus_cd_move_froakie
 TEXT: Entwickle Amphizel, um ein Quajutsu zu erhalten, das die Lade-Attacke Aquahaubitze beherrscht.
+
+RESOURCE ID: bonus_cd_move_grubbin
+TEXT: Entwickle Akkup, um ein Donarion zu erhalten, das die Sofort-Attacke Voltwechsel beherrscht.
 
 RESOURCE ID: bonus_cd_move_larvitar_cdc
 TEXT: Entwickle Pupitar (Larvitars Entwicklung), um ein Despotar zu erhalten, das die Sofort-Attacke Katapult beherrscht!
@@ -12035,6 +12092,9 @@ TEXT: Wähle diesen Bonus, um die Sternenstück-Wirkungszeit für den Rest deine
 
 RESOURCE ID: bonus_double_guaranteed_xl_evolve
 TEXT: 2 garantierte Bonbons XL für das Entwickeln von Pokémon
+
+RESOURCE ID: bonus_event_2023_france_title
+TEXT: Pokémon: Art through the Ages
 
 RESOURCE ID: bonus_event_sticker
 TEXT: Besondere Event-Sticker erhältlich beim Drehen von PokéStops in der Gegend
@@ -12134,6 +12194,9 @@ TEXT: Wenn Trainer zusammen einen Rutena-Raid gewinnen, tauchen Fynx in dieser G
 
 RESOURCE ID: bonus_implicit_social_froakie_raid
 TEXT: Wenn Trainer zusammen einen Amphizel-Raid gewinnen, tauchen Froxy in dieser Gegend für 30 Minuten vermehrt auf.
+
+RESOURCE ID: bonus_implicit_social_grubbin_raid
+TEXT: Wenn Trainer zusammen einen Akkup-Raid gewinnen, tauchen Mabula in dieser Gegend für 30 Minuten vermehrt auf.
 
 RESOURCE ID: bonus_implicit_social_litwick_raid
 TEXT: Wenn Trainer zusammen einen Laternecto-Raid gewinnen, tauchen Lichtel in dieser Gegend für 30 Minuten vermehrt auf.
@@ -12249,6 +12312,9 @@ TEXT: Bei diesem Event gefangene Sumpex beherrschen die Lade-Attacke Aquahaubitz
 
 RESOURCE ID: bonus_raid_trainers_gym_bug_types
 TEXT: Wenn Trainer zusammen an einem Raid teilnehmen, werden Käfer-Pokémon in dieser Gegend für 15 Minuten vermehrt auftauchen
+
+RESOURCE ID: bonus_research_day_oddish_stone
+TEXT: Wilde Myrapla können einen Sonnenstein mit sich tragen
 
 RESOURCE ID: bonus_reward_100_catch_startdust
 TEXT: +100 Fang-Sternenstaub
@@ -12408,6 +12474,9 @@ TEXT: Bonus freigeschaltet!
 
 RESOURCE ID: bonus_versioned_field_research_2x_daily
 TEXT: Feldforschung zweimal am Tag bei PokéStops erhältlich – einmal vormittags, einmal nachmittags
+
+RESOURCE ID: bonus_weekend_booster_desc
+TEXT: Logge dich bis Ende 2023 jedes Wochenende ein, um eine Befristete Forschung zu erhalten, die Beeren, Pokébälle und Rauch als Belohnungen hat!
 
 RESOURCE ID: bonus_xl_candy_5x
 TEXT: Stark erhöhte Chance auf Bonbons XL für das Fangen von Pokémon
@@ -13344,11 +13413,11 @@ TEXT: Ein dünne, kleine Spiralfeder, die komplett ausgedehnt ist.
 RESOURCE ID: buddy_souvenir_stretchy_spring_name
 TEXT: Spiralfeder
 
-RESOURCE ID: buddy_souvenir_tiny_compass
-TEXT: Kleiner Kompass
-
-RESOURCE ID: buddy_souvenir_tiny_compass_desc
+RESOURCE ID: buddy_souvenir_tiny_compass_description
 TEXT: Dein Kumpel hat dir diesen Kompass hinterlassen, damit du immer zu ihm zurückfinden kannst.
+
+RESOURCE ID: buddy_souvenir_tiny_compass_name
+TEXT: Kleiner Kompass
 
 RESOURCE ID: buddy_souvenir_torn_ticket_description
 TEXT: Ein abgenutztes, zerfleddertes Ticket mit verblasstem Text. Dein Kumpel fand es wahrscheinlich einfach cool!
@@ -15367,10 +15436,10 @@ TEXT: Drehen, um dein Schutzschild aufzubauen!
 RESOURCE ID: combat_defense_warning
 TEXT: Gegnerische Attacke!
 
-RESOURCE ID: combat_description_season_10
+RESOURCE ID: combat_description_season_11
 TEXT: Daten und Zeiten sind in Ortszeit angegeben.
 
-RESOURCE ID: combat_description_season_11
+RESOURCE ID: combat_description_season_12
 TEXT: Daten und Zeiten sind in Ortszeit angegeben.
 
 RESOURCE ID: combat_description_season_7
@@ -16018,6 +16087,9 @@ TEXT: Community Day: Nebulak
 RESOURCE ID: community_day_gible_event_name
 TEXT: Community Day: Kaumalat
 
+RESOURCE ID: community_day_grubbin_event_name
+TEXT: Community Day: Mabula
+
 RESOURCE ID: community_day_hoppip_event_name
 TEXT: Community Day: Hoppspross
 
@@ -16173,6 +16245,9 @@ TEXT: Ein rotes oder weißes Licht bedeutet, dass du zu weit vom PokéStop entfe
 
 RESOURCE ID: complete_geotarget_quest
 TEXT: Schließe eine AR-Kartierungsaufgabe ab.
+
+RESOURCE ID: complete_route_button
+TEXT: ROUTE ABSCHLIESSEN
 
 RESOURCE ID: complete_route_travel_error_toast
 TEXT: Fehler beim Abschließen der Route
@@ -16433,6 +16508,15 @@ TEXT: Dein Trainercode wurde kopiert!
 
 RESOURCE ID: copy_referral_code_toast
 TEXT: Dein Empfehlungscode wurde kopiert.
+
+RESOURCE ID: cornet_oct_event_title
+TEXT: Meisterdetektiv Pikachu kehrt zurück
+
+RESOURCE ID: cornet_oct_tr_title_01
+TEXT: Befristete Forschung: Meisterdetektiv Pikachu kehrt zurück (1/2)
+
+RESOURCE ID: cornet_oct_tr_title_02
+TEXT: Befristete Forschung: Meisterdetektiv Pikachu kehrt zurück (2/2)
 
 RESOURCE ID: corphish_o_clock
 TEXT: Krebscorps-Zeit
@@ -16990,19 +17074,19 @@ RESOURCE ID: eevee_explorers_barcelona_title
 TEXT: Evoli-Forscher – Barcelona
 
 RESOURCE ID: eevee_explorers_barcelona_title_00
-TEXT: Evoli-Forscher – Barcelona (1/8)
+TEXT: Evoli-Forscher – Barcelona (1/1)
 
 RESOURCE ID: eevee_explorers_mexico_city_title
 TEXT: Evoli-Forscher – Mexico City
 
 RESOURCE ID: eevee_explorers_mexico_city_title_00
-TEXT: Evoli-Forscher – Mexico City (1/8)
+TEXT: Evoli-Forscher – Mexico City (1/1)
 
 RESOURCE ID: eevee_explorers_seoul_title
 TEXT: Evoli-Forscher – Seoul
 
 RESOURCE ID: eevee_explorers_seoul_title_00
-TEXT: Evoli-Forscher – Seoul (1/8)
+TEXT: Evoli-Forscher – Seoul (1/1)
 
 RESOURCE ID: egg_anticipation
 TEXT: Was ist wohl drin?!
@@ -17120,6 +17204,9 @@ TEXT: Diese technische Maschine bringt einem Pokémon eine Sofort-Attacke deiner
 
 RESOURCE ID: elitefasttm.1_title
 TEXT: Top-Sofort-TM
+
+RESOURCE ID: empty_events_message
+TEXT: Schau dir die In-Game-Neuigkeiten an, um bevorstehende Events zu sehen.
 
 RESOURCE ID: empty_tags_subtitle
 TEXT: Erstelle Tags, indem du auf + tippst.
@@ -17287,7 +17374,7 @@ RESOURCE ID: enter_friend_code_prompt
 TEXT: Gib den Trainercode eines Trainers ein, um ihn als Freund hinzuzufügen.
 
 RESOURCE ID: enter_friend_code_prompt_v2
-TEXT: Send a Friend Request by entering or scanning your friend’s Trainer Code.
+TEXT: Schicke eine Freundschaftsanfrage, indem du den Trainercode deines Freundes eingibst oder scannst.
 
 RESOURCE ID: enter_tag_name_placeholder
 TEXT: Tag-Namen eingeben
@@ -18801,6 +18888,10 @@ RESOURCE ID: f_avatar_poses_bundle_pose_53
 TEXT: Schatzkarten-
 Pose
 
+RESOURCE ID: f_avatar_poses_bundle_pose_54
+TEXT: Meisterdetektiv
+Pikachu-Pose
+
 RESOURCE ID: f_avatar_poses_bundle_pose_55
 TEXT: Sagaria-Pose
 
@@ -18941,6 +19032,9 @@ TEXT: Wilde Elezeba und Dedenne erscheinen mit vermehrter Häufigkeit.
 
 RESOURCE ID: field_research
 TEXT: Event-Feldforschung
+
+RESOURCE ID: field_research_event_start_refresh_bonus
+TEXT: Nach dem Beginn des Events kann man bei bereits gedrehten PokéStops eine zweite Feldforschungsaufgabe erhalten.
 
 RESOURCE ID: field_research_special
 TEXT: Einzigartige Feldforschungsaufgaben sind nun bei bestimmten PokéStops und Arenen verfügbar
@@ -19247,6 +19341,15 @@ TEXT: Bewege dich in der echten Welt, um deinen Avatar zu bewegen.
 RESOURCE ID: first_time_walk_title
 TEXT: Zeit für einen Spaziergang!
 
+RESOURCE ID: firstcatch_experience_50p
+TEXT: 1,5× EP für deinen ersten Fang an jedem Tag
+
+RESOURCE ID: firstcatch_experince_double
+TEXT: 2× XP awarded for your first catch each day
+
+RESOURCE ID: firstcatch_stardust_50p
+TEXT: 1,5× Sternenstaub für deinen ersten Fang an jedem Tag
+
 RESOURCE ID: firstcatch_stardust_double
 TEXT: 2× Sternenstaub vom ersten Fang des Tages
 
@@ -19345,6 +19448,9 @@ TEXT: Typ-Alarm: Flug
 
 RESOURCE ID: foc22_collection_challenge
 TEXT: Farbfestival
+
+RESOURCE ID: followed_routes_title
+TEXT: FOLLOWED ROUTES
 
 RESOURCE ID: form_aegislash_blade
 TEXT: Klingenform
@@ -20719,6 +20825,17 @@ Du musst während des angegebenen Zeitraums spielen, um alle Boni dieses Spezial
 RESOURCE ID: general1.ticket.2_goldtr2023_title
 TEXT: Befristete Forschung: Goldsuche
 
+RESOURCE ID: general1.ticket.2_growlitheroute2023_description
+TEXT: Ein Ticket zur Teilnahme an der Befristetes Forschung „Feurige Abenteuer“ bis zum 02. Oktober 2023 um 20:00 Uhr Ortszeit (wo immer du dich befindest). 
+ 
+Zu den Forschungsbelohnungen gehören: 
+- 6 Begegnungen mit einem Hisui-Fukano 
+- 5 Begegnungen mit Fukano 
+- 2 Brutmaschinen 
+- 1 Super-Brutmaschine 
+ 
+<b>Bitte beachte, dass Befristete Forschungen ablaufen.</b> Die Aufgaben, die mit der Befristeten Forschung verbunden sind, müssen vor Montag, 2. Oktober 2023 um 20:00 Uhr Ortszeit abgeschlossen und ihre Belohnungen eingefordert werden.
+
 RESOURCE ID: general1.ticket.2_halloween_description
 TEXT: Ein Ticket zur Teilnahme an der Befristeten Forschung mit Makabaja vom 20. Oktober 2022 10:00 Uhr bis zum 1. November 2022 10:00 Uhr Ortszeit (wo immer du dich befindest). Bei dieser Befristeten Forschung gibt es Begegnungen mit Makabaja. Details findest du in den In-Game-Neuigkeiten.
 
@@ -20860,6 +20977,20 @@ DU MUSST WÄHREND DES ANGEGEBENEN ZEITRAUMS SPIELEN, UM ALLE BONUSSE DIESES SPEZ
 RESOURCE ID: general1.ticket.2_mudkt_title
 TEXT: Ticket: Community Day Classic mit Hydropi
 
+RESOURCE ID: general1.ticket.2_octobercd2023_description
+TEXT: Ein Ticket zur Teilnahme an der Spezialforschung zum Community Day mit Praktibalk am 15. Oktober 2023 von 14:00 bis 17:00 Uhr Ortszeit (wo immer du dich befindest).
+
+Zu den Forschungsbelohnungen gehören:
+- Hochwertige In-Game-Items wie Sonderbonbons, Hyperbälle und mehr
+- Zusätzliche Begegnungen mit Praktibalk und seinen Entwicklungen
+
+Details unter „Neuigkeiten“ im Spiel.
+
+<b>Du musst während des angegebenen Zeitraums spielen, um alle Boni dieses Spezial-Events zu erhalten.</b>
+
+RESOURCE ID: general1.ticket.2_octobercd2023_title
+TEXT: Praktische Muskeln
+
 RESOURCE ID: general1.ticket.2_oshat_description
 TEXT: Ein Ticket zur Teilnahme an der Spezialforschung „Von Muschel zu Langschwert“ am 19. September 2021 von 11:00 bis 17:00 Uhr Ortszeit (wo immer du dich befindest). Details unter „Neuigkeiten“ im Spiel.
 
@@ -20910,18 +21041,18 @@ RESOURCE ID: general1.ticket.2_septcdc2023_title
 TEXT: Ticket: Community Day Classic mit Glumanda
 
 RESOURCE ID: general1.ticket.2_septembercd2023_description
-TEXT: A ticket to access the Community Day: Grubbin Special Research on September 23, 2023, from 2:00 p.m. to 5:00 p.m. local time, wherever you are. 
- 
-Research rewards include: 
-- Premium in-game items, such as Rare Candies, Ultra Balls, and more 
-- Extra encounters with Grubbin and its Evolutions 
- 
-Details can be found in the in-game News. 
- 
-<b>You must play during the specified time to receive all the special event bonuses.</b>
+TEXT: Ein Ticket zur Teilnahme an der Spezialforschung zum Community Day mit Mabula am 23. September 2023 von 14:00 bis 17:00 Uhr Ortszeit (wo immer du dich befindest).
+
+Zu den Forschungsbelohnungen gehören:
+- Hochwertige In-Game-Items wie Sonderbonbons, Hyperbälle und mehr
+- Zusätzliche Begegnungen mit Mabula und seinen Entwicklungen
+
+Details unter „Neuigkeiten“ im Spiel.
+
+<b>Du musst während des angegebenen Zeitraums spielen, um alle Boni dieses Spezial-Events zu erhalten.</b>
 
 RESOURCE ID: general1.ticket.2_septembercd2023_title
-TEXT: Grubbin Community Day Ticket
+TEXT: Mabula rasa
 
 RESOURCE ID: general1.ticket.2_shint_description
 TEXT: Ein Ticket zur Teilnahme an der Spezialforschung „Flackern, Funken und Glühen“ am 21. November 2021 von 11:00 bis 17:00 Uhr Ortszeit (wo immer du dich befindest). Details unter „Neuigkeiten“ im Spiel.
@@ -20987,6 +21118,29 @@ DU MUSST WÄHREND DES ANGEGEBENEN ZEITRAUMS SPIELEN, UM ALLE BONUSSE DIESES SPEZ
 RESOURCE ID: general1.ticket.2_tepit_title
 TEXT: Ticket: Geröstete Nüsse
 
+RESOURCE ID: general1.ticket.2_ticketoftreats2023_description
+TEXT: Ein Ticket zur Teilnahme an neuen Befristeten Forschungen, jeden Donnerstag im Oktober. Du kannst bis zum 31. Oktober 2023 um 23:59 Uhr Ortszeit die Befristeten Forschungsaufgaben abschließen und dir die Belohnungen holen. Diese Befristete Forschung enthält insgesamt folgende Belohnungen: 
+ 
+- Drei Premium-Kampf-Pässe 
+- Ein Moos-Lockmodul 
+- Begegnungen mit Traunfugil, Paragoni und Irrbis 
+- Zwei Brutmaschinen 
+- Drei Silberne Sananabeeren 
+- Zwei Super-Brutmaschinen 
+- Zwei Sonderbonbons 
+ … und mehr! 
+ 
+Und die folgenden Boni sind ab dem Kaufdatum bis Dienstag, 31. Oktober 2023 um 23:59 Uhr Ortszeit erhältlich: 
+ - 1,5× zusätzliche EP für deinen ersten Fang des Tages 
+ - 1,5× zusätzlichen Sternenstaub für deinen ersten Fang des Tages 
+ 
+Details unter „Neuigkeiten“ im Spiel. 
+ 
+<b>Du musst während des angegebenen Zeitraums spielen, um alle Boni dieses Spezial-Events zu erhalten.</b>
+
+RESOURCE ID: general1.ticket.2_ticketoftreats2023_title
+TEXT: Schaurig-schönes Ticket
+
 RESOURCE ID: general1.ticket.2_title
 TEXT: Ticket: Von Muschel zu Langschwert
 
@@ -21039,6 +21193,9 @@ DU MUSST WÄHREND DES ANGEGEBENEN ZEITRAUMS SPIELEN, UM ALLE BONUSSE DIESES SPEZ
 RESOURCE ID: general1.ticket.5_title
 TEXT: Ticket: Pokémon GO Fest 2021
 
+RESOURCE ID: general1.ticket._growlitheroute2023_title
+TEXT: Ticket: Feurige Abenteuer
+
 RESOURCE ID: general1.ticket.anniversary_bundle_description
 TEXT: Ein Ticket für die Befristete Forschung zur Party zum 7. Jubiläum, das folgende Belohnungen enthält: 
  
@@ -21075,7 +21232,7 @@ RESOURCE ID: general1.ticket.beachweek2023_title
 TEXT: Ticket für die Befristete Forschung „Wasserfestival: Strandwoche“
 
 RESOURCE ID: general1.ticket.gbweeken_bundle_description
-TEXT: Ein Ticket für die Befristete Forschung „GO-Kampftag: Sternenstaub“. Zu den Aufgaben gehören 50 Kämpfe in der GO-Kampfliga und andere Aufgaben rund ums Kämpfen. Es gibt die folgenden Forschungsbelohnungen: 
+TEXT: Ein Ticket für die Befristete Forschung zum GO-Kampftag: Sternenstaub. Zu den Aufgaben gehören 50 Kämpfe in der GO-Kampfliga und andere Aufgaben rund ums Kämpfen. Es gibt die folgenden Forschungsbelohnungen: 
  
 - 30 000 Sternenstaub 
 - 1 Sternenstück 
@@ -21087,7 +21244,22 @@ Dieses Ticket für die Befristete Forschung ist nur bis Sonntag, 2. Juli 2023 um
 <b>Befristete Forschungen laufen ab.</b> Um die Belohnungen zu erhalten, müssen die mit dieser Befristeten Forschung verbundenen Aufgaben abgeschlossen und die Belohnungen vor Sonntag, 2. Juli 2023 um 23:59 Uhr Ortszeit eingefordert werden.
 
 RESOURCE ID: general1.ticket.gbweekend_bundle_title
-TEXT: Befristete Forschung: GO-Kampftag: Sternenstaub
+TEXT: Befristete Forschung zum GO-Kampftag: Sternenstaub
+
+RESOURCE ID: general1.ticket.gbweekendoct_bundle_title
+TEXT: Befristete Forschung zum GO-Kampftag: Sternenstaub
+
+RESOURCE ID: general1.ticket.gbweekenoct_bundle_description
+TEXT: Ein Ticket für die Befristete Forschung zum GO-Kampftag: Sternenstaub. Zu den Aufgaben gehören 50 Kämpfe in der GO-Kampfliga und andere Aufgaben rund ums Kämpfen. Es gibt die folgenden Forschungsbelohnungen:
+
+- 30 000 Sternenstaub
+- 1 Sternenstück
+- 3 Sonderbonbons
+- 3 Sonderbonbons XL für Trainer ab Level 31
+ 
+Dieses Ticket für die Befristete Forschung ist nur bis Sonntag, 8. Oktober 2023 um 23:59 Uhr Ortszeit im In-Game-Shop erhältlich.
+
+<b>Befristete Forschungen laufen ab.</b> Um die Belohnungen zu erhalten, müssen die mit dieser Befristeten Forschung verbundenen Aufgaben abgeschlossen und die Belohnungen vor Sonntag, 8. Oktober 2023 um 23:59 Uhr Ortszeit eingefordert werden.
 
 RESOURCE ID: general1.ticket.gofest2023_alldetails
 TEXT: Ein Ticket für den Zugang zur Spezialforschung während des Pokémon GO Fest 2023: Global am 26. und 27. August 2023 (wo immer du dich befindest). Diese Spezialforschung führt zu einer exklusiven Begegnung mit dem Mysteriösen Pokémon Diancie! Zu den Boni und Belohnungen gehören außerdem: 
@@ -21364,6 +21536,12 @@ TEXT: ZUM SHOP
 
 RESOURCE ID: general_hp
 TEXT: KP
+
+RESOURCE ID: general_image_saved
+TEXT: Das Bild wurde gespeichert.
+
+RESOURCE ID: general_image_unable_to_save
+TEXT: Das Bild konnte nicht gespeichert werden.
 
 RESOURCE ID: general_include
 TEXT: EINSCHLIESSEN
@@ -27053,6 +27231,9 @@ TEXT: Halloween-Schabernack: Teil 2
 RESOURCE ID: halloween_ultra_cup_title
 TEXT: Halloween-Cup – Edition: Hyperliga 
 
+RESOURCE ID: harvest_festival_event_name
+TEXT: Ernte-Festival
+
 RESOURCE ID: hatch_box
 TEXT: Schlüpfbox
 
@@ -27062,8 +27243,14 @@ TEXT: 1.5× Schlüpf-Bonbons
 RESOURCE ID: hatch_candy_double
 TEXT: 2× Schlüpf-Bonbons
 
+RESOURCE ID: hatch_day_2k_azurill
+TEXT: Azurill können aus 2-km-Eiern schlüpfen
+
 RESOURCE ID: hatch_day_2k_riolu
 TEXT: Riolu können aus 2-km-Eiern schlüpfen
+
+RESOURCE ID: hatch_day_azurill_timed_research
+TEXT: Befristete Forschung: Azurill-Schlüpftag
 
 RESOURCE ID: hatch_day_riolu_limited_research
 TEXT: Befristete Forschung: Riolu-Schlüpftag
@@ -27091,6 +27278,12 @@ TEXT: https://niantic.helpshift.com/a/pokemon-go/?p=all&s=top-articles&f=sharing
 
 RESOURCE ID: helpshift_sharing_game_logs
 TEXT: https://niantic.helpshift.com/hc/de/6-pokemon-go/faq/3325-sharing-game-logs/
+
+RESOURCE ID: hf_oct23_pumpkaboo_collection_challenge
+TEXT: Ernte-Festival: Sammler-Herausforderung – Irrbis
+
+RESOURCE ID: hf_oct23_smoliv_collection_challenge
+TEXT: Ernte-Festival: Sammler-Herausforderung – Olini
 
 RESOURCE ID: hindi
 TEXT: Hindi
@@ -27434,6 +27627,9 @@ TEXT: Erhöhte Abenteuer-Sync-Belohnungen nächste Woche
 RESOURCE ID: increased_chance_buddy_xl_bonus
 TEXT: Erhöhte Chance, Bonbons XL zu verdienen, wenn du mit deinem Kumpel-Pokémon auf ein Abenteuer gehst
 
+RESOURCE ID: increased_kecleon_pokestops_bonus
+TEXT: Kecleon erscheinen häufiger an PokéStops
+
 RESOURCE ID: increased_shiny_2k_5k_10k_eggs
 TEXT: Erhöhte Chance, Schillernde Pokémon aus 2-km-, 5-km- und 10-km-Eiern auszubrüten
 
@@ -27445,6 +27641,9 @@ TEXT: Zusätzliche Bonbons und Bonbons XL für das Verschicken von Pokémon.
 
 RESOURCE ID: increased_xp_pokestop_streak_bonus
 TEXT: Erhöhter EP-Bonus für PokéStop-Dreh-Serie von 7 Tagen
+
+RESOURCE ID: increased_xp_route_completion_bonus
+TEXT: Erhöhte EP für den Abschluss von Routen
 
 RESOURCE ID: increased_xp_stardust_pokemon_streak_bonus
 TEXT: Erhöhter EP- und Sternenstaub-Bonus für Fang-Serie von 7 Tagen
@@ -27478,6 +27677,12 @@ TEXT: Eine stärkere Ei-Brutmaschine, die ein Ei schneller ausbrütet. Nach 3 Ei
 
 RESOURCE ID: incubatorsuper.1_title
 TEXT: Super-Brutmaschine
+
+RESOURCE ID: india_live_op_desc
+TEXT: Bonus-Event: Aao Khele Pokémon GO
+
+RESOURCE ID: india_live_op_title
+TEXT: Aao Khele Pokémon GO
 
 RESOURCE ID: indonesia_live_op_title
 TEXT: Waktu Indonesia Nangkep
@@ -27803,19 +28008,19 @@ TEXT: Diese Haut löst bei bestimmten Pokémon-Arten die Entwicklung aus. Sie is
 RESOURCE ID: item_dragon_scale_name
 TEXT: Drachenhaut
 
-RESOURCE ID: item_event_ticket_blue_desc_pawmibackpack
-TEXT: Ein Ticket für den Zugang zur Befristeten Forschung von Sonntag, 10. September 2023 um 10:00 Uhr bis Freitag, 15. September 2023 um 20:00 Uhr Ortszeit (wo immer du dich befindest).
-
-RESOURCE ID: item_event_ticket_blue_details_pawmibackpack
-TEXT: Dieses Ticket aktiviert sich automatisch und gewährt dir Zugang zur Befristeten Forschung „Gib dir ’nen Ruck“ (wo immer du dich befindest).
-
 RESOURCE ID: item_event_ticket_gray_desc
+TEXT: Ein Ticket zur Teilnahme an neuen Befristeten Forschungen, jeden Donnerstag im Oktober (wo immer du dich befindest).
+
+RESOURCE ID: item_event_ticket_gray_desc_gofest2023
 TEXT: Ein Ticket zur Teilnahme am „Pokémon GO Fest 2023: Global“ (wo immer du dich befindest).
 
 RESOURCE ID: item_event_ticket_gray_desc_jirachi
 TEXT: Meisterwerk-Forschung: Erfüllter Wunsch
 
 RESOURCE ID: item_event_ticket_gray_details
+TEXT: Dieses Ticket aktiviert sich automatisch und gewährt dir Zugang zu mehreren Befristeten Forschungen bis Dienstag, 31. Oktober 2023 um 23:59 Uhr Ortszeit (wo immer du dich befindest).
+
+RESOURCE ID: item_event_ticket_gray_details_gofest2023
 TEXT: Dieses Ticket aktiviert sich automatisch und gewährt dir Zugang zum „Pokémon GO Fest 2023: Global“ am 26. und 27. August 2023 (wo immer du dich befindest).
 
 RESOURCE ID: item_event_ticket_gray_details_jirachi
@@ -27843,7 +28048,7 @@ RESOURCE ID: item_event_ticket_pink_bulbt_details
 TEXT: Dieses Ticket aktiviert sich automatisch und gewährt dir Zugang zur Spezialforschung am 22. Januar 2022 (wo immer du dich befindest).
 
 RESOURCE ID: item_event_ticket_pink_desc
-TEXT: Ein Ticket zur Teilnahme an der Spezialforschung zum Community Day Classic mit Glumanda (wo immer du dich befindest).
+TEXT: Ein Ticket zur Teilnahme an der Befristeten Forschung zum GO-Kampftag: Sternenstaub (wo immer du dich befindest).
 
 RESOURCE ID: item_event_ticket_pink_desc_alodude
 TEXT: Ein Ticket für den Zugang zur Spezialforschung am 21. Mai 2022 von 11:00 bis 14:00 Uhr Ortszeit (wo immer du dich befindest).
@@ -27853,6 +28058,9 @@ TEXT: Ein Ticket zur Teilnahme an der Spezialforschung zum Community Day mit Mil
 
 RESOURCE ID: item_event_ticket_pink_desc_back
 TEXT: Ein Ticket für den Zugang zur Spezialforschung am 5. November 2022 von 14:00 bis 17:00 Uhr Ortszeit (wo immer du dich befindest).
+
+RESOURCE ID: item_event_ticket_pink_desc_charmander
+TEXT: Ein Ticket zur Teilnahme an der Spezialforschung zum Community Day Classic mit Glumanda (wo immer du dich befindest).
 
 RESOURCE ID: item_event_ticket_pink_desc_dcdc
 TEXT: Ein Ticket für den Zugang zur Spezialforschung am 5. November 2022 von 14:00 bis 17:00 Uhr Ortszeit (wo immer du dich befindest).
@@ -27870,7 +28078,7 @@ RESOURCE ID: item_event_ticket_pink_desc_gold
 TEXT: Ein Ticket für den Zugang zur Befristeten Forschung „Goldsuche“ am 3. Juni 2023 von 14:00 bis 17:00 Uhr Ortszeit (wo immer du dich befindest).
 
 RESOURCE ID: item_event_ticket_pink_desc_grubbin
-TEXT: A ticket to access Special Research on September 23, 2023, from 2:00 p.m. to 5:00 p.m. local time, wherever you are.
+TEXT: Ein Ticket zur Teilnahme an der Spezialforschung zum Community Day mit Mabula am 23. September 2023 von 14:00 bis 17:00 Uhr Ortszeit (wo immer du dich befindest).
 
 RESOURCE ID: item_event_ticket_pink_desc_mrmime
 TEXT: Ein Ticket für den Zugang zur Spezialforschung vom 19. Dezember 2020 um 10:00 Uhr bis zum 20. Dezember 2020 um 20:00 Uhr Ortszeit (wo immer du dich befindest).
@@ -27884,17 +28092,23 @@ TEXT: Ein Ticket zur Teilnahme an der Spezialforschung zum Community Day Classic
 RESOURCE ID: item_event_ticket_pink_desc_swinub
 TEXT: Ein Ticket zur Teilnahme an der Spezialforschung zum Community Day Classic mit Quiekel (wo immer du dich befindest).
 
+RESOURCE ID: item_event_ticket_pink_desc_timburr
+TEXT: Ein Ticket zur Teilnahme an der Spezialforschung zum Community Day mit Praktibalk am 15. Oktober 2023 von 14:00 bis 17:00 Uhr Ortszeit (wo immer du dich befindest).
+
 RESOURCE ID: item_event_ticket_pink_desc_togetic
 TEXT: Ein Ticket für den Zugang zur Spezialforschung am 15. April 2023 von 14:00 bis 17:00 Uhr Ortszeit (wo immer du dich befindest).
 
 RESOURCE ID: item_event_ticket_pink_details
-TEXT: Dieses Ticket aktiviert sich automatisch und gewährt dir Zugang zur Spezialforschung zum Community Day Classic mit Glumanda am 2. September 2023 von 14:00 bis 17:00 Uhr Ortszeit (wo immer du dich befindest).
+TEXT: Dieses Ticket aktiviert sich automatisch und gewährt dir Zugang zur Befristeten Forschung zum GO-Kampftag: Sternenstaub bis Sonntag, 8. Oktober 2023 um 23:59 Uhr Ortszeit.
 
 RESOURCE ID: item_event_ticket_pink_details_axew
 TEXT: Dieses Ticket aktiviert sich automatisch und gewährt dir Zugang zur Spezialforschung zum Community Day mit Milza am Samstag, 10. Juni 2023 von 14:00 bis 17:00 Uhr Ortszeit (wo immer du dich befindest).
 
 RESOURCE ID: item_event_ticket_pink_details_back
 TEXT: Dieses Ticket aktiviert sich automatisch und gewährt dir Zugang zur Spezialforschung am 5. November 2022 (wo immer du dich befindest).
+
+RESOURCE ID: item_event_ticket_pink_details_charmander
+TEXT: Dieses Ticket aktiviert sich automatisch und gewährt dir Zugang zur Spezialforschung zum Community Day Classic mit Glumanda am 2. September 2023 von 14:00 bis 17:00 Uhr Ortszeit (wo immer du dich befindest).
 
 RESOURCE ID: item_event_ticket_pink_details_dcdc
 TEXT: Dieses Ticket aktiviert sich automatisch und gewährt dir Zugang zur Spezialforschung am 5. November 2022 (wo immer du dich befindest).
@@ -27912,7 +28126,7 @@ RESOURCE ID: item_event_ticket_pink_details_gold
 TEXT: Dieses Ticket aktiviert sich automatisch und gewährt dir Zugang zur Befristeten Forschung „Goldsuche“ am 3. Juni 2023 von 14:00 bis 17:00 Uhr Ortszeit (wo immer du dich befindest).
 
 RESOURCE ID: item_event_ticket_pink_details_grubbin
-TEXT: This ticket will automatically activate to give you access to the Grubbin Community Day Special Research, wherever you are.
+TEXT: Dieses Ticket aktiviert sich automatisch und gewährt dir Zugang zur Spezialforschung Mabula rasa am 23. September 2023 (wo immer du dich befindest).
 
 RESOURCE ID: item_event_ticket_pink_details_mrmime
 TEXT: Dieses Ticket aktiviert sich automatisch und gewährt dir Zugang zum Galar-Pantimos-Event vom 19. Dezember 2020 um 10:00 Uhr bis zum 20. Dezember 2020 um 20:00 Uhr Ortszeit (wo immer du dich befindest).
@@ -27925,6 +28139,9 @@ TEXT: Dieses Ticket aktiviert sich automatisch und gewährt dir Zugang zur Spezi
 
 RESOURCE ID: item_event_ticket_pink_details_swinub
 TEXT: Dieses Ticket aktiviert sich automatisch und gewährt dir Zugang zur Spezialforschung zum Community Day Classic mit Quiekel am 29. April 2023 von 14:00 Uhr bis 17:00 Uhr Ortszeit (wo immer du dich befindest).
+
+RESOURCE ID: item_event_ticket_pink_details_timburr
+TEXT: Dieses Ticket aktiviert sich automatisch und gewährt dir Zugang zur Spezialforschung des Community Days mit Praktibalk am 15. Oktober 2023 (wo immer du dich befindest).
 
 RESOURCE ID: item_event_ticket_pink_details_togetic
 TEXT: Dieses Ticket aktiviert sich automatisch und gewährt dir Zugang zur Spezialforschung am 15. April 2023 (wo immer du dich befindest).
@@ -28014,16 +28231,22 @@ RESOURCE ID: item_event_ticket_to_gift_desc
 TEXT: Ein zusätzliches Event-Ticket aus einem Fehler beim Kauf. Du kannst es an einen Freund schicken oder es erstattet bekommen.
 
 RESOURCE ID: item_evergreen_ticket_desc
-TEXT: Ein Ticket zur Teilnahme an der Befristeten Forschung: Abenteuerwoche 2023 vom 27. Juli 2023 um 10:00 Uhr bis 2. August 2023 um 20:00 Uhr Ortszeit (wo immer du dich befindest).
+TEXT: Ein Ticket zur Teilnahme an der Befristeten Forschung „Feurige Abenteuer“ (wo immer du dich befindest).
 
 RESOURCE ID: item_evergreen_ticket_desc_7th_anniversary_tr
 TEXT: Dieses Ticket aktiviert sich automatisch und gewährt dir Zugang zur Befristeten Forschung zur Party zum 7. Jubiläum bis Mittwoch, 12. Juli 2023 um 20:00 Uhr Ortszeit (wo immer du dich befindest).
 
+RESOURCE ID: item_evergreen_ticket_desc_adventureweek2023
+TEXT: Ein Ticket zur Teilnahme an der Befristeten Forschung: Abenteuerwoche 2023 vom 27. Juli 2023 um 10:00 Uhr bis 2. August 2023 um 20:00 Uhr Ortszeit (wo immer du dich befindest).
+
 RESOURCE ID: item_evergreen_ticket_details
-TEXT: Dieses Ticket aktiviert sich automatisch und gewährt dir Zugang zur Befristeten Forschung: Abenteuerwoche 2023 vom 27. Juli 2023 um 10:00 Uhr bis 2. August 2023 um 20:00 Uhr Ortszeit (wo immer du dich befindest).
+TEXT: Dieses Ticket aktiviert sich automatisch und gewährt dir Zugang zur Befristeten Forschung „Feurige Abenteuer“ bis Montag, 02. Oktober 2023 um 20:00 Uhr Ortszeit (wo immer du dich befindest).
 
 RESOURCE ID: item_evergreen_ticket_details_7th_anniversary_tr
 TEXT: Dieses Ticket aktiviert sich automatisch und gewährt dir Zugang zur Befristeten Forschung zur Party zum 7. Jubiläum bis Mittwoch, 12. Juli 2023 um 20:00 Uhr Ortszeit.
+
+RESOURCE ID: item_evergreen_ticket_details_adventureweek2023
+TEXT: Dieses Ticket aktiviert sich automatisch und gewährt dir Zugang zur Befristeten Forschung: Abenteuerwoche 2023 vom 27. Juli 2023 um 10:00 Uhr bis 2. August 2023 um 20:00 Uhr Ortszeit (wo immer du dich befindest).
 
 RESOURCE ID: item_evergreen_ticket_name
 TEXT: Ticket
@@ -28059,7 +28282,7 @@ RESOURCE ID: item_giovanni_map_name
 TEXT: Super-Rocket-Radar
 
 RESOURCE ID: item_global_event_ticket_desc
-TEXT: Ein Ticket zur Teilnahme an der Meisterwerk-Forschung „Alle in einem… Nr. 151“ (wo immer du dich befindest).
+TEXT: Ein Ticket für den Zugang zur Befristeten Forschung von Sonntag, 10. September 2023 um 10:00 Uhr bis Freitag, 15. September 2023 um 20:00 Uhr Ortszeit (wo immer du dich befindest).
 
 RESOURCE ID: item_global_event_ticket_desc_beachweek
 TEXT: Ein Ticket zur Teilnahme an der Befristeten Forschung „Wasserfestival: Strandwoche“.
@@ -28071,7 +28294,7 @@ RESOURCE ID: item_global_event_ticket_desc_willow
 TEXT: Ein Ticket für den Zugang zur Befristeten Forschung „Willows Montur“ vom 1. März 2023 bis zum 30. Juni 2023 (Wo immer du dich befindest).
 
 RESOURCE ID: item_global_event_ticket_details
-TEXT: Dieses Ticket aktiviert sich automatisch und gewährt dir Zugang zur Meisterwerk-Forschung „Alle in einem… Nr. 151“ am Donnerstag, 6. Juli 2023 um 10:00 Uhr (wo immer du dich befindest).
+TEXT: Dieses Ticket aktiviert sich automatisch und gewährt dir Zugang zur Befristeten Forschung „Gib dir ’nen Ruck“ (wo immer du dich befindest).
 
 RESOURCE ID: item_global_event_ticket_details_beachweek
 TEXT: Dieses Ticket aktiviert sich automatisch und gewährt dir Zugang zur Befristeten Forschung „Wasserfestival: Strandwoche“ von Dienstag, den 6. Juni 2023 um 10:00 Uhr bis Montag, den 12. Juni 2023 um 20:00 Uhr Ortszeit (wo immer du dich befindest).
@@ -28083,6 +28306,9 @@ Wähle ein Team aus, um an stündlichen Herausforderungen für das Event Proto-A
 
 RESOURCE ID: item_global_event_ticket_details_no_version_selected_abridged
 TEXT: Dieses Ticket aktiviert sich automatisch und gewährt dir Zugang zu den Spezialbonussen der Pokémon GO Tour: Hoenn!
+
+RESOURCE ID: item_global_event_ticket_details_shinymew
+TEXT: Dieses Ticket aktiviert sich automatisch und gewährt dir Zugang zur Meisterwerk-Forschung „Alle in einem… Nr. 151“ am Donnerstag, 6. Juli 2023 um 10:00 Uhr (wo immer du dich befindest).
 
 RESOURCE ID: item_global_event_ticket_details_solstice
 TEXT: Dieses Ticket aktiviert sich automatisch und gewährt dir Zugang zur Spezialforschung Sternenhimmel von Freitag, den 16. Juni 2023 um 10:00 Uhr bis Sonntag, den 25. Juni 2023 um 20:00 Uhr Ortszeit (wo immer du dich befindest).
@@ -29729,7 +29955,7 @@ RESOURCE ID: limited_research_infernape
 TEXT: Begrenzte Forschung mit Panferno
 
 RESOURCE ID: limited_research_inkay
-TEXT: Inkay Limited Research
+TEXT: Begrenzte Forschung mit Iscalar
 
 RESOURCE ID: limited_research_ivysaur
 TEXT: Begrenzte Forschung mit Bisaknosp
@@ -31491,6 +31717,10 @@ RESOURCE ID: m_avatar_poses_bundle_pose_53
 TEXT: Schatzkarten-
 Pose
 
+RESOURCE ID: m_avatar_poses_bundle_pose_54
+TEXT: Meisterdetektiv
+Pikachu-Pose
+
 RESOURCE ID: m_avatar_poses_bundle_pose_55
 TEXT: Sagaria-Pose
 
@@ -32362,9 +32592,9 @@ RESOURCE ID: mega_walking_progress
 TEXT: Lauffortschritt
 
 RESOURCE ID: metadata_local
-TEXT: Built at 2023-10-09T20:21:45.748080
-at SHA 4cfe80a4adbc1f8b5f1a0a1c1119104a28c4ab22
-Pipeline 1814685, job 21993717
+TEXT: Built at 2023-10-17T20:57:13.936757
+at SHA e295afa3e17f1349b4a1bb2e22a722ecf66ae436
+Pipeline 1838232, job 22276469
 
 RESOURCE ID: mex_fighting_promo_title
 TEXT: Befristete Forschung: Ansage vom Typ Kampf
@@ -33952,6 +34182,12 @@ TEXT: Das Pokémon ist geflohen!
 RESOURCE ID: nearby_pokemon_view_button
 TEXT: Anzeigen
 
+RESOURCE ID: nearby_raid_invite_distance_kilometers
+TEXT: {0:0.0} km entfernt
+
+RESOURCE ID: nearby_raid_invite_distance_meters
+TEXT: {0:0} m entfernt
+
 RESOURCE ID: nearby_raid_local_only
 TEXT: NUR IN PERSON
 
@@ -34138,6 +34374,12 @@ TEXT: Stars der Entwicklung: Einall-Herausforderung
 RESOURCE ID: oct22_evo_collection_challenge_4
 TEXT: Stars der Entwicklung: Sinnoh-Herausforderung
 
+RESOURCE ID: oct23_cornet_collection_title
+TEXT: Meisterdetektiv Pikachu kehrt zurück: Sammler-Herausforderung
+
+RESOURCE ID: oddish_rd_event_title
+TEXT: Forschungstag mit Myrapla
+
 RESOURCE ID: old_friends_description
 TEXT: Befristete Forschung: Alte Freunde, neue Anfänge
 
@@ -34257,7 +34499,7 @@ RESOURCE ID: onboard_welcome_screen|9
 TEXT: Wähle jetzt deinen Look für dein Abenteuer aus.
 
 RESOURCE ID: one_route_nearby_label
-TEXT: 1 route
+TEXT: 1 Route
 
 RESOURCE ID: oneyearanniversary.1_title
 TEXT: Jubiläumsbox
@@ -34273,6 +34515,12 @@ TEXT: Mit vollem Item-Beutel Geschenke öffnen
 
 RESOURCE ID: open_gifts_on_bag_full_tip
 TEXT: Erlaubt es dir, mit einem vollen Item-Beutel Geschenke zu öffnen. Du kannst dabei jedoch nur Sternenstaub erhalten.
+
+RESOURCE ID: open_in_map_route_pause_location
+TEXT: Route wurde hier pausiert
+
+RESOURCE ID: open_in_map_route_pause_location_backup
+TEXT: Route wurde hier pausiert
 
 RESOURCE ID: open_settings
 TEXT: Einstellungen öffnen
@@ -34297,6 +34545,12 @@ TEXT: AR öffnen
 
 RESOURCE ID: other_section_title
 TEXT: Sonstiges
+
+RESOURCE ID: out_to_play_23_free_header_0
+TEXT: Befristete Forschung: Nichts wie raus
+
+RESOURCE ID: out_to_play_event_name
+TEXT: Nichts wie raus
 
 RESOURCE ID: paid_raid_ticket_details_desc
 TEXT: Ein Premium-Kampf-Pass kann verwendet werden, um einem Raid-Kampf beizutreten oder der Premium-Belohnungen in der GO-Kampfliga zu verdienen.
@@ -34379,6 +34633,428 @@ TEXT: Du hast keinen freien Platz in deinem Kampfteam.
 
 RESOURCE ID: party_hat_pikachu_tr_title
 TEXT: Ich, du und Pikachu!
+
+RESOURCE ID: party_play_ability_activate
+TEXT: Team-Power aktiviert
+
+RESOURCE ID: party_play_ability_charge_attack
+TEXT: {0} hat {1} mit Team-Power eingesetzt.
+
+RESOURCE ID: party_play_ability_charge_attack_nameplate
+TEXT: Team-Power!
+
+RESOURCE ID: party_play_activities
+TEXT: Aktivitäten 
+
+RESOURCE ID: party_play_activity_category_0
+TEXT: Favorit
+
+RESOURCE ID: party_play_activity_category_1
+TEXT: Spezial
+
+RESOURCE ID: party_play_activity_category_2
+TEXT: Pokémon
+
+RESOURCE ID: party_play_activity_category_3
+TEXT: Allgemein
+
+RESOURCE ID: party_play_activity_category_4
+TEXT: Abenteuer
+
+RESOURCE ID: party_play_activity_category_5
+TEXT: Würfe
+
+RESOURCE ID: party_play_activity_category_6
+TEXT: Kampf
+
+RESOURCE ID: party_play_activity_description_100
+TEXT: Gewonnene Trainerkämpfe: <color=#F2A64B>{0}</color>
+
+RESOURCE ID: party_play_activity_description_101
+TEXT: Gewonnene Arenakämpfe: <color=#F2A64B>{0}</color>
+
+RESOURCE ID: party_play_activity_description_21
+TEXT: Gefangene Pokémon: <color=#F2A64B>{0}</color>
+
+RESOURCE ID: party_play_activity_description_22
+TEXT: Gefangene Schillernde Pokémon: <color=#F2A64B>{0}</color>
+
+RESOURCE ID: party_play_activity_description_23
+TEXT: Gefangene Normal-Pokémon: <color=#F2A64B>{0}</color>
+
+RESOURCE ID: party_play_activity_description_24
+TEXT: Gefangene Kampf-Pokémon: <color=#F2A64B>{0}</color>
+
+RESOURCE ID: party_play_activity_description_25
+TEXT: Gefangene Flug-Pokémon: <color=#F2A64B>{0}</color>
+
+RESOURCE ID: party_play_activity_description_26
+TEXT: Gefangene Gift-Pokémon: <color=#F2A64B>{0}</color>
+
+RESOURCE ID: party_play_activity_description_27
+TEXT: Gefangene Boden-Pokémon: <color=#F2A64B>{0}</color>
+
+RESOURCE ID: party_play_activity_description_28
+TEXT: Gefangene Gesteins-Pokémon: <color=#F2A64B>{0}</color>
+
+RESOURCE ID: party_play_activity_description_29
+TEXT: Gefangene Käfer-Pokémon: <color=#F2A64B>{0}</color>
+
+RESOURCE ID: party_play_activity_description_30
+TEXT: Gefangene Geister-Pokémon: <color=#F2A64B>{0}</color>
+
+RESOURCE ID: party_play_activity_description_31
+TEXT: Gefangene Stahl-Pokémon: <color=#F2A64B>{0}</color>
+
+RESOURCE ID: party_play_activity_description_32
+TEXT: Gefangene Feuer-Pokémon: <color=#F2A64B>{0}</color>
+
+RESOURCE ID: party_play_activity_description_33
+TEXT: Gefangene Pflanzen-Pokémon: <color=#F2A64B>{0}</color>
+
+RESOURCE ID: party_play_activity_description_34
+TEXT: Gefangene Wasser-Pokémon: <color=#F2A64B>{0}</color>
+
+RESOURCE ID: party_play_activity_description_35
+TEXT: Gefangene Elektro-Pokémon: <color=#F2A64B>{0}</color>
+
+RESOURCE ID: party_play_activity_description_36
+TEXT: Gefangene Psycho-Pokémon: <color=#F2A64B>{0}</color>
+
+RESOURCE ID: party_play_activity_description_37
+TEXT: Gefangene Eis-Pokémon: <color=#F2A64B>{0}</color>
+
+RESOURCE ID: party_play_activity_description_38
+TEXT: Gefangene Drachen-Pokémon: <color=#F2A64B>{0}</color>
+
+RESOURCE ID: party_play_activity_description_39
+TEXT: Gefangene Unlicht-Pokémon: <color=#F2A64B>{0}</color>
+
+RESOURCE ID: party_play_activity_description_40
+TEXT: Gefangene Feen-Pokémon: <color=#F2A64B>{0}</color>
+
+RESOURCE ID: party_play_activity_description_41
+TEXT: Gefangene XXS-Pokémon: <color=#F2A64B>{0}</color>
+
+RESOURCE ID: party_play_activity_description_42
+TEXT: Gefangene XXL-Pokémon: <color=#F2A64B>{0}</color>
+
+RESOURCE ID: party_play_activity_description_59
+TEXT: Verschiedene PokéStops besucht: <color=#F2A64B>{0}</color>
+
+RESOURCE ID: party_play_activity_description_60
+TEXT: Abgeschlossene Feldforschungsaufgaben: <color=#F2A64B>{0}</color>
+
+RESOURCE ID: party_play_activity_description_71
+TEXT: Erkundete Kilometer: <color=#F2A64B>{0}</color>
+
+RESOURCE ID: party_play_activity_description_72
+TEXT: Ausgebrütete Eier: <color=#F2A64B>{0}</color>
+
+RESOURCE ID: party_play_activity_description_73
+TEXT: Verdiente Bonbons: <color=#F2A64B>{0}</color>
+
+RESOURCE ID: party_play_activity_description_84
+TEXT: Würfe insgesamt: <color=#F2A64B>{0}</color>
+
+RESOURCE ID: party_play_activity_description_85
+TEXT: Fabelhafte Würfe: <color=#F2A64B>{0}</color>
+
+RESOURCE ID: party_play_activity_description_86
+TEXT: Großartige Würfe: <color=#F2A64B>{0}</color>
+
+RESOURCE ID: party_play_activity_description_87
+TEXT: Gute Würfe: <color=#F2A64B>{0}</color>
+
+RESOURCE ID: party_play_activity_description_98
+TEXT: Gewonnene Raids: <color=#F2A64B>{0}</color>
+
+RESOURCE ID: party_play_activity_description_99
+TEXT: Gewonnene Team GO Rocket-Kämpfe: <color=#F2A64B>{0}</color>
+
+RESOURCE ID: party_play_activity_leave_summary_100
+TEXT: Gewonnene Trainerkämpfe
+
+RESOURCE ID: party_play_activity_leave_summary_101
+TEXT: Gewonnene Arenakämpfe
+
+RESOURCE ID: party_play_activity_leave_summary_21
+TEXT: Gefangene Pokémon
+
+RESOURCE ID: party_play_activity_leave_summary_22
+TEXT: Gefangene Schillernde Pokémon
+
+RESOURCE ID: party_play_activity_leave_summary_23
+TEXT: Gefangene Normal-Pokémon
+
+RESOURCE ID: party_play_activity_leave_summary_24
+TEXT: Gefangene Kampf-Pokémon
+
+RESOURCE ID: party_play_activity_leave_summary_25
+TEXT: Gefangene Flug-Pokémon
+
+RESOURCE ID: party_play_activity_leave_summary_26
+TEXT: Gefangene Gift-Pokémon
+
+RESOURCE ID: party_play_activity_leave_summary_27
+TEXT: Gefangene Boden-Pokémon
+
+RESOURCE ID: party_play_activity_leave_summary_28
+TEXT: Gefangene Gesteins-Pokémon
+
+RESOURCE ID: party_play_activity_leave_summary_29
+TEXT: Gefangene Käfer-Pokémon
+
+RESOURCE ID: party_play_activity_leave_summary_30
+TEXT: Gefangene Geister-Pokémon
+
+RESOURCE ID: party_play_activity_leave_summary_31
+TEXT: Gefangene Stahl-Pokémon
+
+RESOURCE ID: party_play_activity_leave_summary_32
+TEXT: Gefangene Feuer-Pokémon
+
+RESOURCE ID: party_play_activity_leave_summary_33
+TEXT: Gefangene Pflanzen-Pokémon
+
+RESOURCE ID: party_play_activity_leave_summary_34
+TEXT: Gefangene Wasser-Pokémon
+
+RESOURCE ID: party_play_activity_leave_summary_35
+TEXT: Gefangene Elektro-Pokémon
+
+RESOURCE ID: party_play_activity_leave_summary_36
+TEXT: Gefangene Psycho-Pokémon
+
+RESOURCE ID: party_play_activity_leave_summary_37
+TEXT: Gefangene Eis-Pokémon
+
+RESOURCE ID: party_play_activity_leave_summary_38
+TEXT: Gefangene Drachen-Pokémon
+
+RESOURCE ID: party_play_activity_leave_summary_39
+TEXT: Gefangene Unlicht-Pokémon
+
+RESOURCE ID: party_play_activity_leave_summary_40
+TEXT: Gefangene Feen-Pokémon
+
+RESOURCE ID: party_play_activity_leave_summary_41
+TEXT: Gefangene XXS-Pokémon
+
+RESOURCE ID: party_play_activity_leave_summary_42
+TEXT: Gefangene XXL-Pokémon
+
+RESOURCE ID: party_play_activity_leave_summary_59
+TEXT: Besuchte PokéStops
+
+RESOURCE ID: party_play_activity_leave_summary_60
+TEXT: Abgeschlossene Feldforschungsaufgaben
+
+RESOURCE ID: party_play_activity_leave_summary_71
+TEXT: Erkundete Kilometer
+
+RESOURCE ID: party_play_activity_leave_summary_72
+TEXT: Ausgebrütete Eier
+
+RESOURCE ID: party_play_activity_leave_summary_73
+TEXT: Verdiente Bonbons
+
+RESOURCE ID: party_play_activity_leave_summary_84
+TEXT: Würfe insgesamt
+
+RESOURCE ID: party_play_activity_leave_summary_85
+TEXT: Fabelhafte Würfe
+
+RESOURCE ID: party_play_activity_leave_summary_86
+TEXT: Großartige Würfe
+
+RESOURCE ID: party_play_activity_leave_summary_87
+TEXT: Gute Würfe
+
+RESOURCE ID: party_play_activity_leave_summary_98
+TEXT: Gewonnene Raids
+
+RESOURCE ID: party_play_activity_leave_summary_99
+TEXT: Gewonnene Team GO Rocket-Kämpfe
+
+RESOURCE ID: party_play_activity_summary
+TEXT: Aktivitätsübersicht
+
+RESOURCE ID: party_play_bonuses
+TEXT: Boni
+
+RESOURCE ID: party_play_bookmark_description_text
+TEXT: Ordne deine Aktivitäten, indem du sie favorisierst!
+
+RESOURCE ID: party_play_bookmark_description_title
+TEXT: Favorisierte Aktivitäten
+
+RESOURCE ID: party_play_cannot_play_routes
+TEXT: Du kannst keine Routen erforschen, wenn du in einem Team bist.
+
+RESOURCE ID: party_play_challenge_description
+TEXT: Wähle eine Team-Herausforderung und schließe sie mit deinem Team ab, um eine Belohnung zu erhalten!
+
+RESOURCE ID: party_play_code_invalid
+TEXT: Das Team konnte nicht gefunden werden.
+
+RESOURCE ID: party_play_copy_code_toast
+TEXT: Kopiert
+
+RESOURCE ID: party_play_create
+TEXT: Erstellen
+
+RESOURCE ID: party_play_disbanded_message
+TEXT: Ein Trainer hat das Team verlassen. Ein Team erfordert mindestens zwei Trainer.
+
+RESOURCE ID: party_play_disbanded_title
+TEXT: Team wurde beendet
+
+RESOURCE ID: party_play_expired_lobby_timer_message
+TEXT: Die Teamlobby ist abgelaufen.
+
+RESOURCE ID: party_play_invite
+TEXT: Einladen
+
+RESOURCE ID: party_play_invite_more_players
+TEXT: Lade einen anderen Trainer ein!
+
+RESOURCE ID: party_play_join
+TEXT: Team beitreten
+
+RESOURCE ID: party_play_join_error_full
+TEXT: Das Team ist voll.
+
+RESOURCE ID: party_play_join_error_generic
+TEXT: Fehler. Bitte versuche es erneut.
+
+RESOURCE ID: party_play_join_error_proximity
+TEXT: Du musst in der Nähe des Gastgebers sein, um beizutreten.
+
+RESOURCE ID: party_play_join_error_u13
+TEXT: Du musst mit dem Gastgeber befreundet sein, um beizutreten.
+
+RESOURCE ID: party_play_join_nearby_body
+TEXT: Du musst in der Nähe des Gastgebers sein, bevor du den Teamcode scannen oder eingeben kannst.
+
+RESOURCE ID: party_play_join_nearby_title
+TEXT: Finde den Gastgeber
+
+RESOURCE ID: party_play_leave
+TEXT: Team verlassen
+
+RESOURCE ID: party_play_leave_party_message
+TEXT: Du kannst dem Team wieder beitreten, indem du den Teamcode eingibst, während du in der Nähe des Gastgebers bist.
+
+RESOURCE ID: party_play_leave_party_title
+TEXT: Bist du sicher, dass du das Team verlassen willst?
+
+RESOURCE ID: party_play_members
+TEXT: Teammitglieder
+
+RESOURCE ID: party_play_missing_player_name
+TEXT: ???
+
+RESOURCE ID: party_play_modal_pause_route_consumption_body
+TEXT: Du kannst einer Route nicht folgen während du in einem Team bist. Wenn du dich entscheidest, einem Team beizutreten, wird deine Route pausiert. 
+
+RESOURCE ID: party_play_modal_pause_route_consumption_title
+TEXT: Möchtest du deine Route pausieren, um einem Team beizutreten?
+
+RESOURCE ID: party_play_modal_pause_route_creation_body
+TEXT: Du kannst keine Route erstellen, wenn du in einem Team bist. Wenn du dich entscheidest, einem Team beizutreten, wird die Routen-Erstellung pausiert.
+
+RESOURCE ID: party_play_modal_pause_route_creation_title
+TEXT: Möchtest du die Routen-Erstellung pausieren, um einem Team beizutreten?
+
+RESOURCE ID: party_play_only_host_can_start_party
+TEXT: Auf {0} für den Teamstart warten ...
+
+RESOURCE ID: party_play_party_challenge_complete
+TEXT: Dein Team hat die Team-Herausforderung abgeschlossen! Schnapp dir deine Belohnung!
+
+RESOURCE ID: party_play_party_challenge_start
+TEXT: Start
+
+RESOURCE ID: party_play_party_challenge_start_guest
+TEXT: {0} wählt eine Team-Herausforderung ...
+
+RESOURCE ID: party_play_party_challenge_start_warning
+TEXT: Wähle eine Team-Herausforderung.
+
+RESOURCE ID: party_play_party_code
+TEXT: Teamcode
+
+RESOURCE ID: party_play_party_code_description
+TEXT: Gib einen Teamcode ein, um einem Team beizutreten. Du musst in der Nähe des Gastgebers sein, um beizutreten.
+
+RESOURCE ID: party_play_party_name
+TEXT: {0}s Team
+
+RESOURCE ID: party_play_popup_tutorial_1
+TEXT: Benutze Reaktionen, um mit Teammitgliedern zu kommunizieren! Tippe auf das Teammitglied-Symbol auf der Karte, um deine verfügbaren Reaktionen zu sehen.
+
+RESOURCE ID: party_play_popup_tutorial_2
+TEXT: Setze Sofort-Attacken in Raids mit anderen Teammitgliedern ein, um Team-Power zu erhalten, die den Schaden deiner nächsten Lade-Attacke erhöht.
+
+Team-Power lädt sich mit mehr Teammitgliedern schneller auf.
+
+RESOURCE ID: party_play_popup_tutorial_3
+TEXT: Team-Power
+
+RESOURCE ID: party_play_raid_menu_header
+TEXT: TEAM-PLAY-RAIDS
+
+RESOURCE ID: party_play_scan_qr_code
+TEXT: Scanne den QR-Code des Teams.
+
+RESOURCE ID: party_play_see_all_activities
+TEXT: Alle Aktivitäten anzeigen
+
+RESOURCE ID: party_play_show_in_app_notifications
+TEXT: In-Game-Benachrichtigungen bei Team-Play anzeigen
+
+RESOURCE ID: party_play_start_requirement_not_met
+TEXT: Ein Team erfordert mindestens zwei Trainer.
+
+RESOURCE ID: party_play_toast_player_is_new_host
+TEXT: {0} hat das Team verlassen. {1} ist jetzt der Gastgeber.
+
+RESOURCE ID: party_play_toast_player_joined
+TEXT: {0} ist dem Team beigetreten.
+
+RESOURCE ID: party_play_toast_player_left
+TEXT: {0} hat das Team verlassen.
+
+RESOURCE ID: party_play_tutorial_1_body
+TEXT: Erhalte Teamboni und verdiene Belohnungen, während du mit anderen Trainern spielst!
+
+RESOURCE ID: party_play_tutorial_1_title
+TEXT: Was ist ein Team?
+
+RESOURCE ID: party_play_tutorial_2_body
+TEXT: Verdiene Belohnungen für den Abschluss von Team-Herausforderungen mit deinem Team!
+
+RESOURCE ID: party_play_tutorial_2_title
+TEXT: Team-Herausforderung
+
+RESOURCE ID: party_play_zone_boot_body
+TEXT: Du bist zu weit vom Gastgeber entfernt. Du musst dich in der Nähe des Gastgebers befinden und den Teamcode eingeben, um dem Team wieder beizutreten.
+
+RESOURCE ID: party_play_zone_boot_title
+TEXT: Du hast das Team verlassen.
+
+RESOURCE ID: party_play_zone_reenter_toast
+TEXT: Du bist jetzt in der Nähe des Gastgebers.
+
+RESOURCE ID: party_play_zone_warning_body
+TEXT: Du musst dich in der Nähe des Gastgebers befinden, um im Team zu bleiben. Wenn du zu weit weg bist, wirst du aus dem Team entfernt.
+
+RESOURCE ID: party_play_zone_warning_ok
+TEXT: O. K.
+
+RESOURCE ID: party_play_zone_warning_title
+TEXT: Zu weit entfernt von {0}
 
 RESOURCE ID: passcode_log_received_badge
 TEXT: Orden durch Code {0} erhalten.
@@ -34550,6 +35226,9 @@ TEXT: Foto gespeichert
 RESOURCE ID: photo_unable_to_save
 TEXT: Das Foto konnte nicht gespeichert werden.
 
+RESOURCE ID: photobomb_cornet_pikachu
+TEXT: Chance auf eine überraschende Begegnung mit Pikachu in GO-Schnappschuss
+
 RESOURCE ID: photobomb_five_abra
 TEXT: 5 überraschende Begegnungen mit Abra in GO-Schnappschuss
 
@@ -34600,6 +35279,9 @@ TEXT: 5 überraschende Begegnungen mit Nebulak in GO-Schnappschuss
 
 RESOURCE ID: photobomb_five_gible
 TEXT: 5 überraschende Begegnungen mit Kaumalat in GO-Schnappschuss
+
+RESOURCE ID: photobomb_five_grubbin
+TEXT: 5 überraschende Begegnungen mit Mabula in GO-Schnappschuss
 
 RESOURCE ID: photobomb_five_hoppip
 TEXT: 5 überraschende Begegnungen mit Hoppspross in GO-Schnappschuss
@@ -34696,6 +35378,9 @@ TEXT: 5 überraschende Begegnungen mit Pikachu mit Safarihut in GO-Schnappschuss
 
 RESOURCE ID: photobomb_special
 TEXT: Event-Begegnungen in GO-Schnappschuss
+
+RESOURCE ID: photobomb_torkoal
+TEXT: Chance auf eine überraschende Begegnung mit Qurtel in GO-Schnappschuss
 
 RESOURCE ID: pick_team1_desc
 TEXT: Willkommen im Team Weisheit!
@@ -46310,6 +46995,9 @@ TEXT: PokéStop-Module
 RESOURCE ID: pokestop_item_inventory_full
 TEXT: Dein Beutel ist voll.
 
+RESOURCE ID: pokestop_item_inventory_full_button
+TEXT: ITEM BAG IS FULL
+
 RESOURCE ID: pokestop_item_passcode_inventory_full
 TEXT: Dein Item-Beutel ist voll oder du befindest dich außerhalb der Reichweite des Check-in-Ortes.
 
@@ -46877,6 +47565,9 @@ TEXT: Trainer-Club
 RESOURCE ID: ptc_need_to_register_button
 TEXT: Registrieren
 
+RESOURCE ID: pumpkaboo_event_mossy_lure_pokemon
+TEXT: Irrbis werden von Moos-Lockmodulen angelockt
+
 RESOURCE ID: pups_tutorial_p0_body
 TEXT: Wenn du einen Standort scannst, werden seine Standortpunkte erhöht. Wenn der Standort aufgeladen ist, erhalten die Trainer in der Nähe je nach Level Bonusse.
 
@@ -47167,7 +47858,7 @@ TEXT: Sternen-
 staub
 
 RESOURCE ID: quest_buddy_affection_days
-TEXT: Verdiene an {0} verschiedenen Tagen ein Herz mit deinem Kumpel
+TEXT: Verdiene an {0} verschiedenen Tagen ein Herz mit deinem Kumpel.
 
 RESOURCE ID: quest_buddy_affection_days_in_a_row
 TEXT: Verdiene {0} Tage hintereinander ein Herz mit deinem Kumpel.
@@ -47305,7 +47996,7 @@ RESOURCE ID: quest_catch_misc_01_types_plural
 TEXT: Fange {0} Pokémon vom Typ Normal, Wasser oder Eis.
 
 RESOURCE ID: quest_catch_nymble_plural
-TEXT: Fange {0} Micrick
+TEXT: Fange {0} Micrick.
 
 RESOURCE ID: quest_catch_pikachu_plural
 TEXT: Fange {0} Pikachu.
@@ -47317,10 +48008,22 @@ RESOURCE ID: quest_catch_pokemon_dai_plural
 TEXT: Verwende den Täglichen Abenteuerrauch, um {0} Pokémon zu fangen.
 
 RESOURCE ID: quest_catch_pokemon_days
-TEXT: Fange an {0} verschiedenen Tagen ein Pokémon
+TEXT: Fange an {0} verschiedenen Tagen ein Pokémon.
+
+RESOURCE ID: quest_catch_pokemon_great_ball_plural
+TEXT: Fange {0} Pokémon in Superbällen.
+
+RESOURCE ID: quest_catch_pokemon_great_ball_singular
+TEXT: Fange ein Pokémon in einem Superball.
 
 RESOURCE ID: quest_catch_pokemon_plural
 TEXT: Fange {0} Pokémon.
+
+RESOURCE ID: quest_catch_pokemon_poke_ball_plural
+TEXT: Fange {0} Pokémon in Pokébällen.
+
+RESOURCE ID: quest_catch_pokemon_poke_ball_singular
+TEXT: Fange ein Pokémon in einem Pokéball.
 
 RESOURCE ID: quest_catch_pokemon_routes_plural
 TEXT: Fange {0} Pokémon beim Folgen von Routen.
@@ -47333,6 +48036,12 @@ TEXT: Fange ein Pokémon.
 
 RESOURCE ID: quest_catch_pokemon_task
 TEXT: Fange Pokémon.
+
+RESOURCE ID: quest_catch_pokemon_ultra_ball_plural
+TEXT: Fange {0} Pokémon in Hyperbällen.
+
+RESOURCE ID: quest_catch_pokemon_ultra_ball_singular
+TEXT: Fange ein Pokémon in einem Hyperball.
 
 RESOURCE ID: quest_catch_psychic_steel
 TEXT: Fange {0} Pokémon vom Typ Psycho oder Stahl.
@@ -47868,6 +48577,9 @@ TEXT: Ändere die Form eines Pokémon.
 RESOURCE ID: quest_charged_attack_plural
 TEXT: Setze {0} Lade-Attacken ein.
 
+RESOURCE ID: quest_charjabug_evolve_b
+TEXT: Entwickle {0} Akkup.
+
 RESOURCE ID: quest_chart_catch_b
 TEXT: Fange {0} Glumanda.
 
@@ -48055,7 +48767,7 @@ RESOURCE ID: quest_complete_zygarde
 TEXT: Von A bis Zygarde
 
 RESOURCE ID: quest_crocalor_evolve_b
-TEXT: Entwickle ein Lokroko
+TEXT: Entwickle ein Lokroko.
 
 RESOURCE ID: quest_daily_bonus_title
 TEXT: Tagesbonus
@@ -48636,11 +49348,17 @@ TEXT: Mache einen Schnappschuss von deinem Evoli in Mexico City.
 RESOURCE ID: quest_event_eevee_snapshot_seoul
 TEXT: Mache einen Schnappschuss von deinem Evoli in Seoul.
 
+RESOURCE ID: quest_event_leave_behind_spin
+TEXT: Drehe 10 PokéStops oder Arenen, die du noch nicht besucht hast.
+
+RESOURCE ID: quest_event_leave_behind_spin_safari_city
+TEXT: Drehe den PokéStop bei einem Evoli-Forscher-Standort.
+
 RESOURCE ID: quest_event_leave_behind_spin_safari_city_plural
-TEXT: Spin {0} Pokéstops at an Eevee Explorer location you've never visited before
+TEXT: Drehe {0} PokéStops bei Evoli-Forscher-Standorten, die du noch nicht besucht hast.
 
 RESOURCE ID: quest_event_leave_behind_spin_safari_city_singular
-TEXT: Spin a Pokéstop at an Eevee Explorer location you've never visited before
+TEXT: Drehe einen PokéStop bei einem Evoli-Forscher-Standort, den du noch nicht besucht hast.
 
 RESOURCE ID: quest_event_spin_barcelona
 TEXT: Drehe einen PokéStop oder eine Arena in Barcelona.
@@ -49963,7 +50681,7 @@ RESOURCE ID: quest_flett_evolve_s1
 TEXT: Entwickle {0} Dartignis.
 
 RESOURCE ID: quest_floragato_evolve_b
-TEXT: Entwickle ein Feliospa
+TEXT: Entwickle ein Feliospa.
 
 RESOURCE ID: quest_fraxure_evolve_b
 TEXT: Entwickle {0} Sharfax.
@@ -49981,7 +50699,7 @@ RESOURCE ID: quest_frogadier_evolve_b
 TEXT: Entwickle {0} Amphizel.
 
 RESOURCE ID: quest_fuecoco_evolve_b
-TEXT: Entwickle ein Krokel
+TEXT: Entwickle ein Krokel.
 
 RESOURCE ID: quest_gbl_rank
 TEXT: Erreiche Rang {0} in der GO-Kampfliga.
@@ -50568,6 +51286,15 @@ TEXT: Mache einen Schnappschuss im Lebensraum Team Wagemut.
 RESOURCE ID: quest_gotoursik_photo_willow
 TEXT: Mache einen Schnappschuss im Lebensraum Professor Willow.
 
+RESOURCE ID: quest_grubbin_catch_b
+TEXT: Fange {0} Mabula.
+
+RESOURCE ID: quest_grubbin_evolve_b
+TEXT: Entwickle {0} Mabula.
+
+RESOURCE ID: quest_grubbin_snapshot_b
+TEXT: Mache einen Schnappschuss von {0} Mabula.
+
 RESOURCE ID: quest_gt_catch_b
 TEXT: Fange {0} Nebulak.
 
@@ -51100,10 +51827,10 @@ RESOURCE ID: quest_psychicspec_evolve_plural
 TEXT: Entwickle {0} Owei oder Flegmon.
 
 RESOURCE ID: quest_quaxly_evolve_b
-TEXT: Entwickle ein Kwaks
+TEXT: Entwickle ein Kwaks.
 
 RESOURCE ID: quest_quaxwell_evolve_b
-TEXT: Entwickle ein Fuentente
+TEXT: Entwickle ein Fuentente.
 
 RESOURCE ID: quest_quilladin_evolve_b
 TEXT: Entwickle {0} Igastarnish.
@@ -51380,6 +52107,9 @@ TEXT: Mache einen Schnappschuss von deinem Machomei.
 
 RESOURCE ID: quest_snapshot_okinawa
 TEXT: Mache einen Schnappschuss in Okinawa
+
+RESOURCE ID: quest_snapshot_poison_grass_singular
+TEXT: Mache einen Schnappschuss von einem wilden Gift-Pokémon.
 
 RESOURCE ID: quest_snapshot_regi_ice
 TEXT: Mache einen Schnappschuss von Regice.
@@ -53625,6 +54355,78 @@ TEXT: Danke für deine Hilfe! Ohne dich hätten wir das nie geschafft.
 
 RESOURCE ID: quest_special_dialogue_gofest_4_4
 TEXT: Dieses Wochenende ist schon jetzt ein unvergessliches Erlebnis!
+
+RESOURCE ID: quest_special_dialogue_grubbin_1_0
+TEXT: Hallöchen, %PLAYERNAME%!
+
+RESOURCE ID: quest_special_dialogue_grubbin_1_1
+TEXT: Ich nehme an, du hast den Zustrom von Mabula in der Gegend heute bemerkt.
+
+RESOURCE ID: quest_special_dialogue_grubbin_1_2
+TEXT: Diese Pokémon lähmen Gegner, indem sie klebrige Fäden auf sie spucken – du solltest dich also vor ihnen in Acht nehmen!
+
+RESOURCE ID: quest_special_dialogue_grubbin_1_3
+TEXT: Mabula leben allerdings normalerweise unter der Erde ... Ich frage mich, was sie heute an die Oberfläche gelockt hat. Kannst du ein paar fangen, damit wir der Sache auf den Grund gehen können?
+
+RESOURCE ID: quest_special_dialogue_grubbin_1_4
+TEXT: Vielleicht liegt die Stärke in der Menge. Die natürlichen Feinde von Mabula fliehen manchmal lieber, als eine Begegnung mit den mächtigen Kiefern des Larven-Pokémon zu riskieren – oder schlimmer noch, einen unerwarteten Schock!
+
+RESOURCE ID: quest_special_dialogue_grubbin_1_4_0
+TEXT: Willkommen zurück, %PLAYERNAME%! Konntest du herausfinden, warum heute so viele Mabula an der Oberfläche aufgetaucht sind?
+
+RESOURCE ID: quest_special_dialogue_grubbin_1_5
+TEXT: Ich habe auch gehört, dass Mabula gerne süßen Pflanzensaft nascht. Glaubst du, er schmeckt wie Sananabeerensaft?
+
+RESOURCE ID: quest_special_dialogue_grubbin_1_6
+TEXT: Vielleicht sollte ich ihn selbst mal probieren ... Nur für die Wissenschaft natürlich!
+
+RESOURCE ID: quest_special_dialogue_grubbin_1_7
+TEXT: Ähem. Mabula ist sicherlich ein faszinierendes Pokémon, aber warte nur, bis du seine Entwicklung siehst.
+
+RESOURCE ID: quest_special_dialogue_grubbin_1_8
+TEXT: Warum entwickelst du nicht einfach selbst ein Mabula, %PLAYERNAME%?
+
+RESOURCE ID: quest_special_dialogue_grubbin_2_0
+TEXT: Nettes Akkup, %PLAYERNAME%!
+
+RESOURCE ID: quest_special_dialogue_grubbin_2_1
+TEXT: Akkup speichert Elektrizität in seinem Körper. Bei einem Campingausflug kann man wohl kein praktischeres Pokémon dabeihaben!
+
+RESOURCE ID: quest_special_dialogue_grubbin_2_2
+TEXT: Es vergräbt sich auch gerne unter Blättern, wo es nahezu regungslos verharrt und Humus frisst.
+
+RESOURCE ID: quest_special_dialogue_grubbin_2_3
+TEXT: Sei vorsichtig, %PLAYERNAME% – du und Akkup könnten gleichermaßen schockiert sein, wenn du versehentlich auf es trittst!
+
+RESOURCE ID: quest_special_dialogue_grubbin_2_4
+TEXT: Niemand wird gerne beim Essen gestört.
+
+RESOURCE ID: quest_special_dialogue_grubbin_2_5
+TEXT: Auf jeden Fall wirst du von Akkups Stromstärke beeindruckt sein. Seine Kiefer sind zwar kleiner als die von Mabula, aber lass dich nicht davon täuschen, dass es sich um einen Schwächling handelt!
+
+RESOURCE ID: quest_special_dialogue_grubbin_2_6
+TEXT: Wusstest du, dass Akkup sich auch weiterentwickeln kann? Ich habe seine Entwicklung noch nie selbst miterlebt, aber ich habe gehört, dass sie ziemlich beeindruckend ist!
+
+RESOURCE ID: quest_special_dialogue_grubbin_2_7
+TEXT: Warum versuchst du nicht mal, dein Akkup zu entwickeln, %PLAYERNAME%?
+
+RESOURCE ID: quest_special_dialogue_grubbin_3_0
+TEXT: Wow – es ist ein Donarion!
+
+RESOURCE ID: quest_special_dialogue_grubbin_3_1
+TEXT: Wer hätte gedacht, dass sich ein kleines Mabula einmal zu diesem atemberaubenden, beflügelten Wesen entwickeln würde?
+
+RESOURCE ID: quest_special_dialogue_grubbin_3_2
+TEXT: Donarion erzeugt in seinem Bauch Elektrizität, die es in seinem großen Kiefer sammeln und dann als Hochleistungsstrahlen abfeuern kann.
+
+RESOURCE ID: quest_special_dialogue_grubbin_3_3
+TEXT: Es ist auch bekannt, dass Donarion Akkup als Reservebatterie bei sich trägt, mit dessen Hilfe es schnell und mit voller Kraft Attacken abfeuern kann.
+
+RESOURCE ID: quest_special_dialogue_grubbin_3_4
+TEXT: Das klingt ein bisschen einschüchternd, aber es ist auch ein schönes Beispiel dafür, wie zwei Pokémon zusammenarbeiten können. Inspirierend, wenn du mich fragst!
+
+RESOURCE ID: quest_special_dialogue_grubbin_3_5
+TEXT: Wer weiß – vielleicht fungiert dein Donarion ja als eine Art Batterie, die euch auf euren gemeinsamen Abenteuern auflädt! Ich freue mich schon darauf, alles darüber zu erfahren. Bis zum nächsten Mal, %PLAYERNAME%!
 
 RESOURCE ID: quest_special_dialogue_gt_0_0
 TEXT: Hallo, %PLAYERNAME%! Ich freue mich, dich zu sehen! Irgendetwas Komisches geht vor sich und ich brauche deine Hilfe. Würdest du mir bei meinen Recherchen helfen?
@@ -60518,13 +61320,13 @@ RESOURCE ID: quest_spin_mexico_singular
 TEXT: Drehe einen PokéStop in Mexiko.
 
 RESOURCE ID: quest_spin_pokestop_days
-TEXT: Besuche an {0} verschiedenen Tagen PokéStops
+TEXT: Besuche an {0} verschiedenen Tagen PokéStops.
 
 RESOURCE ID: quest_spin_ultra_wormhole_gym
 TEXT: Drehe die Arena, die als „Ultrapforte” gekennzeichnet ist.
 
 RESOURCE ID: quest_sprigatito_evolve_b
-TEXT: Entwickle ein Felori
+TEXT: Entwickle ein Felori.
 
 RESOURCE ID: quest_squirtle_catch_b
 TEXT: Fange {0} Schiggy.
@@ -60705,6 +61507,24 @@ TEXT: Es bleiben noch {0} Tage, um diese Spezialforschung abzuschließen.
 
 RESOURCE ID: quest_time_remaining_day_singular
 TEXT: Es bleibt noch {0} Tag, um diese Spezialforschung abzuschließen.
+
+RESOURCE ID: quest_timed_dialogue_cornet_0_0
+TEXT: Hallo, %PLAYERNAME%! Ich sehe, dass du auch dem Detektiv-Wahn verfallen bist. Diese Pikachu sehen mit ihren Hüten echt niedlich aus, oder?
+
+RESOURCE ID: quest_timed_dialogue_cornet_0_1
+TEXT: Im Geiste der Detektivarbeit habe ich ein kleines Spiel für dich entwickelt. Ich nenne es – Pokémon von Interesse!
+
+RESOURCE ID: quest_timed_dialogue_cornet_0_2
+TEXT: Ich gebe dir ein paar Hinweise und du musst herausfinden, welches Pokémon ich meine. Los geht's!
+
+RESOURCE ID: quest_timed_dialogue_cornet_0_3
+TEXT: Dieses Pokémon ist bekannt für seine grünen Akzente. Es ist aber eine Art von Pokémon, die in letzter Zeit hier in der Gegend nicht erschienen ist.
+
+RESOURCE ID: quest_timed_dialogue_cornet_0_4
+TEXT: Es täuscht andere auch gerne. Man könnte sagen, es ist nicht das, was es scheint!
+
+RESOURCE ID: quest_timed_dialogue_cornet_0_5
+TEXT: Was denkst du, %PLAYERNAME%? Hast du eine Idee? Wenn du mit deiner Schlussfolgerung richtig liegst, wird dir eines der Pokémon hier vielleicht persönlich gratulieren!
 
 RESOURCE ID: quest_title_af2022
 TEXT: April, April 2022
@@ -61137,6 +61957,21 @@ TEXT: GO Fest 2018 (4/5)
 
 RESOURCE ID: quest_title_gofest_4
 TEXT: GO Fest 2018 (5/5)
+
+RESOURCE ID: quest_title_grubbin
+TEXT: Mabula rasa
+
+RESOURCE ID: quest_title_grubbin_0
+TEXT: Mabula rasa (1/4)
+
+RESOURCE ID: quest_title_grubbin_1
+TEXT: Mabula rasa (2/4)
+
+RESOURCE ID: quest_title_grubbin_2
+TEXT: Mabula rasa (3/4)
+
+RESOURCE ID: quest_title_grubbin_3
+TEXT: Mabula rasa (4/4)
 
 RESOURCE ID: quest_title_gt
 TEXT: Das großartige Nebulak
@@ -63094,6 +63929,12 @@ TEXT: Verschicke {0} Pokémon vom Typ Stahl.
 RESOURCE ID: quest_transfer_type_water_plural
 TEXT: Verschicke {0} Pokémon vom Typ Wasser.
 
+RESOURCE ID: quest_travel_routes_km_plural
+TEXT: Laufe {0} km beim Folgen von Routen.
+
+RESOURCE ID: quest_travel_routes_meters_plural
+TEXT: Laufe {0} m beim Folgen von Routen.
+
 RESOURCE ID: quest_under_investigation
 TEXT: Prof. Willow betreibt momentan Recherche zu dieser Forschung. Schau bald wieder für weitere Details vorbei!
 
@@ -63249,6 +64090,9 @@ TEXT: Verdiene ein Bonbon durch Spazieren mit deinem Kumpel.
 
 RESOURCE ID: quest_walk_eevee_for_evo
 TEXT: Laufe 10 km mit Evoli als dein Kumpel, um Bonbons zu verdienen.
+
+RESOURCE ID: quest_walk_hgrowlithe_header_0
+TEXT: Feurige Abenteuer
 
 RESOURCE ID: quest_walk_km
 TEXT: Laufe {0} km.
@@ -68838,22 +69682,22 @@ RESOURCE ID: route_cancel_description_same_route
 TEXT: Wenn du eine neue Route beginnst, verlierst du deinen derzeitigen Fortschritt.
 
 RESOURCE ID: route_cancel_title
-TEXT: Bist du sicher, dass du eine neue Route beginnen möchtest?
+TEXT: Möchtest du eine neue Route beginnen?
 
 RESOURCE ID: route_cancel_title_same_route
-TEXT: Bist du sicher, dass du diese Route neu beginnen möchtest?
+TEXT: Möchtest du diese Route neu beginnen?
 
 RESOURCE ID: route_change_endpoint_error
 TEXT: Fehler beim Festlegen des Zielpunktes
 
 RESOURCE ID: route_collapsed_show_more
-TEXT: SHOW MORE {0}
+TEXT: MEHR ZEIGEN ({0})
 
 RESOURCE ID: route_community_plays_label
 TEXT: COMMUNITY-AUSFLÜGE
 
 RESOURCE ID: route_completion_congratulation
-TEXT: Congratulations!
+TEXT: Glückwunsch!
 
 RESOURCE ID: route_completion_explored_count_plural
 TEXT: Du hast diese Route
@@ -68866,11 +69710,17 @@ einmal erkundet!
 RESOURCE ID: route_completion_great_job
 TEXT: Gute Arbeit!
 
-RESOURCE ID: route_cooldown_toast_hour
-TEXT: You must wait 1 hour to play this route.
+RESOURCE ID: route_completion_loading_error
+TEXT: Routen-Fortschritt wird verifiziert. Bitte versuche es später erneut.
 
-RESOURCE ID: route_cooldown_toast_hours
-TEXT: You must wait {0} hours to play this route.
+RESOURCE ID: route_completion_modal_description
+TEXT: Die Zygarde-Zellen erscheinen nicht mehr, sobald du diese Route abgeschlossen hast.
+
+RESOURCE ID: route_completion_modal_title
+TEXT: Bist du sicher, dass du diese Route abschließen möchtest?
+
+RESOURCE ID: route_completion_out_of_range_error
+TEXT: Cannot end path recording because you are not at the end point.
 
 RESOURCE ID: route_cooldown_toast_hours_and_minute
 TEXT: Du musst {0} Stunden und {1} Minute warten, um dieser Route zu folgen.
@@ -68902,6 +69752,9 @@ TEXT: Routen-Erstellung beenden
 RESOURCE ID: route_creation_action_menu_new_endpoint
 TEXT: Neuen Zielpunkt wählen
 
+RESOURCE ID: route_creation_action_menu_open_in_map
+TEXT: AUF KARTE ÖFFNEN
+
 RESOURCE ID: route_creation_action_menu_pause
 TEXT: Routen-Erstellung pausieren
 
@@ -68921,16 +69774,16 @@ RESOURCE ID: route_creation_adsync_breadcrumb_notification
 TEXT: Routen-Erstellung ist in Bearbeitung.
 
 RESOURCE ID: route_creation_ask_start_description
-TEXT: You are near the start point, so the next step is to record your path. If you aren’t ready, you can pause Route creation and resume it later via the Route section of your Trainer profile.
+TEXT: Du näherst dich dem Startpunkt, der nächste Schritt ist die Aufzeichnung deines Pfades. Wenn du noch nicht bereit bist, kannst du die Routen-Erstellung pausieren und sie später in deinem Trainer-Profil unter „Route“ fortsetzen.
 
 RESOURCE ID: route_creation_ask_start_pause_button
 TEXT: Routen-Erstellung pausieren
 
 RESOURCE ID: route_creation_ask_start_title
-TEXT: Are you ready to record the path for your Route?
+TEXT: Bist du bereit, den Pfad deiner Route aufzuzeichnen?
 
 RESOURCE ID: route_creation_ask_submit
-TEXT: Are you done recording the path for your Route?
+TEXT: Bist du bereit, den Pfad für deine Route aufzuzeichnen?
 
 RESOURCE ID: route_creation_ask_submit_cancel
 TEXT: WEITER AUFZEICHNEN
@@ -68939,46 +69792,61 @@ RESOURCE ID: route_creation_ask_submit_confirm
 TEXT: JA, ICH BIN FERTIG
 
 RESOURCE ID: route_creation_ask_submit_description
-TEXT: You are near the end point, so you can stop recording your Route path. If you would like to extend your Route, you can continue recording and return to this end point later.
+TEXT: Du näherst dich dem Zielpunkt, also kannst du die Aufzeichnung für den Pfad deiner Routen beenden. Wenn du deine Route verlängern möchtest, kannst du die Aufzeichnung fortsetzen und später zu diesem Endpunkt zurückkehren.
 
 RESOURCE ID: route_creation_autoexit_toast
 TEXT: Routen-Erstellung wurde beendet.
 
 RESOURCE ID: route_creation_choose_end_body
-TEXT: Your recorded path must lead from the start point to this end point. You can change the end point at any time.
+TEXT: Dein aufgezeichneter Pfad muss vom Startpunkt zu diesem Endpunkt führen. Du kannst den Endpunkt jederzeit ändern.
 
 RESOURCE ID: route_creation_choose_end_header
-TEXT: Select a PokéStop or Gym to be your
+TEXT: Wähle einen PokéStop oder eine Arena als
+
+RESOURCE ID: route_creation_choose_end_header_b
+TEXT: Wähle einen PokéStop oder eine Arena auf der Karte als Zielpunkt.
 
 RESOURCE ID: route_creation_choose_end_sub_header
 TEXT: Zielpunkt für deine Route.
 
 RESOURCE ID: route_creation_choose_new_end_body
-TEXT: Your recorded path must lead from the start point to this new end point. You can change the end point at any time.
+TEXT: Dein aufgezeichneter Pfad muss vom Startpunkt zu diesem neuen Endpunkt führen. Du kannst den Endpunkt jederzeit ändern.
 
 RESOURCE ID: route_creation_choose_new_end_header
-TEXT: Select a PokéStop or Gym to be your new
+TEXT: Wähle einen PokéStop oder eine Arena als neuen
+
+RESOURCE ID: route_creation_choose_new_end_header_b
+TEXT: Wähle einen PokéStop oder eine Arena auf der Karte als neuen Zielpunkt.
 
 RESOURCE ID: route_creation_choose_new_end_sub_header
 TEXT: Zielpunkt für deine Route.
 
 RESOURCE ID: route_creation_choose_new_start_body
-TEXT: Path recording will begin after you reach this new start point. You cannot change the start point after path recording begins.
+TEXT: Die Aufzeichnung des Pfades beginnt, sobald du diesen neuen Startpunkt erreicht hast. Du kannst den Startpunkt nicht mehr ändern, nachdem die Aufzeichnung deines Pfades begonnen hat.
 
 RESOURCE ID: route_creation_choose_new_start_header
-TEXT: Select a PokéStop or Gym to be your new
+TEXT: Wähle einen PokéStop oder eine Arena als neuen
+
+RESOURCE ID: route_creation_choose_new_start_header_b
+TEXT: Wähle einen PokéStop oder eine Arena auf der Karte als neuen Startpunkt.
 
 RESOURCE ID: route_creation_choose_new_start_sub_header
 TEXT: Startpunkt für deine Route.
 
 RESOURCE ID: route_creation_choose_start_body
-TEXT: Path recording will begin after you reach this start point. You cannot change the start point after path recording begins.
+TEXT: Die Aufzeichnung des Pfades beginnt, sobald du diesen Startpunkt erreicht hast. Du kannst den Startpunkt nicht mehr ändern, nachdem die Aufzeichnung deines Pfades begonnen hat.
 
 RESOURCE ID: route_creation_choose_start_header
-TEXT: Select a PokéStop or Gym to be your
+TEXT: Wähle einen PokéStop oder eine Arena als
+
+RESOURCE ID: route_creation_choose_start_header_b
+TEXT: Wähle einen PokéStop oder eine Arena auf der Karte als Startpunkt.
 
 RESOURCE ID: route_creation_choose_start_sub_header
 TEXT: Startpunkt für deine Route.
+
+RESOURCE ID: route_creation_edit_error
+TEXT: Du hast diesen Routen-Vorschlag bereits bearbeitet. Routen-Vorschläge können nur einmal bearbeitet werden.
 
 RESOURCE ID: route_creation_error_invalid_start
 TEXT: Die Route hat einen ungültigen Startpunkt.
@@ -69033,6 +69901,12 @@ RESOURCE ID: route_creation_min_distance_values
 TEXT: Mindestlänge: {0}
 Aktuelle Länge: <color=#F2A64B>{1}</color>
 
+RESOURCE ID: route_creation_minimum_length_error_toast
+TEXT: Your path must be at least {0} km to end recording.
+
+RESOURCE ID: route_creation_not_at_start_point_error_toast
+TEXT: Cannot start path recording because you are not at the start point.
+
 RESOURCE ID: route_creation_onboarding_loop_page_desc
 TEXT: Du hast denselben PokéStop als Start- und Zielpunkt gewählt. Dadurch wird eine Rundroute erstellt. Um eine Rundroute zu beenden, kehrst du zu deinem Startpunkt zurück, wenn du die Aufzeichnung deines Pfades beenden willst.
 
@@ -69084,6 +69958,39 @@ TEXT: Bist du sicher, dass du die Routen-Erstellung pausieren willst?
 RESOURCE ID: route_creation_pause_message
 TEXT: Dein Fortschritt wird gespeichert. Kehre zu diesem Ort zurück, um die Aufzeichnung des Pfades für deine Route fortzusetzen.
 
+RESOURCE ID: route_creation_point_selection_skip_button
+TEXT: ERSTMAL ÜBERSPRINGEN
+
+RESOURCE ID: route_creation_recording_controls_button_end
+TEXT: END
+
+RESOURCE ID: route_creation_recording_controls_button_pause
+TEXT: PAUSE
+
+RESOURCE ID: route_creation_recording_controls_button_resume
+TEXT: RESUME
+
+RESOURCE ID: route_creation_recording_controls_button_start
+TEXT: START RECORDING
+
+RESOURCE ID: route_creation_recording_controls_title
+TEXT: Path Recording:
+
+RESOURCE ID: route_creation_recording_end_toast
+TEXT: You are at the Route end point. Open the path recording page to finish recording your Route path.
+
+RESOURCE ID: route_creation_recording_start_toast
+TEXT: You are at the Route start point. Open the path recording page to begin recording your Route path.
+
+RESOURCE ID: route_creation_recording_state_active
+TEXT: Active
+
+RESOURCE ID: route_creation_recording_state_not_started
+TEXT: Not Started
+
+RESOURCE ID: route_creation_recording_state_paused
+TEXT: Paused
+
 RESOURCE ID: route_creation_resume_button
 TEXT: ROUTEN-ERSTELLUNG FORTSETZEN
 
@@ -69099,11 +70006,11 @@ TEXT: NEUEN ZIELPUNKT AUSWÄHLEN
 RESOURCE ID: route_creation_selected_points_header
 TEXT: Ausgewählte Start- und Zielpunkte:
 
+RESOURCE ID: route_creation_start_record_button
+TEXT: Aufzeichnung beginnen
+
 RESOURCE ID: route_creation_start_recording_error_too_far
 TEXT: Die Aufzeichnung kann nicht beginnen. Du bist nicht in der Nähe deines Startpunktes.
-
-RESOURCE ID: route_creation_submit
-TEXT: DEBUG CREATION SUBMIT
 
 RESOURCE ID: route_creator_label
 TEXT: ROUTEN-ERSTELLER
@@ -69126,6 +70033,9 @@ TEXT: ROUTE LÖSCHEN
 
 RESOURCE ID: route_detail_rejected_description
 TEXT: Diese Route wurde abgelehnt.
+
+RESOURCE ID: route_detail_under_review_delete_button
+TEXT: VORSCHLAG LÖSCHEN
 
 RESOURCE ID: route_detail_under_review_withdraw_button
 TEXT: VORSCHLAG ZURÜCKZIEHEN
@@ -69156,9 +70066,6 @@ TEXT: Beliebt
 
 RESOURCE ID: route_distance_walked_label
 TEXT: Auf der Route gelaufene Distanz
-
-RESOURCE ID: route_edit_button
-TEXT: CONTINUE EDIT
 
 RESOURCE ID: route_edit_deleted_toast
 TEXT: {0} wurde gelöscht.
@@ -69234,16 +70141,16 @@ RESOURCE ID: route_enforcement_warning_title
 TEXT: Konto-Warnung
 
 RESOURCE ID: route_enter_description_context_page
-TEXT: Enter a description that tells people what your route is about
+TEXT: Enter a description that tells other Trainers what your Route is about.
 
 RESOURCE ID: route_enter_description_context_title
-TEXT: Route Description
+TEXT: Routen-Beschreibung
 
 RESOURCE ID: route_enter_title_context_page
-TEXT: Enter the title that others will see when searching for routes
+TEXT: Enter the title that other Trainers will see when they search for a Route.
 
 RESOURCE ID: route_enter_title_context_title
-TEXT: Route Title
+TEXT: Routen-Titel
 
 RESOURCE ID: route_error_unable_to_complete_action
 TEXT: Die angeforderte Aktion kann nicht ausgeführt werden. Bitte versuche es noch mal.
@@ -69263,6 +70170,9 @@ TEXT: ROUTE
 RESOURCE ID: route_general_plural
 TEXT: Routen
 
+RESOURCE ID: route_header_travel_time_label
+TEXT: ({0} min)
+
 RESOURCE ID: route_km_label
 TEXT: {0} km
 
@@ -69279,13 +70189,13 @@ RESOURCE ID: route_list_item_default_title
 TEXT: Route {0}
 
 RESOURCE ID: route_load_timeout
-TEXT: Route took too long to load. Please try again.
+TEXT: This Route took too long to load. Please try again.
 
 RESOURCE ID: route_m_label
 TEXT: {0} m
 
 RESOURCE ID: route_map_out_of_bound_warning
-TEXT: You are too far away from this area
+TEXT: Du bist zu weit von diesem Bereich entfernt.
 
 RESOURCE ID: route_medal
 TEXT: Orden
@@ -69297,7 +70207,7 @@ RESOURCE ID: route_medals_sort_name
 TEXT: Name
 
 RESOURCE ID: route_medals_sort_recent
-TEXT: Recent
+TEXT: Neu
 
 RESOURCE ID: route_min_label
 TEXT: {0} Min.
@@ -69306,22 +70216,22 @@ RESOURCE ID: route_move_closer_to_resume
 TEXT: Kehre zum Ort zurück, an dem du die Aufzeichnung pausiert hast, um sie fortzusetzen.
 
 RESOURCE ID: route_nearby_help_official_route
-TEXT: The route created by NIANTIC partners has this label.
+TEXT: Routen, die von NIANTIC-Partnern erstellt wurden, haben dieses Label.
 
 RESOURCE ID: route_nearby_label
-TEXT: {0} routes
+TEXT: {0} Routes
 
 RESOURCE ID: route_nearby_list_button
 TEXT: ROUTEN IN DER NÄHE: {0}
 
 RESOURCE ID: route_nearby_list_header
-TEXT: NEARBY ROUTE ({0})
+TEXT: ROUTEN IN DER NÄHE ({0})
 
 RESOURCE ID: route_not_playable
 TEXT: Diese Route ist derzeit nicht verfügbar.
 
 RESOURCE ID: route_out_of_range
-TEXT: This Route is too far away to start.
+TEXT: You can’t travel this Route because it is too far away.
 
 RESOURCE ID: route_pause_label
 TEXT: ROUTE PAUSIEREN
@@ -69330,7 +70240,7 @@ RESOURCE ID: route_pause_title
 TEXT: Die Wiedergabe der Route wurde angehalten.
 
 RESOURCE ID: route_paused_title
-TEXT: Route Creation Paused
+TEXT: Routen-Erstellung pausiert
 
 RESOURCE ID: route_pin_subtitle
 TEXT: Pin-Titel:
@@ -69381,6 +70291,9 @@ TEXT: Du näherst dich dem Endpunkt der Route.
 RESOURCE ID: route_play_end_point_push_notification_description
 TEXT: Öffne Pokémon GO und schließe die Route ab!
 
+RESOURCE ID: route_play_header_label
+TEXT: GEFOLGT
+
 RESOURCE ID: route_play_hoo_warning_button
 TEXT: ROUTE FOLGEN
 
@@ -69398,6 +70311,9 @@ TEXT: Wenn du ein Problem hattest, kannst du die Route Niantic melden, damit sie
 
 RESOURCE ID: route_play_low_rating_title
 TEXT: Hattest du Probleme auf dieser Route?
+
+RESOURCE ID: route_play_no_routes_campfire_message
+TEXT: There are no Routes nearby. Browse Campfire to find Routes that are further away.
 
 RESOURCE ID: route_play_pause_confirmation_description
 TEXT: Du musst zu diesem Ort zurückkehren, um diese Route fortzusetzen.
@@ -69439,17 +70355,13 @@ RESOURCE ID: route_pokemon_caught_label
 TEXT: auf der Route gefangene Pokémon
 
 RESOURCE ID: route_published_list_header
-TEXT: PUBLISHED ROUTES
+TEXT: VERÖFFENTLICHTE ROUTEN
 
 RESOURCE ID: route_published_title
-TEXT: PUBLISHED ROUTES
+TEXT: VERÖFFENTLICHTE ROUTEN
 
 RESOURCE ID: route_quit_label
 TEXT: ROUTE BEENDEN
-
-RESOURCE ID: route_rating_description
-TEXT: Did you enjoy this route?
-Can you rate this route?
 
 RESOURCE ID: route_rating_percentage_label
 TEXT: {0} %
@@ -69479,10 +70391,10 @@ RESOURCE ID: route_rejected_deletion_success_title
 TEXT: Diese Route wurde erfolgreich gelöscht.
 
 RESOURCE ID: route_rejection_action
-TEXT: EDIT & RESUBMIT
+TEXT: EDIT AND RESUBMIT
 
 RESOURCE ID: route_rejection_title
-TEXT: This Route was rejected
+TEXT: Diese Route wurde abgelehnt.
 
 RESOURCE ID: route_report_body
 TEXT: Wenn du Niantic eine Route meldest, prüfen wir den Hinweis und ergreifen die entsprechenden Maßnahmen im Einklang mit unseren Richtlinien. Deine Identität wird niemals mit dem Routen-Ersteller geteilt. Indem du eine Meldung einreichst, bestätigst du, dass die Meldung wahrheitsgemäß ist.
@@ -69515,46 +70427,49 @@ RESOURCE ID: route_reversible_notice_label
 TEXT: Du kannst dieser Route auch umgekehrt folgen.
 
 RESOURCE ID: route_review_submission_title
-TEXT: Review your submission
+TEXT: Überprüfe deinen Vorschlag
 
 RESOURCE ID: route_sort_category
-TEXT: Theme
+TEXT: Thema
 
 RESOURCE ID: route_sort_length
-TEXT: Length
+TEXT: Länge
 
 RESOURCE ID: route_sort_level
 TEXT: Level
 
 RESOURCE ID: route_sort_proximity
-TEXT: Nearest
+TEXT: Entfernung
 
 RESOURCE ID: route_sort_rating
 TEXT: Bewertung
 
-RESOURCE ID: route_stamps_header
-TEXT: STAMPS
+RESOURCE ID: route_start_distance_label_km
+TEXT: {0} km away
+
+RESOURCE ID: route_start_distance_label_m
+TEXT: {0} m away
 
 RESOURCE ID: route_start_failed
-TEXT: Failed to start route
+TEXT: Die Route konnte nicht begonnen werden.
 
 RESOURCE ID: route_start_toast
-TEXT: {0} started!
+TEXT: {0} begonnen!
 
 RESOURCE ID: route_status_decayed
 TEXT: Archiviert
 
 RESOURCE ID: route_status_in_progress
-TEXT: Not submitted yet
+TEXT: Noch nicht eingereicht
 
 RESOURCE ID: route_status_published
-TEXT: Published
+TEXT: Veröffentlicht
 
 RESOURCE ID: route_status_rejected
-TEXT: Rejected
+TEXT: Abgelehnt
 
 RESOURCE ID: route_status_submitted
-TEXT: Under review
+TEXT: Wird überprüft
 
 RESOURCE ID: route_status_time_stamp_submitted
 TEXT: Submitted {0}
@@ -69566,7 +70481,7 @@ RESOURCE ID: route_stop_report
 TEXT: Wenn du ein Problem auf dieser Route hattest, das dich davon abgehalten hat, diese abzuschließen, kannst du dieses Problem <color=#{0}>hier</color> melden.
 
 RESOURCE ID: route_stop_start_new_button
-TEXT: Start new route
+TEXT: NEUE ROUTE BEGINNEN
 
 RESOURCE ID: route_stop_title
 TEXT: Bist du sicher, dass du diese Route beenden willst?
@@ -69584,37 +70499,31 @@ RESOURCE ID: route_submission_abandon_header
 TEXT: Bist du sicher, dass du die Routen-Erstellung verlassen möchtest?
 
 RESOURCE ID: route_submission_add_description
-TEXT: Add Route Description
+TEXT: Routen-Beschreibung hinzufügen
 
 RESOURCE ID: route_submission_add_description_placeholder
 TEXT: Please describe the journey, history, or background of this Route.
 
 RESOURCE ID: route_submission_add_info_title
-TEXT: Add Route Information
+TEXT: Routen-Informationen eingeben
 
 RESOURCE ID: route_submission_add_tags
 TEXT: Füge bis zu {0} Routen-Tags hinzu (optional)
 
 RESOURCE ID: route_submission_add_title
-TEXT: Add Route Title
-
-RESOURCE ID: route_submission_bad_desc
-TEXT: Description contains prohibited content
+TEXT: Routen-Titel hinzufügen
 
 RESOURCE ID: route_submission_bad_image
-TEXT: Route image is not valid
-
-RESOURCE ID: route_submission_bad_name
-TEXT: Title contains prohibited content
+TEXT: Routen-Bild ungültig.
 
 RESOURCE ID: route_submission_badge_image_prompt
 TEXT: Wähle ein Bild für deinen Routenorden:
 
 RESOURCE ID: route_submission_color_tab_name
-TEXT: COLOR
+TEXT: FARBE
 
 RESOURCE ID: route_submission_description
-TEXT: Description
+TEXT: Beschreibung
 
 RESOURCE ID: route_submission_edit_description
 TEXT: Es kann länger dauern, diese Route zu überprüfen, wenn du jetzt Änderungen vornehmen möchtest.
@@ -69629,24 +70538,24 @@ RESOURCE ID: route_submission_medals
 TEXT: Orden
 
 RESOURCE ID: route_submission_must_add_description
-TEXT: Please enter a valid description to proceed
+TEXT: Bitte gib eine gültige Beschreibung ein, um fortzufahren.
 
 RESOURCE ID: route_submission_must_add_title
-TEXT: Please enter a valid title to proceed
+TEXT: Bitte gib einen gültigen Titel ein, um fortzufahren.
 
 RESOURCE ID: route_submission_name_placeholder
 TEXT: Mein Routen-Titel
 
 RESOURCE ID: route_submission_next_steps
-TEXT: The next step is naming and describing your route.
+TEXT: The next step is to name and describe your Route.
 
-It might take a few minutes to write a relevant description, and help speed up the approval process. Don’t worry, your progress will be saved if you exit!
+It might take a few minutes for you to write a description, and doing so will help speed up the approval process. Don’t worry—your progress will be saved if you exit!
 
 RESOURCE ID: route_submission_path
 TEXT: Pfad
 
 RESOURCE ID: route_submission_photo_tab_name
-TEXT: PHOTO
+TEXT: FOTO
 
 RESOURCE ID: route_submission_preview_title
 TEXT: Vorschau des Vorschlags
@@ -69655,7 +70564,7 @@ RESOURCE ID: route_submission_resubmit_no_change_error
 TEXT: Bitte bearbeite den Titel und/oder die Beschreibung, um diese Route erneut einzureichen.
 
 RESOURCE ID: route_submission_result_invalid_route
-TEXT: Route submission error. Please try again later.
+TEXT: Fehler beim Routen-Vorschlag. Bitte versuche es später erneut.
 
 RESOURCE ID: route_submission_result_matches_rejection
 TEXT: Die Route stimmt mit einer zuvor abgelehnten Route überein.
@@ -69694,7 +70603,7 @@ RESOURCE ID: route_submission_result_unknown_error
 TEXT: Unknown error in the Route submission process. Please try again later.
 
 RESOURCE ID: route_submission_reversible
-TEXT: Allow this Route to be followed in reverse.
+TEXT: Erlaube, dass man dieser Route auch umgekehrt folgt.
 
 RESOURCE ID: route_submission_review_adjust
 TEXT: ÄNDERUNGEN VORNEHMEN
@@ -69715,7 +70624,7 @@ RESOURCE ID: route_submission_select_color_prompt
 TEXT: Wähle eine Farbe für den Titel deines Routenordens:
 
 RESOURCE ID: route_submission_show_name
-TEXT: Show my Trainer name as the Route Creator in the published Route details.
+TEXT: Teile meinen Trainer-Spitznamen in der öffentlichen Beschreibung dieser Route.
 
 RESOURCE ID: route_submission_start_title
 TEXT: Gib deiner Route einen Namen
@@ -69732,14 +70641,17 @@ TEXT: {0} wurde abgelehnt
 RESOURCE ID: route_submission_status_review
 TEXT: Am {0} eingereicht.
 
+RESOURCE ID: route_submission_tag_placeholder
+TEXT: Wähle ein Tag aus
+
 RESOURCE ID: route_submission_title
-TEXT: Title
+TEXT: Titel
 
 RESOURCE ID: route_submission_write_later
-TEXT: Write Later
+TEXT: Später schreiben
 
 RESOURCE ID: route_submission_write_now
-TEXT: Write Now
+TEXT: Jetzt schreiben
 
 RESOURCE ID: route_submit_label
 TEXT: EINREICHEN
@@ -69807,9 +70719,6 @@ TEXT: Rollstuhlgerecht
 RESOURCE ID: route_tags_label
 TEXT: TAGS
 
-RESOURCE ID: route_times_label
-TEXT: {0} times
-
 RESOURCE ID: route_total_activity_label
 TEXT: AKTIVITÄT INSGESAMT
 
@@ -69821,6 +70730,9 @@ TEXT: Gesamte Läuferzahl
 
 RESOURCE ID: route_travel_reverse_button
 TEXT: RICHTUNG UMKEHREN
+
+RESOURCE ID: route_under_review_deletion_confirm_title
+TEXT: Bist du sicher, dass du diesen Routen-Vorschlag löschen möchtest?
 
 RESOURCE ID: route_under_review_description
 TEXT: Diese Route wird überprüft.
@@ -69847,16 +70759,13 @@ RESOURCE ID: route_unsubmit_label
 TEXT: ROUTE VERWERFEN
 
 RESOURCE ID: route_validation_description_length
-TEXT: Route description cannot exceed {0} characters.
+TEXT: Route descriptions cannot exceed {0} characters.
 
 RESOURCE ID: route_validation_title_length
-TEXT: Route title cannot exceed {0} characters.
+TEXT: Route titles cannot exceed {0} characters.
 
 RESOURCE ID: route_waiting_for_data
-TEXT: Waiting for data to be loaded
-
-RESOURCE ID: route_walk_button
-TEXT: WALK
+TEXT: Waiting for data to load.
 
 RESOURCE ID: route_walking_follow_path
 TEXT: Folge dem Pfad bis zum Endpunkt der Route, um die Route abzuschließen.
@@ -69893,6 +70802,9 @@ TEXT: Dies ist dein aktueller Startpunkt.
 
 RESOURCE ID: routes_end_at
 TEXT: Ziel:
+
+RESOURCE ID: routes_nearby_callout
+TEXT: Route in der Nähe!
 
 RESOURCE ID: routes_nearby_notification
 TEXT: Es gibt Routen in der Nähe!
@@ -70245,23 +71157,173 @@ TEXT: Stadt-Safari: Seoul 2023 (2/3)
 RESOURCE ID: safari_city_2023_seoul_title_02
 TEXT: Stadt-Safari: Seoul 2023 (3/3)
 
+RESOURCE ID: safari_city_leave_behind_dialog_00_00
+TEXT: Hallo, %PLAYERNAME%. Es ist wunderbar, dich hier zu sehen! Dies ist eine meiner Lieblingsstädte und sie ist bei anderen Pokémon-Trainern auch beliebt!
+
+RESOURCE ID: safari_city_leave_behind_dialog_00_01
+TEXT: Vor einiger Zeit war hier sogar ein großes Trainer-Treffen und gleichzeitig sind einige Pokémon-Arten erschienen, die normalerweise nicht in der Gegend zu finden sind.
+
+RESOURCE ID: safari_city_leave_behind_dialog_00_02
+TEXT: Und ich bin verblüfft, dass genau diese Pokémon jetzt auch auftauchen! Lass uns doch mal schauen, ob wir sie finden können.
+
+RESOURCE ID: safari_city_leave_behind_dialog_01_00
+TEXT: Bist du bereit, die Stadt zu erkunden, %PLAYERNAME%?
+
+RESOURCE ID: safari_city_leave_behind_dialog_01_01
+TEXT: Das ist die richtige Einstellung! Lass uns loslegen.
+
+RESOURCE ID: safari_city_leave_behind_dialog_01_02
+TEXT: Fangen wir an, indem wir uns die PokéStops da drüben anschauen.
+
+RESOURCE ID: safari_city_leave_behind_dialog_02_00
+TEXT: Gute Arbeit, %PLAYERNAME%! Das ist ein Pokémon, das wir normalerweise in dieser Gegend nicht sehen.
+
+RESOURCE ID: safari_city_leave_behind_dialog_02_01
+TEXT: Seltsamerweise habe ich es, wie erwähnt, auch schon beim vorigen Trainer-Treffen gesehen.
+
+RESOURCE ID: safari_city_leave_behind_dialog_02_02
+TEXT: Welchen anderen Pokémon werden wir heute wohl begegnen?
+
+RESOURCE ID: safari_city_leave_behind_dialog_03_00
+TEXT: Wow! Ausgezeichnete Arbeit, %PLAYERNAME%.
+
+RESOURCE ID: safari_city_leave_behind_dialog_03_01
+TEXT: Es ist schon eine Weile her, dass ich dieses Pokémon gesehen habe! Du hast heute eine richtige Glückssträhne!
+
+RESOURCE ID: safari_city_leave_behind_dialog_03_02
+TEXT: Schauen wir mal, welche anderen Pokémon in der Nähe sind, was meinst du?
+
+RESOURCE ID: safari_city_leave_behind_dialog_04_00
+TEXT: Na, so was!
+
+RESOURCE ID: safari_city_leave_behind_dialog_04_01
+TEXT: Dieses Pokémon wurde ebenfalls beim vorigen Treffen gesichtet!
+
+RESOURCE ID: safari_city_leave_behind_dialog_04_02
+TEXT: Vielleicht hatte es so viel Spaß, dass es mehr Trainer treffen wollte ...
+
+RESOURCE ID: safari_city_leave_behind_dialog_04_03
+TEXT: Auf jeden Fall hätte es keinem netteren Trainer begegnen können, %PLAYERNAME%.
+
+RESOURCE ID: safari_city_leave_behind_dialog_05_00
+TEXT: Gute Arbeit, %PLAYERNAME%! Das Pokémon amüsiert sich bestimmt blendend bei seinem Abenteuer mit dir.
+
+RESOURCE ID: safari_city_leave_behind_dialog_05_01
+TEXT: Puh! Wir waren heute ganz schön viel unterwegs, oder? Lass uns noch einen Stopp machen, bevor wir uns ausruhen.
+
+RESOURCE ID: safari_city_leave_behind_dialog_05_02
+TEXT: Was meinst du?
+
+RESOURCE ID: safari_city_leave_behind_dialog_06_00
+TEXT: Unsere kleine Tour ist fertig, %PLAYERNAME%. Danke, dass du bei diesem Abenteuer dabei warst!
+
+RESOURCE ID: safari_city_leave_behind_dialog_06_01
+TEXT: Ich bin immer dankbar, an der Seite von sachkundigen Trainern wie dir Pokémon zu erforschen.
+
+RESOURCE ID: safari_city_leave_behind_dialog_06_02
+TEXT: Von deiner Leidenschaft muss man sich einfach anstecken lassen! Wenn es mal wieder eine Gelegenheit zur Forschung gibt, sehe ich dich bestimmt wieder.
+
+RESOURCE ID: safari_city_leave_behind_dialog_06_03
+TEXT: Bis zum nächsten Mal, %PLAYERNAME%!
+
+RESOURCE ID: safari_city_leave_behind_dialog_06_04
+TEXT: Nichts wie raus und GO!
+
 RESOURCE ID: safari_city_leave_behind_title_barcelona
 TEXT: Stadt-Safari (Barcelona): Die Reise geht weiter
 
 RESOURCE ID: safari_city_leave_behind_title_barcelona_00
-TEXT: Stadt-Safari (Barcelona): Die Reise geht weiter (1/7)
+TEXT: Stadt-Safari (Barcelona): Die Reise geht weiter (1/1)
 
 RESOURCE ID: safari_city_leave_behind_title_mxc
 TEXT: Stadt-Safari (Mexico City): Die Reise geht weiter
 
 RESOURCE ID: safari_city_leave_behind_title_mxc_00
-TEXT: Stadt-Safari (Mexico City): Die Reise geht weiter (1/7)
+TEXT: Stadt-Safari (Mexico City): Die Reise geht weiter (1/1)
 
 RESOURCE ID: safari_city_leave_behind_title_seoul
 TEXT: Stadt-Safari (Seoul): Die Reise geht weiter
 
 RESOURCE ID: safari_city_leave_behind_title_seoul_00
-TEXT: Stadt-Safari (Seoul): Die Reise geht weiter (1/7)
+TEXT: Stadt-Safari (Seoul): Die Reise geht weiter (1/1)
+
+RESOURCE ID: safari_city_sr_dialog_00_00
+TEXT: Hallo, %PLAYERNAME%! Bist du bereit für einen aufregenden Forschungstag in der Stadt?
+
+RESOURCE ID: safari_city_sr_dialog_00_01
+TEXT: Ich bin mir sicher, dass du vielen verschiedenen Pokémon begegnen wirst, aber zuerst möchte ich dir dieses besondere, unerschrockene Evoli vorstellen!
+
+RESOURCE ID: safari_city_sr_dialog_00_02
+TEXT: Niedlich, oder? Ich habe das Gefühl, dass ihr beide ein tolles Team sein werdet. Geh zusammen mit ihm auf ein Abenteuer!
+
+RESOURCE ID: safari_city_sr_dialog_01_00_backup
+TEXT: Exzellente Wahl, %PLAYERNAME%.
+
+RESOURCE ID: safari_city_sr_dialog_01_00_blanche
+TEXT: Ein weiser Entschluss, %PLAYERNAME%.
+
+RESOURCE ID: safari_city_sr_dialog_01_00_candela
+TEXT: Starke Wahl, %PLAYERNAME%.
+
+RESOURCE ID: safari_city_sr_dialog_01_00_spark
+TEXT: Starke Wahl, %PLAYERNAME%!
+
+RESOURCE ID: safari_city_sr_dialog_01_01_backup
+TEXT: Ich wünsche dir und Evoli eine schöne Zeit beim Erkunden der Stadt! Denke daran, immer wieder Snacks zu essen – und mache auf jeden Fall ein paar Schnappschüsse zur Erinnerung an euer Abenteuer!
+
+RESOURCE ID: safari_city_sr_dialog_01_01_blanche
+TEXT: Ich wünsche dir und Evoli einen informativen Tag beim Erkunden der Stadt. Bitte denke daran, viel Wasser zu trinken und deine Entdeckungen mit Schnappschüssen festzuhalten.
+
+RESOURCE ID: safari_city_sr_dialog_01_01_candela
+TEXT: Du und Evoli habt einen ereignisreichen Tag voller Forschungen vor euch. Aber vergiss nicht, immer mal wieder für Snacks und Schnappschüsse anzuhalten, okay?
+
+RESOURCE ID: safari_city_sr_dialog_01_01_spark
+TEXT: Du und Evoli werdet die Stadt bestimmt wie ein geölter Blitz erkunden! Denke daran, ein paar Snacks mitzunehmen, Schnappschüsse zu schießen und vor allem viel Wasser zu trinken!
+
+RESOURCE ID: safari_city_sr_dialog_01_02_backup
+TEXT: Ich freue mich schon darauf, nach deiner Rückkehr alles über deine Entdeckungen zu erfahren.
+
+RESOURCE ID: safari_city_sr_dialog_01_02_blanche
+TEXT: Ich freue mich schon auf deinen Abschlussbericht.
+
+RESOURCE ID: safari_city_sr_dialog_01_02_candela
+TEXT: Ich kann es kaum abwarten, später alles über eure Abenteuer zu hören!
+
+RESOURCE ID: safari_city_sr_dialog_01_02_spark
+TEXT: Erzähl mir alles, sobald du zurück bist!
+
+RESOURCE ID: safari_city_sr_dialog_02_00
+TEXT: Willkommen zurück, %PLAYERNAME%! Oh, und Evoli auch!
+
+RESOURCE ID: safari_city_sr_dialog_02_01
+TEXT: Hast du ein paar gute Schnappschüsse gemacht und etwas Leckeres gegessen?
+
+RESOURCE ID: safari_city_sr_dialog_02_02
+TEXT: Es gibt so viel zu sehen und ich hoffe, dass ihr zwei eure gemeinsamen Erlebnisse genießt! Ich bin mir sicher, dass du und Evoli auf viele weitere Abenteuer gehen werdet.
+
+RESOURCE ID: safari_city_sr_dialog_branch_00_backup
+TEXT: Hallo nochmal, %PLAYERNAME%!
+
+RESOURCE ID: safari_city_sr_dialog_branch_00_blanche
+TEXT: Hallo, %PLAYERNAME%. Es freut mich, dich zu sehen.
+
+RESOURCE ID: safari_city_sr_dialog_branch_00_candela
+TEXT: Hi, %PLAYERNAME%! Schon ’ne Weile her.
+
+RESOURCE ID: safari_city_sr_dialog_branch_00_spark
+TEXT: Was geht, %PLAYERNAME%? Schön, dich zu sehen.
+
+RESOURCE ID: safari_city_sr_dialog_branch_01_backup
+TEXT: Welches hiervon könnte dir bei deinem Stadt-Safari-Abenteuer weiterhelfen?
+
+RESOURCE ID: safari_city_sr_dialog_branch_01_blanche
+TEXT: Ich möchte dir etwas geben, das dir bei deiner Forschung helfen wird. Bitte suche dir das aus, das für dich am hilfreichsten ist.
+
+RESOURCE ID: safari_city_sr_dialog_branch_01_candela
+TEXT: Wähl eins, für das du Feuer und Flamme bist!
+
+RESOURCE ID: safari_city_sr_dialog_branch_01_spark
+TEXT: Heute legen wir ’nen Zahn zu. Welches hiervon setzt dich am meisten unter Strom?
 
 RESOURCE ID: safari_event
 TEXT: Pokémon GO-Safari-Zone
@@ -70558,6 +71620,9 @@ TEXT: 1 PokéStop gedreht
 RESOURCE ID: screen_friends_title
 TEXT: Freunde
 
+RESOURCE ID: screen_party_title
+TEXT: Team
+
 RESOURCE ID: screen_title_badge_collection
 TEXT: Arenaorden
 
@@ -70765,6 +71830,18 @@ TEXT: Kwaks: Sammler-Herausforderung
 RESOURCE ID: sep23_paldea_collection_challenge_4
 TEXT: Ferkuli: Sammler-Herausforderung
 
+RESOURCE ID: sept20_psychic_collection_challenge_1
+TEXT: Glänzende Gedanken-Herausforderung: Guardevoir
+
+RESOURCE ID: sept20_psychic_collection_challenge_2
+TEXT: Glänzende Gedanken-Herausforderung: Simsala
+
+RESOURCE ID: sept20_psychic_collection_challenge_3
+TEXT: Glänzende Gedanken-Herausforderung: Lahmus
+
+RESOURCE ID: sept20_psychic_collection_challenge_4
+TEXT: Glänzende Gedanken-Herausforderung: Meditalis
+
 RESOURCE ID: server_lockout
 TEXT: Pokémon GO ist derzeit wegen geplanter Wartungsarbeiten nicht verfügbar. Bitte versuche es später noch einmal!
 
@@ -70895,6 +71972,18 @@ TEXT: Freundschaftsanfrage angenommen
 RESOURCE ID: settings_friend_request_received
 TEXT: Freundschaftsanfrage erhalten
 
+RESOURCE ID: settings_friend_requests_header
+TEXT: Erlaube Freundschaftsanfragen von:
+
+RESOURCE ID: settings_friend_requests_party_play
+TEXT: Teammitgliedern
+
+RESOURCE ID: settings_friend_requests_raids
+TEXT: Raid-Mitgliedern
+
+RESOURCE ID: settings_friends_header
+TEXT: Freunde
+
 RESOURCE ID: settings_general_title
 TEXT: Allgemeines
 
@@ -70997,6 +72086,18 @@ TEXT: Problembehebung
 RESOURCE ID: settings_palma_troubleshooting_url
 TEXT: https://support.pokemon.com/hc/articles/360001435906
 
+RESOURCE ID: settings_party_play_header
+TEXT: Team-Play
+
+RESOURCE ID: settings_party_play_location_avatars_toast
+TEXT: Teile deinen Standort mit dem Team, um andere Trainer auf der Karte zu sehen.
+
+RESOURCE ID: settings_party_play_location_share
+TEXT: Standort mit Team teilen
+
+RESOURCE ID: settings_party_play_map_avatars
+TEXT: Andere Trainer auf der Karte sehen
+
 RESOURCE ID: settings_pbp_check_other_menu
 TEXT: Bitte gehe zu „Pokémon GO Plus“ im Einstellungsmenü, um auf dein derzeit gekoppeltes Gerät zuzugreifen.
 
@@ -71088,7 +72189,7 @@ RESOURCE ID: settings_route_guidance_tip
 TEXT: Erhalte Nachrichten, wenn du dich dem Endpunkt deiner aktuellen Route näherst oder wenn geheimnisvolle Dinge erscheinen.
 
 RESOURCE ID: settings_save_image_tip
-TEXT: Save image to device when you take snapshot in AR.
+TEXT: Speichere AR-Schnappschüsse auf deinem Gerät.
 
 RESOURCE ID: settings_select_legendary_label
 TEXT: Erweitertes Verschicken
@@ -71395,10 +72496,10 @@ RESOURCE ID: settings_wearables_voice_effects_description
 TEXT: Stummmodus setzt diese Einstellung außer Kraft.
 
 RESOURCE ID: settings_wearables_waina_about_url
-TEXT: <url with language query param in it>
+TEXT: https://www.pokemongoplusplus.com/de/
 
 RESOURCE ID: settings_wearables_waina_troubleshooting_url
-TEXT: <url with language query param in it>
+TEXT: https://www.pokemongoplusplus.com/de/go/
 
 RESOURCE ID: seville_cup_description
 TEXT: Ein täglicher Fang-Cup für Teilnehmer der Pokémon GO-Safari-Zone Sevilla
@@ -71932,6 +73033,9 @@ TEXT: Wilde Pokémon vom Hüpfe in den Frühling-Event
 RESOURCE ID: six_free_raid_passes
 TEXT: Bis zu sechs gratis Raid-Pässe pro Tag für das Drehen von Fotoscheiben bei Arenen
 
+RESOURCE ID: size_xxs_xxl_increase_oddish
+TEXT: Erhöhte Chance, während des Events XXS- und XXL-Myrapla zu begegnen
+
 RESOURCE ID: size_xxs_xxl_increase_pidgey
 TEXT: Erhöhte Chance während des Events, XXS- und XXL-Taubsi zu begegnen
 
@@ -72075,7 +73179,7 @@ RESOURCE ID: social_add_friend_qr
 TEXT: QR Code
 
 RESOURCE ID: social_add_friend_qr_v2
-TEXT: SCAN QR CODE
+TEXT: QR CODE SCANNEN
 
 RESOURCE ID: social_add_friends
 TEXT: Hinzufügen
@@ -72142,7 +73246,7 @@ RESOURCE ID: social_send_my_code
 TEXT: DEINEN TRAINERCODE TEILEN
 
 RESOURCE ID: social_send_my_code_v2
-TEXT: SHARE CODE
+TEXT: CODE TEILEN
 
 RESOURCE ID: solrock_lunatone_regions
 TEXT: Lunastein und Sonnfel erscheinen in anderen Regionen.
@@ -72278,6 +73382,9 @@ TEXT: Wilde Nebulak erscheinen mit vermehrter Häufigkeit.
 
 RESOURCE ID: spawn_gible
 TEXT: Wilde Kaumalat erscheinen mit vermehrter Häufigkeit.
+
+RESOURCE ID: spawn_grubbin
+TEXT: Wilde Mabula erscheinen mit vermehrter Häufigkeit!
 
 RESOURCE ID: spawn_hoppip
 TEXT: Wilde Hoppspross erscheinen mit vermehrter Häufigkeit.
@@ -74886,6 +75993,9 @@ TEXT: Tickets für die Spezialforschung „Das großartige Nebulak“ im Shop er
 RESOURCE ID: ticket_gible
 TEXT: Ticket für die Spezialforschung „Nur ein Häppchen" im Shop erhältlich
 
+RESOURCE ID: ticket_grubbin
+TEXT: Ticket für das Spezialforschungs-Abenteuer „Community Day mit Mabula“ im Shop erhältlich
+
 RESOURCE ID: ticket_hoopau
 TEXT: Ticket für ein Spezialforschungs-Abenteuer im Shop erhältlich
 
@@ -74915,6 +76025,21 @@ TEXT: Ticket für die Spezialforschung „Community Day Classic mit Hydropi“ i
 
 RESOURCE ID: ticket_noibat
 TEXT: Ticket für das Spezialforschungs-Abenteuer „Schallwellen schlagen“ im Shop erhältlich
+
+RESOURCE ID: ticket_of_treats_title
+TEXT: Schaurig-schönes Ticket
+
+RESOURCE ID: ticket_of_treats_title_1
+TEXT: Schaurig-schönes Ticket: Teil 1
+
+RESOURCE ID: ticket_of_treats_title_2
+TEXT: Schaurig-schönes Ticket: Teil 2
+
+RESOURCE ID: ticket_of_treats_title_3
+TEXT: Schaurig-schönes Ticket: Teil 3
+
+RESOURCE ID: ticket_of_treats_title_4
+TEXT: Schaurig-schönes Ticket: Teil 4
 
 RESOURCE ID: ticket_oshawott
 TEXT: Tickets für die Spezialforschung „Von Muschel zu Langschwert“ im Shop erhältlich.
@@ -75088,6 +76213,33 @@ TEXT: Wähle diese Option, um Aufgaben zu erhalten, die sich auf das Fangen spez
 RESOURCE ID: timed_quest_adventure_adv23_branch_2_title_key
 TEXT: Studienabenteuer
 
+RESOURCE ID: timed_quest_cornet23_branch_1_button_key
+TEXT: Serpifeu
+
+RESOURCE ID: timed_quest_cornet23_branch_1_description_key
+TEXT: Wähle diese Option, wenn du denkst, dass der Professor Serpifeu beschreibt!
+
+RESOURCE ID: timed_quest_cornet23_branch_1_title_key
+TEXT: Serpifeu
+
+RESOURCE ID: timed_quest_cornet23_branch_2_button_key
+TEXT: Bauz
+
+RESOURCE ID: timed_quest_cornet23_branch_2_description_key
+TEXT: Wähle diese Option, wenn du denkst, dass der Professor Bauz beschreibt!
+
+RESOURCE ID: timed_quest_cornet23_branch_2_title_key
+TEXT: Bauz
+
+RESOURCE ID: timed_quest_cornet23_branch_3_button_key
+TEXT: Mogelbaum
+
+RESOURCE ID: timed_quest_cornet23_branch_3_description_key
+TEXT: Wähle diese Option, wenn du denkst, dass der Professor Mogelbaum beschreibt!
+
+RESOURCE ID: timed_quest_cornet23_branch_3_title_key
+TEXT: Mogelbaum
+
 RESOURCE ID: timed_research
 TEXT: Befristete Forschung verfügbar
 
@@ -75122,15 +76274,17 @@ RESOURCE ID: tips_friends_list_no_friends_title
 TEXT: Freunde hinzufügen
 
 RESOURCE ID: tips_friends_online_status_body
-TEXT: Du kannst deinen Onlinestatus anzeigen lassen oder nicht anzeigen lassen, indem du die entsprechende Umschaltfläche auf deiner Freundesliste benutzt.
+TEXT: Du kannst deinen Online-Status jetzt oder später mithilfe der Online/Offline-Umschalttaste über deiner Freundesliste aktivieren.
 
-Durch deinen Onlinestatus sehen deine Freunde, ob du gerade spielen kannst.
+Durch deinen Online-Status sehen deine Freunde, ob du gerade spielst.
 
 RESOURCE ID: tips_friends_online_status_title
 TEXT: Online-Status
 
 RESOURCE ID: tips_friends_tutorial_add_body
-TEXT: Füge Freunde hinzu, indem du sie nach ihrem Trainercode fragst oder ihren QR Code scannst. Du kannst Freunde ebenfalls hinzufügen, indem du in der Freundesliste auf HINZUFÜGEN tippst und dann unten FACEBOOK-FREUNDE HINZUFÜGEN auswählst.
+TEXT: Füge Freunde hinzu, indem du ihren Trainer-Code eingibst oder ihren QR-Code scannst. Wenn du Freunde in Pokémon GO hinzufügst, sind sie mit dir in allen Niantic-Spielen verbunden, die ihr beide spielt.
+
+ Du kannst Freunde ebenfalls hinzufügen, indem du in der Freundesliste auf „Hinzufügen“ tippst und dann unten „Facebook-Freunde hinzufügen“ auswählst.
 
 RESOURCE ID: tips_friends_tutorial_add_title
 TEXT: Freunde hinzufügen
@@ -75697,6 +76851,9 @@ TEXT: PokéStop-Scan
 RESOURCE ID: titan_upload_wifi_recommended
 TEXT: Wi-Fi empfohlen
 
+RESOURCE ID: title_hatch_day_azurill
+TEXT: Azurill-Schlüpftag
+
 RESOURCE ID: title_hatch_day_riolu
 TEXT: Riolu-Schlüpftag
 
@@ -75921,6 +77078,21 @@ TEXT: Pokémon GO-Safari-Zone: Singapur 2022 – Erkundungs-Herausforderung
 
 RESOURCE ID: tr_sz_taipei_global
 TEXT: Pokémon GO-Safari-Zone: Taipeh 2022 – Erkundungs-Herausforderung
+
+RESOURCE ID: tr_weekend_booster_desc_00
+TEXT: Wochenendbelohnungen, September 2023
+
+RESOURCE ID: tr_weekend_booster_desc_01
+TEXT: Wochenendbelohnungen, Oktober 2023
+
+RESOURCE ID: tr_weekend_booster_desc_02
+TEXT: Wochenendbelohnungen, November 2023
+
+RESOURCE ID: tr_weekend_booster_desc_03
+TEXT: Wochenendbelohnungen, Dezember 2023
+
+RESOURCE ID: tr_weekend_booster_title
+TEXT: Wochenendbelohnungen
 
 RESOURCE ID: trade_action
 TEXT: Tauschen
@@ -76424,7 +77596,7 @@ RESOURCE ID: tutorial_route_bonus_0
 TEXT: Du verdienst schneller Kumpel-Bonbons.
 
 RESOURCE ID: tutorial_route_bonus_1
-TEXT: Mehr Pokemon werden auf neuen Routen durch Rauch angelockt.
+TEXT: Mehr Pokemon werden auf neuen Routen durch Rauch angelockt
 
 RESOURCE ID: tutorial_route_bonus_2
 TEXT: Du kannst einzigartigen Pokemon begegnen.
