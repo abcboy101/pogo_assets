@@ -31860,9 +31860,9 @@ RESOURCE ID: mega_walking_progress
 TEXT: Progres Perjalanan
 
 RESOURCE ID: metadata_local
-TEXT: Built at 2023-10-02T20:40:06.933377
-at SHA 1d5e5f0c7d73f8dfe244488bea8bbc845f45bf8d
-Pipeline 1795962, job 21779397
+TEXT: Built at 2023-10-09T20:21:45.748080
+at SHA 4cfe80a4adbc1f8b5f1a0a1c1119104a28c4ab22
+Pipeline 1814685, job 21993717
 
 RESOURCE ID: mex_fighting_promo_title
 TEXT: Penelitian Berwaktu: Pilih Tipe Petarungmu
