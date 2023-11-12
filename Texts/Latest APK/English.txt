@@ -154,6 +154,9 @@ TEXT: Encounter Latios in GO Snapshot
 RESOURCE ID: aa_2022_photobomb_pika_corsola
 TEXT: Surprise encounters in GO Snapshot
 
+RESOURCE ID: aa_event_tag
+TEXT: Pokémon Air Adventures
+
 RESOURCE ID: abi_address_book_button
 TEXT: ADD FRIENDS FROM CONTACTS
 
@@ -640,7 +643,7 @@ RESOURCE ID: adventure_sync_enable_modal_failure_title
 TEXT: Adventure Sync not enabled
 
 RESOURCE ID: adventure_sync_enable_modal_message
-TEXT: Find new Pokémon and hatch Eggs even while Pokémon GO is closed!
+TEXT: Find new Pokémon, hatch Eggs, and record Route paths even while Pokémon GO is closed!
 
 RESOURCE ID: adventure_sync_enable_modal_success_message
 TEXT: Success! Check out your progress anytime in your Trainer profile.
@@ -681,6 +684,24 @@ TEXT: Oh?
 RESOURCE ID: age_gate_screen
 TEXT: Please enter your date of birth.
 
+RESOURCE ID: air_adventures_jeju_sr_title
+TEXT: Pokémon Air Adventures: Jeju Island
+
+RESOURCE ID: air_adventures_jeju_sr_title_00
+TEXT: Pokémon Air Adventures: Jeju Island (1/5)
+
+RESOURCE ID: air_adventures_jeju_sr_title_01
+TEXT: Pokémon Air Adventures: Jeju Island (2/5)
+
+RESOURCE ID: air_adventures_jeju_sr_title_02
+TEXT: Pokémon Air Adventures: Jeju Island (3/5)
+
+RESOURCE ID: air_adventures_jeju_sr_title_03
+TEXT: Pokémon Air Adventures: Jeju Island (4/5)
+
+RESOURCE ID: air_adventures_jeju_sr_title_04
+TEXT: Pokémon Air Adventures: Jeju Island (5/5)
+
 RESOURCE ID: air_adventures_okinawa_sr_title_0
 TEXT: Pokémon Air Adventures: Okinawa
 
@@ -717,6 +738,9 @@ TEXT: Welcome to Alola
 RESOURCE ID: alola_pokedex_header
 TEXT: Alolan Form
 
+RESOURCE ID: already_creating_route_error
+TEXT: Finish or discard your current Route to begin creating a new Route.
+
 RESOURCE ID: already_have_account
 TEXT: Already have an account?
 
@@ -743,6 +767,33 @@ TEXT: Anniversary Event Research (5/6)
 
 RESOURCE ID: anniversary_2022_timed_research_5
 TEXT: Anniversary Event Research (6/6)
+
+RESOURCE ID: anniversary_2023_event_day1
+TEXT: 7th Anniversary Party: Day 1
+
+RESOURCE ID: anniversary_2023_event_day2
+TEXT: 7th Anniversary Party: Day 2
+
+RESOURCE ID: anniversary_2023_event_day3
+TEXT: 7th Anniversary Party: Day 3
+
+RESOURCE ID: anniversary_2023_event_day4
+TEXT: 7th Anniversary Party: Day 4
+
+RESOURCE ID: anniversary_2023_event_day5
+TEXT: 7th Anniversary Party: Day 5
+
+RESOURCE ID: anniversary_2023_event_day6
+TEXT: 7th Anniversary Party: Day 6
+
+RESOURCE ID: anniversary_2023_event_day7
+TEXT: 7th Anniversary Party: Day 7
+
+RESOURCE ID: anniversary_2023_event_title
+TEXT: 7th Anniversary Party
+
+RESOURCE ID: anniversary_2023_timed_research_0
+TEXT: 7th Anniversary Party Timed Research
 
 RESOURCE ID: app_exit_confirmation_message
 TEXT: Do you want to exit Pokémon GO?
@@ -943,7 +994,7 @@ RESOURCE ID: appraise_size_tiny_3|1
 TEXT: Your {0} is pretty petite, huh?
 
 RESOURCE ID: appraise_size_tiny_3|1_tgr
-TEXT: What a quaint little {0}. 
+TEXT: What a quaint little {0}.
 
 RESOURCE ID: appraise_size_tiny_3|1b
 TEXT: Your {0} is pretty petite, huh? 
@@ -1811,6 +1862,9 @@ TEXT: Verizon Mask
 RESOURCE ID: avatar_f_glasses_3d_bundle_icon
 TEXT: Future Specs
 
+RESOURCE ID: avatar_f_glasses_divingsuit_00_bundle_icon
+TEXT: Diver Goggles
+
 RESOURCE ID: avatar_f_glasses_empty_bundle_icon
 TEXT: No Glasses
 
@@ -2241,11 +2295,19 @@ TEXT: Sableye Goggles
 RESOURCE ID: avatar_f_hat_samsungsummer2020_0_bundle_icon
 TEXT: Samsung Galaxy Tie-Dye Hat
 
+RESOURCE ID: avatar_f_hat_sandygasthat_00_bundle_icon
+TEXT: Sandygast
+Sun Hat
+
 RESOURCE ID: avatar_f_hat_shayminhat_00_bundle_icon
 TEXT: Shaymin Hat
 
 RESOURCE ID: avatar_f_hat_slowpoketailshirts_00_bundle_icon
 TEXT: Slowpoke Hat
+
+RESOURCE ID: avatar_f_hat_snorlaxnightcap_00_bundle_icon
+TEXT: Snorlax Pattern
+Nightcap
 
 RESOURCE ID: avatar_f_hat_solgaleoitems_00_bundle_icon
 TEXT: Solgaleo Mask
@@ -2351,6 +2413,10 @@ TEXT: Super Choker
 RESOURCE ID: avatar_f_pants_6thanniversary_00_bundle_icon
 TEXT: 6th Anniversary
 White Suit Pants
+
+RESOURCE ID: avatar_f_pants_7thanniversary_00_bundle_icon
+TEXT: 7th Anniversary
+Pants
 
 RESOURCE ID: avatar_f_pants_acetrainerbw_0_bundle_icon
 TEXT: Ace Skirt
@@ -2544,6 +2610,10 @@ RESOURCE ID: avatar_f_shirt_6thanniversary_00_bundle_icon
 TEXT: 6th Anniversary
 White Suit Top
 
+RESOURCE ID: avatar_f_shirt_7thanniversary_00_bundle_icon
+TEXT: 7th Anniversary
+Top Set
+
 RESOURCE ID: avatar_f_shirt_acetrainerbw_0_bundle_icon
 TEXT: Ace Vest
 
@@ -2615,6 +2685,9 @@ TEXT: Denim Jacket
 RESOURCE ID: avatar_f_shirt_detectivepikachu_0_bundle_icon
 TEXT: Detective Pikachu T-shirt
 
+RESOURCE ID: avatar_f_shirt_divingsuit_00_bundle_icon
+TEXT: Diving Suit Set
+
 RESOURCE ID: avatar_f_shirt_diwali2021_00_bundle_icon
 TEXT: Festival of Lights T-shirt
 
@@ -2679,6 +2752,9 @@ TEXT: GO Fest 2020 Tee
 
 RESOURCE ID: avatar_f_shirt_gofest_2021_0_bundle_icon
 TEXT: GO Fest 2021 Tee
+
+RESOURCE ID: avatar_f_shirt_gofestglobal2023_00_bundle_icon
+TEXT: GO Fest 2023 Tee
 
 RESOURCE ID: avatar_f_shirt_goteamrocketarlo_00_bundle_icon
 TEXT: Arlo-Style Outfit
@@ -2941,6 +3017,9 @@ TEXT: Slowpoke Forever Shirt
 RESOURCE ID: avatar_f_shirt_slowpoketailshirts_00_bundle_icon
 TEXT: Slowpoke Tail Shirt
 
+RESOURCE ID: avatar_f_shirt_snorlaxonesie_00_bundle_icon
+TEXT: Snorlax Onesie
+
 RESOURCE ID: avatar_f_shirt_spiritomb_0_bundle_icon
 TEXT: Spiritomb T-shirt
 
@@ -3152,6 +3231,9 @@ TEXT: Battle Girl Shoes
 
 RESOURCE ID: avatar_f_shoes_bwn_00_bundle_icon
 TEXT: N-Style Shoes
+
+RESOURCE ID: avatar_f_shoes_carbink_00_bundle_icon
+TEXT: Carbink Shoes
 
 RESOURCE ID: avatar_f_shoes_clay_00_bundle_icon
 TEXT: Clay-Style Shoes
@@ -3615,6 +3697,9 @@ TEXT: Verizon Mask
 RESOURCE ID: avatar_m_glasses_3d_bundle_icon
 TEXT: Future Specs
 
+RESOURCE ID: avatar_m_glasses_divingsuit_00_bundle_icon
+TEXT: Diver Goggles
+
 RESOURCE ID: avatar_m_glasses_empty_bundle_icon
 TEXT: No Glasses
 
@@ -4045,11 +4130,19 @@ TEXT: Sableye Goggles
 RESOURCE ID: avatar_m_hat_samsungsummer2020_0_bundle_icon
 TEXT: Samsung Galaxy Tie-Dye Hat
 
+RESOURCE ID: avatar_m_hat_sandygasthat_00_bundle_icon
+TEXT: Sandygast
+Sun Hat
+
 RESOURCE ID: avatar_m_hat_shayminhat_00_bundle_icon
 TEXT: Shaymin Hat
 
 RESOURCE ID: avatar_m_hat_slowpoketailshirts_00_bundle_icon
 TEXT: Slowpoke Hat
+
+RESOURCE ID: avatar_m_hat_snorlaxnightcap_00_bundle_icon
+TEXT: Snorlax Pattern
+Nightcap
 
 RESOURCE ID: avatar_m_hat_solgaleoitems_00_bundle_icon
 TEXT: Solgaleo Mask
@@ -4139,6 +4232,10 @@ TEXT: Zubat Headband
 RESOURCE ID: avatar_m_pants_6thanniversary_00_bundle_icon
 TEXT: 6th Anniversary
 White Suit Pants
+
+RESOURCE ID: avatar_m_pants_7thanniversary_00_bundle_icon
+TEXT: 7th Anniversary
+Pants
 
 RESOURCE ID: avatar_m_pants_acetrainerbw_0_bundle_icon
 TEXT: Ace Pants
@@ -4335,6 +4432,10 @@ RESOURCE ID: avatar_m_shirt_6thanniversary_00_bundle_icon
 TEXT: 6th Anniversary
 White Suit Top
 
+RESOURCE ID: avatar_m_shirt_7thanniversary_00_bundle_icon
+TEXT: 7th Anniversary
+Top Set
+
 RESOURCE ID: avatar_m_shirt_acetrainerbw_0_bundle_icon
 TEXT: Ace Vest
 
@@ -4415,6 +4516,9 @@ TEXT: Denim Jacket
 RESOURCE ID: avatar_m_shirt_detectivepikachu_0_bundle_icon
 TEXT: Detective Pikachu T-shirt
 
+RESOURCE ID: avatar_m_shirt_divingsuit_00_bundle_icon
+TEXT: Diving Suit Set
+
 RESOURCE ID: avatar_m_shirt_diwali2021_00_bundle_icon
 TEXT: Festival of Lights T-shirt
 
@@ -4482,6 +4586,9 @@ TEXT: GO Fest 2020 Tee
 
 RESOURCE ID: avatar_m_shirt_gofest_2021_0_bundle_icon
 TEXT: GO Fest 2021 Tee
+
+RESOURCE ID: avatar_m_shirt_gofestglobal2023_00_bundle_icon
+TEXT: GO Fest 2023 Tee
 
 RESOURCE ID: avatar_m_shirt_goteamrocketarlo_00_bundle_icon
 TEXT: Arlo-Style Outfit
@@ -4750,6 +4857,9 @@ TEXT: Slowpoke Forever Shirt
 RESOURCE ID: avatar_m_shirt_slowpoketailshirts_00_bundle_icon
 TEXT: Slowpoke Tail Shirt
 
+RESOURCE ID: avatar_m_shirt_snorlaxonesie_00_bundle_icon
+TEXT: Snorlax Onesie
+
 RESOURCE ID: avatar_m_shirt_spiritomb_0_bundle_icon
 TEXT: Spiritomb T-shirt
 
@@ -4955,6 +5065,9 @@ TEXT: Brock Shoes
 
 RESOURCE ID: avatar_m_shoes_bwn_00_bundle_icon
 TEXT: N-Style Shoes
+
+RESOURCE ID: avatar_m_shoes_carbink_00_bundle_icon
+TEXT: Carbink Shoes
 
 RESOURCE ID: avatar_m_shoes_clay_00_bundle_icon
 TEXT: Clay-Style Shoes
@@ -5291,6 +5404,30 @@ TEXT: Achieve a Pokémon catch streak or PokéStop spin streak of seven days.
 
 RESOURCE ID: badge_7_day_streaks_title
 TEXT: Triathlete
+
+RESOURCE ID: badge_aa_2023_jeju_day_00_general
+TEXT: Jeju Island, 2023
+
+RESOURCE ID: badge_aa_2023_jeju_day_00_general_title
+TEXT: Pokémon Air Adventures
+
+RESOURCE ID: badge_aa_2023_jeju_day_01_general
+TEXT: Jeju Island, July 28, 2023
+
+RESOURCE ID: badge_aa_2023_jeju_day_01_general_title
+TEXT: Pokémon Air Adventures
+
+RESOURCE ID: badge_aa_2023_jeju_day_02_general
+TEXT: Jeju Island, July 29, 2023
+
+RESOURCE ID: badge_aa_2023_jeju_day_02_general_title
+TEXT: Pokémon Air Adventures
+
+RESOURCE ID: badge_aa_2023_jeju_day_03_general
+TEXT: Jeju Island, July 30, 2023
+
+RESOURCE ID: badge_aa_2023_jeju_day_03_general_title
+TEXT: Pokémon Air Adventures
 
 RESOURCE ID: badge_apac_partner_july_2018_1
 TEXT: Japan, July 28, 2018
@@ -6720,6 +6857,9 @@ TEXT: N0
 RESOURCE ID: badge_max_size_first_place_win
 TEXT: Win {0} PokéStop Showcases.
 
+RESOURCE ID: badge_max_size_first_place_win_singular
+TEXT: Win a PokéStop Showcase.
+
 RESOURCE ID: badge_max_size_first_place_win_title
 TEXT: Showcase Star
 
@@ -7378,7 +7518,7 @@ RESOURCE ID: badge_small_rattata_value_format
 TEXT: N0
 
 RESOURCE ID: badge_today_view_header
-TEXT: You have chosen: 
+TEXT: You have chosen:
 
 RESOURCE ID: badge_top_banana_1
 TEXT: Porto Alegre, Jan 25, 2019
@@ -10616,6 +10756,9 @@ TEXT: Post-event Catch Cup available in the GO Battle League for Pokémon GO Saf
 RESOURCE ID: bonus_cd_move_alodude
 TEXT: Evolve Alolan Graveler to get an Alolan Golem that knows the Fast Attack Rollout
 
+RESOURCE ID: bonus_cd_move_axew
+TEXT: Evolve Fraxure to get a Haxorus that knows the Charged Attack Breaking Swipe!
+
 RESOURCE ID: bonus_cd_move_chespin
 TEXT: Evolve Quilladin (Chespin’s Evolution) to get a Chesnaught that knows the Charged Attack Frenzy Plant!
 
@@ -10642,6 +10785,9 @@ TEXT: Evolve Boldore to get a Gigalith that knows the Charged Attack Meteor Beam
 
 RESOURCE ID: bonus_cd_move_slowpoke
 TEXT: Evolve Slowpoke or Galarian Slowpoke to get one of its Evolutions that knows the Charged Attack Surf!
+
+RESOURCE ID: bonus_cd_move_squirtle
+TEXT: Evolve Wartortle to get a Blastoise that knows the Charged Attack Hydro Cannon!
 
 RESOURCE ID: bonus_cd_move_starly
 TEXT: Evolve Staravia to get a Staraptor that knows the Fast Attack Gust
@@ -10672,6 +10818,12 @@ TEXT: Special event stickers available from spinning PokéStops in the area
 
 RESOURCE ID: bonus_exclusive_souvenir
 TEXT: An event-exclusive buddy Souvenir is available!
+
+RESOURCE ID: bonus_farfetchd_costume_pikachu_photobomb
+TEXT: Daily surprise encounters in GO Snapshot with Pikachu wearing a blue shirt (Citrus) and Farfetch’d
+
+RESOURCE ID: bonus_farfetchd_kanto_spawn
+TEXT: Large numbers of Farfetch’d are appearing in the area!
 
 RESOURCE ID: bonus_finneon_o_clock
 TEXT: At the top of each hour, Finneon will appear in large numbers!
@@ -10720,6 +10872,9 @@ TEXT: Large numbers of Pokémon originally discovered in the Hoenn region are ap
 
 RESOURCE ID: bonus_implicit_social_alodude
 TEXT: If enough Pokémon are caught with help from a single Lure Module, the 3× Catch Stardust bonus for Trainers near the Lured PokéStop will become a 4× bonus for 30 minutes
+
+RESOURCE ID: bonus_implicit_social_axew_raid
+TEXT: If Trainers work together to win a Fraxure raid, large numbers of Axew will appear in the area for 30 minutes.
 
 RESOURCE ID: bonus_implicit_social_chespin_raid
 TEXT: If Trainers work together to win a Quilladin raid, large numbers of Chespin will appear in the area for 30 minutes.
@@ -10790,6 +10945,12 @@ TEXT: Incense may attract Pikachu wearing Brendan’s hat or Pikachu wearing May
 RESOURCE ID: bonus_incense_hoenn_unown
 TEXT: Incense may attract Unown
 
+RESOURCE ID: bonus_jeju_balloon_pikachu
+TEXT: Flying Pikachu with orange balloons are appearing in the area
+
+RESOURCE ID: bonus_jeju_costume_pikachu
+TEXT: Pikachu wearing a blue shirt (Citrus) are now appearing in the area
+
 RESOURCE ID: bonus_lure_3hr_stufful
 TEXT: 3-hour Lure Module duration
 
@@ -10797,13 +10958,16 @@ RESOURCE ID: bonus_magnetic_lure_6_hr
 TEXT: 6-hour Magnetic Lure Module duration
 
 RESOURCE ID: bonus_mega_latias_latios
-TEXT: Mega Latias raids and Mega Latios raids are appearing in the area!
+TEXT: Mega Latias and Mega Latios are appearing in Mega Raids
 
 RESOURCE ID: bonus_milestone_rewards_title
 TEXT: BONUS MILESTONE REWARDS
 
 RESOURCE ID: bonus_not_active
 TEXT: Bonus not currently active
+
+RESOURCE ID: bonus_pelipper_delibird_pikachu_photobomb
+TEXT: One surprise encounter per day with either Pikachu, Pelipper, or Delibird in GO Snapshot
 
 RESOURCE ID: bonus_primal_rumblings_absol
 TEXT: Large numbers of Absol will appear for 5 minutes at noon
@@ -12211,14 +12375,24 @@ TEXT: Special Box
 RESOURCE ID: bundle_retweet_reward
 TEXT: Retweet Reward Box
 
+RESOURCE ID: button_confirm_pair
+TEXT: YES, PAIR
+
+RESOURCE ID: button_confirm_unpair
+TEXT: YES, UNPAIR
+
 RESOURCE ID: button_throw_disabled
-TEXT: You ran out of your selected ball type. Button-throw is now disabled.
+TEXT: You ran out of the type of Poké Ball you selected. Button-Throw is now disabled.
 
 RESOURCE ID: calavera_bonus_tr_title
 TEXT: Cráneo Monumental: Bonus Timed Research
 
 RESOURCE ID: campfire_invite_notification
 TEXT: {0} has invited you to join the fun on Campfire!
+
+RESOURCE ID: campfire_raid_ready_notification
+TEXT: Raid group found!
+You have 1 minute to join.
 
 RESOURCE ID: cancelled_ex_raid_items_prompt
 TEXT: Please accept the following items and keep training!
@@ -13670,6 +13844,15 @@ TEXT: If you spin the Photo Disc, you can get an AR mapping task and help collec
 RESOURCE ID: collect_ar_data_title
 TEXT: Collect AR Data
 
+RESOURCE ID: collection_aa2023_jeju_day_01
+TEXT: Pokémon Air Adventures Collection Challenge
+
+RESOURCE ID: collection_aa2023_jeju_day_02
+TEXT: Pokémon Air Adventures Collection Challenge
+
+RESOURCE ID: collection_aa2023_jeju_day_03
+TEXT: Pokémon Air Adventures Collection Challenge
+
 RESOURCE ID: collection_challenge_ar_safari_bidoof
 TEXT: Trade Challenge: Bidoof
 
@@ -14444,6 +14627,9 @@ TEXT: Community Day: Abra
 RESOURCE ID: community_day_alodude_event_name
 TEXT: Community Day: Alolan Geodude
 
+RESOURCE ID: community_day_axew_event_name
+TEXT: Community Day: Axew
+
 RESOURCE ID: community_day_bulbasaur_event_name
 TEXT: Bulbasaur Community Day Classic
 
@@ -14564,6 +14750,9 @@ TEXT: Community Day: Snivy
 RESOURCE ID: community_day_spheal_event_name
 TEXT: Community Day: Spheal
 
+RESOURCE ID: community_day_squirtle_event_name
+TEXT: Community Day Classic: Squirtle
+
 RESOURCE ID: community_day_starly_event_name
 TEXT: Community Day: Starly
 
@@ -14598,52 +14787,53 @@ RESOURCE ID: community_day_zigzagoon_timed_research
 TEXT: Galarian Zigzagoon: Catch Challenge
 
 RESOURCE ID: companion_device_enable_modal_failure_message
-TEXT: Try again through settings or the Companion Device icon.
+TEXT: Try again in Settings or by tapping the accessory device icon.
 
 RESOURCE ID: companion_device_enable_modal_failure_title
-TEXT: Companion Device not enabled
+TEXT: Your smart device settings do not currently allow accessory devices to be connected.
 
 RESOURCE ID: companion_device_enable_modal_message
-TEXT: Let your Companion Device count your steps and help you find nearby Pokémon and spin nearby PokéStops!
+TEXT: Let your accessory device count your steps, help you find Pokémon, and spin nearby PokéStops!
 
 RESOURCE ID: companion_device_enable_modal_success_message
 TEXT: Success! You can now start catching Pokémon and spinning PokéStops.
 
 RESOURCE ID: companion_device_enable_modal_success_title
-TEXT: Companion Device enabled!
+TEXT: You can now connect accessory devices!
 
 RESOURCE ID: companion_device_enable_modal_title
-TEXT: Enable Companion Device
+TEXT: Enable Accessory Device Connection
 
 RESOURCE ID: companion_device_tips1_a
-TEXT: When a Pokémon is nearby, your device will vibrate and flash lights. If you see:
+TEXT: When a Pokémon is nearby, your device will vibrate and light up.
 
 RESOURCE ID: companion_device_tips1_b
-TEXT: Green lights, you have caught this type of Pokémon before.
+TEXT: If you see a green light, it means you’ve caught this Pokémon before.
 
 RESOURCE ID: companion_device_tips1_c
-TEXT: Yellow lights, you have not caught this type of Pokémon before.
+TEXT: If you see a yellow light, it means you haven’t caught this Pokémon before.
 
 RESOURCE ID: companion_device_tips2_a
-TEXT: You can press the center button on your device to throw a Poké Ball and try to catch the Pokémon. If you see:
+TEXT: You can press the main button on your device to throw a Poké Ball and try to catch the Pokémon.
 
 RESOURCE ID: companion_device_tips2_b
-TEXT: Multicolored lights, you caught the Pokémon.
+TEXT: If you see multicolored lights, you successfully caught
+the Pokémon.
 
 RESOURCE ID: companion_device_tips2_c
-TEXT: Red light, the Pokémon fled or your inventory was full.
+TEXT: If you see a red light, the Pokémon fled or your Pokémon storage was full.
 
 RESOURCE ID: companion_device_tips3_a
-TEXT: When you are in range of a PokéStop, you device will vibrate and flash blue lights.
+TEXT: When you’re in range of a PokéStop, your device will vibrate and flash blue lights.
 
 RESOURCE ID: companion_device_tips4_a
-TEXT: You can press the center button on your device to try to spin the PokéStop. If you see:
+TEXT: You can press the main button on your device to try to spin the PokéStop.
 
 RESOURCE ID: companion_device_tips4_b
-TEXT: Multicolored lights, you retrieved items from the PokéStop.
+TEXT: If you see multicolored lights, you successfully retrieved items from the PokéStop.
 
 RESOURCE ID: companion_device_tips4_c
-TEXT: Red or white light, the PokéStop was out-of-range or your Item Bag was full.
+TEXT: If you see a red or white light, the PokéStop was out of range or your Item Bag was full.
 
 RESOURCE ID: complete_geotarget_quest
 TEXT: Complete an AR Mapping task
@@ -14667,7 +14857,7 @@ RESOURCE ID: connecting_go_plus
 TEXT: Connecting Pokémon GO Plus
 
 RESOURCE ID: connecting_go_plus_plus
-TEXT: Connecting Pokémon GO Plus +.
+TEXT: Connecting Pokémon GO Plus +
 
 RESOURCE ID: connecting_pokeball_plus
 TEXT: Connecting Poké Ball Plus
@@ -14706,7 +14896,7 @@ RESOURCE ID: contest_enter_error_already_entered
 TEXT: You already have a Pokémon entered in this PokéStop Showcase.
 
 RESOURCE ID: contest_enter_error_mega
-TEXT: Mega-Evolved Pokémon cannot enter PokéStop Showcases. 
+TEXT: Mega-Evolved Pokémon cannot enter PokéStop Showcases.
 
 RESOURCE ID: contest_enter_error_recent_win
 TEXT: This Pokémon has won a PokéStop Showcase recently.
@@ -14782,6 +14972,9 @@ TEXT: {0}
 
 RESOURCE ID: contest_leaderboard_trainer_subheader
 TEXT: & {0}
+
+RESOURCE ID: contest_max_size_description
+TEXT: Compete to see who has the biggest Pokémon!
 
 RESOURCE ID: contest_open_contest
 TEXT: Showcase
@@ -14919,6 +15112,9 @@ TEXT: Event Pokémon appearing in the wild
 RESOURCE ID: crackling_voltage_event_name
 TEXT: Crackling Voltage
 
+RESOURCE ID: create_new_route_button
+TEXT: Create New Route
+
 RESOURCE ID: create_pokemon_tag_error
 TEXT: Failed to create tag.
 
@@ -14927,6 +15123,9 @@ TEXT: CREATE TAG
 
 RESOURCE ID: created_by_label
 TEXT: Created By
+
+RESOURCE ID: created_routes_title
+TEXT: CREATED ROUTES
 
 RESOURCE ID: dai_duration_double
 TEXT: 2× Daily Adventure Incense Duration
@@ -15000,8 +15199,35 @@ TEXT: Come back tomorrow to earn more PokéCoins
 RESOURCE ID: daily_research_title
 TEXT: Daily Research
 
+RESOURCE ID: dark_flames_dark_title
+TEXT: Dark Flames: Dark-type Timed Research
+
+RESOURCE ID: dark_flames_event_title
+TEXT: Dark Flames
+
+RESOURCE ID: dark_flames_fire_title
+TEXT: Dark Flames: Fire-type Timed Research
+
+RESOURCE ID: dark_flames_sr_page0
+TEXT: Dark Flames (1/4)
+
+RESOURCE ID: dark_flames_sr_page1
+TEXT: Dark Flames (2/4)
+
+RESOURCE ID: dark_flames_sr_page2
+TEXT: Dark Flames (3/4)
+
+RESOURCE ID: dark_flames_sr_page3
+TEXT: Dark Flames (4/4)
+
 RESOURCE ID: dark_type_event
 TEXT: Type Surge: Dark
+
+RESOURCE ID: darkflames_june23_dark_collection_challenge
+TEXT: Collection Challenge: Dark-type Pokémon
+
+RESOURCE ID: darkflames_june23_fire_collection_challenge
+TEXT: Collection Challenge: Fire-type Pokémon
 
 RESOURCE ID: date_format
 TEXT: MMM dd, yyyy
@@ -15280,10 +15506,10 @@ RESOURCE ID: disconnecting_go_plus
 TEXT: Disconnecting Pokémon GO Plus
 
 RESOURCE ID: disconnecting_go_plus_plus
-TEXT: Pokémon GO Plus+ session timed out.
+TEXT: Your Pokémon GO Plus + session timed out.
 
 RESOURCE ID: disconnecting_pokeball_plus
-TEXT: Poké Ball Plus session timed out.
+TEXT: Your Poké Ball Plus session timed out.
 
 RESOURCE ID: dont_have_account
 TEXT: Don’t have an account?
@@ -15893,6 +16119,9 @@ TEXT: This Trainer has already sent you a Friend Request.
 RESOURCE ID: error_invite_already_sent
 TEXT: You have already sent an invite to this Trainer.
 
+RESOURCE ID: error_invite_when_ready
+TEXT: You can’t send invitations when you’ve indicated that you’re ready.
+
 RESOURCE ID: error_join_lobby
 TEXT: An error occurred in trying to join the raid.
 
@@ -15904,6 +16133,9 @@ TEXT: You've sent all the Friend Requests you can right now.
 
 RESOURCE ID: error_memento_type_not_enabled
 TEXT: Postcard Book error
+
+RESOURCE ID: error_need_more_player_to_ready
+TEXT: You need to wait for another Trainer before starting the raid.
 
 RESOURCE ID: error_no_available_lobbies
 TEXT: No groups found with that code.
@@ -17000,6 +17232,12 @@ TEXT: Received {0} items from the {1}
 RESOURCE ID: external_reward_text
 TEXT: {0} PokéCoins added
 
+RESOURCE ID: extra_guranteed_xl_candy_raids
+TEXT: One additional guaranteed Candy XL from all raids
+
+RESOURCE ID: extra_three_candy_raids
+TEXT: Three additional Candy from catching Pokémon in raids
+
 RESOURCE ID: extreme_weather_warning_title
 TEXT: Extreme weather
 
@@ -17157,6 +17395,9 @@ TEXT: Clay-Style Pose
 RESOURCE ID: f_avatar_poses_bundle_pose_51
 TEXT: Rising Hero
 Pose
+
+RESOURCE ID: f_avatar_poses_bundle_pose_52
+TEXT: Surfing Pose
 
 RESOURCE ID: f_avatar_poses_empty_bundle_pose_empty
 TEXT: Idle
@@ -17371,6 +17612,9 @@ TEXT: candyxl
 
 RESOURCE ID: filter_key_costume
 TEXT: costume
+
+RESOURCE ID: filter_key_count
+TEXT: count
 
 RESOURCE ID: filter_key_defender
 TEXT: defender
@@ -18934,12 +19178,12 @@ RESOURCE ID: general1.ticket.2_flett_title
 TEXT: The Bravest Bird Ticket
 
 RESOURCE ID: general1.ticket.2_gbdmay2023_description
-TEXT: A ticket to access the GO Battle Day: Stardust Timed Research, which includes the following rewards. 
-- 25,000 Stardust 
-- 3 Rare Candies 
-- 1 Star Piece 
- 
-This Timed Research will be available on May 14, 2023, between 12:00 a.m. and 11:59 p.m. local time. Learn more in the in-game News. 
+TEXT: A ticket to access the GO Battle Day: Stardust Timed Research, which includes the following rewards.
+- 25,000 Stardust
+- 3 Rare Candies
+- 1 Star Piece
+
+This Timed Research will be available on May 14, 2023, between 12:00 a.m. and 11:59 p.m. local time. Learn more in the in-game News.
 
 You must play during the specified time to receive all the event bonuses.
 
@@ -18957,9 +19201,9 @@ TEXT: Just a Nibble Ticket
 RESOURCE ID: general1.ticket.2_goldtr2023_description
 TEXT: A ticket to access the Searching for Gold Timed Research. This ticket includes your choice of additional encounters with either Caterpie, Magikarp, Nosepass, Sableye, or Barboach. 
 
-Pokémon that appear while this Timed Research is active have the same chance of appearing as Shiny Pokémon as those that can be encountered via Field Research tasks during the event. 
+Pokémon that appear while this Timed Research is active have the same chance of appearing as Shiny Pokémon as those that can be encountered via Field Research tasks during the event.
 
-This Timed Research will be available on June 3, 2023, from 2:00 p.m. to 5:00 p.m. local time. Learn more in the in-game News. 
+This Timed Research will be available on June 3, 2023, from 2:00 p.m. to 5:00 p.m. local time. Learn more in the in-game News.
 
 You must play during the specified time to receive all the special event bonuses!
 
@@ -18996,6 +19240,48 @@ TEXT: A ticket to access the Chespin Community Day Special Research, wherever yo
 
 RESOURCE ID: general1.ticket.2_jan2023_title
 TEXT: Quality Quills
+
+RESOURCE ID: general1.ticket.2_julycd2023_description
+TEXT: A ticket to access the Community Day: Poliwag Special Research on July 30, 2023, from 2:00 p.m. to 5:00 p.m. local time, wherever you are. 
+ 
+Research rewards include: 
+- Premium in-game items, such as Rare Candies, Ultra Balls, and more 
+- Extra encounters with Poliwag and its Evolutions 
+ 
+Details can be found in the in-game News. 
+ 
+<b>You must play during the specified time to receive all the special event bonuses.</b>
+
+RESOURCE ID: general1.ticket.2_julycd2023_title
+TEXT: Poliwag Community Day Ticket
+
+RESOURCE ID: general1.ticket.2_julycdc2023_description
+TEXT: A ticket to access the Community Day Classic: Squirtle Special Research on July 9, 2023, from 2:00 p.m. to 5:00 p.m. local time, wherever you are. 
+ 
+Research rewards include: 
+- Premium in-game items, such as Rare Candies, Ultra Balls, and more 
+- Extra encounters with Squirtle and its Evolutions 
+ 
+Details can be found in the in-game News. 
+ 
+<b>You must play during the specified time to receive all the special event bonuses.</b>
+
+RESOURCE ID: general1.ticket.2_julycdc2023_title
+TEXT: Squirtle Community Day Classic Ticket
+
+RESOURCE ID: general1.ticket.2_junecd2023_description
+TEXT: A ticket to access the Axew Community Day Special Research on Saturday, June 10, 2023, from 2:00 p.m. to 5:00 p.m. local time, wherever you are.
+
+Research rewards include:
+- Premium in-game items such as Rare Candies, Ultra Balls, and more
+- Extra encounters with Axew and its Evolutions
+
+Details can be found in the in-game News.
+
+<b>You must play during the specified time to receive all the special event bonuses.</b>
+
+RESOURCE ID: general1.ticket.2_junecd2023_title
+TEXT: Keeping Sharp
 
 RESOURCE ID: general1.ticket.2_larvitarcdc1_description
 TEXT: A ticket to access the Larvitar Community Day Classic Special Research, wherever you are. Details can be found in the in-game News.
@@ -19200,10 +19486,75 @@ YOU MUST PLAY DURING THE SPECIFIED TIME TO RECEIVE ALL THE SPECIAL EVENT BONUSES
 RESOURCE ID: general1.ticket.5_title
 TEXT: Pokémon GO Fest 2021 Ticket
 
+RESOURCE ID: general1.ticket.anniversary_bundle_description
+TEXT: A ticket to access the 7th Anniversary Party Timed Research, which includes the following rewards. 
+ 
+- 77,777 XP  
+- 1 Incubator 
+- 1 Super Incubator 
+- 1 Premium Raid Pass 
+- 1 Lucky Egg 
+- 1 Rocket Radar 
+- 1 Star Piece 
+- 1 Incense 
+- An encounter with Pikachu wearing a party hat 
+ 
+The 7th Anniversary Party Timed Research Ticket will only be available in the in-game shop until July 11, 2023, at 8:00 p.m. local time. 
+ 
+<b>Timed research expires.</b> To receive the rewards, the tasks associated with this Timed Research must be completed and the rewards must be claimed before Wednesday, July 12, 2023, at 8:00 p.m. local time.
+
+RESOURCE ID: general1.ticket.anniversary_bundle_title
+TEXT: 7th Anniversary Party Timed Research Ticket
+
+RESOURCE ID: general1.ticket.beachweek2023_description
+TEXT: A ticket to access Timed Research from Tuesday, June 6, 2023, at 10:00 a.m. to Monday, June 12, 2023, at 8:00 p.m. local time, wherever you are. Research rewards include:
+
+- Surfing Pose
+- An encounter with Sandygast
+- An encounter with Clauncher
+- XP, Stardust, Poké Balls, and more
+
+IMPORTANT: Timed Research expires. The Timed Research tasks and their rewards will disappear on Monday, June 12, 2023, at 8:00 p.m. local time. Learn more in the in-game News!
+
+<b>You must play during the specified time to receive all special event bonuses.</b>
+
+RESOURCE ID: general1.ticket.beachweek2023_title
+TEXT: Water Festival: Beach Week Timed Research Ticket
+
+RESOURCE ID: general1.ticket.gbweeken_bundle_description
+TEXT: A ticket to access the GO Battle Day: Stardust Timed Research. Tasks will include battling in the GO Battle League 50 times and other battle-themed tasks. Research rewards will include the following. 
+ 
+- 30,000 Stardust 
+- 1 Star Piece 
+- 3 Rare Candies 
+- 3 Rare Candy XL for Trainers level 31 and up 
+  
+This Timed Research ticket will only be available in the in-game shop until Sunday, July 2, 2023, at 11:59 p.m. local time. 
+ 
+<b>Timed research expires.</b> To receive the rewards, the tasks associated with this Timed Research must be completed and the rewards must be claimed before Sunday, July 2, 2023, at 11:59 p.m. local time.
+
+RESOURCE ID: general1.ticket.gbweekend_bundle_title
+TEXT: GO Battle Day: Stardust Timed Research
+
 RESOURCE ID: general1.ticket.gofest2023_description
 TEXT: A ticket to access Pokémon GO Fest 2023: Global on August 26 and 27, 2023, wherever you are. Details can be found in the in-game News.
 
 You must play during the specified time to receive all the event bonuses.
+
+RESOURCE ID: general1.ticket.gofest2023_descriptioncarbinktr
+TEXT: A ticket to access Pokémon GO Fest 2023: Global on August 26 and 27, 2023, wherever you are.
+If you purchase this ticket by July 5, 2023, at 11:59 pm local time—and play between June 21 and July 5—you will also receive Timed Research that awards an encounter with Carbink. Be one of the first to discover this special Pokémon!
+
+Details can be found in the in-game News.
+
+<b>You must play during the specified time to receive all the event bonuses.</b>
+
+RESOURCE ID: general1.ticket.gofest2023_descriptiondiancieonly
+TEXT: A ticket to access Special Research during Pokémon GO Fest 2023: Global on August 26 and 27, 2023, wherever you are. This Special Research leads to an exclusive encounter with the Mythical Pokémon Diancie!
+
+Details can be found in the in-game News.
+
+<b>You must play during the specified time to receive all the event bonuses.</b>
 
 RESOURCE ID: general1.ticket.gofest2023_title
 TEXT: Pokémon GO Fest 2023: Global Ticket
@@ -19258,6 +19609,33 @@ You must play between Saturday, December 10, 2022, at 10:00 a.m. and Sunday, Dec
 RESOURCE ID: general1.ticket.keldeo_title
 TEXT: Something Extraordinary Ticket
 
+RESOURCE ID: general1.ticket.masterwork_sm_description
+TEXT: A ticket to access Masterwork Research that leads to an encounter with one of the most elusive Pokémon, Shiny Mew, and includes the following rewards. 
+ 
+- Shiny Mew Shirt avatar item 
+- 18,018 XP 
+- 11,550 Stardust 
+- 3 Rare Candies 
+- 1 Poffin 
+- 1 Incense 
+- 102 Ultra Balls 
+- 20 Mew Candy 
+ 
+This ticket will be available to purchase until Wednesday, July 12, 2023, at 8:00 p.m. local time. To receive the Masterwork Research, you must open Pokémon GO at some point between Thursday, July 6, 2023, at 10:00 a.m. and Wednesday, July 12, 2023, at 8:00 p.m. local time. Once acquired, Masterwork Research will not expire. 
+ 
+Trainers who purchase this ticket, or those who have received this Masterwork Research at a past event, can also enjoy the following bonuses for the duration of the 7th Anniversary Party event. 
+ 
+- 2× Incense duration 
+- 2× Daily Adventure Incense duration 
+- 2× Lure Module duration 
+ 
+Please note that you cannot gift this Masterwork Research ticket to other Trainers. 
+ 
+<b>You must play during the specified time to receive all the special event bonuses.</b>
+
+RESOURCE ID: general1.ticket.masterwork_sm_title
+TEXT: All-in-One #151 Masterwork Research Ticket
+
 RESOURCE ID: general1.ticket.megahoenn_description
 TEXT: A ticket to access the following bonuses on Saturday, December 3, 2022, from 2:00 p.m. to 10:00 p.m. local time, wherever you are.
 
@@ -19292,6 +19670,20 @@ You must play during the specified time to receive all the event bonuses.
 
 RESOURCE ID: general1.ticket.s10timed_title
 TEXT: Willow’s Wardrobe
+
+RESOURCE ID: general1.ticket_cosmog2023_description
+TEXT: A ticket to access an additional set of the Special Research Starry Skies from Friday, June 16, 2023, at 10:00 a.m. to Sunday, June 25, 2023, at 8:00 p.m. local time, wherever you are. This Special Research will give you the opportunity to encounter an additional Cosmog!
+
+Research rewards also include:
+- Premium in-game items such as Stardust, Ultra Balls, and more
+- Encounters with Galarian Slowpoke, Starmie, Metang, and Inkay
+
+Details can be found in the in-game News. 
+
+<b>You must play during the specified time to receive all the special event bonuses.</b>
+
+RESOURCE ID: general1.ticket_cosmog2023_title
+TEXT: Starry Skies
 
 RESOURCE ID: general_1_day
 TEXT: 1 day
@@ -19597,7 +19989,7 @@ RESOURCE ID: gifts_event_name
 TEXT: Gift Event
 
 RESOURCE ID: gimmighoul_goody_box
-TEXT: Gimmighoul Goody Box 
+TEXT: Gimmighoul Goody Box
 
 RESOURCE ID: giovanni_challenge#1
 TEXT: Prepare yourself for a world of pain.
@@ -19912,7 +20304,7 @@ RESOURCE ID: go_tour_global_sr_dialog_03_01
 TEXT: The cave I found it in was most impressive. The Red Orb shone with a brilliant crimson light atop something like an altar. Perhaps it was an object of worship in a time long past.
 
 RESOURCE ID: go_tour_global_sr_dialog_03_02
-TEXT: Only the Blue Orb remains. It is associated with Kyogre, if I am not mistaken. 
+TEXT: Only the Blue Orb remains. It is associated with Kyogre, if I am not mistaken.
 
 RESOURCE ID: go_tour_global_sr_dialog_03_03
 TEXT: I have read that Kyogre is able to create massive rain clouds that cover the entire sky and bring about torrential downpours. It has appeared in mythology as the creator of the sea.
@@ -19969,7 +20361,7 @@ RESOURCE ID: go_tour_global_sr_dialog_05_06
 TEXT: You know where to find me when you’re ready to continue your Pokémon journey. Until then, thanks again for your help. Things just wouldn’t be the same without you around!
 
 RESOURCE ID: go_tour_global_sr_dialog_branch_00
-TEXT: Greetings, %PLAYERNAME%. 
+TEXT: Greetings, %PLAYERNAME%.
 
 RESOURCE ID: go_tour_global_sr_dialog_branch_01
 TEXT: It has been some time since our last mission together. I would not have been able to learn of this world and keep the Ultra Beasts at bay without your previous assistance.
@@ -19981,7 +20373,7 @@ RESOURCE ID: go_tour_global_sr_dialog_branch_03
 TEXT: I hypothesize that following a Pokémon will lead us in the right direction. Pokémon seem to be well attuned to natural energy.
 
 RESOURCE ID: go_tour_global_sr_dialog_branch_04
-TEXT: Please select a Pokémon, %PLAYERNAME%. 
+TEXT: Please select a Pokémon, %PLAYERNAME%.
 
 RESOURCE ID: go_tour_hoenn_add_on_hatch
 TEXT: Add-on: Egg-thusiast
@@ -20062,7 +20454,7 @@ RESOURCE ID: go_tour_live_sr_dialog_01_arlo_00
 TEXT: Hmph.
 
 RESOURCE ID: go_tour_live_sr_dialog_01_arlo_01
-TEXT: I can’t believe I’m being forced to work with one of Candela’s friends. Unbelievable. As if I need help. 
+TEXT: I can’t believe I’m being forced to work with one of Candela’s friends. Unbelievable. As if I need help.
 
 RESOURCE ID: go_tour_live_sr_dialog_01_arlo_02
 TEXT: But even I know better than to disobey Giovanni, so there’s no worming my way out of this one.
@@ -20074,7 +20466,7 @@ RESOURCE ID: go_tour_live_sr_dialog_01_arlo_04
 TEXT: In fact, I’ve already come up with a plan to restrain Primal Kyogre and Primal Groudon. All that’s left for you to do is follow my orders.
 
 RESOURCE ID: go_tour_live_sr_dialog_01_arlo_05
-TEXT: First, we’re going to inspect the locations where Primal Kyogre and Primal Groudon have appeared. I’m putting you in charge of recording any anomalies you see in the area. 
+TEXT: First, we’re going to inspect the locations where Primal Kyogre and Primal Groudon have appeared. I’m putting you in charge of recording any anomalies you see in the area.
 
 RESOURCE ID: go_tour_live_sr_dialog_01_arlo_06
 TEXT: Well? You heard me, did you not? Time to go.
@@ -20089,7 +20481,7 @@ RESOURCE ID: go_tour_live_sr_dialog_01_cliff_02
 TEXT: Don’t waste our time apologizing. And don’t bother introducing yourself. We’ve met enough times to skip the pleasantries.
 
 RESOURCE ID: go_tour_live_sr_dialog_01_cliff_03
-TEXT: Let’s get down to business. Our bosses want us to check out a few locations where Primal Kyogre and Primal Groudon have appeared. 
+TEXT: Let’s get down to business. Our bosses want us to check out a few locations where Primal Kyogre and Primal Groudon have appeared.
 
 RESOURCE ID: go_tour_live_sr_dialog_01_cliff_04
 TEXT: Huh? What do you mean, Professor Willow’s not your boss? Whatever. You got the gist.
@@ -20101,7 +20493,7 @@ RESOURCE ID: go_tour_live_sr_dialog_01_sierra_00
 TEXT: Well, well! Isn’t this a lovely surprise? We’re on the same side for once!
 
 RESOURCE ID: go_tour_live_sr_dialog_01_sierra_01
-TEXT: Don’t look so concerned. There’s nothing in it for me if the world sinks, shakes, or whatever it is we’re supposed to be worried about. 
+TEXT: Don’t look so concerned. There’s nothing in it for me if the world sinks, shakes, or whatever it is we’re supposed to be worried about.
 
 RESOURCE ID: go_tour_live_sr_dialog_01_sierra_02
 TEXT: %PLAYERNAME%, darling, you can trust me.
@@ -20110,13 +20502,13 @@ RESOURCE ID: go_tour_live_sr_dialog_01_sierra_03
 TEXT: Not that you have many options right now—especially with your esteemed team leaders and the little begoggled one otherwise occupied.
 
 RESOURCE ID: go_tour_live_sr_dialog_01_sierra_04
-TEXT: Collaborating will be a new experience for me, too. So let’s find the silver lining of this debacle and learn from one another, shall we? 
+TEXT: Collaborating will be a new experience for me, too. So let’s find the silver lining of this debacle and learn from one another, shall we?
 
 RESOURCE ID: go_tour_live_sr_dialog_01_sierra_05
 TEXT: First, you and your Pokémon will accompany me to a few locations where Primal Kyogre and Primal Groudon have appeared.
 
 RESOURCE ID: go_tour_live_sr_dialog_01_sierra_06
-TEXT: Come along. Let’s see what you’re made of. 
+TEXT: Come along. Let’s see what you’re made of.
 
 RESOURCE ID: go_tour_live_sr_dialog_02_arlo_00
 TEXT: I’ll acknowledge you have some skill with a camera.
@@ -20128,7 +20520,7 @@ RESOURCE ID: go_tour_live_sr_dialog_02_arlo_02
 TEXT: Now I have enough information to move on with my investigation of Primal Reversion.
 
 RESOURCE ID: go_tour_live_sr_dialog_02_arlo_03
-TEXT: You look confused. Did that professor of yours never teach you about Primal Reversion? 
+TEXT: You look confused. Did that professor of yours never teach you about Primal Reversion?
 
 RESOURCE ID: go_tour_live_sr_dialog_02_arlo_04
 TEXT: I bet you’re thinking that if Candela were here, she could explain it. Unfortunately for you, I’m your leader for today.
@@ -20188,7 +20580,7 @@ RESOURCE ID: go_tour_live_sr_dialog_02_sierra_04
 TEXT: For our next move, let’s see how helpful these observations are in facing the power of Primal Reversion directly.
 
 RESOURCE ID: go_tour_live_sr_dialog_02_sierra_05
-TEXT: I believe I hear a telltale cry coming from that direction. Take your Pokémon and challenge them for me, would you? 
+TEXT: I believe I hear a telltale cry coming from that direction. Take your Pokémon and challenge them for me, would you?
 
 RESOURCE ID: go_tour_live_sr_dialog_03_00
 TEXT: %PLAYERNAME%! The strange weather seems to have subsided a little. Your attempts to calm Primal Kyogre and Primal Groudon are clearly paying off. Great work!
@@ -20239,13 +20631,13 @@ RESOURCE ID: go_tour_live_sr_dialog_04_cliff_01
 TEXT: Not bad! I’d promote you if you were on my team. I know good work when I see it.
 
 RESOURCE ID: go_tour_live_sr_dialog_04_cliff_02
-TEXT: In fact, I’m getting the hang of it by watching you. 
+TEXT: In fact, I’m getting the hang of it by watching you.
 
 RESOURCE ID: go_tour_live_sr_dialog_04_cliff_03
-TEXT: Which means Team GO Rocket’s got no more use for you! 
+TEXT: Which means Team GO Rocket’s got no more use for you!
 
 RESOURCE ID: go_tour_live_sr_dialog_04_cliff_04
-TEXT: So long, “partner”! 
+TEXT: So long, “partner”!
 
 RESOURCE ID: go_tour_live_sr_dialog_04_cliff_05
 TEXT: Don’t tell me you thought we were all best buds now? Pfft... Hahaha!
@@ -22427,7 +22819,7 @@ RESOURCE ID: gotour_2023_arlo_battle_quote
 TEXT: Don’t think we’re friends now.
 
 RESOURCE ID: gotour_2023_arlo_combat_quote
-TEXT: Remember: I’m only here because Giovanni asked. 
+TEXT: Remember: I’m only here because Giovanni asked.
 
 RESOURCE ID: gotour_2023_arlo_defeat_quote
 TEXT: That win didn’t count. Now get going already!
@@ -22445,7 +22837,7 @@ RESOURCE ID: gotour_2023_cliff_combat_quote
 TEXT: Too bad you’ll be losing this battle!
 
 RESOURCE ID: gotour_2023_cliff_defeat_quote
-TEXT: At least your strength is being used for the boss’s benefit. 
+TEXT: At least your strength is being used for the boss’s benefit.
 
 RESOURCE ID: gotour_2023_cliff_pre_combat_quote
 TEXT: Welcome to the winning side!
@@ -22454,13 +22846,13 @@ RESOURCE ID: gotour_2023_cliff_victory_quote
 TEXT: I expected more from you.
 
 RESOURCE ID: gotour_2023_giovanni_battle_quote
-TEXT: Get ready. 
+TEXT: Get ready.
 
 RESOURCE ID: gotour_2023_giovanni_combat_quote
 TEXT: I’ll remind you and your Pokémon of your place.
 
 RESOURCE ID: gotour_2023_giovanni_defeat_quote
-TEXT: Don’t just stand there. Get back to work. 
+TEXT: Don’t just stand there. Get back to work.
 
 RESOURCE ID: gotour_2023_giovanni_pre_combat_quote
 TEXT: ...
@@ -22469,13 +22861,13 @@ RESOURCE ID: gotour_2023_giovanni_victory_quote
 TEXT: This little alliance means nothing in the long run.
 
 RESOURCE ID: gotour_2023_grunt_1_combat_quote__male_speaker
-TEXT: I’m just helping you get stronger! Heh heh! 
+TEXT: I’m just helping you get stronger! Heh heh!
 
 RESOURCE ID: gotour_2023_grunt_1_defeat_quote
 TEXT: We’re on the same side today, so it’s not like I really lost, right?
 
 RESOURCE ID: gotour_2023_grunt_1_pre_combat_quote__male_speaker
-TEXT: Just because we’re teaming up doesn’t mean we can’t have a little friendly competition! 
+TEXT: Just because we’re teaming up doesn’t mean we can’t have a little friendly competition!
 
 RESOURCE ID: gotour_2023_grunt_1_victory_quote
 TEXT: Hah! Take that, “friend”!
@@ -22487,13 +22879,13 @@ RESOURCE ID: gotour_2023_grunt_2_defeat_quote
 TEXT: Uh... Congratulations, you passed my test!
 
 RESOURCE ID: gotour_2023_grunt_2_pre_combat_quote__female_speaker
-TEXT: They say we’re working together today. Let me test your skills! 
+TEXT: They say we’re working together today. Let me test your skills!
 
 RESOURCE ID: gotour_2023_grunt_2_victory_quote
 TEXT: That’s a zero for you, newbie!
 
 RESOURCE ID: gotour_2023_grunt_3_combat_quote
-TEXT: Hah! Just kidding. Prepare yourself! 
+TEXT: Hah! Just kidding. Prepare yourself!
 
 RESOURCE ID: gotour_2023_grunt_3_defeat_quote
 TEXT: It was just a joke! Quit taking everything so seriously!
@@ -22511,13 +22903,13 @@ RESOURCE ID: gotour_2023_sierra_combat_quote
 TEXT: Fancy a battle?
 
 RESOURCE ID: gotour_2023_sierra_defeat_quote
-TEXT: This won’t happen again. Now shoo! 
+TEXT: This won’t happen again. Now shoo!
 
 RESOURCE ID: gotour_2023_sierra_pre_combat_quote
-TEXT: You look like you’ve got some fight in your eyes. 
+TEXT: You look like you’ve got some fight in your eyes.
 
 RESOURCE ID: gotour_2023_sierra_victory_quote
-TEXT: Did you think I’d go easy on you today? 
+TEXT: Did you think I’d go easy on you today?
 
 RESOURCE ID: gotour_kanto
 TEXT: Pokémon GO Tour: Kanto
@@ -24533,6 +24925,21 @@ TEXT: Upgrades
 RESOURCE ID: iap_item_unavailable
 TEXT: This item can no longer be purchased.
 
+RESOURCE ID: iap_sale_days
+TEXT: {0} days
+
+RESOURCE ID: iap_sale_days_left
+TEXT: {0} days left
+
+RESOURCE ID: iap_sale_discount
+TEXT: {0}% OFF
+
+RESOURCE ID: iap_sale_ends_today
+TEXT: Ends today!
+
+RESOURCE ID: iap_sale_time_left_label
+TEXT: Time left:
+
 RESOURCE ID: ice_type_event
 TEXT: Type Surge: Ice
 
@@ -25017,10 +25424,13 @@ RESOURCE ID: item_event_ticket_pink_bulbt_details
 TEXT: This ticket will automatically activate to give you access to Special Research on January 22, 2022, wherever you are.
 
 RESOURCE ID: item_event_ticket_pink_desc
-TEXT: A ticket to access the Searching for Gold Timed Research on June 3, 2023, from 2:00 p.m. to 5:00 p.m. local time, wherever you are.
+TEXT: A ticket to access the Community Day Classic: Squirtle Special Research, wherever you are.
 
 RESOURCE ID: item_event_ticket_pink_desc_alodude
 TEXT: A ticket to access Special Research on May 21, 2022, from 11:00 a.m. to 2:00 p.m. local time, wherever you are.
+
+RESOURCE ID: item_event_ticket_pink_desc_axew
+TEXT: A ticket to access the Axew Community Day Special Research, wherever you are.
 
 RESOURCE ID: item_event_ticket_pink_desc_back
 TEXT: A ticket to access Special Research on November 5, 2022, from 2:00 p.m. to 5:00 p.m. local time, wherever you are.
@@ -25034,8 +25444,14 @@ TEXT: A ticket to access the Fennekin Community Day Special Research, wherever y
 RESOURCE ID: item_event_ticket_pink_desc_gbd
 TEXT: A ticket to access the GO Battle Day: Stardust Timed Research, wherever you are.
 
+RESOURCE ID: item_event_ticket_pink_desc_gold
+TEXT: A ticket to access the Searching for Gold Timed Research on June 3, 2023, from 2:00 p.m. to 5:00 p.m. local time, wherever you are.
+
 RESOURCE ID: item_event_ticket_pink_desc_mrmime
 TEXT: A ticket to access a special event from December 19, 2020, at 10:00 a.m. to December 20, 2020, 8:00 p.m. local time, wherever you are.
+
+RESOURCE ID: item_event_ticket_pink_desc_poliwag
+TEXT: A ticket to access Special Research on July 30, 2023, from 2:00 p.m. to 5:00 p.m. local time, wherever you are.
 
 RESOURCE ID: item_event_ticket_pink_desc_swinub
 TEXT: A ticket to access the Community Day Classic: Swinub Special Research, wherever you are.
@@ -25044,7 +25460,10 @@ RESOURCE ID: item_event_ticket_pink_desc_togetic
 TEXT: A ticket to access Special Research on April 15, 2023, from 2:00 p.m. to 5:00 p.m. local time, wherever you are.
 
 RESOURCE ID: item_event_ticket_pink_details
-TEXT: This ticket will automatically activate to give you access to the Searching for Gold Timed Research on June 3, 2023, from 2:00 p.m. to 5:00 p.m. local time, wherever you are.
+TEXT: This ticket will automatically activate to give you access to the Squirtle Community Day Classic Special Research on July 9, 2023, from 2:00 p.m. to 5:00 p.m. local time, wherever you are.
+
+RESOURCE ID: item_event_ticket_pink_details_axew
+TEXT: This ticket will automatically activate to give you access to the Axew Community Day Special Research on Saturday, June 10, 2023, from 2:00 p.m. to 5:00 p.m. local time, wherever you are.
 
 RESOURCE ID: item_event_ticket_pink_details_back
 TEXT: This ticket will automatically activate to give you access to Special Research on November 5, 2022, wherever you are.
@@ -25058,8 +25477,14 @@ TEXT: This ticket will automatically activate to give you access to the Fennekin
 RESOURCE ID: item_event_ticket_pink_details_gbd
 TEXT: This ticket will automatically activate to give you access to the GO Battle Day: Stardust Timed Research on May 14, 2023, between 12:00 a.m. and 11:59 p.m. local time, wherever you are.
 
+RESOURCE ID: item_event_ticket_pink_details_gold
+TEXT: This ticket will automatically activate to give you access to the Searching for Gold Timed Research on June 3, 2023, from 2:00 p.m. to 5:00 p.m. local time, wherever you are.
+
 RESOURCE ID: item_event_ticket_pink_details_mrmime
 TEXT: This ticket will automatically activate to give you access to the Galarian Mr. Mime event from December 19, 2020, at 10:00 a.m. to December 20, 2020, at 8:00 p.m. local time, wherever you are.
+
+RESOURCE ID: item_event_ticket_pink_details_poliwag
+TEXT: This ticket will automatically activate to give you access to the Poliwag Community Day Special Research, wherever you are.
 
 RESOURCE ID: item_event_ticket_pink_details_swinub
 TEXT: This ticket will automatically activate to give you access to the Community Day Classic: Swinub Special Research on April 29, 2023, from 2:00 p.m. to 5:00 p.m. local time, wherever you are.
@@ -25151,6 +25576,15 @@ TEXT: Extra Ticket
 RESOURCE ID: item_event_ticket_to_gift_desc
 TEXT: An extra event ticket from a purchase error. You can send it to a friend or get it refunded.
 
+RESOURCE ID: item_evergreen_ticket_desc
+TEXT: This ticket will automatically activate to give you access to the 7th Anniversary Party Timed Research until Wednesday, July 12, 2023, at 8:00 p.m. local time, wherever you are.
+
+RESOURCE ID: item_evergreen_ticket_details
+TEXT: This ticket will automatically activate to give you access to the 7th Anniversary Party Timed Research until Wednesday, July 12, 2023, at 8:00 p.m. local time.
+
+RESOURCE ID: item_evergreen_ticket_name
+TEXT: Ticket
+
 RESOURCE ID: item_free_raid_ticket_desc
 TEXT: Pass to join a Raid Battle. You can get a free pass at Gyms once per day if you don't already have one.
 
@@ -25182,23 +25616,41 @@ RESOURCE ID: item_giovanni_map_name
 TEXT: Super Rocket Radar
 
 RESOURCE ID: item_global_event_ticket_desc
+TEXT: A ticket to access the Masterwork Research All-in-One #151, wherever you are.
+
+RESOURCE ID: item_global_event_ticket_desc_beachweek
+TEXT: A ticket to access the Water Festival: Beach Week Timed Research.
+
+RESOURCE ID: item_global_event_ticket_desc_solstice
+TEXT: A ticket to access the Special Research Starry Skies, wherever you are.
+
+RESOURCE ID: item_global_event_ticket_desc_willow
 TEXT: A ticket to access the Willow’s Wardrobe Timed Research from March 1, 2023, to June 30, 2023, wherever you are.
 
 RESOURCE ID: item_global_event_ticket_details
-TEXT: This ticket will automatically activate to give you access to Timed Research from March 1, 2023, to June 30, 2023, wherever you are.
+TEXT: This ticket will automatically activate to give you access to the Masterwork Research All-in-One #151 on Thursday, July 6, 2023, at 10:00 a.m., wherever you are.
+
+RESOURCE ID: item_global_event_ticket_details_beachweek
+TEXT: This ticket will automatically activate to give you access to the Water Festival: Beach Week Timed Research from Tuesday, June 6, 2023, at 10:00 a.m. to Monday, June 12, 2023, at 8:00 p.m. local time, wherever you are.
 
 RESOURCE ID: item_global_event_ticket_details_no_version_selected
 TEXT: This ticket will automatically activate to give you access to Pokémon GO Tour: Hoenn’s special bonuses.
 
-Select a team to participate in Primal Surge hourly challenges! 
+Select a team to participate in Primal Surge hourly challenges!
 
 RESOURCE ID: item_global_event_ticket_details_no_version_selected_abridged
 TEXT: This ticket will automatically activate to give you access to Pokémon GO Tour: Hoenn’s special bonuses!
+
+RESOURCE ID: item_global_event_ticket_details_solstice
+TEXT: This ticket will automatically activate to give you access to the Special Research Starry Skies from Friday, June 16, 2023, at 10:00 a.m. to Sunday, June 25, 2023, at 8:00 p.m. local time, wherever you are.
 
 RESOURCE ID: item_global_event_ticket_details_version_selected
 TEXT: This ticket will automatically activate to give you access to a special event on February 26, 2022, wherever you are in the world.
 
 You can see the event version you chose in your Trainer profile’s Medals section.
+
+RESOURCE ID: item_global_event_ticket_details_willow
+TEXT: This ticket will automatically activate to give you access to Timed Research from March 1, 2023, to June 30, 2023, wherever you are.
 
 RESOURCE ID: item_global_event_ticket_name
 TEXT: Ticket
@@ -25378,6 +25830,12 @@ TEXT: Fast TM
 RESOURCE ID: item_move_reroll_no_other_moves
 TEXT: {0} cannot be taught any other attacks.
 
+RESOURCE ID: item_move_reroll_other_special_attack_a_desc
+TEXT: This stone from space can teach Rayquaza the Charged Attack Dragon Ascent.
+
+RESOURCE ID: item_move_reroll_other_special_attack_a_name
+TEXT: Meteorite
+
 RESOURCE ID: item_move_reroll_special_attack_desc
 TEXT: This Technical Machine teaches the Pokémon a new Charged Attack.
 
@@ -25493,7 +25951,7 @@ RESOURCE ID: item_shadow_gem_desc
 TEXT: A clear gem created by purifying and combining Shadow Shards. Use it to subdue enraged Shadow Raid Bosses.
 
 RESOURCE ID: item_shadow_gem_fragment_desc
-TEXT: A mysterious shard that emanates shadowy energy. Collect four to combine them into a larger gem with the Shard Refiner!
+TEXT: A mysterious shard that emanates shadowy energy. Collect four to combine them into a larger gem using the Shard Refiner!
 
 RESOURCE ID: item_shadow_gem_fragment_name
 TEXT: Shadow Shard
@@ -25663,6 +26121,12 @@ TEXT: Johto Event
 RESOURCE ID: journal_beluga_transfer_rewards
 TEXT: Received {0} reward(s) for GO Park transfers.
 
+RESOURCE ID: journal_caught_dropped_item_plural
+TEXT: {0} dropped items when caught!
+
+RESOURCE ID: journal_caught_dropped_item_singular
+TEXT: {0} dropped an item when caught!
+
 RESOURCE ID: journal_declined_ex_raid_ticket_from_friend
 TEXT: You declined an invitation from {0}.
 
@@ -25688,7 +26152,7 @@ RESOURCE ID: journal_shared_ex_raid_ticket_with_friend
 TEXT: You invited {0} to an EX Raid.
 
 RESOURCE ID: journal_sleep_rewards
-TEXT: Received {0} items from tracking over {1} hours of sleep!
+TEXT: Received {0} items from tracking over {1} of sleep!
 
 RESOURCE ID: journeyer_box_title
 TEXT: Journeyer Box
@@ -25737,6 +26201,12 @@ TEXT: TCG Crossover: Squirtle Collection Challenge 2
 
 RESOURCE ID: jun22_tcg_event_name
 TEXT: Pokémon TCG Crossover Event
+
+RESOURCE ID: jun23_sol_collection_challenge_moon
+TEXT: Solstice Horizons Collection Challenge: Nighttime
+
+RESOURCE ID: jun23_sol_collection_challenge_sun
+TEXT: Solstice Horizons Collection Challenge: Daytime
 
 RESOURCE ID: kalos_collection_name
 TEXT: Kalos Collection Challenge
@@ -28121,6 +28591,12 @@ TEXT: Lucky Wishes
 RESOURCE ID: load_tags_error
 TEXT: Failed to load tags.
 
+RESOURCE ID: lobby_ready_progress
+TEXT: {0} of {1} ready
+
+RESOURCE ID: local_bonus_event_tag
+TEXT: Local Bonus
+
 RESOURCE ID: location_card_tutorial_header
 TEXT: Location Cards
 
@@ -28519,6 +28995,9 @@ RESOURCE ID: m_avatar_poses_bundle_pose_51
 TEXT: Rising Hero
 Pose
 
+RESOURCE ID: m_avatar_poses_bundle_pose_52
+TEXT: Surfing Pose
+
 RESOURCE ID: m_avatar_poses_empty_bundle_pose_empty
 TEXT: Idle
 
@@ -28896,7 +29375,7 @@ RESOURCE ID: masterwork_shiny_jirachi_sr_dialog_04_05
 TEXT: So how about you try dedicating seven days to research? Or catching a thousand Pokémon? I know it’s a lot to ask, but maybe Jirachi will appreciate the perseverance.
 
 RESOURCE ID: masterwork_shiny_jirachi_sr_dialog_04_06
-TEXT: Although I hope you’ll be around to help me with my research for a lot longer than a week, %PLAYERNAME%! 
+TEXT: Although I hope you’ll be around to help me with my research for a lot longer than a week, %PLAYERNAME%!
 
 RESOURCE ID: masterwork_shiny_jirachi_sr_dialog_05_00
 TEXT: %PLAYERNAME%, you did it—you’ve found our elusive Jirachi!
@@ -29047,6 +29526,36 @@ TEXT: Alola to Alola
 
 RESOURCE ID: may23_candela_limited_research
 TEXT: A Valorous Hero: Timed Research
+
+RESOURCE ID: me_forget_move_key
+TEXT: {0} will forget {1}.
+
+RESOURCE ID: me_missing_move
+TEXT: Must know {0} to Mega Evolve
+
+RESOURCE ID: me_missing_pkmn_item
+TEXT: {0} needed to teach this attack
+
+RESOURCE ID: me_need_pkmn_item
+TEXT: Needs {0}
+
+RESOURCE ID: me_reroll_item_gui_prompt
+TEXT: {0} required to teach this attack.
+
+RESOURCE ID: me_short_warn_move
+TEXT: Required to Mega Evolve
+
+RESOURCE ID: me_teach_move_long_key
+TEXT: Do you want to teach {0} the new Charged Attack {1}?
+
+RESOURCE ID: me_teach_move_short_key
+TEXT: Do you want to teach {0} {1}?
+
+RESOURCE ID: me_teach_new_move
+TEXT: Teach {0} to Mega Evolve.
+
+RESOURCE ID: me_warn_needed_move
+TEXT: {0} is required to Mega Evolve
 
 RESOURCE ID: meet_and_greet_pikachu
 TEXT: Pikachu Meet-and-Greet
@@ -29355,9 +29864,9 @@ RESOURCE ID: mega_walking_progress
 TEXT: Walking Progress
 
 RESOURCE ID: metadata_local
-TEXT: Built at 2023-06-20T18:32:53.796986
-at SHA 006d3e58d0d2186f6cfd78413a4ce5d249e5b57f
-Pipeline 1558052, job 18890599
+TEXT: Built at 2023-08-15T00:15:27.265305
+at SHA 3f2f70aab565420b77d89253c79305aeec9552f4
+Pipeline 1676897, job 20326100
 
 RESOURCE ID: mex_fighting_promo_title
 TEXT: Timed Research: Choose Your Fighting Type
@@ -30463,6 +30972,9 @@ TEXT: Shadow Force
 RESOURCE ID: move_name_0372
 TEXT: Meteor Beam
 
+RESOURCE ID: move_name_0373
+TEXT: Water Shuriken
+
 RESOURCE ID: move_name_0374
 TEXT: Fusion Bolt
 
@@ -30496,6 +31008,18 @@ TEXT: Liquidation
 RESOURCE ID: move_name_0385
 TEXT: Leafage
 
+RESOURCE ID: move_name_0386
+TEXT: Magma Storm
+
+RESOURCE ID: move_name_0387
+TEXT: Geomancy
+
+RESOURCE ID: move_name_0388
+TEXT: Spacial Rend
+
+RESOURCE ID: move_name_0389
+TEXT: Oblivion Wing
+
 RESOURCE ID: move_reroll_confirm_desc
 TEXT: {0} will forget {1}.
 
@@ -30504,6 +31028,15 @@ TEXT: {0} will forget
 
 RESOURCE ID: move_reroll_success_message
 TEXT: {0} learned a new attack!
+
+RESOURCE ID: mp_bonus_buff_desc_1
+TEXT: While {0} is Mega Evolved, you’ll earn extra Candy when you catch <b>{1}</b>-, <b>{2}</b>-, or <b>{3}</b>-type Pokémon.
+
+RESOURCE ID: mp_bonus_buff_desc_2
+TEXT: While {0} is Mega Evolved, you’ll earn extra Candy, extra XP, and have an increased chance of receiving Candy XL when you catch <b>{1}</b>-, <b>{2}</b>-, or <b>{3}</b>-type Pokémon.
+
+RESOURCE ID: mp_bonus_buff_desc_3
+TEXT: While {0} is Mega Evolved, you’ll earn extra Candy, extra XP, and have an increased chance of receiving Candy XL when you catch <b>{1}</b>-, <b>{2}</b>-, or <b>{3}</b>-type Pokémon.
 
 RESOURCE ID: mrd_berry_easy
 TEXT: Minccino Research: Use 3 Berries to help catch Pokémon
@@ -30972,6 +31505,9 @@ TEXT: Please link your Nintendo Account to Pokémon GO again.
 RESOURCE ID: no_cp_limit
 TEXT: No limit
 
+RESOURCE ID: no_created_routes
+TEXT: You have not created any Routes.
+
 RESOURCE ID: no_friend_score_description
 TEXT: 
 
@@ -31346,8 +31882,20 @@ TEXT: Enable Poké Ball Plus
 RESOURCE ID: partner_research_generic
 TEXT: Partner Research: Sample
 
+RESOURCE ID: partner_research_ltd_amazon_gaming
+TEXT: Limited Partner Research: Amazon Prime Gaming
+
+RESOURCE ID: partner_research_ltd_amazon_gaming_00
+TEXT: Limited Partner Research: Amazon Prime Gaming (1/2)
+
+RESOURCE ID: partner_research_ltd_amazon_gaming_01
+TEXT: Limited Partner Research: Amazon Prime Gaming (2/2)
+
 RESOURCE ID: party_creation_error_max_hit
 TEXT: You have no more room in your party.
+
+RESOURCE ID: party_hat_pikachu_tr_title
+TEXT: Me, You, and Pikachu!
 
 RESOURCE ID: passcode_log_received_badge
 TEXT: Received medal from code {0}.
@@ -31460,7 +32008,7 @@ Click the button on {0}.
 
 RESOURCE ID: pgp_scanning
 TEXT: Finding {0}...
-Click the button on {0}.
+Press the main button on {0}.
 
 RESOURCE ID: pgp_start_session
 TEXT: Connecting to {0}...
@@ -31521,6 +32069,9 @@ TEXT: 5 surprise encounters with Abra in GO Snapshot
 
 RESOURCE ID: photobomb_five_alodude
 TEXT: 5 surprise encounters with Alolan Geodude in GO Snapshot
+
+RESOURCE ID: photobomb_five_axew
+TEXT: 5 surprise encounters with Axew in GO Snapshot
 
 RESOURCE ID: photobomb_five_bulbasaur
 TEXT: 5 surprise encounters with Bulbasaur in GO Snapshot
@@ -31614,6 +32165,9 @@ TEXT: 5 surprise encounters with Snivy in GO Snapshot
 
 RESOURCE ID: photobomb_five_spheal
 TEXT: 5 surprise encounters with Spheal in GO Snapshot
+
+RESOURCE ID: photobomb_five_squirtle
+TEXT: 5 surprise encounters with Squirtle in GO Snapshot
 
 RESOURCE ID: photobomb_five_starly
 TEXT: 5 surprise encounters with Starly in GO Snapshot
@@ -42621,7 +43175,7 @@ RESOURCE ID: primal_rumblings_sr_dialog_00_05
 TEXT: Now that you’re here, I think we can get a handle on the situation. Things don’t look serious yet, but we should prepare for any possibility—call it a professor’s intuition!
 
 RESOURCE ID: primal_rumblings_sr_dialog_00_06
-TEXT: Let’s check on how the weather’s affecting the local Pokémon. See if you can find any clues, will you? 
+TEXT: Let’s check on how the weather’s affecting the local Pokémon. See if you can find any clues, will you?
 
 RESOURCE ID: primal_rumblings_sr_dialog_00_07
 TEXT: (Come to think of it, the team leaders and I wished on one of those shooting stars the other day for the earth and sea to flourish. It couldn’t be...could it?)
@@ -42755,7 +43309,7 @@ RESOURCE ID: profile_no_gymbadges
 TEXT: You don't have any Gym Badges.
 
 RESOURCE ID: profile_no_routemedals
-TEXT: You don't have any route medals!
+TEXT: You haven’t earned any Route Badges yet.
 
 RESOURCE ID: profile_player_level
 TEXT: Level
@@ -42936,6 +43490,15 @@ TEXT: Evolve {0} Abra
 
 RESOURCE ID: quest_at_evolve_k
 TEXT: Evolve {0} Kadabra
+
+RESOURCE ID: quest_axew_catch_b
+TEXT: Catch {0} Axew
+
+RESOURCE ID: quest_axew_evolve_b
+TEXT: Evolve {0} Axew
+
+RESOURCE ID: quest_axew_snapshot_b
+TEXT: Take a snapshot of {0} Axew
 
 RESOURCE ID: quest_battle19_catch_fighting_easy
 TEXT: Catch {0} Fighting-type Pokémon
@@ -43567,6 +44130,9 @@ TEXT: Catch {0} Fighting-type Pokémon
 RESOURCE ID: quest_catch_type_fighting_singular
 TEXT: Catch a Fighting-type Pokémon
 
+RESOURCE ID: quest_catch_type_fire_dark_plural_unique
+TEXT: Catch {0} Fire- or Dark-type Pokémon
+
 RESOURCE ID: quest_catch_type_fire_plural
 TEXT: Catch {0} Fire-type Pokémon
 
@@ -43581,6 +44147,9 @@ TEXT: Catch {0} different species of Flying-type Pokémon
 
 RESOURCE ID: quest_catch_type_flying_singular
 TEXT: Catch a Flying-type Pokémon
+
+RESOURCE ID: quest_catch_type_ghost_dark_plural
+TEXT: Catch {0} Ghost- or Dark-type Pokémon
 
 RESOURCE ID: quest_catch_type_ghost_plural
 TEXT: Catch {0} Ghost-type Pokémon
@@ -45814,6 +46383,9 @@ TEXT: Evolve {0} Fletchling
 RESOURCE ID: quest_flett_evolve_s1
 TEXT: Evolve {0} Fletchinder
 
+RESOURCE ID: quest_fraxure_evolve_b
+TEXT: Evolve {0} Fraxure
+
 RESOURCE ID: quest_gbl_rank
 TEXT: Achieve rank {0} in the GO Battle League
 
@@ -46777,6 +47349,9 @@ TEXT: Power up {0} Poison-type Pokémon
 RESOURCE ID: quest_power_up_plural_rock
 TEXT: Power up {0} Rock-type Pokémon
 
+RESOURCE ID: quest_power_up_plural_rock_fairy
+TEXT: Power up {0} Rock- or Fairy-type Pokémon
+
 RESOURCE ID: quest_power_up_plural_steel
 TEXT: Power up {0} Steel-type Pokémon
 
@@ -46905,6 +47480,12 @@ TEXT: Defeat a Team GO Rocket Leader
 
 RESOURCE ID: quest_rocket_power_up_plural
 TEXT: Power up Pokémon {0} times
+
+RESOURCE ID: quest_rocket_purify_dark_plural
+TEXT: Purify {0} Dark-type Shadow Pokémon
+
+RESOURCE ID: quest_rocket_purify_fire_plural
+TEXT: Purify {0} Fire-type Shadow Pokémon
 
 RESOURCE ID: quest_rocket_purify_plural
 TEXT: Purify {0} Shadow Pokémon
@@ -47085,6 +47666,9 @@ TEXT: Take a snapshot of your Hariyama
 
 RESOURCE ID: quest_snapshot_hoopa_singular
 TEXT: Take a snapshot of Hoopa
+
+RESOURCE ID: quest_snapshot_jeju
+TEXT: Take a snapshot on Jeju Island
 
 RESOURCE ID: quest_snapshot_keldeo
 TEXT: Take {0} snapshots of Keldeo
@@ -47613,6 +48197,90 @@ TEXT: Pokémon are truly amazing creatures. There’s always something to discov
 
 RESOURCE ID: quest_special_dialogue_at_3_3
 TEXT: Until next time, %PLAYERNAME%!
+
+RESOURCE ID: quest_special_dialogue_axew_0_0
+TEXT: Hello, %PLAYERNAME%! I’ve got something for you to sink your teeth into.
+
+RESOURCE ID: quest_special_dialogue_axew_0_1
+TEXT: Have you noticed the peculiar marks on the trees and boulders in the area? And the crushed berries on the ground?
+
+RESOURCE ID: quest_special_dialogue_axew_0_2
+TEXT: While I’m a little disappointed in today’s Pinap Berry harvest, I’ve got a feeling that a Pokémon is responsible—and that means we have something to research!
+
+RESOURCE ID: quest_special_dialogue_axew_0_3
+TEXT: And I’ll bet you even have an idea what Pokémon we’ll be investigating!
+
+RESOURCE ID: quest_special_dialogue_axew_0_4
+TEXT: Why don’t you search the area and let me know what you find?
+
+RESOURCE ID: quest_special_dialogue_axew_1_0
+TEXT: Welcome back, %PLAYERNAME%.
+
+RESOURCE ID: quest_special_dialogue_axew_1_1
+TEXT: Aha! So Axew are responsible for those unique marks and crushed berries.
+
+RESOURCE ID: quest_special_dialogue_axew_1_2
+TEXT: These Pokémon play with each other by knocking their large tusks together. Crushing berries is how they test each other’s strength.
+
+RESOURCE ID: quest_special_dialogue_axew_1_3
+TEXT: Axew tusks are sharp enough that people long ago used them as cooking knives!
+
+RESOURCE ID: quest_special_dialogue_axew_1_4
+TEXT: These Pokémon find culinary uses for their tusks in the wild, too.
+
+RESOURCE ID: quest_special_dialogue_axew_1_5
+TEXT: Fraxure, Axew’s Evolution, uses its thick tusks to neatly cut prey into two portions—one to eat now and one to save for later.
+
+RESOURCE ID: quest_special_dialogue_axew_1_6
+TEXT: Fascinating, isn’t it? I wish I had that kind of restraint!
+
+RESOURCE ID: quest_special_dialogue_axew_1_7
+TEXT: Why don’t you try evolving one of your Axew? Maybe I can get some tips for my meal prepping!
+
+RESOURCE ID: quest_special_dialogue_axew_2_0
+TEXT: Look at this fine Fraxure, %PLAYERNAME%!
+
+RESOURCE ID: quest_special_dialogue_axew_2_1
+TEXT: Now that you’ve got one of your own, here are a few more Fraxure facts.
+
+RESOURCE ID: quest_special_dialogue_axew_2_2
+TEXT: Their territory battles can be intensely violent, and their tusks can shatter rocks.
+
+RESOURCE ID: quest_special_dialogue_axew_2_3
+TEXT: But the tusks don’t grow back once they break, so Fraxure won’t use them unless truly necessary.
+
+RESOURCE ID: quest_special_dialogue_axew_2_4
+TEXT: Even so, getting up close to one has me on edge—not unlike the sharp edges of their tusks!
+
+RESOURCE ID: quest_special_dialogue_axew_2_5
+TEXT: Haha!
+
+RESOURCE ID: quest_special_dialogue_axew_2_6
+TEXT: No? Ah well. So much for my sharp wit.
+
+RESOURCE ID: quest_special_dialogue_axew_2_7
+TEXT: Anyway, it’s a good thing that Haxorus, Fraxure’s Evolution, has a kind disposition.
+
+RESOURCE ID: quest_special_dialogue_axew_2_8
+TEXT: Why don’t you evolve Fraxure so we can see for ourselves?
+
+RESOURCE ID: quest_special_dialogue_axew_3_0
+TEXT: Your Haxorus’s tusks are positively gleaming!
+
+RESOURCE ID: quest_special_dialogue_axew_3_1
+TEXT: Or should I say beaming? Those sturdy tusks can cut steel beams and stay sharp! Haxorus are covered in great armor, too.
+
+RESOURCE ID: quest_special_dialogue_axew_3_2
+TEXT: They’re docile, but they’ll become incredibly angry if their tusks are touched. Understandable—both Pokémon and people have different sensitivities.
+
+RESOURCE ID: quest_special_dialogue_axew_3_3
+TEXT: Some of us are huggers, like me and Spark! But Blanche, ah, isn’t.
+
+RESOURCE ID: quest_special_dialogue_axew_3_4
+TEXT: Nothing’s wrong with either, of course! It’s all part of what makes each person, and Pokémon, unique.
+
+RESOURCE ID: quest_special_dialogue_axew_3_5
+TEXT: Thanks for spending the day with me, %PLAYERNAME%. I’ll see you again soon!
 
 RESOURCE ID: quest_special_dialogue_battle_weekend_1_0
 TEXT: Where will you focus your efforts, Pokémon Trainer?
@@ -54585,6 +55253,66 @@ TEXT: I can’t tell if it’s the weather, but I’ve got the shivers! You know
 RESOURCE ID: quest_special_dialogue_spiritomb_2_2
 TEXT: I'll be in touch soon!
 
+RESOURCE ID: quest_special_dialogue_squirtle_0_0
+TEXT: Great to see you, %PLAYERNAME%! I was walking through a forest earlier and saw something amazing—fountains of water, coming out of a river!
+
+RESOURCE ID: quest_special_dialogue_squirtle_0_1
+TEXT: At first, I wondered who would install a fountain in the middle of nature.
+
+RESOURCE ID: quest_special_dialogue_squirtle_0_2
+TEXT: But I saw the flash of a shell, and I realized our mystery architect must be a Squirtle!
+
+RESOURCE ID: quest_special_dialogue_squirtle_0_3
+TEXT: Squirtle hide in their shells to protect themselves, then strike with spouts of water at every opportunity. That must’ve been what I saw!
+
+RESOURCE ID: quest_special_dialogue_squirtle_0_4
+TEXT: Squirtle is also known as a Pokémon that aspiring Trainers from the Kanto region can choose to be their first-partner Pokémon.
+
+RESOURCE ID: quest_special_dialogue_squirtle_0_5
+TEXT: Why don’t you have a look at the Tiny Turtle Pokémon yourself?
+
+RESOURCE ID: quest_special_dialogue_squirtle_1_0
+TEXT: Welcome back, %PLAYERNAME%! While you were observing Squirtle, I happened upon a Wartortle with algae growing out of its shell!
+
+RESOURCE ID: quest_special_dialogue_squirtle_1_1
+TEXT: Wartortle is Squirtle’s Evolution. Ones with algae on their shells are very old, so imagine what that venerable Wartortle must have seen in its years!
+
+RESOURCE ID: quest_special_dialogue_squirtle_1_2
+TEXT: Why don’t you evolve one of your Squirtle? It’ll be able to keep you company for a good long while.
+
+RESOURCE ID: quest_special_dialogue_squirtle_2_0
+TEXT: Great work, %PLAYERNAME%! I wasn’t exaggerating when I said Wartortle could keep you company for a long time—they’re said to live for 10,000 years!
+
+RESOURCE ID: quest_special_dialogue_squirtle_2_1
+TEXT: Their furry tails are a symbol of longevity and become deeper in color as Wartortle age.
+
+RESOURCE ID: quest_special_dialogue_squirtle_2_2
+TEXT: Isn’t that fascinating? It’s the opposite of humans!
+
+RESOURCE ID: quest_special_dialogue_squirtle_2_3
+TEXT: And Wartortle don’t just have incredible endurance—they can also grow even stronger. When they evolve into Blastoise, they grow rocket cannons on their shells!
+
+RESOURCE ID: quest_special_dialogue_squirtle_2_4
+TEXT: If you evolve a Wartortle, you can see it for yourself!
+
+RESOURCE ID: quest_special_dialogue_squirtle_3_0
+TEXT: Look at the rocket cannons on that Blastoise, %PLAYERNAME%! As you can see, Blastoise has spouts extending from the top of its shell.
+
+RESOURCE ID: quest_special_dialogue_squirtle_3_1
+TEXT: Once Blastoise takes aim at an enemy, it can blast out water with more force than a fire hose.
+
+RESOURCE ID: quest_special_dialogue_squirtle_3_2
+TEXT: That might be a fun way to cool down during a scorching summer, eh?
+
+RESOURCE ID: quest_special_dialogue_squirtle_3_3
+TEXT: Blastoise would have to hold back in a pool party, though—some researchers say the jets of water from Blastoise’s rocket cannons can punch through thick steel.
+
+RESOURCE ID: quest_special_dialogue_squirtle_3_4
+TEXT: But with a Trainer like you, I’m sure everything will be under control, whether you and your Blastoise are out for some summer fun or engaged in a fierce battle!
+
+RESOURCE ID: quest_special_dialogue_squirtle_3_5
+TEXT: And speaking of summer fun, I’ve got to get the inflatable pool set up for Meltan. Thanks for spending the day with me, %PLAYERNAME%. I hope you have a blast!
+
 RESOURCE ID: quest_special_dialogue_st_0_0
 TEXT: Hey there, %PLAYERNAME%! You surprised me, much like the Seedot that just fell from that tree over there.
 
@@ -55416,6 +56144,51 @@ TEXT: I wish I were as carefree as the Flabébé seem to be! With their untroubl
 RESOURCE ID: quest_special_dialogue_valentines_feb23_1_4
 TEXT: Sorry, I got lost in my daydreams! What about you, %PLAYERNAME%? What’s your research wish today?
 
+RESOURCE ID: quest_special_dialogue_waina_temp_0_0
+TEXT: Zzz... Bwuh?
+
+RESOURCE ID: quest_special_dialogue_waina_temp_0_1
+TEXT: Oh! Sorry about that, %PLAYERNAME%.
+
+RESOURCE ID: quest_special_dialogue_waina_temp_0_2
+TEXT: I’m *yawn* running on very little sleep. Candela gave me some of the coffee beans she’s been raving about, so I did the neighborly thing and gave ’em a whirl.
+
+RESOURCE ID: quest_special_dialogue_waina_temp_0_3
+TEXT: The coffee was delicious, but WAY stronger than I’m used to. It kept me wide awake into the wee hours of the night.
+
+RESOURCE ID: quest_special_dialogue_waina_temp_0_4
+TEXT: Getting a good amount of sleep is essential if you want to keep your brain sharp. Speaking personally, exhaustion tends to steer me toward more...outlandish theories.
+
+RESOURCE ID: quest_special_dialogue_waina_temp_0_5
+TEXT: Hm? You want to hear one? Well...all right. But let’s keep it between us, OK?
+
+RESOURCE ID: quest_special_dialogue_waina_temp_0_6
+TEXT: Somewhere on my desk there’s an early draft of a paper called “The Aerodynamics of Various Hats as Worn by Pikachu.” It’s very well researched, I assure you!
+
+RESOURCE ID: quest_special_dialogue_waina_temp_0_7
+TEXT: But that’s enough about me. Do you have any theories of your own you’d like to explore?
+
+RESOURCE ID: quest_special_dialogue_waina_temp_0_8
+TEXT: Why don’t you sleep on it and get back to me?
+
+RESOURCE ID: quest_special_dialogue_waina_temp_1_0
+TEXT: Ah—hello, %PLAYERNAME%!
+
+RESOURCE ID: quest_special_dialogue_waina_temp_1_1
+TEXT: Candela’s extra-strength coffee is finally out of my system, so I’m back to snoozing like a Snorlax—and thinking up more promising ideas for papers.
+
+RESOURCE ID: quest_special_dialogue_waina_temp_1_2
+TEXT: “The Effects of Elevation on Snorlax Snoring Patterns” is going to be a hit, I just know it!
+
+RESOURCE ID: quest_special_dialogue_waina_temp_1_3
+TEXT: How about you, %PLAYERNAME%? Feeling refreshed, I hope?
+
+RESOURCE ID: quest_special_dialogue_waina_temp_1_4
+TEXT: I’m sure whatever you’ve thought up over the last few days is more than worthy of research!
+
+RESOURCE ID: quest_special_dialogue_waina_temp_1_5
+TEXT: Now get out there and seize the day—and remember to get a good night’s sleep!
+
 RESOURCE ID: quest_special_dialogue_winter_wishes_1_0
 TEXT: Brrr... Ah! %PLAYERNAME%! Did you notice the snow we’ve been getting? It’s beautiful—and freezing! I feel colder than a Bergmite!
 
@@ -55597,6 +56370,15 @@ TEXT: Spin a PokéStop in Mexico
 
 RESOURCE ID: quest_spin_ultra_wormhole_gym
 TEXT: Spin the Gym marked “Ultra Wormhole”
+
+RESOURCE ID: quest_squirtle_catch_b
+TEXT: Catch {0} Squirtle
+
+RESOURCE ID: quest_squirtle_evolve_b
+TEXT: Evolve {0} Squirtle
+
+RESOURCE ID: quest_squirtle_snapshot_b
+TEXT: Take {0} snapshots of Squirtle
 
 RESOURCE ID: quest_st_catch_s
 TEXT: Catch 15 Seedot
@@ -55838,6 +56620,21 @@ TEXT: Investigating Illusions (3/4)
 RESOURCE ID: quest_title_at_3
 TEXT: Investigating Illusions (4/4)
 
+RESOURCE ID: quest_title_axew
+TEXT: Keeping Sharp
+
+RESOURCE ID: quest_title_axew_0
+TEXT: Keeping Sharp (1/4)
+
+RESOURCE ID: quest_title_axew_1
+TEXT: Keeping Sharp (2/4)
+
+RESOURCE ID: quest_title_axew_2
+TEXT: Keeping Sharp (3/4)
+
+RESOURCE ID: quest_title_axew_3
+TEXT: Keeping Sharp (4/4)
+
 RESOURCE ID: quest_title_bidoof_branch_quest
 TEXT: BIDOOF
 
@@ -56035,6 +56832,9 @@ TEXT: Electric for Electabuzz (3/4)
 
 RESOURCE ID: quest_title_elect_3
 TEXT: Electric for Electabuzz (4/4)
+
+RESOURCE ID: quest_title_event_waina
+TEXT: Catching Some Z’s
 
 RESOURCE ID: quest_title_fennekin
 TEXT: Fur and Flames
@@ -57515,6 +58315,21 @@ TEXT: Special Weekend (Verizon)
 RESOURCE ID: quest_title_spwk_yoshinoya
 TEXT: Special Weekend (Yoshinoya)
 
+RESOURCE ID: quest_title_squirtle
+TEXT: Community Day Classic: Squirtle
+
+RESOURCE ID: quest_title_squirtle_0
+TEXT: Community Day Classic: Squirtle (1/4)
+
+RESOURCE ID: quest_title_squirtle_1
+TEXT: Community Day Classic: Squirtle (2/4)
+
+RESOURCE ID: quest_title_squirtle_2
+TEXT: Community Day Classic: Squirtle (3/4)
+
+RESOURCE ID: quest_title_squirtle_3
+TEXT: Community Day Classic: Squirtle (4/4)
+
 RESOURCE ID: quest_title_st
 TEXT: Seeing Double
 
@@ -57881,6 +58696,12 @@ TEXT: Ultra Unlock 2021: Sword and Shield (4/5)
 RESOURCE ID: quest_title_uu3_aug21_4
 TEXT: Ultra Unlock 2021: Sword and Shield (5/5)
 
+RESOURCE ID: quest_title_waina_0
+TEXT: Catching Some Z’s (1/2)
+
+RESOURCE ID: quest_title_waina_1
+TEXT: Catching Some Z’s (2/2)
+
 RESOURCE ID: quest_title_wt
 TEXT: A Hairy Situation
 
@@ -58157,6 +58978,18 @@ TEXT: Spin a PokéStop or Gym
 RESOURCE ID: quest_visit_unique_pokestops_plural
 TEXT: Spin {0} different PokéStops or Gyms
 
+RESOURCE ID: quest_waina_catch_great_ultra_plural
+TEXT: Catch {0} Pokémon in Great Balls or Ultra Balls using Pokémon GO Plus +
+
+RESOURCE ID: quest_waina_catch_plural
+TEXT: Catch {0} Pokémon in Poké Balls using Pokémon GO Plus +
+
+RESOURCE ID: quest_waina_sleep_days
+TEXT: Track sleep using Pokémon GO Plus + for {0} days
+
+RESOURCE ID: quest_waina_spin_pokestop_plural
+TEXT: Spin {0} PokéStops using Pokémon GO Plus +
+
 RESOURCE ID: quest_walk_25km_inaweek_plural
 TEXT: Walk 25 km in one week using Adventure Sync {0} times
 
@@ -58177,6 +59010,9 @@ TEXT: Walk {0} km
 
 RESOURCE ID: quest_walk_steps
 TEXT: Walk {0} steps
+
+RESOURCE ID: quest_wartortle_evolve_b
+TEXT: Evolve {0} Wartortle
 
 RESOURCE ID: quest_waterfestival_catch_feed_plural
 TEXT: Water Festival: Use {0} Berries to help catch Pokémon
@@ -63173,6 +64009,27 @@ TEXT: Transform a Rare Candy into a {0} Candy?
 RESOURCE ID: rare_xl_candy_usage_confirmation
 TEXT: Transform a Rare Candy XL into a {0} Candy XL?
 
+RESOURCE ID: ready_raid_button
+TEXT: READY!
+
+RESOURCE ID: ready_raid_clicked_text
+TEXT: READY
+
+RESOURCE ID: ready_raid_everyone_ready
+TEXT: Everyone’s ready!
+
+RESOURCE ID: ready_raid_ftue_confirm
+TEXT: I’M READY!
+
+RESOURCE ID: ready_raid_ftue_desc
+TEXT: When all Trainers are ready, the lobby timer will count down. You can still quit before the raid begins.
+
+RESOURCE ID: ready_raid_ftue_title
+TEXT: Are you ready to begin the raid?
+
+RESOURCE ID: ready_raid_lobby_full
+TEXT: Lobby full. The raid is about to start!
+
 RESOURCE ID: received_free_item_title
 TEXT: You received a free {0}!
 
@@ -63181,6 +64038,9 @@ TEXT: Recent
 
 RESOURCE ID: recommended_filter_group_key
 TEXT: Recommended
+
+RESOURCE ID: record_new_route
+TEXT: RECORD NEW ROUTE
 
 RESOURCE ID: recycle_dialog_prefix
 TEXT: Discard
@@ -63587,6 +64447,9 @@ TEXT: Team GO Rocket Event
 RESOURCE ID: rocket_feature_name
 TEXT: Team GO Rocket
 
+RESOURCE ID: rocket_grunt_fire_dark
+TEXT: Team GO Rocket Grunts will have more Fire- and Dark-type Pokémon
+
 RESOURCE ID: rocket_grunt_ice_water
 TEXT: Team GO Rocket Grunts will have more Water- and Ice-type Pokémon
 
@@ -63599,14 +64462,23 @@ TEXT: Meowth balloon with Jessie and James appearing more often
 RESOURCE ID: rocket_pokestop_increase
 TEXT: Team GO Rocket appearing more often at PokéStops
 
+RESOURCE ID: rocket_raid_increase
+TEXT: Shadow Raids appearing more often
+
 RESOURCE ID: rocket_stardust_double
 TEXT: 2× Stardust from Team GO Rocket battles
 
 RESOURCE ID: rocket_takeover_event_name
 TEXT: Team GO Rocket Take-Over
 
+RESOURCE ID: route_about_label
+TEXT: ABOUT THIS ROUTE
+
 RESOURCE ID: route_about_title
 TEXT: About this Route:
+
+RESOURCE ID: route_actions_label
+TEXT: ACTIONS
 
 RESOURCE ID: route_add_point
 TEXT: Set as a stop
@@ -63635,17 +64507,34 @@ TEXT: CANNOT DELETE THIS ROUTE
 RESOURCE ID: route_cannot_edit_routes_in_review
 TEXT: You cannot edit a Route that is being reviewed.
 
+RESOURCE ID: route_change_endpoint_error
+TEXT: Error setting end point
+
 RESOURCE ID: route_checkpoint_general
 TEXT: Stop
 
 RESOURCE ID: route_collapsed_show_more
 TEXT: SHOW MORE {0}
 
+RESOURCE ID: route_community_plays_label
+TEXT: COMMUNITY TRIPS
+
 RESOURCE ID: route_completion_congratulation
 TEXT: Congratulations!
 
+RESOURCE ID: route_completion_explored_count_plural
+TEXT: You explored this Route
+{0} times!
+
+RESOURCE ID: route_completion_explored_count_singular
+TEXT: You explored this Route
+one time!
+
 RESOURCE ID: route_completion_get_medal
 TEXT: You got a {0} medal!
+
+RESOURCE ID: route_completion_great_job
+TEXT: Great job!
 
 RESOURCE ID: route_completion_once
 TEXT: {0} completed 1 time
@@ -63677,11 +64566,214 @@ TEXT: You must wait {0} minutes to play this route.
 RESOURCE ID: route_cooldown_toast_minutes
 TEXT: You must wait {0} minutes to play this route.
 
+RESOURCE ID: route_create_action_menu_header
+TEXT: Available Route Actions:
+
 RESOURCE ID: route_create_medal_context_page
 TEXT: Pick an image and a color to display as the medal other Trainers get when they complete your Route.
 
 RESOURCE ID: route_create_medal_context_title
 TEXT: Route Medal
+
+RESOURCE ID: route_creation_abandon_button
+TEXT: Quit Route Creation
+
+RESOURCE ID: route_creation_abandon_header
+TEXT: Are you sure you want to quit Route creation?
+
+RESOURCE ID: route_creation_abandon_message
+TEXT: This action cannot be undone. All progress made on this Route will be lost. To save your progress, you can pause Route creation instead.
+
+RESOURCE ID: route_creation_abandon_toast
+TEXT: You quit Route creation.
+
+RESOURCE ID: route_creation_action_menu_abandon
+TEXT: Quit Route Creation
+
+RESOURCE ID: route_creation_action_menu_new_endpoint
+TEXT: Choose New End Point
+
+RESOURCE ID: route_creation_action_menu_pause
+TEXT: Pause Route Creation
+
+RESOURCE ID: route_creation_action_menu_resume
+TEXT: Resume Route Recording
+
+RESOURCE ID: route_creation_active
+TEXT: You have a Route in progress.
+
+RESOURCE ID: route_creation_adsync_breadcrumb_notification
+TEXT: Route creation in progress. 
+
+RESOURCE ID: route_creation_ask_start_description
+TEXT: If you aren’t ready to record, you can pause your Route creation session and resume it later via the Route section of your Trainer profile.
+
+RESOURCE ID: route_creation_ask_start_pause_button
+TEXT: Pause Route Creation
+
+RESOURCE ID: route_creation_ask_start_title
+TEXT: You’re near the start point you selected. Are you ready to record the path for your Route?
+
+RESOURCE ID: route_creation_ask_submit_cancel
+TEXT: CONTINUE RECORDING
+
+RESOURCE ID: route_creation_ask_submit_confirm
+TEXT: YES, I’M DONE
+
+RESOURCE ID: route_creation_ask_submit_description
+TEXT: If you would like to extend your Route, you can continue recording and return to this PokéStop later.
+
+RESOURCE ID: route_creation_autoexit_toast
+TEXT: Route creation has ended. 
+
+RESOURCE ID: route_creation_choose_end_body
+TEXT: Navigate to this PokéStop to finish recording your Route. You can change the end point while recording.
+
+RESOURCE ID: route_creation_choose_end_header
+TEXT: Select a PokéStop to be your
+
+RESOURCE ID: route_creation_choose_end_sub_header
+TEXT: Route end point.
+
+RESOURCE ID: route_creation_choose_new_end_body
+TEXT: Navigate to this PokéStop to finish recording your Route. You can change the end point while recording.
+
+RESOURCE ID: route_creation_choose_new_end_header
+TEXT: Select a PokéStop to be your new
+
+RESOURCE ID: route_creation_choose_new_end_sub_header
+TEXT: Route end point.
+
+RESOURCE ID: route_creation_choose_new_start_body
+TEXT: Navigate to this PokéStop to begin recording your Route.
+
+RESOURCE ID: route_creation_choose_new_start_header
+TEXT: Select a PokéStop to be your new
+
+RESOURCE ID: route_creation_choose_new_start_sub_header
+TEXT: Route start point.
+
+RESOURCE ID: route_creation_choose_start_body
+TEXT: Navigate to this PokéStop to begin recording your Route.
+
+RESOURCE ID: route_creation_choose_start_header
+TEXT: Select a PokéStop to be your
+
+RESOURCE ID: route_creation_choose_start_sub_header
+TEXT: Route start point.
+
+RESOURCE ID: route_creation_error_submission_max
+TEXT: You have created the maximum number of Routes this week.
+
+RESOURCE ID: route_creation_generic_distance_warning_error
+TEXT: Cannot perform requested action.
+
+RESOURCE ID: route_creation_go_to_start
+TEXT: Navigate to your Route’s start point to begin recording the path.
+
+RESOURCE ID: route_creation_max_distance_exceeded_description
+TEXT: Your Route has exceeded the maximum length, so Route creation has ended.
+
+RESOURCE ID: route_creation_max_distance_exceeded_title
+TEXT: Route creation has ended.
+
+RESOURCE ID: route_creation_max_distance_warning_button
+TEXT: SEE OPTIONS
+
+RESOURCE ID: route_creation_max_distance_warning_description
+TEXT: Route creation will automatically stop if your Route exceeds the maximum length. 
+
+RESOURCE ID: route_creation_max_distance_warning_instructions
+TEXT: End your Route soon, or you may lose your current progress.
+
+RESOURCE ID: route_creation_max_distance_warning_title
+TEXT: Your Route is nearing the maximum length.
+
+RESOURCE ID: route_creation_max_distance_warning_values
+TEXT: Maximum length: {0} km
+Current length: <color=#F2A64B>{1} km</color>
+
+RESOURCE ID: route_creation_min_distance_description
+TEXT: You are near the end point you selected, but your path is too short.
+
+RESOURCE ID: route_creation_min_distance_instructions
+TEXT: Extend your Route either by resuming recording and returning to this end point later or by selecting a new end point.
+
+RESOURCE ID: route_creation_min_distance_title
+TEXT: Your Route does not meet the minimum required length.
+
+RESOURCE ID: route_creation_min_distance_values
+TEXT: Minimum length: {0}
+Current length: <color=#F2A64B>{1}</color>
+
+RESOURCE ID: route_creation_onboarding_loop_page_desc
+TEXT: You have selected the same PokéStop as your start and end point. This will create a loop Route. To finish a loop Route, return to your start point when you’re ready to stop recording your path.
+
+RESOURCE ID: route_creation_onboarding_loop_page_title
+TEXT: Loop Route
+
+RESOURCE ID: route_creation_onboarding_page_1
+TEXT: Create a Route in three easy steps!
+1. Select the start point and end point.
+2. Walk between these points.
+3. Name and describe your Route!
+
+RESOURCE ID: route_creation_onboarding_page_2
+TEXT: Routes must:
+1. Be between {0} km and {1} km.
+2. Be in safe areas and not go through private property.
+3. Have a clear description and theme.
+
+RESOURCE ID: route_creation_onboarding_page_3
+TEXT: Place pins along your Route to mark interesting highlights!
+
+Pins must be placed:
+1. Within {0} meters of the Route’s path.
+2. At least {1} meters away from other pins.
+
+RESOURCE ID: route_creation_onboarding_page_4
+TEXT: Created Routes are submitted to Niantic for review and approval. If your Route is rejected, you may be given a chance to edit and resubmit it.
+
+It’s time to create your Route!
+
+RESOURCE ID: route_creation_onboarding_title_1
+TEXT: How to Create a Route
+
+RESOURCE ID: route_creation_onboarding_title_2
+TEXT: Criteria
+
+RESOURCE ID: route_creation_onboarding_title_4
+TEXT: Review Process
+
+RESOURCE ID: route_creation_pause_button
+TEXT: Pause Route
+
+RESOURCE ID: route_creation_pause_header
+TEXT: Are you sure you want to pause Route creation?
+
+RESOURCE ID: route_creation_pause_message
+TEXT: Your progress will be saved. Return to this location to resume recording the path for your Route.
+
+RESOURCE ID: route_creation_resume_button
+TEXT: RESUME ROUTE CREATION
+
+RESOURCE ID: route_creation_resume_label
+TEXT: RESUME RECORDING
+
+RESOURCE ID: route_creation_select_new_end
+TEXT: SELECT NEW END POINT
+
+RESOURCE ID: route_creation_selected_points_header
+TEXT: Selected start and end points:
+
+RESOURCE ID: route_creation_start_recording_error_too_far
+TEXT: Cannot begin recording. You are not near your start point.
+
+RESOURCE ID: route_creation_submit
+TEXT: DEBUG CREATION SUBMIT
+
+RESOURCE ID: route_creator_stats_label
+TEXT: Creator Statistics
 
 RESOURCE ID: route_data_onboarding_page_1
 TEXT: Now that you’ve created a Route, it’s time to tell people about it!
@@ -63701,11 +64793,60 @@ TEXT: This PokéStop is too far from the last. It must be less than {0} meters a
 RESOURCE ID: route_denial_too_many_stops_in_route
 TEXT: This Route has reached the maximum number of stops.
 
+RESOURCE ID: route_distance_walked_label
+TEXT: Distance Walked on Route
+
 RESOURCE ID: route_earned_new_stamp
 TEXT: New stamp registered!
 
 RESOURCE ID: route_edit_button
 TEXT: CONTINUE EDITING
+
+RESOURCE ID: route_edit_resubmit_label
+TEXT: EDIT AND RESUBMIT
+
+RESOURCE ID: route_elevation_label
+TEXT: ELEVATION
+
+RESOURCE ID: route_enforcement_cta
+TEXT: If you believe this was a mistake,
+please submit an appeal.
+
+RESOURCE ID: route_enforcement_long_ban_description
+TEXT: Your Niantic account has been banned from Pokémon GO for {0} years due to repeated or severe violations of our Player Guidelines for Routes.
+
+Further violations may result in a permanent ban.
+
+RESOURCE ID: route_enforcement_long_ban_title
+TEXT: You’ve been banned from using Pokémon GO.
+
+RESOURCE ID: route_enforcement_permanent_ban_description
+TEXT: Your Niantic account has been banned from Pokémon GO due to repeated or severe violations of our Player Guidelines for Routes.
+
+RESOURCE ID: route_enforcement_permanent_ban_title
+TEXT: You’ve been permanently banned from using Pokémon GO.
+
+RESOURCE ID: route_enforcement_suspension_description
+TEXT: Your Pokémon GO account has been suspended for {0} days due to repeated or severe violations of our Player Guidelines for Routes. You will regain access to your Pokémon GO account in {1} day(s).
+
+Further violations may result in a permanent ban from Pokémon GO.
+
+RESOURCE ID: route_enforcement_suspension_title
+TEXT: You’ve been temporarily suspended from using Pokémon GO.
+
+RESOURCE ID: route_enforcement_warning_button
+TEXT: PLAYER GUIDELINES
+
+RESOURCE ID: route_enforcement_warning_description_primary
+TEXT: Your Pokémon GO account has violated our Player Guidelines for Routes.
+
+Further violations may result in a temporary suspension or  a permanent ban from Pokémon GO.
+
+RESOURCE ID: route_enforcement_warning_description_secondary
+TEXT: Please review our Player Guidelines to avoid future violations. 
+
+RESOURCE ID: route_enforcement_warning_title
+TEXT: Account Warning
 
 RESOURCE ID: route_enter_description_context_page
 TEXT: Enter a description that tells other Trainers what your Route is about.
@@ -63746,6 +64887,9 @@ TEXT: Please select an image for this Route’s medal
 RESOURCE ID: route_km_label
 TEXT: {0} km
 
+RESOURCE ID: route_last_play_date_label
+TEXT: Last Followed
+
 RESOURCE ID: route_list_context_page
 TEXT: Arrange and modify your list of PokéStops or Gyms here
 
@@ -63774,10 +64918,10 @@ RESOURCE ID: route_map_out_of_bound_warning
 TEXT: You are too far away from this area
 
 RESOURCE ID: route_medal
-TEXT: Medal
+TEXT: Badge
 
 RESOURCE ID: route_medals_header
-TEXT: ROUTE MEDALS
+TEXT: ROUTE BADGES
 
 RESOURCE ID: route_medals_sort_name
 TEXT: Name
@@ -63787,6 +64931,9 @@ TEXT: Recent
 
 RESOURCE ID: route_min_label
 TEXT: {0} mins
+
+RESOURCE ID: route_move_closer_to_resume
+TEXT: Return to the location where you paused to resume recording.
 
 RESOURCE ID: route_nearby_help_distance
 TEXT: Start point distance from your current location.
@@ -63811,6 +64958,9 @@ TEXT: SEE NEARBY ROUTES ({0})
 
 RESOURCE ID: route_nearby_list_header
 TEXT: NEARBY ROUTE ({0})
+
+RESOURCE ID: route_not_playable
+TEXT: This Route is not currently available.
 
 RESOURCE ID: route_notification_resume
 TEXT: Entered the route area.
@@ -63889,6 +65039,9 @@ RESOURCE ID: route_rating_description
 TEXT: Did you enjoy this route?
 Can you rate this route?
 
+RESOURCE ID: route_rating_percentage_label
+TEXT: {0}%
+
 RESOURCE ID: route_rating_reason
 TEXT: You can pick multiple choices.
 
@@ -63946,6 +65099,15 @@ TEXT: Sightseeing
 RESOURCE ID: route_rating_title
 TEXT: How was this route?
 
+RESOURCE ID: route_recording_paused
+TEXT: Recording paused.
+
+RESOURCE ID: route_recording_resumed
+TEXT: Recording resumed.
+
+RESOURCE ID: route_recording_started
+TEXT: Recording started.
+
 RESOURCE ID: route_rejection_action
 TEXT: EDIT AND RESUBMIT
 
@@ -63971,11 +65133,17 @@ TEXT: Permanent issue
 RESOURCE ID: route_report_temporary
 TEXT: Temporary issue
 
+RESOURCE ID: route_report_title
+TEXT: Report this Route
+
 RESOURCE ID: route_reset_modal_promot
 TEXT: Resetting your Route will remove all the information you have included. Are you sure you want to reset this Route?
 
 RESOURCE ID: route_reset_modal_title
 TEXT: RESET ROUTE?
+
+RESOURCE ID: route_reversible_notice_label
+TEXT: This Route can be followed in reverse.
 
 RESOURCE ID: route_review_submission_page
 TEXT: Please look over all the information you’ve entered before submitting your Route.
@@ -64022,6 +65190,9 @@ TEXT: Failed to start route
 RESOURCE ID: route_start_toast
 TEXT: {0} started!
 
+RESOURCE ID: route_status_decayed
+TEXT: Archived
+
 RESOURCE ID: route_status_in_progress
 TEXT: Not submitted yet
 
@@ -64044,10 +65215,10 @@ RESOURCE ID: route_stop_button
 TEXT: Stop this route
 
 RESOURCE ID: route_stop_description
-TEXT: If you stop this route, its route activities will delete. You can't undo this action.
+TEXT: If you quit this Route, your current progress will be lost. This action cannot be undone.
 
 RESOURCE ID: route_stop_report
-TEXT: In case an error happened on this route and you can't continue to play, report from <color=#{0}>here</color>.
+TEXT: If you have experienced an issue on this Route that prevented you from completing it, you can report the issue <color=#{0}>here</color>.
 
 RESOURCE ID: route_stop_start_new_button
 TEXT: Start new route
@@ -64056,10 +65227,19 @@ RESOURCE ID: route_stop_start_new_button_same_route
 TEXT: RESTART ROUTE
 
 RESOURCE ID: route_stop_title
-TEXT: Are you sure you want to stop this route?
+TEXT: Are you sure you want to quit this Route?
 
 RESOURCE ID: route_stop_toast
-TEXT: Route cancelled
+TEXT: Route ended.
+
+RESOURCE ID: route_submission_abandon_back_button
+TEXT: BACK
+
+RESOURCE ID: route_submission_abandon_body
+TEXT: Your progress will be saved. You can resume Route creation at any time from your profile.
+
+RESOURCE ID: route_submission_abandon_header
+TEXT: Are you sure you want to exit Route creation?
 
 RESOURCE ID: route_submission_add_description
 TEXT: Add Route Description
@@ -64069,6 +65249,9 @@ TEXT: Please describe the journey, history, or background of this Route.
 
 RESOURCE ID: route_submission_add_info_title
 TEXT: Add Route Information
+
+RESOURCE ID: route_submission_add_tags
+TEXT: Add up to {0} Route tags (optional)
 
 RESOURCE ID: route_submission_add_title
 TEXT: Add Route Title
@@ -64085,6 +65268,9 @@ TEXT: Your title contains inappropriate or prohibited content
 RESOURCE ID: route_submission_badge_creation_title
 TEXT: Medal Creation
 
+RESOURCE ID: route_submission_badge_image_prompt
+TEXT: Select an image for your Route Badge:
+
 RESOURCE ID: route_submission_choose_icon
 TEXT: Please choose an icon for this Route’s medal.
 
@@ -64094,8 +65280,11 @@ TEXT: COLOR
 RESOURCE ID: route_submission_description
 TEXT: Description
 
+RESOURCE ID: route_submission_medal_creation_title
+TEXT: Badge Creation
+
 RESOURCE ID: route_submission_medals
-TEXT: Medals
+TEXT: Badges
 
 RESOURCE ID: route_submission_must_add_description
 TEXT: Please enter a valid description to proceed
@@ -64111,8 +65300,26 @@ It might take a few minutes for you to write a description, and doing so will he
 RESOURCE ID: route_submission_photo_tab_name
 TEXT: PHOTO
 
+RESOURCE ID: route_submission_resubmit_no_change_error
+TEXT: Please modify the title and/or description to resubmit this Route. 
+
 RESOURCE ID: route_submission_result_invalid_route
 TEXT: Route submission error. Please try again later.
+
+RESOURCE ID: route_submission_result_matches_rejection
+TEXT: Route matches a previously rejected Route.
+
+RESOURCE ID: route_submission_result_reject_description
+TEXT: Your Route was rejected because the title and/or description included inappropriate phrases or links. You will not be able to edit and resubmit this Route.
+
+RESOURCE ID: route_submission_result_reject_title
+TEXT: Your Route submission was rejected.
+
+RESOURCE ID: route_submission_result_success_description
+TEXT: You can check the status of your submission via the Route section of your Trainer profile at any time. You will be notified when a decision is made.
+
+RESOURCE ID: route_submission_result_success_title
+TEXT: Your Route was successfully submitted for review!
 
 RESOURCE ID: route_submission_result_too_many_recent
 TEXT: You’ve submitted too many Routes! Please wait and try again later.
@@ -64129,6 +65336,39 @@ TEXT: Please visit all PokéStops or Gyms along this Route.
 RESOURCE ID: route_submission_reversible
 TEXT: Can this Route be followed in reverse?
 
+RESOURCE ID: route_submission_review_adjust
+TEXT: MAKE ADJUSTMENTS
+
+RESOURCE ID: route_submission_review_instructions
+TEXT: Please review your Route’s path. If there are any issues with the path, you can make manual adjustments before you continue.
+
+RESOURCE ID: route_submission_review_keep
+TEXT: KEEP CURRENT PATH
+
+RESOURCE ID: route_submission_review_title
+TEXT: Review Route Path
+
+RESOURCE ID: route_submission_select_color_prompt
+TEXT: Select a header color for your Route Badge:
+
+RESOURCE ID: route_submission_show_name
+TEXT: Do you want to show your Trainer nickname in the Route description? This will be visible to other Trainers.
+
+RESOURCE ID: route_submission_start_title
+TEXT: Name Your Route
+
+RESOURCE ID: route_submission_status_decayed
+TEXT: Archived {0}
+
+RESOURCE ID: route_submission_status_published
+TEXT: Published {0}
+
+RESOURCE ID: route_submission_status_rejection
+TEXT: Rejected {0}
+
+RESOURCE ID: route_submission_status_review
+TEXT: Submitted {0}
+
 RESOURCE ID: route_submission_title
 TEXT: Title
 
@@ -64144,8 +65384,74 @@ TEXT: You've successfully submitted your Route. Once it's been reviewed, it will
 RESOURCE ID: route_submitted_confirmation_title
 TEXT: Congrats!
 
+RESOURCE ID: route_tag_art
+TEXT: Art
+
+RESOURCE ID: route_tag_easy_going
+TEXT: Relaxed
+
+RESOURCE ID: route_tag_flat
+TEXT: Flat
+
+RESOURCE ID: route_tag_hilly
+TEXT: Hilly
+
+RESOURCE ID: route_tag_historic
+TEXT: Historic
+
+RESOURCE ID: route_tag_intense
+TEXT: Intense
+
+RESOURCE ID: route_tag_nature
+TEXT: Nature
+
+RESOURCE ID: route_tag_no_people
+TEXT: Not Many People
+
+RESOURCE ID: route_tag_parks_nearby
+TEXT: Parks Nearby
+
+RESOURCE ID: route_tag_people
+TEXT: Lots of People
+
+RESOURCE ID: route_tag_pets
+TEXT: Pet-Friendly
+
+RESOURCE ID: route_tag_plenty_pokestops
+TEXT: Plenty of PokéStops
+
+RESOURCE ID: route_tag_public_transport
+TEXT: Near Public Transport
+
+RESOURCE ID: route_tag_raid_friendly
+TEXT: Raid-Friendly
+
+RESOURCE ID: route_tag_rainy_day
+TEXT: Good for a Rainy Day
+
+RESOURCE ID: route_tag_seasonal
+TEXT: Seasonal
+
+RESOURCE ID: route_tag_stroller
+TEXT: Stroller-Accessible
+
+RESOURCE ID: route_tag_sunny_day
+TEXT: Good for a Sunny Day
+
+RESOURCE ID: route_tag_views
+TEXT: Great Views
+
+RESOURCE ID: route_tag_wheelchair
+TEXT: Wheelchair Accessible
+
+RESOURCE ID: route_tags_label
+TEXT: TAGS
+
 RESOURCE ID: route_times_label
 TEXT: {0} times
+
+RESOURCE ID: route_under_review_description
+TEXT: This Route is under review.
 
 RESOURCE ID: route_validation_celebration
 TEXT: Nice job, you've verified your route! Now you can add information to the route you've created.
@@ -64228,6 +65534,9 @@ TEXT: Following Your Route
 RESOURCE ID: route_walking_first_poi_spin
 TEXT: This is the starting point that you selected. Please spin the Photo Disc at this PokéStop or Gym to confirm it.
 
+RESOURCE ID: route_walking_head_to_start
+TEXT: Navigate to the start point to begin the Route.
+
 RESOURCE ID: route_walking_head_to_waypoint
 TEXT: Please go to stop #{0}—{1}—and spin the Photo Disc.
 
@@ -64236,6 +65545,15 @@ TEXT: This is stop #{0}: {1}. Please spin the Photo Disc at this PokéStop or Gy
 
 RESOURCE ID: route_walking_poi_verified
 TEXT: Route PokéStop or Gym has been verified.
+
+RESOURCE ID: route_weekly_community_activity_label
+TEXT: WEEKLY COMMUNITY ACTIVITY
+
+RESOURCE ID: route_weekly_plays_label
+TEXT: Times Followed
+
+RESOURCE ID: route_your_plays_label
+TEXT: YOUR TRIPS
 
 RESOURCE ID: route_zero_route_maker_desc
 TEXT: You don’t have a Route Maker. You will need a Route Maker if you want to create a new Route.
@@ -64246,8 +65564,86 @@ TEXT: A device that lets you create Routes. You can have up to five active Route
 RESOURCE ID: routemaker_title
 TEXT: Route Maker
 
+RESOURCE ID: routes_begin_creation_button
+TEXT: Confirm and Proceed
+
+RESOURCE ID: routes_change
+TEXT: Change
+
+RESOURCE ID: routes_confirm_new_endpoint_button
+TEXT: Confirm and Resume
+
+RESOURCE ID: routes_current_end_point_warning
+TEXT: This is your current end point.
+
+RESOURCE ID: routes_current_path_length
+TEXT: CURRENT ROUTE LENGTH:
+
+RESOURCE ID: routes_current_start_point_warning
+TEXT: This is your current start point.
+
+RESOURCE ID: routes_end_at
+TEXT: End at:
+
 RESOURCE ID: routes_general
 TEXT: Route Makers
+
+RESOURCE ID: routes_no_endpoint_selection_made
+TEXT: No Selection Made
+
+RESOURCE ID: routes_no_poi_selection_made
+TEXT: No Selection Made
+
+RESOURCE ID: routes_none_nearby
+TEXT: There are no Routes nearby.
+
+RESOURCE ID: routes_path_length_max
+TEXT: (MAX: {0} KM)
+
+RESOURCE ID: routes_path_length_min
+TEXT: (MIN: {0} KM)
+
+RESOURCE ID: routes_remove_end_point
+TEXT: REMOVE END POINT
+
+RESOURCE ID: routes_remove_end_point_toast
+TEXT: End point reset.
+
+RESOURCE ID: routes_remove_start_point
+TEXT: REMOVE START POINT
+
+RESOURCE ID: routes_remove_start_point_toast
+TEXT: Start point reset.
+
+RESOURCE ID: routes_select_later
+TEXT: SELECT LATER
+
+RESOURCE ID: routes_set_end_point
+TEXT: SET AS END POINT
+
+RESOURCE ID: routes_set_end_point_toast
+TEXT: End point set!
+
+RESOURCE ID: routes_set_new_end_point
+TEXT: SET AS NEW END POINT
+
+RESOURCE ID: routes_set_new_end_point_toast
+TEXT: End point updated!
+
+RESOURCE ID: routes_set_new_start_point
+TEXT: SET AS NEW START POINT
+
+RESOURCE ID: routes_set_new_start_point_toast
+TEXT: Start point updated!
+
+RESOURCE ID: routes_set_start_point
+TEXT: SET AS START POINT
+
+RESOURCE ID: routes_set_start_point_toast
+TEXT: Start point set!
+
+RESOURCE ID: routes_start_at
+TEXT: Start at:
 
 RESOURCE ID: rtakeover_2019_rocket_1
 TEXT: Rocket Take-Over: Defeat a Team GO Rocket Grunt
@@ -64892,6 +66288,9 @@ TEXT: Season of GO
 RESOURCE ID: season_gbl_forecast_title_9
 TEXT: Pokémon GO Season 9: Mythical Wishes
 
+RESOURCE ID: season_partner_research_ltd_amazon_gaming
+TEXT: Limited Partner Research – Hidden Gems: Amazon Prime Gaming
+
 RESOURCE ID: second_abbrev
 TEXT: s
 
@@ -65411,58 +66810,58 @@ RESOURCE ID: settings_vibration
 TEXT: Vibration
 
 RESOURCE ID: settings_waina_device_name
-TEXT: Pokemon GO Plus+
+TEXT: Pokémon GO Plus +
 
 RESOURCE ID: settings_wasabi_ads
 TEXT: Show sponsored messages from third-party advertising services
 
 RESOURCE ID: settings_wearables
-TEXT: Pokémon Companion Devices
+TEXT: Accessory Devices
 
 RESOURCE ID: settings_wearables_about
 TEXT: About
 
 RESOURCE ID: settings_wearables_apply_changes_label
-TEXT: Modifications to these settings are applied on exit.
+TEXT: Modifications to these settings are applied upon exiting this screen.
 
 RESOURCE ID: settings_wearables_auto_spin
-TEXT: Enable PokéStop Auto-spin
+TEXT: Enable PokéStop Auto-Spin
 
 RESOURCE ID: settings_wearables_auto_spin_pbp
-TEXT: PokéStop Auto-spin
+TEXT: PokéStop Auto-Spin
 
 RESOURCE ID: settings_wearables_auto_spin_pbp_description
-TEXT: You can enable Auto-spin by transferring a Pokémon into your Poké Ball Plus from “Let’s Play” for Nintendo Switch. When Auto-spin is enabled, you will not be able to spin PokéStops by button press.
+TEXT: You can enable Auto-Spin by transferring a Pokémon into your Poké Ball Plus from Pokémon: Let’s Go, Pikachu! or Pokémon: Let’s Go, Eevee! for Nintendo Switch. When Auto-Spin is enabled, you will not be able to spin PokéStops by button press.
 
 RESOURCE ID: settings_wearables_auto_throw
-TEXT: Enable Pokémon Auto-throw
+TEXT: Enable Poké Ball Auto-Throw
 
 RESOURCE ID: settings_wearables_auto_throw_description
-TEXT: Auto-throw will always use regular Poké Balls.
+TEXT: Auto-Throw will only use Poké Balls, not Great Balls or Ultra Balls.
 
 RESOURCE ID: settings_wearables_available_devices
 TEXT: Available Devices
 
 RESOURCE ID: settings_wearables_block_exit_unstable_state
-TEXT: Please wait while {0} is processing.
+TEXT: Please wait while the {0} is processing.
 
 RESOURCE ID: settings_wearables_button_throw
-TEXT: Button-throw Poké Ball Selection
+TEXT: Button-Throw Poké Ball Selection
 
 RESOURCE ID: settings_wearables_button_throw_description
-TEXT: Button-throw will be disabled if you run out of your selected ball type.
+TEXT: Button-Throw will be disabled if you run out of whichever type of Poké Ball you select.
 
 RESOURCE ID: settings_wearables_button_throw_unlock_level
 TEXT: Unlocks at level {0}!
 
 RESOURCE ID: settings_wearables_connect_to_device_toast
-TEXT: Connect Pokémon GO Plus+ to update these settings.
+TEXT: Connect your Pokémon GO Plus + to update these settings.
 
 RESOURCE ID: settings_wearables_device_help
 TEXT: Device Help
 
 RESOURCE ID: settings_wearables_device_light_guide
-TEXT: Device Light Guide
+TEXT: Device Quick Start
 
 RESOURCE ID: settings_wearables_device_status_connected
 TEXT: Connected
@@ -65480,7 +66879,7 @@ RESOURCE ID: settings_wearables_device_status_unpaired
 TEXT: Not Paired
 
 RESOURCE ID: settings_wearables_device_troubleshooting_url
-TEXT: <url with language query param in it>
+TEXT: https://niantic.helpshift.com/hc/faq/4161-pairing-and-connecting-pokemon-go-to-official-devices/
 
 RESOURCE ID: settings_wearables_empty_device_list
 TEXT: No Devices Found
@@ -65489,46 +66888,46 @@ RESOURCE ID: settings_wearables_having_trouble
 TEXT: Having trouble?
 
 RESOURCE ID: settings_wearables_how_to_pair
-TEXT: How to Pair a New Device
+TEXT: How to Pair a New Accessory Device
 
 RESOURCE ID: settings_wearables_how_to_pair_bullet1
-TEXT: Press the center button on your device to make it discoverable by Pokemon GO.
+TEXT: Press the main button on your accessory device to make it discoverable by Pokémon GO.
 
 RESOURCE ID: settings_wearables_how_to_pair_bullet2
-TEXT: Once discovered, your device will appear in the Available Devices list above. Tap on your device in the list to initiate connection.
+TEXT: Once your accessory device appears in the Available Devices list above, select it to begin pairing.
 
 RESOURCE ID: settings_wearables_howto_pair_prompt_text
 TEXT: Would you like to view some troubleshooting tips?
 
 RESOURCE ID: settings_wearables_howto_pair_prompt_title
-TEXT: Looks like you are having trouble connecting to your {0}.
+TEXT: Looks like you’re having trouble connecting to your {0}.
 
 RESOURCE ID: settings_wearables_identify_nearby_pokemon_error
-TEXT: Please enable Identify Nearby Pokémon to use this feature.
+TEXT: To use this feature, please enable your accessory device to identify nearby Pokémon in Settings.
 
 RESOURCE ID: settings_wearables_identify_nearby_pokestops_error
-TEXT: Please enable Identify Nearby PokéStops to use this feature.
+TEXT: To use this feature, please enable your accessory device to identify nearby PokéStops in Settings.
 
 RESOURCE ID: settings_wearables_learn_more
 TEXT: Learn more.
 
 RESOURCE ID: settings_wearables_not_connected_error
-TEXT: Connect your Pokémon GO Plus+ to modify this setting.
+TEXT: Connect your Pokémon GO Plus + to modify this setting.
 
 RESOURCE ID: settings_wearables_paired_toast
 TEXT: Paired {0}.
 
 RESOURCE ID: settings_wearables_pbp_about_url
-TEXT: <url with language query param in it>
+TEXT: https://www.nintendo.co.jp/monsterballplus/country_selecter/index.html
 
 RESOURCE ID: settings_wearables_pbp_troubleshooting_url
-TEXT: <url with language query param in it>
+TEXT: https://support.pokemon.com/hc/en-us/articles/360001435906-Pok%C3%A9-Ball-Plus-and-Pok%C3%A9mon-GO-Troubleshooting
 
 RESOURCE ID: settings_wearables_pgp_about_url
-TEXT: <url with language query param in it>
+TEXT: https://support.pokemon.com/hc/en-us/articles/360000954814
 
 RESOURCE ID: settings_wearables_pgp_troubleshooting_url
-TEXT: <url with language query param in it>
+TEXT: https://support.pokemon.com/hc/en-us/articles/360000955374
 
 RESOURCE ID: settings_wearables_preferences
 TEXT: Preferences
@@ -65537,7 +66936,7 @@ RESOURCE ID: settings_wearables_quick_reconnect
 TEXT: Enable Quick-Reconnect Mode
 
 RESOURCE ID: settings_wearables_quick_reconnect_description
-TEXT: If disabled, reconnection will require an additional center button press on Pokémon GO Plus+.
+TEXT: If disabled, you’ll need to press the main button on your Pokémon GO Plus + to reconnect it.
 
 RESOURCE ID: settings_wearables_resources
 TEXT: RESOURCES
@@ -65549,7 +66948,7 @@ RESOURCE ID: settings_wearables_share_sleep_data
 TEXT: Share Sleep Data with Pokémon GO
 
 RESOURCE ID: settings_wearables_share_sleep_data_description
-TEXT: If disabled, you will not earn rewards for tracking your sleep with your Pokémon GO Plus+.
+TEXT: If disabled, you will not earn rewards for tracking your sleep with your Pokémon GO Plus +.
 
 RESOURCE ID: settings_wearables_sleep_header
 TEXT: Sleep Data
@@ -65558,13 +66957,13 @@ RESOURCE ID: settings_wearables_sleep_reward_time
 TEXT: Reward Time
 
 RESOURCE ID: settings_wearables_sleep_reward_time_description
-TEXT: Sleep total calculation will be reset at this time everyday.
+TEXT: Your sleep time is calculated and reset at this time every day.
 
 RESOURCE ID: settings_wearables_sleep_reward_time_description_disabled
-TEXT: Share Sleep Data to modify this setting.
+TEXT: Share sleep data to modify this setting.
 
 RESOURCE ID: settings_wearables_store
-TEXT: Where to Purchase a Pokémon Companion Device
+TEXT: Where to Purchase an Accessory Device
 
 RESOURCE ID: settings_wearables_store_url
 TEXT: <url with language query param in it>
@@ -65576,13 +66975,13 @@ RESOURCE ID: settings_wearables_voice_effects
 TEXT: Enable Pikachu Voice Effects
 
 RESOURCE ID: settings_wearables_voice_effects_description
-TEXT: Silent-mode will override this setting.
+TEXT: Silent mode will override this setting.
 
 RESOURCE ID: settings_wearables_waina_about_url
-TEXT: <url with language query param in it>
+TEXT: https://www.pokemongoplusplus.com/en/
 
 RESOURCE ID: settings_wearables_waina_troubleshooting_url
-TEXT: <url with language query param in it>
+TEXT: https://www.pokemongoplusplus.com/en/go/#pairing
 
 RESOURCE ID: seville_cup_description
 TEXT: A daily Catch Cup for Pokémon GO Safari Zone: Seville attendees
@@ -66111,38 +67510,41 @@ TEXT: Spring into Spring event Eggs
 RESOURCE ID: sis_pokemon_wild
 TEXT: Spring into Spring event wild Pokémon
 
+RESOURCE ID: six_free_raid_passes
+TEXT: Up to six free Raid Passes per day by spinning Gym Photo Discs
+
 RESOURCE ID: size_xxs_xxl_increase_pidgey
 TEXT: Increased chance of finding XXS and XXL Pidgey during this event!
 
 RESOURCE ID: sleep_duration_hr
-TEXT: 1 hr
+TEXT: 1 hour
 
 RESOURCE ID: sleep_duration_hr_min
-TEXT: 1 hr 1 min
+TEXT: 1 hour and 1 minute
 
 RESOURCE ID: sleep_duration_hr_mins
-TEXT: 1 hr {0} mins
+TEXT: 1 hour and {0} minutes
 
 RESOURCE ID: sleep_duration_hrs
-TEXT: {0} hrs
+TEXT: {0} hours
 
 RESOURCE ID: sleep_duration_hrs_min
-TEXT: {0} hrs 1 min
+TEXT: {0} hours and 1 minute
 
 RESOURCE ID: sleep_duration_hrs_mins
-TEXT: {0} hrs {1} mins
+TEXT: {0} hours and {1} minutes
 
 RESOURCE ID: sleep_duration_min
-TEXT: 1 min
+TEXT: 1 minute
 
 RESOURCE ID: sleep_duration_mins
-TEXT: {0} mins
+TEXT: {0} minutes
 
 RESOURCE ID: sleep_not_tracked_subtitle
-TEXT: Make sure you activate your Pokémon GO Plus+ each night for more rewards!
+TEXT: You can earn more rewards by making sure you activate your Pokémon GO Plus + before you sleep each night!
 
 RESOURCE ID: sleep_not_tracked_title
-TEXT: No sleep tracked yesterday.
+TEXT: You didn’t track any sleep yesterday.
 
 RESOURCE ID: sleep_reward_modal_rewards_section_text
 TEXT: Over {0} of sleep!
@@ -66166,10 +67568,10 @@ RESOURCE ID: sleep_reward_modal_subtitle_flavor_4
 TEXT: Keep it up! Track your sleep every night!
 
 RESOURCE ID: sleep_reward_modal_title
-TEXT: Yesterday's Sleep
+TEXT: Yesterday’s Sleep
 
 RESOURCE ID: sleep_reward_ready
-TEXT: Your Sleep Reward is available to claim!
+TEXT: Your Sleep Reward is available!
 
 RESOURCE ID: sleep_set_time
 TEXT: SET TIME
@@ -66178,22 +67580,22 @@ RESOURCE ID: sleep_tips_1_text_1
 TEXT: First, allow your sleep data to be shared with Pokémon GO.
 
 RESOURCE ID: sleep_tips_1_text_2
-TEXT: If you decline, data from up to 8 sleep sessions you track will still be recorded locally on your Pokémon GO Plus+ and will remain stored there until overwritten by new sleep sessions.
+TEXT: If you decline, data from up to eight sleep sessions you track will still be recorded locally on your Pokémon GO Plus + and will remain stored there until it’s overwritten by data from new sleep sessions.
 
 RESOURCE ID: sleep_tips_1_title
-TEXT: Earn Rewards for Tracking Sleep with your Pokémon GO Plus +!
+TEXT: Earn Rewards for Tracking Sleep with Your Pokémon GO Plus +!
 
 RESOURCE ID: sleep_tips_2_description_1
-TEXT: Do this by holding down the center button on your Pokémon GO Plus+ until you see blue light flash once.
+TEXT: Do this by pressing the main button on your Pokémon GO Plus + until you see blue light flash once.
 
 RESOURCE ID: sleep_tips_2_description_2
-TEXT: Do this by holding down the center button on your Pokémon GO Plus+ until you see multicolored lights flash once.
+TEXT: Do this by pressing the main button on your Pokémon GO Plus + until you see multicolored lights flash once.
 
 RESOURCE ID: sleep_tips_2_description_3
-TEXT: After recording your sleep, open Pokémon GO and connect your Pokémon GO Plus+ to begin data transfer.
+TEXT: After recording your sleep, open Pokémon GO and connect your Pokémon GO Plus + to begin transferring your sleep data.
 
 RESOURCE ID: sleep_tips_2_text_1
-TEXT: Before you go to bed, start a sleep session.
+TEXT: Before you go to bed, begin a sleep session.
 
 RESOURCE ID: sleep_tips_2_text_2
 TEXT: When you wake up, end your sleep session.
@@ -66202,19 +67604,19 @@ RESOURCE ID: sleep_tips_2_text_3
 TEXT: Share your sleep data with Pokémon GO.
 
 RESOURCE ID: sleep_tips_2_text_4
-TEXT: Sleep sessions must be at least 90 mins to be recorded by Pokémon GO Plus+.
+TEXT: Sleep sessions must be at least 90 minutes long to be recorded by your Pokémon GO Plus +.
 
 RESOURCE ID: sleep_tips_2_title
 TEXT: How to Track Your Sleep
 
 RESOURCE ID: sleep_tips_3_text_1
-TEXT: With Quick-Reconnect Mode enabled, you can reconnect your nearby Pokémon GO Plus+ to your paired device just by tapping the icon on the map or in Settings within Pokémon GO. If disabled, reconnection will require an additional center button press on Pokémon GO Plus+.
+TEXT: With Quick-Reconnect Mode enabled, you can reconnect your nearby Pokémon GO Plus + to your paired smart device by simply tapping the Pokémon GO Plus + icon on the Map view or in Settings. If this feature is disabled, you’ll need to press the main button on your Pokémon GO Plus + to reconnect it.
 
 RESOURCE ID: sleep_tips_3_text_2
-TEXT: You can change this later in settings.
+TEXT: You can change this later in Settings.
 
 RESOURCE ID: sleep_tips_3_title
-TEXT: Enable Quick Reconnect Mode
+TEXT: Enable Quick-Reconnect Mode
 
 RESOURCE ID: sleep_tips_4_text_1
 TEXT: You can earn rewards by tracking your sleep. The longer you sleep, the more rewards you earn! You can also choose what time you receive these rewards each day.
@@ -66226,7 +67628,7 @@ RESOURCE ID: sleep_tips_5_text_1
 TEXT: Now it’s time to get some rest!
 
 RESOURCE ID: sleep_tips_5_text_2
-TEXT: Make sure to activate your Pokémon GO Plus+ tonight when are ready to go to sleep.
+TEXT: Make sure to activate your Pokémon GO Plus + tonight when you’re ready to go to sleep.
 
 RESOURCE ID: sleep_tips_5_title
 TEXT: Finish Sleep Set-up
@@ -66403,6 +67805,9 @@ TEXT: More Abra are appearing in the wild
 RESOURCE ID: spawn_alodude
 TEXT: More Alolan Geodude are appearing in the wild
 
+RESOURCE ID: spawn_axew
+TEXT: More Axew are appearing in the wild!
+
 RESOURCE ID: spawn_bulbasaur
 TEXT: More Bulbasaur are appearing in the wild
 
@@ -66498,6 +67903,9 @@ TEXT: More Snivy are appearing in the wild
 
 RESOURCE ID: spawn_spheal
 TEXT: More Spheal are appearing in the wild
+
+RESOURCE ID: spawn_squirtle
+TEXT: More Squirtle are appearing in the wild!
 
 RESOURCE ID: spawn_starly
 TEXT: More Starly are appearing in the wild!
@@ -66630,6 +68038,9 @@ TEXT: You can only make a Special Trade once a day, unless you’re at certain s
 
 RESOURCE ID: special_trade_confirm_title
 TEXT: Do you want to make a Special Trade?
+
+RESOURCE ID: special_trade_daily_3
+TEXT: Three Special Trades for the day
 
 RESOURCE ID: special_trade_plus_3
 TEXT: Three additional Special Trades per day, for a total of four
@@ -67948,6 +69359,9 @@ TEXT: You have no stickers from this category.
 RESOURCE ID: stickers_v2_pokemon_category
 TEXT: Pokémon
 
+RESOURCE ID: stickers_v2_quantity_category
+TEXT: Quantity
+
 RESOURCE ID: stickers_v2_recent_category
 TEXT: Recent
 
@@ -67962,6 +69376,168 @@ TEXT: See All ({0})
 
 RESOURCE ID: store_see_other_stickers
 TEXT: SEE OTHER STICKERS
+
+RESOURCE ID: story_quest_cosmog_sol23_0
+TEXT: Starry Skies (1/4)
+
+RESOURCE ID: story_quest_cosmog_sol23_0_0
+TEXT: %PLAYERNAME%, great timing!
+
+RESOURCE ID: story_quest_cosmog_sol23_0_1
+TEXT: I just got back from a harrowing expedition. I’ll spare you the gritty details, but it involved boulders, quicksand, and lots of Venipede.
+
+RESOURCE ID: story_quest_cosmog_sol23_0_2
+TEXT: Anyway, I’ve come out on the other side with some exciting treasures: fossils, King’s Rocks, and a trove of maps!
+
+RESOURCE ID: story_quest_cosmog_sol23_0_3
+TEXT: It’s hard to determine who or what left the maps behind, especially given their contents. For example, this one apparently leads to “the world’s tastiest Poffin.”
+
+RESOURCE ID: story_quest_cosmog_sol23_0_4
+TEXT: There was one in particular that caught my eye: a map of the skies showing the exact position of the stars today!
+
+RESOURCE ID: story_quest_cosmog_sol23_0_5
+TEXT: It made me wonder if this is a purely informational map, or if it points toward something special.
+
+RESOURCE ID: story_quest_cosmog_sol23_0_6
+TEXT: What do you say we find out together?
+
+RESOURCE ID: story_quest_cosmog_sol23_0_7
+TEXT: Seeing as the stars are our inspiration, how about we focus on either diurnal Pokémon—meaning Pokémon that are active during the day—or their opposite, nocturnal Pokémon?
+
+RESOURCE ID: story_quest_cosmog_sol23_0_8
+TEXT: Take some time to think about which Pokémon you’re more interested in researching. Once you’ve decided, we can set off!
+
+RESOURCE ID: story_quest_cosmog_sol23_1
+TEXT: Starry Skies (2/4)
+
+RESOURCE ID: story_quest_cosmog_sol23_1a_0
+TEXT: Great choice! There’s nothing like a warm sunbeam to refresh a tired body!
+
+RESOURCE ID: story_quest_cosmog_sol23_1a_1
+TEXT: Speaking of which, here’s a refreshing Pokémon fact: the leaves on Petilil’s head are highly valued for medicinal purposes. They provide relief from weariness—even more so when boiled.
+
+RESOURCE ID: story_quest_cosmog_sol23_1a_2
+TEXT: Heh. Now I’m in the mood to look for some Grass-type Pokémon. Shall we, %PLAYERNAME%?
+
+RESOURCE ID: story_quest_cosmog_sol23_1b_0
+TEXT: Great choice! I always enjoy a stroll in the cool, crisp moonlight.
+
+RESOURCE ID: story_quest_cosmog_sol23_1b_1
+TEXT: Speaking of which, here’s a cool Pokémon fact: Misdreavus conceals itself in darkness, sending chills up travelers’ spines with its childlike weeping.
+
+RESOURCE ID: story_quest_cosmog_sol23_1b_2
+TEXT: Spooky, eh? Now I’m in the mood to look for some Ghost-type Pokémon. Shall we, %PLAYERNAME%?
+
+RESOURCE ID: story_quest_cosmog_sol23_2
+TEXT: Starry Skies (3/4)
+
+RESOURCE ID: story_quest_cosmog_sol23_2_0
+TEXT: Ah, %PLAYERNAME%.
+
+RESOURCE ID: story_quest_cosmog_sol23_2_1
+TEXT: It has been some time since we last spoke. Have you been faring well?
+
+RESOURCE ID: story_quest_cosmog_sol23_2_2
+TEXT: Splendid. Are you out doing research for Professor Willow?
+
+RESOURCE ID: story_quest_cosmog_sol23_2_4
+TEXT: I, too, find the cycles of the sun and moon fascinating.
+
+RESOURCE ID: story_quest_cosmog_sol23_2_5
+TEXT: But I am here for a different matter. I have picked up readings that indicate the presence of something from beyond this world.
+
+RESOURCE ID: story_quest_cosmog_sol23_2_6
+TEXT: I had hoped to request your company, but your research for Professor Willow comes first.
+
+RESOURCE ID: story_quest_cosmog_sol23_2a_3
+TEXT: I see. So you‘ve both been moved to study Pokémon associated with daytime after finding a celestial chart.
+
+RESOURCE ID: story_quest_cosmog_sol23_2a_7
+TEXT: This is farewell for now. I hope you and your Buddy Pokémon have a radiant day, %PLAYERNAME%.
+
+RESOURCE ID: story_quest_cosmog_sol23_2b_3
+TEXT: I see. So you‘ve both been moved to study Pokémon associated with nighttime after finding a celestial chart.
+
+RESOURCE ID: story_quest_cosmog_sol23_2b_7
+TEXT: This is farewell for now, %PLAYERNAME%. I hope you have a fruitful day—or should I say night?—learning about Pokémon.
+
+RESOURCE ID: story_quest_cosmog_sol23_3
+TEXT: Starry Skies (4/4)
+
+RESOURCE ID: story_quest_cosmog_sol23_3_0
+TEXT: Welcome back, %PLAYERNAME%! How did it go?
+
+RESOURCE ID: story_quest_cosmog_sol23_3_1
+TEXT: You ran into Rhi? They just stopped by to chat with me, too!
+
+RESOURCE ID: story_quest_cosmog_sol23_3_2
+TEXT: Rhi was hot on the heels of something otherworldly. We were getting ready to rally the Team Leaders when—get this—a Cosmog blissfully bobbed by!
+
+RESOURCE ID: story_quest_cosmog_sol23_3_3
+TEXT: You don’t see that every day.
+
+RESOURCE ID: story_quest_cosmog_sol23_3_4
+TEXT: I recall Rhi mentioning that Cosmog’s gaseous body can be blown away by the slightest breeze, but it doesn’t seem to care.
+
+RESOURCE ID: story_quest_cosmog_sol23_3_5
+TEXT: Even so, we can’t just leave it be. You’d better hurry and catch that Cosmog before it blows into some trouble!
+
+RESOURCE ID: story_quest_cosmog_sol23_3_6
+TEXT: While you’re doing that, I’ll ponder how another Cosmog found its way here...and whether it was more than luck that we happened to have a map of the stars on this exact day.
+
+RESOURCE ID: story_quest_cosmog_sol23_3_7
+TEXT: Mysteries to illuminate in the future, as Rhi might say!
+
+RESOURCE ID: story_quest_cosmog_sol23_branch_0
+TEXT: Which would you rather research: Pokémon that appear during the daytime or Pokémon that appear at night?
+
+RESOURCE ID: story_quest_cosmog_sol23_branch_1_button_key
+TEXT: Help Research Daytime Pokémon
+
+RESOURCE ID: story_quest_cosmog_sol23_branch_1_description_key
+TEXT: Choose this option to help research Pokémon that are more active during the day. You’ll be tasked with exploring widely and catching many Pokémon.
+
+RESOURCE ID: story_quest_cosmog_sol23_branch_1_title_key
+TEXT: Help Research Daytime Pokémon
+
+RESOURCE ID: story_quest_cosmog_sol23_branch_2_button_key
+TEXT: Help Research Nighttime Pokémon
+
+RESOURCE ID: story_quest_cosmog_sol23_branch_2_description_key
+TEXT: Choose this option to help research Pokémon that are more active at night. You’ll be tasked with completing research and catching Pokémon in different ways.
+
+RESOURCE ID: story_quest_cosmog_sol23_branch_2_title_key
+TEXT: Help Research Nighttime Pokémon
+
+RESOURCE ID: story_quest_cosmog_sol23_title
+TEXT: Starry Skies
+
+RESOURCE ID: story_quest_dark_flames_june23_branch_1_description_key
+TEXT: If you select this option, your Timed Research rewards will include encounters with Fire-type Pokémon.
+
+RESOURCE ID: story_quest_dark_flames_june23_branch_1_title_button_key
+TEXT: Fire-type Pokémon
+
+RESOURCE ID: story_quest_dark_flames_june23_branch_2_description_key
+TEXT: If you select this option, your Timed Research rewards will include encounters with Dark-type Pokémon.
+
+RESOURCE ID: story_quest_dark_flames_june23_branch_2_title_button_key
+TEXT: Dark-type Pokémon
+
+RESOURCE ID: story_quest_dark_flames_june23_branch_choice_1_0
+TEXT: Hello, %PLAYERNAME%!
+
+RESOURCE ID: story_quest_dark_flames_june23_branch_choice_1_1
+TEXT: You’ve come at just the right time. I’m trying to pick which of these two maps to follow.
+
+RESOURCE ID: story_quest_dark_flames_june23_branch_choice_1_2
+TEXT: They both lead to my favorite thing—Pokémon to research!
+
+RESOURCE ID: story_quest_dark_flames_june23_branch_choice_1_3
+TEXT: One map will take us past more Fire-type Pokémon, and the other past more Dark-type Pokémon.
+
+RESOURCE ID: story_quest_dark_flames_june23_branch_choice_1_4
+TEXT: I just can’t decide! And that’s where you come in. What do you think? Blazing Fire types or mysterious Dark types?
 
 RESOURCE ID: story_quest_rockethq10
 TEXT: Silent Schemes
@@ -68121,6 +69697,102 @@ TEXT: Thanks for your help, %PLAYERNAME%. Until the next time we need to foil th
 
 RESOURCE ID: story_quest_rockethq14_title
 TEXT: From the Shadows
+
+RESOURCE ID: story_quest_rockethq15_0
+TEXT: A Shadowy Disturbance (1/5)
+
+RESOURCE ID: story_quest_rockethq15_0_0
+TEXT: I’m sure I left them around here somewhere...
+
+RESOURCE ID: story_quest_rockethq15_0_1
+TEXT: Oh, hey, %PLAYERNAME%!
+
+RESOURCE ID: story_quest_rockethq15_0_2
+TEXT: You haven’t seen my earplugs, have you? Those Team GO Rocket Grunts over there have been blasting music at higher volume than a Loudred all day!
+
+RESOURCE ID: story_quest_rockethq15_0_3
+TEXT: What’s more, I’ve barely been able to walk two steps without the crinkling of littered candy wrappers underfoot.
+
+RESOURCE ID: story_quest_rockethq15_0_4
+TEXT: And do you see all the bright red Rs they’ve spray-painted around here?
+
+RESOURCE ID: story_quest_rockethq15_0_5
+TEXT: I’m all for a good party, but theirs has been a real nuisance.
+
+RESOURCE ID: story_quest_rockethq15_0_6
+TEXT: Could you have a chat with those Grunts while I clean things up, %PLAYERNAME%?
+
+RESOURCE ID: story_quest_rockethq15_1
+TEXT: A Shadowy Disturbance (2/5)
+
+RESOURCE ID: story_quest_rockethq15_1_0
+TEXT: How did it go, %PLAYERNAME%? Did you have a calm, reasonable discussion with those Team GO Rocket Grunts?
+
+RESOURCE ID: story_quest_rockethq15_1_1
+TEXT: No? They just started battling you? *sigh* I guess that’s to be expected.
+
+RESOURCE ID: story_quest_rockethq15_1_2
+TEXT: Well, thanks for getting them to quiet down all the same! I can finally hear myself think again.
+
+RESOURCE ID: story_quest_rockethq15_1_3
+TEXT: And what I’m thinking is, there’s no way those rambunctious Grunts would settle down so easily. I’m positive they’ll come back before long.
+
+RESOURCE ID: story_quest_rockethq15_1_4
+TEXT: Could you “chat” with them again if you see them, please?
+
+RESOURCE ID: story_quest_rockethq15_2
+TEXT: A Shadowy Disturbance (3/5)
+
+RESOURCE ID: story_quest_rockethq15_2_0
+TEXT: Well done, %PLAYERNAME%!
+
+RESOURCE ID: story_quest_rockethq15_2_1
+TEXT: You defeated them so quickly, it almost makes ME want to start a party!
+
+RESOURCE ID: story_quest_rockethq15_2_2
+TEXT: But it’ll have to wait, because right as those Grunts scampered away, I overheard them muttering about coming back bigger, louder, and wilder than ever.
+
+RESOURCE ID: story_quest_rockethq15_2_3
+TEXT: We can’t have them disturbing the local Pokémon—to say nothing of the assault on my eardrums!
+
+RESOURCE ID: story_quest_rockethq15_2_4
+TEXT: Let’s put in a complaint with their superiors, shall we? Defeat the Team GO Rocket Leaders!
+
+RESOURCE ID: story_quest_rockethq15_3
+TEXT: A Shadowy Disturbance (4/5)
+
+RESOURCE ID: story_quest_rockethq15_3_0
+TEXT: Great work, %PLAYERNAME%!
+
+RESOURCE ID: story_quest_rockethq15_3_1
+TEXT: You’ve won us some peace and quiet, but I think we should make certain Team GO Rocket isn’t planning any more mischief.
+
+RESOURCE ID: story_quest_rockethq15_3_2
+TEXT: And that means taking down their boss, Giovanni!
+
+RESOURCE ID: story_quest_rockethq15_3_3
+TEXT: I know you can do it!
+
+RESOURCE ID: story_quest_rockethq15_4
+TEXT: A Shadowy Disturbance (5/5)
+
+RESOURCE ID: story_quest_rockethq15_4_0
+TEXT: Expertly done, %PLAYERNAME%!
+
+RESOURCE ID: story_quest_rockethq15_4_1
+TEXT: Good news on my end—Meltan and I are just about finished picking up all the litter Team GO Rocket left behind.
+
+RESOURCE ID: story_quest_rockethq15_4_2
+TEXT: Thanks for your help today. We should throw our own party to celebrate your success!
+
+RESOURCE ID: story_quest_rockethq15_4_3
+TEXT: Just...at a reasonable volume. And we’ll pick up after ourselves, of course.
+
+RESOURCE ID: story_quest_rockethq15_4_4
+TEXT: I’ll see you again soon, %PLAYERNAME%!
+
+RESOURCE ID: story_quest_rockethq15_title
+TEXT: A Shadowy Disturbance
 
 RESOURCE ID: story_quest_s10willow_0
 TEXT: Let’s GO! (1/6)
@@ -68320,6 +69992,9 @@ TEXT: Account Suspension Notice
  Your account has been suspended for violating the Terms of Service.
 
  This suspension will last approximately 30 days. Any further transgressions will result in permanent account termination.
+
+RESOURCE ID: suspension_rate_limit_desc
+TEXT: <0>1st strike (24 hours):</0><1/>We have detected unusual activity from your account, and as a result, temporary limitations have been placed on your play.
 
 RESOURCE ID: switch_sleep_warning
 TEXT: While connecting to the Nintendo Switch, don’t turn off your smartphone or enter sleep mode. 
@@ -68549,6 +70224,9 @@ TEXT: Ticket for Investigating Illusions Special Research story in the shop
 RESOURCE ID: ticket_alodude
 TEXT: Ticket for the A Rocky Road Research story available in the shop
 
+RESOURCE ID: ticket_axew
+TEXT: Ticket for the Keeping Sharp Special Research story available in the in-game shop
+
 RESOURCE ID: ticket_bulbasaur
 TEXT: Ticket for the Bulbasaur Community Day Classic Special Research story available in the shop
 
@@ -68662,6 +70340,9 @@ TEXT: Ticket for Special Research available in the shop
 RESOURCE ID: ticket_spheal
 TEXT: Ticket for a Special Research story available in the shop
 
+RESOURCE ID: ticket_squirtle
+TEXT: Ticket for the Squirtle Community Day Classic Special Research story available in the shop
+
 RESOURCE ID: ticket_starly
 TEXT: Ticket for the Field Notes: Starly Special Research story available in the shop
 
@@ -68773,6 +70454,9 @@ TEXT: Trainers must work together as a regional community to complete this chall
 
 RESOURCE ID: timed_research
 TEXT: Timed Research available
+
+RESOURCE ID: timed_research_generic
+TEXT: Timed Research
 
 RESOURCE ID: timed_research_pokemon
 TEXT: Featured Pokémon in Timed Research
@@ -69368,6 +71052,9 @@ TEXT: Wi-Fi recommended
 RESOURCE ID: title_raid_has_ended
 TEXT: This event has ended.
 
+RESOURCE ID: title_waina_special_research
+TEXT: Connect a Pokémon GO Plus + to claim exclusive Special Research!
+
 RESOURCE ID: title_waterfestival_beach
 TEXT: Water Festival: Beach Week
 
@@ -69532,6 +71219,12 @@ TEXT: GO for a Spin
 
 RESOURCE ID: tr_go_for_a_spin_desc
 TEXT: Timed Research: GO for a Spin
+
+RESOURCE ID: tr_gofest2023_earlybird1
+TEXT: Timed Research: In the Rough
+
+RESOURCE ID: tr_gofest2023_earlybird2
+TEXT: Timed Research: Shimmering Strides
 
 RESOURCE ID: tr_latias_photo_safari
 TEXT: Sapphire: Latias Photo Safari
@@ -71001,10 +72694,10 @@ RESOURCE ID: vulpix_battle_day
 TEXT: GO Battle Day: Vulpix
 
 RESOURCE ID: waina_confirm_unpair
-TEXT: Are you sure you want to unpair your Pokemon GO Plus+?
+TEXT: Are you sure you want to unpair your Pokémon GO Plus +?
 
 RESOURCE ID: waina_confirm_unpair_description
-TEXT: Any sleep data stored on your Pokémon GO Plus+ will be erased the next time that it is paired.
+TEXT: Any sleep data stored on your Pokémon GO Plus + will be erased the next time it’s paired.
 
 RESOURCE ID: waina_failed_unpair
 TEXT: Failed to unpair device.
@@ -71016,52 +72709,58 @@ RESOURCE ID: waina_reward_time_change_warning_button
 TEXT: YES, CHANGE TIME
 
 RESOURCE ID: waina_reward_time_change_warning_description
-TEXT: Changing the reward time may result in a loss of rewards for sleep tracked within the last 24 hours.
+TEXT: You may miss out on rewards for sleep you tracked within the last 24 hours if you change your reward time.
 
 RESOURCE ID: waina_tips_1_text
-TEXT: With Quick-Reconnect Mode enabled, you can reconnect your nearby Pokémon GO Plus+ to your paired device just by tapping the icon on the map or in Settings within Pokémon GO. If disabled, reconnection will require an additional center button press on Pokémon GO Plus+.
+TEXT: With Quick-Reconnect Mode enabled, you can reconnect your nearby Pokémon GO Plus + to your paired smart device by simply tapping the Pokémon GO Plus + icon on the Map view or in Settings. If this feature is disabled, you’ll need to press the main button on your Pokémon GO Plus + to reconnect it.
 
 RESOURCE ID: waina_tips_1_title
 TEXT: Quick-Reconnect Mode
 
 RESOURCE ID: waina_tips_2_text
-TEXT: With Auto-throw enabled, your Pokémon GO Plus+ can automatically attempt to catch Pokémon you pass. Auto-throw only uses regular Poké Balls and will not work if you have no Poké Balls in your Item Bag. Auto-throw will not work for Pokémon you’ve never caught before. Adventure Sync must be enabled to use Auto-throw.
+TEXT: With Auto-Throw enabled, your Pokémon GO Plus + can automatically attempt to catch Pokémon you pass. Auto-Throw only uses Poké Balls—not Great Balls or Ultra Balls—and it will not work if you have no Poké Balls in your Item Bag. Auto-Throw will not attempt to catch a Pokémon that you haven’t caught yet. Adventure Sync must be enabled to use Auto-Throw.
 
 RESOURCE ID: waina_tips_2_title
-TEXT: Auto-throw
+TEXT: Poké Ball Auto-Throw
 
 RESOURCE ID: waina_tips_3_text
-TEXT: With Button-throw, you can choose to use any Poké Ball type, including Great Balls and Ultra Balls. You can update this selection at any time in Settings. If no selection is made, Button-throw will use regular Poké Balls. Button-throw will not work if you run out of your selected Poké Ball type.
+TEXT: With Button-Throw, you can choose to use any type of Poké Ball, including Great Balls and Ultra Balls. You can update this selection at any time in Settings. If no selection is made, Button-Throw will only use Poké Balls. Button-Throw will not work if you run out of whatever type of Poké Ball you selected.
 
 RESOURCE ID: waina_tips_3_title
-TEXT: Button-throw Poké Ball Selection
+TEXT: Button-Throw Poké Ball Selection
 
 RESOURCE ID: waina_tips_4_text
-TEXT: With Auto-spin enabled, your Pokémon GO Plus+ can automatically attempt to spin any in-range PokéStop you pass. Auto-spin will not work if your Item Bag is full. Adventure Sync must be enabled to use Auto-spin.
+TEXT: With Auto-Spin enabled, your Pokémon GO Plus + can automatically attempt to spin any PokéStops you come within range of. Auto-Spin will not work if your Item Bag is full. Adventure Sync must be enabled to use Auto-Spin.
 
 RESOURCE ID: waina_tips_4_title
-TEXT: Auto-Spin
+TEXT: PokéStop Auto-Spin
 
 RESOURCE ID: waina_user_dialog_finalize_pairing
 TEXT: Finalize Pairing:
 
 RESOURCE ID: waina_user_dialog_first_connect
-TEXT: Are you sure you want to pair this device?
+TEXT: Would you like to finish pairing and connect this Pokémon GO Plus +?
 
 RESOURCE ID: waina_user_dialog_first_connect_description
-TEXT: This device will be reset after pairing. If someone else was using this device before you, pairing it will erase their stored sleep data.
+TEXT: This Pokémon GO Plus + is now associated with your account. If someone else was using this Pokémon GO Plus + before you, their sleep data will be erased if you proceed with pairing.
 
 RESOURCE ID: waina_user_dialog_press_two_buttons
-TEXT: Please press the center button and side button at the same time.
+TEXT: Please press the main button and the side button at the same time.
 
 RESOURCE ID: waina_user_dialog_reconnect
-TEXT: This device has been initialized. Would you like to pair it again?
+TEXT: Do you want to clear this Pokémon GO Plus + and try to pair it again?
+
+RESOURCE ID: waina_user_dialog_reconnect_description
+TEXT: This Pokémon GO Plus + was associated with your account but is no longer configured properly. This Pokémon GO Plus + will need to be cleared of all sleep data before you can continue.
 
 RESOURCE ID: waina_user_dialog_reconnect_reject
-TEXT: Reconnection to device was rejected by the server due to mismatching device data. Do you still want to pair this device? Sleep Data will be erased.
+TEXT: Do you want to clear this Pokémon GO Plus + and try to pair it again?
+
+RESOURCE ID: waina_user_dialog_reconnect_reject_description
+TEXT: This Pokémon GO Plus + was associated with an account in the past. The associated account could not be verified, so this Pokémon GO Plus + will need to be cleared of all sleep data before you can continue.
 
 RESOURCE ID: waina_user_dialog_white_indicator_light_info
-TEXT: Your Pokemon GO Plus+ indicator light should now be solid white.
+TEXT: The indicator light on your Pokémon GO Plus + should now be solid white.
 
 RESOURCE ID: waiting_for_referral_code_from_link
 TEXT: Searching for the referral code associated with your link.
@@ -71196,7 +72895,7 @@ RESOURCE ID: wcs_week_event
 TEXT: Pokémon World Championships 2022
 
 RESOURCE ID: wearables_out_of_chosen_pokeball_toast
-TEXT: No more {0}. Button-throw is disabled.
+TEXT: You’re out of {0}s. Button-Throw has been disabled.
 
 RESOURCE ID: weather_alert_safety_button
 TEXT: I AM SAFE
@@ -71302,6 +73001,9 @@ TEXT: As you explore while playing Pokémon GO, you can receive gifts by opening
 
 RESOURCE ID: webcam_setup_problem
 TEXT: Cannot access your device's camera. Check camera permissions.
+
+RESOURCE ID: website_error
+TEXT: Error loading website
 
 RESOURCE ID: weekly_box
 TEXT: Weekly Box

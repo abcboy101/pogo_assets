@@ -154,6 +154,9 @@ TEXT: 拍攝1張有拉帝歐斯驚喜現身的GO Snapshot照片
 RESOURCE ID: aa_2022_photobomb_pika_corsola
 TEXT: 將有寶可夢GO Snapshot中驚喜現身
 
+RESOURCE ID: aa_event_tag
+TEXT: 飛翔皮卡丘計畫
+
 RESOURCE ID: abi_address_book_button
 TEXT: 從聯絡人一覽表中追加朋友
 
@@ -681,6 +684,24 @@ TEXT: 哦？
 RESOURCE ID: age_gate_screen
 TEXT: 請輸入你的出生年月日
 
+RESOURCE ID: air_adventures_jeju_sr_title
+TEXT: 飛翔皮卡丘計畫：濟州島
+
+RESOURCE ID: air_adventures_jeju_sr_title_00
+TEXT: 飛翔皮卡丘計畫：濟州島 (1/5)
+
+RESOURCE ID: air_adventures_jeju_sr_title_01
+TEXT: 飛翔皮卡丘計畫：濟州島 (2/5)
+
+RESOURCE ID: air_adventures_jeju_sr_title_02
+TEXT: 飛翔皮卡丘計畫：濟州島 (3/5)
+
+RESOURCE ID: air_adventures_jeju_sr_title_03
+TEXT: 飛翔皮卡丘計畫：濟州島 (4/5)
+
+RESOURCE ID: air_adventures_jeju_sr_title_04
+TEXT: 飛翔皮卡丘計畫：濟州島 (5/5)
+
 RESOURCE ID: air_adventures_okinawa_sr_title_0
 TEXT: 飛翔皮卡丘計畫@沖繩
 
@@ -717,6 +738,9 @@ TEXT: 歡迎來到阿羅拉
 RESOURCE ID: alola_pokedex_header
 TEXT: 阿羅拉的樣子
 
+RESOURCE ID: already_creating_route_error
+TEXT: 請先完成或刪除正在規劃中的路線後，才能規劃全新的路線
+
 RESOURCE ID: already_have_account
 TEXT: 已經有帳號了嗎？
 
@@ -743,6 +767,33 @@ TEXT: 週年慶調查 (5/6)
 
 RESOURCE ID: anniversary_2022_timed_research_5
 TEXT: 週年慶調查 (6/6)
+
+RESOURCE ID: anniversary_2023_event_day1
+TEXT: 7周年紀念：Day 1
+
+RESOURCE ID: anniversary_2023_event_day2
+TEXT: 7周年紀念：Day 2
+
+RESOURCE ID: anniversary_2023_event_day3
+TEXT: 7周年紀念：Day 3
+
+RESOURCE ID: anniversary_2023_event_day4
+TEXT: 7周年紀念：Day 4
+
+RESOURCE ID: anniversary_2023_event_day5
+TEXT: 7周年紀念：Day 5
+
+RESOURCE ID: anniversary_2023_event_day6
+TEXT: 7周年紀念：Day 6
+
+RESOURCE ID: anniversary_2023_event_day7
+TEXT: 7周年紀念：Day 7
+
+RESOURCE ID: anniversary_2023_event_title
+TEXT: 7周年紀念
+
+RESOURCE ID: anniversary_2023_timed_research_0
+TEXT: 7週年紀念限時調查
 
 RESOURCE ID: app_exit_confirmation_message
 TEXT: 要結束Pokémon GO嗎？
@@ -1518,7 +1569,7 @@ RESOURCE ID: as_would_purchase_items
 TEXT: 確定要購買購物車內的商品嗎？
 
 RESOURCE ID: as_would_purchase_wearing_items
-TEXT: 確定要購買現在身上的換裝道具 ({0}) 嗎？
+TEXT: 確定要用寶可幣來交換現在身上的換裝道具({0})嗎？
 
 RESOURCE ID: as_would_purchase_wearing_items_singular
 TEXT: 確定要用寶可幣來交換現在身上的換裝道具嗎？
@@ -1809,6 +1860,9 @@ TEXT: Verizon口罩
 
 RESOURCE ID: avatar_f_glasses_3d_bundle_icon
 TEXT: 3D眼鏡
+
+RESOURCE ID: avatar_f_glasses_divingsuit_00_bundle_icon
+TEXT: Diver Goggles
 
 RESOURCE ID: avatar_f_glasses_empty_bundle_icon
 TEXT: 不戴眼鏡
@@ -2240,11 +2294,17 @@ TEXT: 勾魂眼護目鏡
 RESOURCE ID: avatar_f_hat_samsungsummer2020_0_bundle_icon
 TEXT: Samsung Galaxy紮染帽
 
+RESOURCE ID: avatar_f_hat_sandygasthat_00_bundle_icon
+TEXT: 沙丘娃帽
+
 RESOURCE ID: avatar_f_hat_shayminhat_00_bundle_icon
 TEXT: 謝米帽
 
 RESOURCE ID: avatar_f_hat_slowpoketailshirts_00_bundle_icon
 TEXT: 呆呆獸頭套
+
+RESOURCE ID: avatar_f_hat_snorlaxnightcap_00_bundle_icon
+TEXT: 卡比獸睡帽
 
 RESOURCE ID: avatar_f_hat_solgaleoitems_00_bundle_icon
 TEXT: 索爾迦雷歐頭套
@@ -2350,6 +2410,9 @@ TEXT: 星型短項鍊
 RESOURCE ID: avatar_f_pants_6thanniversary_00_bundle_icon
 TEXT: 6週年白西裝
 西裝褲
+
+RESOURCE ID: avatar_f_pants_7thanniversary_00_bundle_icon
+TEXT: 7週年長褲
 
 RESOURCE ID: avatar_f_pants_acetrainerbw_0_bundle_icon
 TEXT: 精英訓練家短裙
@@ -2544,6 +2607,9 @@ RESOURCE ID: avatar_f_shirt_6thanniversary_00_bundle_icon
 TEXT: 6週年白西裝
 上衣組合
 
+RESOURCE ID: avatar_f_shirt_7thanniversary_00_bundle_icon
+TEXT: 7週年上衣組合
+
 RESOURCE ID: avatar_f_shirt_acetrainerbw_0_bundle_icon
 TEXT: 精英訓練家上衣
 
@@ -2613,6 +2679,9 @@ TEXT: 牛仔外套
 RESOURCE ID: avatar_f_shirt_detectivepikachu_0_bundle_icon
 TEXT: 名偵探皮卡丘T恤
 
+RESOURCE ID: avatar_f_shirt_divingsuit_00_bundle_icon
+TEXT: 潛水衣組合
+
 RESOURCE ID: avatar_f_shirt_diwali2021_00_bundle_icon
 TEXT: 光之祭典T恤
 
@@ -2675,6 +2744,9 @@ TEXT: GO FEST 2020 T恤
 
 RESOURCE ID: avatar_f_shirt_gofest_2021_0_bundle_icon
 TEXT: GO Fest 2021 T恤
+
+RESOURCE ID: avatar_f_shirt_gofestglobal2023_00_bundle_icon
+TEXT: GO FEST 2023 T恤
 
 RESOURCE ID: avatar_f_shirt_goteamrocketarlo_00_bundle_icon
 TEXT: 亞洛組合
@@ -2939,6 +3011,9 @@ TEXT: 呆呆獸呆呆獸T恤
 RESOURCE ID: avatar_f_shirt_slowpoketailshirts_00_bundle_icon
 TEXT: 呆呆獸尾巴T恤
 
+RESOURCE ID: avatar_f_shirt_snorlaxonesie_00_bundle_icon
+TEXT: 卡比獸連身睡衣
+
 RESOURCE ID: avatar_f_shirt_spiritomb_0_bundle_icon
 TEXT: 花岩怪T恤
 
@@ -3149,6 +3224,9 @@ TEXT: 對戰少女鞋
 
 RESOURCE ID: avatar_f_shoes_bwn_00_bundle_icon
 TEXT: N風運動鞋
+
+RESOURCE ID: avatar_f_shoes_carbink_00_bundle_icon
+TEXT: 小碎鑽鞋
 
 RESOURCE ID: avatar_f_shoes_clay_00_bundle_icon
 TEXT: 菊老大鞋子
@@ -3609,6 +3687,9 @@ TEXT: Verizon口罩
 RESOURCE ID: avatar_m_glasses_3d_bundle_icon
 TEXT: 3D眼鏡
 
+RESOURCE ID: avatar_m_glasses_divingsuit_00_bundle_icon
+TEXT: Diver Goggles
+
 RESOURCE ID: avatar_m_glasses_empty_bundle_icon
 TEXT: 不戴眼鏡
 
@@ -4040,11 +4121,17 @@ TEXT: 勾魂眼護目鏡
 RESOURCE ID: avatar_m_hat_samsungsummer2020_0_bundle_icon
 TEXT: Samsung Galaxy紮染帽
 
+RESOURCE ID: avatar_m_hat_sandygasthat_00_bundle_icon
+TEXT: 沙丘娃帽
+
 RESOURCE ID: avatar_m_hat_shayminhat_00_bundle_icon
 TEXT: 謝米帽
 
 RESOURCE ID: avatar_m_hat_slowpoketailshirts_00_bundle_icon
 TEXT: 呆呆獸頭套
+
+RESOURCE ID: avatar_m_hat_snorlaxnightcap_00_bundle_icon
+TEXT: 卡比獸睡帽
 
 RESOURCE ID: avatar_m_hat_solgaleoitems_00_bundle_icon
 TEXT: 索爾迦雷歐頭套
@@ -4135,6 +4222,9 @@ TEXT: 超音蝠髮箍
 RESOURCE ID: avatar_m_pants_6thanniversary_00_bundle_icon
 TEXT: 6週年白西裝
 西裝褲
+
+RESOURCE ID: avatar_m_pants_7thanniversary_00_bundle_icon
+TEXT: 7週年長褲
 
 RESOURCE ID: avatar_m_pants_acetrainerbw_0_bundle_icon
 TEXT: 精英訓練家長褲
@@ -4332,6 +4422,9 @@ RESOURCE ID: avatar_m_shirt_6thanniversary_00_bundle_icon
 TEXT: 6週年白西裝
 上衣組合
 
+RESOURCE ID: avatar_m_shirt_7thanniversary_00_bundle_icon
+TEXT: 7週年上衣組合
+
 RESOURCE ID: avatar_m_shirt_acetrainerbw_0_bundle_icon
 TEXT: 精英訓練家上衣
 
@@ -4410,6 +4503,9 @@ TEXT: 牛仔外套
 RESOURCE ID: avatar_m_shirt_detectivepikachu_0_bundle_icon
 TEXT: 名偵探皮卡丘T恤
 
+RESOURCE ID: avatar_m_shirt_divingsuit_00_bundle_icon
+TEXT: 潛水衣組合
+
 RESOURCE ID: avatar_m_shirt_diwali2021_00_bundle_icon
 TEXT: 光之祭典T恤
 
@@ -4475,6 +4571,9 @@ TEXT: GO FEST 2020 T恤
 
 RESOURCE ID: avatar_m_shirt_gofest_2021_0_bundle_icon
 TEXT: GO Fest 2021 T恤
+
+RESOURCE ID: avatar_m_shirt_gofestglobal2023_00_bundle_icon
+TEXT: GO Fest 2023 T恤
 
 RESOURCE ID: avatar_m_shirt_goteamrocketarlo_00_bundle_icon
 TEXT: 亞洛組合
@@ -4745,6 +4844,9 @@ TEXT: 呆呆獸呆呆獸T恤
 RESOURCE ID: avatar_m_shirt_slowpoketailshirts_00_bundle_icon
 TEXT: 呆呆獸尾巴T恤
 
+RESOURCE ID: avatar_m_shirt_snorlaxonesie_00_bundle_icon
+TEXT: 卡比獸連身睡衣
+
 RESOURCE ID: avatar_m_shirt_spiritomb_0_bundle_icon
 TEXT: 花岩怪T恤
 
@@ -4949,6 +5051,9 @@ TEXT: 小剛鞋子
 
 RESOURCE ID: avatar_m_shoes_bwn_00_bundle_icon
 TEXT: N風運動鞋
+
+RESOURCE ID: avatar_m_shoes_carbink_00_bundle_icon
+TEXT: 小碎鑽鞋
 
 RESOURCE ID: avatar_m_shoes_clay_00_bundle_icon
 TEXT: 菊老大鞋子
@@ -5283,6 +5388,30 @@ TEXT: 完成「連續7天捕捉寶可夢」或「連續7天拜訪寶可補給站
 
 RESOURCE ID: badge_7_day_streaks_title
 TEXT: 鐵人三項運動員
+
+RESOURCE ID: badge_aa_2023_jeju_day_00_general
+TEXT: 2023年濟州島
+
+RESOURCE ID: badge_aa_2023_jeju_day_00_general_title
+TEXT: 飛翔皮卡丘計畫
+
+RESOURCE ID: badge_aa_2023_jeju_day_01_general
+TEXT: 2023年7月28日濟州島
+
+RESOURCE ID: badge_aa_2023_jeju_day_01_general_title
+TEXT: 飛翔皮卡丘計畫
+
+RESOURCE ID: badge_aa_2023_jeju_day_02_general
+TEXT: 2023年7月29日濟州島
+
+RESOURCE ID: badge_aa_2023_jeju_day_02_general_title
+TEXT: 飛翔皮卡丘計畫
+
+RESOURCE ID: badge_aa_2023_jeju_day_03_general
+TEXT: 2023年7月30日濟州島
+
+RESOURCE ID: badge_aa_2023_jeju_day_03_general_title
+TEXT: 飛翔皮卡丘計畫
 
 RESOURCE ID: badge_apac_partner_july_2018_1
 TEXT: 日本 2018年7月28日
@@ -6718,10 +6847,13 @@ RESOURCE ID: badge_max_level_friends_value_format
 TEXT: N0
 
 RESOURCE ID: badge_max_size_first_place_win
-TEXT: Win {0} PokéStop Showcases.
+TEXT: 在寶可補給站選秀會獲勝過{0}次！
+
+RESOURCE ID: badge_max_size_first_place_win_singular
+TEXT: 在寶可補給站選秀會獲勝過1次！
 
 RESOURCE ID: badge_max_size_first_place_win_title
-TEXT: Showcase Star
+TEXT: 選秀會之星
 
 RESOURCE ID: badge_mini_collection_singular
 TEXT: 完成收藏家挑戰
@@ -10618,6 +10750,9 @@ TEXT: Safari Zone Singapore 2022 參加者可參與活動後的GO對戰聯盟速
 RESOURCE ID: bonus_cd_move_alodude
 TEXT: 阿羅拉隆隆石進化成阿羅拉隆隆岩後，將能學會「滾動」。
 
+RESOURCE ID: bonus_cd_move_axew
+TEXT: 讓斧牙龍進化成雙斧戰龍後，牠將能學會特殊招式「廣域破壞」！
+
 RESOURCE ID: bonus_cd_move_chespin
 TEXT: 讓胖胖哈力進化成布里卡隆，牠就能學會特殊招式「瘋狂植物」！
 
@@ -10644,6 +10779,9 @@ TEXT: 讓地幔岩進化成龐岩怪後，牠將能學會特殊招式「流星�
 
 RESOURCE ID: bonus_cd_move_slowpoke
 TEXT: 讓呆呆獸或伽勒爾呆呆獸進化後，牠就能學會特殊招式「衝浪」！
+
+RESOURCE ID: bonus_cd_move_squirtle
+TEXT: 讓卡咪龜進化成水箭龜後，牠就能學會特殊招式「加農水炮」！
 
 RESOURCE ID: bonus_cd_move_starly
 TEXT: 讓姆克鳥進化成姆克鷹，牠就能學會一般招式「起風」
@@ -10674,6 +10812,12 @@ TEXT: 轉動指定區域內寶可補給站轉盤時可獲得活動貼圖
 
 RESOURCE ID: bonus_exclusive_souvenir
 TEXT: 夥伴有機會找到活動限定的紀念品！
+
+RESOURCE ID: bonus_farfetchd_costume_pikachu_photobomb
+TEXT: 穿著水藍色襯衫的皮卡丘（橘子）與大蔥鴨將在GO Snapshot中驚喜現身
+
+RESOURCE ID: bonus_farfetchd_kanto_spawn
+TEXT: 許多大蔥鴨將在四周出現！
 
 RESOURCE ID: bonus_finneon_o_clock
 TEXT: 每個小時整點時，螢光魚將會大量出現！
@@ -10722,6 +10866,9 @@ TEXT: 在豐緣地區被發現的寶可夢更頻繁地出現
 
 RESOURCE ID: bonus_implicit_social_alodude
 TEXT: 用誘餌模組捕捉的寶可夢超過特定數量後的30分鐘內，在該誘餌模組附近捕捉寶可夢將可獲得4倍星星沙子獎勵。
+
+RESOURCE ID: bonus_implicit_social_axew_raid
+TEXT: 如果訓練家們同心協力在團體戰中擊敗斧牙龍，接下來的30分鐘裡將會有大量牙牙在附近出現。
 
 RESOURCE ID: bonus_implicit_social_chespin_raid
 TEXT: 如果訓練家們同心協力在團體戰中擊敗胖胖哈力，接下來的30分鐘裡將會有大量哈力栗在附近出現。
@@ -10792,6 +10939,12 @@ TEXT: 使用薰香，就有機會吸引到戴著豐緣帽子的皮卡丘或是�
 RESOURCE ID: bonus_incense_hoenn_unown
 TEXT: 使用薰香，就有機會吸引到未知圖騰
 
+RESOURCE ID: bonus_jeju_balloon_pikachu
+TEXT: 橘色氣球飛翔皮卡丘將在四周出現！
+
+RESOURCE ID: bonus_jeju_costume_pikachu
+TEXT: 穿著水藍色襯衫的皮卡丘（橘子）將在四周出現！
+
 RESOURCE ID: bonus_lure_3hr_stufful
 TEXT: 誘餌模組效果延長為3小時
 
@@ -10799,13 +10952,16 @@ RESOURCE ID: bonus_magnetic_lure_6_hr
 TEXT: 磁鐵誘餌模組效果延長為6小時
 
 RESOURCE ID: bonus_mega_latias_latios
-TEXT: 超級拉帝亞斯及超級拉帝歐斯團體戰將在附近登場！
+TEXT: 超級拉帝亞斯及超級拉帝歐斯將在團體戰登場！
 
 RESOURCE ID: bonus_milestone_rewards_title
 TEXT: 加成里程碑獎勵
 
 RESOURCE ID: bonus_not_active
 TEXT: 獎勵尚未解鎖
+
+RESOURCE ID: bonus_pelipper_delibird_pikachu_photobomb
+TEXT: 皮卡丘、大嘴鷗或信使鳥每天都會在GO Snapshot驚喜現身1次
 
 RESOURCE ID: bonus_primal_rumblings_absol
 TEXT: 正午時阿勃梭魯將會大量出現5分鐘
@@ -11474,7 +11630,7 @@ RESOURCE ID: buddy_giftbox_increase
 TEXT: 夥伴會更常找到禮物
 
 RESOURCE ID: buddy_hearts_label
-TEXT: Buddy Hearts
+TEXT: 夥伴的心心
 
 RESOURCE ID: buddy_history
 TEXT: 歷代夥伴
@@ -12212,14 +12368,23 @@ TEXT: 特別禮盒
 RESOURCE ID: bundle_retweet_reward
 TEXT: 轉推禮盒
 
+RESOURCE ID: button_confirm_pair
+TEXT: 是，我要配對
+
+RESOURCE ID: button_confirm_unpair
+TEXT: 是，我要解除配對
+
 RESOURCE ID: button_throw_disabled
-TEXT: You ran out of your selected ball type. Button-throw is now disabled.
+TEXT: 選擇的球用光了，已停止按按鈕投球。
 
 RESOURCE ID: calavera_bonus_tr_title
 TEXT: Cráneo Monumental: 額外限時調查
 
 RESOURCE ID: campfire_invite_notification
 TEXT: Campfire：收到來自{0}的邀請！
+
+RESOURCE ID: campfire_raid_ready_notification
+TEXT: 已找到團體戰小組。請儘速（1分鐘內）參加！
 
 RESOURCE ID: cancelled_ex_raid_items_prompt
 TEXT: 請收下這些道具，繼續訓練寶可夢們吧！
@@ -13671,6 +13836,15 @@ TEXT: 旋轉寶可補給站轉盤後，即可獲得收集AR Mapping資訊的課�
 RESOURCE ID: collect_ar_data_title
 TEXT: 收集AR資料
 
+RESOURCE ID: collection_aa2023_jeju_day_01
+TEXT: 飛翔皮卡丘計畫收藏家挑戰
+
+RESOURCE ID: collection_aa2023_jeju_day_02
+TEXT: 飛翔皮卡丘計畫收藏家挑戰
+
+RESOURCE ID: collection_aa2023_jeju_day_03
+TEXT: 飛翔皮卡丘計畫收藏家挑戰
+
 RESOURCE ID: collection_challenge_ar_safari_bidoof
 TEXT: 交換大挑戰：大牙狸
 
@@ -14445,6 +14619,9 @@ TEXT: 凱西社群日
 RESOURCE ID: community_day_alodude_event_name
 TEXT: 社群日：阿羅拉小拳石
 
+RESOURCE ID: community_day_axew_event_name
+TEXT: 社群日：牙牙
+
 RESOURCE ID: community_day_bulbasaur_event_name
 TEXT: 經典社群日：妙蛙種子
 
@@ -14565,6 +14742,9 @@ TEXT: 社群日：藤藤蛇
 RESOURCE ID: community_day_spheal_event_name
 TEXT: 社群日：海豹球
 
+RESOURCE ID: community_day_squirtle_event_name
+TEXT: 經典社群日：傑尼龜
+
 RESOURCE ID: community_day_starly_event_name
 TEXT: 社群日：姆克兒
 
@@ -14600,52 +14780,52 @@ TEXT: 伽勒爾蛇紋熊
 捕捉大挑戰
 
 RESOURCE ID: companion_device_enable_modal_failure_message
-TEXT: Try again through settings or the Companion Device icon.
+TEXT: 可從設定畫面或外部裝置圖示開啟
 
 RESOURCE ID: companion_device_enable_modal_failure_title
-TEXT: Companion Device not enabled
+TEXT: 未開啟使用外部裝置
 
 RESOURCE ID: companion_device_enable_modal_message
-TEXT: Let your Companion Device count your steps and help you find nearby Pokémon and spin nearby PokéStops!
+TEXT: 讓外部裝置幫你計算步數、尋找附近的寶可夢和旋轉寶可補給站的轉盤！
 
 RESOURCE ID: companion_device_enable_modal_success_message
-TEXT: Success! You can now start catching Pokémon and spinning PokéStops.
+TEXT: 連線成功！可以開始捕捉寶可夢和旋轉寶可補給站的轉盤了！
 
 RESOURCE ID: companion_device_enable_modal_success_title
-TEXT: Companion Device enabled!
+TEXT: 可以使用外部裝置了！
 
 RESOURCE ID: companion_device_enable_modal_title
-TEXT: Enable Companion Device
+TEXT: 使用外部裝置
 
 RESOURCE ID: companion_device_tips1_a
-TEXT: When a Pokémon is nearby, your device will vibrate and flash lights. If you see:
+TEXT: 當寶可夢出現在附近時，裝置將會震動並亮燈。
 
 RESOURCE ID: companion_device_tips1_b
-TEXT: Green lights, you have caught this type of Pokémon before.
+TEXT: 亮起綠燈時，代表是曾經捕捉過的寶可夢。
 
 RESOURCE ID: companion_device_tips1_c
-TEXT: Yellow lights, you have not caught this type of Pokémon before.
+TEXT: 亮起黃燈時，代表是尚未捕捉過的寶可夢。
 
 RESOURCE ID: companion_device_tips2_a
-TEXT: You can press the center button on your device to throw a Poké Ball and try to catch the Pokémon. If you see:
+TEXT: 按主要按鈕就能投出精靈球。
 
 RESOURCE ID: companion_device_tips2_b
-TEXT: Multicolored lights, you caught the Pokémon.
+TEXT: 成功捕獲時，會亮起七彩燈。
 
 RESOURCE ID: companion_device_tips2_c
-TEXT: Red light, the Pokémon fled or your inventory was full.
+TEXT: 當寶可夢逃走或盒子沒有空間時，將會亮起紅燈。
 
 RESOURCE ID: companion_device_tips3_a
-TEXT: When you are in range of a PokéStop, you device will vibrate and flash blue lights.
+TEXT: 當你靠近寶可補給站時，裝置將會震動，並亮起藍燈
 
 RESOURCE ID: companion_device_tips4_a
-TEXT: You can press the center button on your device to try to spin the PokéStop. If you see:
+TEXT: 只要按主要按鈕，就能旋轉寶可補給站。
 
 RESOURCE ID: companion_device_tips4_b
-TEXT: Multicolored lights, you retrieved items from the PokéStop.
+TEXT: 成功得到道具時，會亮起七彩燈。
 
 RESOURCE ID: companion_device_tips4_c
-TEXT: Red or white light, the PokéStop was out-of-range or your Item Bag was full.
+TEXT: 當你超出範圍或包包沒有空間時，裝置會亮起紅燈或白燈。
 
 RESOURCE ID: complete_geotarget_quest
 TEXT: 完成1個AR Mapping課題
@@ -14681,7 +14861,7 @@ RESOURCE ID: consume_combat_pass_warning_title
 TEXT: 要使用{0}嗎？
 
 RESOURCE ID: contest_badge_description
-TEXT: 獲勝過寶可補給站選秀會{0}次！
+TEXT: 在寶可補給站選秀會獲勝過{0}次！
 
 RESOURCE ID: contest_badge_header
 TEXT: 選秀會之星
@@ -14693,10 +14873,10 @@ RESOURCE ID: contest_badge_won_header
 TEXT: 選秀會獲勝紀錄
 
 RESOURCE ID: contest_category_size_max
-TEXT: 最巨大的{0}
+TEXT: 寶可夢比大小
 
 RESOURCE ID: contest_category_size_max_reward_label
-TEXT: Biggest {0}
+TEXT: 最巨大的{0}
 
 RESOURCE ID: contest_current_leader
 TEXT: {0} & {1}
@@ -14705,10 +14885,10 @@ RESOURCE ID: contest_current_leader_header
 TEXT: 當前榜首
 
 RESOURCE ID: contest_enter_error_already_entered
-TEXT: You already have a Pokémon entered in this PokéStop Showcase.
+TEXT: 已經在參加這個寶可補給站的選秀會了
 
 RESOURCE ID: contest_enter_error_mega
-TEXT: Mega-Evolved Pokémon cannot enter PokéStop Showcases. 
+TEXT: 超級進化後的寶可夢無法參加選秀會
 
 RESOURCE ID: contest_enter_error_recent_win
 TEXT: 這隻寶可夢最近曾在選秀會獲勝。
@@ -14785,6 +14965,9 @@ TEXT: {0}
 RESOURCE ID: contest_leaderboard_trainer_subheader
 TEXT: & {0}
 
+RESOURCE ID: contest_max_size_description
+TEXT: 比比看誰的寶可夢最大隻！
+
 RESOURCE ID: contest_open_contest
 TEXT: 選秀會
 
@@ -14792,13 +14975,13 @@ RESOURCE ID: contest_points_value_suffix
 TEXT: {0}pt
 
 RESOURCE ID: contest_rank
-TEXT: {0}級
+TEXT: 第{0}名
 
 RESOURCE ID: contest_results_claim_reward
 TEXT: 領取獎勵！
 
 RESOURCE ID: contest_results_pokestop_button
-TEXT: Showcase Results
+TEXT: 選秀會結果
 
 RESOURCE ID: contest_results_rewards
 TEXT: 寶可補給站選秀會評審結束！
@@ -14827,7 +15010,7 @@ RESOURCE ID: contest_switch_pokemon
 TEXT: 替換寶可夢
 
 RESOURCE ID: contest_switch_pokemon_not_entered
-TEXT: Enter Different Pokémon
+TEXT: 請派出其他寶可夢
 
 RESOURCE ID: contest_time_ended_at
 TEXT: 已於{0}結束
@@ -14857,7 +15040,7 @@ RESOURCE ID: contest_today_view_no_entries
 TEXT: 讓寶可夢參加寶可補給站選秀會吧！
 
 RESOURCE ID: contest_today_view_title
-TEXT: 參加了選秀會的寶可夢
+TEXT: 正在參加選秀會的寶可夢
 
 RESOURCE ID: contest_trainers_label
 TEXT: 參賽人數
@@ -14922,6 +15105,9 @@ TEXT: 特殊寶可夢將在地圖上出現
 RESOURCE ID: crackling_voltage_event_name
 TEXT: 劈啪伏特
 
+RESOURCE ID: create_new_route_button
+TEXT: 規劃新的路線
+
 RESOURCE ID: create_pokemon_tag_error
 TEXT: 無法建立標籤
 
@@ -14930,6 +15116,9 @@ TEXT: 建立標籤
 
 RESOURCE ID: created_by_label
 TEXT: Created By
+
+RESOURCE ID: created_routes_title
+TEXT: 已規劃的路線
 
 RESOURCE ID: dai_duration_double
 TEXT: 散步小薰香效果持續時間加倍
@@ -15003,8 +15192,35 @@ TEXT: 記得明天再回來看看喔
 RESOURCE ID: daily_research_title
 TEXT: 每日課題
 
+RESOURCE ID: dark_flames_dark_title
+TEXT: 暗黑火焰：惡屬性寶可夢限時調查
+
+RESOURCE ID: dark_flames_event_title
+TEXT: 暗黑火焰
+
+RESOURCE ID: dark_flames_fire_title
+TEXT: 暗黑火焰：火屬性寶可夢限時調查
+
+RESOURCE ID: dark_flames_sr_page0
+TEXT: 暗黑火焰 (1/4)
+
+RESOURCE ID: dark_flames_sr_page1
+TEXT: 暗黑火焰 (2/4)
+
+RESOURCE ID: dark_flames_sr_page2
+TEXT: 暗黑火焰 (3/4)
+
+RESOURCE ID: dark_flames_sr_page3
+TEXT: 暗黑火焰 (4/4)
+
 RESOURCE ID: dark_type_event
 TEXT: 急速上昇：惡屬性
+
+RESOURCE ID: darkflames_june23_dark_collection_challenge
+TEXT: 收藏家挑戰：惡屬性寶可夢
+
+RESOURCE ID: darkflames_june23_fire_collection_challenge
+TEXT: 收藏家挑戰：火屬性寶可夢
 
 RESOURCE ID: date_format
 TEXT: yyyy年 M月 d日
@@ -15283,7 +15499,7 @@ RESOURCE ID: disconnecting_go_plus
 TEXT: 正在關閉與Pokémon GO Plus的連線
 
 RESOURCE ID: disconnecting_go_plus_plus
-TEXT: 與Pokémon GO Plus+的連線已超時
+TEXT: 與Pokémon GO Plus +的連線已超時
 
 RESOURCE ID: disconnecting_pokeball_plus
 TEXT: 與精靈球Plus的連線已超時
@@ -15895,6 +16111,9 @@ TEXT: 此訓練家已向你提出朋友申請
 RESOURCE ID: error_invite_already_sent
 TEXT: 已向此訓練家傳送朋友申請
 
+RESOURCE ID: error_invite_when_ready
+TEXT: 準備完成後將無法邀請朋友
+
 RESOURCE ID: error_join_lobby
 TEXT: 參加團體戰時出現錯誤
 
@@ -15906,6 +16125,9 @@ TEXT: 朋友申請數已達上限
 
 RESOURCE ID: error_memento_type_not_enabled
 TEXT: 明信片收納冊錯誤
+
+RESOURCE ID: error_need_more_player_to_ready
+TEXT: 還需一位訓練家參加
 
 RESOURCE ID: error_no_available_lobbies
 TEXT: 無法以此代碼搜尋到小組
@@ -16121,7 +16343,7 @@ RESOURCE ID: event_fashion_week_sept21_npc07_victory_quote
 TEXT: 嘿嘿，我就是經典！
 
 RESOURCE ID: event_friendship_2020
-TEXT: 12 Days of Friendship
+TEXT: 友情12天
 
 RESOURCE ID: event_gotour_2021_npc00_combat_quote__female_speaker
 TEXT: 我的打扮不錯吧？
@@ -17002,6 +17224,12 @@ TEXT: 在 {1} 得到 {0} 個道具
 RESOURCE ID: external_reward_text
 TEXT: 追加 {0} 個寶可幣
 
+RESOURCE ID: extra_guranteed_xl_candy_raids
+TEXT: 參加團體戰時一定可獲得1個額外的糖果XL
+
+RESOURCE ID: extra_three_candy_raids
+TEXT: 在團體戰捕捉到頭目寶可夢時，將可多獲得3顆糖果
+
 RESOURCE ID: extreme_weather_warning_title
 TEXT: 極端天氣
 
@@ -17159,6 +17387,9 @@ TEXT: 菊老大姿勢
 RESOURCE ID: f_avatar_poses_bundle_pose_51
 TEXT: 英雄崛起
 姿勢
+
+RESOURCE ID: f_avatar_poses_bundle_pose_52
+TEXT: 衝浪手姿勢
 
 RESOURCE ID: f_avatar_poses_empty_bundle_pose_empty
 TEXT: 閒著
@@ -17374,6 +17605,9 @@ TEXT: 糖果XL
 
 RESOURCE ID: filter_key_costume
 TEXT: 特殊
+
+RESOURCE ID: filter_key_count
+TEXT: 數量
 
 RESOURCE ID: filter_key_defender
 TEXT: 防禦者
@@ -18590,7 +18824,7 @@ RESOURCE ID: friends_list_level_format
 TEXT: Lv {0}
 
 RESOURCE ID: friendship_bonus_increase
-TEXT: Friendship levels increase more quickly
+TEXT: 友誼等級提升速度加快
 
 RESOURCE ID: friendship_day_event_name
 TEXT: 友誼日
@@ -19001,6 +19235,49 @@ TEXT: 一張可以獲得哈力栗社群日特殊調查的入場券。不論你�
 RESOURCE ID: general1.ticket.2_jan2023_title
 TEXT: 堅尖刺栗
 
+RESOURCE ID: general1.ticket.2_julycd2023_description
+TEXT: 不論你身處世界上的何處，都可以用這張入場券在當地時間2023年7月30日14:00～17:00領取蚊香蝌蚪社群日的特殊調查。
+
+
+完成特殊調查的課題後，蚊香蝌蚪及其進化形態出現的機率將會提高，並可獲得神奇糖果、高級球等道具。
+
+
+詳情請至遊戲快訊中確認。
+
+
+請務必在活動結束前完成所有課題，以領取所有獎勵。
+
+RESOURCE ID: general1.ticket.2_julycd2023_title
+TEXT: 蚊香蝌蚪社群日入場券
+
+RESOURCE ID: general1.ticket.2_julycdc2023_description
+TEXT: 不論你身處世界上的何處，都可以用這張入場券在當地時間2023年7月9日14:00～17:00領取經典社群日：傑尼龜的特殊調查。
+
+
+
+完成特殊調查的課題後，傑尼龜及其進化形態出現的機率將會提高，並可獲得神奇糖果、高級球等道具。
+
+
+
+詳情請至遊戲快訊中確認。
+
+<b>請務必在活動結束前完成所有課題，以領取所有獎勵。</b>
+
+RESOURCE ID: general1.ticket.2_julycdc2023_title
+TEXT: 傑尼龜經典社群日入場券
+
+RESOURCE ID: general1.ticket.2_junecd2023_description
+TEXT: 不論你身處世界上的何處，都可以用這張入場券在當地時間2023年6月10日14:00～17:00領取牙牙社群日的特殊調查。
+
+完成特殊調查的課題後，牙牙及其進化形態出現的機率將會提高，並可獲得神奇糖果、高級球等道具。
+
+詳情請至遊戲快訊中確認。
+
+<b>請務必在活動結束前完成所有課題，以領取所有獎勵。</b>
+
+RESOURCE ID: general1.ticket.2_junecd2023_title
+TEXT: 保持銳利
+
 RESOURCE ID: general1.ticket.2_larvitarcdc1_description
 TEXT: 一張可以獲得幼基拉斯經典社群日特殊調查的入場券。不論你身處世界何處，你都可以使用這張入場券參加活動。詳情請至遊戲內快訊確認。
 
@@ -19198,10 +19475,97 @@ TEXT: 不論你身處世界的何處，你都可以使用這張入場券在當�
 RESOURCE ID: general1.ticket.5_title
 TEXT: Pokémon GO Fest 2021 入場券
 
+RESOURCE ID: general1.ticket.anniversary_bundle_description
+TEXT: 只要擁有這張入場券，就能在當地時間2023年7月12日20:00前領取7週年紀念的限時調查。
+
+完成本調查後，即可遇見戴著蛋糕帽的皮卡丘並獲得以下獎勵：
+
+- 77777 XP
+
+- 1個孵化器
+
+- 1個超級孵化器
+
+- 1張特級團體戰入場券
+
+- 1個幸運蛋
+
+- 1個火箭隊雷達
+
+- 1個星星碎片
+
+- 1個薰香
+
+本調查的入場券可在當地時間2023年7月11日20:00前於遊戲內商店購買。
+
+
+<b>請務必在限時調查結束前完成課題，以領取所有獎勵。</b>
+
+RESOURCE ID: general1.ticket.anniversary_bundle_title
+TEXT: 7週年紀念限時調查入場券
+
+RESOURCE ID: general1.ticket.beachweek2023_description
+TEXT: 只要擁有這張入場券，不論你身在何處，都能在2023年6月6日10:00～2023年6月12日20:00領取限時調查。
+
+完成限時調查的課題後，即可與沙丘娃與鐵臂槍蝦相遇，並獲得下列獎勵：
+
+衝浪手姿勢、XP、星星沙子、精靈球等
+
+請注意：限時調查的入場券有使用期限。所有限時調查的課題與獎勵將會在2023年6月12日20:00消失。詳情請至遊戲內快訊確認。
+
+<b>請務必在活動結束前完成課題，以領取所有獎勵。</b>
+
+RESOURCE ID: general1.ticket.beachweek2023_title
+TEXT: 潑水節：沙灘週限時調查入場券
+
+RESOURCE ID: general1.ticket.gbweeken_bundle_description
+TEXT: 只要擁有這張入場券，都能在當地時間2023年7月2日23:59前領取GO對戰日：星星沙子的限時調查。
+
+本限時調查包含了在GO對戰聯盟對戰50次等以對戰為主題的課題。
+
+完成限時調查的課題後，即可獲得下列獎勵：
+
+- 30000星星沙子
+
+- 1個星星碎片
+
+- 3顆神奇糖果
+
+- 3顆神奇糖果XL（訓練家等級31以上）
+
+本限時調查可在當地時間2023年7月2日23:59前於遊戲內商店購買。
+
+<b>請務必在限時調查結束前完成課題，以領取所有獎勵。</b>
+
+RESOURCE ID: general1.ticket.gbweekend_bundle_title
+TEXT: GO對戰日：星星沙子限時調查
+
 RESOURCE ID: general1.ticket.gofest2023_description
 TEXT: 不論你身處世界的何處，你都可以使用這張入場券在當地時間2023年8月26日～27日參加遊戲裡的「Pokémon GO Fest 2023：全球」。詳情請至遊戲快訊確認。
 
 請務必在上述活動時間內完成活動指定的課題，以取得活動獎勵。
+
+RESOURCE ID: general1.ticket.gofest2023_descriptioncarbinktr
+TEXT: 不論你身在世界上的任何地方，你都可以使用這張入場券在當地時間2023年8月26日～8月27日於遊戲內領取特殊調查Pokémon GO Fest 2023：全球。
+
+完成此調查後即可遇見幻之寶可夢蒂安希。
+
+只要在當地時間2023年7月5日23:59前購買此入場券，即可獲得能遇見小碎鑽的限時調查。在遇見蒂安希前，先把握機會去遇見小碎鑽吧！
+
+詳情請至遊戲快訊確認。
+
+
+<b>請務必在活動時間內完成特殊調查，以獲得所有獎勵。</b>
+
+RESOURCE ID: general1.ticket.gofest2023_descriptiondiancieonly
+TEXT: 不論你身處世界的何處，你都可以使用這張入場券在當地時間2023年8月26日～27日於遊戲裡領取特殊調查Pokémon GO Fest 2023：全球。
+
+完成此調查後即可遇見幻之寶可夢蒂安希。
+
+詳情請至遊戲快訊確認。
+
+
+<b>務必在活動時間內完成特殊調查，以獲得所有獎勵。</b>
 
 RESOURCE ID: general1.ticket.gofest2023_title
 TEXT: Pokémon GO Fest 2023：全球入場券
@@ -19283,6 +19647,48 @@ TEXT: 無論你身在何處，都可以用這張入場券來領取特殊調查�
 RESOURCE ID: general1.ticket.keldeo_title
 TEXT: 奇幻幼馬入場券
 
+RESOURCE ID: general1.ticket.masterwork_sm_description
+TEXT: 只要擁有這張入場券，就能領取可遇見稀有的夢幻的長期調查。
+
+完成本調查後可獲得以下獎勵：
+
+- 異色夢幻T恤的換裝道具
+
+- 18018 XP
+
+- 11550星星沙子
+
+- 3個神奇糖果
+
+- 1個寶芬
+
+- 1個薰香
+
+- 102個高級球
+
+- 20個夢幻糖果
+
+本調查的入場券可在當地時間2023年7月12日20:00前於遊戲內商店購買。
+
+購買後需在當地時間2023年7月6日10:00～2023年7月12日20:00登入遊戲，以領取本調查。
+
+
+購買本調查，或曾在其他活動領取過本調查的訓練家，還可適用以下的7週年紀念活動獎勵：
+
+- 薰香時間加倍
+
+- 散步小薰香時間加倍
+
+- 誘餌模組時間加倍
+
+本長期調查不能買來送給朋友。
+
+
+<b>請務必在長期調查結束前完成課題，以領取所有獎勵。</b>
+
+RESOURCE ID: general1.ticket.masterwork_sm_title
+TEXT: #151長期調查入場券
+
 RESOURCE ID: general1.ticket.megahoenn_description
 TEXT: 只要擁有這張入場券，無論你身在世界何處，都能在當地時間2022年12月3日14:00～22:00領取下列獎勵：
 
@@ -19319,6 +19725,20 @@ TEXT: 不論你身在世界上的任何地方，都能使用這張入場券來�
 
 RESOURCE ID: general1.ticket.s10timed_title
 TEXT: 博士的衣櫥
+
+RESOURCE ID: general1.ticket_cosmog2023_description
+TEXT: 不論你身處世界的何處，你都可以用這張入場券在當地時間2023年6月16日10:00～2023年6月25日20:00領取「閃耀星雲」的額外特殊調查。
+
+完成特殊調查的課題後，即可遇見科斯莫古、伽勒爾呆呆獸、寶石海星、金屬怪以及好啦魷，並可獲得星星沙子、高級球等道具。
+
+
+詳情請至遊戲快訊中確認。
+
+
+<b>請務必在活動結束前完成所有課題，以領取所有獎勵。</b>
+
+RESOURCE ID: general1.ticket_cosmog2023_title
+TEXT: 閃耀星雲
 
 RESOURCE ID: general_1_day
 TEXT: 1天
@@ -24564,6 +24984,21 @@ TEXT: 升級
 RESOURCE ID: iap_item_unavailable
 TEXT: 此商品已下架
 
+RESOURCE ID: iap_sale_days
+TEXT: {0}天
+
+RESOURCE ID: iap_sale_days_left
+TEXT: 還剩{0}天
+
+RESOURCE ID: iap_sale_discount
+TEXT: {0}% OFF
+
+RESOURCE ID: iap_sale_ends_today
+TEXT: 今天結束
+
+RESOURCE ID: iap_sale_time_left_label
+TEXT: 剩餘時間：
+
 RESOURCE ID: ice_type_event
 TEXT: 急速上昇：冰屬性
 
@@ -25048,10 +25483,13 @@ RESOURCE ID: item_event_ticket_pink_bulbt_details
 TEXT: 入場券將會自動啟用，不論你在何處都能在當地時間2022年1月22日活動時間內領取特殊調查。
 
 RESOURCE ID: item_event_ticket_pink_desc
-TEXT: 只要擁有這張入場券，不論你身處世界上的何處，都能在當地時間2023年6月3日14:00～17:00獲得金色調查日的限時調查。
+TEXT: 無論你身處世界的何處，都可以用這張入場券來領取經典社群日：傑尼龜的特殊調查。
 
 RESOURCE ID: item_event_ticket_pink_desc_alodude
 TEXT: 只要擁有這張入場券，不論你身在何處，都能在當地時間5月21日11:00～14:00獲得特殊調查的課題。
+
+RESOURCE ID: item_event_ticket_pink_desc_axew
+TEXT: 不論你身處世界上的何處，都可以用這張入場券來領取牙牙社群日的特殊調查。
 
 RESOURCE ID: item_event_ticket_pink_desc_back
 TEXT: 只要擁有這張入場券，不論你身在何處，都能在當地時間2022年11月5日14:00～17:00獲得特殊調查的課題。
@@ -25065,8 +25503,14 @@ TEXT: 不論你身處世界上的何處，都可以用這張入場券來領取�
 RESOURCE ID: item_event_ticket_pink_desc_gbd
 TEXT: 不論你身處世界上的何處，都可以用這張入場券來領取限時調查「GO對戰日：星星沙子」。
 
+RESOURCE ID: item_event_ticket_pink_desc_gold
+TEXT: 只要擁有這張入場券，不論你身處世界上的何處，都能在當地時間2023年6月3日14:00～17:00獲得金色調查日的限時調查。
+
 RESOURCE ID: item_event_ticket_pink_desc_mrmime
 TEXT: 只要擁有這張入場券，不論你在何處都能在當地時間2020年12月19日10:00～2020年12月20日20:00挑戰特殊調查。
+
+RESOURCE ID: item_event_ticket_pink_desc_poliwag
+TEXT: 只要擁有這張入場券，不論你身在何處，都能在當地時間2023年7月30日14:00～17:00獲得特殊調查的課題。
 
 RESOURCE ID: item_event_ticket_pink_desc_swinub
 TEXT: 無論你身處世界的何處，都可以用這張入場券來領取經典社群日：小山豬的特殊調查。
@@ -25075,7 +25519,10 @@ RESOURCE ID: item_event_ticket_pink_desc_togetic
 TEXT: 只要擁有這張入場券，不論你身在何處，都能在當地時間2023年4月15日14:00～17:00獲得特殊調查的課題。
 
 RESOURCE ID: item_event_ticket_pink_details
-TEXT: 入場券將會自動啟用，不論你身處世界上的何處，都能在當地時間2023年6月3日14:00～17:00領取金色調查日的限時調查。
+TEXT: 入場券將會自動啟用，不論你身處世界上的何處，都能在當地時間2023年7月9日14:00～17:00領取經典社群日：傑尼龜的特殊調查。
+
+RESOURCE ID: item_event_ticket_pink_details_axew
+TEXT: 入場券將會自動啟用，不論你身處世界上的何處，都能在當地時間2023年6月10日14:00～17:00領取牙牙社群日的特殊調查。
 
 RESOURCE ID: item_event_ticket_pink_details_back
 TEXT: 入場券將會自動啟動。不論你身在何處，都可以在當地時間2022年11月5日的活動時間內領取特殊調查課題。
@@ -25089,8 +25536,14 @@ TEXT: 入場券將會自動啟用，不論你身處世界上的何處，都能�
 RESOURCE ID: item_event_ticket_pink_details_gbd
 TEXT: 入場券將會自動啟用，不論你身處世界上的何處，都能在當地時間2023年5月14日0:00～23:59領取限時調查「GO對戰日：星星沙子」。
 
+RESOURCE ID: item_event_ticket_pink_details_gold
+TEXT: 入場券將會自動啟用，不論你身處世界上的何處，都能在當地時間2023年6月3日14:00～17:00領取金色調查日的限時調查。
+
 RESOURCE ID: item_event_ticket_pink_details_mrmime
 TEXT: 入場券將會自動啟用，不論你在何處都能在當地時間2020年12月19日10:00～2020年12月20日20:00領取「踢、踢、踢踏踢……」特殊調查。
+
+RESOURCE ID: item_event_ticket_pink_details_poliwag
+TEXT: 入場券將會自動啟用，不論你身處世界上的何處，都能在活動時間內領取蚊香蝌蚪社群日特殊調查。
 
 RESOURCE ID: item_event_ticket_pink_details_swinub
 TEXT: 入場券將會自動啟用，不論你身處世界的何處，都能在當地時間2023年4月29日14:00～17:00領取經典社群日：小山豬的特殊調查。
@@ -25182,6 +25635,15 @@ TEXT: 額外入場券
 RESOURCE ID: item_event_ticket_to_gift_desc
 TEXT: 由於購買入場券贈送給朋友時發生錯誤，未能將這張入場券送出去。你可以把它轉送給其他朋友，或是申請退費。
 
+RESOURCE ID: item_evergreen_ticket_desc
+TEXT: 入場券將會自動啟用，不論你身處世界上的何處，都能在當地時間2023年7月12日20:00前領取7週年紀念的限時調查。
+
+RESOURCE ID: item_evergreen_ticket_details
+TEXT: 入場券將會自動啟用，只要在當地時間2023年7月2日20:00前，都能領取7週年紀念的限時調查。
+
+RESOURCE ID: item_evergreen_ticket_name
+TEXT: 入場券
+
 RESOURCE ID: item_free_raid_ticket_desc
 TEXT: 參加團體戰所需的入場券。如果你手上沒有入場券，你每天都可以在道館獲得一張免費的入場券。
 
@@ -25213,10 +25675,22 @@ RESOURCE ID: item_giovanni_map_name
 TEXT: 超級火箭隊雷達
 
 RESOURCE ID: item_global_event_ticket_desc
+TEXT: 可領取限時調查「#151長期調查」的入場券。
+
+RESOURCE ID: item_global_event_ticket_desc_beachweek
+TEXT: 一張可領取限時調查「潑水節：沙灘週」的入場券。
+
+RESOURCE ID: item_global_event_ticket_desc_solstice
+TEXT: 一張可領取特殊調查「閃耀星雲」的入場券
+
+RESOURCE ID: item_global_event_ticket_desc_willow
 TEXT: 一張可在2023年3月1日~2023年6月30日期間內領取限時調查「博士的衣櫥」的入場券
 
 RESOURCE ID: item_global_event_ticket_details
-TEXT: 入場券將會自動啟動。不論你身在何處，都能在當地時間2023年3月1日～6月30日參與限時調查。
+TEXT: 入場券將會自動啟用，不論你身處世界上的何處，都能在當地時間2023年7月6日10:00領取#151長期調查。
+
+RESOURCE ID: item_global_event_ticket_details_beachweek
+TEXT: 入場券將會自動啟用，不論你身處世界上的何處，都能在當地時間2023年6月6日10:00～6月12日20:00領取潑水節：沙灘週的限時調查。
 
 RESOURCE ID: item_global_event_ticket_details_no_version_selected
 TEXT: 此入場券將會自動生效。入場券生效後，你將可以領取「Pokémon GO Tour: 豐緣地區」的特別獎勵。
@@ -25226,10 +25700,16 @@ TEXT: 此入場券將會自動生效。入場券生效後，你將可以領取�
 RESOURCE ID: item_global_event_ticket_details_no_version_selected_abridged
 TEXT: 入場券將會自動啟用，不論你在何處都能領取「Pokémon GO Tour: 豐緣地區」的特別獎勵！
 
+RESOURCE ID: item_global_event_ticket_details_solstice
+TEXT: 入場券將會自動啟用，不論你身處世界上的何處，都能在當地時間2023年6月16日10:00～6月25日20:00領取「閃耀星雲」特殊調查。
+
 RESOURCE ID: item_global_event_ticket_details_version_selected
 TEXT: 這張入場券將會自動啟用。你可以使用這張入場券來參加當地時間2022年2月26日的活動。
 
 你可以在個人檔案畫面的獎牌一覽中確認自己選擇的版本。
+
+RESOURCE ID: item_global_event_ticket_details_willow
+TEXT: 入場券將會自動啟動。不論你身在何處，都能在當地時間2023年3月1日～6月30日參與限時調查。
 
 RESOURCE ID: item_global_event_ticket_name
 TEXT: 入場券
@@ -25408,6 +25888,12 @@ TEXT: 一般招式學習器
 
 RESOURCE ID: item_move_reroll_no_other_moves
 TEXT: {0} 無法學會其他招式！
+
+RESOURCE ID: item_move_reroll_other_special_attack_a_desc
+TEXT: 可讓烈空坐學會畫龍點睛的石頭。
+
+RESOURCE ID: item_move_reroll_other_special_attack_a_name
+TEXT: 隕石
 
 RESOURCE ID: item_move_reroll_special_attack_desc
 TEXT: 招式學習器的一種，可以讓寶可夢學會新的特殊招式。
@@ -25694,6 +26180,12 @@ TEXT: 城都活動
 RESOURCE ID: journal_beluga_transfer_rewards
 TEXT: 將寶可夢傳送至GO Park，獲得 {0} 個道具！
 
+RESOURCE ID: journal_caught_dropped_item_plural
+TEXT: 捉到{0}時獲得了能量！
+
+RESOURCE ID: journal_caught_dropped_item_singular
+TEXT: 捉到{0}時獲得了能量！
+
 RESOURCE ID: journal_declined_ex_raid_ticket_from_friend
 TEXT: 拒絕了 {0} 的邀請
 
@@ -25719,7 +26211,7 @@ RESOURCE ID: journal_shared_ex_raid_ticket_with_friend
 TEXT: 邀請 {0} 一起參加VIP團體戰
 
 RESOURCE ID: journal_sleep_rewards
-TEXT: Received {0} items from tracking over {1} hours of sleep!
+TEXT: 睡眠時間超過{1}，獲得了{0}個道具！
 
 RESOURCE ID: journeyer_box_title
 TEXT: 旅人禮盒
@@ -25768,6 +26260,12 @@ TEXT: Pokémon TCG：傑尼龜收藏家挑戰2
 
 RESOURCE ID: jun22_tcg_event_name
 TEXT: 寶可夢集換式卡牌遊戲合作活動
+
+RESOURCE ID: jun23_sol_collection_challenge_moon
+TEXT: 日與夜收藏家挑戰：夜
+
+RESOURCE ID: jun23_sol_collection_challenge_sun
+TEXT: 日與夜收藏家挑戰：日
 
 RESOURCE ID: kalos_collection_name
 TEXT: 卡洛斯收藏家挑戰
@@ -28152,6 +28650,12 @@ TEXT: 幸運心願
 RESOURCE ID: load_tags_error
 TEXT: 無法載入標籤
 
+RESOURCE ID: lobby_ready_progress
+TEXT: {0}/{1} 準備完成
+
+RESOURCE ID: local_bonus_event_tag
+TEXT: 當地獎勵
+
 RESOURCE ID: location_card_tutorial_header
 TEXT: 紀念背卡
 
@@ -28549,6 +29053,9 @@ TEXT: 菊老大姿勢
 RESOURCE ID: m_avatar_poses_bundle_pose_51
 TEXT: 英雄崛起
 姿勢
+
+RESOURCE ID: m_avatar_poses_bundle_pose_52
+TEXT: 衝浪手姿勢
 
 RESOURCE ID: m_avatar_poses_empty_bundle_pose_empty
 TEXT: 閒著
@@ -29080,6 +29587,36 @@ TEXT: 阿羅拉阿羅拉
 RESOURCE ID: may23_candela_limited_research
 TEXT: 武勇英雄：限時調查
 
+RESOURCE ID: me_forget_move_key
+TEXT: {0}會忘記{1}
+
+RESOURCE ID: me_missing_move
+TEXT: 若要超級進化，需先學會{0}
+
+RESOURCE ID: me_missing_pkmn_item
+TEXT: 此招式需要有{0}才能學習
+
+RESOURCE ID: me_need_pkmn_item
+TEXT: 需有{0}
+
+RESOURCE ID: me_reroll_item_gui_prompt
+TEXT: 此招式需使用{0}才能學習
+
+RESOURCE ID: me_short_warn_move
+TEXT: 超級進化時所需招式
+
+RESOURCE ID: me_teach_move_long_key
+TEXT: 要讓 {0} 學會特殊招式{1}嗎？
+
+RESOURCE ID: me_teach_move_short_key
+TEXT: 要讓{0}學習{1}嗎？
+
+RESOURCE ID: me_teach_new_move
+TEXT: 讓牠學會{0}後，即可超級進化
+
+RESOURCE ID: me_warn_needed_move
+TEXT: 需有{0}才能超級進化
+
 RESOURCE ID: meet_and_greet_pikachu
 TEXT: 皮卡丘見面會
 
@@ -29379,9 +29916,9 @@ RESOURCE ID: mega_walking_progress
 TEXT: 步行進度
 
 RESOURCE ID: metadata_local
-TEXT: Built at 2023-06-20T18:32:53.796986
-at SHA 006d3e58d0d2186f6cfd78413a4ce5d249e5b57f
-Pipeline 1558052, job 18890599
+TEXT: Built at 2023-08-15T00:15:27.265305
+at SHA 3f2f70aab565420b77d89253c79305aeec9552f4
+Pipeline 1676897, job 20326100
 
 RESOURCE ID: mex_fighting_promo_title
 TEXT: 限時調查：格鬥屬性
@@ -29414,7 +29951,7 @@ RESOURCE ID: mex_promo_tr_path_c
 TEXT: 重量級：鐵掌力士
 
 RESOURCE ID: mex_promo_tr_path_c_desc
-TEXT: Choose this path for an encounter with the Arm Thrust Pokémon Hariyama, as well as Makuhita Candy, XP, and Stardust rewards.
+TEXT: 這個選項將能讓你遇見鐵掌力士，完成課題後將能獲得幕下力士的糖果、SP及星星沙子。
 
 RESOURCE ID: milestone_rewards_title
 TEXT: 里程碑獎勵
@@ -30487,6 +31024,9 @@ TEXT: 暗影潛襲
 RESOURCE ID: move_name_0372
 TEXT: 流星光束
 
+RESOURCE ID: move_name_0373
+TEXT: 飛水手裡劍
+
 RESOURCE ID: move_name_0374
 TEXT: 交錯閃電
 
@@ -30520,6 +31060,18 @@ TEXT: 水流裂破
 RESOURCE ID: move_name_0385
 TEXT: 樹葉
 
+RESOURCE ID: move_name_0386
+TEXT: 熔岩風暴
+
+RESOURCE ID: move_name_0387
+TEXT: 大地掌控
+
+RESOURCE ID: move_name_0388
+TEXT: 亞空裂斬
+
+RESOURCE ID: move_name_0389
+TEXT: 死亡之翼
+
 RESOURCE ID: move_reroll_confirm_desc
 TEXT: {0}會忘記{1}
 
@@ -30528,6 +31080,15 @@ TEXT: {0} 會忘記
 
 RESOURCE ID: move_reroll_success_message
 TEXT: {0} 學會新招式了！
+
+RESOURCE ID: mp_bonus_buff_desc_1
+TEXT: 在{0}超級進化的期間內，捕捉<b>{1}</b>屬性、<b>{2}</b>屬性和<b>{3}</b>屬性的寶可夢時將能獲得額外的糖果。
+
+RESOURCE ID: mp_bonus_buff_desc_2
+TEXT: 在{0}超級進化的期間內，捕捉<b>{1}</b>、<b>{2}</b>屬性和<b>{3}</b>屬性的寶可夢時將能獲得額外的糖果和XP，同時獲得糖果XL的機率也會提高。
+
+RESOURCE ID: mp_bonus_buff_desc_3
+TEXT: 在{0}超級進化的期間內，捕捉<b>{1}</b>、<b>{2}</b>屬性和<b>{3}</b>屬性的寶可夢時將能獲得額外的糖果和XP，同時獲得糖果XL的機率也會提高。
 
 RESOURCE ID: mrd_berry_easy
 TEXT: 泡沫栗鼠研究：捕捉寶可夢時使用3顆樹果來輔助
@@ -30996,6 +31557,9 @@ TEXT: 請再次將Nintendo Account連結至Pokémon GO。
 RESOURCE ID: no_cp_limit
 TEXT: 無上限
 
+RESOURCE ID: no_created_routes
+TEXT: 尚未規劃路線。
+
 RESOURCE ID: no_friend_score_description
 TEXT: 
 
@@ -31370,8 +31934,20 @@ TEXT: 連線至精靈球Plus
 RESOURCE ID: partner_research_generic
 TEXT: 合作夥伴特別調查：Sample
 
+RESOURCE ID: partner_research_ltd_amazon_gaming
+TEXT: 限定合作夥伴特別調查：Amazon Prime Gaming
+
+RESOURCE ID: partner_research_ltd_amazon_gaming_00
+TEXT: 限定合作夥伴特別調查：Amazon Prime Gaming (1/2)
+
+RESOURCE ID: partner_research_ltd_amazon_gaming_01
+TEXT: 限定合作夥伴特別調查：Amazon Prime Gaming (2/2)
+
 RESOURCE ID: party_creation_error_max_hit
 TEXT: 對戰小組已無空間
+
+RESOURCE ID: party_hat_pikachu_tr_title
+TEXT: 皮卡皮卡大冒險
 
 RESOURCE ID: passcode_log_received_badge
 TEXT: 以代碼 {0} 獲得了獎牌
@@ -31546,6 +32122,9 @@ TEXT: 凱西將在GO Snapshot中驚喜現身5次
 RESOURCE ID: photobomb_five_alodude
 TEXT: 阿羅拉小拳石將在GO Snapshot中驚喜現身5次
 
+RESOURCE ID: photobomb_five_axew
+TEXT: 牙牙將在GO Snapshot中驚喜現身5次
+
 RESOURCE ID: photobomb_five_bulbasaur
 TEXT: 妙蛙種子在GO Snapshot中驚喜現身5次
 
@@ -31638,6 +32217,9 @@ TEXT: 藤藤蛇將在GO Snapshot中驚喜現身5次
 
 RESOURCE ID: photobomb_five_spheal
 TEXT: 海豹球在GO Snapshot中驚喜現身5次
+
+RESOURCE ID: photobomb_five_squirtle
+TEXT: 傑尼龜將在GO Snapshot中驚喜現身5次
 
 RESOURCE ID: photobomb_five_starly
 TEXT: 姆克兒將在GO Snapshot中驚喜現身5次
@@ -42765,7 +43347,7 @@ RESOURCE ID: profile_category_medals
 TEXT: 獎牌
 
 RESOURCE ID: profile_category_sleep
-TEXT: SLEEP ACTIVITY
+TEXT: 睡眠活動
 
 RESOURCE ID: profile_category_stats
 TEXT: 狀態
@@ -42786,7 +43368,7 @@ RESOURCE ID: profile_no_gymbadges
 TEXT: 沒有任何道館徽章
 
 RESOURCE ID: profile_no_routemedals
-TEXT: You don't have any route medals!
+TEXT: 尚未持有路線徽章
 
 RESOURCE ID: profile_player_level
 TEXT: 等級
@@ -42967,6 +43549,15 @@ TEXT: 讓 {0} 隻凱西進化
 
 RESOURCE ID: quest_at_evolve_k
 TEXT: 讓 {0} 隻勇基拉進化
+
+RESOURCE ID: quest_axew_catch_b
+TEXT: 捕捉 {0} 隻牙牙
+
+RESOURCE ID: quest_axew_evolve_b
+TEXT: 讓{0}隻牙牙進化
+
+RESOURCE ID: quest_axew_snapshot_b
+TEXT: 為牙牙拍攝{0}張照片
 
 RESOURCE ID: quest_battle19_catch_fighting_easy
 TEXT: 捕捉 {0} 隻格鬥屬性的寶可夢
@@ -43598,6 +44189,9 @@ TEXT: 捕捉 {0} 隻格鬥屬性的寶可夢
 RESOURCE ID: quest_catch_type_fighting_singular
 TEXT: 捕捉1隻格鬥屬性的寶可夢
 
+RESOURCE ID: quest_catch_type_fire_dark_plural_unique
+TEXT: 捕捉 {0} 隻火屬性或惡屬性的寶可夢
+
 RESOURCE ID: quest_catch_type_fire_plural
 TEXT: 捕捉 {0} 隻火屬性的寶可夢
 
@@ -43612,6 +44206,9 @@ TEXT: 捕捉 {0} 種飛行屬性的寶可夢
 
 RESOURCE ID: quest_catch_type_flying_singular
 TEXT: 捕捉1隻飛行屬性的寶可夢
+
+RESOURCE ID: quest_catch_type_ghost_dark_plural
+TEXT: 捕捉 {0} 隻幽靈屬性或惡屬性的寶可夢
 
 RESOURCE ID: quest_catch_type_ghost_plural
 TEXT: 捕捉 {0} 隻幽靈屬性的寶可夢
@@ -45845,6 +46442,9 @@ TEXT: 讓 {0} 隻小箭雀進化
 RESOURCE ID: quest_flett_evolve_s1
 TEXT: 讓 {0} 隻火箭雀進化
 
+RESOURCE ID: quest_fraxure_evolve_b
+TEXT: 讓{0}隻斧牙龍進化
+
 RESOURCE ID: quest_gbl_rank
 TEXT: 在GO對戰聯盟升上 {0} 級
 
@@ -46808,6 +47408,9 @@ TEXT: 強化 {0} 隻毒屬性的寶可夢
 RESOURCE ID: quest_power_up_plural_rock
 TEXT: 強化 {0} 隻岩石屬性的寶可夢
 
+RESOURCE ID: quest_power_up_plural_rock_fairy
+TEXT: 強化 {0} 隻岩石或妖精屬性的寶可夢
+
 RESOURCE ID: quest_power_up_plural_steel
 TEXT: 強化 {0} 隻鋼屬性的寶可夢
 
@@ -46937,6 +47540,12 @@ TEXT: 打敗1個GO火箭隊幹部
 
 RESOURCE ID: quest_rocket_power_up_plural
 TEXT: 強化寶可夢 {0} 次
+
+RESOURCE ID: quest_rocket_purify_dark_plural
+TEXT: 淨化 {0} 隻惡屬性的暗影寶可夢
+
+RESOURCE ID: quest_rocket_purify_fire_plural
+TEXT: 淨化 {0} 隻火屬性的暗影寶可夢
 
 RESOURCE ID: quest_rocket_purify_plural
 TEXT: 淨化 {0} 隻暗影寶可夢
@@ -47117,6 +47726,9 @@ TEXT: 為你的鐵掌力士拍攝1張GO Snapshot照片
 
 RESOURCE ID: quest_snapshot_hoopa_singular
 TEXT: 為胡帕拍攝1張照片
+
+RESOURCE ID: quest_snapshot_jeju
+TEXT: 在濟州島拍攝1張GO Snapshot照片
 
 RESOURCE ID: quest_snapshot_keldeo
 TEXT: 為凱路迪歐拍攝 {0} 張照片
@@ -47645,6 +48257,90 @@ TEXT: 寶可夢真的是一種很不可思議的生物，永遠都有無盡的�
 
 RESOURCE ID: quest_special_dialogue_at_3_3
 TEXT: 下次再見囉，%PLAYERNAME%！
+
+RESOURCE ID: quest_special_dialogue_axew_0_0
+TEXT: 嘿，%PLAYERNAME%！你看到了嗎？
+
+RESOURCE ID: quest_special_dialogue_axew_0_1
+TEXT: 岩石和樹木上的齒痕……被咬碎的樹果……
+
+RESOURCE ID: quest_special_dialogue_axew_0_2
+TEXT: 我看到的時候，就猜測應該是那隻寶可夢做出來的。
+
+RESOURCE ID: quest_special_dialogue_axew_0_3
+TEXT: %PLAYERNAME%，你有什麼看法嗎？
+
+RESOURCE ID: quest_special_dialogue_axew_0_4
+TEXT: 不如你就實際去捕捉那隻寶可夢，讓我們來核對事實吧。萬事拜託囉。
+
+RESOURCE ID: quest_special_dialogue_axew_1_0
+TEXT: %PLAYERNAME%，歡迎回來！
+
+RESOURCE ID: quest_special_dialogue_axew_1_1
+TEXT: 啊哈！那果然是牙牙的齒痕呢。
+
+RESOURCE ID: quest_special_dialogue_axew_1_2
+TEXT: 牙牙會和夥伴們一起互撞彼此大大的牙齒來玩，還會用牙齒粉碎樹果來互相比拼力氣。
+
+RESOURCE ID: quest_special_dialogue_axew_1_3
+TEXT: 而且古時候的人曾經拿牠的牙齒來代替菜刀過喔。
+
+RESOURCE ID: quest_special_dialogue_axew_1_4
+TEXT: 我猜那應該是因為牠們的牙齒即使折斷了，也會很快地長出，所以輕易就能到手的關係吧？
+
+RESOURCE ID: quest_special_dialogue_axew_1_5
+TEXT: 當牙牙進化成斧牙龍，牙齒也會跟著變大。
+
+RESOURCE ID: quest_special_dialogue_axew_1_6
+TEXT: 在我的印象中，斧牙龍的牙齒跟牙牙的不太一樣。
+
+RESOURCE ID: quest_special_dialogue_axew_1_7
+TEXT: 何不讓牙牙進化成斧牙龍，來實際觀察看看呢？
+
+RESOURCE ID: quest_special_dialogue_axew_2_0
+TEXT: 一切都很順利呢，%PLAYERNAME%！
+
+RESOURCE ID: quest_special_dialogue_axew_2_1
+TEXT: 讓我們仔細觀察牠的牙齒吧。那種就連巨大的岩石都能粉碎的牙齒。
+
+RESOURCE ID: quest_special_dialogue_axew_2_2
+TEXT: 斧牙龍的牙齒一旦折斷就不會再次生長，因此除非是關鍵時刻，牠都會避免使用牙齒。
+
+RESOURCE ID: quest_special_dialogue_axew_2_3
+TEXT: 即使如此牠的牙齒還是相當銳利，讓人覺得有點可怕呢。
+
+RESOURCE ID: quest_special_dialogue_axew_2_4
+TEXT: 雖然我不覺得我們會有機會跟寶可夢互爭地盤……
+
+RESOURCE ID: quest_special_dialogue_axew_2_5
+TEXT: 但聽說斧牙龍之間的地盤爭奪戰非常激烈喔。
+
+RESOURCE ID: quest_special_dialogue_axew_2_6
+TEXT: 請你小心安全，去幫我觀察一下吧。
+
+RESOURCE ID: quest_special_dialogue_axew_2_7
+TEXT: 斧牙龍進化後會變成雙斧戰龍，是種性情溫和的寶可夢。
+
+RESOURCE ID: quest_special_dialogue_axew_2_8
+TEXT: 關於這點也請你去實際觀察個一番吧，%PLAYERNAME%。 
+
+RESOURCE ID: quest_special_dialogue_axew_3_0
+TEXT: 雙斧戰龍的牙齒，真是難以言喻地酷啊！
+
+RESOURCE ID: quest_special_dialogue_axew_3_1
+TEXT: 那種牙齒十分堅固，即使切了鋼筋也不會變鈍。
+
+RESOURCE ID: quest_special_dialogue_axew_3_2
+TEXT: 雖然我說過雙斧戰龍的性情很溫和，但一旦牙齒被摸到，有時還是會惹牠暴怒的。
+
+RESOURCE ID: quest_special_dialogue_axew_3_3
+TEXT: 雖然我覺得你不會對牠做出這麼失禮的事就是了。
+
+RESOURCE ID: quest_special_dialogue_axew_3_4
+TEXT: 我看我還是比照斧牙龍的狀況，去請大家務必要小心吧。
+
+RESOURCE ID: quest_special_dialogue_axew_3_5
+TEXT: %PLAYERNAME%，今天也謝謝你花時間幫我做調查。我們下次見囉！
 
 RESOURCE ID: quest_special_dialogue_battle_weekend_1_0
 TEXT: 訓練家，你的選擇是？
@@ -54702,6 +55398,66 @@ TEXT: 也許是因為氣溫下降了……我的身體一直在顫抖！%PLAYERN
 RESOURCE ID: quest_special_dialogue_spiritomb_2_2
 TEXT: 我們保持聯絡！
 
+RESOURCE ID: quest_special_dialogue_squirtle_0_0
+TEXT: 嗨，%PLAYERNAME%！你看起來很有精神呢！我今天早上才剛去森林裡散了個步回來，心情很愉快。
+
+RESOURCE ID: quest_special_dialogue_squirtle_0_1
+TEXT: 小河裡有個像是噴水池的地方……你覺得那會是什麼？
+
+RESOURCE ID: quest_special_dialogue_squirtle_0_2
+TEXT: 沒錯，就是傑尼龜。牠把身體縮進殼裡噴水的樣子，就好像在看噴水秀一樣。
+
+RESOURCE ID: quest_special_dialogue_squirtle_0_3
+TEXT: 那光景實在是太美了，結果牠停止噴水的時候，我才發現自己忘了做調查。
+
+RESOURCE ID: quest_special_dialogue_squirtle_0_4
+TEXT: 在關都地區，傑尼龜是訓練家選擇來當第一個夥伴的其中一隻寶可夢。讓我們來對牠做個詳盡的調查。
+
+RESOURCE ID: quest_special_dialogue_squirtle_0_5
+TEXT: 好，開始調查小龜寶可夢吧！
+
+RESOURCE ID: quest_special_dialogue_squirtle_1_0
+TEXT: 歡迎回來，%PLAYERNAME%！在你捕捉傑尼龜的時候，我發現了殼上長著苔蘚的卡咪龜。
+
+RESOURCE ID: quest_special_dialogue_squirtle_1_1
+TEXT: 據說卡咪龜擁有1萬年的壽命，殼上有苔蘚的卡咪龜代表牠活得特別久。
+
+RESOURCE ID: quest_special_dialogue_squirtle_1_2
+TEXT: 你可以讓傑尼龜進化看看嗎，%PLAYERNAME%？
+
+RESOURCE ID: quest_special_dialogue_squirtle_2_0
+TEXT: 幹得好，%PLAYERNAME%！你看牠那毛茸茸的尾巴！
+
+RESOURCE ID: quest_special_dialogue_squirtle_2_1
+TEXT: 我想我能了解牠那被視為長壽象徵的尾巴為何會這麼受歡迎了。因為它實在美到我怎麼看都看不膩啊。
+
+RESOURCE ID: quest_special_dialogue_squirtle_2_2
+TEXT: 卡咪龜尾巴的顏色，會隨著年齡增長而變深，正好跟人類相反。這點也讓我好奇不已啊。
+
+RESOURCE ID: quest_special_dialogue_squirtle_2_3
+TEXT: 卡咪龜進化後會變成水箭龜。背上的大炮是牠最顯著的特徵。
+
+RESOURCE ID: quest_special_dialogue_squirtle_2_4
+TEXT: 試著讓卡咪龜進化成水箭龜，好好觀察牠一番吧。
+
+RESOURCE ID: quest_special_dialogue_squirtle_3_0
+TEXT: 這大炮實在是太酷了，%PLAYERNAME%！
+
+RESOURCE ID: quest_special_dialogue_squirtle_3_1
+TEXT: 從大炮發射出去的水流，威力也好強大啊！
+
+RESOURCE ID: quest_special_dialogue_squirtle_3_2
+TEXT: 從水箭龜的大炮裡放出的水流破壞力十足，足以貫穿厚實的鐵板。
+
+RESOURCE ID: quest_special_dialogue_squirtle_3_3
+TEXT: 千萬別在炎熱的天氣下叫牠用水噴你，那簡直是不要命啊。
+
+RESOURCE ID: quest_special_dialogue_squirtle_3_4
+TEXT: 話說回來，我把充氣泳池收到哪裡去了……
+
+RESOURCE ID: quest_special_dialogue_squirtle_3_5
+TEXT: 我得趁天氣變熱前把它找出來才行。那麼，我就先告辭了。謝謝你今天也和我一起調查，%PLAYERNAME%。我們下次再見！
+
 RESOURCE ID: quest_special_dialogue_st_0_0
 TEXT: 嘿，%PLAYERNAME%！你跟剛剛那隻從樹上掉下來的橡實果一樣，真是嚇到我了！
 
@@ -55533,6 +56289,51 @@ TEXT: 我很想在花蓓蓓身邊就近觀察，看看那治療的效果究竟�
 RESOURCE ID: quest_special_dialogue_valentines_feb23_1_4
 TEXT: 唉呀真抱歉，我又在一個人胡思亂想了。%PLAYERNAME%，你今天想要怎麼做調查呢？
 
+RESOURCE ID: quest_special_dialogue_waina_temp_0_0
+TEXT: Zzz……呼……呼……
+
+RESOURCE ID: quest_special_dialogue_waina_temp_0_1
+TEXT: ……啊！抱歉。是%PLAYERNAME%啊？
+
+RESOURCE ID: quest_special_dialogue_waina_temp_0_2
+TEXT: 之前坎迪拉拿了咖啡豆來給我，一喝之下發現實在是太好喝了，我就情不自禁地多喝了幾杯，結果卻打亂了我的睡眠規律……
+
+RESOURCE ID: quest_special_dialogue_waina_temp_0_3
+TEXT: 那份美味讓我忘了咖啡因的存在。明明不好好睡一覺是沒辦法出門去做田野調查的啊。
+
+RESOURCE ID: quest_special_dialogue_waina_temp_0_4
+TEXT: 不確實做好田野調查，研究主題也會往奇怪的方向發展。
+
+RESOURCE ID: quest_special_dialogue_waina_temp_0_5
+TEXT: 你問我怎麼個奇怪法？嗯～比如說我曾經做過「戴在皮卡丘頭上的帽子的空氣動力學」這樣子的研究。
+
+RESOURCE ID: quest_special_dialogue_waina_temp_0_6
+TEXT: 研究本身並不壞，就是實驗的難度太高。
+
+RESOURCE ID: quest_special_dialogue_waina_temp_0_7
+TEXT: 我的事就別管了，談談你吧。你最近有沒有什麼想研究的事呢？
+
+RESOURCE ID: quest_special_dialogue_waina_temp_0_8
+TEXT: 你去好好睡一覺，深思熟慮一番，選出你最想研究的主題來告訴我吧。
+
+RESOURCE ID: quest_special_dialogue_waina_temp_1_0
+TEXT: 啊！哈囉，%PLAYERNAME%！
+
+RESOURCE ID: quest_special_dialogue_waina_temp_1_1
+TEXT: 咖啡因的作用消退，我總算能好好睡一覺了。而且也可以正常地思考研究主題了。
+
+RESOURCE ID: quest_special_dialogue_waina_temp_1_2
+TEXT: 「卡比獸是否會因標高發出不同類型的鼾聲？」這個主題你覺得怎麼樣？
+
+RESOURCE ID: quest_special_dialogue_waina_temp_1_3
+TEXT: 你看起來已經蓄勢待發了呢，%PLAYERNAME%！
+
+RESOURCE ID: quest_special_dialogue_waina_temp_1_4
+TEXT: 話說你有想到自己想調查什麼了嗎？嗯，你下次再告訴我吧。
+
+RESOURCE ID: quest_special_dialogue_waina_temp_1_5
+TEXT: 今天你就去自由地探索，然後晚上記得要好好休息喔。
+
 RESOURCE ID: quest_special_dialogue_winter_wishes_1_0
 TEXT: 天啊這裡真的有夠冷……%PLAYERNAME%！你來啦！我還在想這麼冷的天要怎麼做調查……冰寶搞不好會很高興就是了…
 
@@ -55715,6 +56516,15 @@ TEXT: 拜訪1個墨西哥國內的寶可補給站
 RESOURCE ID: quest_spin_ultra_wormhole_gym
 TEXT: 旋轉有究極之洞的道館轉盤
 
+RESOURCE ID: quest_squirtle_catch_b
+TEXT: 捕捉 {0} 隻傑尼龜
+
+RESOURCE ID: quest_squirtle_evolve_b
+TEXT: 讓{0}隻傑尼龜進化
+
+RESOURCE ID: quest_squirtle_snapshot_b
+TEXT: 為傑尼龜拍攝 {0} 張照片
+
 RESOURCE ID: quest_st_catch_s
 TEXT: 捕捉15隻橡實果
 
@@ -55827,7 +56637,7 @@ RESOURCE ID: quest_supereffective_charge_plural
 TEXT: 在對戰中使出 {0} 次效果絕佳的特殊招式
 
 RESOURCE ID: quest_supereffective_charge_singular
-TEXT: 在戰中使出1次效果絕佳的特殊招式
+TEXT: 在對戰中使出1次效果絕佳的特殊招式
 
 RESOURCE ID: quest_surskit_catch
 TEXT: 捕捉 {0} 隻溜溜糖球
@@ -55954,6 +56764,21 @@ TEXT: 念力寶可夢的超能力 (3/4)
 
 RESOURCE ID: quest_title_at_3
 TEXT: 念力寶可夢的超能力 (4/4)
+
+RESOURCE ID: quest_title_axew
+TEXT: 保持銳利
+
+RESOURCE ID: quest_title_axew_0
+TEXT: 保持銳利 (1/4)
+
+RESOURCE ID: quest_title_axew_1
+TEXT: 保持銳利 (2/4)
+
+RESOURCE ID: quest_title_axew_2
+TEXT: 保持銳利 (3/4)
+
+RESOURCE ID: quest_title_axew_3
+TEXT: 保持銳利 (4/4)
 
 RESOURCE ID: quest_title_bidoof_branch_quest
 TEXT: 大牙狸
@@ -56152,6 +56977,9 @@ TEXT: 電擊獸擊電 (3/4)
 
 RESOURCE ID: quest_title_elect_3
 TEXT: 電擊獸擊電 (4/4)
+
+RESOURCE ID: quest_title_event_waina
+TEXT: Pokémon GO Plus +合作活動
 
 RESOURCE ID: quest_title_fennekin
 TEXT: 如火如狐
@@ -57637,6 +58465,21 @@ TEXT: Special Weekend (Verizon)
 RESOURCE ID: quest_title_spwk_yoshinoya
 TEXT: Special Weekend (吉野家)
 
+RESOURCE ID: quest_title_squirtle
+TEXT: 經典社群日：傑尼龜
+
+RESOURCE ID: quest_title_squirtle_0
+TEXT: 經典社群日：傑尼龜 (1/4)
+
+RESOURCE ID: quest_title_squirtle_1
+TEXT: 經典社群日：傑尼龜 (2/4)
+
+RESOURCE ID: quest_title_squirtle_2
+TEXT: 經典社群日：傑尼龜 (3/4)
+
+RESOURCE ID: quest_title_squirtle_3
+TEXT: 經典社群日：傑尼龜 (4/4)
+
 RESOURCE ID: quest_title_st
 TEXT: 橡實寶可夢的小秘密
 
@@ -58003,6 +58846,12 @@ TEXT: 究極解鎖2021：劍盾 (4/5)
 RESOURCE ID: quest_title_uu3_aug21_4
 TEXT: 究極解鎖2021：劍盾 (5/5)
 
+RESOURCE ID: quest_title_waina_0
+TEXT: Pokémon GO Plus +合作活動 (1/2)
+
+RESOURCE ID: quest_title_waina_1
+TEXT: Pokémon GO Plus +合作活動 (2/2)
+
 RESOURCE ID: quest_title_wt
 TEXT: 毛毛時刻
 
@@ -58214,7 +59063,7 @@ RESOURCE ID: quest_use_any_potion
 TEXT: 使用傷藥
 
 RESOURCE ID: quest_use_charged_move_singular
-TEXT: 在戰中使出1次效果絕佳的特殊招式
+TEXT: 在對戰中使出1次效果絕佳的特殊招式
 
 RESOURCE ID: quest_use_charged_tm
 TEXT: 使用1個特殊招式學習器
@@ -58279,6 +59128,18 @@ TEXT: 旋轉1次寶可補給站的轉盤
 RESOURCE ID: quest_visit_unique_pokestops_plural
 TEXT: 拜訪 {0} 個不同的寶可補給站或道館
 
+RESOURCE ID: quest_waina_catch_great_ultra_plural
+TEXT: 用Pokémon GO Plus + 捕捉{0}隻寶可夢到超級球或高級球裡
+
+RESOURCE ID: quest_waina_catch_plural
+TEXT: 用Pokémon GO Plus + 捕捉{0}隻寶可夢到精靈球裡
+
+RESOURCE ID: quest_waina_sleep_days
+TEXT: 用Pokémon GO Plus + 記錄睡眠{0}天
+
+RESOURCE ID: quest_waina_spin_pokestop_plural
+TEXT: 用Pokémon GO Plus + 旋轉{0}個寶可補給站
+
 RESOURCE ID: quest_walk_25km_inaweek_plural
 TEXT: 收到 {0} 次以時時刻刻冒險模式步行25公里的獎勵
 
@@ -58299,6 +59160,9 @@ TEXT: 行走 {0} km
 
 RESOURCE ID: quest_walk_steps
 TEXT: 走 {0} 步
+
+RESOURCE ID: quest_wartortle_evolve_b
+TEXT: 讓{0}隻卡咪龜進化
 
 RESOURCE ID: quest_waterfestival_catch_feed_plural
 TEXT: 潑水節：捕捉寶可夢時使用 {0} 顆樹果來輔助
@@ -63296,6 +64160,27 @@ TEXT: 要把神奇糖果轉換成 {0} 的糖果嗎？
 RESOURCE ID: rare_xl_candy_usage_confirmation
 TEXT: 要把神奇糖果XL轉換成 {0} 的糖果XL嗎？
 
+RESOURCE ID: ready_raid_button
+TEXT: 準備完成！
+
+RESOURCE ID: ready_raid_clicked_text
+TEXT: 準備完成
+
+RESOURCE ID: ready_raid_everyone_ready
+TEXT: 所有人都準備完成了！
+
+RESOURCE ID: ready_raid_ftue_confirm
+TEXT: 我準備好了！
+
+RESOURCE ID: ready_raid_ftue_desc
+TEXT: 若所有參加的訓練家皆準備完畢，則會跳過倒數。在團體戰開始前皆可退出。
+
+RESOURCE ID: ready_raid_ftue_title
+TEXT: 準備好要開始團體戰了嗎？
+
+RESOURCE ID: ready_raid_lobby_full
+TEXT: 大廳已滿，團體戰即將開始！
+
 RESOURCE ID: received_free_item_title
 TEXT: 你收到了一個免費的 {0} ！
 
@@ -63304,6 +64189,9 @@ TEXT: 最近
 
 RESOURCE ID: recommended_filter_group_key
 TEXT: 推薦
+
+RESOURCE ID: record_new_route
+TEXT: 記錄新的路線
 
 RESOURCE ID: recycle_dialog_prefix
 TEXT: 丟棄
@@ -63710,6 +64598,9 @@ TEXT: GO火箭隊活動
 RESOURCE ID: rocket_feature_name
 TEXT: GO火箭隊
 
+RESOURCE ID: rocket_grunt_fire_dark
+TEXT: GO火箭隊手下將會派出更多火屬性及惡屬性的寶可夢
+
 RESOURCE ID: rocket_grunt_ice_water
 TEXT: GO火箭隊手下將會派出更多水屬性及冰屬性的寶可夢
 
@@ -63722,14 +64613,23 @@ TEXT: 喵喵熱氣球、武藏和小次郎更常出現
 RESOURCE ID: rocket_pokestop_increase
 TEXT: GO火箭隊更常在寶可補給站出沒
 
+RESOURCE ID: rocket_raid_increase
+TEXT: 暗影團體戰更常出現
+
 RESOURCE ID: rocket_stardust_double
 TEXT: 和GO火箭隊對戰時可獲得的星星沙子加倍
 
 RESOURCE ID: rocket_takeover_event_name
 TEXT: GO火箭隊大舉入侵
 
+RESOURCE ID: route_about_label
+TEXT: 路線詳情
+
 RESOURCE ID: route_about_title
 TEXT: About this Route:
+
+RESOURCE ID: route_actions_label
+TEXT: 選單
 
 RESOURCE ID: route_add_point
 TEXT: Set as Waypoint
@@ -63758,17 +64658,34 @@ TEXT: CANNOT DELETE THIS ROUTE
 RESOURCE ID: route_cannot_edit_routes_in_review
 TEXT: Cannot edit a Route that is under review!
 
+RESOURCE ID: route_change_endpoint_error
+TEXT: 設定終點時出現錯誤
+
 RESOURCE ID: route_checkpoint_general
 TEXT: Checkpoint
 
 RESOURCE ID: route_collapsed_show_more
 TEXT: SHOW MORE {0}
 
+RESOURCE ID: route_community_plays_label
+TEXT: 社群的遊玩次數
+
 RESOURCE ID: route_completion_congratulation
 TEXT: Congratulations!
 
+RESOURCE ID: route_completion_explored_count_plural
+TEXT: 你探索了{0}次
+這個路線！
+
+RESOURCE ID: route_completion_explored_count_singular
+TEXT: 你探索了{0}次
+這個路線！
+
 RESOURCE ID: route_completion_get_medal
 TEXT: You got a {0} medal!
+
+RESOURCE ID: route_completion_great_job
+TEXT: 完成！
 
 RESOURCE ID: route_completion_once
 TEXT: {0} completed 1 time
@@ -63800,11 +64717,215 @@ TEXT: You must wait {0} minutes to play this route.
 RESOURCE ID: route_cooldown_toast_minutes
 TEXT: You must wait {0} minutes to play this route.
 
+RESOURCE ID: route_create_action_menu_header
+TEXT: 可用操作：
+
 RESOURCE ID: route_create_medal_context_page
 TEXT: Pick and image and a color to display on the medal when your route is completed
 
 RESOURCE ID: route_create_medal_context_title
 TEXT: Route Medal
+
+RESOURCE ID: route_creation_abandon_button
+TEXT: 結束規劃路線
+
+RESOURCE ID: route_creation_abandon_header
+TEXT: 確定要結束規劃路線嗎？
+
+RESOURCE ID: route_creation_abandon_message
+TEXT: 一旦結束即無法復原。此路線的進度將會全數消失。如要保存進度，請選擇暫停。
+
+RESOURCE ID: route_creation_abandon_toast
+TEXT: 已退出規劃路線
+
+RESOURCE ID: route_creation_action_menu_abandon
+TEXT: 結束規劃路線
+
+RESOURCE ID: route_creation_action_menu_new_endpoint
+TEXT: 選擇新的終點
+
+RESOURCE ID: route_creation_action_menu_pause
+TEXT: 새로운 종점을 선택한다
+
+RESOURCE ID: route_creation_action_menu_resume
+TEXT: 再度開始記錄路線
+
+RESOURCE ID: route_creation_active
+TEXT: 有路線正在規劃中
+
+RESOURCE ID: route_creation_adsync_breadcrumb_notification
+TEXT: 正在規劃路線
+
+RESOURCE ID: route_creation_ask_start_description
+TEXT: 如無法馬上開始，請暫停規劃路線。如要繼續，可從個人檔案的路線功能再度開始。
+
+RESOURCE ID: route_creation_ask_start_pause_button
+TEXT: 暫停規劃路線
+
+RESOURCE ID: route_creation_ask_start_title
+TEXT: 即將到達起點。要開始記錄路徑嗎？
+
+RESOURCE ID: route_creation_ask_submit_cancel
+TEXT: 繼續記錄
+
+RESOURCE ID: route_creation_ask_submit_confirm
+TEXT: 結束
+
+RESOURCE ID: route_creation_ask_submit_description
+TEXT: 如要延伸此路線的距離，只要繼續記錄並回到此寶可補給站即可。
+
+RESOURCE ID: route_creation_autoexit_toast
+TEXT: 已結束規劃路線
+
+RESOURCE ID: route_creation_choose_end_body
+TEXT: 前往此寶可補給站，結束記錄路線。
+記錄中可重新選擇終點。
+
+RESOURCE ID: route_creation_choose_end_header
+TEXT: 選擇寶可補給站
+
+RESOURCE ID: route_creation_choose_end_sub_header
+TEXT: 設定終點
+
+RESOURCE ID: route_creation_choose_new_end_body
+TEXT: 前往此寶可補給站，結束記錄路線。
+記錄中可重新選擇終點。
+
+RESOURCE ID: route_creation_choose_new_end_header
+TEXT: 選擇寶可補給站
+
+RESOURCE ID: route_creation_choose_new_end_sub_header
+TEXT: 設定終點
+
+RESOURCE ID: route_creation_choose_new_start_body
+TEXT: 前往此寶可補給站，開始記錄路線。
+
+RESOURCE ID: route_creation_choose_new_start_header
+TEXT: 選擇寶可補給站
+
+RESOURCE ID: route_creation_choose_new_start_sub_header
+TEXT: 設定起點
+
+RESOURCE ID: route_creation_choose_start_body
+TEXT: 前往此寶可補給站，開始記錄路線。
+
+RESOURCE ID: route_creation_choose_start_header
+TEXT: 選擇寶可補給站
+
+RESOURCE ID: route_creation_choose_start_sub_header
+TEXT: 設定起點
+
+RESOURCE ID: route_creation_error_submission_max
+TEXT: Badge
+
+RESOURCE ID: route_creation_generic_distance_warning_error
+TEXT: 無法執行此操作
+
+RESOURCE ID: route_creation_go_to_start
+TEXT: 請前往起點，從該處開始記錄路徑。
+
+RESOURCE ID: route_creation_max_distance_exceeded_description
+TEXT: 已超過最長距離，無法再繼續規劃路線。
+
+RESOURCE ID: route_creation_max_distance_exceeded_title
+TEXT: 已結束規劃路線
+
+RESOURCE ID: route_creation_max_distance_warning_button
+TEXT: 查看選項
+
+RESOURCE ID: route_creation_max_distance_warning_description
+TEXT: 如超過最長距離，路線會自動停止規劃。
+
+RESOURCE ID: route_creation_max_distance_warning_instructions
+TEXT: 為避免目前的進度流失，請在到達最長距離前結束規劃。
+
+RESOURCE ID: route_creation_max_distance_warning_title
+TEXT: 即將到達最長距離
+
+RESOURCE ID: route_creation_max_distance_warning_values
+TEXT: 最長距離：{0} km
+ route_creation_max_distance_warning_instructions"
+
+RESOURCE ID: route_creation_min_distance_description
+TEXT: 即將到達終點，但整體路徑太短了
+
+RESOURCE ID: route_creation_min_distance_instructions
+TEXT: 你可以再度開始記錄路線，並於補足距離後回到此終點，或是透過設定新的終點來補足距離。
+
+RESOURCE ID: route_creation_min_distance_title
+TEXT: 距離不夠
+
+RESOURCE ID: route_creation_min_distance_values
+TEXT: 最短距離：{0} km
+ 目前距離：{1} <color=#F2A64B>km</color>
+
+RESOURCE ID: route_creation_onboarding_loop_page_desc
+TEXT: 由於選擇了相同地點當作起點與終點，將開始規劃巡迴路線。回到起點即可結束規劃巡迴路線。
+
+RESOURCE ID: route_creation_onboarding_loop_page_title
+TEXT: 巡迴路線
+
+RESOURCE ID: route_creation_onboarding_page_1
+TEXT: 按照下列步驟即可規劃路線。
+
+1. 選擇起點與終點
+2. 從起點走到終點
+3. 輸入標題與說明
+
+RESOURCE ID: route_creation_onboarding_page_2
+TEXT: I percorsi creati vengono inviati a Niantic per verifica e approvazione. Se un tuo percorso viene respinto, potrai  avere la possibilità di modificarlo e ripresentarlo. 
+
+E ora è il momento di creare un tuo percorso!
+
+RESOURCE ID: route_creation_onboarding_page_3
+TEXT: 沿著路線釘圖釘，即可輕易地幫路線補充資訊。釘圖釘時需留意以下事項：
+
+ 1. 釘選位置需位於路徑的{0}公尺以內
+ 2. 圖釘間需距離{1}公尺以上
+
+RESOURCE ID: route_creation_onboarding_page_4
+TEXT: 提交的路線後經審核後，將予以核准或否決。部分被否決的路線也可於修改後再度提交。
+
+ 試著做一條自己的路線吧！
+
+RESOURCE ID: route_creation_onboarding_title_1
+TEXT: 如何規劃路線
+
+RESOURCE ID: route_creation_onboarding_title_2
+TEXT: 規則
+
+RESOURCE ID: route_creation_onboarding_title_4
+TEXT: 提交路線
+
+RESOURCE ID: route_creation_pause_button
+TEXT: 暫停
+
+RESOURCE ID: route_creation_pause_header
+TEXT: 確定要暫停規劃路線嗎？
+
+RESOURCE ID: route_creation_pause_message
+TEXT: 進度將被保存。如要繼續規劃路線，必須回到這個地點才能再度開始記錄。
+
+RESOURCE ID: route_creation_resume_button
+TEXT: 繼續規劃路線
+
+RESOURCE ID: route_creation_resume_label
+TEXT: 再度開始記錄
+
+RESOURCE ID: route_creation_select_new_end
+TEXT: 選擇新的終點
+
+RESOURCE ID: route_creation_selected_points_header
+TEXT: 選擇的起點與終點：
+
+RESOURCE ID: route_creation_start_recording_error_too_far
+TEXT: 你不在起點附近，無法開始記錄
+
+RESOURCE ID: route_creation_submit
+TEXT: 提交測試
+
+RESOURCE ID: route_creator_stats_label
+TEXT: Creator Statistics
 
 RESOURCE ID: route_data_onboarding_page_1
 TEXT: Now that you've created your route, it's your chance to tell people about it!
@@ -63824,11 +64945,60 @@ TEXT: This Pokéstop is too far from the last Waypoint. Must be less than {0} me
 RESOURCE ID: route_denial_too_many_stops_in_route
 TEXT: This Route has reached the max number of Waypoints: {0}.
 
+RESOURCE ID: route_distance_walked_label
+TEXT: 在路線行走的距離
+
 RESOURCE ID: route_earned_new_stamp
 TEXT: New stamp registered!
 
 RESOURCE ID: route_edit_button
 TEXT: CONTINUE EDIT
+
+RESOURCE ID: route_edit_resubmit_label
+TEXT: 編輯後再度申請
+
+RESOURCE ID: route_elevation_label
+TEXT: 起伏
+
+RESOURCE ID: route_enforcement_cta
+TEXT: 如你的帳號誤被凍結或永久停用，
+請提交申訴。
+
+RESOURCE ID: route_enforcement_long_ban_description
+TEXT: 由於你的帳號持續被檢測出已嚴重違反關於路線的玩家指南，因此遭到凍結{0}年。
+
+ route_enforcement_permanent_ban_title"
+
+RESOURCE ID: route_enforcement_long_ban_title
+TEXT: 你的Pokémon GO帳號已被停用。
+
+RESOURCE ID: route_enforcement_permanent_ban_description
+TEXT: 由於你的帳號持續被檢測出已嚴重違反關於路線的玩家指南，因此已被停止使用。
+
+RESOURCE ID: route_enforcement_permanent_ban_title
+TEXT: 你的Pokémon GO帳號已被永久停用。
+
+RESOURCE ID: route_enforcement_suspension_description
+TEXT: 由於你的帳號持續被檢測出已嚴重違反關於路線的玩家指南，因此遭到凍結{0}天。你可以於{1}天後再度開始遊戲。
+
+ route_enforcement_long_ban_title"
+
+RESOURCE ID: route_enforcement_suspension_title
+TEXT: 你的Pokémon GO已被暫停使用。
+
+RESOURCE ID: route_enforcement_warning_button
+TEXT: 玩家指南
+
+RESOURCE ID: route_enforcement_warning_description_primary
+TEXT: 你的帳號被檢測出違反了關於路線的玩家指南。 
+ 
+ route_enforcement_warning_description_secondary"
+
+RESOURCE ID: route_enforcement_warning_description_secondary
+TEXT: 請確認玩家指南。
+
+RESOURCE ID: route_enforcement_warning_title
+TEXT: 違規警告
 
 RESOURCE ID: route_enter_description_context_page
 TEXT: Enter a description that tells people what your route is about
@@ -63869,6 +65039,9 @@ TEXT: Please select an image for the route medal
 RESOURCE ID: route_km_label
 TEXT: {0} km
 
+RESOURCE ID: route_last_play_date_label
+TEXT: 最後一次遊玩
+
 RESOURCE ID: route_list_context_page
 TEXT: Arrange and modify your pokestop list from here
 
@@ -63897,10 +65070,10 @@ RESOURCE ID: route_map_out_of_bound_warning
 TEXT: You are too far away from this area
 
 RESOURCE ID: route_medal
-TEXT: Medal
+TEXT: Badge
 
 RESOURCE ID: route_medals_header
-TEXT: ROUTE MEDALS
+TEXT: 路線徽章
 
 RESOURCE ID: route_medals_sort_name
 TEXT: Name
@@ -63910,6 +65083,9 @@ TEXT: Recent
 
 RESOURCE ID: route_min_label
 TEXT: {0} mins
+
+RESOURCE ID: route_move_closer_to_resume
+TEXT: 請回到暫停記錄的地方，再度開始記錄路線。
 
 RESOURCE ID: route_nearby_help_distance
 TEXT: 從目前所在位置
@@ -63931,10 +65107,13 @@ RESOURCE ID: route_nearby_label
 TEXT: {0} route(s)
 
 RESOURCE ID: route_nearby_list_button
-TEXT: SEE NEARBY ROUTES ({0})
+TEXT: 查看附近的路線 ({0})
 
 RESOURCE ID: route_nearby_list_header
-TEXT: NEARBY ROUTE ({0})
+TEXT: 附近的路線 ({0})
+
+RESOURCE ID: route_not_playable
+TEXT: 目前無法遊玩此路線
 
 RESOURCE ID: route_notification_resume
 TEXT: Entered the route area.
@@ -64001,7 +65180,7 @@ RESOURCE ID: route_poi_list_view_total_time
 TEXT: Total estimated time: {0} min
 
 RESOURCE ID: route_published_list_header
-TEXT: PUBLISHED ROUTES
+TEXT: 已公開的路線
 
 RESOURCE ID: route_published_title
 TEXT: PUBLISHED ROUTES
@@ -64012,6 +65191,9 @@ TEXT: RATE
 RESOURCE ID: route_rating_description
 TEXT: Did you enjoy this route?
 Can you rate this route?
+
+RESOURCE ID: route_rating_percentage_label
+TEXT: {0}%
 
 RESOURCE ID: route_rating_reason
 TEXT: You can pick multiple choices.
@@ -64070,6 +65252,15 @@ TEXT: Sightseeing
 RESOURCE ID: route_rating_title
 TEXT: How was this route?
 
+RESOURCE ID: route_recording_paused
+TEXT: 已暫停記錄路線
+
+RESOURCE ID: route_recording_resumed
+TEXT: 已再度開始記錄路線
+
+RESOURCE ID: route_recording_started
+TEXT: 已開始記錄路線
+
 RESOURCE ID: route_rejection_action
 TEXT: EDIT & RESUBMIT
 
@@ -64095,11 +65286,17 @@ TEXT: Permanent issue
 RESOURCE ID: route_report_temporary
 TEXT: Temporary issue
 
+RESOURCE ID: route_report_title
+TEXT: 回報此路線
+
 RESOURCE ID: route_reset_modal_promot
 TEXT: Resetting your Route will remove all of its data. Are you sure?
 
 RESOURCE ID: route_reset_modal_title
 TEXT: RESET ROUTE?
+
+RESOURCE ID: route_reversible_notice_label
+TEXT: 此路線可以倒著走。
 
 RESOURCE ID: route_review_submission_page
 TEXT: Check over all you data before submitting
@@ -64146,6 +65343,9 @@ TEXT: Failed to start route
 RESOURCE ID: route_start_toast
 TEXT: {0} started!
 
+RESOURCE ID: route_status_decayed
+TEXT: 已封存
+
 RESOURCE ID: route_status_in_progress
 TEXT: Not submitted yet
 
@@ -64168,10 +65368,10 @@ RESOURCE ID: route_stop_button
 TEXT: Stop this route
 
 RESOURCE ID: route_stop_description
-TEXT: If you stop this route, its route activities will delete. You can't undo this action.
+TEXT: If you quit this Route, your current progress will be lost. This action cannot be undone.
 
 RESOURCE ID: route_stop_report
-TEXT: In case an error happened on this route and you can't continue to play, report from <color=#{0}>here</color>.
+TEXT: If you have experienced an issue on this Route that prevented you from completing it, you can report the issue <color=#{0}>here</color>.
 
 RESOURCE ID: route_stop_start_new_button
 TEXT: Start new route
@@ -64180,10 +65380,19 @@ RESOURCE ID: route_stop_start_new_button_same_route
 TEXT: RESTART ROUTE
 
 RESOURCE ID: route_stop_title
-TEXT: Are you sure you want to stop this route?
+TEXT: Are you sure you want to quit this Route?
 
 RESOURCE ID: route_stop_toast
 TEXT: This route has canceled
+
+RESOURCE ID: route_submission_abandon_back_button
+TEXT: BACK
+
+RESOURCE ID: route_submission_abandon_body
+TEXT: 進度將被保存。可從個人檔案的路線功能再度開始規劃。
+
+RESOURCE ID: route_submission_abandon_header
+TEXT: 確定要結束規劃路線嗎？
 
 RESOURCE ID: route_submission_add_description
 TEXT: Add Route Description
@@ -64193,6 +65402,9 @@ TEXT: Please describe the journey, history or background of this Route.
 
 RESOURCE ID: route_submission_add_info_title
 TEXT: Add Route Information
+
+RESOURCE ID: route_submission_add_tags
+TEXT: 最多可加上{0}個標籤（任意）
 
 RESOURCE ID: route_submission_add_title
 TEXT: Add Route Title
@@ -64209,6 +65421,9 @@ TEXT: Title contains prohibited content
 RESOURCE ID: route_submission_badge_creation_title
 TEXT: Medal Creation
 
+RESOURCE ID: route_submission_badge_image_prompt
+TEXT: 選擇要嵌入徽章的圖片：
+
 RESOURCE ID: route_submission_choose_icon
 TEXT: Please choose an icon for the Route medal.
 
@@ -64218,8 +65433,11 @@ TEXT: COLOR
 RESOURCE ID: route_submission_description
 TEXT: Description
 
+RESOURCE ID: route_submission_medal_creation_title
+TEXT: 設計徽章
+
 RESOURCE ID: route_submission_medals
-TEXT: 獎牌
+TEXT: 徽章
 
 RESOURCE ID: route_submission_must_add_description
 TEXT: Please enter a valid description to proceed
@@ -64235,8 +65453,26 @@ It might take a few minutes to write a relevant description, and help speed up t
 RESOURCE ID: route_submission_photo_tab_name
 TEXT: 照片
 
+RESOURCE ID: route_submission_resubmit_no_change_error
+TEXT: 若要再度提交此路線，請修改標題／說明。
+
 RESOURCE ID: route_submission_result_invalid_route
 TEXT: Route submission error. Please try again later.
+
+RESOURCE ID: route_submission_result_matches_rejection
+TEXT: 此路線與拒絕受理的路線相同
+
+RESOURCE ID: route_submission_result_reject_description
+TEXT: 由於路線的標題／說明裡含有不當內容或連結而被否決。此路線無法再度編輯與提交。
+
+RESOURCE ID: route_submission_result_reject_title
+TEXT: 提交的路線被否決了。
+
+RESOURCE ID: route_submission_result_success_description
+TEXT: 你隨時都能在路線的詳細頁面中查看。結果將會以電子郵件通知。
+
+RESOURCE ID: route_submission_result_success_title
+TEXT: 已提交路線！
 
 RESOURCE ID: route_submission_result_too_many_recent
 TEXT: You're submitting too many Routes! Wait for a bit
@@ -64251,7 +65487,40 @@ RESOURCE ID: route_submission_result_unvisited_fort
 TEXT: Please visit all stops along the Route
 
 RESOURCE ID: route_submission_reversible
-TEXT: Can this Route be traversed in reverse?
+TEXT: 此路線可以倒著走嗎？
+
+RESOURCE ID: route_submission_review_adjust
+TEXT: 調整
+
+RESOURCE ID: route_submission_review_instructions
+TEXT: 請確認上方路線的路徑。確認後如發現問題，可在進入下一步前手動調整。
+
+RESOURCE ID: route_submission_review_keep
+TEXT: 維持目前的路徑
+
+RESOURCE ID: route_submission_review_title
+TEXT: 確認路徑
+
+RESOURCE ID: route_submission_select_color_prompt
+TEXT: 選擇徽章頂部要用的顏色：
+
+RESOURCE ID: route_submission_show_name
+TEXT: 要讓你的訓練家名稱顯示在路線說明裡，供其他訓練家查看嗎？
+
+RESOURCE ID: route_submission_start_title
+TEXT: 為此路線命名
+
+RESOURCE ID: route_submission_status_decayed
+TEXT: 封存於{0}
+
+RESOURCE ID: route_submission_status_published
+TEXT: 於{0}公開
+
+RESOURCE ID: route_submission_status_rejection
+TEXT: 否決於{0}
+
+RESOURCE ID: route_submission_status_review
+TEXT: 於{0}提交
 
 RESOURCE ID: route_submission_title
 TEXT: Title
@@ -64268,8 +65537,74 @@ TEXT: You've successfully submitted your Route. Once it's been reviewed, it will
 RESOURCE ID: route_submitted_confirmation_title
 TEXT: Congrats!
 
+RESOURCE ID: route_tag_art
+TEXT: 藝術
+
+RESOURCE ID: route_tag_easy_going
+TEXT: 悠閒
+
+RESOURCE ID: route_tag_flat
+TEXT: 平坦地形
+
+RESOURCE ID: route_tag_hilly
+TEXT: 起伏地形
+
+RESOURCE ID: route_tag_historic
+TEXT: 具歷史性
+
+RESOURCE ID: route_tag_intense
+TEXT: 冒險
+
+RESOURCE ID: route_tag_nature
+TEXT: 自然
+
+RESOURCE ID: route_tag_no_people
+TEXT: 沒人潮
+
+RESOURCE ID: route_tag_parks_nearby
+TEXT: 鄰近公園
+
+RESOURCE ID: route_tag_people
+TEXT: 有人潮
+
+RESOURCE ID: route_tag_pets
+TEXT: 適合攜帶寵物
+
+RESOURCE ID: route_tag_plenty_pokestops
+TEXT: 有大量寶可補給站
+
+RESOURCE ID: route_tag_public_transport
+TEXT: 鄰近大眾運輸
+
+RESOURCE ID: route_tag_raid_friendly
+TEXT: 適合打團體戰
+
+RESOURCE ID: route_tag_rainy_day
+TEXT: 適合雨天遊玩
+
+RESOURCE ID: route_tag_seasonal
+TEXT: 具季節性
+
+RESOURCE ID: route_tag_stroller
+TEXT: 嬰兒車可通行
+
+RESOURCE ID: route_tag_sunny_day
+TEXT: 適合晴天遊玩
+
+RESOURCE ID: route_tag_views
+TEXT: 美景
+
+RESOURCE ID: route_tag_wheelchair
+TEXT: 輪椅可通行
+
+RESOURCE ID: route_tags_label
+TEXT: 標籤
+
 RESOURCE ID: route_times_label
 TEXT: {0} times
+
+RESOURCE ID: route_under_review_description
+TEXT: 此路線正在審核中。
 
 RESOURCE ID: route_validation_celebration
 TEXT: Nice job, you've verified your route! Now you can add information to the route you've created.
@@ -64352,6 +65687,9 @@ TEXT: Walking your Route
 RESOURCE ID: route_walking_first_poi_spin
 TEXT: This is the Starting Point that you selected. Please spin the disk to confirm it.
 
+RESOURCE ID: route_walking_head_to_start
+TEXT: 請前往起點開始遊玩此路線
+
 RESOURCE ID: route_walking_head_to_waypoint
 TEXT: Please go to Waypoint #{0}: {1} and spin the ring.
 
@@ -64360,6 +65698,15 @@ TEXT: This is Waypoint #{0}: {1}. Please spin the disk to confirm it.
 
 RESOURCE ID: route_walking_poi_verified
 TEXT: Route Pokéstop/Gym has been verified.
+
+RESOURCE ID: route_weekly_community_activity_label
+TEXT: 本週的社群活動紀錄
+
+RESOURCE ID: route_weekly_plays_label
+TEXT: 遊玩次數
+
+RESOURCE ID: route_your_plays_label
+TEXT: 自己的遊玩次數
 
 RESOURCE ID: route_zero_route_maker_desc
 TEXT: You don’t have Route maker.
@@ -64372,8 +65719,86 @@ TEXT: A device that lets you create Routes. You can have up to 5 active at a tim
 RESOURCE ID: routemaker_title
 TEXT: 路線規劃工具
 
+RESOURCE ID: routes_begin_creation_button
+TEXT: 確定並前往下一步
+
+RESOURCE ID: routes_change
+TEXT: 變更
+
+RESOURCE ID: routes_confirm_new_endpoint_button
+TEXT: 確定並繼續記錄
+
+RESOURCE ID: routes_current_end_point_warning
+TEXT: 已設定成終點
+
+RESOURCE ID: routes_current_path_length
+TEXT: 目前的路線長度：
+
+RESOURCE ID: routes_current_start_point_warning
+TEXT: 已設定成起點
+
+RESOURCE ID: routes_end_at
+TEXT: 終點：
+
 RESOURCE ID: routes_general
 TEXT: 路線規劃工具
+
+RESOURCE ID: routes_no_endpoint_selection_made
+TEXT: 未設定
+
+RESOURCE ID: routes_no_poi_selection_made
+TEXT: 未設定
+
+RESOURCE ID: routes_none_nearby
+TEXT: 附近沒有路線
+
+RESOURCE ID: routes_path_length_max
+TEXT: （最長：{0}KM）
+
+RESOURCE ID: routes_path_length_min
+TEXT: （最短：{0}KM）
+
+RESOURCE ID: routes_remove_end_point
+TEXT: 移除終點
+
+RESOURCE ID: routes_remove_end_point_toast
+TEXT: 請設定終點
+
+RESOURCE ID: routes_remove_start_point
+TEXT: 移除起點
+
+RESOURCE ID: routes_remove_start_point_toast
+TEXT: 請設定起點
+
+RESOURCE ID: routes_select_later
+TEXT: 待會再選
+
+RESOURCE ID: routes_set_end_point
+TEXT: 設定成終點
+
+RESOURCE ID: routes_set_end_point_toast
+TEXT: 成功設定終點！
+
+RESOURCE ID: routes_set_new_end_point
+TEXT: 設定成新的終點
+
+RESOURCE ID: routes_set_new_end_point_toast
+TEXT: 已更新終點！
+
+RESOURCE ID: routes_set_new_start_point
+TEXT: 設定成新的起點
+
+RESOURCE ID: routes_set_new_start_point_toast
+TEXT: 已更新起點！
+
+RESOURCE ID: routes_set_start_point
+TEXT: 設定成起點
+
+RESOURCE ID: routes_set_start_point_toast
+TEXT: 成功設定起點！
+
+RESOURCE ID: routes_start_at
+TEXT: 起點：
 
 RESOURCE ID: rtakeover_2019_rocket_1
 TEXT: GO火箭隊大舉入侵：打敗1個GO火箭隊手下
@@ -65019,6 +66444,9 @@ TEXT: GO的季節
 RESOURCE ID: season_gbl_forecast_title_9
 TEXT: Pokémon GO Season 9: 星星的願望
 
+RESOURCE ID: season_partner_research_ltd_amazon_gaming
+TEXT: 限定合作夥伴特別調查 - 隱藏的寶石：Amazon Prime Gaming
+
 RESOURCE ID: second_abbrev
 TEXT: s
 
@@ -65097,7 +66525,7 @@ RESOURCE ID: server_maintenance_warning
 TEXT: Pokémon GO將在 {0} 分鐘後進行伺服器維修。維修期間內將無法玩遊戲，敬請見諒。
 
 RESOURCE ID: session_ended
-TEXT: Your Pokémon GO Plus session has ended. Select this to launch Pokémon GO!
+TEXT: 已關閉與 Pokémon GO Plus 的連線。請開啟應用程式，重新嘗試連線。
 
 RESOURCE ID: set_buddy
 TEXT: 選擇
@@ -65450,7 +66878,7 @@ RESOURCE ID: settings_sfida_pokemon_description
 TEXT: 若關閉，{0}將不會捕捉寶可夢
 
 RESOURCE ID: settings_sfida_pokestops
-TEXT: 附近的寶可補給站
+TEXT: 識別附近的寶可補給站
 
 RESOURCE ID: settings_sfida_pokestops_description
 TEXT: 若關閉，{0}將不會旋轉寶可補給站
@@ -65540,178 +66968,178 @@ RESOURCE ID: settings_vibration
 TEXT: 震動
 
 RESOURCE ID: settings_waina_device_name
-TEXT: Pokémon GO Plus+
+TEXT: Pokémon GO Plus +
 
 RESOURCE ID: settings_wasabi_ads
 TEXT: 顯示贊助商禮物
 
 RESOURCE ID: settings_wearables
-TEXT: Pokémon Companion Devices
+TEXT: 外部裝置
 
 RESOURCE ID: settings_wearables_about
-TEXT: About
+TEXT: 裝置詳情
 
 RESOURCE ID: settings_wearables_apply_changes_label
-TEXT: Modifications to these settings are applied on exit.
+TEXT: 離開選單畫面後，設定即會生效
 
 RESOURCE ID: settings_wearables_auto_spin
 TEXT: 開啟自動旋轉寶可補給站
 
 RESOURCE ID: settings_wearables_auto_spin_pbp
-TEXT: PokéStop Auto-spin
+TEXT: 自動旋轉寶可補給站
 
 RESOURCE ID: settings_wearables_auto_spin_pbp_description
-TEXT: You can enable Auto-spin by transferring a Pokémon into your Poké Ball Plus from “Let’s Play” for Nintendo Switch. When Auto-spin is enabled, you will not be able to spin PokéStops by button press.
+TEXT: 只要將寶可夢從《精靈寶可夢 Let's Go！皮卡丘／Let's Go！伊布》帶到精靈球Plus，自動旋轉就會啟動。啟動自動旋轉時，無法按按鈕來旋轉寶可補給站。
 
 RESOURCE ID: settings_wearables_auto_throw
-TEXT: 開啟自動捕捉寶可夢功能
+TEXT: 開啟自動投球
 
 RESOURCE ID: settings_wearables_auto_throw_description
-TEXT: 自動捕捉只會使用精靈球
+TEXT: 自動投球只會使用精靈球
 
 RESOURCE ID: settings_wearables_available_devices
-TEXT: 可用的裝置
+TEXT: 可用裝置
 
 RESOURCE ID: settings_wearables_block_exit_unstable_state
-TEXT: Please wait while {0} is processing.
+TEXT: {0}正在處理中，請稍候片刻。
 
 RESOURCE ID: settings_wearables_button_throw
 TEXT: 選擇按按鈕投球要用的球
 
 RESOURCE ID: settings_wearables_button_throw_description
-TEXT: 若用光選擇的球，按按鈕投球功能就會被關閉
+TEXT: 當選擇的球用光時，按按鈕投球就會停止
 
 RESOURCE ID: settings_wearables_button_throw_unlock_level
 TEXT: 將在等級 {0} 開放！
 
 RESOURCE ID: settings_wearables_connect_to_device_toast
-TEXT: Connect Pokémon GO Plus+ to update these settings.
+TEXT: 要變更設定，請先與 Pokémon GO Plus + 連線
 
 RESOURCE ID: settings_wearables_device_help
-TEXT: 裝置相關問題
+TEXT: 裝置相關提示
 
 RESOURCE ID: settings_wearables_device_light_guide
-TEXT: Device Light Guide
+TEXT: 玩法
 
 RESOURCE ID: settings_wearables_device_status_connected
-TEXT: Connected
+TEXT: 已連線
 
 RESOURCE ID: settings_wearables_device_status_disconnected
-TEXT: Disconnected
+TEXT: 已關閉連線
 
 RESOURCE ID: settings_wearables_device_status_pairing
-TEXT: Pairing...
+TEXT: 正在配對……
 
 RESOURCE ID: settings_wearables_device_status_reconnecting
-TEXT: Reconnecting...
+TEXT: 正在重新連線……
 
 RESOURCE ID: settings_wearables_device_status_unpaired
-TEXT: Not Paired
+TEXT: 沒有任何已配對的裝置
 
 RESOURCE ID: settings_wearables_device_troubleshooting_url
-TEXT: <url with language query param in it>
+TEXT: https://niantic.helpshift.com/hc/faq/4161-pairing-and-connecting-pokemon-go-to-official-devices/
 
 RESOURCE ID: settings_wearables_empty_device_list
-TEXT: 未找到裝置
+TEXT: 沒有找到裝置
 
 RESOURCE ID: settings_wearables_having_trouble
-TEXT: 發生問題了嗎？
+TEXT: 疑難排解：
 
 RESOURCE ID: settings_wearables_how_to_pair
-TEXT: 如何配對裝置
+TEXT: 如何與新的外部裝置配對
 
 RESOURCE ID: settings_wearables_how_to_pair_bullet1
-TEXT: 按下正中央的按鈕來偵測裝置
+TEXT: 按下主要按鈕來偵測裝置
 
 RESOURCE ID: settings_wearables_how_to_pair_bullet2
-TEXT: 偵測到的裝置會顯示在可使用的裝置一覽，點擊後即可開始連線
+TEXT: 偵測到的裝置會顯示在可用裝置一覽，點擊後即可開始連線
 
 RESOURCE ID: settings_wearables_howto_pair_prompt_text
-TEXT: Would you like to view some troubleshooting tips?
+TEXT: 要查看疑難排解嗎？
 
 RESOURCE ID: settings_wearables_howto_pair_prompt_title
-TEXT: Looks like you are having trouble connecting to your {0}.
+TEXT: 似乎無法與{0}連線
 
 RESOURCE ID: settings_wearables_identify_nearby_pokemon_error
-TEXT: 如要使用此功能，需先將偵測附近的寶可夢設為開啟
+TEXT: 如要使用此功能，需先至設定將「偵測附近的寶可夢」設為開啟
 
 RESOURCE ID: settings_wearables_identify_nearby_pokestops_error
-TEXT: 如要使用此功能，需先將偵測附近的寶可補給站設為開啟
+TEXT: 如要使用此功能，需先至設定將「識別附近的寶可補給站」設為開啟
 
 RESOURCE ID: settings_wearables_learn_more
 TEXT: 詳細資訊
 
 RESOURCE ID: settings_wearables_not_connected_error
-TEXT: Connect your Pokémon GO Plus+ to modify this setting.
+TEXT: 要變更此設定，請先與Pokémon GO Plus + 連線。
 
 RESOURCE ID: settings_wearables_paired_toast
-TEXT: Paired {0}.
+TEXT: 已成功與{0}配對
 
 RESOURCE ID: settings_wearables_pbp_about_url
-TEXT: <url with language query param in it>
+TEXT: https://www.nintendo.co.jp/monsterballplus/country_selecter/index.html
 
 RESOURCE ID: settings_wearables_pbp_troubleshooting_url
-TEXT: <url with language query param in it>
+TEXT: https://support.pokemon.com/hc/en-us/articles/360001435906-Pok%C3%A9-Ball-Plus-and-Pok%C3%A9mon-GO-Troubleshooting
 
 RESOURCE ID: settings_wearables_pgp_about_url
-TEXT: <url with language query param in it>
+TEXT: https://support.pokemon.com/hc/en-us/articles/360000954814-About-Pok%C3%A9mon-GO-Plus
 
 RESOURCE ID: settings_wearables_pgp_troubleshooting_url
-TEXT: <url with language query param in it>
+TEXT: https://support.pokemon.com/hc/en-us/articles/360000955374-Niantic-s-known-issues-page-for-Pok%C3%A9mon-GO-Plus
 
 RESOURCE ID: settings_wearables_preferences
-TEXT: Preferences
+TEXT: 偏好設定
 
 RESOURCE ID: settings_wearables_quick_reconnect
 TEXT: 開啟快速重新連線模式
 
 RESOURCE ID: settings_wearables_quick_reconnect_description
-TEXT: 如選擇關閉，需按下正中央的按鈕才能重新連線
+TEXT: 若關閉，需按主要按鈕才能重新連線
 
 RESOURCE ID: settings_wearables_resources
-TEXT: RESOURCES
+TEXT: 更多詳細資訊
 
 RESOURCE ID: settings_wearables_reward_time_updated_toast
-TEXT: Reward time updated.
+TEXT: 已更新獎勵時間
 
 RESOURCE ID: settings_wearables_share_sleep_data
 TEXT: 分享睡眠資料給Pokémon GO
 
 RESOURCE ID: settings_wearables_share_sleep_data_description
-TEXT: If disabled, you will not earn rewards for tracking your sleep with your Pokémon GO Plus+.
+TEXT: 若關閉，將無法根據 Pokémon GO Plus + 記錄的睡眠資料領取獎勵
 
 RESOURCE ID: settings_wearables_sleep_header
 TEXT: 睡眠資料
 
 RESOURCE ID: settings_wearables_sleep_reward_time
-TEXT: 獲得獎勵時間
+TEXT: 獎勵獲得時間
 
 RESOURCE ID: settings_wearables_sleep_reward_time_description
-TEXT: Sleep total calculation will be reset at this time everyday.
+TEXT: 你的睡眠時間都會在每天的這個時間進行合計與重置。
 
 RESOURCE ID: settings_wearables_sleep_reward_time_description_disabled
 TEXT: 要變更此設定，請先分享睡眠資料
 
 RESOURCE ID: settings_wearables_store
-TEXT: Where to Purchase a Pokémon Companion Device
+TEXT: 購買外部裝置
 
 RESOURCE ID: settings_wearables_store_url
 TEXT: <url with language query param in it>
 
 RESOURCE ID: settings_wearables_unpaired_toast
-TEXT: Unpaired {0}.
+TEXT: 已與{0}解除配對
 
 RESOURCE ID: settings_wearables_voice_effects
-TEXT: 開啟皮卡丘音效
+TEXT: 開啟皮卡丘叫聲
 
 RESOURCE ID: settings_wearables_voice_effects_description
-TEXT: 若開啟靜音模式，此設定將會被視為無效
+TEXT: 若開啟靜音模式，此設定將被視為無效
 
 RESOURCE ID: settings_wearables_waina_about_url
-TEXT: <url with language query param in it>
+TEXT: https://www.pokemongoplusplus.com/zh/
 
 RESOURCE ID: settings_wearables_waina_troubleshooting_url
-TEXT: <url with language query param in it>
+TEXT: https://www.pokemongoplusplus.com/zh/go/#pairing
 
 RESOURCE ID: seville_cup_description
 TEXT: Safari Zone參加者可參加的速成盃
@@ -66238,6 +67666,9 @@ TEXT: 春季活動的蛋
 RESOURCE ID: sis_pokemon_wild
 TEXT: 春季活動的野生寶可夢
 
+RESOURCE ID: six_free_raid_passes
+TEXT: 旋轉道館轉盤一天最多可獲得6張免費團體戰入場券
+
 RESOURCE ID: size_xxs_xxl_increase_pidgey
 TEXT: 活動期間內，XXS和XXL的波波將更常出現！
 
@@ -66266,100 +67697,100 @@ RESOURCE ID: sleep_duration_mins
 TEXT: {0}分
 
 RESOURCE ID: sleep_not_tracked_subtitle
-TEXT: Make sure you activate your Pokémon GO Plus+ each night for more rewards!
+TEXT: 每天就寢之前，都要記得打開 Pokémon GO Plus + 喔！
 
 RESOURCE ID: sleep_not_tracked_title
-TEXT: No sleep tracked yesterday.
+TEXT: 昨天沒有記錄睡眠
 
 RESOURCE ID: sleep_reward_modal_rewards_section_text
 TEXT: 睡了超過{0}小時！
 
 RESOURCE ID: sleep_reward_modal_rewards_section_title
-TEXT: 睡眠獎勵
+TEXT: 獎勵
 
 RESOURCE ID: sleep_reward_modal_subtitle_flavor_0
-TEXT: Great job! You slept {0} longer than last time!
+TEXT: 了不起！你比上次多睡了{0}！
 
 RESOURCE ID: sleep_reward_modal_subtitle_flavor_1
-TEXT: Wow! You got a lot of sleep yesterday!
+TEXT: 哇！你昨晚睡得很充足呢！
 
 RESOURCE ID: sleep_reward_modal_subtitle_flavor_2
-TEXT: Nice! You had a good night’s rest!
+TEXT: 太好了，你睡得很熟呢！
 
 RESOURCE ID: sleep_reward_modal_subtitle_flavor_3
-TEXT: Great work tracking your sleep!
+TEXT: 你似乎睡得很飽呢！
 
 RESOURCE ID: sleep_reward_modal_subtitle_flavor_4
-TEXT: Keep it up! Track your sleep every night!
+TEXT: 保持下去！每天晚上都要記錄睡眠喔！
 
 RESOURCE ID: sleep_reward_modal_title
-TEXT: 昨晚的睡眠
+TEXT: 昨天的睡眠
 
 RESOURCE ID: sleep_reward_ready
-TEXT: Your Sleep Reward is available to claim!
+TEXT: 可以領取睡眠獎勵了！
 
 RESOURCE ID: sleep_set_time
 TEXT: 設定
 
 RESOURCE ID: sleep_tips_1_text_1
-TEXT: First, allow your sleep data to be shared with Pokémon GO.
+TEXT: 第一步，請允許Pokémon GO使用你的睡眠資料。
 
 RESOURCE ID: sleep_tips_1_text_2
-TEXT: If you decline, data from up to 8 sleep sessions you track will still be recorded locally on your Pokémon GO Plus+ and will remain stored there until overwritten by new sleep sessions.
+TEXT: 若不允許，Pokémon GO Plus + 內則只能保存最多8個睡眠週期，舊的紀錄將會被新的紀錄覆蓋。
 
 RESOURCE ID: sleep_tips_1_title
-TEXT: Earn Rewards for Tracking Sleep with your Pokémon GO Plus +!
+TEXT: 記錄睡眠，領取獎勵！
 
 RESOURCE ID: sleep_tips_2_description_1
-TEXT: Do this by holding down the center button on your Pokémon GO Plus+ until you see blue light flash once.
+TEXT: 長按 Pokémon GO Plus + 的主要按鈕直到亮起1次藍燈，即可開始記錄睡眠。
 
 RESOURCE ID: sleep_tips_2_description_2
-TEXT: Do this by holding down the center button on your Pokémon GO Plus+ until you see multicolored lights flash once.
+TEXT: 要結束記錄睡眠，請長按 Pokémon GO Plus + 的主要按鈕直到亮起1次七彩燈。
 
 RESOURCE ID: sleep_tips_2_description_3
-TEXT: After recording your sleep, open Pokémon GO and connect your Pokémon GO Plus+ to begin data transfer.
+TEXT: 記錄睡眠後，只要開啟Pokémon GO並連線到Pokémon GO Plus +，睡眠資料就會開始傳送。
 
 RESOURCE ID: sleep_tips_2_text_1
-TEXT: Before you go to bed, start a sleep session.
+TEXT: 就寢前請先開始記錄睡眠週期
 
 RESOURCE ID: sleep_tips_2_text_2
-TEXT: When you wake up, end your sleep session.
+TEXT: 起床時請結束記錄睡眠週期
 
 RESOURCE ID: sleep_tips_2_text_3
-TEXT: 將記錄下來的睡眠資料分享到Pokémon GO應用程式裡。
+TEXT: 將記錄下來的睡眠資料分享給Pokémon GO
 
 RESOURCE ID: sleep_tips_2_text_4
-TEXT: Sleep sessions must be at least 90 mins to be recorded by Pokémon GO Plus+.
+TEXT: 未達90分鐘以上的睡眠週期不會被記錄。
 
 RESOURCE ID: sleep_tips_2_title
-TEXT: How to Track Your Sleep
+TEXT: 如何記錄睡眠
 
 RESOURCE ID: sleep_tips_3_text_1
-TEXT: With Quick-Reconnect Mode enabled, you can reconnect your nearby Pokémon GO Plus+ to your paired device just by tapping the icon on the map or in Settings within Pokémon GO. If disabled, reconnection will require an additional center button press on Pokémon GO Plus+.
+TEXT: 只要開啟快速重新連線模式，即可點擊地圖上的圖示或從設定畫面來重新連線。關閉此功能時，需按下Pokémon GO Plus +的主要按鈕才能重新連線。
 
 RESOURCE ID: sleep_tips_3_text_2
 TEXT: 你隨時都可以在設定選單更改設定
 
 RESOURCE ID: sleep_tips_3_title
-TEXT: Enable Quick Reconnect Mode
+TEXT: 開啟快速重新連線模式
 
 RESOURCE ID: sleep_tips_4_text_1
-TEXT: You can earn rewards by tracking your sleep. The longer you sleep, the more rewards you earn! You can also choose what time you receive these rewards each day.
+TEXT: 只要記錄睡眠，就能根據睡眠時間獲得獎勵。你也可以設定領取獎勵的時間。
 
 RESOURCE ID: sleep_tips_4_title
-TEXT: Choose a Reward Time
+TEXT: 選擇獎勵時間
 
 RESOURCE ID: sleep_tips_5_text_1
-TEXT: Now it’s time to get some rest!
+TEXT: 設定完成！接下來只要好好休息就行囉！
 
 RESOURCE ID: sleep_tips_5_text_2
-TEXT: Make sure to activate your Pokémon GO Plus+ tonight when are ready to go to sleep.
+TEXT: 就寢前請先啟動Pokémon GO Plus +
 
 RESOURCE ID: sleep_tips_5_title
-TEXT: Finish Sleep Set-up
+TEXT: 結束設定
 
 RESOURCE ID: sleep_tracked_title
-TEXT: 昨日就寢時間：
+TEXT: 昨天就寢的時間：
 
 RESOURCE ID: slow_discovery_2021_collection_challenge
 TEXT: 緩…慢…的…探…索…挑…戰…
@@ -66531,6 +67962,9 @@ TEXT: 更多凱西出現在地圖上
 RESOURCE ID: spawn_alodude
 TEXT: 更多阿羅拉小拳石出現在地圖上
 
+RESOURCE ID: spawn_axew
+TEXT: 更多牙牙出現在地圖上!
+
 RESOURCE ID: spawn_bulbasaur
 TEXT: 更多妙蛙種子出現在地圖上
 
@@ -66626,6 +68060,9 @@ TEXT: 更多藤藤蛇出現在地圖上
 
 RESOURCE ID: spawn_spheal
 TEXT: 更多海豹球出現在地圖上
+
+RESOURCE ID: spawn_squirtle
+TEXT: 更多傑尼龜出現在地圖上!
 
 RESOURCE ID: spawn_starly
 TEXT: 更多姆克兒出現在地圖上!
@@ -66758,6 +68195,9 @@ TEXT: 一天只能進行一次特殊交換（部分特別活動除外）
 
 RESOURCE ID: special_trade_confirm_title
 TEXT: 要進行特殊交換嗎？
+
+RESOURCE ID: special_trade_daily_3
+TEXT: 當天最多可進行3次特殊交換
 
 RESOURCE ID: special_trade_plus_3
 TEXT: 比平常多3次特殊交換（總共4次）
@@ -68076,6 +69516,9 @@ TEXT: 未持有這個類別的貼圖
 RESOURCE ID: stickers_v2_pokemon_category
 TEXT: 寶可夢
 
+RESOURCE ID: stickers_v2_quantity_category
+TEXT: 張數
+
 RESOURCE ID: stickers_v2_recent_category
 TEXT: 最近
 
@@ -68090,6 +69533,168 @@ TEXT: 查看全部 ({0})
 
 RESOURCE ID: store_see_other_stickers
 TEXT: 看看別的貼圖
+
+RESOURCE ID: story_quest_cosmog_sol23_0
+TEXT: 閃耀星雲 (1/4)
+
+RESOURCE ID: story_quest_cosmog_sol23_0_0
+TEXT: %PLAYERNAME%，你來得正好！
+
+RESOURCE ID: story_quest_cosmog_sol23_0_1
+TEXT: 我也才剛從田野調查回來而已，詳情我就不多說了，岩石地帶、百足蜈蚣、流沙……這些提示應該能多少讓你有些頭緒吧？
+
+RESOURCE ID: story_quest_cosmog_sol23_0_2
+TEXT: 辛苦歸辛苦，但也獲得了成果。我發現了像是化石的東西、王者之證還有數張地圖！
+
+RESOURCE ID: story_quest_cosmog_sol23_0_3
+TEXT: 雖然不知道是誰基於什麼樣的理由把這些東西留了下來，但地圖中甚至還有似乎記載著「世界上最好吃的寶芬」所在地的地圖。
+
+RESOURCE ID: story_quest_cosmog_sol23_0_4
+TEXT: 其中最令我吃驚的是天體圖。與其說是單純的寶藏，我更開始懷疑那上面或許記錄了重要事物的所在地。
+
+RESOURCE ID: story_quest_cosmog_sol23_0_5
+TEXT: 在未來的某日有可能尋覓到的，富有價值的某樣東西……
+
+RESOURCE ID: story_quest_cosmog_sol23_0_6
+TEXT: 任人自由發揮的調查也很棒，但像這種有線索的調查也很令人興奮呢。
+
+RESOURCE ID: story_quest_cosmog_sol23_0_7
+TEXT: 所以我為這次的調查定了「白天活動頻繁的寶可夢」和「夜晚活動頻繁的寶可夢」這兩個主題。
+
+RESOURCE ID: story_quest_cosmog_sol23_0_8
+TEXT: 你對哪個主題比較有興趣呢，%PLAYERNAME%？請你好好考慮一下囉。
+
+RESOURCE ID: story_quest_cosmog_sol23_1
+TEXT: 閃耀星雲 (2/4)
+
+RESOURCE ID: story_quest_cosmog_sol23_1a_0
+TEXT: 選得好！這就像是在煦煦陽光下，喝著用百合根娃娃的葉子泡的茶放鬆自我的那種感覺……
+
+RESOURCE ID: story_quest_cosmog_sol23_1a_1
+TEXT: 百合根娃娃的葉子是人們愛用的藥材。在太陽下曬乾後煎煮服用，雖然味道很苦但能有效地消除疲勞。
+
+RESOURCE ID: story_quest_cosmog_sol23_1a_2
+TEXT: 首先，我們去尋找草屬性的寶可夢吧。
+
+RESOURCE ID: story_quest_cosmog_sol23_1b_0
+TEXT: 選得好！這就像是在只有月光照耀的微寒夜裡，看見夢妖而吃驚不已的那種感覺……
+
+RESOURCE ID: story_quest_cosmog_sol23_1b_1
+TEXT: 夢妖喜歡潛藏於暗處，模仿人哭叫的聲音來嚇人。光是用想的就讓人忍不住打冷顫呢。
+
+RESOURCE ID: story_quest_cosmog_sol23_1b_2
+TEXT: 首先，我們去尋找幽靈屬性的寶可夢吧。
+
+RESOURCE ID: story_quest_cosmog_sol23_2
+TEXT: 閃耀星雲 (3/4)
+
+RESOURCE ID: story_quest_cosmog_sol23_2_0
+TEXT: 啊，寶可夢訓練家的%PLAYERNAME%。
+
+RESOURCE ID: story_quest_cosmog_sol23_2_1
+TEXT: 距離我們上次說話過了一段時間呢，你最近還好嗎？
+
+RESOURCE ID: story_quest_cosmog_sol23_2_2
+TEXT: 看你這麼有精神我就放心了。你正在幫維羅博士做調查嗎？
+
+RESOURCE ID: story_quest_cosmog_sol23_2_4
+TEXT: 我記得以前學到太陽和月亮週期的相關知識時，也是感動不已呢。
+
+RESOURCE ID: story_quest_cosmog_sol23_2_5
+TEXT: 我今天會來，是因為有任務在身。我這裡檢測到有生物從異世界來到了這個世界。
+
+RESOURCE ID: story_quest_cosmog_sol23_2_6
+TEXT: 雖然我很想請你跟我一起調查，但你應該在忙維羅博士的調查吧。
+
+RESOURCE ID: story_quest_cosmog_sol23_2a_3
+TEXT: 你是因為地圖，所以開始調查了白天的寶可夢啊。
+
+RESOURCE ID: story_quest_cosmog_sol23_2a_7
+TEXT: 今天我們就在此道別吧。祝你和你的寶可夢都有燦爛的一天。
+
+RESOURCE ID: story_quest_cosmog_sol23_2b_3
+TEXT: 你是因為地圖，所以開始調查了晚上的寶可夢啊。
+
+RESOURCE ID: story_quest_cosmog_sol23_2b_7
+TEXT: 今天我們就在此道別吧。祝你和你的寶可夢都有充滿收穫的一天。
+
+RESOURCE ID: story_quest_cosmog_sol23_3
+TEXT: 閃耀星雲 (4/4)
+
+RESOURCE ID: story_quest_cosmog_sol23_3_0
+TEXT: 歡迎回來，%PLAYERNAME%！調查還順利嗎？
+
+RESOURCE ID: story_quest_cosmog_sol23_3_1
+TEXT: 聽說你遇見里伊了？其實我也有碰到他。
+
+RESOURCE ID: story_quest_cosmog_sol23_3_2
+TEXT: 他似乎在追從異世界而來的生物，所以就在我打算召集隊長們來幫忙時，科斯莫古忽然就咻～一聲地從我這裡飛了過去。
+
+RESOURCE ID: story_quest_cosmog_sol23_3_3
+TEXT: 真是嚇到我了。
+
+RESOURCE ID: story_quest_cosmog_sol23_3_4
+TEXT: 我記得里伊曾經說過，科斯莫古氣體狀的身體，只要稍微有點風就會被吹走。但牠看起來一點都不在意。
+
+RESOURCE ID: story_quest_cosmog_sol23_3_5
+TEXT: 但我們還是在牠被吹到不知道哪裡去之前，把牠保護起來吧。
+
+RESOURCE ID: story_quest_cosmog_sol23_3_6
+TEXT: 只不過為什麼科斯莫古會出現呢？而且還剛好是在我提到天體圖的時間點。
+
+RESOURCE ID: story_quest_cosmog_sol23_3_7
+TEXT: 套一句里伊的話，這燦爛的世界中，還充滿著無限的未知。我想就是這麼一回事吧！
+
+RESOURCE ID: story_quest_cosmog_sol23_branch_0
+TEXT: 嗨，%PLAYERNAME%！和白天與夜晚有深切關連的寶可夢，你決定好要調查哪一方了嗎？
+
+RESOURCE ID: story_quest_cosmog_sol23_branch_1_button_key
+TEXT: 調查出現在白天的寶可夢
+
+RESOURCE ID: story_quest_cosmog_sol23_branch_1_description_key
+TEXT: 選擇這個分岐來調查白天活動頻繁的寶可夢。
+
+RESOURCE ID: story_quest_cosmog_sol23_branch_1_title_key
+TEXT: 調查出現在白天的寶可夢
+
+RESOURCE ID: story_quest_cosmog_sol23_branch_2_button_key
+TEXT: 調查出現在晚上的寶可夢
+
+RESOURCE ID: story_quest_cosmog_sol23_branch_2_description_key
+TEXT: 選擇這個分岐來調查晚上活動頻繁的寶可夢。
+
+RESOURCE ID: story_quest_cosmog_sol23_branch_2_title_key
+TEXT: 調查出現在晚上的寶可夢
+
+RESOURCE ID: story_quest_cosmog_sol23_title
+TEXT: 閃耀星雲
+
+RESOURCE ID: story_quest_dark_flames_june23_branch_1_description_key
+TEXT: 完成課題後能遇見火屬性的寶可夢。
+
+RESOURCE ID: story_quest_dark_flames_june23_branch_1_title_button_key
+TEXT: 火屬性寶可夢
+
+RESOURCE ID: story_quest_dark_flames_june23_branch_2_description_key
+TEXT: 完成課題後能遇見惡屬性的寶可夢。
+
+RESOURCE ID: story_quest_dark_flames_june23_branch_2_title_button_key
+TEXT: 惡屬性寶可夢
+
+RESOURCE ID: story_quest_dark_flames_june23_branch_choice_1_0
+TEXT: %PLAYERNAME%，你好嗎？
+
+RESOURCE ID: story_quest_dark_flames_june23_branch_choice_1_1
+TEXT: 你來得正是時候！地圖上出現了岔路，我剛好在猶豫要走哪一條。
+
+RESOURCE ID: story_quest_dark_flames_june23_branch_choice_1_2
+TEXT: 不管選哪一條都可以與寶可夢相遇，真是叫人興奮！
+
+RESOURCE ID: story_quest_dark_flames_june23_branch_choice_1_3
+TEXT: 一條可以遇見更多的惡屬性寶可夢，另一條可以遇見更多的火屬性寶可夢。
+
+RESOURCE ID: story_quest_dark_flames_june23_branch_choice_1_4
+TEXT: 你覺得我們選哪一條才好呢，%PLAYERNAME%？熾熱無比的火屬性寶可夢，還是神秘無比的惡屬性寶可夢？
 
 RESOURCE ID: story_quest_rockethq10
 TEXT: 無聲計劃
@@ -68249,6 +69854,102 @@ TEXT: %PLAYERNAME%，謝謝你的幫忙。下次我們也要在敵人有動靜�
 
 RESOURCE ID: story_quest_rockethq14_title
 TEXT: 生於暗影
+
+RESOURCE ID: story_quest_rockethq15_0
+TEXT: 驅趕暗影 (1/5)
+
+RESOURCE ID: story_quest_rockethq15_0_0
+TEXT: 耳塞呢？耳塞跑去哪了……
+
+RESOURCE ID: story_quest_rockethq15_0_1
+TEXT: 噢，是你呀，%PLAYERNAME%。
+
+RESOURCE ID: story_quest_rockethq15_0_2
+TEXT: GO火箭隊手下發出的噪音有夠大，我都快被吵死了。
+
+RESOURCE ID: story_quest_rockethq15_0_3
+TEXT: 他們似乎在道館恣意妄為呢。
+
+RESOURCE ID: story_quest_rockethq15_0_4
+TEXT: 那群傢伙佔據道館時間一長，周邊的垃圾也會跟著變多。這煩人的噪音也是。
+
+RESOURCE ID: story_quest_rockethq15_0_5
+TEXT: 我雖然也很喜歡熱熱鬧鬧的，但這實在叫人無法放著不管啊。
+
+RESOURCE ID: story_quest_rockethq15_0_6
+TEXT: 垃圾我會負責打掃，所以麻煩你去收拾GO火箭隊那群傢伙好嗎，%PLAYERNAME%？
+
+RESOURCE ID: story_quest_rockethq15_1
+TEXT: 驅趕暗影 (2/5)
+
+RESOURCE ID: story_quest_rockethq15_1_0
+TEXT: 事情還順利嗎，%PLAYERNAME%？GO火箭隊手下有沒有乖乖地撤退了呢？
+
+RESOURCE ID: story_quest_rockethq15_1_1
+TEXT: 你果然還是跟他們對戰啦？這也沒辦法。
+
+RESOURCE ID: story_quest_rockethq15_1_2
+TEXT: 我想噪音問題應該有稍微改善了吧……我總算能聽見自己的聲音了。
+
+RESOURCE ID: story_quest_rockethq15_1_3
+TEXT: 但他們肯定會再跑回來，所以還請你繼續監視他們的動向了。
+
+RESOURCE ID: story_quest_rockethq15_1_4
+TEXT: 一發現就立刻做出應對吧。如果是你的話，一定能確實擊退他們的。萬事拜託了。
+
+RESOURCE ID: story_quest_rockethq15_2
+TEXT: 驅趕暗影 (3/5)
+
+RESOURCE ID: story_quest_rockethq15_2_0
+TEXT: 幹得好，%PLAYERNAME%！
+
+RESOURCE ID: story_quest_rockethq15_2_1
+TEXT: 你擊退他們的速度之快，讓我開心地都想開派對來慶祝了！
+
+RESOURCE ID: story_quest_rockethq15_2_2
+TEXT: 但我們還不能大意。我聽到他們下次打算派出更多的人馬，用更大的音量來大玩特玩。
+
+RESOURCE ID: story_quest_rockethq15_2_3
+TEXT: 群聚的手下不但礙眼，也會對附近的寶可夢帶來影響。
+
+RESOURCE ID: story_quest_rockethq15_2_4
+TEXT: 就讓我們去跟GO火箭隊幹部正面談判吧，%PLAYERNAME%！
+
+RESOURCE ID: story_quest_rockethq15_3
+TEXT: 驅趕暗影 (4/5)
+
+RESOURCE ID: story_quest_rockethq15_3_0
+TEXT: 了不起，%PLAYERNAME%！
+
+RESOURCE ID: story_quest_rockethq15_3_1
+TEXT: 多虧了你，總算是安靜下來了。下一件我們要必須要做的，就是打倒GO火箭隊的老大。
+
+RESOURCE ID: story_quest_rockethq15_3_2
+TEXT: 請你去找出阪木，給他一點顏色瞧瞧吧。
+
+RESOURCE ID: story_quest_rockethq15_3_3
+TEXT: 我就知道你一定辦得到，%PLAYERNAME%！
+
+RESOURCE ID: story_quest_rockethq15_4
+TEXT: 驅趕暗影 (5/5)
+
+RESOURCE ID: story_quest_rockethq15_4_0
+TEXT: 你對戰的樣子，實在太令人讚嘆了！
+
+RESOURCE ID: story_quest_rockethq15_4_1
+TEXT: 我會和美錄坦一起去把垃圾收拾乾淨。畢竟不能只解決噪音問題，環境也得恢復整潔才行呀。
+
+RESOURCE ID: story_quest_rockethq15_4_2
+TEXT: 今天也謝謝你來幫我忙。希望未來有一天，可以把訓練家們聚集起來辦個同樂會。
+
+RESOURCE ID: story_quest_rockethq15_4_3
+TEXT: 當然真的要辦，我們必須控制好音樂的音量，垃圾也要帶回家。
+
+RESOURCE ID: story_quest_rockethq15_4_4
+TEXT: 那就期待下次再見囉，%PLAYERNAME%！
+
+RESOURCE ID: story_quest_rockethq15_title
+TEXT: 驅趕暗影
 
 RESOURCE ID: story_quest_s10willow_0
 TEXT: Let's GO! (1/6)
@@ -68448,6 +70149,9 @@ TEXT: 帳號停權通知
 系統偵測到違反服務條款的行為，故已將此帳號停權。
 
 帳號停權狀態約會持續30天，若系統持續偵測到違反服務條款的行為，此帳號將會被永久停權，敬請注意。
+
+RESOURCE ID: suspension_rate_limit_desc
+TEXT: <0>第1階段處分（24小時）：</0><1/>該帳戶遭系統檢測出異常的活動紀錄，部分遊戲功能將因而暫時受到限制。
 
 RESOURCE ID: switch_sleep_warning
 TEXT: 連接至Nintendo Switch時，請勿關閉智慧型裝置的電源或讓裝置進入睡眠模式
@@ -68680,6 +70384,9 @@ TEXT: 「念力寶可夢的超能力」入場券已在商店上架
 RESOURCE ID: ticket_alodude
 TEXT: 特殊調查「石不我與」的入場券在商店中上架
 
+RESOURCE ID: ticket_axew
+TEXT: 特殊調查「保持銳利」的入場券在遊戲中商店上架
+
 RESOURCE ID: ticket_bulbasaur
 TEXT: 妙蛙種子經典社群日特殊調查入場券在商店裡上架了
 
@@ -68793,6 +70500,9 @@ TEXT: 特殊調查入場券將在商店中上架
 RESOURCE ID: ticket_spheal
 TEXT: 特殊調查「圓圓海豹球」的入場券已在商店中上架
 
+RESOURCE ID: ticket_squirtle
+TEXT: 傑尼龜經典社群日特殊調查入場券在商店裡上架了
+
 RESOURCE ID: ticket_starly
 TEXT: 特殊調查「姆克兒調查筆記」的入場券在商店中上架
 
@@ -68904,6 +70614,9 @@ TEXT: 地區內所有訓練家必須同心協力，一起完成這項挑戰！
 
 RESOURCE ID: timed_research
 TEXT: 現可領取限時調查
+
+RESOURCE ID: timed_research_generic
+TEXT: 限時調查
 
 RESOURCE ID: timed_research_pokemon
 TEXT: 焦點寶可夢在限時調查
@@ -69496,6 +71209,9 @@ TEXT: 推荐使用Wi-Fi
 RESOURCE ID: title_raid_has_ended
 TEXT: 此活動已結束
 
+RESOURCE ID: title_waina_special_research
+TEXT: 與Pokémon GO Plus + 連結後即可獲得特殊調查！
+
 RESOURCE ID: title_waterfestival_beach
 TEXT: 潑水節：沙灘週
 
@@ -69660,6 +71376,12 @@ TEXT: 晃晃晃晃
 
 RESOURCE ID: tr_go_for_a_spin_desc
 TEXT: 限時調查：晃晃晃晃
+
+RESOURCE ID: tr_gofest2023_earlybird1
+TEXT: 限時調查：原石
+
+RESOURCE ID: tr_gofest2023_earlybird2
+TEXT: 限時調查：光束
 
 RESOURCE ID: tr_latias_photo_safari
 TEXT: 藍寶石：拉帝亞斯挑戰
@@ -71135,62 +72857,68 @@ RESOURCE ID: waina_confirm_unpair_description
 TEXT: 如有已保存的睡眠資料，將會在下次配對時被刪除
 
 RESOURCE ID: waina_failed_unpair
-TEXT: 解除配對失敗
+TEXT: 無法解除配對
 
 RESOURCE ID: waina_reward_time_change_warning
-TEXT: Are you sure you want to change your reward time?
+TEXT: 確定要更改時間嗎？
 
 RESOURCE ID: waina_reward_time_change_warning_button
-TEXT: YES, CHANGE TIME
+TEXT: 更改
 
 RESOURCE ID: waina_reward_time_change_warning_description
-TEXT: Changing the reward time may result in a loss of rewards for sleep tracked within the last 24 hours.
+TEXT: 若更改時間，將有可能無法獲得以最近24小時以內的睡眠紀錄為對象的獎勵。
 
 RESOURCE ID: waina_tips_1_text
-TEXT: With Quick-Reconnect Mode enabled, you can reconnect your nearby Pokémon GO Plus+ to your paired device just by tapping the icon on the map or in Settings within Pokémon GO. If disabled, reconnection will require an additional center button press on Pokémon GO Plus+.
+TEXT: 只要開啟快速重新連線模式，即可點擊地圖上的圖示或從設定畫面來重新連線。關閉此功能時，需按下Pokémon GO Plus +的主要按鈕才能重新連線。
 
 RESOURCE ID: waina_tips_1_title
 TEXT: 快速重新連線模式
 
 RESOURCE ID: waina_tips_2_text
-TEXT: With Auto-throw enabled, your Pokémon GO Plus+ can automatically attempt to catch Pokémon you pass. Auto-throw only uses regular Poké Balls and will not work if you have no Poké Balls in your Item Bag. Auto-throw will not work for Pokémon you’ve never caught before. Adventure Sync must be enabled to use Auto-throw.
+TEXT: 只要開啟自動投球，就能自動投出精靈球，捕捉路過遇到的寶可夢。當精靈球用光時，此功能將不會生效。如遇到尚未捕捉過的寶可夢，此功能也不會生效。如要使用自動投球，需先開啟「時時刻刻冒險」。
 
 RESOURCE ID: waina_tips_2_title
 TEXT: 自動投球
 
 RESOURCE ID: waina_tips_3_text
-TEXT: With Button-throw, you can choose to use any Poké Ball type, including Great Balls and Ultra Balls. You can update this selection at any time in Settings. If no selection is made, Button-throw will use regular Poké Balls. Button-throw will not work if you run out of your selected Poké Ball type.
+TEXT: 選擇按按鈕投球時，包含超級球和高級球在內，可設定投球時要使用的球的種類。你隨時都可以在設定選單更改設定。如未設定，按按鈕投球時將會使用精靈球。當選擇的球用光時，按按鈕投球就會停止。
 
 RESOURCE ID: waina_tips_3_title
 TEXT: 選擇按按鈕投球要用的球
 
 RESOURCE ID: waina_tips_4_text
-TEXT: With Auto-spin enabled, your Pokémon GO Plus+ can automatically attempt to spin any in-range PokéStop you pass. Auto-spin will not work if your Item Bag is full. Adventure Sync must be enabled to use Auto-spin.
+TEXT: 只要開啟自動旋轉，就能自動旋轉寶可補給站。當包包裝滿時，自動旋轉就會停止。如要使用自動旋轉，需先開啟「時時刻刻冒險」。
 
 RESOURCE ID: waina_tips_4_title
 TEXT: 自動旋轉
 
 RESOURCE ID: waina_user_dialog_finalize_pairing
-TEXT: Finalize Pairing:
+TEXT: 即將完成配對
 
 RESOURCE ID: waina_user_dialog_first_connect
-TEXT: 確定要與此裝置配對嗎？
+TEXT: 確定要完成此裝置的配對並開始連線嗎？
 
 RESOURCE ID: waina_user_dialog_first_connect_description
-TEXT: This device will be reset after pairing. If someone else was using this device before you, pairing it will erase their stored sleep data.
+TEXT: 此裝置已連結到你的帳號。若以前曾使用過此裝置，在開始配對後，裝置內保存的睡眠資料將會被全數刪除。
 
 RESOURCE ID: waina_user_dialog_press_two_buttons
-TEXT: 請同時按下正中央與側面的按鈕
+TEXT: 請同時按下主要按鈕與輔助按鈕
 
 RESOURCE ID: waina_user_dialog_reconnect
-TEXT: This device has been initialized. Would you like to pair it again?
+TEXT: 要初始化此裝置，並重新配對嗎？
+
+RESOURCE ID: waina_user_dialog_reconnect_description
+TEXT: 雖然此裝置已與你的帳號連結，但為了更新配置，需將裝置內的睡眠資料全數刪除。
 
 RESOURCE ID: waina_user_dialog_reconnect_reject
-TEXT: Reconnection to device was rejected by the server due to mismatching device data. Do you still want to pair this device? Sleep Data will be erased.
+TEXT: 要初始化此裝置，並重新配對嗎？
+
+RESOURCE ID: waina_user_dialog_reconnect_reject_description
+TEXT: 雖然此裝置在過去曾與其他帳號連結，但由於無法正確辨識該帳號，需將裝置內的睡眠資料全數刪除。
 
 RESOURCE ID: waina_user_dialog_white_indicator_light_info
-TEXT: 你的Pokemon GO Plus+
-會亮起白色的燈號
+TEXT: 你的 Pokémon GO Plus +
+會亮起白燈
 
 RESOURCE ID: waiting_for_referral_code_from_link
 TEXT: 正在尋找相關推薦代碼
@@ -71325,7 +73053,7 @@ RESOURCE ID: wcs_week_event
 TEXT: Pokémon World Championships 2022
 
 RESOURCE ID: wearables_out_of_chosen_pokeball_toast
-TEXT: No more {0}. Button-throw is disabled.
+TEXT: {0}用光了，已停止按按鈕投球。
 
 RESOURCE ID: weather_alert_safety_button
 TEXT: 已確認安全
@@ -71431,6 +73159,9 @@ TEXT: 當你在Pokémon GO裡探險時，有機會收到附近贊助商提供的
 
 RESOURCE ID: webcam_setup_problem
 TEXT: 無法啟動照相機
+
+RESOURCE ID: website_error
+TEXT: 載入網頁時發生錯誤
 
 RESOURCE ID: weekly_box
 TEXT: 週間禮盒
