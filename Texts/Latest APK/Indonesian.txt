@@ -643,7 +643,7 @@ RESOURCE ID: adventure_sync_enable_modal_failure_title
 TEXT: Sinkronisasi Petualangan tidak diaktifkan
 
 RESOURCE ID: adventure_sync_enable_modal_message
-TEXT: Dapat menemukan Pokémon baru, menetaskan Telur, dan mencatat jalur Rute meskipun Pokémon GO ditutup!
+TEXT: Dapat menemukan Pokémon baru, menetaskan Telur, dan merekam jalur Rute meskipun Pokémon GO ditutup!
 
 RESOURCE ID: adventure_sync_enable_modal_success_message
 TEXT: Berhasil! Lihat progresmu kapan saja di Profil Pelatih.
@@ -666,11 +666,29 @@ TEXT: Aktifkan Sinkronisasi Petualangan di Pengaturan untuk lebih banyak hadiah!
 RESOURCE ID: adventure_week_event_name
 TEXT: Minggu Petualangan
 
+RESOURCE ID: adventure_week_event_title
+TEXT: Petualangan Jauh dan Dekat
+
 RESOURCE ID: adventure_week_explore_timed_research
 TEXT: Minggu Petualangan: Tantangan Petualangan
 
+RESOURCE ID: adventure_week_p_tr_1
+TEXT: Penelitian Berwaktu Minggu Petualangan
+
 RESOURCE ID: adventure_week_research_day_ultra_unlock_event_name
 TEXT: Buka Ultra: Hari Penelitian
+
+RESOURCE ID: adventure_week_tr_1
+TEXT: Petualangan Jauh dan Dekat (1/4)
+
+RESOURCE ID: adventure_week_tr_2
+TEXT: Petualangan Jauh dan Dekat (2/4)
+
+RESOURCE ID: adventure_week_tr_3
+TEXT: Petualangan Jauh dan Dekat (3/4)
+
+RESOURCE ID: adventure_week_tr_4
+TEXT: Petualangan Jauh dan Dekat (4/4)
 
 RESOURCE ID: adventure_week_ultra_unlock_event_name
 TEXT: Buka Ultra: Minggu Petualangan
@@ -1601,8 +1619,11 @@ TEXT: Coba akun yang berbeda
 RESOURCE ID: authentication_failed_try_again
 TEXT: Coba Lagi
 
+RESOURCE ID: authentication_retry_account_hint
+TEXT: Akun yang pernah digunakan untuk masuk ke Pokémon GO:
+
 RESOURCE ID: authentication_retry_prompt
-TEXT: Login gagal.
+TEXT: Gagal Masuk
 
 RESOURCE ID: authentication_revoked_error
 TEXT: Tidak dapat terhubung ke server.
@@ -2070,6 +2091,10 @@ TEXT: Penutup Telinga Delibird
 RESOURCE ID: avatar_f_hat_detectivepikachu_0_bundle_icon
 TEXT: Topi Detective Pikachu
 
+RESOURCE ID: avatar_f_hat_diancie_00_bundle_icon
+TEXT: Headphone
+Diancie
+
 RESOURCE ID: avatar_f_hat_dp_00_bundle_icon
 TEXT: Topi Sinnoh
 
@@ -2192,6 +2217,10 @@ TEXT: Topi Mareanie
 
 RESOURCE ID: avatar_f_hat_megalopunnyitems_00_bundle_icon
 TEXT: Telinga Mega Lopunny
+
+RESOURCE ID: avatar_f_hat_megarayquaza_00_bundle_icon
+TEXT: Helm
+Mega Rayquaza
 
 RESOURCE ID: avatar_f_hat_meltan_0_bundle_icon
 TEXT: Topi Meltan
@@ -2682,6 +2711,9 @@ TEXT: Jaket Denim
 RESOURCE ID: avatar_f_shirt_detectivepikachu_0_bundle_icon
 TEXT: Kaus Detective Pikachu
 
+RESOURCE ID: avatar_f_shirt_diancie_00_bundle_icon
+TEXT: Kaus Diancie
+
 RESOURCE ID: avatar_f_shirt_divingsuit_00_bundle_icon
 TEXT: Set Pakaian Selam
 
@@ -2740,6 +2772,10 @@ TEXT: Hoodie Gladion
 
 RESOURCE ID: avatar_f_shirt_gofest2022_00_bundle_icon
 TEXT: Kaus GO Fest 2022
+
+RESOURCE ID: avatar_f_shirt_gofest2023_00_bundle_icon
+TEXT: Kaus GO Fest 2023
+(Hitam)
 
 RESOURCE ID: avatar_f_shirt_gofest_2019_bundle_icon
 TEXT: Kaus GO Fest 2019
@@ -2856,6 +2892,10 @@ TEXT: Jaket Bergaya Lysandre
 
 RESOURCE ID: avatar_f_shirt_megalopunnyitems_00_bundle_icon
 TEXT: Pakaian Mega Lopunny
+
+RESOURCE ID: avatar_f_shirt_megarayquaza_00_bundle_icon
+TEXT: Setelan
+Mega Rayquaza
 
 RESOURCE ID: avatar_f_shirt_melmetaljacket_00_bundle_icon
 TEXT: Jaket Down Melmetal
@@ -3201,6 +3241,26 @@ RESOURCE ID: avatar_f_shirt_wcs2022winnersitems_00_bundle_icon
 TEXT: Jaket
 Juara Dunia 2022
 
+RESOURCE ID: avatar_f_shirt_wcs2023promotshirt_00_bundle_icon
+TEXT: Kaus WCS 2023
+(Abu-Abu)
+
+RESOURCE ID: avatar_f_shirt_wcs2023promotshirt_01_00_bundle_icon
+TEXT: Kaus WCS 2023
+(Kuning)
+
+RESOURCE ID: avatar_f_shirt_wcs2023sukajan_00_bundle_icon
+TEXT: Jaket
+WCS 2023
+
+RESOURCE ID: avatar_f_shirt_wcs2023winnersitems_00_bundle_icon
+TEXT: Setelan Juara
+WCS 2023
+
+RESOURCE ID: avatar_f_shirt_wcsyokohama_00_bundle_icon
+TEXT: Jersi
+WCS 2023
+
 RESOURCE ID: avatar_f_shirt_whitecoat_00_bundle_icon
 TEXT: Mantel Musim Dingin
 
@@ -3431,6 +3491,10 @@ TEXT: Sepatu Bot Veteran
 RESOURCE ID: avatar_f_shoes_wcs2022winnersitems_00_bundle_icon
 TEXT: Sepatu
 Juara Dunia 2022
+
+RESOURCE ID: avatar_f_shoes_wcs2023winnersitems_00_bundle_icon
+TEXT: Sepatu Juara
+WCS 2023
 
 RESOURCE ID: avatar_f_shoes_winterboots_00_bundle_icon
 TEXT: Sepatu Bot Musim Dingin 1
@@ -3902,6 +3966,10 @@ TEXT: Penutup Telinga Delibird
 RESOURCE ID: avatar_m_hat_detectivepikachu_0_bundle_icon
 TEXT: Topi Detective Pikachu
 
+RESOURCE ID: avatar_m_hat_diancie_00_bundle_icon
+TEXT: Headphone
+Diancie
+
 RESOURCE ID: avatar_m_hat_dp_00_bundle_icon
 TEXT: Topi Sinnoh
 
@@ -4027,6 +4095,10 @@ TEXT: Topi Mareanie
 
 RESOURCE ID: avatar_m_hat_megalopunnyitems_00_bundle_icon
 TEXT: Telinga Mega Lopunny
+
+RESOURCE ID: avatar_m_hat_megarayquaza_00_bundle_icon
+TEXT: Helm
+Mega Rayquaza
 
 RESOURCE ID: avatar_m_hat_meltan_0_bundle_icon
 TEXT: Topi Meltan
@@ -4510,6 +4582,9 @@ TEXT: Jaket Denim
 RESOURCE ID: avatar_m_shirt_detectivepikachu_0_bundle_icon
 TEXT: Kaus Detective Pikachu
 
+RESOURCE ID: avatar_m_shirt_diancie_00_bundle_icon
+TEXT: Kaus Diancie
+
 RESOURCE ID: avatar_m_shirt_divingsuit_00_bundle_icon
 TEXT: Set Pakaian Selam
 
@@ -4571,6 +4646,10 @@ TEXT: Hoodie Gladion
 
 RESOURCE ID: avatar_m_shirt_gofest2022_00_bundle_icon
 TEXT: Kaus GO Fest 2022
+
+RESOURCE ID: avatar_m_shirt_gofest2023_00_bundle_icon
+TEXT: Kaus GO Fest 2023
+(Hitam)
 
 RESOURCE ID: avatar_m_shirt_gofest_2019_bundle_icon
 TEXT: Kaus GO Fest 2019
@@ -4696,6 +4775,10 @@ TEXT: Jaket Bergaya Lysandre
 
 RESOURCE ID: avatar_m_shirt_megalopunnyitems_00_bundle_icon
 TEXT: Pakaian Mega Lopunny
+
+RESOURCE ID: avatar_m_shirt_megarayquaza_00_bundle_icon
+TEXT: Setelan
+Mega Rayquaza
 
 RESOURCE ID: avatar_m_shirt_melmetaljacket_00_bundle_icon
 TEXT: Jaket Down Melmetal
@@ -5032,6 +5115,26 @@ RESOURCE ID: avatar_m_shirt_wcs2022winnersitems_00_bundle_icon
 TEXT: Jaket
 Juara Dunia 2022
 
+RESOURCE ID: avatar_m_shirt_wcs2023promotshirt_00_bundle_icon
+TEXT: Kaus WCS 2023
+(Abu-Abu)
+
+RESOURCE ID: avatar_m_shirt_wcs2023promotshirt_01_00_bundle_icon
+TEXT: Kaus WCS 2023
+(Kuning)
+
+RESOURCE ID: avatar_m_shirt_wcs2023sukajan_00_bundle_icon
+TEXT: Jaket
+WCS 2023
+
+RESOURCE ID: avatar_m_shirt_wcs2023winnersitems_00_bundle_icon
+TEXT: Setelan Juara
+WCS 2023
+
+RESOURCE ID: avatar_m_shirt_wcsyokohama_00_bundle_icon
+TEXT: Jersi
+WCS 2023
+
 RESOURCE ID: avatar_m_shirt_whitecoat_00_bundle_icon
 TEXT: Mantel Musim Dingin
 
@@ -5266,6 +5369,10 @@ RESOURCE ID: avatar_m_shoes_wcs2022winnersitems_00_bundle_icon
 TEXT: Sepatu
 Juara Dunia 2022
 
+RESOURCE ID: avatar_m_shoes_wcs2023winnersitems_00_bundle_icon
+TEXT: Sepatu Juara
+WCS 2023
+
 RESOURCE ID: avatar_m_shoes_winterboots_00_bundle_icon
 TEXT: Sepatu Bot Musim Dingin 1
 
@@ -5391,36 +5498,36 @@ RESOURCE ID: awareness_enable_modal_title
 TEXT: Sinkronisasi Petualangan: Terdekat
 
 RESOURCE ID: badge_7_day_streaks
-TEXT: Meraih tangkapan Pokémon beruntun atau putaran PokéStop beruntun selama 7 hari sebanyak {0} kali.
+TEXT: Meraih tangkapan Pokémon atau pemutaran PokéStop 7 hari beruntun sebanyak {0} kali.
 
 RESOURCE ID: badge_7_day_streaks_singular
-TEXT: Meraih tangkapan Pokémon beruntun atau putaran PokéStop beruntun selama 7 hari.
+TEXT: Meraih tangkapan Pokémon atau pemutaran PokéStop 7 hari beruntun.
 
 RESOURCE ID: badge_7_day_streaks_title
 TEXT: Atlet Triatlon
 
-RESOURCE ID: badge_aa_2023_jeju_day_00_general
+RESOURCE ID: badge_aa_2023_jeju_day_00
 TEXT: Pulau Jeju, 2023
 
-RESOURCE ID: badge_aa_2023_jeju_day_00_general_title
+RESOURCE ID: badge_aa_2023_jeju_day_00_title
 TEXT: Pokémon Air Adventures
 
-RESOURCE ID: badge_aa_2023_jeju_day_01_general
+RESOURCE ID: badge_aa_2023_jeju_day_01
 TEXT: Pulau Jeju, 28 Juli 2023
 
-RESOURCE ID: badge_aa_2023_jeju_day_01_general_title
+RESOURCE ID: badge_aa_2023_jeju_day_01_title
 TEXT: Pokémon Air Adventures
 
-RESOURCE ID: badge_aa_2023_jeju_day_02_general
+RESOURCE ID: badge_aa_2023_jeju_day_02
 TEXT: Pulau Jeju, 29 Juli 2023
 
-RESOURCE ID: badge_aa_2023_jeju_day_02_general_title
+RESOURCE ID: badge_aa_2023_jeju_day_02_title
 TEXT: Pokémon Air Adventures
 
-RESOURCE ID: badge_aa_2023_jeju_day_03_general
+RESOURCE ID: badge_aa_2023_jeju_day_03
 TEXT:  Pulau Jeju, 30 Juli 2023
 
-RESOURCE ID: badge_aa_2023_jeju_day_03_general_title
+RESOURCE ID: badge_aa_2023_jeju_day_03_title
 TEXT: Pokémon Air Adventures
 
 RESOURCE ID: badge_apac_partner_july_2018_1
@@ -5508,7 +5615,7 @@ RESOURCE ID: badge_buddy_best_title
 TEXT: Partner Terbaik
 
 RESOURCE ID: badge_butterfly_collector
-TEXT: Tangkap Vivillon dari seluruh dunia.
+TEXT: Menangkap Vivillon dari seluruh dunia.
 
 RESOURCE ID: badge_butterfly_collector_archipelago_singular
 TEXT: Sematkan Kartu Pos dari daerah Kepulauan.
@@ -5619,7 +5726,7 @@ RESOURCE ID: badge_butterfly_collector_savannah_title
 TEXT: Kolektor Sabana
 
 RESOURCE ID: badge_butterfly_collector_singular
-TEXT: Tangkap Vivillon dari seluruh dunia.
+TEXT: Menangkap Vivillon dari seluruh dunia.
 
 RESOURCE ID: badge_butterfly_collector_sun_singular
 TEXT: Sematkan Kartu Pos dari daerah Matahari.
@@ -6060,10 +6167,10 @@ RESOURCE ID: badge_event_0066_title
 TEXT: Penelitian Partner: Ito En
 
 RESOURCE ID: badge_event_0067
-TEXT: Penelitian Partner - Permata Tersembunyi: Family Mart
+TEXT: Penelitian Partner - Permata Tersembunyi: FamilyMart
 
 RESOURCE ID: badge_event_0067_title
-TEXT: Penelitian Partner: Family Mart
+TEXT: Partner Penelitian: FamilyMart
 
 RESOURCE ID: badge_event_0068
 TEXT: Penelitian Partner - Permata Tersembunyi: Don Quijote
@@ -6088,6 +6195,12 @@ TEXT: 2 November 2019
 
 RESOURCE ID: badge_global_ticketed_event_title
 TEXT: Sebuah Penemuan Kolosal
+
+RESOURCE ID: badge_gofest2023_global
+TEXT: 26–27 Agustus 2023
+
+RESOURCE ID: badge_gofest2023_global_title
+TEXT: Pokémon GO Fest 2023
 
 RESOURCE ID: badge_gofest_2019_americas_day_00_north_earlyaccess
 TEXT: Chicago, 12 Juni 2019, Utara
@@ -6659,6 +6772,390 @@ TEXT: Global, 4–5 Juni 2022, dan 27 Agustus 2022
 RESOURCE ID: badge_gofest_2022_test_title
 TEXT: Pokémon GO Fest 2022
 
+RESOURCE ID: badge_gofest_2023_london_addon_hatch
+TEXT: London, 4–6 Agustus 2023
+
+RESOURCE ID: badge_gofest_2023_london_addon_hatch_test
+TEXT: London
+
+RESOURCE ID: badge_gofest_2023_london_addon_hatch_test_title
+TEXT: GO Fest 2023: Penggila Telur
+
+RESOURCE ID: badge_gofest_2023_london_addon_hatch_title
+TEXT: GO Fest 2023: Penggila Telur
+
+RESOURCE ID: badge_gofest_2023_london_addon_raid
+TEXT: London, 4–6 Agustus 2023
+
+RESOURCE ID: badge_gofest_2023_london_addon_raid_test
+TEXT: London
+
+RESOURCE ID: badge_gofest_2023_london_addon_raid_test_title
+TEXT: GO Fest 2023: Pecinta Raid
+
+RESOURCE ID: badge_gofest_2023_london_addon_raid_title
+TEXT: GO Fest 2023: Pecinta Raid
+
+RESOURCE ID: badge_gofest_2023_london_city_2_test
+TEXT: London
+
+RESOURCE ID: badge_gofest_2023_london_city_2_test_title
+TEXT: GO Fest 2023: Pakar Kota
+
+RESOURCE ID: badge_gofest_2023_london_city_test
+TEXT: London
+
+RESOURCE ID: badge_gofest_2023_london_city_test_title
+TEXT: GO Fest 2023: Pakar Kota
+
+RESOURCE ID: badge_gofest_2023_london_day1_city
+TEXT: London, 4 Agustus 2023
+
+RESOURCE ID: badge_gofest_2023_london_day1_city_title
+TEXT: GO Fest 2023: Pakar Kota (Jumat)
+
+RESOURCE ID: badge_gofest_2023_london_day1_extended
+TEXT: London, 4 Agustus 2023
+
+RESOURCE ID: badge_gofest_2023_london_day1_extended_title
+TEXT: GO Fest 2023: Pakar Kota Diperpanjang (Jumat)
+
+RESOURCE ID: badge_gofest_2023_london_day1_park_afternoon
+TEXT: Brockwell Park, London, 4 Agustus 2023 (Siang)
+
+RESOURCE ID: badge_gofest_2023_london_day1_park_afternoon_title
+TEXT: GO Fest 2023: Pakar Taman (Jumat)
+
+RESOURCE ID: badge_gofest_2023_london_day1_park_morning
+TEXT: Brockwell Park, London, 4 Agustus 2023 (Pagi)
+
+RESOURCE ID: badge_gofest_2023_london_day1_park_morning_title
+TEXT: GO Fest 2023: Pakar Taman (Jumat)
+
+RESOURCE ID: badge_gofest_2023_london_day2_city
+TEXT: London, 5 Agustus 2023
+
+RESOURCE ID: badge_gofest_2023_london_day2_city_title
+TEXT: GO Fest 2023: Pakar Kota (Sabtu)
+
+RESOURCE ID: badge_gofest_2023_london_day2_extended
+TEXT: London, 5 Agustus 2023
+
+RESOURCE ID: badge_gofest_2023_london_day2_extended_title
+TEXT: GO Fest 2023: Pakar Kota Diperpanjang (Sabtu)
+
+RESOURCE ID: badge_gofest_2023_london_day2_park_afternoon
+TEXT: Brockwell Park, London, 5 Agustus 2023 (Siang)
+
+RESOURCE ID: badge_gofest_2023_london_day2_park_afternoon_title
+TEXT: GO Fest 2023: Pakar Taman (Sabtu)
+
+RESOURCE ID: badge_gofest_2023_london_day2_park_morning
+TEXT: Brockwell Park, London, 5 Agustus 2023 (Pagi)
+
+RESOURCE ID: badge_gofest_2023_london_day2_park_morning_title
+TEXT: GO Fest 2023: Pakar Taman (Sabtu)
+
+RESOURCE ID: badge_gofest_2023_london_day3_city
+TEXT: London, 6 Agustus 2023
+
+RESOURCE ID: badge_gofest_2023_london_day3_city_title
+TEXT: GO Fest 2023: Pakar Kota (Minggu)
+
+RESOURCE ID: badge_gofest_2023_london_day3_extended
+TEXT: London, 6 Agustus 2023
+
+RESOURCE ID: badge_gofest_2023_london_day3_extended_title
+TEXT: GO Fest 2023: Pakar Kota Diperpanjang (Minggu)
+
+RESOURCE ID: badge_gofest_2023_london_day3_park_afternoon
+TEXT: Brockwell Park, London, 6 Agustus 2023 (Siang)
+
+RESOURCE ID: badge_gofest_2023_london_day3_park_afternoon_title
+TEXT: GO Fest 2023: Pakar Taman (Minggu)
+
+RESOURCE ID: badge_gofest_2023_london_day3_park_morning
+TEXT: Brockwell Park, London, 6 Agustus 2023 (Pagi)
+
+RESOURCE ID: badge_gofest_2023_london_day3_park_morning_title
+TEXT: GO Fest 2023: Pakar Taman (Minggu)
+
+RESOURCE ID: badge_gofest_2023_london_park_2_test
+TEXT: Brockwell Park, London
+
+RESOURCE ID: badge_gofest_2023_london_park_2_test_title
+TEXT: GO Fest 2023: Pakar Taman
+
+RESOURCE ID: badge_gofest_2023_london_park_test
+TEXT: Brockwell Park, London
+
+RESOURCE ID: badge_gofest_2023_london_park_test_title
+TEXT: GO Fest 2023: Pakar Taman
+
+RESOURCE ID: badge_gofest_2023_london_vip
+TEXT: London, 4–6 Agustus 2023
+
+RESOURCE ID: badge_gofest_2023_london_vip_title
+TEXT: Pokémon GO Fest 2023
+
+RESOURCE ID: badge_gofest_2023_newyork_addon_hatch
+TEXT: New York, 18–20 Agustus 2023
+
+RESOURCE ID: badge_gofest_2023_newyork_addon_hatch_test
+TEXT: New York
+
+RESOURCE ID: badge_gofest_2023_newyork_addon_hatch_test_title
+TEXT: GO Fest 2023: Penggila Telur
+
+RESOURCE ID: badge_gofest_2023_newyork_addon_hatch_title
+TEXT: GO Fest 2023: Penggila Telur
+
+RESOURCE ID: badge_gofest_2023_newyork_addon_raid
+TEXT: New York, 18–20 Agustus 2023
+
+RESOURCE ID: badge_gofest_2023_newyork_addon_raid_test
+TEXT: New York
+
+RESOURCE ID: badge_gofest_2023_newyork_addon_raid_test_title
+TEXT: GO Fest 2023: Pecinta Raid
+
+RESOURCE ID: badge_gofest_2023_newyork_addon_raid_title
+TEXT: GO Fest 2023: Pecinta Raid
+
+RESOURCE ID: badge_gofest_2023_newyork_city_2_test
+TEXT: New York
+
+RESOURCE ID: badge_gofest_2023_newyork_city_2_test_title
+TEXT: GO Fest 2023: Pakar Kota
+
+RESOURCE ID: badge_gofest_2023_newyork_city_test
+TEXT: New York
+
+RESOURCE ID: badge_gofest_2023_newyork_city_test_title
+TEXT: GO Fest 2023: Pakar Kota
+
+RESOURCE ID: badge_gofest_2023_newyork_day1_city
+TEXT: New York, 18 Agustus 2023
+
+RESOURCE ID: badge_gofest_2023_newyork_day1_city_title
+TEXT: GO Fest 2023: Pakar Kota (Jumat)
+
+RESOURCE ID: badge_gofest_2023_newyork_day1_extended
+TEXT: New York, 18 Agustus 2023
+
+RESOURCE ID: badge_gofest_2023_newyork_day1_extended_title
+TEXT: GO Fest 2023: Pakar Kota Diperpanjang (Jumat)
+
+RESOURCE ID: badge_gofest_2023_newyork_day1_park_afternoon
+TEXT: Randall's Island Park, New York, 18 Agustus 2023 (Siang)
+
+RESOURCE ID: badge_gofest_2023_newyork_day1_park_afternoon_title
+TEXT: GO Fest 2023: Pakar Taman (Jumat)
+
+RESOURCE ID: badge_gofest_2023_newyork_day1_park_morning
+TEXT: Randall's Island Park, New York, 18 Agustus 2023 (Pagi)
+
+RESOURCE ID: badge_gofest_2023_newyork_day1_park_morning_title
+TEXT: GO Fest 2023: Pakar Taman (Jumat)
+
+RESOURCE ID: badge_gofest_2023_newyork_day2_city
+TEXT: New York, 19 Agustus 2023
+
+RESOURCE ID: badge_gofest_2023_newyork_day2_city_title
+TEXT: GO Fest 2023: Pakar Kota (Sabtu)
+
+RESOURCE ID: badge_gofest_2023_newyork_day2_extended
+TEXT: New York, 19 Agustus 2023
+
+RESOURCE ID: badge_gofest_2023_newyork_day2_extended_title
+TEXT: GO Fest 2023: Pakar Kota Diperpanjang (Sabtu)
+
+RESOURCE ID: badge_gofest_2023_newyork_day2_park_afternoon
+TEXT: Randall's Island Park, New York, 19 Agustus 2023 (Siang)
+
+RESOURCE ID: badge_gofest_2023_newyork_day2_park_afternoon_title
+TEXT: GO Fest 2023: Pakar Taman (Sabtu)
+
+RESOURCE ID: badge_gofest_2023_newyork_day2_park_morning
+TEXT: Randall's Island Park, New York, 19 Agustus 2023 (Pagi)
+
+RESOURCE ID: badge_gofest_2023_newyork_day2_park_morning_title
+TEXT: GO Fest 2023: Pakar Taman (Sabtu)
+
+RESOURCE ID: badge_gofest_2023_newyork_day3_city
+TEXT: New York, 20 Agustus 2023
+
+RESOURCE ID: badge_gofest_2023_newyork_day3_city_title
+TEXT: GO Fest 2023: Pakar Kota (Minggu)
+
+RESOURCE ID: badge_gofest_2023_newyork_day3_extended
+TEXT: New York, 20 Agustus 2023
+
+RESOURCE ID: badge_gofest_2023_newyork_day3_extended_title
+TEXT: GO Fest 2023: Pakar Kota Diperpanjang (Minggu)
+
+RESOURCE ID: badge_gofest_2023_newyork_day3_park_afternoon
+TEXT: Randall's Island Park, New York, 20 Agustus 2023 (Siang)
+
+RESOURCE ID: badge_gofest_2023_newyork_day3_park_afternoon_title
+TEXT: GO Fest 2023: Pakar Taman (Minggu)
+
+RESOURCE ID: badge_gofest_2023_newyork_day3_park_morning
+TEXT: Randall's Island Park, New York, 20 Agustus 2023 (Pagi)
+
+RESOURCE ID: badge_gofest_2023_newyork_day3_park_morning_title
+TEXT: GO Fest 2023: Pakar Taman (Minggu)
+
+RESOURCE ID: badge_gofest_2023_newyork_park_2_test
+TEXT: Randall's Island Park, New York
+
+RESOURCE ID: badge_gofest_2023_newyork_park_2_test_title
+TEXT: GO Fest 2023: Pakar Taman
+
+RESOURCE ID: badge_gofest_2023_newyork_park_test
+TEXT: Randall's Island Park, New York
+
+RESOURCE ID: badge_gofest_2023_newyork_park_test_title
+TEXT: GO Fest 2023: Pakar Taman
+
+RESOURCE ID: badge_gofest_2023_newyork_vip
+TEXT: New York, 18–20 Agustus 2023
+
+RESOURCE ID: badge_gofest_2023_newyork_vip_title
+TEXT: Pokémon GO Fest 2023
+
+RESOURCE ID: badge_gofest_2023_osaka_addon_hatch
+TEXT: Osaka, 4–6 Agustus 2023
+
+RESOURCE ID: badge_gofest_2023_osaka_addon_hatch_test
+TEXT: Osaka
+
+RESOURCE ID: badge_gofest_2023_osaka_addon_hatch_test_title
+TEXT: GO Fest 2023: Penggila Telur
+
+RESOURCE ID: badge_gofest_2023_osaka_addon_hatch_title
+TEXT: GO Fest 2023: Penggila Telur
+
+RESOURCE ID: badge_gofest_2023_osaka_addon_raid
+TEXT: Osaka, 4–6 Agustus 2023
+
+RESOURCE ID: badge_gofest_2023_osaka_addon_raid_test
+TEXT: Osaka
+
+RESOURCE ID: badge_gofest_2023_osaka_addon_raid_test_title
+TEXT: GO Fest 2023: Pecinta Raid
+
+RESOURCE ID: badge_gofest_2023_osaka_addon_raid_title
+TEXT: GO Fest 2023: Pecinta Raid
+
+RESOURCE ID: badge_gofest_2023_osaka_city_2_test
+TEXT: Osaka
+
+RESOURCE ID: badge_gofest_2023_osaka_city_2_test_title
+TEXT: GO Fest 2023: Pakar Kota
+
+RESOURCE ID: badge_gofest_2023_osaka_city_test
+TEXT: Osaka
+
+RESOURCE ID: badge_gofest_2023_osaka_city_test_title
+TEXT: GO Fest 2023: Pakar Kota
+
+RESOURCE ID: badge_gofest_2023_osaka_day1_city
+TEXT: Osaka, 4 Agustus 2023
+
+RESOURCE ID: badge_gofest_2023_osaka_day1_city_title
+TEXT: GO Fest 2023: Pakar Kota (Jumat)
+
+RESOURCE ID: badge_gofest_2023_osaka_day1_extended
+TEXT: Osaka, 4 Agustus 2023
+
+RESOURCE ID: badge_gofest_2023_osaka_day1_extended_title
+TEXT: GO Fest 2023: Pakar Kota Diperpanjang (Jumat)
+
+RESOURCE ID: badge_gofest_2023_osaka_day1_park_afternoon
+TEXT: Expo '70 Commemorative Park, Osaka, 4 Agustus 2023 (Siang)
+
+RESOURCE ID: badge_gofest_2023_osaka_day1_park_afternoon_title
+TEXT: GO Fest 2023: Pakar Taman (Jumat)
+
+RESOURCE ID: badge_gofest_2023_osaka_day1_park_morning
+TEXT: Expo '70 Commemorative Park, Osaka, 4 Agustus 2023 (Pagi)
+
+RESOURCE ID: badge_gofest_2023_osaka_day1_park_morning_title
+TEXT: GO Fest 2023: Pakar Taman (Jumat)
+
+RESOURCE ID: badge_gofest_2023_osaka_day2_city
+TEXT: Osaka, 5 Agustus 2023
+
+RESOURCE ID: badge_gofest_2023_osaka_day2_city_title
+TEXT: GO Fest 2023: Pakar Kota (Sabtu)
+
+RESOURCE ID: badge_gofest_2023_osaka_day2_extended
+TEXT: Osaka, 5 Agustus 2023
+
+RESOURCE ID: badge_gofest_2023_osaka_day2_extended_title
+TEXT: GO Fest 2023: Pakar Kota Diperpanjang (Sabtu)
+
+RESOURCE ID: badge_gofest_2023_osaka_day2_park_afternoon
+TEXT: Expo '70 Commemorative Park, Osaka, 5 Agustus 2023 (Siang)
+
+RESOURCE ID: badge_gofest_2023_osaka_day2_park_afternoon_title
+TEXT: GO Fest 2023: Pakar Taman (Sabtu)
+
+RESOURCE ID: badge_gofest_2023_osaka_day2_park_morning
+TEXT: Expo '70 Commemorative Park, Osaka, 5 Agustus 2023 (Pagi)
+
+RESOURCE ID: badge_gofest_2023_osaka_day2_park_morning_title
+TEXT: GO Fest 2023: Pakar Taman (Sabtu)
+
+RESOURCE ID: badge_gofest_2023_osaka_day3_city
+TEXT: Osaka, 6 Agustus 2023
+
+RESOURCE ID: badge_gofest_2023_osaka_day3_city_title
+TEXT: GO Fest 2023: Pakar Kota (Minggu)
+
+RESOURCE ID: badge_gofest_2023_osaka_day3_extended
+TEXT: Osaka, 6 Agustus 2023
+
+RESOURCE ID: badge_gofest_2023_osaka_day3_extended_title
+TEXT: GO Fest 2023: Pakar Kota Diperpanjang (Minggu)
+
+RESOURCE ID: badge_gofest_2023_osaka_day3_park_afternoon
+TEXT: Expo '70 Commemorative Park, Osaka, 6 Agustus 2023 (Siang)
+
+RESOURCE ID: badge_gofest_2023_osaka_day3_park_afternoon_title
+TEXT: GO Fest 2023: Pakar Taman (Minggu)
+
+RESOURCE ID: badge_gofest_2023_osaka_day3_park_morning
+TEXT: Expo '70 Commemorative Park, Osaka, 6 Agustus 2023 (Pagi)
+
+RESOURCE ID: badge_gofest_2023_osaka_day3_park_morning_title
+TEXT: GO Fest 2023: Pakar Taman (Minggu)
+
+RESOURCE ID: badge_gofest_2023_osaka_park_2_test
+TEXT: Expo '70 Commemorative Park, Osaka
+
+RESOURCE ID: badge_gofest_2023_osaka_park_2_test_title
+TEXT: GO Fest 2023: Pakar Taman
+
+RESOURCE ID: badge_gofest_2023_osaka_park_test
+TEXT: Expo '70 Commemorative Park, Osaka
+
+RESOURCE ID: badge_gofest_2023_osaka_park_test_title
+TEXT: GO Fest 2023: Pakar Taman
+
+RESOURCE ID: badge_gofest_2023_osaka_vip
+TEXT: Osaka, 4–6 Agustus 2023
+
+RESOURCE ID: badge_gofest_2023_osaka_vip_title
+TEXT: Pokémon GO Fest 2023
+
+RESOURCE ID: badge_gofest_2023_test
+TEXT: August 26–27, 2023
+
+RESOURCE ID: badge_gofest_2023_test_title
+TEXT: Pokémon GO Fest 2023
+
 RESOURCE ID: badge_gotour_2021_green_global
 TEXT: Global, 20 Februari 2021
 
@@ -6858,7 +7355,7 @@ RESOURCE ID: badge_max_size_first_place_win_title
 TEXT: Koordinator Pameran
 
 RESOURCE ID: badge_mini_collection_singular
-TEXT: Tantangan Koleksi Selesai.
+TEXT: Menyelesaikan Tantangan Koleksi.
 
 RESOURCE ID: badge_mini_collection_title
 TEXT: Kolektor Pokémon Elite
@@ -7014,7 +7511,7 @@ RESOURCE ID: badge_pokemon_caught_at_your_lures_title
 TEXT: Perempuan Piknik
 
 RESOURCE ID: badge_pokemon_purified
-TEXT: {0} Pokémon Bayangan dipurifikasi.
+TEXT: Mempurifikasi {0} Pokémon Bayangan.
 
 RESOURCE ID: badge_pokemon_purified_title
 TEXT: Pemurni
@@ -10572,7 +11069,7 @@ RESOURCE ID: beluga_transfer_connect
 TEXT: Mencari Nintendo Switch...
 
 RESOURCE ID: beluga_transfer_privacy_warning
-TEXT: Saat menghubungkan Pokémon GO dengan Pokémon: Let's Go, Pikachu! atau Pokémon: Let's Go, Eevee!, hanya data tertentu yang akan dibagikan kepada Nintendo selama mentransfer Pokémon. Lihat Artikel Bantuan untuk informasi selengkapnya. Data yang dibagikan kepada Nintendo berdasar pada kebijakan privasi dari Nintendo.
+TEXT: Saat menghubungkan Pokémon GO dengan Pokémon: Let's Go, Pikachu! atau Pokémon: Let's Go, Eevee!, hanya data tertentu yang akan dibagikan kepada Nintendo selama mentransfer Pokémon. Lihat Artikel Bantuan untuk informasi selengkapnya. Data yang dibagikan kepada Nintendo berdasar pada kebijakan privasi dari Nintendo.
 *Layanan ini hanya berlaku di beberapa daerah dan negara tertentu
 
 RESOURCE ID: beluga_transferring
@@ -10742,10 +11239,10 @@ RESOURCE ID: bonus_candy_xl_candy_nice_great_excel
 TEXT: Tambahan Permen dan Peluang Permen XL meningkat dengan Nice, Great, dan Excellent Throw
 
 RESOURCE ID: bonus_catch_cup_daily
-TEXT: Event Kejuaraan Instan tersedia untuk Pelatih lokal
+TEXT: Event Piala Instan tersedia untuk Pelatih lokal
 
 RESOURCE ID: bonus_catch_cup_post
-TEXT: Pasca Event Kejuaraan Instan tersedia di GO Battle League untuk peserta Pokémon GO Safari Zone: Singapura 2022
+TEXT: Pasca Event Piala Instan tersedia di GO Battle League untuk peserta Pokémon GO Safari Zone: Singapura 2022
 
 RESOURCE ID: bonus_cd_move_alodude
 TEXT: Evolusikan Alolan Graveler untuk mendapatkan Alolan Golem yang mempelajari Menggelinding
@@ -10754,7 +11251,7 @@ RESOURCE ID: bonus_cd_move_axew
 TEXT: Evolusikan Fraxure untuk mendapatkan Haxorus yang mempelajari Wide Breaker!
 
 RESOURCE ID: bonus_cd_move_chespin
-TEXT: Evolusikan Quilladin (Evolusi Chespin) untuk mendapatkan Chesnaught yang mempelajari Tanaman Mengamuk!
+TEXT: Evolusikan Quilladin (Evolusi Chespin) untuk mendapatkan Chesnaught yang mempelajari Hard Plant!
 
 RESOURCE ID: bonus_cd_move_deino
 TEXT: Evolusikan Zweilous untuk mendapatkan Hydreigon yang mempelajari Ayunan Brutal!
@@ -10773,6 +11270,12 @@ TEXT: Evolusikan Lampent untuk mendapatkan Chandelure yang mempelajari Poltergei
 
 RESOURCE ID: bonus_cd_move_noibat
 TEXT: Evolusikan Noibat untuk mendapatkan Noivern yang mempelajari Gelombang Suara Menggelegar!
+
+RESOURCE ID: bonus_cd_move_poliwag_politoed
+TEXT: Evolusikan Poliwhirl untuk mendapatkan Politoed yang mempelajari Sinar Pembeku!
+
+RESOURCE ID: bonus_cd_move_poliwag_poliwrath
+TEXT: Evolusikan Poliwhirl untuk mendapatkan Poliwrath yang mempelajari Serangan Balik!
 
 RESOURCE ID: bonus_cd_move_roggenrola
 TEXT: Evolusikan Boldore untuk mendapatkan Gigalith yang mempelajari Meteor Beam
@@ -10825,6 +11328,9 @@ TEXT: Pada tepat setiap jam, sangat banyak Finneon yang akan muncul!
 RESOURCE ID: bonus_fr_party_pikachu
 TEXT: Selesaikan tugas Penelitian Lapangan yang didapat dari PokéStop Temu Sapa untuk bertemu dengan Pikachu bertopi pesta!
 
+RESOURCE ID: bonus_friendship_raid_double
+TEXT: Bonus Kerusakan Raid Pertemanan ×2
+
 RESOURCE ID: bonus_go_tour_2023_add_on_hatch_01
 TEXT: Debu Bintang Penetasan ×3
 
@@ -10860,6 +11366,9 @@ TEXT: Kyogre yang ditangkap selama event ini akan mempelajari Serangan Spesial A
 
 RESOURCE ID: bonus_go_tour_irl_extra_candy
 TEXT: Jaminan tambahan 1 Permen XL dari partisipasi Raid Primal secara langsung
+
+RESOURCE ID: bonus_hatch_day_hatch_2x
+TEXT: Debu Bintang Penetasan ×2
 
 RESOURCE ID: bonus_hoenn_spawns
 TEXT: Lebih banyak Pokémon yang pertama kali ditemukan di Daerah Hoenn muncul di alam liar
@@ -10900,6 +11409,9 @@ TEXT: Tantangan Hari Komunitas: Tangkap
 RESOURCE ID: bonus_implicit_social_noibat_raid
 TEXT: Jika Pelatih bekerja sama untuk memenangkan Raid Noibat, Noibat akan muncul dalam jumlah besar di area selama 30 menit.
 
+RESOURCE ID: bonus_implicit_social_poliwag_raid
+TEXT: Jika Pelatih bekerja sama untuk memenangkan Raid Poliwhirl, Poliwag akan muncul di sekitar Gym selama 30 menit.
+
 RESOURCE ID: bonus_implicit_social_raid_title
 TEXT: Tantangan Hari Komunitas: Raid
 
@@ -10939,6 +11451,9 @@ TEXT: Pewangi akan menarik Pikachu bertopi gaya Hoenn atau Pikachu berpita gaya 
 RESOURCE ID: bonus_incense_hoenn_unown
 TEXT: Pewangi akan menarik Unown
 
+RESOURCE ID: bonus_increased_raid_capture
+TEXT: Rasio penangkapan Pokémon di Raid ditingkatkan
+
 RESOURCE ID: bonus_jeju_balloon_pikachu
 TEXT: Pikachu Terbang berbalon oranye muncul di area
 
@@ -10952,7 +11467,7 @@ RESOURCE ID: bonus_magnetic_lure_6_hr
 TEXT: Durasi Modul Umpan Magnet 6 jam
 
 RESOURCE ID: bonus_mega_latias_latios
-TEXT: Mega Latias dan Mega Latios muncul di Raid Mega
+TEXT: Raid Mega Latias dan Mega Latios muncul di area!
 
 RESOURCE ID: bonus_milestone_rewards_title
 TEXT: BONUS HADIAH MILESTONE
@@ -10972,11 +11487,17 @@ TEXT: Rayquaza yang ditangkap dari Raid akan mempelajari Serangan Spesial Wide B
 RESOURCE ID: bonus_purrloin_o_clock
 TEXT: Pada tepat setiap jam, sangat banyak Purrloin yang akan muncul!
 
+RESOURCE ID: bonus_raid_3_xl_candy
+TEXT: Tambahan 3 Permen XL dari menangkap Pokémon di Raid bintang lima, Mega, dan Primal
+
+RESOURCE ID: bonus_raid_6_candy
+TEXT: Tambahan 6 Permen dari menangkap Pokémon di Raid bintang lima, Mega, dan Primal
+
 RESOURCE ID: bonus_raid_move_blaziken
 TEXT: Blaziken yang ditangkap selama event ini akan mempelajari Serangan Spesial Blast Burn. 
 
 RESOURCE ID: bonus_raid_move_sceptile
-TEXT: Sceptile yang ditangkap selama event ini akan mempelajari Serangan Spesial Tanaman Mengamuk. 
+TEXT: Sceptile yang ditangkap selama event ini akan mempelajari Serangan Spesial Hard Plant. 
 
 RESOURCE ID: bonus_raid_move_swampert
 TEXT: Swampert yang ditangkap selama event ini akan mempelajari Serangan Spesial Hydro Cannon.
@@ -11097,6 +11618,9 @@ TEXT: Jumlah Debu Bintang dari mengalahkan Bawahan Tim Roket GO meningkat
 
 RESOURCE ID: bonus_tgr_stardust_leader
 TEXT: Jumlah Debu Bintang dari mengalahkan Pemimpin Tim Roket GO meningkat
+
+RESOURCE ID: bonus_total_6_special_trades
+TEXT: Total Pertukaran Spesial per hari: 6 kali
 
 RESOURCE ID: bonus_trade_stardust_50pc_5hr
 TEXT: Pemakaian Debu Bintang -50% untuk pertukaran yang dilakukan selama event dan 5 jam setelahnya.
@@ -11342,7 +11866,7 @@ RESOURCE ID: branch_searching_gold_june23_barboach_button_text_key
 TEXT: Barboach
 
 RESOURCE ID: branch_searching_gold_june23_barboach_description_key
-TEXT: Pilih ini untuk bertemu dengan Barboach sebagai hadiah ketika kamu menyelesaikan tugas Penelitian Berwaktu ini.
+TEXT: Pilih opsi ini untuk bertemu dengan Barboach sebagai hadiah ketika kamu menyelesaikan tugas Penelitian Berwaktu ini.
 
 RESOURCE ID: branch_searching_gold_june23_barboach_title_key
 TEXT: Barboach
@@ -11351,7 +11875,7 @@ RESOURCE ID: branch_searching_gold_june23_caterpie_button_text_key
 TEXT: Caterpie
 
 RESOURCE ID: branch_searching_gold_june23_caterpie_description_key
-TEXT: Pilih ini untuk bertemu dengan Caterpie sebagai hadiah ketika kamu menyelesaikan tugas Penelitian Berwaktu ini.
+TEXT: Pilih opsi ini untuk bertemu dengan Caterpie sebagai hadiah ketika kamu menyelesaikan tugas Penelitian Berwaktu ini.
 
 RESOURCE ID: branch_searching_gold_june23_caterpie_title_key
 TEXT: Caterpie
@@ -11360,7 +11884,7 @@ RESOURCE ID: branch_searching_gold_june23_magikarp_button_text_key
 TEXT: Magikarp
 
 RESOURCE ID: branch_searching_gold_june23_magikarp_description_key
-TEXT: Pilih ini untuk bertemu dengan Magikarp sebagai hadiah ketika kamu menyelesaikan tugas Penelitian Berwaktu ini.
+TEXT: Pilih opsi ini untuk bertemu dengan Magikarp sebagai hadiah ketika kamu menyelesaikan tugas Penelitian Berwaktu ini.
 
 RESOURCE ID: branch_searching_gold_june23_magikarp_title_key
 TEXT: Magikarp
@@ -11369,7 +11893,7 @@ RESOURCE ID: branch_searching_gold_june23_nosepass_button_text_key
 TEXT: Nosepass
 
 RESOURCE ID: branch_searching_gold_june23_nosepass_description_key
-TEXT: Pilih ini untuk bertemu dengan Nosepass sebagai hadiah ketika kamu menyelesaikan tugas Penelitian Berwaktu ini.
+TEXT: Pilih opsi ini untuk bertemu dengan Nosepass sebagai hadiah ketika kamu menyelesaikan tugas Penelitian Berwaktu ini.
 
 RESOURCE ID: branch_searching_gold_june23_nosepass_title_key
 TEXT: Nosepass
@@ -11378,7 +11902,7 @@ RESOURCE ID: branch_searching_gold_june23_sableye_button_text_key
 TEXT: Sableye
 
 RESOURCE ID: branch_searching_gold_june23_sableye_description_key
-TEXT: Pilih ini untuk bertemu dengan Sableye sebagai hadiah ketika kamu menyelesaikan tugas Penelitian Berwaktu ini.
+TEXT: Pilih opsi ini untuk bertemu dengan Sableye sebagai hadiah ketika kamu menyelesaikan tugas Penelitian Berwaktu ini.
 
 RESOURCE ID: branch_searching_gold_june23_sableye_title_key
 TEXT: Sableye
@@ -11452,6 +11976,9 @@ TEXT: Beberapa pilihan penelitian dapat mengarahkanmu ke tantangan dan hadiah ya
 RESOURCE ID: brazilianportuguese
 TEXT: Português
 
+RESOURCE ID: breakfast_tappable_tutorial_body
+TEXT: Kamu dapat menemukan Sel Zygarde saat menelusuri Rute. Sel tersebut dapat digabungkan untuk membentuk bentuk lain dari Zygarde.
+
 RESOURCE ID: breakthrough_free_remote_raid_pass
 TEXT: Tiket Raid Jarak Jauh dari Inovasi Penelitian
 
@@ -11484,6 +12011,15 @@ TEXT: Izin Kamera
 
 RESOURCE ID: buddy_candy_distance_half
 TEXT: Jarak untuk mendapatkan Permen Partner x1/2
+
+RESOURCE ID: buddy_candy_distance_routes_2x
+TEXT: Jarak untuk mendapatkan Permen Partner saat menjelajahi Rute bersama Partnermu ×1/2
+
+RESOURCE ID: buddy_candy_distance_routes_3x
+TEXT: Jarak untuk mendapatkan Permen Partner saat menjelajahi Rute bersama Partnermu ×1/3
+
+RESOURCE ID: buddy_candy_distance_routes_50p
+TEXT: Jarak untuk mendapatkan Permen Partner saat menjelajahi Rute bersama Partnermu ×2/3
 
 RESOURCE ID: buddy_cannot_feed_because_cooldown
 TEXT: Partner sedang beristirahat!
@@ -11628,6 +12164,12 @@ TEXT: Partnermu menemukan sesuatu untukmu!
 
 RESOURCE ID: buddy_giftbox_increase
 TEXT: Partner akan lebih sering membawakanmu Hadiah
+
+RESOURCE ID: buddy_heart_play_route_together_description
+TEXT: Kamu bisa mendapatkan hati dengan Partnermu jika menelusuri Rute ketika bertualang bersama.
+
+RESOURCE ID: buddy_heart_play_route_together_title
+TEXT: Telusuri Rute bersama
 
 RESOURCE ID: buddy_hearts_label
 TEXT: Hati Partner
@@ -12154,10 +12696,10 @@ RESOURCE ID: buddy_tutorial_feed_fill
 TEXT: Berikan camilan kepada partnermu sampai barometer terisi.
 
 RESOURCE ID: buddy_tutorial_feed_join
-TEXT: Partnermu telah bergabung ke petualanganmu!
+TEXT: Partnermu bergabung ke petualanganmu!
 
 RESOURCE ID: buddy_tutorial_map_p0
-TEXT: Partnermu telah bergabung ke petualanganmu!
+TEXT: Partnermu bergabung ke petualanganmu!
 
 RESOURCE ID: buddy_tutorial_map_p1
 TEXT: Saat partnermu lapar, ia akan berhenti mengikutimu. Lihat kondisi lapar partnermu dengan barometer ini.
@@ -12551,7 +13093,7 @@ RESOURCE ID: catch_card_total_species_caught
 TEXT: Total Penangkapan {0}: {1}
 
 RESOURCE ID: catch_cup_title
-TEXT: Kejuaraan Instan
+TEXT: Piala Instan
 
 RESOURCE ID: catch_exclamation_point
 TEXT: Tangkap!
@@ -14112,7 +14654,7 @@ RESOURCE ID: combat_go
 TEXT: GO!
 
 RESOURCE ID: combat_gotour_kanto_cup
-TEXT: Tur GO: Kejuaraan Kanto
+TEXT: Tur GO: Piala Kanto
 
 RESOURCE ID: combat_great_league
 TEXT: Liga Great
@@ -14714,6 +15256,9 @@ TEXT: Hari Komunitas: Noibat
 RESOURCE ID: community_day_oshawott_event_name
 TEXT: Hari Komunitas: Oshawott
 
+RESOURCE ID: community_day_poliwag_event_name
+TEXT: Hari Komunitas: Poliwag
+
 RESOURCE ID: community_day_porygon_event_name
 TEXT: Hari Komunitas: Porygon
 
@@ -14831,6 +15376,9 @@ TEXT: Cahaya merah atau putih. Berarti PokéStop berada di luar jangkauan atau T
 RESOURCE ID: complete_geotarget_quest
 TEXT: Selesaikan tugas Pemetaan AR
 
+RESOURCE ID: complete_route_travel_error_toast
+TEXT: Kesalahan penyelesaian Rute
+
 RESOURCE ID: complete_transfer_in_ph_app
 TEXT: Silakan buka Pokémon HOME dan selesaikan proses pemindahan Pokémon.
 
@@ -14860,6 +15408,9 @@ TEXT: Kamu dapat terus menggunakan {0} sampai kamu memenangkan pertarungan!
 
 RESOURCE ID: consume_combat_pass_warning_title
 TEXT: Gunakan {0}?
+
+RESOURCE ID: contact_support
+TEXT: Hubungi Dukungan
 
 RESOURCE ID: contest_badge_description
 TEXT: Menangkan {0} Pameran PokéStop
@@ -14895,7 +15446,7 @@ RESOURCE ID: contest_enter_error_recent_win
 TEXT: Pokémon ini memenangkan Pameran PokéStop belakangan ini.
 
 RESOURCE ID: contest_enter_nearby_contest
-TEXT: Daftar ke Pameran PokéStop terdekat
+TEXT: Daftar Pameran PokéStop
 
 RESOURCE ID: contest_enter_pokemon
 TEXT: Daftarkan {0}
@@ -15193,6 +15744,9 @@ TEXT: Kembalilah besok untuk mendapatkan lebih banyak PokéCoin
 
 RESOURCE ID: daily_research_title
 TEXT: Penelitian Harian
+
+RESOURCE ID: daily_route_play
+TEXT: Permainan Rute Harian
 
 RESOURCE ID: dark_flames_dark_title
 TEXT: Penelitian Berwaktu Api Kegelapan: Tipe Kegelapan
@@ -15518,6 +16072,9 @@ TEXT: jumlah hati dengan partner menjadi ×2
 RESOURCE ID: download_all_assets_all_downloaded
 TEXT: Semua aset sudah diunduh.
 
+RESOURCE ID: download_all_assets_checking_assets_indicator
+TEXT: Checking assets...
+
 RESOURCE ID: download_all_assets_complete_description
 TEXT: Kamu sudah berhasil mengunduh semua aset ke perangkat. Saatnya GO!
 
@@ -15576,6 +16133,9 @@ TEXT: Pengunduhan tidak bisa diselesaikan dikarenakan penyimpanan perangkat penu
 
 RESOURCE ID: download_all_assets_title
 TEXT: Unduh Semua Aset
+
+RESOURCE ID: download_all_assets_verifying_download_indicator
+TEXT: Verifying download...
 
 RESOURCE ID: download_all_assets_wifi_lost
 TEXT: Pengunduhan tidak bisa diselesaikan karena koneksi Wi-Fi terputus. Sambungkan kembali, lalu coba lagi.
@@ -15647,7 +16207,7 @@ RESOURCE ID: egg_detail_put_in_incubator
 TEXT: Gunakan Mesin Penetas untuk menetaskan Telur ini.
 
 RESOURCE ID: egg_detail_start_incubation
-TEXT: MENGERAMKAN
+TEXT: TETASKAN
 
 RESOURCE ID: egg_hatch_subtitle
 TEXT: {0} Telur siap menetas!
@@ -15662,7 +16222,7 @@ RESOURCE ID: egg_transparency_available_pokemon
 TEXT: Calon Pokémon
 
 RESOURCE ID: egg_transparency_help
-TEXT: Grup Pokémon yang ada di posisi lebih tinggi dalam lis kemungkinan besar akan menetas dari Telur ini.
+TEXT: Grup Pokémon yang ada di posisi lebih tinggi dalam lis berkemungkinan besar menetas dari Telur ini.
 
 RESOURCE ID: egg_walk_to_hatch
 TEXT: Tetaskan Telur dengan berjalan sejauh {0} km!
@@ -15689,16 +16249,16 @@ RESOURCE ID: eggstravaganza_event_name
 TEXT: Eggstravaganza
 
 RESOURCE ID: electric_cup_great_title
-TEXT: Kejuaraan Elektrik: Edisi Liga Great
+TEXT: Piala Elektrik: Edisi Liga Great
 
 RESOURCE ID: electric_type_event
 TEXT: Lonjakan Tipe: Listrik
 
 RESOURCE ID: element_cup_title
-TEXT: Kejuaraan Elemen
+TEXT: Piala Elemen
 
 RESOURCE ID: element_remix_cup_title
-TEXT: Kejuaraan Elemen Remix
+TEXT: Piala Elemen Remix
 
 RESOURCE ID: elite_raid_drago_research_bonus
 TEXT: Penelitian Berwaktu Raid Elite: Regidrago
@@ -16567,6 +17127,12 @@ TEXT: Event Perayaan Daerah Kalos
 RESOURCE ID: event_kanto_celebration
 TEXT: Event Perayaan Daerah Kanto
 
+RESOURCE ID: event_live_city_active_generic
+TEXT: Sesi Pakar Kota! Ayo ke kota dan bermain!
+
+RESOURCE ID: event_live_park_active_generic
+TEXT: Sesi Pakar Taman! Ayo ke taman dan bermain!
+
 RESOURCE ID: event_mega_cp_bonus
 TEXT: Peningkatan CP untuk Pokémon hasil Evolusi Mega tertentu
 
@@ -16620,6 +17186,9 @@ TEXT: Pedang Mitos
 
 RESOURCE ID: event_name_bonus_generic
 TEXT: Event Bonus
+
+RESOURCE ID: event_name_routes
+TEXT: Sebuah Jalan Baru
 
 RESOURCE ID: event_name_snap
 TEXT: Selebrasi New Pokémon Snap
@@ -17141,7 +17710,7 @@ RESOURCE ID: evo_2019_rocket_l
 TEXT: Event Evolusi: Menangkan pertarungan {0} kali melawan Pemimpin Tim Roket GO
 
 RESOURCE ID: evolution_cup_title
-TEXT: Kejuaraan Evolusi
+TEXT: Piala Evolusi
 
 RESOURCE ID: evolution_event_name
 TEXT: Event Evolusi
@@ -17394,6 +17963,10 @@ Kebangkitan Hero
 RESOURCE ID: f_avatar_poses_bundle_pose_52
 TEXT: Pose Peselancar
 
+RESOURCE ID: f_avatar_poses_bundle_pose_53
+TEXT: Pose Peta
+Harta Karun
+
 RESOURCE ID: f_avatar_poses_empty_bundle_pose_empty
 TEXT: Biasa
 
@@ -17455,7 +18028,7 @@ RESOURCE ID: fairy_type_event
 TEXT: Lonjakan Tipe: Peri
 
 RESOURCE ID: fantasy_cup_ultra_title
-TEXT: Kejuaraan Fantasi: Edisi Liga Ultra
+TEXT: Piala Fantasi: Edisi Liga Ultra
 
 RESOURCE ID: fashion_week_event
 TEXT: Fashion Week
@@ -17467,7 +18040,7 @@ RESOURCE ID: fb_auth_error_no_email
 TEXT: Mohon gunakan akun Facebook dengan alamat email tertaut.
 
 RESOURCE ID: fb_auth_failed
-TEXT: Tidak dapat mengautentikasi. Coba lagi.
+TEXT: Gagal mengauntentikasi akun. Coba lagi nanti atau coba dengan akun lainnya yang tertaut.
 
 RESOURCE ID: fb_invite_add_friends
 TEXT: Tambahkan Teman Facebook
@@ -17540,10 +18113,10 @@ TEXT: Terima kasih telah mengikuti field-test Pokémon GO!
 Kami akan segera kembali!
 
 RESOURCE ID: fighting_cup_great_remix_title
-TEXT: Kejuaraan Petarung: Edisi Liga Great Remix
+TEXT: Piala Petarung: Edisi Liga Great Remix
 
 RESOURCE ID: fighting_cup_title
-TEXT: Kejuaraan Petarung
+TEXT: Piala Petarung
 
 RESOURCE ID: fighting_type_event
 TEXT: Lonjakan Tipe: Petarung
@@ -17924,7 +18497,7 @@ RESOURCE ID: flying_cup
 TEXT: Piala Terbang tersedia di GO Battle League
 
 RESOURCE ID: flying_cup_title
-TEXT: Kejuaraan Terbang
+TEXT: Piala Terbang
 
 RESOURCE ID: flying_type_event
 TEXT: Lonjakan Tipe: Terbang
@@ -18679,6 +19252,12 @@ TEXT: Wujud Sendirian
 RESOURCE ID: form_zygarde_complete
 TEXT: Bentuk Sempurna
 
+RESOURCE ID: form_zygarde_complete_fifty_percent
+TEXT: Bentuk 50%
+
+RESOURCE ID: form_zygarde_complete_ten_percent
+TEXT: Bentuk 10%
+
 RESOURCE ID: form_zygarde_fifty_percent
 TEXT: Bentuk 50%
 
@@ -18686,7 +19265,7 @@ RESOURCE ID: form_zygarde_ten_percent
 TEXT: Bentuk 10%
 
 RESOURCE ID: fossil_cup_title
-TEXT: Kejuaraan Fosil
+TEXT: Piala Fosil
 
 RESOURCE ID: found_referral_code_from_link
 TEXT: Kode referral ditemukan!
@@ -18756,10 +19335,10 @@ RESOURCE ID: friend_niantic_game_preview_list_title
 TEXT: Niantic Games Lainnya untuk Dibagikan
 
 RESOURCE ID: friend_opened_your_gift
-TEXT: {0} menerima {1} alat dari Hadiahmu!
+TEXT: {0} menerima {1} item dari Hadiahmu!
 
 RESOURCE ID: friend_opened_your_gift_singular
-TEXT: {0} menerima 1 alat dari Hadiahmu!
+TEXT: {0} menerima 1 item dari Hadiahmu!
 
 RESOURCE ID: friend_pinned_your_postcard_singular_from_poi
 TEXT: {0} telah menyimpan Kartu Posmu dari {1}!
@@ -18958,6 +19537,9 @@ TEXT: Sepertinya komponen ini cocok!
 RESOURCE ID: full_inventory_text
 TEXT: PENUH
 
+RESOURCE ID: fullscreen_streak_title
+TEXT: BONUS HARI KE-7
+
 RESOURCE ID: furfrou_heart_trim
 TEXT: Furfrou dapat melakukan Perubahan Wujud menjadi wujud Potongan Hati
 
@@ -19008,6 +19590,9 @@ TEXT: Hadiah Debu Bintang di GO Battle League ×4
 
 RESOURCE ID: gbl_quintuple_dust_win
 TEXT: Hadiah Debu Bintang di GO Battle League ×5
+
+RESOURCE ID: gbl_sets_extra_ten_total
+TEXT: Total Pertarungan di GO Battle League: 10 set
 
 RESOURCE ID: gbl_sets_extra_three
 TEXT: Pertarungan di GO Battle League +3 set
@@ -19076,17 +19661,17 @@ RESOURCE ID: general1.ticket.2_alodude_title
 TEXT: Jalan Bebatuan
 
 RESOURCE ID: general1.ticket.2_aprilcdc2023_description
-TEXT: Tiket untuk mengakses Penelitian Spesial: Hari Komunitas Swinub, pada 29 April 2023 dari pukul 14.00 hingga 17.00 waktu setempat, di mana pun kamu berada.
+TEXT: Tiket untuk mengakses Penelitian Spesial: Hari Komunitas Swinub, pada 29 April 2023 dari pukul 14.00 hingga 17.00 waktu setempat, di mana pun kamu berada.
 
 
-Hadiah Penelitiannya adalah sebagai berikut:
+Hadiah Penelitiannya adalah sebagai berikut:
 
-- Hadiah Premium seperti Permen Langka, Bola Ultra, dan lain sebagainya.
+- Hadiah Premium seperti Permen Langka, Bola Ultra, dan lain sebagainya.
 
-- Pertemuan ekstra dengan Swinub dan Evolusinya.
+- Pertemuan ekstra dengan Swinub dan Evolusinya.
 
 
-Rinciannya bisa dibaca di Berita dalam game.
+Rinciannya bisa dibaca di Berita dalam game.
 
 
 KAMU HARUS BERMAIN SELAMA WAKTU TERTENTU UNTUK MENDAPATKAN SEMUA BONUS EVENT SPESIAL.
@@ -19156,17 +19741,17 @@ RESOURCE ID: general1.ticket.2_eevet_title
 TEXT: Tiket Menjadi Pilihan-mu
 
 RESOURCE ID: general1.ticket.2_feb2023_description
-TEXT: Tiket untuk mengakses Penelitian Spesial: Hari Komunitas Noibat, di mana pun kamu berada.
+TEXT: Tiket untuk mengakses Penelitian Spesial: Hari Komunitas Noibat, di mana pun kamu berada.
 
 
-Hadiah Penelitiannya adalah sebagai berikut:
+Hadiah Penelitiannya adalah sebagai berikut:
 
-- Hadiah Premium seperti Permen Langka, Bola Ultra, dan lain sebagainya.
+- Hadiah Premium seperti Permen Langka, Bola Ultra, dan lain sebagainya.
 
-- Pertemuan ekstra dengan Noibat dan Evolusinya.
+- Pertemuan ekstra dengan Noibat dan Evolusinya.
 
 
-Rinciannya bisa dibaca di Berita dalam game.
+Rinciannya bisa dibaca di Berita dalam game.
 
 
 KAMU HARUS BERMAIN SELAMA WAKTU TERTENTU UNTUK MENDAPATKAN SEMUA BONUS EVENT SPESIAL.
@@ -19183,17 +19768,17 @@ RESOURCE ID: general1.ticket.2_flett_title
 TEXT: Tiket Burung Paling Berani
 
 RESOURCE ID: general1.ticket.2_gbdmay2023_description
-TEXT: Tiket untuk mengakses Penelitian Berwaktu Hari GO Battle: Debu Bintang yang berhadiah berikut.
+TEXT: Tiket untuk mengakses Penelitian Berwaktu Hari GO Battle: Debu Bintang yang berhadiah berikut.
 
-- 25.000 Debu Bintang
+- 25.000 Debu Bintang
 
-- 3 Permen Langka
+- 3 Permen Langka
 
-- 1 Serpihan Bintang
+- 1 Serpihan Bintang
 
-
 
-Penelitian Berwaktu ini akan tersedia pada 14 Mei 2023 mulai pukul 00.00 hingga 23.59 waktu setempat. Rinciannya bisa dibaca di Berita dalam game.
+
+Penelitian Berwaktu ini akan tersedia pada 14 Mei 2023 mulai pukul 00.00 hingga 23.59 waktu setempat. Rinciannya bisa dibaca di Berita dalam game.
 
 
 KAMU HARUS BERMAIN SELAMA WAKTU TERTENTU UNTUK MENDAPATKAN SEMUA BONUS EVENT SPESIAL.
@@ -19252,36 +19837,36 @@ RESOURCE ID: general1.ticket.2_jan2023_title
 TEXT: Duri Berkualitas
 
 RESOURCE ID: general1.ticket.2_julycd2023_description
-TEXT: Tiket untuk mengakses Penelitian Spesial Klasik: Hari Komunitas Poliwag, pada 30 Juli 2023 dari pukul 14.00 hingga 17.00 waktu setempat, di mana pun kamu berada.
+TEXT: Tiket untuk mengakses Penelitian Spesial Klasik: Hari Komunitas Poliwag, pada 30 Juli 2023 dari pukul 14.00 hingga 17.00 waktu setempat, di mana pun kamu berada.
 
 
-Hadiah Penelitiannya adalah sebagai berikut:
+Hadiah Penelitiannya adalah sebagai berikut:
 
-- Hadiah Premium seperti Permen Langka, Bola Ultra, dan lain sebagainya.
+- Hadiah Premium seperti Permen Langka, Bola Ultra, dan lain sebagainya.
 
-- Pertemuan ekstra dengan Poliwag dan Evolusinya.
+- Pertemuan ekstra dengan Poliwag dan Evolusinya.
 
 
-Rinciannya bisa dibaca di Berita dalam game.
+Rinciannya bisa dibaca di Berita dalam game.
 
 
 KAMU HARUS BERMAIN SELAMA WAKTU TERTENTU UNTUK MENDAPATKAN SEMUA BONUS EVENT SPESIAL.
 
 RESOURCE ID: general1.ticket.2_julycd2023_title
-TEXT: Tiket Hari Komunitas Poliwag
+TEXT: Pusaran Licin
 
 RESOURCE ID: general1.ticket.2_julycdc2023_description
-TEXT: Tiket untuk mengakses Penelitian Spesial: Hari Komunitas Squirtle, pada 9 Juli 2023 dari pukul 14.00 hingga 17.00 waktu setempat, di mana pun kamu berada.
+TEXT: Tiket untuk mengakses Penelitian Spesial: Hari Komunitas Squirtle, pada 9 Juli 2023 dari pukul 14.00 hingga 17.00 waktu setempat, di mana pun kamu berada.
 
 
-Hadiah Penelitiannya adalah sebagai berikut:
+Hadiah Penelitiannya adalah sebagai berikut:
 
-- Hadiah Premium seperti Permen Langka, Bola Ultra, dan lain sebagainya.
+- Hadiah Premium seperti Permen Langka, Bola Ultra, dan lain sebagainya.
 
-- Pertemuan ekstra dengan Squirtle dan Evolusinya.
+- Pertemuan ekstra dengan Squirtle dan Evolusinya.
 
 
-Rinciannya bisa dibaca di Berita dalam game.
+Rinciannya bisa dibaca di Berita dalam game.
 
 
 KAMU HARUS BERMAIN SELAMA WAKTU TERTENTU UNTUK MENDAPATKAN SEMUA BONUS EVENT SPESIAL.
@@ -19312,17 +19897,17 @@ RESOURCE ID: general1.ticket.2_larvitarcdc1_title
 TEXT: Tiket Hari Komunitas Klasik Larvitar
 
 RESOURCE ID: general1.ticket.2_larvitarcdc2_description
-TEXT: Tiket untuk mengakses Penelitian Spesial: Hari Komunitas Larvitar, di mana pun kamu berada.
+TEXT: Tiket untuk mengakses Penelitian Spesial: Hari Komunitas Larvitar, di mana pun kamu berada.
 
 
-Hadiah Penelitiannya adalah sebagai berikut:
+Hadiah Penelitiannya adalah sebagai berikut:
 
-- Hadiah Premium seperti Permen Langka, Bola Ultra, dan lain sebagainya.
+- Hadiah Premium seperti Permen Langka, Bola Ultra, dan lain sebagainya.
 
-- Pertemuan ekstra dengan Larvitar dan Evolusinya.
+- Pertemuan ekstra dengan Larvitar dan Evolusinya.
 
 
-Rinciannya bisa dibaca di Berita dalam game.
+Rinciannya bisa dibaca di Berita dalam game.
 
 
 KAMU HARUS BERMAIN SELAMA WAKTU TERTENTU UNTUK MENDAPATKAN SEMUA BONUS EVENT SPESIAL.
@@ -19378,6 +19963,17 @@ KAMU HARUS BERMAIN SELAMA WAKTU TERTENTU UNTUK MENDAPATKAN SEMUA BONUS EVENT SPE
 
 RESOURCE ID: general1.ticket.2_oshat_title
 TEXT: Tiket Dari Scalchop Jadi Seamitar
+
+RESOURCE ID: general1.ticket.2_part2julycdc2023_description
+TEXT: Tiket untuk mengakses Penelitian Spesial: Hari Komunitas Squirtle, pada 23 Juli 2023 dari pukul 14.00 hingga 17.00 waktu setempat, di mana pun kamu berada. 
+
+Hadiah Penelitiannya adalah sebagai berikut: 
+- Hadiah Premium seperti Permen Langka, Bola Ultra, dan lain sebagainya. 
+- Pertemuan ekstra dengan Squirtle dan Evolusinya. 
+
+Rinciannya bisa dibaca di Berita dalam game. 
+
+KAMU HARUS BERMAIN SELAMA WAKTU TERTENTU UNTUK MENDAPATKAN SEMUA BONUS EVENT SPESIAL.
 
 RESOURCE ID: general1.ticket.2_roset_description
 TEXT: Tiket untuk mengakses Penelitian Spesial: Berhenti dan Hirup Roselia pada 7 Februari 2021, mulai pukul 11.00 hingga 17.00 waktu setempat, di mana pun kamu berada. Rinciannya bisa dibaca di Berita dalam game.
@@ -19529,19 +20125,19 @@ RESOURCE ID: general1.ticket.anniversary_bundle_title
 TEXT: Tiket Penelitian Berwaktu Pesta Hari Jadi ke-7
 
 RESOURCE ID: general1.ticket.beachweek2023_description
-TEXT: Tiket untuk mengakses Penelitian Berwaktu pada Kamis, 06 Juni 2023 pukul 10.00 hingga Senin, 12 Juni 2023 pukul 20.00 waktu setempat, di mana pun kamu berada dan berhadiah seperti berikut:
+TEXT: Tiket untuk mengakses Penelitian Berwaktu pada Kamis, 06 Juni 2023 pukul 10.00 hingga Senin, 12 Juni 2023 pukul 20.00 waktu setempat, di mana pun kamu berada dan berhadiah seperti berikut:
 
-
 
--Pose Peselancar
 
--Pertemuan dengan Sandygast
+-Pose Peselancar
 
--Pertemuan dengan Clauncher
+-Pertemuan dengan Sandygast
+
+-Pertemuan dengan Clauncher
 
 -XP, Debu Bintang, Bola Pokémon, dan lain sebagainya!
 
-PENTING: Harap diingat bahwa Penelitian Berwaktu dapat kedaluwarsa. Tugas dari Penelitian Berwaktu harus diselesaikan dan hadiahnya harus diambil sebelum Senin, 12 Desember 2023 pukul 20.00 waktu setempat.
+PENTING: Harap diingat bahwa Penelitian Berwaktu dapat kedaluwarsa. Tugas dari Penelitian Berwaktu harus diselesaikan dan hadiahnya harus diambil sebelum Senin, 12 Desember 2023 pukul 20.00 waktu setempat.
 
 
 Rinciannya bisa dibaca di Berita dalam game.
@@ -19558,6 +20154,24 @@ PENTING: Harap diingat bahwa Penelitian Berwaktu akan kedaluwarsa. Untuk menerim
 
 RESOURCE ID: general1.ticket.gbweekend_bundle_title
 TEXT: Penelitian Berwaktu Hari GO Battle: Debu Bintang
+
+RESOURCE ID: general1.ticket.gofest2023_alldetails
+TEXT: Tiket untuk mengakses Pokémon GO Fest 2023: Global pada 26 dan 27 Agustus 2023, di mana pun kamu berada. Penelitian Spesial ini akan membawamu ke pertemuan spesial dengan Diancie, Pokémon Mitos! Hadiah dan Bonus Penelitiannya adalah sebagai berikut:
+
+-Peningkatan peluang pertemuan dengan Pokémon Bersinar
+
+-Hadiah Premium seperti MS Super Elite, MS Cepat Elite, Permen Langka XL, dan lainnya
+
+-Pose dan item avatar eksklusif
+
+-Maks. 9 Tiket Raid gratis dari memutar Disk Foto di Gym
+
+-Meteorit yang dapat digunakan untuk mengajari Rayquaza Terpaan Naga Langit, jurus andalannya sehingga ia bisa melakukan Evolusi Mega
+
+
+Detailnya bisa ditemukan di Berita dalam game.
+
+<b>KAMU HARUS BERMAIN SELAMA WAKTU TERTENTU UNTUK MENDAPATKAN SEMUA BONUS EVENT SPESIAL.</b>
 
 RESOURCE ID: general1.ticket.gofest2023_description
 TEXT: Tiket untuk mengakses Pokémon GO Fest 2023: Global pada 26 dan 27 Agustus 2023, di mana pun kamu berada. Detailnya bisa ditemukan di Berita dalam game.
@@ -19584,21 +20198,21 @@ RESOURCE ID: general1.ticket.gofest2023_title
 TEXT: Pokémon GO Fest 2023: Tiket Global
 
 RESOURCE ID: general1.ticket.holiday2022_description
-TEXT: Tiket untuk mengakses Penelitian Berwaktu pada Kamis, 15 Desember 2022 pukul 10.00 hingga Sabtu, 31 Desember 2022 pukul 20.00 waktu setempat, di mana pun kamu berada dan berhadiah seperti berikut:
+TEXT: Tiket untuk mengakses Penelitian Berwaktu pada Kamis, 15 Desember 2022 pukul 10.00 hingga Sabtu, 31 Desember 2022 pukul 20.00 waktu setempat, di mana pun kamu berada dan berhadiah seperti berikut:
 
-
 
-Pose Hadiah
 
-2 Mesin Penetas
+Pose Hadiah
 
-1 Pewangi
+2 Mesin Penetas
 
-
+1 Pewangi
 
-PENTING: Harap diingat bahwa Penelitian Berwaktu dapat kedaluwarsa. Tugas dari Penelitian Berwaktu harus diselesaikan dan hadiahnya harus diambil sebelum Sabtu, 31 Desember 2022 pukul 20.00 waktu setempat.
 
-
+
+PENTING: Harap diingat bahwa Penelitian Berwaktu dapat kedaluwarsa. Tugas dari Penelitian Berwaktu harus diselesaikan dan hadiahnya harus diambil sebelum Sabtu, 31 Desember 2022 pukul 20.00 waktu setempat.
+
+
 
 Rinciannya bisa dibaca di Berita dalam game.
 
@@ -19608,25 +20222,25 @@ RESOURCE ID: general1.ticket.holiday2022_title
 TEXT: Tiket Penelitian Berwaktu: Liburan Musim Dingin
 
 RESOURCE ID: general1.ticket.jirachimasterwork_description
-TEXT: Tiket untuk mengakses Penelitian Mahakarya yang akan mempertemukanmu dengan Jirachi Bersinar, salah satu Pokémon langka beserta hadiah seperti berikut:
+TEXT: Tiket untuk mengakses Penelitian Mahakarya yang akan mempertemukanmu dengan Jirachi Bersinar, salah satu Pokémon langka beserta hadiah seperti berikut:
 
 
-9 Permen Langka
+9 Permen Langka
 
-20.405 XP
+20.405 XP
 
-12.700 Debu Bintang
+12.700 Debu Bintang
 
-2 Poffin
+2 Poffin
 
-2 Pewangi
+2 Pewangi
 
-30 Bola Ultra
+30 Bola Ultra
 
-20 Permen Jirachi, 10 Permen Groudon, 10 Permen Kyogre, dan 10 Permen Rayquaza
+20 Permen Jirachi, 10 Permen Groudon, 10 Permen Kyogre, dan 10 Permen Rayquaza
 
 
-Rinciannya bisa dibaca di Berita dalam game.
+Rinciannya bisa dibaca di Berita dalam game.
 
 
 Tiket ini tersedia di Toko hingga 20 Maret 2023 pukul 10.00 (Waktu Standar Pasifik). Setelah pembelian, kamu harus bermain dari 20 Februari 2023 pukul 10.00 hingga 21 Maret 2023 pukul 10.00 waktu setempat untuk menerima Penelitian Mahakarya. Setelah diterima, Penelitian Mahakarya tidak akan kedaluwarsa.
@@ -19635,25 +20249,25 @@ RESOURCE ID: general1.ticket.jirachimasterwork_title
 TEXT: Penelitian Mahakarya: Harapan Terkabul
 
 RESOURCE ID: general1.ticket.keldeo_description
-TEXT: Tiket untuk mengakses Penelitian Spesial: Sesuatu Yang Memukau di mana pun kamu berada. Dengan tiket ini kamu dapat bertemu dengan Keldeo Wujud Biasa dan menerima hadiah berikut:
+TEXT: Tiket untuk mengakses Penelitian Spesial: Sesuatu Yang Memukau di mana pun kamu berada. Dengan tiket ini kamu dapat bertemu dengan Keldeo Wujud Biasa dan menerima hadiah berikut:
 
-
 
-Item avatar Kaus Keldeo
 
-14 Permen Langka
+Item avatar Kaus Keldeo
 
-12 Beri Pinap Perak
+14 Permen Langka
 
-2 Mesin Penetas
+12 Beri Pinap Perak
 
-2 Mesin Penetas Super
+2 Mesin Penetas
 
-2 Pewangi
+2 Mesin Penetas Super
 
-Pertemuan dengan berbagai macam Pokémon tipe Air dan Petarung
+2 Pewangi
 
-
+Pertemuan dengan berbagai macam Pokémon tipe Air dan Petarung
+
+
 
 Rinciannya bisa dibaca di Berita dalam game.
 
@@ -19663,24 +20277,24 @@ RESOURCE ID: general1.ticket.keldeo_title
 TEXT: Tiket Sesuatu Yang Memukau
 
 RESOURCE ID: general1.ticket.masterwork_sm_description
-TEXT: Tiket untuk mengakses Penelitian Mahakarya yang akan mempertemukanmu dengan Mew Bersinar, salah satu Pokémon langka beserta hadiah seperti berikut:
+TEXT: Tiket untuk mengakses Penelitian Mahakarya yang akan mempertemukanmu dengan Mew Bersinar, salah satu Pokémon langka beserta hadiah seperti berikut:
 
 
-Kaus Avatar Mew Bersinar
+Kaus Avatar Mew Bersinar
 
-18.018 XP
+18.018 XP
 
-11.550 Debu Bintang
+11.550 Debu Bintang
 
-3 Permen Langka
+3 Permen Langka
 
-1 Poffin
+1 Poffin
 
-1 Pewangi
+1 Pewangi
 
-102 Bola Ultra
+102 Bola Ultra
 
-20 Permen Mew
+20 Permen Mew
 
 
 Tiket ini tersedia di Toko hingga Rabu, 12 Juli 2023 pukul 20.00 waktu setempat. Setelah pembelian, kamu harus bermain dari Kamis, 6 Juli 2023 pukul 10.00 hingga Rabu, 12 Juli 2023 pukul 20.00 waktu setempat untuk menerima Penelitian Mahakarya.
@@ -19718,11 +20332,11 @@ RESOURCE ID: general1.ticket.megahoenn_title
 TEXT: Tiket Menuju Hari Raid Mega Hoenn
 
 RESOURCE ID: general1.ticket.s10timed_description
-TEXT: Tiket untuk mengakses Penelitian Berwaktu: Lemari Willow, di mana pun kamu berada yang berhadiah seperti berikut:
+TEXT: Tiket untuk mengakses Penelitian Berwaktu: Lemari Willow, di mana pun kamu berada yang berhadiah seperti berikut:
 
-- Item avatar ala Profesor Willow
+- Item avatar ala Profesor Willow
 
-- Pertemuan dengan Melmetal yang mempelajari Serangan Spesial Double Iron Bash
+- Pertemuan dengan Melmetal yang mempelajari Serangan Spesial Double Iron Bash
 
 
 Penelitian Berwaktu ini dapat dibeli sampai tanggal 1 Juni 2023 pukul 10.00 waktu setempat dan akan kedaluwarsa pada tanggal 30 Juni 2023 pukul 10.00 waktu setempat. Rinciannya bisa dibaca di Berita dalam game. 
@@ -19731,6 +20345,18 @@ KAMU HARUS BERMAIN SELAMA WAKTU TERTENTU UNTUK MENDAPATKAN SEMUA BONUS EVENT SPE
 
 RESOURCE ID: general1.ticket.s10timed_title
 TEXT: Lemari Willow
+
+RESOURCE ID: general1.ticket_adventureweek2023_description
+TEXT: Tiket untuk mengakses Penelitian Berwaktu Minggu Petualangan. Tiket ini juga termasuk pilihan pertemuan dengan Tyrunt dan Amaura.
+
+Pokémon yang muncul selama Penelitian Berwaktu ini berkesempatan muncul sebagai Pokémon Bersinar yang bisa ditemukan melalui alam liar selama event.
+Penelitian Berwaktu ini akan tersedia selama 27 Juli pukul 10.00 hingga 2 Agustus pukul 20.00 waktu setempat.
+Detailnya bisa ditemukan di Berita dalam game.
+
+KAMU HARUS BERMAIN SELAMA WAKTU TERTENTU UNTUK MENDAPATKAN SEMUA BONUS EVENT SPESIAL.
+
+RESOURCE ID: general1.ticket_adventureweek2023_title
+TEXT: Tiket Penelitian Berwaktu Minggu Petualangan 2023
 
 RESOURCE ID: general1.ticket_cosmog2023_description
 TEXT: Tiket untuk mengakses tambahan Penelitian Spesial: Langit Berbintang, mulai Jumat, 16 Juni 2023 pukul 10.00 hingga Minggu, 25 Juni 2023 pukul 20.00 waktu setempat di mana pun kamu berada untuk kesempatan bertemu dengan Cosmog lagi.
@@ -19760,6 +20386,9 @@ TEXT: & {0}
 
 RESOURCE ID: general_attack
 TEXT: Serangan
+
+RESOURCE ID: general_back
+TEXT: Kembali
 
 RESOURCE ID: general_battle
 TEXT: BERTARUNG
@@ -19866,6 +20495,9 @@ TEXT: atau
 RESOURCE ID: general_paste
 TEXT: Tempel
 
+RESOURCE ID: general_player_guidelines
+TEXT: Panduan Pemain
+
 RESOURCE ID: general_pokemon
 TEXT: Pokémon
 
@@ -19898,6 +20530,12 @@ TEXT: Lewati
 
 RESOURCE ID: general_stamina
 TEXT: HP
+
+RESOURCE ID: general_submit
+TEXT: Kirim
+
+RESOURCE ID: general_submit_an_appeal
+TEXT: Ajukan Banding
 
 RESOURCE ID: general_total_caps
 TEXT: TOTAL
@@ -20030,7 +20668,7 @@ RESOURCE ID: gift_storage_one_and_half
 TEXT: Simpan 1.5× lebih banyak Hadiah di Tas Item kamu
 
 RESOURCE ID: giftbox_log_opened
-TEXT: Buka Hadiah dari {0}.
+TEXT: Membuka Hadiah dari {0}.
 
 RESOURCE ID: gifting_error_description
 TEXT: Mohon maaf.
@@ -21988,6 +22626,717 @@ TEXT: Pokémon GO Fest 2022: Habitat Tundra
 RESOURCE ID: gofest2022_tundra_description
 TEXT: Tangkap Pokémon ini selama sesi habitat Tundra!
 
+RESOURCE ID: gofest2023
+TEXT: Pokémon GO Fest 2023
+
+RESOURCE ID: gofest2023_aquamarine_shores
+TEXT: Tantangan Koleksi Pantai Akuamarin
+
+RESOURCE ID: gofest2023_aquamarine_shores_description
+TEXT: Tangkap Pokémon ini di habitat Pantai Akuamarin!
+
+RESOURCE ID: gofest2023_city_0_1
+TEXT: Senang bisa bertemu lagi denganmu, %PLAYERNAME%!
+
+RESOURCE ID: gofest2023_city_0_2
+TEXT: Aku hendak melakukan penyelidikan di sini karena aku mendengar laporan sesuatu yang seperti meteor telah terjatuh.
+
+RESOURCE ID: gofest2023_city_0_3
+TEXT: Ada kemungkinan itu ada sangkut pautnya dengan Mega Rayquaza.
+
+RESOURCE ID: gofest2023_city_0_4
+TEXT: Oh iya ... Kurasa aku pernah mendengar hal ini dari beberapa peneliti lainnya. Tetapi, aku tidak terlalu mendengarkannya.
+
+RESOURCE ID: gofest2023_city_0_5
+TEXT: Dikatakan bahwa jurus andalan Rayquaza, Terpaan Naga Langit jadi dapat digunakan karena efek dari meteor tertentu.
+
+RESOURCE ID: gofest2023_city_0_6
+TEXT: Aku telah meminta para Pemimpin Tim untuk mengumpulkan batu meteor. Aku juga membutuhkan bantuanmu.
+
+RESOURCE ID: gofest2023_city_0_7
+TEXT: Jika kamu mengetahui sesuatu tentang Mega Rayquaza, tolong beri tahu aku ya!
+
+RESOURCE ID: gofest2023_city_0_8
+TEXT: Berangkatlah setelah semuanya siap! Pokémon Partnermu juga sudah siap? Semangat %PLAYERNAME%!
+
+RESOURCE ID: gofest2023_city_1_1
+TEXT: Hai hai, %PLAYERNAME%!
+
+RESOURCE ID: gofest2023_city_1_2
+TEXT: Bagaimana kabarmu? Hari ini ada banyak sekali Pelatih yang berkumpul ya!
+
+RESOURCE ID: gofest2023_city_1_3
+TEXT: Mega Rayquaza sudah jadi topik panas juga sih!
+
+RESOURCE ID: gofest2023_city_1_4
+TEXT: Menurut legenda, yang menyelamatkan dunia dari kehancuran akibat pertarungan Groudon Primal dan Kyogre Primal adalah Mega Rayquaza.
+
+RESOURCE ID: gofest2023_city_1_5
+TEXT: Aku ingin melihatnya, kalau bisa melawannya juga.
+
+RESOURCE ID: gofest2023_city_1_6
+TEXT: Wah, ada informasi kalau Mega Rayquaza muncul di Gym. Ayo ke sana!
+
+RESOURCE ID: gofest2023_city_1_7
+TEXT: Timku sudah siap sedia! Jika menghadapi lawan kuat, semangat tempurku jadi berkobar!
+
+RESOURCE ID: gofest2023_city_1_8
+TEXT: Ingat ini, jangan gentar. Jika sudah menentukan sasaran, gunakan Serangan Spesial yang super efektif!
+
+RESOURCE ID: gofest2023_city_1_9
+TEXT: Semangat, %PLAYERNAME%!
+
+RESOURCE ID: gofest2023_city_2_1
+TEXT: Hai, %PLAYERNAME%!
+
+RESOURCE ID: gofest2023_city_2_2
+TEXT: Profesor Willow juga memintamu mencari dan mengumpulkan batu meteor ya?
+
+RESOURCE ID: gofest2023_city_2_3
+TEXT: Aku juga! Tetapi, aku lagi istirahat sekarang.
+
+RESOURCE ID: gofest2023_city_2_4
+TEXT: Untuk penyelidikan seperti ini, mending kamu pakai saja instingmu.
+
+RESOURCE ID: gofest2023_city_2_5
+TEXT: Ayo kita bagi tugas. Aku akan mencari ke sana, kamu cari di sekitar sini.
+
+RESOURCE ID: gofest2023_city_2_6
+TEXT: Jangan lupa masukkan Telur ke Mesin Penetas sebelum pergi ya! Nanti beri tahu aku Pokémon apa saja yang menetas.
+
+RESOURCE ID: gofest2023_city_2_7
+TEXT: Itu aja! Dah!
+
+RESOURCE ID: gofest2023_city_3_1
+TEXT: Halo, %PLAYERNAME%.
+
+RESOURCE ID: gofest2023_city_3_10
+TEXT: Aku percaya padamu, %PLAYERNAME%.
+
+RESOURCE ID: gofest2023_city_3_2
+TEXT: Aku tiba di sini setelah menganalisis data dari batu meteor.
+
+RESOURCE ID: gofest2023_city_3_3
+TEXT: ...… Perbaikan data secara massal perlu dilakukan sesuai kondisi atmosfer sehingga ini akan memakan waktu lebih lama dari dugaanku.
+
+RESOURCE ID: gofest2023_city_3_4
+TEXT: Aku ingin membandingan data ini dengan hasil analisismu.
+
+RESOURCE ID: gofest2023_city_3_5
+TEXT: Belum melakukan analisis? Kamu hanya datang untuk bersenang-senang?
+
+RESOURCE ID: gofest2023_city_3_6
+TEXT: Yah, kurasa itu alasan yang cukup masuk akal.
+
+RESOURCE ID: gofest2023_city_3_7
+TEXT: Tetapi, untunglah kamu datang ke sini.
+
+RESOURCE ID: gofest2023_city_3_8
+TEXT: Aku melihat Mega Rayquaza terbang menembus awan dan turun.
+
+RESOURCE ID: gofest2023_city_3_9
+TEXT: Aku di sini untuk mengumpulkan batu meteor. Sebaiknya kamu yang pergi mengejar Mega Rayquaza.
+
+RESOURCE ID: gofest2023_city_4_1
+TEXT: %PLAYERNAME%! Selamat datang kembali!
+
+RESOURCE ID: gofest2023_city_4_2
+TEXT: Kamu sudah mengumpulkan beberapa batu meteor. Kerja bagus!
+
+RESOURCE ID: gofest2023_city_4_3
+TEXT: Bagaimana dengan Mega Rayquaza? Kamu bertemu dengannya?
+
+RESOURCE ID: gofest2023_city_4_4
+TEXT: Mantap sekali! Kekuatan yang tersembunyi di batu meteor ...
+
+RESOURCE ID: gofest2023_city_4_5
+TEXT: ... Kekuatan tersebut juga tersimpan di dalam tubuh Rayquaza.
+
+RESOURCE ID: gofest2023_city_4_6
+TEXT: Jika dua hal tersebut disatukan, apa yang akan terjadi ya? Aku tak bisa membayangkannya. Jika ada kesempatan, aku ingin mencoba apakah itu dapat membuat Rayquaza melakukan Evolusi Mega.
+
+RESOURCE ID: gofest2023_city_4_7
+TEXT: Terima kasih atas kerja samamu, %PLAYERNAME%! Sekarang, nikmatilah waktumu!
+
+RESOURCE ID: gofest2023_city_session
+TEXT: Pokémon GO Fest 2023: Pakar Kota
+
+RESOURCE ID: gofest2023_content_hashtag
+TEXT: Posting foto dengan #PokemonGOFest2023, dan kami akan membagikan foto favorit kami!
+
+RESOURCE ID: gofest2023_extended_bonus_session
+TEXT: Pokémon GO Fest 2023: Perpanjangan Waktu
+
+RESOURCE ID: gofest2023_free_rayquaza_0_1
+TEXT: Halo, %PLAYERNAME%! Apakah kamu menikmati Pokémon GO Fest?
+
+RESOURCE ID: gofest2023_free_rayquaza_0_2
+TEXT: Semua jadi heboh karena ada laporan kesaksian Mega Rayquaza hari ini!
+
+RESOURCE ID: gofest2023_free_rayquaza_0_3
+TEXT: Karena ia adalah Pokémon yang hidup jauh di angkasa luar, sosoknya yang terlihat sedikit saja sudah luar biasa.
+
+RESOURCE ID: gofest2023_free_rayquaza_0_4
+TEXT: Tak hanya itu. Meteor juga jatuh dengan kuat. Tampaknya ada beberapa yang jatuh di sekitar sini.
+
+RESOURCE ID: gofest2023_free_rayquaza_0_5
+TEXT: Sepertinya Rayquaza dan meteor ini memiliki keterkaitan yang erat. Soal ini akan kujelaskan nanti.
+
+RESOURCE ID: gofest2023_free_rayquaza_0_6
+TEXT: Kita harus melihat Mega Rayquaza, dan juga menyelidiki meteor lebih dahulu!
+
+RESOURCE ID: gofest2023_free_rayquaza_1_1
+TEXT: Selamat datang kembali, %PLAYERNAME%!
+
+RESOURCE ID: gofest2023_free_rayquaza_1_2
+TEXT: Apakah kamu berhasil bertemu dengan Mega Rayquaza? Bagaimana dengan penyelidikan meteornya?
+
+RESOURCE ID: gofest2023_free_rayquaza_1_3
+TEXT: Aku pernah bilang bahwa Rayquaza dan meteor memiliki keterkaitan yang erat, tetapi tampaknya hanya meteor tertentu yang dapat memengaruhi Rayquaza.
+
+RESOURCE ID: gofest2023_free_rayquaza_1_4
+TEXT: Dengan kata lain, Rayquaza dapat mempelajari jurus Terpaan Naga Langit dengan meteor itu. Menarik, 'kan?
+
+RESOURCE ID: gofest2023_free_rayquaza_1_5
+TEXT: Mungkin bisa dicoba dengan meteor yang telah didapat.
+
+RESOURCE ID: gofest2023_free_rayquaza_1_6
+TEXT: Beri tahu aku jika kamu berhasil melakukannya hari ini.
+
+RESOURCE ID: gofest2023_free_rayquaza_1_7
+TEXT: Untuk sekarang, kamu dapat melakukan penelitian bebas. Nikmatilah waktumu.
+
+RESOURCE ID: gofest2023_free_rayquaza_1_8
+TEXT: Saatnya GO!
+
+RESOURCE ID: gofest2023_global_diancie_0_1
+TEXT: Halo, %PLAYERNAME%! Selamat datang di Pokémon GO Fest 2023!
+
+RESOURCE ID: gofest2023_global_diancie_0_2
+TEXT: Ambillah peta in- ...
+
+RESOURCE ID: gofest2023_global_diancie_0_3
+TEXT: ... Ups, bukan yang ini. Ini sih peta kuliner Poffin.
+
+RESOURCE ID: gofest2023_global_diancie_0_4
+TEXT: Ehem ... Coba lihat ini. Di sini tertulis "Hal Terindah Sedunia". Ini adalah peta untuk menemukannya!
+
+RESOURCE ID: gofest2023_global_diancie_0_5
+TEXT: Kira-kira apa ya? Permata? Pokémon? Bagaimana menurutmu, %PLAYERNAME%?
+
+RESOURCE ID: gofest2023_global_diancie_0_6
+TEXT: Kita hanya bisa mencarinya dengan peta ini ya.
+
+RESOURCE ID: gofest2023_global_diancie_0_7
+TEXT: Dan lokasi pertama menunjuk ke PokéStop yang ada di sana. Saatnya GO, %PLAYERNAME%!
+
+RESOURCE ID: gofest2023_global_diancie_1_1
+TEXT: Ahh, tak ada yang lebih mengasyikkan daripada berjalan cepat. Ya 'kan, %PLAYERNAME%?
+
+RESOURCE ID: gofest2023_global_diancie_1_2
+TEXT: Sepertinya kamu juga menangkap beberapa Pokémon di tengah perjalanan kita menuju kemari. Aku akan melihatnya nanti.
+
+RESOURCE ID: gofest2023_global_diancie_1_3
+TEXT: Oke, mari kita lihat titik tujuan selanjutnya. Hm? Tidak ada di peta, tetapi ada gambar Pokémon.
+
+RESOURCE ID: gofest2023_global_diancie_1_4
+TEXT: Mungkin kita bisa mendapatkan petunjuk jika menemukan Pokémon ini.
+
+RESOURCE ID: gofest2023_global_diancie_1_5
+TEXT: %PLAYERNAME%, lihat! Di sana ada banyak sekali Pokémon! Ayo bergegas!
+
+RESOURCE ID: gofest2023_global_diancie_2_1
+TEXT: Suasananya jadi seperti festival Pokémon ya, %PLAYERNAME%!
+
+RESOURCE ID: gofest2023_global_diancie_2_2
+TEXT: Tidak hanya para Pokémon, para Pelatih juga tampaknya bersenang-senang.
+
+RESOURCE ID: gofest2023_global_diancie_2_3
+TEXT: Dengan begini, sepertinya kita tak 'kan membutuhkan waktu lama untuk menemukan hal terindah itu. Oke, tujuan selanjutnya adalah ...
+
+RESOURCE ID: gofest2023_global_diancie_2_4
+TEXT: Ah, kutarik ucapanku barusan. Sepertinya ini akan memakan waktu yang lama.
+
+RESOURCE ID: gofest2023_global_diancie_2_5
+TEXT: Sambil menikmati perjalanan ini, cobalah menetaskan beberapa telur juga!
+
+RESOURCE ID: gofest2023_global_diancie_2_6
+TEXT: Aku akan berjalan bersama Meltan. Berjalan-jalanlah bersama Pokémon Partnermu!
+
+RESOURCE ID: gofest2023_global_diancie_3_1
+TEXT: Huft, kita berjalan cukup jauh ya, %PLAYERNAME%.
+
+RESOURCE ID: gofest2023_global_diancie_3_2
+TEXT: Bagaimana kalau kita rehat sejenak? Petunjuk tujuan selanjutnya juga masih belum muncul.
+
+RESOURCE ID: gofest2023_global_diancie_3_3
+TEXT: Meski begitu, di titik ini tergambar Eevee dan para Evolusinya.
+
+RESOURCE ID: gofest2023_global_diancie_3_4
+TEXT: Tidak terlihat sosok Eevee di sekitar sini. Menurutku sih, Evolusi Pokémon menunjukkan suatu peluang tersebunyi.
+
+RESOURCE ID: gofest2023_global_diancie_3_5
+TEXT: Cobalah mengevolusikan beberapa Pokémon, %PLAYERNAME%!
+
+RESOURCE ID: gofest2023_global_diancie_4_1
+TEXT: W-wow, %PLAYERNAME%!
+
+RESOURCE ID: gofest2023_global_diancie_4_2
+TEXT: Permata merah muda itu ... Itu pasti Diancie, sang Pokémon Permata dan juga Pokémon Mitos!
+
+RESOURCE ID: gofest2023_global_diancie_4_3
+TEXT:  Dikatakan bahwa tubuh Diancie yang berkilau dengan warna merah muda adalah yang terindah di dunia.
+
+RESOURCE ID: gofest2023_global_diancie_4_4
+TEXT: Lalu, Diancie menciptakan intan berjumlah banyak dalam sekejap dengan mengompres karbon yang ada di udara di antara kedua tangannya.
+
+RESOURCE ID: gofest2023_global_diancie_4_5
+TEXT: Cobalah bayangkan, sosok Diancie yang diselimuti oleh intan berkilau.
+
+RESOURCE ID: gofest2023_global_diancie_4_6
+TEXT: Pasti keindahannya akan membuatmu tak 'kan berkedip.
+
+RESOURCE ID: gofest2023_global_diancie_4_7
+TEXT: Tak kusangka kita bisa bertemu dengannya di sini! Ah iya, ini masih ada kelanjutannya.
+
+RESOURCE ID: gofest2023_global_diancie_4_8
+TEXT: Hmm ... Dikatakan ia diperkuat dengan batu dan permata.
+
+RESOURCE ID: gofest2023_global_diancie_4_9
+TEXT: Itu karena Diancie Pokémon tipe Bebatuan dan Peri. Kalau begitu, %PLAYERNAME%, perkuatlah beberapa Pokémon tipe Bebatuan dan tipe Peri!
+
+RESOURCE ID: gofest2023_global_diancie_5_1
+TEXT: Hm, %PLAYERNAME%? Kamu menemukan permata lagi? Wah ... Ini tampaknya Energi Mega milik Diancie!
+
+RESOURCE ID: gofest2023_global_diancie_5_2
+TEXT: Luar biasa! Aku tak sabar ingin melihat perubahan wujud Diancie saat ia melakukan Evolusi Mega! Ia pasti menjadi makin indah!
+
+RESOURCE ID: gofest2023_global_diancie_5_3
+TEXT: Karena hari ini sudah cukup menyenangkan, jadi aku tak 'kan memintamu untuk melakukan Evolusi Mega ke Diancie sekarang juga.
+
+RESOURCE ID: gofest2023_global_diancie_5_4
+TEXT: Aku menantikan laporan terkait Evolusi Mega Diancie lain hari. Kuserahkan padamu.
+
+RESOURCE ID: gofest2023_global_diancie_5_5
+TEXT: Oke, nikmatilah sisa waktumu. Sampai jumpa, %PLAYERNAME%!
+
+RESOURCE ID: gofest2023_global_diancie_5_6
+TEXT: Sampai jumpa lain waktu. Let's GO!
+
+RESOURCE ID: gofest2023_habitat_athletic_field
+TEXT: Kawasan Atletik
+
+RESOURCE ID: gofest2023_habitat_athletic_field_description
+TEXT: Tangkap Pokémon ini di habitat Kawasan Atletik!
+
+RESOURCE ID: gofest2023_habitat_cursed_treasures
+TEXT: Harta Terkutuk
+
+RESOURCE ID: gofest2023_habitat_cursed_treasures_description
+TEXT: Tangkap Pokémon ini di habitat Harta Terkutuk!
+
+RESOURCE ID: gofest2023_habitat_dark_jungle
+TEXT: Hutan Kegelapan
+
+RESOURCE ID: gofest2023_habitat_dark_jungle_description
+TEXT: Tangkap Pokémon ini di habitat Hutan Kegelapan!
+
+RESOURCE ID: gofest2023_habitat_fairy_garden
+TEXT: Kebun Peri
+
+RESOURCE ID: gofest2023_habitat_fairy_garden_description
+TEXT: Tangkap Pokémon ini di habitat Kebun Peri!
+
+RESOURCE ID: gofest2023_habitat_hypnotic_glacier
+TEXT: Gletser Hipnosis
+
+RESOURCE ID: gofest2023_habitat_hypnotic_glacier_description
+TEXT: Tangkap Pokémon ini di habitat Gletser Hipnosis!
+
+RESOURCE ID: gofest2023_habitat_poison_swamp
+TEXT: Rawa Beracun
+
+RESOURCE ID: gofest2023_habitat_poison_swamp_description
+TEXT: Tangkap Pokémon ini di habitat Rawa Beracun!
+
+RESOURCE ID: gofest2023_habitat_prehistoric_volcano
+TEXT: Vulkan Prasejarah
+
+RESOURCE ID: gofest2023_habitat_prehistoric_volcano_description
+TEXT: Tangkap Pokémon ini di habitat Vulkan Prasejarah!
+
+RESOURCE ID: gofest2023_habitat_volcanic_island
+TEXT: Pulau Vulkanis
+
+RESOURCE ID: gofest2023_habitat_volcanic_island_description
+TEXT: Tangkap Pokémon ini di habitat Pulau Vulkanis!
+
+RESOURCE ID: gofest2023_hatch_add_on
+TEXT: Pokémon GO Fest 2023: Penggila Telur
+
+RESOURCE ID: gofest2023_hour_habitat1
+TEXT: Sekarang: Terarium Kuarsa!
+
+RESOURCE ID: gofest2023_hour_habitat2
+TEXT: Sekarang: Padang Pasir Pirit!
+
+RESOURCE ID: gofest2023_hour_habitat3
+TEXT: Sekarang: Hutan Malakit!
+
+RESOURCE ID: gofest2023_hour_habitat4
+TEXT: Sekarang: Pantai Akuamarin!
+
+RESOURCE ID: gofest2023_live_city_active_london
+TEXT: Sesi Pakar Taman! Ayo ke Brockwell Park dan bermain!
+
+RESOURCE ID: gofest2023_live_city_active_newyork
+TEXT: Sesi Pakar Taman! Ayo ke Randall's Island dan bermain!
+
+RESOURCE ID: gofest2023_live_city_active_osaka
+TEXT: Sesi Pakar Taman! Ayo ke Expo '70 Commemorative Park dan bermain!
+
+RESOURCE ID: gofest2023_live_habitat_athletic_field
+TEXT: Habitat saat ini: Kawasan Atletik
+
+RESOURCE ID: gofest2023_live_habitat_cursed_treasures
+TEXT: Habitat saat ini: Harta Terkutuk
+
+RESOURCE ID: gofest2023_live_habitat_dark_jungle
+TEXT: Habitat saat ini: Hutan Kegelapan
+
+RESOURCE ID: gofest2023_live_habitat_fairy_garden
+TEXT: Habitat saat ini: Kebun Peri
+
+RESOURCE ID: gofest2023_live_habitat_hypnotic_glacier
+TEXT: Habitat saat ini: Gletser Hipnosis
+
+RESOURCE ID: gofest2023_live_habitat_poison_swamp
+TEXT: Habitat saat ini: Rawa Beracun
+
+RESOURCE ID: gofest2023_live_habitat_prehistoric_volcano
+TEXT: Habitat saat ini: Vulkan Prasejarah
+
+RESOURCE ID: gofest2023_live_habitat_volcanic_island
+TEXT: Habitat saat ini: Pulau Vulkanis
+
+RESOURCE ID: gofest2023_live_london_city
+TEXT: Pokémon GO Fest 2023: London (Pakar Kota)
+
+RESOURCE ID: gofest2023_live_london_park
+TEXT: Pokémon GO Fest 2023: London (Pakar Taman)
+
+RESOURCE ID: gofest2023_live_newyork_city
+TEXT: Pokémon GO Fest 2023: New York (Pakar Kota)
+
+RESOURCE ID: gofest2023_live_newyork_park
+TEXT: Pokémon GO Fest 2023: New York (Pakar Taman)
+
+RESOURCE ID: gofest2023_live_osaka_city
+TEXT: Pokémon GO Fest 2023: Osaka (Pakar Kota)
+
+RESOURCE ID: gofest2023_live_osaka_park
+TEXT: Pokémon GO Fest 2023: Osaka (Pakar Taman)
+
+RESOURCE ID: gofest2023_live_park_active_london
+TEXT: Sesi Pakar Kota! Ayo ke London dan bermain!
+
+RESOURCE ID: gofest2023_live_park_active_newyork
+TEXT: Sesi Pakar Kota! Ayo ke New York dan bermain!
+
+RESOURCE ID: gofest2023_live_park_active_osaka
+TEXT: Sesi Pakar Kota! Ayo ke Osaka dan bermain!
+
+RESOURCE ID: gofest2023_live_preview_city_0804
+TEXT: Pemberitahuan: Hari Pakar Kota Pokémon GO Fest akan diadakan pada Jumat, 04 Agustus (09.00–19.00)
+
+RESOURCE ID: gofest2023_live_preview_city_0805
+TEXT: Pemberitahuan: Hari Pakar Kota Pokémon GO Fest akan diadakan Sabtu, 05 Agustus (09.00–19.00)
+
+RESOURCE ID: gofest2023_live_preview_city_0806
+TEXT: Pemberitahuan: Hari Pakar Kota Pokémon GO Fest akan diadakan Minggu, 06 Agustus (09.00–19.00)
+
+RESOURCE ID: gofest2023_live_preview_city_0818
+TEXT: Pemberitahuan: Hari Pakar Kota Pokémon GO Fest akan diadakan pada Jumat, 18 Agustus (09.00–19.00)
+
+RESOURCE ID: gofest2023_live_preview_city_0819
+TEXT: Pemberitahuan: Hari Pakar Kota Pokémon GO Fest akan diadakan Sabtu, 19 Agustus (09.00–19.00)
+
+RESOURCE ID: gofest2023_live_preview_city_0820
+TEXT: Pemberitahuan: Hari Pakar Kota Pokémon GO Fest akan diadakan Minggu, 20 Agustus (09.00–19.00)
+
+RESOURCE ID: gofest2023_live_preview_park_afternoon_0804
+TEXT: Pemberitahuan: Sesi Pakar Taman Pokémon GO Fest 2023 akan diadakan hari Jumat siang pada 4 Agustus (14.30–19.00)
+
+RESOURCE ID: gofest2023_live_preview_park_afternoon_0805
+TEXT: Pemberitahuan: Sesi Pakar Taman Pokémon GO Fest 2023 akan diadakan hari Sabtu siang pada 5 Agustus (14.30–19.00)
+
+RESOURCE ID: gofest2023_live_preview_park_afternoon_0806
+TEXT: Pemberitahuan: Sesi Pakar Taman Pokémon GO Fest 2023 akan diadakan hari Minggu siang pada 6 Agustus (14.30–19.00)
+
+RESOURCE ID: gofest2023_live_preview_park_afternoon_0818
+TEXT: Pemberitahuan: Sesi Pakar Taman Pokémon GO Fest 2023 akan diadakan hari Jumat siang pada 18 Agustus (15.00–19.00)
+
+RESOURCE ID: gofest2023_live_preview_park_afternoon_0819
+TEXT: Pemberitahuan: Sesi Pakar Taman Pokémon GO Fest 2023 akan diadakan hari Sabtu siang pada 19 Agustus (15.00–19.00)
+
+RESOURCE ID: gofest2023_live_preview_park_afternoon_0820
+TEXT: Pemberitahuan: Sesi Pakar Taman Pokémon GO Fest 2023 akan diadakan hari Minggu siang pada 20 Agustus (15.00–19.00)
+
+RESOURCE ID: gofest2023_live_preview_park_morning_0804
+TEXT: Pemberitahuan: Sesi Pakar Taman Pokémon GO Fest 2023 akan diadakan hari Jumat pagi pada 4 Agustus (09.00–13.30)
+
+RESOURCE ID: gofest2023_live_preview_park_morning_0805
+TEXT: Pemberitahuan: Sesi Pakar Taman Pokémon GO Fest 2023 akan diadakan hari Sabtu pagi pada 5 Agustus (09.00–13.30)
+
+RESOURCE ID: gofest2023_live_preview_park_morning_0806
+TEXT: Pemberitahuan: Sesi Pakar Taman Pokémon GO Fest 2023 akan diadakan hari Minggu pagi pada 6 Agustus (09.00–13.30)
+
+RESOURCE ID: gofest2023_live_preview_park_morning_0818
+TEXT: Pemberitahuan: Sesi Pakar Taman Pokémon GO Fest 2023 akan diadakan hari Jumat pagi pada 18 Agustus (09.00–13.00)
+
+RESOURCE ID: gofest2023_live_preview_park_morning_0819
+TEXT: Pemberitahuan: Sesi Pakar Taman Pokémon GO Fest 2023 akan diadakan hari Sabtu pagi pada 19 Agustus (09.00–13.00)
+
+RESOURCE ID: gofest2023_live_preview_park_morning_0820
+TEXT: Pemberitahuan: Sesi Pakar Taman Pokémon GO Fest 2023 akan diadakan hari Minggu pagi pada 20 Agustus (09.00–13.00)
+
+RESOURCE ID: gofest2023_london
+TEXT: Pokémon GO Fest: London
+
+RESOURCE ID: gofest2023_malachite_wilderness
+TEXT: Tantangan Koleksi Hutan Malakit
+
+RESOURCE ID: gofest2023_malachite_wilderness_description
+TEXT: Tangkap Pokémon ini di habitat Hutan Malakit!
+
+RESOURCE ID: gofest2023_newyork
+TEXT: Pokémon GO Fest: New York
+
+RESOURCE ID: gofest2023_osaka
+TEXT: Pokémon GO Fest 2023: Osaka
+
+RESOURCE ID: gofest2023_park_0_1
+TEXT: Halo, %PLAYERNAME%! Selamat datang di Pokémon GO Fest!
+
+RESOURCE ID: gofest2023_park_0_2
+TEXT: Aku senang karena kamu datang. Oke, langsung saja kita mulai ...
+
+RESOURCE ID: gofest2023_park_0_3
+TEXT: Ini adalah peta yang bergambar kode petunjuk akan sesuatu. Peta untuk menemukan sesuatu yang tersembunyi di sekitar sini.
+
+RESOURCE ID: gofest2023_park_0_4
+TEXT: Mungkin ini akan menuntun kita ke sesuatu yang berharga atau Pokémon langka.
+
+RESOURCE ID: gofest2023_park_0_5
+TEXT: Oke, petunjuk pertama adalah sebagai berikut. "Kumpulkan kawan-kawan dengan aroma sitrin."
+
+RESOURCE ID: gofest2023_park_0_6
+TEXT: Hmm ... Sitrin ... Aroma .... Pewangi. Ini pasti berkaitan dengan Pewangi berwarna oranye!
+
+RESOURCE ID: gofest2023_park_0_7
+TEXT: Ayo kita coba gunakan! Kurasa kita akan mendapatkan petunjuk baru seiring dengan menangkap Pokémon.
+
+RESOURCE ID: gofest2023_park_1_1
+TEXT: Sepertinya ini menjadi titik keberangkatan kita ...
+
+RESOURCE ID: gofest2023_park_1_2
+TEXT: Selain para Pelatih yang berjalan dengan tampak gembira, tak ada hal lainnya yang berubah.
+
+RESOURCE ID: gofest2023_park_1_3
+TEXT: Ayo lihat petunjuk berikutnya.
+
+RESOURCE ID: gofest2023_park_1_4
+TEXT: Hmm ... "Tinggalkan kenangan yang berkilau lebih dari emas dan lebih berharga dari intan."
+
+RESOURCE ID: gofest2023_park_1_5
+TEXT: Di peta, ada tempat-tempat yang diberi tanda. Kita harus pergi ke sana ya.
+
+RESOURCE ID: gofest2023_park_1_6
+TEXT: Semuanya merupakan tempat yang memiliki topografi yang khas dan sepertinya ada Pokémon yang hidup di sana.
+
+RESOURCE ID: gofest2023_park_1_7
+TEXT: Tanpa peta ini sekalipun aku akan memintamu untuk pergi ke sana. Dan tampaknya Foto adalah metode terbaik untuk meninggalkan kenangan.
+
+RESOURCE ID: gofest2023_park_1_8
+TEXT: Tangkaplah Pokémon di area tersebut dan cobalah mengambil beberapa fotonya!
+
+RESOURCE ID: gofest2023_park_2_1
+TEXT: %PLAYERNAME%, semua fotomu bagus! Sementara aku, hanya foto yang kuambil bersama Meltan inilah yang terbaik ...
+
+RESOURCE ID: gofest2023_park_2_2
+TEXT: Oke, fotonya bisa kita lihat nanti. Ayo lihat petunjuk berikutnya.
+
+RESOURCE ID: gofest2023_park_2_3
+TEXT: Tetapkan targetmu dan pergilah tanpa mengalihkan pandanganmu.
+
+RESOURCE ID: gofest2023_park_2_4
+TEXT: Kalau Pokémon sih, aku tak pernah mengalihkan pandangangku dari mereka.
+
+RESOURCE ID: gofest2023_park_2_5
+TEXT: Saat menangkap Pokémon, adakalanya dibutuhkan sedikit teknik khusus.
+
+RESOURCE ID: gofest2023_park_2_6
+TEXT: Benar, ini berkaitan dengan cara melempar Bola Pokémon. Cobalah menangkap mereka setelah menentukan target dengan baik.
+
+RESOURCE ID: gofest2023_park_3_1
+TEXT: W-wow, %PLAYERNAME%! Bukankah itu Pokémon Mitos, Diancie?!
+
+RESOURCE ID: gofest2023_park_3_2
+TEXT: Luar Biasa! Warna merah mudanya yang berkilau sungguh indah ...
+
+RESOURCE ID: gofest2023_park_3_3
+TEXT: Dikatakan bahwa kilauannya itu merupakan yang terindah sedunia. Aku langsung paham dengan melihatnya langsung seperti ini.
+
+RESOURCE ID: gofest2023_park_3_4
+TEXT: Lalu, Diancie menciptakan intan berjumlah banyak dalam sekejap dengan mengompres karbon yang ada di udara di antara kedua tangannya.
+
+RESOURCE ID: gofest2023_park_3_5
+TEXT: %PLAYERNAME%, kamu luar biasa karena bisa menemukannya! Tetapi, pencarian kita masih belum selesai lho.
+
+RESOURCE ID: gofest2023_park_3_6
+TEXT: Petunjuk terakhir kita adalah sebagai berikut.
+
+RESOURCE ID: gofest2023_park_3_7
+TEXT: Debu Bintang yang berkilau akan mengantarkanmu ke sesuatu yang kecantikannya tak dapat diukur.
+
+RESOURCE ID: gofest2023_park_3_8
+TEXT: Hmm ... Itu berarti kita harus mengumpulkan Debu Bintang! Ayo segera bergerak!
+
+RESOURCE ID: gofest2023_park_4_1
+TEXT: %PLAYERNAME%, apakah kamu menemukan sesuatu?
+
+RESOURCE ID: gofest2023_park_4_2
+TEXT: Ini bukan permata ... Ini Energi Mega dari Diancie!
+
+RESOURCE ID: gofest2023_park_4_3
+TEXT: Aku ingin sekali mengamati Evolusi Mega Diance. Tak bisa terbayangkan betapa berkilau dirinya nanti!
+
+RESOURCE ID: gofest2023_park_4_4
+TEXT: Kabari aku kalau kamu melakukan Evolusi Mega ke Diancie ya!
+
+RESOURCE ID: gofest2023_park_4_5
+TEXT: Dan jangan lupa untuk melakukan penyelidikan di area sekitar.
+
+RESOURCE ID: gofest2023_park_4_6
+TEXT: Terima kasih sudah menghabiskan waktumu bersamaku, %PLAYERNAME%! Waktu yang kita habiskan dalam pencarian Pokémon dengan senyuman adalah harta berharga!
+
+RESOURCE ID: gofest2023_park_4_7
+TEXT: Oke, bersama Diancie ... Saatnya GO!
+
+RESOURCE ID: gofest2023_park_session
+TEXT: Pokémon GO Fest 2023: Pakar Taman
+
+RESOURCE ID: gofest2023_pyrite_sands
+TEXT: Tantangan Koleksi Padang Pasir Pirit
+
+RESOURCE ID: gofest2023_pyrite_sands_description
+TEXT: Tangkap Pokémon ini di habitat Padang Pasir Pirit!
+
+RESOURCE ID: gofest2023_quartz_terrarium
+TEXT: Tantangan Koleksi Terarium Kuarsa
+
+RESOURCE ID: gofest2023_quartz_terrarium_description
+TEXT: Tangkap Pokémon ini di habitat Terarium Kuarsa!
+
+RESOURCE ID: gofest2023_raid_add_on
+TEXT: GO Fest 2023: Pecinta Raid
+
+RESOURCE ID: gofest2023_ticketed_rayquaza_0_1
+TEXT: Hai, %PLAYERNAME%! Senang bisa berjumpa lagi denganmu!
+
+RESOURCE ID: gofest2023_ticketed_rayquaza_0_2
+TEXT: Lihatlah Pokémon di sekelilingmu! Tampaknya mereka juga sedang menikmati festival ini.
+
+RESOURCE ID: gofest2023_ticketed_rayquaza_0_3
+TEXT: Kata Spark, para Pokémon tersebut mungkin ikut merasakan suasana hati para Pelatih yang menikmati festival ini.
+
+RESOURCE ID: gofest2023_ticketed_rayquaza_0_4
+TEXT: Ehem, oke mula-mula ayo kita selidiki area sekitar sini.
+
+RESOURCE ID: gofest2023_ticketed_rayquaza_0_5
+TEXT: Cobalah menangkap beberapa Pokémon, %PLAYERNAME%!
+
+RESOURCE ID: gofest2023_ticketed_rayquaza_1_1
+TEXT: Selamat datang kembali, %PLAYERNAME%!
+
+RESOURCE ID: gofest2023_ticketed_rayquaza_1_2
+TEXT: Wah, ada banyak sekali Pokémon tipe Terbang dan Naga ya!
+
+RESOURCE ID: gofest2023_ticketed_rayquaza_1_3
+TEXT: Pokémon tipe Terbang dan Naga ... Entah kenapa yang langsung terpikir di benakku adalah Rayquaza. Apakah ini pengaruh dari kemunculan Mega Rayquaza?
+
+RESOURCE ID: gofest2023_ticketed_rayquaza_1_4
+TEXT: Kabarnya, jika Rayquaza melakukan Evolusi Mega, ia dapat menghentikan Groudon Primal dan Kyogre Primal.
+
+RESOURCE ID: gofest2023_ticketed_rayquaza_1_5
+TEXT: Menurut mitos, Groudon dan Kyogre dikatakan sebagai Jelmaan Daratan dan Laut. Bisa menghentikan mereka adalah hal yang luar biasa!
+
+RESOURCE ID: gofest2023_ticketed_rayquaza_1_6
+TEXT: %PLAYERNAME%, kamu memiliki beberapa Pokémon tipe Terbang dan Naga 'kan? Cobalah perkuat mereka!
+
+RESOURCE ID: gofest2023_ticketed_rayquaza_2_1
+TEXT: Kerja bagus, %PLAYERNAME%!
+
+RESOURCE ID: gofest2023_ticketed_rayquaza_2_2
+TEXT: Sepertinya kamu memperkuat mereka tanpa masalah. Kalau begitu, bagaimana kalau coba ikut pertarungan? Mungkin saja nanti kamu bisa mengalahkan Mega Rayquaza.
+
+RESOURCE ID: gofest2023_ticketed_rayquaza_2_3
+TEXT: Ingatlah ini, kelemahan Mega Rayquaza adalah jurus tipe Es, Bebatuan, Naga, dan Peri.
+
+RESOURCE ID: gofest2023_ticketed_rayquaza_2_4
+TEXT: Bentuklah tim yang tepat dan hadapi Mega Rayquaza!
+
+RESOURCE ID: gofest2023_ticketed_rayquaza_2_5
+TEXT: Jika kamu memiliki strategi yang tepat dan semangat seperti Candela, kuyakin kamu pasti bisa!
+
+RESOURCE ID: gofest2023_ticketed_rayquaza_2_6
+TEXT: Aku sudah kalah lima kali berturut-turut dari Candela ...
+
+RESOURCE ID: gofest2023_ticketed_rayquaza_2_7
+TEXT: Banyak yang bisa kamu pelajari dari pertarungan, jadi tak perlu khawatir soal menang atau kalah!
+
+RESOURCE ID: gofest2023_ticketed_rayquaza_2_8
+TEXT: Semangat dan semoga beruntung, %PLAYERNAME%!
+
+RESOURCE ID: gofest2023_ticketed_rayquaza_3_1
+TEXT: %PLAYERNAME%! Luar biasa!
+
+RESOURCE ID: gofest2023_ticketed_rayquaza_3_2
+TEXT: Melalui pertarungan, kamu dapat memahami dirimu dan juga Pokémonmu lebih dalam. Bagus sekali!
+
+RESOURCE ID: gofest2023_ticketed_rayquaza_3_3
+TEXT: Kalau lawannya Mega Rayquaza ... Aku cukup dengan mengawasi dari kejauhan saja.
+
+RESOURCE ID: gofest2023_ticketed_rayquaza_3_4
+TEXT: Berkat usahamu, sepertinya kamu siap untuk melakukan Evolusi Mega ke Rayquaza.
+
+RESOURCE ID: gofest2023_ticketed_rayquaza_3_5
+TEXT: Ah, tenang saja. Aku tidak memaksamu untuk melakukannya sekarang.
+
+RESOURCE ID: gofest2023_ticketed_rayquaza_3_6
+TEXT: Kamu bisa melakukan penyelidikan di area sekitar setelah beristirahat sejenak, %PLAYERNAME%.
+
+RESOURCE ID: gofest2023_ticketed_rayquaza_4_1
+TEXT: Kamu menangkap berbagai macam Pokémon! Terima kasih, %PLAYERNAME%!
+
+RESOURCE ID: gofest2023_ticketed_rayquaza_4_2
+TEXT: Kamu masih belum lelah, 'kan?
+
+RESOURCE ID: gofest2023_ticketed_rayquaza_4_3
+TEXT: Mantap! Tangkaplah lebih banyak Pokémon lagi, %PLAYERNAME%!
+
+RESOURCE ID: gofest2023_ticketed_rayquaza_4_4
+TEXT: Kamu bisa mencari Mega Rayquaza atau menikmati waktu bersama Pokémon Partnermu.
+
+RESOURCE ID: gofest2023_ticketed_rayquaza_4_5
+TEXT: Maksudku, nikmatilah waktumu.
+
+RESOURCE ID: gofest2023_ticketed_rayquaza_4_6
+TEXT: Aku menantikan petualangan seperti ini tahun depan. Sampai jumpa!
+
+RESOURCE ID: gofest2023_ticketed_rayquaza_4_7
+TEXT: Saatnya GO!
+
 RESOURCE ID: gofest_2021_band_boisterous
 TEXT: GO Fest 2021: Riuh
 
@@ -22352,7 +23701,7 @@ RESOURCE ID: gold_box_title
 TEXT: Kotak Emas
 
 RESOURCE ID: google_auth_failed
-TEXT: Tidak dapat mengautentikasi. Coba lagi.
+TEXT: Gagal mengauntentikasi akun. Coba lagi nanti atau coba dengan akun lainnya yang tertaut.
 
 RESOURCE ID: google_login_button
 TEXT: Google
@@ -23027,7 +24376,7 @@ RESOURCE ID: gotour_kanto_raid
 TEXT: Tur GO Kanto: Raid
 
 RESOURCE ID: gotour_kanto_raid_description
-TEXT: Selesaikan Raid melawan Pokémon yang pertama kali ditemukan di Kanto
+TEXT: Selesaikan Raid Pokémon yang pertama kali ditemukan di Kanto
 
 RESOURCE ID: gotour_kanto_red_catch
 TEXT: Tur GO Daerah Kanto: Red Version (Pewangi)
@@ -23513,10 +24862,10 @@ RESOURCE ID: gotoursik_welcome
 TEXT: Selamat datang ke Tur Pokémon GO: Live – Menuju Kanto!
 
 RESOURCE ID: goyang_cup_title
-TEXT: Kejuaraan Instan Goyang
+TEXT: Piala Instan Goyang
 
 RESOURCE ID: goyang_cup_title_post
-TEXT: Pasca Event Kejuaraan Instan: Goyang
+TEXT: Pasca Event Piala Instan: Goyang
 
 RESOURCE ID: gp_super_premium_bundle
 TEXT: Bundel Super Premium
@@ -24323,7 +25672,7 @@ RESOURCE ID: guest_account_link_success_title
 TEXT: Tautan akun berhasil.
 
 RESOURCE ID: guest_auth_failed
-TEXT: Tidak dapat mengautentikasi. Coba lagi.
+TEXT: Gagal mengauntentikasi akun. Coba lagi nanti atau coba dengan akun lainnya yang tertaut.
 
 RESOURCE ID: guest_level_expiration_subtitle
 TEXT: Kamu perlu mendaftar untuk lanjut bermain.
@@ -24719,6 +26068,18 @@ TEXT: Mendapatkan Lencana Gym!
 RESOURCE ID: gyms_disabled_update
 TEXT: Gym sedang sedang dibangun.
 
+RESOURCE ID: habitat_aquamarine_shores
+TEXT: Pantai Akuamarin
+
+RESOURCE ID: habitat_malachite_wilderness
+TEXT: Hutan Malakit
+
+RESOURCE ID: habitat_pyrite_sands
+TEXT: Padang Pasir Pirit
+
+RESOURCE ID: habitat_quartz_terrarium
+TEXT: Terarium Kuarsa
+
 RESOURCE ID: hal_pumpkaboo_2021_collection_challenge
 TEXT: Tantangan Koleksi Pumpkaboo
 
@@ -24741,7 +26102,7 @@ RESOURCE ID: halloween_2019_snapshot_easy
 TEXT: Halloween: Ambil {0} foto Pokémon tipe Hantu
 
 RESOURCE ID: halloween_cup_title
-TEXT: Kejuaraan Halloween
+TEXT: Piala Halloween
 
 RESOURCE ID: halloween_event_name
 TEXT: Halloween
@@ -24753,13 +26114,25 @@ RESOURCE ID: halloween_event_name_2
 TEXT: Keisengan Halloween: Bagian 2
 
 RESOURCE ID: halloween_ultra_cup_title
-TEXT: Kejuaraan Halloween: Edisi Liga Ultra
+TEXT: Piala Halloween: Edisi Liga Ultra
 
 RESOURCE ID: hatch_box
 TEXT: Kotak Penetasan
 
+RESOURCE ID: hatch_candy_1.5x
+TEXT: Permen Penetasan ×1,5
+
 RESOURCE ID: hatch_candy_double
 TEXT: Permen Penetasan ×2
+
+RESOURCE ID: hatch_day_2k_riolu
+TEXT: Riolu menetas dari Telur 2 km
+
+RESOURCE ID: hatch_day_riolu_limited_research
+TEXT: Penelitian Berwaktu: Hari Penetasan Riolu
+
+RESOURCE ID: hatch_stardust_1.5x
+TEXT: Debu Bintang Penetasan ×1,5
 
 RESOURCE ID: hatch_stardust_double
 TEXT: Debu Bintang Penetasan x2
@@ -24804,7 +26177,7 @@ RESOURCE ID: hoenn_collection_name
 TEXT: Tantangan Koleksi Hoenn
 
 RESOURCE ID: hoenn_cup_great_title
-TEXT: Kejuaraan Hoenn: Edisi Liga Great
+TEXT: Piala Hoenn: Edisi Liga Great
 
 RESOURCE ID: hoenn_event_name
 TEXT: Event Hoenn
@@ -24822,13 +26195,13 @@ RESOURCE ID: holiday_2019_snapshot
 TEXT: Event Liburan: Ambil {0} foto Pokémon tipe Es
 
 RESOURCE ID: holiday_cup_great_title
-TEXT: Kejuaraan Liburan: Edisi Liga Great
+TEXT: Piala Liburan: Edisi Liga Great
 
 RESOURCE ID: holiday_cup_title
-TEXT: Kejuaraan Liburan
+TEXT: Piala Liburan
 
 RESOURCE ID: holiday_cup_ultra_title
-TEXT: Kejuaraan Liburan: Edisi Liga Ultra
+TEXT: Piala Liburan: Edisi Liga Ultra
 
 RESOURCE ID: holidayw_2019_evolve
 TEXT: Event Liburan: Evolusikan {0} Pokémon tipe Es
@@ -25118,6 +26491,9 @@ TEXT: 1 orang mengirimkan Permintaan Berteman.
 RESOURCE ID: increased_adventure_sync_rewards
 TEXT: Hadiah Sinkronisasi Petualangan minggu depan meningkat
 
+RESOURCE ID: increased_chance_buddy_xl_bonus
+TEXT: Peluang perolehan Permen XL saat berjalan bersama Pokémon Partner meningkat
+
 RESOURCE ID: increased_shiny_2k_5k_10k_eggs
 TEXT: Peluang Pokémon Bersinar menetas dari Telur 2 km, 5 km, dan 10 km meningkat.
 
@@ -25126,6 +26502,12 @@ TEXT: Jumlah Debu Bintang yang diperoleh dari mengalahkan Bawahan Tim Roket GO m
 
 RESOURCE ID: increased_transfer_candy_xl_bonus
 TEXT: Permen dan Permen XL dari Mentransfer Pokémon meningkat
+
+RESOURCE ID: increased_xp_pokestop_streak_bonus
+TEXT: XP pemutaran PokéStop 7 hari beruntun meningkat
+
+RESOURCE ID: increased_xp_stardust_pokemon_streak_bonus
+TEXT: XP dan Debu Bintang penangkapan Pokémon 7 hari beruntun meningkat
 
 RESOURCE ID: incubator_choose_egg
 TEXT: Pilih Telur.
@@ -25143,7 +26525,7 @@ RESOURCE ID: incubator_selector_infinite_uses
 TEXT: ∞
 
 RESOURCE ID: incubator_selector_uses_left
-TEXT: {0} penggunaan
+TEXT: Sisa {0} kali
 
 RESOURCE ID: incubatorbasic.1_description
 TEXT: Perangkat untuk mengerami dan menetaskan Telur saat berjalan. Rusak setelah 3 kali penggunaan.
@@ -25433,6 +26815,27 @@ TEXT: Memberikan akses ke Penelitian Berwaktu GO Battle League, memungkinkanmu u
 RESOURCE ID: item_battle_pass_ticket_name
 TEXT: Tiket Penelitian Berwaktu GO Battle League
 
+RESOURCE ID: item_bean_collected_body
+TEXT: Menemukan 1 Sel Zygarde
+
+RESOURCE ID: item_beans_desc
+TEXT: Sel Zygarde dapat digabungkan dan dilepaskan untuk membuat bentuk lain dari Zygarde. Dapat membawa {0} Sel Zygarde secara bersamaan.
+
+RESOURCE ID: item_beans_multiple_collected_body
+TEXT: Menemukan {0} Sel Zygarde
+
+RESOURCE ID: item_beans_name
+TEXT: Sel Zygarde
+
+RESOURCE ID: item_beans_name_plural
+TEXT: Sel Zygarde
+
+RESOURCE ID: item_beans_one_collected_body
+TEXT: {0} Sel Zygarde terisap ke dalam Zygarde Cube!
+
+RESOURCE ID: item_beans_one_collected_body_singular
+TEXT: 1 Sel Zygarde terisap ke dalam Zygarde Cube!
+
 RESOURCE ID: item_beast_ball_desc
 TEXT: Bola Pokémon khusus yang dibuat untuk menangkap Ultra Beast.
 
@@ -25444,6 +26847,15 @@ TEXT: TAK TERDEFINISI
 
 RESOURCE ID: item_bluk_berry_name
 TEXT: Beri Bluk
+
+RESOURCE ID: item_breakfast_desc
+TEXT: Sebuah item tempat Sel Zygarde terkumpul. Dapat juga digunakan untuk mengubah bentuk Zygarde dan dapat menampung hingga {0} Sel Zygarde.
+
+RESOURCE ID: item_breakfast_desc_count
+TEXT: Item tempat Sel Zygarde terkumpul. Kamu memiliki {0} Sel Zygarde.
+
+RESOURCE ID: item_breakfast_name
+TEXT: Zygarde Cube
 
 RESOURCE ID: item_dragon_scale_desc
 TEXT: Sisik yang membuat spesies Pokémon tertentu berevolusi. Sisik ini sangat keras dan kukuh.
@@ -25485,7 +26897,7 @@ RESOURCE ID: item_event_ticket_pink_bulbt_details
 TEXT: Tiket ini akan aktif secara otomatis dan memberimu akses ke Penelitian Spesial pada 22 Januari 2022, di mana pun kamu berada.
 
 RESOURCE ID: item_event_ticket_pink_desc
-TEXT: Tiket untuk mengakses Penelitian Spesial: Hari Komunitas Squirtle, di mana pun kamu berada.
+TEXT: Tiket untuk mengakses Penelitian Spesial: Hari Komunitas Poliwag pada 30 Juli 2023, mulai pukul 14.00 hingga 17.00 waktu setempat, di mana pun kamu berada.
 
 RESOURCE ID: item_event_ticket_pink_desc_alodude
 TEXT: Tiket untuk mengakses Penelitian Spesial pada tanggal 21 Mei 2022, mulai pukul 11.00 hingga 14.00 waktu setempat, di mana pun kamu berada.
@@ -25511,8 +26923,8 @@ TEXT: Tiket untuk mengakses Penelitian Berwaktu: Pencarian Emas pada 3 Juni 2023
 RESOURCE ID: item_event_ticket_pink_desc_mrmime
 TEXT: Tiket untuk mengakses event spesial mulai tanggal 19 Desember 2020, pukul 10.00 hingga 20 Desember 2020 pukul 20.00 waktu setempat, di mana pun kamu berada.
 
-RESOURCE ID: item_event_ticket_pink_desc_poliwag
-TEXT: Tiket untuk mengakses Penelitian Spesial pada 30 Juli 2023, mulai pukul 14.00 hingga 17.00 waktu setempat, di mana pun kamu berada.
+RESOURCE ID: item_event_ticket_pink_desc_squirtle
+TEXT: Tiket untuk mengakses Penelitian Spesial: Hari Komunitas Squirtle, di mana pun kamu berada.
 
 RESOURCE ID: item_event_ticket_pink_desc_swinub
 TEXT: Tiket untuk mengakses Penelitian Spesial: Hari Komunitas Swinub, di mana pun kamu berada.
@@ -25521,7 +26933,7 @@ RESOURCE ID: item_event_ticket_pink_desc_togetic
 TEXT: Tiket untuk mengakses Penelitian Spesial pada 15 April 2023, mulai pukul 14.00 hingga 17.00 waktu setempat, di mana pun kamu berada.
 
 RESOURCE ID: item_event_ticket_pink_details
-TEXT: Tiket ini akan aktif secara otomatis dan memberimu akses ke Penelitian Spesial: Hari Komunitas Squirtle pada 9 Juli 2023, mulai pukul 14.00 hingga 17.00 waktu setempat, di mana pun kamu berada.
+TEXT: Tiket ini akan aktif secara otomatis dan memberimu akses ke Penelitian Spesial: Pusaran Licin pada 30 Juli 2023 di mana pun kamu berada.
 
 RESOURCE ID: item_event_ticket_pink_details_axew
 TEXT: Tiket ini akan aktif secara otomatis dan memberimu akses ke Penelitian Spesial: Hari Komunitas Axew pada Sabtu, 10 Juni 2023, mulai pukul 14.00 hingga 17.00 waktu setempat, di mana pun kamu berada.
@@ -25544,8 +26956,8 @@ TEXT: Tiket ini akan aktif secara otomatis dan memberimu akses ke Penelitian Ber
 RESOURCE ID: item_event_ticket_pink_details_mrmime
 TEXT: Tiket ini akan aktif secara otomatis dan memberimu akses ke event Mr. Mime Galarian mulai tanggal 19 Desember 2020, pukul 10.00 hingga 20 Desember 2020 pukul 08.00 waktu setempat, di mana pun kamu berada.
 
-RESOURCE ID: item_event_ticket_pink_details_poliwag
-TEXT: Tiket ini akan aktif secara otomatis dan memberimu akses ke Penelitian Spesial: Hari Komunitas Poliwag, di mana pun kamu berada.
+RESOURCE ID: item_event_ticket_pink_details_squirtle
+TEXT: Tiket ini akan aktif secara otomatis dan memberimu akses ke Penelitian Spesial: Hari Komunitas Squirtle pada 23 Juli 2023, mulai pukul 14.00 hingga 17.00 waktu setempat, di mana pun kamu berada.
 
 RESOURCE ID: item_event_ticket_pink_details_swinub
 TEXT: Tiket ini akan aktif secara otomatis dan memberimu akses ke Penelitian Spesial: Hari Komunitas Swinub pada 29 April 2023, mulai pukul 14.00 hingga 17.00 waktu setempat, di mana pun kamu berada.
@@ -25638,9 +27050,15 @@ RESOURCE ID: item_event_ticket_to_gift_desc
 TEXT: Tiket Event ekstra dari kesalahan saat pembelian. Kamu bisa mengirimkannya ke teman atau meminta pengembalian dana.
 
 RESOURCE ID: item_evergreen_ticket_desc
+TEXT: Tiket untuk mengakses Penelitian Berwaktu Minggu Petualangan 2023 dari 27 Juli 2023 jam 10.00 sampai 2 Agustus 2023 jam 20.00 waktu setempat, di mana pun kamu berada.
+
+RESOURCE ID: item_evergreen_ticket_desc_7th_anniversary_tr
 TEXT: Tiket untuk mengakses Penelitian Berwaktu: Pesta Hari Jadi ke-7 sampai Rabu ,12 Juli 2023 pukul 20.00 waktu setempat, di mana pun kamu berada.
 
 RESOURCE ID: item_evergreen_ticket_details
+TEXT: Tiket ini akan aktif secara otomatis dan memberimu akses ke Penelitian Berwaktu Minggu Petualangan 2023 dari 27 Juli 2023 jam 10.00 hingga 2 Agustus 2023 pukul 20.00 waktu setempat, di mana pun kamu berada.
+
+RESOURCE ID: item_evergreen_ticket_details_7th_anniversary_tr
 TEXT: Tiket untuk mengakses Penelitian Berwaktu: Pesta Hari Jadi ke-7 sampai Rabu ,12 Juli 2023 pukul 20.00 waktu setempat, di mana pun kamu berada.
 
 RESOURCE ID: item_evergreen_ticket_name
@@ -26167,6 +27585,12 @@ TEXT: Kilauan Fantasi
 RESOURCE ID: japanese
 TEXT: 日本語
 
+RESOURCE ID: jeju_poliwag_bonus_tr_desc
+TEXT: Hari Komunitas Poliwag - Bonus Penelitian Berwaktu, Pulau Jeju
+
+RESOURCE ID: jeju_poliwag_bonus_tr_title
+TEXT: Hari Komunitas Poliwag - Bonus Penelitian Berwaktu
+
 RESOURCE ID: jessie_james_boosted_encounter
 TEXT: Balon Meowth yang dinaiki Jessie dan James muncul
 
@@ -26174,7 +27598,7 @@ RESOURCE ID: johto_collection_name
 TEXT: Tantangan Koleksi Johto
 
 RESOURCE ID: johto_cup_title
-TEXT: Kejuaraan Johto
+TEXT: Piala Johto
 
 RESOURCE ID: johto_event_name
 TEXT: Event Johto
@@ -26199,6 +27623,12 @@ TEXT: Menerima {0} item dari Hadiah Sinkronisasi Petualangan Mingguan dengan ber
 
 RESOURCE ID: journal_received_raid_ticket
 TEXT: Kamu menerima Undangan Raid EX di {0}.
+
+RESOURCE ID: journal_route_complete
+TEXT: Rute Selesai!
+
+RESOURCE ID: journal_route_complete_named
+TEXT: {0} Selesai!
 
 RESOURCE ID: journal_shadow_caught
 TEXT: {0} Bayangan tertangkap!
@@ -26229,6 +27659,24 @@ TEXT: Tautan 1
 
 RESOURCE ID: jp_iap_linkname2
 TEXT: Tautan 2
+
+RESOURCE ID: jp_uk_timed_header_0
+TEXT: Kebun Berkilau: Penelitian Berwaktu
+
+RESOURCE ID: jpuk_gofest_global_event_name
+TEXT: Kebun Berkilau
+
+RESOURCE ID: jul23_adventure_collection_challenge_1
+TEXT: Tantangan Koleksi Minggu Petualangan: Cangkang & Kerang
+
+RESOURCE ID: jul23_adventure_collection_challenge_2
+TEXT: Tantangan Koleksi Minggu Petualangan: Akar & Cakar
+
+RESOURCE ID: jul23_adventure_collection_challenge_3
+TEXT: Tantangan Koleksi Minggu Petualangan: Tengkorak & Perisai
+
+RESOURCE ID: jul23_adventure_collection_challenge_4
+TEXT: Tantangan Koleksi Minggu Petualangan: Penutup & Bulu
 
 RESOURCE ID: july22_hisui_disc_collection_challenge
 TEXT: Tantangan Koleksi Penemuan Hisui
@@ -26276,7 +27724,7 @@ RESOURCE ID: kanto_collection_name
 TEXT: Tantangan Koleksi Kanto
 
 RESOURCE ID: kanto_cup_title
-TEXT: Kejuaraan Kanto
+TEXT: Piala Kanto
 
 RESOURCE ID: kanto_event_name
 TEXT: Event Kanto
@@ -28614,16 +30062,16 @@ RESOURCE ID: link_account_sign_up
 TEXT: Masuk dengan akun tertaut.
 
 RESOURCE ID: little_cup_remix_title
-TEXT: Kejuaraan Kecil Remix
+TEXT: Piala Kecil Remix
 
 RESOURCE ID: little_cup_title
-TEXT: Kejuaraan Kecil
+TEXT: Piala Kecil
 
 RESOURCE ID: little_jungle_cup_title
-TEXT: Kejuaraan Rimba Kecil
+TEXT: Piala Rimba Kecil
 
 RESOURCE ID: little_jungle_remix_cup_title
-TEXT: Kejuaraan Rimba Kecil Remix
+TEXT: Piala Rimba Kecil Remix
 
 RESOURCE ID: live_events_shop_category_button
 TEXT: Pelajari Lebih Rinci
@@ -28776,10 +30224,10 @@ RESOURCE ID: login_username_short
 TEXT: Nama pengguna
 
 RESOURCE ID: love_cup_great_title
-TEXT: Kejuaraan Cinta: Edisi Liga Great
+TEXT: Piala Cinta: Edisi Liga Great
 
 RESOURCE ID: love_cup_title
-TEXT: Kejuaraan Cinta
+TEXT: Piala Cinta
 
 RESOURCE ID: lucky_egg_duration_double
 TEXT: Durasi Telur Keberuntungan x2
@@ -29059,6 +30507,10 @@ Kebangkitan Hero
 RESOURCE ID: m_avatar_poses_bundle_pose_52
 TEXT: Pose Peselancar
 
+RESOURCE ID: m_avatar_poses_bundle_pose_53
+TEXT: Pose Peta
+Harta Karun
+
 RESOURCE ID: m_avatar_poses_empty_bundle_pose_empty
 TEXT: Biasa
 
@@ -29127,7 +30579,7 @@ RESOURCE ID: m_shoes_jogger_bundle_icon
 TEXT: Sepatu Lari
 
 RESOURCE ID: manage_items_button
-TEXT: Kelola Alat
+TEXT: Kelola Item
 
 RESOURCE ID: manage_pokemon_tag_add
 TEXT: Berikan label baru untuk {0}
@@ -29205,7 +30657,7 @@ RESOURCE ID: master_league_mega_title
 TEXT: Liga Master: Edisi Mega
 
 RESOURCE ID: master_no_legendary
-TEXT: Kejuaraan Premier
+TEXT: Piala Premier
 
 RESOURCE ID: master_premier_classic_title
 TEXT: ML Premier Klasik
@@ -29926,9 +31378,9 @@ RESOURCE ID: mega_walking_progress
 TEXT: Progres Perjalanan
 
 RESOURCE ID: metadata_local
-TEXT: Built at 2023-08-15T00:15:27.265305
-at SHA 3f2f70aab565420b77d89253c79305aeec9552f4
-Pipeline 1676897, job 20326100
+TEXT: Built at 2023-08-21T17:47:34.524435
+at SHA 236194ea4c036061e777a7c9fb08bbfbf681852e
+Pipeline 1691898, job 20520313
 
 RESOURCE ID: mex_fighting_promo_title
 TEXT: Penelitian Berwaktu: Pilih Tipe Petarungmu
@@ -30017,6 +31469,9 @@ TEXT: Tangkap Pokémon Pilihan saat mereka muncul.
 RESOURCE ID: minicollect_help_desc_type_evolve
 TEXT: Evolusikan Pokémon.
 
+RESOURCE ID: minicollect_help_desc_type_hatch
+TEXT: Tetaskan Pokémon dari Telur.
+
 RESOURCE ID: minicollect_help_desc_type_shadow
 TEXT: Selamatkan Pokémon Bayangan dari Tim Roket GO.
 
@@ -30031,6 +31486,12 @@ TEXT: Beberapa Pokémon hanya dapat ditemukan dengan cara tertentu. Silakan meru
 
 RESOURCE ID: minicollect_help_title
 TEXT: Tantangan Koleksi
+
+RESOURCE ID: minicollect_help_title_type_hatch
+TEXT: Penetasan
+
+RESOURCE ID: minicollect_help_title_type_raid
+TEXT: Raid
 
 RESOURCE ID: minicollect_medal_completion_banner_title
 TEXT: Tantangan yang Diselesaikan
@@ -30813,7 +32274,7 @@ RESOURCE ID: move_name_0295
 TEXT: Weather Ball
 
 RESOURCE ID: move_name_0296
-TEXT: Tanaman Mengamuk
+TEXT: Hard Plant
 
 RESOURCE ID: move_name_0297
 TEXT: Tembak Jatuh
@@ -31066,6 +32527,9 @@ TEXT: Magical Flame
 
 RESOURCE ID: move_name_0383
 TEXT: Aqua Break
+
+RESOURCE ID: move_name_0384
+TEXT: Terpaan Naga Langit
 
 RESOURCE ID: move_name_0385
 TEXT: Dedaunan
@@ -31455,6 +32919,9 @@ TEXT: Tentu saja! %PLAYERNAME%, langsung saja kita teliti koin ini! Jim, aku jug
 
 RESOURCE ID: mystery_invasion_onboarding_dialogue_9
 TEXT: Terima kasih! Kalau begitu, sampai jumpa!
+
+RESOURCE ID: name your route
+TEXT: Name your Route
 
 RESOURCE ID: nearby_pokemon_clear_button
 TEXT: Hapus
@@ -31981,6 +33448,9 @@ TEXT: Terjadi kesalahan saat penukaran kode.
 RESOURCE ID: passcode_rpc_timeout
 TEXT: Waktu permintaan untuk penukaran kode telah habis. Periksa pengaturan jaringan dan coba lagi.
 
+RESOURCE ID: pause_route_travel_error_toast
+TEXT: Kesalahan menjeda Rute
+
 RESOURCE ID: pending_friend_request
 TEXT: Kamu memiliki Permintaan Berteman tertunda dari Pelatih ini.
 
@@ -32204,6 +33674,9 @@ TEXT: 5 pertemuan kejutan dengan Noibat di Foto GO
 
 RESOURCE ID: photobomb_five_oshawott
 TEXT: 5 pertemuan kejutan dengan Oshawott di Foto GO
+
+RESOURCE ID: photobomb_five_poliwag
+TEXT: 5 pertemuan kejutan dengan Poliwag di Foto GO
 
 RESOURCE ID: photobomb_five_porygon
 TEXT: 5 pertemuan kejutan dengan Porygon di Foto GO
@@ -34931,8 +36404,8 @@ RESOURCE ID: pokemon_category_0507
 TEXT: Pokémon Anjing Setia
 
 RESOURCE ID: pokemon_category_0508
-TEXT: Pokémon Besar Hati
-
+TEXT: Pokémon Besar Hati
+
 
 
 RESOURCE ID: pokemon_category_0509
@@ -34948,8 +36421,8 @@ RESOURCE ID: pokemon_category_0512
 TEXT: Pokémon Monyet Berduri
 
 RESOURCE ID: pokemon_category_0513
-TEXT: Pokémon Suhu Tinggi
-
+TEXT: Pokémon Suhu Tinggi
+
 
 
 RESOURCE ID: pokemon_category_0514
@@ -35121,8 +36594,8 @@ RESOURCE ID: pokemon_category_0568
 TEXT: Pokémon Kantong Sampah
 
 RESOURCE ID: pokemon_category_0569
-TEXT: Pokémon Tumpukan Sampah
-
+TEXT: Pokémon Tumpukan Sampah
+
 
 
 RESOURCE ID: pokemon_category_0570
@@ -35279,13 +36752,13 @@ RESOURCE ID: pokemon_category_0618
 TEXT: Pokémon Perangkap
 
 RESOURCE ID: pokemon_category_0619
-TEXT: Pokémon Seni Bela Diri
-
+TEXT: Pokémon Seni Bela Diri
+
 
 
 RESOURCE ID: pokemon_category_0620
-TEXT: Pokémon Seni Bela Diri
-
+TEXT: Pokémon Seni Bela Diri
+
 
 
 RESOURCE ID: pokemon_category_0621
@@ -35298,13 +36771,13 @@ RESOURCE ID: pokemon_category_0623
 TEXT: Pokémon Patung Bergerak
 
 RESOURCE ID: pokemon_category_0624
-TEXT: Pokémon Pisau Tajam
-
+TEXT: Pokémon Pisau Tajam
+
 
 
 RESOURCE ID: pokemon_category_0625
-TEXT: Pokémon Pedang Pisau
-
+TEXT: Pokémon Pedang Pisau
+
 
 
 RESOURCE ID: pokemon_category_0626
@@ -35320,8 +36793,8 @@ RESOURCE ID: pokemon_category_0628_2798
 TEXT: Pokémon Raungan
 
 RESOURCE ID: pokemon_category_0629
-TEXT: Pokémon Popok
-
+TEXT: Pokémon Popok
+
 
 
 RESOURCE ID: pokemon_category_0630
@@ -39736,6 +41209,12 @@ TEXT: Serangan Baru
 RESOURCE ID: pokemon_info_unlockmove3_confirmation
 TEXT: Ajarkan {0} Serangan Spesial baru?
 
+RESOURCE ID: pokemon_info_upgrade_evolution_confirmation
+TEXT: Ganti wujud {0}?
+
+RESOURCE ID: pokemon_info_upgrade_evolve_button
+TEXT: Ganti Wujud
+
 RESOURCE ID: pokemon_info_weight
 TEXT: Berat
 
@@ -43428,7 +44907,7 @@ RESOURCE ID: promo_redeem_button
 TEXT: TUKAR
 
 RESOURCE ID: psychic_cup_title
-TEXT: Kejuaraan Psychic
+TEXT: Piala Psychic
 
 RESOURCE ID: psychic_spectacular_event_name
 TEXT: Psikis Spektakuler
@@ -43440,7 +44919,7 @@ RESOURCE ID: ptc_account_creation_prompt
 TEXT: Belum punya akun Pokémon Trainer Club?
 
 RESOURCE ID: ptc_auth_failed
-TEXT: Tidak dapat mengautentikasi. Coba lagi.
+TEXT: Gagal mengauntentikasi akun. Coba lagi nanti atau coba dengan akun lainnya yang tertaut.
 
 RESOURCE ID: ptc_error_activation_required
 TEXT: Mohon aktifkan akun untuk bermain Pokémon GO.
@@ -43611,10 +45090,10 @@ RESOURCE ID: quest_battle_error_toast
 TEXT: Terjadi kesalahan ketika memulai pertarungan
 
 RESOURCE ID: quest_battle_gbl_halloween_plural
-TEXT: Bertarung di Kejuaraan Halloween {0} kali
+TEXT: Bertarung di Piala Halloween {0} kali
 
 RESOURCE ID: quest_battle_gbl_halloween_win_plural
-TEXT: Menangkan {0} Pertarungan Pelatih di Kejuaraan Halloween.
+TEXT: Menangkan {0} Pertarungan Pelatih di Piala Halloween.
 
 RESOURCE ID: quest_battle_gbl_plural
 TEXT: Bertarung di GO Battle League {0} kali
@@ -43814,6 +45293,9 @@ TEXT: Gunakan {0} Beri Razz untuk mempermudah penangkapan Drifloon
 RESOURCE ID: quest_catch_c_types_plural
 TEXT: Tangkap {0} Pokémon tipe Terbang, Psychic, atau Kegelapan
 
+RESOURCE ID: quest_catch_carbink_singular
+TEXT: Tangkap Carbink
+
 RESOURCE ID: quest_catch_celebi_types_plural
 TEXT: Tangkap {0} Pokémon tipe Daun atau Psychic
 
@@ -43844,6 +45326,9 @@ TEXT: Tangkap Furfrou
 RESOURCE ID: quest_catch_groudon_primal_boosted_types
 TEXT: Tangkap {0} Pokémon tipe Api, Daun, atau Tanah
 
+RESOURCE ID: quest_catch_groudon_type
+TEXT: Tangkap {0} Pokémon tipe Api, Daun, atau Tanah
+
 RESOURCE ID: quest_catch_hoenn_pokemon
 TEXT: Tangkap {0} Pokémon yang pertama kali ditemukan di Daerah Hoenn
 
@@ -43863,6 +45348,9 @@ RESOURCE ID: quest_catch_kanto_pokemon
 TEXT: Tangkap {0} Pokémon yang pertama kali ditemukan di Daerah Kanto
 
 RESOURCE ID: quest_catch_kyogre_primal_boosted_types
+TEXT: Tangkap {0} Pokémon tipe Air, Listrik, atau Serangga
+
+RESOURCE ID: quest_catch_kyogre_type
 TEXT: Tangkap {0} Pokémon tipe Air, Listrik, atau Serangga
 
 RESOURCE ID: quest_catch_legendary_inarow_plural
@@ -43895,6 +45383,12 @@ TEXT: Gunakan Pewangi Harian untuk menangkap {0} Pokémon
 RESOURCE ID: quest_catch_pokemon_plural
 TEXT: Tangkap {0} Pokémon
 
+RESOURCE ID: quest_catch_pokemon_routes_plural
+TEXT: Tangkap {0} Pokémon ketika menelusuri Rute
+
+RESOURCE ID: quest_catch_pokemon_routes_singular
+TEXT: Tangkap Pokémon ketika menelusuri Rute
+
 RESOURCE ID: quest_catch_pokemon_singular
 TEXT: Tangkap Pokémon
 
@@ -43915,6 +45409,9 @@ TEXT: Tangkap Regirock dari Raid
 
 RESOURCE ID: quest_catch_raid_regi_steel
 TEXT: Tangkap Registeel dari Raid
+
+RESOURCE ID: quest_catch_rayquaza_type
+TEXT: Tangkap {0} Pokémon tipe Terbang, Psychic, atau Naga
 
 RESOURCE ID: quest_catch_solrock_plural
 TEXT: Tangkap {0} Solrock
@@ -44178,13 +45675,16 @@ RESOURCE ID: quest_catch_type_dark_plural
 TEXT: Tangkap {0} Pokémon tipe Kegelapan
 
 RESOURCE ID: quest_catch_type_dark_plural_unique
-TEXT: Tangkap {0} macam spesies Pokémon tipe Kegelapan yang berbeda
+TEXT: Tangkap {0} spesies Pokémon tipe Kegelapan yang berbeda
 
 RESOURCE ID: quest_catch_type_dark_singular
 TEXT: Tangkap Pokémon tipe Kegelapan
 
 RESOURCE ID: quest_catch_type_dragon_plural
 TEXT: Tangkap {0} Pokémon tipe Naga
+
+RESOURCE ID: quest_catch_type_dragon_plural_unique
+TEXT: Tangkap {0} spesies Pokémon tipe Naga yang berbeda
 
 RESOURCE ID: quest_catch_type_dragon_singular
 TEXT: Tangkap Pokémon tipe Naga
@@ -44209,6 +45709,9 @@ TEXT: Tangkap Pokémon tipe Peri
 
 RESOURCE ID: quest_catch_type_fighting_plural
 TEXT: Tangkap {0} Pokémon tipe Petarung
+
+RESOURCE ID: quest_catch_type_fighting_plural_unique
+TEXT: Tangkap {0} spesies Pokémon tipe Petarung yang berbeda
 
 RESOURCE ID: quest_catch_type_fighting_singular
 TEXT: Tangkap Pokémon tipe Petarung
@@ -44312,6 +45815,9 @@ TEXT: Tangkap {0} Pokémon yang bertipe sama dengan Pheromosa
 RESOURCE ID: quest_catch_type_poison_plural
 TEXT: Tangkap {0} Pokémon tipe Racun
 
+RESOURCE ID: quest_catch_type_poison_plural_unique
+TEXT: Tangkap {0} spesies Pokémon tipe Racun yang berbeda
+
 RESOURCE ID: quest_catch_type_poison_singular
 TEXT: Tangkap Pokémon tipe Racun
 
@@ -44326,6 +45832,9 @@ TEXT: Tangkap Pokémon tipe Psychic
 
 RESOURCE ID: quest_catch_type_rock_plural
 TEXT: Tangkap {0} Pokémon tipe Bebatuan
+
+RESOURCE ID: quest_catch_type_rock_plural_unique
+TEXT: Tangkap {0} spesies Pokémon tipe Bebatuan yang berbeda
 
 RESOURCE ID: quest_catch_type_rock_singular
 TEXT: Tangkap Pokémon tipe Bebatuan
@@ -44561,6 +46070,12 @@ TEXT: Bayangan Tujuh Warna
 RESOURCE ID: quest_complete_roset
 TEXT: Berhenti dan Hirup Roselia
 
+RESOURCE ID: quest_complete_routes_plural
+TEXT: Telusuri {0} Rute
+
+RESOURCE ID: quest_complete_routes_singular
+TEXT: Telusuri Rute
+
 RESOURCE ID: quest_complete_rue
 TEXT: Sedikit Pemanasan
 
@@ -44591,8 +46106,14 @@ TEXT: Burung Bersayap Kapas
 RESOURCE ID: quest_complete_tepit
 TEXT: Beri Bakar
 
+RESOURCE ID: quest_complete_unique_routes
+TEXT: Jelajahi hingga titik akhir {0} Rute berbeda
+
 RESOURCE ID: quest_complete_wt
 TEXT: Situasi yang Lebat
+
+RESOURCE ID: quest_complete_zygarde
+TEXT: Dari A Hingga Zygarde
 
 RESOURCE ID: quest_daily_bonus_title
 TEXT: Bonus Harian
@@ -46373,8 +47894,17 @@ TEXT: Evolusikan 1 Zweilous
 RESOURCE ID: quest_explore_buddy
 TEXT: Dapatkan Permen dengan menjelajah bersama Partnermu
 
+RESOURCE ID: quest_explore_buddy_carbink
+TEXT: Dapatkan Permen dengan menjelajah bersama Carbink sebagai Partnermu
+
 RESOURCE ID: quest_explore_buddy_plural
 TEXT: Dapatkan {0} Permen dengan menjelajah bersama partnermu
+
+RESOURCE ID: quest_explore_buddy_routes_plural
+TEXT: Dapatkan {0} Permen dengan menjelajahi Rute bersama Partnermu
+
+RESOURCE ID: quest_explore_buddy_routes_singular
+TEXT: Dapatkan Permen dengan menjelajahi Rute bersama Partnermu
 
 RESOURCE ID: quest_explore_km
 TEXT: Jelajahi {0} km
@@ -46484,6 +48014,9 @@ TEXT: Raih peringkat 10 di GO Battle League
 RESOURCE ID: quest_gbl_rank_twenty
 TEXT: Raih peringkat 20 di GO Battle League
 
+RESOURCE ID: quest_get_cell_singular
+TEXT: Temukan Sel Zygarde
+
 RESOURCE ID: quest_giblt_catch_b
 TEXT: Tangkap {0} Gible
 
@@ -46585,6 +48118,54 @@ TEXT: Momen seperti ini mengingatkanku terhadap alasanku menjadi Profesor Pokém
 
 RESOURCE ID: quest_gofest2021_raid_dialogue_2_7
 TEXT: Kenapa kamu tidak menantang beberapa raid dengan Pelatih lain dan menangkap Pokémon sekarang? Kamu butuh mengasah kemampuanmu untuk menangkap Hoopa. Saatnya GO!
+
+RESOURCE ID: quest_gofest2023_live_photo_athletic_field
+TEXT: Di habitat Kawasan Atletik, ambil foto Pokémon yang kamu tangkap
+
+RESOURCE ID: quest_gofest2023_live_photo_cursed_treasures
+TEXT: Di habitat Harta Terkutuk, ambil foto Pokémon yang kamu tangkap
+
+RESOURCE ID: quest_gofest2023_live_photo_dark_jungle
+TEXT: Di habitat Hutan Kegelapan, ambil foto Pokémon yang kamu tangkap
+
+RESOURCE ID: quest_gofest2023_live_photo_fairy_garden
+TEXT: Di habitat Kebun Peri, ambil foto Pokémon yang kamu tangkap
+
+RESOURCE ID: quest_gofest2023_live_photo_hypnotic_glacier
+TEXT: Di habitat Gletser Hipnosis, ambil foto Pokémon yang kamu tangkap
+
+RESOURCE ID: quest_gofest2023_live_photo_poison_swamp
+TEXT: Di habitat Rawa Beracun, ambil foto Pokémon yang kamu tangkap
+
+RESOURCE ID: quest_gofest2023_live_photo_prehistoric_volcano
+TEXT: Di habitat Vulkan Prasejarah, ambil foto Pokémon yang kamu tangkap
+
+RESOURCE ID: quest_gofest2023_live_photo_volcanic_island
+TEXT: Di habitat Pulau Vulkanis, ambil foto Pokémon yang kamu tangkap
+
+RESOURCE ID: quest_gofest2023_live_spin_athletic_field
+TEXT: Putar {0} PokéStop atau Gym di habitat Kawasan Atletik
+
+RESOURCE ID: quest_gofest2023_live_spin_cursed_treasures
+TEXT: Putar {0} PokéStop atau Gym di habitat Harta Terkutuk
+
+RESOURCE ID: quest_gofest2023_live_spin_dark_jungle
+TEXT: Putar {0} PokéStop atau Gym di habitat Hutan Kegelapan
+
+RESOURCE ID: quest_gofest2023_live_spin_fairy_garden
+TEXT: Putar {0} PokéStop atau Gym di habitat Kebun Peri
+
+RESOURCE ID: quest_gofest2023_live_spin_hypnotic_glacier
+TEXT: Putar {0} PokéStop atau Gym di habitat Gletser Hipnosis
+
+RESOURCE ID: quest_gofest2023_live_spin_poison_swamp
+TEXT: Putar {0} PokéStop atau Gym di habitat Rawa Beracun
+
+RESOURCE ID: quest_gofest2023_live_spin_prehistoric_volcano
+TEXT: Putar {0} PokéStop atau Gym di habitat Vulkan Prasejarah
+
+RESOURCE ID: quest_gofest2023_live_spin_volcanic_island
+TEXT: Putar {0} PokéStop atau Gym di habitat Pulau Vulkanis
 
 RESOURCE ID: quest_gofest_0
 TEXT: GO Fest: Tangkap {0} Pokémon
@@ -47033,6 +48614,12 @@ TEXT: Transfer {0} Pokémon
 RESOURCE ID: quest_hatch_egg_plural
 TEXT: Tetaskan {0} Telur
 
+RESOURCE ID: quest_hatch_egg_routes_plural
+TEXT: Tetaskan {0} Telur ketika menelusuri Rute
+
+RESOURCE ID: quest_hatch_egg_routes_singular
+TEXT: Tetaskan Telur ketika menelusuri Rute
+
 RESOURCE ID: quest_hatch_egg_singular
 TEXT: Tetaskan Telur
 
@@ -47059,6 +48646,12 @@ TEXT: Evolusikan {0} Skiploom
 
 RESOURCE ID: quest_incense_plural
 TEXT: Gunakan {0} Pewangi
+
+RESOURCE ID: quest_incense_routes_plural
+TEXT: Gunakan {0} Pewangi ketika menelusuri Rute
+
+RESOURCE ID: quest_incense_routes_singular
+TEXT: Gunakan Pewangi ketika menelusuri Rute
 
 RESOURCE ID: quest_incense_singular
 TEXT: Gunakan Pewangi
@@ -47288,8 +48881,14 @@ TEXT: Lakukan Evolusi Mega pada Blastoise
 RESOURCE ID: quest_mega_evolve_charizard
 TEXT: Lakukan Evolusi Mega pada Charizard
 
+RESOURCE ID: quest_mega_evolve_diancie
+TEXT: Lakukan Evolusi Mega pada Diancie
+
 RESOURCE ID: quest_mega_evolve_plural
 TEXT: Lakukan Evolusi Mega pada {0} Pokémon
+
+RESOURCE ID: quest_mega_evolve_rayquaza
+TEXT: Lakukan Evolusi Mega pada Rayquaza
 
 RESOURCE ID: quest_mega_evolve_singular
 TEXT: Lakukan Evolusi Mega pada 1 Pokémon.
@@ -47372,6 +48971,18 @@ TEXT: Bermainlah dengan partnermu
 RESOURCE ID: quest_pokemon_appears
 TEXT: Pokémon muncul!
 
+RESOURCE ID: quest_poliwag_catch_b
+TEXT: Tangkap {0} Poliwag
+
+RESOURCE ID: quest_poliwag_evolve_b
+TEXT: Evolusikan {0} Poliwag
+
+RESOURCE ID: quest_poliwag_snapshot_b
+TEXT: Ambil {0} foto Poliwag
+
+RESOURCE ID: quest_poliwhirl_evolve_b
+TEXT: Evolusikan {0} Poliwhirl
+
 RESOURCE ID: quest_poryt_catch_b
 TEXT: Tangkap {0} Porygon
 
@@ -47408,8 +49019,14 @@ TEXT: Perkuat {0} Pokémon tipe Serangga
 RESOURCE ID: quest_power_up_plural_dark
 TEXT: Perkuat {0} Pokémon tipe Kegelapan
 
+RESOURCE ID: quest_power_up_plural_dragon
+TEXT: Perkuat {0} Pokémon tipe Naga
+
 RESOURCE ID: quest_power_up_plural_electric
 TEXT: Perkuat {0} Pokémon tipe Listrik
+
+RESOURCE ID: quest_power_up_plural_fairy
+TEXT: Perkuat {0} Pokémon tipe Peri
 
 RESOURCE ID: quest_power_up_plural_fighting
 TEXT: Perkuat {0} Pokémon tipe Petarung
@@ -47417,11 +49034,20 @@ TEXT: Perkuat {0} Pokémon tipe Petarung
 RESOURCE ID: quest_power_up_plural_fire
 TEXT: Perkuat {0} Pokémon tipe Api
 
+RESOURCE ID: quest_power_up_plural_flying
+TEXT: Perkuat {0} Pokémon Tipe Terbang
+
+RESOURCE ID: quest_power_up_plural_ghost
+TEXT: Perkuat {0} Pokémon tipe Hantu
+
 RESOURCE ID: quest_power_up_plural_grass
 TEXT: Perkuat {0} Pokémon tipe Daun
 
 RESOURCE ID: quest_power_up_plural_ground
 TEXT: Perkuat {0} Pokémon tipe Tanah
+
+RESOURCE ID: quest_power_up_plural_ice
+TEXT: Perkuat {0} Pokémon tipe Es
 
 RESOURCE ID: quest_power_up_plural_normal
 TEXT: Perkuat {0} Pokémon tipe Normal
@@ -48924,8 +50550,8 @@ RESOURCE ID: quest_special_dialogue_dec2022_1_6
 TEXT: Omong-omong, bagaimana kalau kamu coba menemui Rhi? Dan pada saat itu, aku akan meneliti beberapa Pokémon yang telah kamu tangkap.
 
 RESOURCE ID: quest_special_dialogue_dec2022_2_0
-TEXT: Salam musiman, %PLAYERNAME%.
-
+TEXT: Salam musiman, %PLAYERNAME%.
+
 Apa aku mengucapkannya dengan benar? Aku baru paham soal "musim" setelah datang ke dunia ini.
 
 RESOURCE ID: quest_special_dialogue_dec2022_2_1
@@ -52703,6 +54329,81 @@ TEXT: Kerja bagus, Pelatih! Samurott yang bagus. Seamitar miliknya benar-benar l
 RESOURCE ID: quest_special_dialogue_oshat_3_1
 TEXT: Terima kasih untuk semua bantuanmu hari ini, %PLAYERNAME%. Kita sudah mempelajari banyak hal tentang Oshawott, Dewott, dan Samurott, dan dari mereka juga! Sampai jumpa! Haha!
 
+RESOURCE ID: quest_special_dialogue_poliwag_0_0
+TEXT: Hai, %PLAYERNAME%! Tadi ada banyak sekali Poliwag di kolam, sekarang masih ada tidak?
+
+RESOURCE ID: quest_special_dialogue_poliwag_0_1
+TEXT: Aku selalu ingin melihat sosok mereka yang bersenang-senang bermain air.
+
+RESOURCE ID: quest_special_dialogue_poliwag_0_2
+TEXT: Kaki Poliwag itu baru saja tumbuh sehingga mereka lebih aktif di dalam air.
+
+RESOURCE ID: quest_special_dialogue_poliwag_0_3
+TEXT: Meskipun begitu, kabarnya mereka juga ingin naik ke darat. Lucu ya.
+
+RESOURCE ID: quest_special_dialogue_poliwag_0_4
+TEXT: Seberapa pandai mereka berenang, dan bagaimana cara mereka berlatih berjalan ya? Langsung saja kita amati mereka!
+
+RESOURCE ID: quest_special_dialogue_poliwag_1_0
+TEXT: Selamat datang kembali, %PLAYERNAME%! Bagaimana? Apa kamu berhasil melihat cara mereka berjalan?
+
+RESOURCE ID: quest_special_dialogue_poliwag_1_1
+TEXT: Omong-omong, ada juga peneliti yang menganjurkan untuk melatih Poliwag berjalan jika menjadi Pelatihnya.
+
+RESOURCE ID: quest_special_dialogue_poliwag_1_2
+TEXT: Tetapi, hal itu tidak perlu dilakukan jika Poliwag berevolusi menjadi Poliwhirl! Poliwhirl berjalan dan mencari makan di darat karena kakinya telah berkembang.
+
+RESOURCE ID: quest_special_dialogue_poliwag_1_3
+TEXT: %PLAYERNAME%, cobalah mengevolusikan Poliwag. Setelah berevolusi menjadi Poliwhirl, jangan lihat perutnya ya!
+
+RESOURCE ID: quest_special_dialogue_poliwag_2_0
+TEXT: Poliwhirl yang mengesankan, %PLAYERNAME%!
+
+RESOURCE ID: quest_special_dialogue_poliwag_2_1
+TEXT: Kalau kamu terus melihat pusaran di perutnya, nanti kamu akan mengantuk lho!
+
+RESOURCE ID: quest_special_dialogue_poliwag_2_10
+TEXT: Jadi, kamu akan memilih ketangguhan atau kepemimpinan?
+
+RESOURCE ID: quest_special_dialogue_poliwag_2_2
+TEXT: Mungkin bunyi kuaknya itu yang mengundang kantuk. Bahkan itu digunakan sebagai pengganti lagu tidur untuk menidurkan anak-anak.
+
+RESOURCE ID: quest_special_dialogue_poliwag_2_3
+TEXT: Perhatikan ya ... Kalau kamu ... Melihatnya ... Begini ...
+
+RESOURCE ID: quest_special_dialogue_poliwag_2_4
+TEXT: ... ... ...
+
+RESOURCE ID: quest_special_dialogue_poliwag_2_5
+TEXT: ... Hah! Wah, maaf! Aku hampir saja ketiduran. Ehem, Poliwhirl bisa berevolusi menjadi Poliwrath atau Politoed.
+
+RESOURCE ID: quest_special_dialogue_poliwag_2_6
+TEXT: Yang memiliki otot tangguh adalah Poliwrath.
+
+RESOURCE ID: quest_special_dialogue_poliwag_2_7
+TEXT: Dikatakan bahwa di laut dingin ekstrem sekalipun, Poliwrath menghancurkan es hanyut menggunakan lengannya yang gagah dan melaju.
+
+RESOURCE ID: quest_special_dialogue_poliwag_2_8
+TEXT: Sedangkan, Politoed adalah pemimpin para Poliwag dan Poliwhirl. Saat Politoed menguak, semuanya menjadi takut dan tunduk padanya.
+
+RESOURCE ID: quest_special_dialogue_poliwag_2_9
+TEXT: Selain itu, suaranya juga memiliki keunikan tersendiri. Meskipun suaranya menyerupai teriakan, ada seorang komposer yang menciptakan lagu balada indah yang dipengaruhi oleh suara tersebut.
+
+RESOURCE ID: quest_special_dialogue_poliwag_3_0
+TEXT: Selamat datang kembali, %PLAYERNAME%! Apakah kamu sudah memutuskan untuk mengevolusikan Poliwhirl menjadi apa?
+
+RESOURCE ID: quest_special_dialogue_poliwag_3_1
+TEXT: Hmm, masih galau ya.
+
+RESOURCE ID: quest_special_dialogue_poliwag_3_2
+TEXT: Cobalah memutuskannya setelah bertualang bersama Poliwag dan Poliwhirl sambil mengamati mereka.
+
+RESOURCE ID: quest_special_dialogue_poliwag_3_3
+TEXT: Terima kasih, %PLAYERNAME%. Hari ini aku jadi terinspirasi untuk tidak berhenti berjalan dan terus melangkah menuju yang lebih baik.
+
+RESOURCE ID: quest_special_dialogue_poliwag_3_4
+TEXT: Sampai jumpa lagi. Saatnya GO! 
+
 RESOURCE ID: quest_special_dialogue_poni_0_0
 TEXT: Oh, %PLAYERNAME%! Senang bertemu denganmu.
 
@@ -56431,6 +58132,111 @@ TEXT: Bagaimana perasaannya ketika mengalami transformasi yang begitu intens ya?
 RESOURCE ID: quest_special_dialogue_zigzagoon_3_6
 TEXT: Ini adalah pelajaran berharga. Terima kasih atas bantuanmu hari ini, Pelatih Pokémon.
 
+RESOURCE ID: quest_special_dialogue_zygarde_0_0
+TEXT: Halo, %PLAYERNAME%! Apa kegiatanmu belakangan ini? Apakah kamu menangkap Pokémon dan juga berjalan melewati jalan baru?
+
+RESOURCE ID: quest_special_dialogue_zygarde_0_1
+TEXT: Kalau aku, mengingat-ingat Pokémon sambil membaca kumpulan artikel Penelitian Pokémon Daerah Kalos.
+
+RESOURCE ID: quest_special_dialogue_zygarde_0_2
+TEXT: Pokémon itu adalah ... Zygarde! Ia merupakan Pokémon yang memiliki peran untuk mengawasi ekosistem para Pokémon.
+
+RESOURCE ID: quest_special_dialogue_zygarde_0_3
+TEXT: Sayangnya, di dalam kumpulan artikel Kalos ini tidak tertulis rincian cara untuk bisa bertemu Zygarde.
+
+RESOURCE ID: quest_special_dialogue_zygarde_0_4
+TEXT: Bagaimana menurutmu, %PLAYERNAME%? Apakah kamu bisa menemukan Zygarde?
+
+RESOURCE ID: quest_special_dialogue_zygarde_0_5
+TEXT: Cobalah memikirkan beberapa teori terkait ini sambil berjalan-jalan!
+
+RESOURCE ID: quest_special_dialogue_zygarde_1_0
+TEXT: Selamat datang kembali, %PLAYERNAME%!
+
+RESOURCE ID: quest_special_dialogue_zygarde_1_1
+TEXT: Saat kamu sedang berjalan-jalan, aku menerima laporan dari beberapa Pelatih.
+
+RESOURCE ID: quest_special_dialogue_zygarde_1_2
+TEXT: Laporannya berisikan kesaksian akan beberapa objek berwarna hijau sepanjang Rute. Ada juga Pelatih yang menyebutnya "Makhluk Hijau".
+
+RESOURCE ID: quest_special_dialogue_zygarde_1_3
+TEXT: Aku punya teori lagi sih ... Tetapi, aku akan mencari dokumen lainnya agar jadi lebih yakin. Ah, sepertinya aku harus membaca kumpulan artikel Penelitian Pokémon Daerah Kalos sekali lagi.
+
+RESOURCE ID: quest_special_dialogue_zygarde_1_4
+TEXT: Bagaimana kalau kamu juga melanjutkan pekerjaan untukku di lapangan, %PLAYERNAME%?
+
+RESOURCE ID: quest_special_dialogue_zygarde_1_5
+TEXT: Perkuatlah beberapa Pokémonmu sebelum berangkat!
+
+RESOURCE ID: quest_special_dialogue_zygarde_2_0
+TEXT: %PLAYERNAME%! Di sini kamu rupanya! Ada hal luar biasa yang terjadi!
+
+RESOURCE ID: quest_special_dialogue_zygarde_2_1
+TEXT: Saat aku membaca dokumen, ada sesuatu yang terbang!
+
+RESOURCE ID: quest_special_dialogue_zygarde_2_2
+TEXT: Aku tak bisa melihatnya dengan jelas karena itu begitu cepat. Mungkinkah itu ...
+
+RESOURCE ID: quest_special_dialogue_zygarde_2_3
+TEXT: Itu pasti masih belum jauh dari sini. Pergi dan carilah itu! Ah, %PLAYERNAME%, sebaiknya kamu juga membawa ini. Akan kujelaskan cara menggunakannya nanti.
+
+RESOURCE ID: quest_special_dialogue_zygarde_3_0
+TEXT: Luar biasa, %PLAYERNAME%! Jadi itu memang Zygarde!
+
+RESOURCE ID: quest_special_dialogue_zygarde_3_1
+TEXT: Atau lebih tepatnya, bagian dari Zygarde.
+
+RESOURCE ID: quest_special_dialogue_zygarde_3_2
+TEXT: Benda seperti sel yang disebut sebagai Sel Zygarde ini dapat mengubah bentuk Zygarde sesuai dengan jumlah sel yang digabungkan.
+
+RESOURCE ID: quest_special_dialogue_zygarde_3_3
+TEXT: Contohnya, ini adalah 10% dari selnya yang terkumpul yang disebut Zygarde Bentuk 10%. Kamu bisa mengubah wujudnya dengan mengumpulkan sel.
+
+RESOURCE ID: quest_special_dialogue_zygarde_3_4
+TEXT: Dan untuk itu kamu perlu menggunakan alat yang tadi kuberikan padamu, Zygarde Cube. Alat ini berfungsi untuk menyimpan Sel Zygarde dengan aman.
+
+RESOURCE ID: quest_special_dialogue_zygarde_3_5
+TEXT: Menurut laporan para Pelatih, peluang untuk menemukan Sel Zygarde dengan menjelajahi Rute itu tinggi. Makhluk Hijau itu ternyata adalah sel tersebut.
+
+RESOURCE ID: quest_special_dialogue_zygarde_3_6
+TEXT: Bisakah kamu mengetes teoriku ini, %PLAYERNAME%?
+
+RESOURCE ID: quest_special_dialogue_zygarde_4_0
+TEXT: Terima kasih karena telah menemukan Sel Zygarde, %PLAYERNAME%!
+
+RESOURCE ID: quest_special_dialogue_zygarde_4_1
+TEXT: Kita bisa mengubah bentuk Zygarde dengan ini, tetapi sepertinya perjalanan kita akan panjang.
+
+RESOURCE ID: quest_special_dialogue_zygarde_4_2
+TEXT: Diperlukan 250 sel untuk mengubah Zygarde menjadi Bentuk Sempurna. Sel ini hanya bisa ditemukan di Rute, yang bisa kita lakukan hanyalah terus berjalan.
+
+RESOURCE ID: quest_special_dialogue_zygarde_4_3
+TEXT: Berarti, ini adalah awal dari petualangan barumu juga. Aku menantikan Pokémon apa lagi yang akan kamu temukan!
+
+RESOURCE ID: quest_special_dialogue_zygarde_4_4
+TEXT: %PLAYERNAME%, kusarankan untuk menggunakan Pewangi saat kamu menjelajahi Rute. Makin banyak Pokémon yang ditemukan, makin lancar juga penelitiannya.
+
+RESOURCE ID: quest_special_dialogue_zygarde_5_0
+TEXT: Selamat datang kembali, %PLAYERNAME%!
+
+RESOURCE ID: quest_special_dialogue_zygarde_5_1
+TEXT: Wah, kamu sudah menjelajahi 5 Rute?! Mantap! Berkat Pelatih sepertimu, penelitian dan penyelidikan berjalan makin cepat dan lancar.
+
+RESOURCE ID: quest_special_dialogue_zygarde_5_2
+TEXT: Bentuk Sempurna dari Zygarde itu kuat dan tangguh dalam pertarungan. Dikatakan bahwa kekuatannya bahkan mampu untuk menaklukkan Xerneas or Yveltal.
+
+RESOURCE ID: quest_special_dialogue_zygarde_5_3
+TEXT: Energi tinggi yang ditembakkan dari mulut di dadanya merupakan energi yang akan menghapus segalanya. Digunakan untuk menenangkan siapa pun yang merusak ekosistem.
+
+RESOURCE ID: quest_special_dialogue_zygarde_5_4
+TEXT: Kuyakin dirimu selalu melakukannya, tetapi kuingatkan lagi untuk terus menjaga lingkungan ya!
+
+RESOURCE ID: quest_special_dialogue_zygarde_5_5
+TEXT: Karena salah satu tujuan kita adalah menciptakan lingkungan yang baik untuk Pokémon, manusia, dan seluruh makhluk hidup.
+
+RESOURCE ID: quest_special_dialogue_zygarde_5_6
+TEXT: Cara untuk mewujudkannya, kuserahkan padamu untuk memikirkannya. Aku pamit dulu ya, %PLAYERNAME%. Kuharap petualanganmu dalam pencarian Sel Zygarde diberi kelancaran. Segera lapor kepadaku jika Zygarde dapat berubah menjadi Bentuk Sempurna!
+
 RESOURCE ID: quest_sphet_catch_b
 TEXT: Tangkap {0} Spheal
 
@@ -57050,7 +58856,7 @@ RESOURCE ID: quest_title_gt_3
 TEXT: Gastly yang Hebat (4/4)
 
 RESOURCE ID: quest_title_hal_gbl_2021
-TEXT: Penelitian Kejuaraan Halloween
+TEXT: Penelitian Piala Halloween
 
 RESOURCE ID: quest_title_hallow_2021
 TEXT: Ada Apa di Balik Topeng?
@@ -57723,6 +59529,21 @@ TEXT: Dari Scalchop Jadi Seamitar (3/4)
 
 RESOURCE ID: quest_title_oshat_3
 TEXT: Dari Scalchop Jadi Seamitar (4/4)
+
+RESOURCE ID: quest_title_poliwag
+TEXT: Pusaran Licin
+
+RESOURCE ID: quest_title_poliwag_0
+TEXT: Pusaran Licin (1/4)
+
+RESOURCE ID: quest_title_poliwag_1
+TEXT: Pusaran Licin (2/4)
+
+RESOURCE ID: quest_title_poliwag_2
+TEXT: Pusaran Licin (3/4)
+
+RESOURCE ID: quest_title_poliwag_3
+TEXT: Pusaran Licin (4/4)
 
 RESOURCE ID: quest_title_poni
 TEXT: Petualangan Poni
@@ -58828,6 +60649,27 @@ TEXT: Catatan Lapangan: Galarian Zigzagoon (3/4)
 RESOURCE ID: quest_title_zigzagoon_3
 TEXT: Catatan Lapangan: Galarian Zigzagoon (4/4)
 
+RESOURCE ID: quest_title_zygarde
+TEXT: Dari A Hingga Zygarde
+
+RESOURCE ID: quest_title_zygarde_0
+TEXT: Dari A Hingga Zygarde (1/6)
+
+RESOURCE ID: quest_title_zygarde_1
+TEXT: Dari A Hingga Zygarde (2/6)
+
+RESOURCE ID: quest_title_zygarde_2
+TEXT: Dari A Hingga Zygarde (3/6)
+
+RESOURCE ID: quest_title_zygarde_3
+TEXT: Dari A Hingga Zygarde (4/6)
+
+RESOURCE ID: quest_title_zygarde_4
+TEXT: Dari A Hingga Zygarde (5/6)
+
+RESOURCE ID: quest_title_zygarde_5
+TEXT: Dari A Hingga Zygarde (6/6)
+
 RESOURCE ID: quest_togetic_catch_b
 TEXT: Tangkap {0} Togetic
 
@@ -59017,6 +60859,12 @@ TEXT: Gunakan Obat Luka Hiper pada Pokémon
 RESOURCE ID: quest_use_lure
 TEXT: Gunakan Modul Umpan
 
+RESOURCE ID: quest_use_lure_plural
+TEXT: Gunakan {0} Modul Umpan ketika menelusuri Rute
+
+RESOURCE ID: quest_use_lure_singular
+TEXT: Gunakan Modul Umpan ketika menelusuri Rute
+
 RESOURCE ID: quest_use_max_potion
 TEXT: Gunakan Obat Luka Maksimum pada Pokémon
 
@@ -59092,6 +60940,12 @@ TEXT: Jalan {0} km
 RESOURCE ID: quest_walk_km_plural
 TEXT: Jalan {0} km
 
+RESOURCE ID: quest_walk_routes_plural
+TEXT: Berjalan {0} km saat menelusuri Rute
+
+RESOURCE ID: quest_walk_routes_singular
+TEXT: Berjalan {0} km saat menelusuri Rute
+
 RESOURCE ID: quest_walk_steps
 TEXT: Jalan {0} langkah
 
@@ -59151,6 +61005,9 @@ TEXT: Menangkan {0} Raid dengan Pokémon Partnermu
 
 RESOURCE ID: quest_win_raid_buddy_singular
 TEXT: Menangkan 1 Raid dengan partnermu
+
+RESOURCE ID: quest_win_raid_gofest2023
+TEXT: Menangkan {0} Raid dengan Rayquaza
 
 RESOURCE ID: quest_win_raid_lvl1_higher_singular
 TEXT: Menangkan Raid bintang 1 atau lebih tinggi
@@ -64093,6 +65950,9 @@ TEXT: Ubah Permen Langka menjadi Permen {0}?
 RESOURCE ID: rare_xl_candy_usage_confirmation
 TEXT: Transformasikan Permen Langka XL menjadi {0} Permen XL?
 
+RESOURCE ID: rating_submitted_toast
+TEXT: Penilaian telah dikirim.
+
 RESOURCE ID: ready_raid_button
 TEXT: SIAP!
 
@@ -64106,7 +65966,7 @@ RESOURCE ID: ready_raid_ftue_confirm
 TEXT: AKU SIAP!
 
 RESOURCE ID: ready_raid_ftue_desc
-TEXT: Jika semua Pelatih telah siap, penghitung waktu lobi akan dilewatkan. Kamu tetap dapat keluar sebelum Raid dimulai.
+TEXT: Jika semua Pelatih siap, penghitung waktu lobi akan menghitung mundur dari 10 detik. Kamu tetap dapat keluar sebelum Raid dimulai.
 
 RESOURCE ID: ready_raid_ftue_title
 TEXT: Siap memulai Raid?
@@ -64124,7 +65984,7 @@ RESOURCE ID: recommended_filter_group_key
 TEXT: Rekomendasi
 
 RESOURCE ID: record_new_route
-TEXT: CATAT RUTE BARU
+TEXT: REKAM RUTE BARU
 
 RESOURCE ID: recycle_dialog_prefix
 TEXT: Buang
@@ -64337,7 +66197,7 @@ TEXT: {0} mengundangmu ke Pertarungan Raid!
 
 RESOURCE ID: remote_raid_invite_push_notif
 TEXT: Undangan Raid
-
+
 {0} mengundangmu ke Pertarungan Raid!
 
 RESOURCE ID: remote_raid_invite_rate_limit_desc
@@ -64448,6 +66308,91 @@ TEXT: Gagal menyusun ulang label
 RESOURCE ID: report_issues_link
 TEXT: https://pokemongo.nianticlabs.com/support/contact/en
 
+RESOURCE ID: report_route_error_daily_max
+TEXT: Telah melaporkan Rute ini.
+Harap tunggu {0} hari untuk melaporkan lagi.
+
+RESOURCE ID: report_route_error_missing_selection
+TEXT: Pilih alasan laporan. 
+
+RESOURCE ID: report_route_error_too_many_reports
+TEXT: Telah mencapai jumlah batas pelaporan Rute untuk hari ini.
+
+RESOURCE ID: report_route_header_1
+TEXT: Rute melewati:
+
+RESOURCE ID: report_route_header_2
+TEXT: Judul atau deskripsi Rute mengandung:
+
+RESOURCE ID: report_route_reason_adult_establishment
+TEXT: Area dewasa atau minuman beralkohol
+
+RESOURCE ID: report_route_reason_child_safety
+TEXT: Terkait keamanan anak-anak
+
+RESOURCE ID: report_route_reason_dangerous
+TEXT: Area berbahaya
+
+RESOURCE ID: report_route_reason_dangerous_ex
+TEXT: cth. Jalan tol atau jalur kendaraan layanan darurat
+
+RESOURCE ID: report_route_reason_grade_school
+TEXT: TK atau SD
+
+RESOURCE ID: report_route_reason_harassment
+TEXT: Pelecehan atau ujaran kebencian
+
+RESOURCE ID: report_route_reason_illegal_goods
+TEXT: Merujuk ke produk ilegal atau dewasa
+
+RESOURCE ID: report_route_reason_illegal_goods_ex
+TEXT: cth. narkoba atau pistol
+
+RESOURCE ID: report_route_reason_inaccessible
+TEXT: Area sulit diakses
+
+RESOURCE ID: report_route_reason_inappropriate
+TEXT: Konten tidak layak atau ketidakpantasan lainnya
+
+RESOURCE ID: report_route_reason_invasive
+TEXT: Beresiko Disusup
+
+RESOURCE ID: report_route_reason_invasive_ex
+TEXT: cth. Tempat yang dapat mengganggu privasi atau menyebabkan ketidaknyamanan orang
+
+RESOURCE ID: report_route_reason_personal_info
+TEXT: Informasi pribadi
+
+RESOURCE ID: report_route_reason_personal_info_ex
+TEXT: cth. alamat atau nomor telepon
+
+RESOURCE ID: report_route_reason_private_residence
+TEXT: Kediaman pribadi
+
+RESOURCE ID: report_route_reason_private_residence_ex
+TEXT: cth. apartemen atau rumah
+
+RESOURCE ID: report_route_reason_self_harm
+TEXT: Pesan melukai diri
+
+RESOURCE ID: report_route_reason_sensitive_location
+TEXT: Lokasi keramat
+
+RESOURCE ID: report_route_reason_sensitive_location_ex
+TEXT: cth. makam atau taman memorial
+
+RESOURCE ID: report_route_reason_spam
+TEXT: Tindakan kecurangan atau spam
+
+RESOURCE ID: report_route_reason_temp_obstruction
+TEXT: Ditutup sementara
+
+RESOURCE ID: report_route_reason_temp_obstruction_ex
+TEXT: cth. area konstruksi
+
+RESOURCE ID: report_route_reason_violent_content
+TEXT: Konten kasar atau berunsur kekerasan
+
 RESOURCE ID: report_video_ad_description
 TEXT: Silakan pilih alasan pelaporan.
 
@@ -64484,6 +66429,9 @@ TEXT: Mulai Ulang
 RESOURCE ID: resume_ar_multiplayer_session
 TEXT: Gabung kembali ke sesi AR yang dibagikan sebelumnya?
 
+RESOURCE ID: resume_route_travel_error_toast
+TEXT: Kesalahan melanjutkan Rute
+
 RESOURCE ID: retention_friend_bonus_message
 TEXT: Pokémon GO lebih seru dimainkan bersama teman! Kamu bisa mendapatkan XP, Telur, dan item lainnya dengan memberikan Hadiah ke teman-temanmu.
 
@@ -64491,7 +66439,7 @@ RESOURCE ID: retention_power_walk_message
 TEXT: Ayo jalan-jalan untuk meningkatkan kekuatan! Coba gunakan Serpihan Bintang, Telur Keberuntungan, dan Pewangi secara bersamaan.
 
 RESOURCE ID: retro_cup_title
-TEXT: Kejuaraan Retro
+TEXT: Piala Retro
 
 RESOURCE ID: returned_defender_sub_section_title
 TEXT: Kembali Hari Ini
@@ -64642,6 +66590,9 @@ TEXT: Kamu harus menunggu selama 1 jam {0} menit untuk memainkan rute ini.
 RESOURCE ID: route_cooldown_toast_hours
 TEXT: Kamu harus menunggu selama {0} jam untuk memainkan rute ini.
 
+RESOURCE ID: route_cooldown_toast_hours_and_minute
+TEXT: Kamu harus menunggu selama {0} jam {1} menit untuk menelusuri Rute ini.
+
 RESOURCE ID: route_cooldown_toast_hours_and_minutes
 TEXT: Kamu harus menunggu selama {0} jam {1} menit untuk memainkan rute ini.
 
@@ -64659,6 +66610,12 @@ TEXT: Pilih gambar dan warna untuk tampilan medali yang akan diterima oleh Pelat
 
 RESOURCE ID: route_create_medal_context_title
 TEXT: Medali Rute
+
+RESOURCE ID: route_create_play_conflict_error_a
+TEXT: Tidak dapat menelusuri Rute saat pembuatan Rute sedang berlangsung.
+
+RESOURCE ID: route_create_play_conflict_error_b
+TEXT: Tidak dapat memulai pembuatan Rute saat sedang menelusuri Rute.
 
 RESOURCE ID: route_creation_abandon_button
 TEXT: Stop Pembuatan Rute
@@ -64681,8 +66638,14 @@ TEXT: Pilih Titik Akhir Baru
 RESOURCE ID: route_creation_action_menu_pause
 TEXT: Jeda Pembuatan Rute
 
+RESOURCE ID: route_creation_action_menu_pin
+TEXT: Sematkan Pin
+
 RESOURCE ID: route_creation_action_menu_resume
-TEXT: Lanjutkan Pencatatan Rute
+TEXT: Lanjutkan Perekaman Rute
+
+RESOURCE ID: route_creation_action_menu_select_endpoint
+TEXT: Pilih Titik Akhir
 
 RESOURCE ID: route_creation_active
 TEXT: Terdapat Rute yang sedang diprogres.
@@ -64691,28 +66654,31 @@ RESOURCE ID: route_creation_adsync_breadcrumb_notification
 TEXT: Dalam proses Pembuatan Rute.
 
 RESOURCE ID: route_creation_ask_start_description
-TEXT: Apabila tidak dapat segera melakukan pencatatan, sesi pembuatan Rute dapat dijeda dan dapat dilanjutkan lagi melalui layar Profil Pelatih. 
+TEXT: Apabila kamu tidak siap untuk merekam, sesi pembuatan Rute dapat dijeda dan dapat dilanjutkan lagi melalui layar Profil Pelatih. 
 
 RESOURCE ID: route_creation_ask_start_pause_button
 TEXT: Jeda Pembuatan Rute
 
 RESOURCE ID: route_creation_ask_start_title
-TEXT: Kamu berada di dekat titik awal pilihanmu. Mulai pencatatan jalur untuk Rutemu?
+TEXT: Kamu berada di dekat titik awal pilihanmu. Mulai perekaman jalur untuk Rutemu?
+
+RESOURCE ID: route_creation_ask_submit
+TEXT: Kamu berada di dekat titik akhir Rute pilihanmu. Selesaikan perekaman Rutemu?
 
 RESOURCE ID: route_creation_ask_submit_cancel
-TEXT: LANJUT PENCATATAN
+TEXT: LANJUT PEREKAMAN
 
 RESOURCE ID: route_creation_ask_submit_confirm
 TEXT: SELESAI
 
 RESOURCE ID: route_creation_ask_submit_description
-TEXT: Ketika ingin memperpanjang Rute lebih jauh, kamu dapat kembali ke PokéStop ini nanti setelah melanjutkan pencatatan.
+TEXT: Ketika ingin memperpanjang Rute lebih jauh, kamu dapat melanjutkan perekaman dan kembali ke PokéStop ini nanti.
 
 RESOURCE ID: route_creation_autoexit_toast
 TEXT: Pembuatan Rute Selesai.
 
 RESOURCE ID: route_creation_choose_end_body
-TEXT: Kamu harus berada di PokeStop ini untuk menyelesaikan pencatatan Rute. Kamu juga dapat memilih atau mengganti titik akhirmu selama pencatatan Rute.
+TEXT: Kamu harus berada di PokeStop ini untuk menyelesaikan perekeman Rute. Kamu dapat mengganti titik akhir ketika merekam.
 
 RESOURCE ID: route_creation_choose_end_header
 TEXT: Pilih PokeStop
@@ -64721,7 +66687,7 @@ RESOURCE ID: route_creation_choose_end_sub_header
 TEXT: Titik akhir Rute
 
 RESOURCE ID: route_creation_choose_new_end_body
-TEXT: Kamu harus berada di PokeStop ini untuk menyelesaikan pencatatan Rute. Kamu juga dapat memilih atau mengganti titik akhirmu selama pencatatan Rute.
+TEXT: Kamu harus berada di PokeStop ini untuk menyelesaikan perekeman Rute. Kamu dapat mengganti titik akhir ketika merekam.
 
 RESOURCE ID: route_creation_choose_new_end_header
 TEXT: Pilih PokeStop
@@ -64730,7 +66696,7 @@ RESOURCE ID: route_creation_choose_new_end_sub_header
 TEXT: Titik akhir Rute.
 
 RESOURCE ID: route_creation_choose_new_start_body
-TEXT: Pergi ke PokeStop ini untuk memulai pencatatan Rute.
+TEXT: Pergi ke PokeStop ini untuk memulai perekaman Rute.
 
 RESOURCE ID: route_creation_choose_new_start_header
 TEXT: Pilih PokeStop
@@ -64739,22 +66705,28 @@ RESOURCE ID: route_creation_choose_new_start_sub_header
 TEXT: Titik awal Rute.
 
 RESOURCE ID: route_creation_choose_start_body
-TEXT: Pergi ke PokeStop ini untuk memulai pencatatan Rute.
+TEXT: Pergi ke PokeStop ini untuk memulai perekaman Rute.
 
 RESOURCE ID: route_creation_choose_start_header
 TEXT: Pilih PokeStop
 
 RESOURCE ID: route_creation_choose_start_sub_header
-TEXT: Titik awal rute
+TEXT: Titik awal Rute
+
+RESOURCE ID: route_creation_error_invalid_start
+TEXT: Titik Mulai Rute tidak valid.
+
+RESOURCE ID: route_creation_error_start_failed
+TEXT: Gagal memulai pembuatan Rute.
 
 RESOURCE ID: route_creation_error_submission_max
-TEXT: Telah mencapai jumlah maksimum pembuatan Rute untuk minggu ini.
+TEXT: Tidak dapat mengajukan Rute lagi saat ini. Coba lagi nanti.
 
 RESOURCE ID: route_creation_generic_distance_warning_error
 TEXT: Tidak bisa melakukan tindakan yang diminta.
 
 RESOURCE ID: route_creation_go_to_start
-TEXT: Silakan berjalan menuju titik awal Rutemu untuk memulai pencatatan jalur.
+TEXT: Silakan berjalan menuju titik awal Rutemu untuk memulai perekaman jalur.
 
 RESOURCE ID: route_creation_max_distance_exceeded_description
 TEXT: Pembuatan Rute tidak dapat dilanjutkan karena telah mencapai jarak maksimum.
@@ -64782,31 +66754,32 @@ RESOURCE ID: route_creation_min_distance_description
 TEXT: Kamu berada di dekat titik akhir pilihanmu, tetapi jalurmu terlalu pendek.
 
 RESOURCE ID: route_creation_min_distance_instructions
-TEXT: Perpanjang Rutemu dengan melanjutkan pencatatan dan kembali ke titik akhir ini atau memilih titik akhir baru.
+TEXT: Perpanjang Rutemu dengan melanjutkan perekaman dan kembali ke titik akhir ini atau dengan memilih titik akhir baru.
 
 RESOURCE ID: route_creation_min_distance_title
 TEXT: Rutemu belum memenuhi jarak minimum.
 
 RESOURCE ID: route_creation_min_distance_values
-TEXT: Jarak Minimum: {0} km
-Jarak Sekarang: <color=#F2A64B>{1} km</color>
+TEXT: Jarak Minimum: {0}
+Jarak Sekarang: <color=#F2A64B>{1}</color>
 
 RESOURCE ID: route_creation_onboarding_loop_page_desc
-TEXT: Karena memilih PokéStop yang sama sebagai titik awal dan titik akhir, Rute memutar akan dibuat. Untuk menyelesaikan Rute memutar, silakan kembali ke titik awal untuk menyelesaikan pencatatan.
+TEXT: Kamu telah memilih PokéStop yang sama sebagai titik awal dan akhir. Ini akan menciptakan putaran Rute. Untuk menyelesaikan putaran, kembali ke titik awal ketika kamu siap untuk menghentikan perekaman jalur.
 
 RESOURCE ID: route_creation_onboarding_loop_page_title
 TEXT: Rute Memutar
 
 RESOURCE ID: route_creation_onboarding_page_1
 TEXT: Berikut adalah cara pembuatan Rute.
-
 1. Pilih titik awal dan akhir.
 2. Jalan dari titik awal hingga titik akhir.
 3. Tambahkan nama dan deskripsi Rutemu.
 
 RESOURCE ID: route_creation_onboarding_page_2
-TEXT: Distancia mínima: {0} km
-Distancia actual: <color=#F2A64B>{1} km</color>
+TEXT: Rute harus:
+1. Berjarak {0} km–{1} km.
+2. Berada di area yang aman dan tidak melewati area milik pribadi.
+3. Mengandung tema dan deskripsi yang jelas.
 
 RESOURCE ID: route_creation_onboarding_page_3
 TEXT: Dengan menyematkan Pin di jalur Rute, kamu dapat menambahkan informasi tambahan.
@@ -64815,7 +66788,7 @@ Syarat Penyematan Pin:
 2. Berjarak {1} m dari Pin lainnya.
 
 RESOURCE ID: route_creation_onboarding_page_4
-TEXT: Setelah diajukan, Rutemu akan ditinjau oleh Niantic dan hasilnya akan diterima atau ditolak. Jika ditolak, kamu dapat mengedit dan mengajukan lagi Rutemu untuk ditinjau kembali.
+TEXT: Rute yang dibuat akan diajukan untuk ditinjau Niantic. Jika ditolak, kamu dapat mengedit dan mengajukan lagi Rutemu untuk ditinjau kembali.
 
 Yuk coba buat Rutemu!
 
@@ -64824,6 +66797,9 @@ TEXT: Cara Membuat Rute
 
 RESOURCE ID: route_creation_onboarding_title_2
 TEXT: Kriteria
+
+RESOURCE ID: route_creation_onboarding_title_3
+TEXT: Sematkan Pin
 
 RESOURCE ID: route_creation_onboarding_title_4
 TEXT: Proses Tinjauan
@@ -64835,13 +66811,16 @@ RESOURCE ID: route_creation_pause_header
 TEXT: Jeda pembuatan Rute?
 
 RESOURCE ID: route_creation_pause_message
-TEXT: Progresmu akan disimpan. Kembali ke lokasi ini untuk melanjutkan pencatatan jalur Rutemu.
+TEXT: Progresmu akan disimpan. Kembali ke lokasi ini untuk melanjutkan perekaman jalur Rutemu.
 
 RESOURCE ID: route_creation_resume_button
 TEXT: LANJUTKAN PEMBUATAN RUTE
 
+RESOURCE ID: route_creation_resume_error_adsync
+TEXT: Aktifkan Sinkronisasi Petualangan untuk melanjutkan pembuatan Rute.
+
 RESOURCE ID: route_creation_resume_label
-TEXT: LANJUTKAN PENCATATAN
+TEXT: LANJUTKAN PEREKAMAN
 
 RESOURCE ID: route_creation_select_new_end
 TEXT: PILIH TITIK AKHIR BARU
@@ -64850,10 +66829,13 @@ RESOURCE ID: route_creation_selected_points_header
 TEXT: Titik awal dan akhir yang dipilih:
 
 RESOURCE ID: route_creation_start_recording_error_too_far
-TEXT: Pencatatan tidak dapat dimulai karena sedang tidak berada di dekat titik awal.
+TEXT: Perekaman tidak dapat dimulai karena sedang tidak berada di dekat titik awal.
 
 RESOURCE ID: route_creation_submit
 TEXT: DEBUG CREATION SUBMIT
+
+RESOURCE ID: route_creator_label
+TEXT: PEMBUAT RUTE
 
 RESOURCE ID: route_creator_stats_label
 TEXT: Info Pembuat
@@ -64863,6 +66845,16 @@ TEXT: Rutemu selesai dibuat. Saatnya memberi tahukan semuanya!
 
 RESOURCE ID: route_data_onboarding_title_1
 TEXT: Input Data Rute
+
+RESOURCE ID: route_decayed_description
+TEXT: Rute ini telah diarsipkan.
+
+RESOURCE ID: route_decayed_modal_description
+TEXT: {0} telah diarsipkan karena tidak cukup dimainkan.
+ Rute yang Diarsipkan tidak dapat dimainkan atau ditemukan secara umum, tetapi tetap ada pada halaman Pembuatan Rutemu.
+
+RESOURCE ID: route_decayed_modal_title
+TEXT: {0} telah diarsipkan
 
 RESOURCE ID: route_denial_exceeds_max_total_distance
 TEXT: Menambahkan PokéStop atau Gym ini akan membuat Rutemu melebihi batas jarak tempuh maksimal.
@@ -64876,6 +66868,30 @@ TEXT: PokéStop ini terlalu jauh dengan PokéStop terakhir. Harus berjarak maksi
 RESOURCE ID: route_denial_too_many_stops_in_route
 TEXT: Rute ini telah mencapai jumlah maksimal pemberhentian.
 
+RESOURCE ID: route_detail_rejected_delete_button
+TEXT: HAPUS RUTE
+
+RESOURCE ID: route_detail_rejected_description
+TEXT: Rute ini telah ditolak.
+
+RESOURCE ID: route_detail_under_review_withdraw_button
+TEXT: BATALKAN AJUAN
+
+RESOURCE ID: route_discovery_tab_all
+TEXT: Semua
+
+RESOURCE ID: route_discovery_tab_known
+TEXT: Diketahui
+
+RESOURCE ID: route_discovery_tab_new
+TEXT: Baru
+
+RESOURCE ID: route_discovery_tab_official
+TEXT: Resmi
+
+RESOURCE ID: route_discovery_tab_popular
+TEXT: Populer
+
 RESOURCE ID: route_distance_walked_label
 TEXT: Jarak Tempuh di Rute
 
@@ -64885,8 +66901,35 @@ TEXT: Mendapatkan stempel baru!
 RESOURCE ID: route_edit_button
 TEXT: LANJUT MENGEDIT
 
+RESOURCE ID: route_edit_deleted_toast
+TEXT: {0} dihapus.
+
+RESOURCE ID: route_edit_exit_button_primary
+TEXT: SIMPAN PERUBAHAN
+
+RESOURCE ID: route_edit_exit_button_secondary
+TEXT: JANGAN SIMPAN
+
+RESOURCE ID: route_edit_exit_description
+TEXT: Perubahan yang belum disimpan akan hilang jika kamu keluar sekarang.
+
+RESOURCE ID: route_edit_exit_title
+TEXT: Simpan perubahan?
+
 RESOURCE ID: route_edit_resubmit_label
 TEXT: EDIT DAN AJUKAN LAGI
+
+RESOURCE ID: route_edit_submission_label
+TEXT: EDIT PENGAJUAN
+
+RESOURCE ID: route_edit_warning_button
+TEXT: LIHAT RUTE LAIN
+
+RESOURCE ID: route_edit_warning_description
+TEXT: Tidak dapat mengedit pengajuan Rute ketika masih memiliki Rute yang sedang diprogres. Jika ingin mengedit pengajuan, harap selesaikan atau hapus Rute yang sedang dibuat.
+
+RESOURCE ID: route_edit_warning_title
+TEXT: Pengajuan Rute ini tidak dapat diedit.
 
 RESOURCE ID: route_elevation_label
 TEXT: ELEVASI
@@ -64943,8 +66986,17 @@ TEXT: Masukan judul agar Pelatih lain yang mencari Rute dapat menemukannya.
 RESOURCE ID: route_enter_title_context_title
 TEXT: Judul Rute
 
+RESOURCE ID: route_error_unable_to_complete_action
+TEXT: Tidak dapat menyelesaikan tindakan yang diminta. Silakan coba lagi.
+
+RESOURCE ID: route_error_unable_to_edit
+TEXT: Pengajuan Rute ini tidak dapat diedit. Harap perbarui lis Rute yang Dibuat guna memeriksa status perubahan Rute ini.
+
 RESOURCE ID: route_expired_error
 TEXT: Rute saat ini telah kedaluwarsa
+
+RESOURCE ID: route_first_play_date_label
+TEXT: Penelusuran Pertama
 
 RESOURCE ID: route_frame_select_subtitle
 TEXT: Pratinjau
@@ -64972,6 +67024,9 @@ TEXT: {0} km
 
 RESOURCE ID: route_last_play_date_label
 TEXT: Penelusuran Terakhir
+
+RESOURCE ID: route_level
+TEXT: Level Rute {0}
 
 RESOURCE ID: route_list_context_page
 TEXT: Atur dan modifikasi daftar PokéStop atau Gym-mu di sini
@@ -65016,7 +67071,7 @@ RESOURCE ID: route_min_label
 TEXT: {0} menit
 
 RESOURCE ID: route_move_closer_to_resume
-TEXT: Kembali ke tempat pembuatan Rute dijeda untuk melanjutkan pencatatan.
+TEXT: Kembali ke lokasi Rute dijeda untuk melanjutkan perekaman.
 
 RESOURCE ID: route_nearby_help_distance
 TEXT: Jarak antara titik awal dengan lokasi saat ini.
@@ -65058,6 +67113,9 @@ TEXT: Kamu tidak dapat menjelajahi Rute ini karena terlalu jauh.
 RESOURCE ID: route_pause_description
 TEXT: Rute ini dijeda karena kamu pergi dari area rute. Rute ini akan dilanjutkan secara otomatis jika kamu berjalan mendekat ke lokasi selanjutnya.
 
+RESOURCE ID: route_pause_label
+TEXT: JEDA RUTE
+
 RESOURCE ID: route_pause_prompt
 TEXT: Progresmu akan tersimpan. Kamu dapat melanjutkan pembuatan Rutemu kapan saja dengan mengetuk item Pembuat Rute di Tas Item.
 
@@ -65073,11 +67131,23 @@ TEXT: (Rute ini akan dibatalkan dalam {0} jam)
 RESOURCE ID: route_pause_stamp_message
 TEXT: {0} dijeda karena kamu pergi dari area rute. Rute ini akan dilanjutkan secara otomatis jika kamu berjalan mendekat ke titik rute selanjutnya "<color=#{1}><color=#{1}>{2}</color>".
 
+RESOURCE ID: route_pause_title
+TEXT: Permainan Rute dijeda.
+
 RESOURCE ID: route_paused_prompt
 TEXT: Rute tersimpan sebagai {0}.
 
 RESOURCE ID: route_paused_title
 TEXT: Pembuatan Rute Dijeda
+
+RESOURCE ID: route_pin_subtitle
+TEXT: Judul Pin:
+
+RESOURCE ID: route_pin_title_add
+TEXT: Pilih Pin
+
+RESOURCE ID: route_pin_title_edit
+TEXT: Edit Judul Pin
 
 RESOURCE ID: route_planning_context_page
 TEXT: Mulai perencanaan Rute
@@ -65090,6 +67160,94 @@ TEXT: Harap tambahkan {0} PokéStop atau Gym lagi ke Rute ini.
 
 RESOURCE ID: route_planning_must_add_one_poi
 TEXT: Harap tambahkan 1 PokéStop atau Gym lagi ke Rute ini.
+
+RESOURCE ID: route_play_adsync_breadcrumb_notification
+TEXT: Rute dalam proses.
+
+RESOURCE ID: route_play_badge_earn_description_bronze
+TEXT: Mendapatkan Lencana Rute Perunggu!
+
+RESOURCE ID: route_play_badge_earn_description_gold
+TEXT: Mendapatkan Lencana Rute Emas!
+
+RESOURCE ID: route_play_badge_earn_description_silver
+TEXT: Mendapatkan Lencana Rute Silver!
+
+RESOURCE ID: route_play_badge_earn_description_white
+TEXT: Mendapatkan Lencana Rute!
+
+RESOURCE ID: route_play_badge_progress_title
+TEXT: Rute selesai!
+
+RESOURCE ID: route_play_completion_reject_description_primary
+TEXT: Telah mencapai titik akhir, tetapi belum mencapai jarak tempuh untuk menyelesaikan Rute.
+
+RESOURCE ID: route_play_completion_reject_description_secondary
+TEXT: Harap lanjutkan Rute dan kembali ke titik akhir ini setelah menyelesaikan jarak tempuh.
+
+RESOURCE ID: route_play_completion_reject_description_values
+TEXT: Jarak Rute: {0}
+Jarak Tempuhmu: <color=#F2A64B>{1}</color>
+
+RESOURCE ID: route_play_completion_reject_title
+TEXT: Persyaratan Rute belum tercapai
+
+RESOURCE ID: route_play_detail_map_soon
+TEXT: Pratinjau peta Rute saat ini tidak tersedia.
+
+RESOURCE ID: route_play_hoo_warning_button
+TEXT: TELUSURI RUTE
+
+RESOURCE ID: route_play_hoo_warning_description
+TEXT: Terdapat kemungkinan terjadi masalah dalam penyelesaian Rute ini jika kamu melanjutkan bermain pada saat ini.
+
+RESOURCE ID: route_play_hoo_warning_title
+TEXT: Terdapat kemungkinan tidak dapat mengakses beberapa PokéStop di Rute ini sesaat setelah kamu tiba.
+
+RESOURCE ID: route_play_label
+TEXT: TELUSURI
+
+RESOURCE ID: route_play_low_rating_description
+TEXT: Jika kamu menemukan masalah, silakan melaporkan Rute ke Niantic untuk ditinjau.
+
+RESOURCE ID: route_play_low_rating_title
+TEXT: Apakah kamu menemukan masalah dalam Rute ini?
+
+RESOURCE ID: route_play_pause_confirmation_description
+TEXT: Kamu harus kembali ke lokasi ini untuk melanjutkan Rute ini.
+
+RESOURCE ID: route_play_pause_confirmation_title
+TEXT: Yakin ingin menjeda Rute?
+
+RESOURCE ID: route_play_pause_location_error_description
+TEXT: Rutemu dijeda otomatis dikarenakan lokasimu saat ini tidak dapat dikonfirmasi. Berjalan mendekat ke jalur Rute untuk melanjutkannya.
+
+RESOURCE ID: route_play_pause_location_error_title
+TEXT: Rute dijeda.
+
+RESOURCE ID: route_play_rate_route_description
+TEXT: Penilaianmu akan membantu Pelatih lain untuk menemukan Rute yang baik.
+
+RESOURCE ID: route_play_rate_route_error_no_selection
+TEXT: Harap beri penilaian.
+
+RESOURCE ID: route_play_rate_route_title
+TEXT: Nilai Rute Ini
+
+RESOURCE ID: route_play_report_route_button
+TEXT: LAPORKAN RUTE
+
+RESOURCE ID: route_play_resume_directive
+TEXT: Silakan berjalan menuju tempat terakhir Rutemu dijeda untuk melanjutkannya.
+
+RESOURCE ID: route_play_resume_error_too_far
+TEXT: Silakan berjalan mendekat ke lokasi terakhir Rutemu dijeda untuk melanjutkannya.
+
+RESOURCE ID: route_play_resume_toast
+TEXT: Rute dilanjutkan.
+
+RESOURCE ID: route_play_travel_distance
+TEXT: Jarak Tempuhmu:
 
 RESOURCE ID: route_poi_list_view_description_short_tip
 TEXT: Harap tambahkan {0} PokéStop atau Gym lagi ke Rutemu.
@@ -65109,11 +67267,17 @@ TEXT: Jarak Total: {0} meter
 RESOURCE ID: route_poi_list_view_total_time
 TEXT: Estimasi waktu hingga selesai: {0} menit
 
+RESOURCE ID: route_pokemon_caught_label
+TEXT: Pokémon Tertangkap di Rute
+
 RESOURCE ID: route_published_list_header
 TEXT: RUTE YANG DIPUBLIKASI
 
 RESOURCE ID: route_published_title
 TEXT: RUTE YANG DIPUBLIKASI
+
+RESOURCE ID: route_quit_label
+TEXT: KELUAR
 
 RESOURCE ID: route_rating_button
 TEXT: NILAI
@@ -65182,13 +67346,25 @@ RESOURCE ID: route_rating_title
 TEXT: Bagaimana rute ini?
 
 RESOURCE ID: route_recording_paused
-TEXT: Pencatatan dijeda.
+TEXT: Perekaman dijeda.
 
 RESOURCE ID: route_recording_resumed
-TEXT: Pencatatan dilanjutkan.
+TEXT: Perekaman dilanjutkan.
 
 RESOURCE ID: route_recording_started
-TEXT: Pencatatan dimulai.
+TEXT: Perekaman dimulai.
+
+RESOURCE ID: route_rejected_deletion_confirm_description
+TEXT: Tindakan ini tidak dapat dibatalkan. Rute ini akan dihapus secara permanen dan tidak dapat dikembalikan jika dilanjutkan.
+
+RESOURCE ID: route_rejected_deletion_confirm_title
+TEXT: Yakin ingin menghapus Rute ini?
+
+RESOURCE ID: route_rejected_deletion_success_description
+TEXT: Rute ini akan dihapus dari daftar Rute yang Dibuat.
+
+RESOURCE ID: route_rejected_deletion_success_title
+TEXT: Penghapusan Rute ini berhasil.
 
 RESOURCE ID: route_rejection_action
 TEXT: EDIT DAN AJUKAN LAGI
@@ -65198,6 +67374,9 @@ TEXT: Rute ini telah ditolak
 
 RESOURCE ID: route_remove_from_route
 TEXT: Hapus dari Rute
+
+RESOURCE ID: route_report_body
+TEXT: Laporan Rute yang dikirimkan ke Niantic akan kami tinjau dan menindak dengan tepat sesuai dengan kebijakan kami. Kami tidak akan membagikan identitas pelapor kepada pembuat Rute. Dengan mengirim laporan, kamu telah mengonfirmasi bahwa laporanmu terpercaya.
 
 RESOURCE ID: route_report_cancel_message
 TEXT: Rute akan dibatalkan jika kamu mengajukan laporan ini.
@@ -65211,17 +67390,38 @@ TEXT: Tidak Tahu
 RESOURCE ID: route_report_permanent
 TEXT: Masalah Permanen
 
+RESOURCE ID: route_report_submit_description
+TEXT: Terima kasih atas laporannya. Kami memohon maaf atas ketidaknyamanan yang kamu alami.
+
+RESOURCE ID: route_report_submit_description_long
+TEXT: Terima kasih atas laporannya. Kami memohon maaf atas ketidaknyamanan yang kamu alami. Kamu akan menerima hadiah untuk Rute yang telah diselesaikan.
+
+RESOURCE ID: route_report_submit_title
+TEXT: Laporan Telah Diajukan
+
 RESOURCE ID: route_report_temporary
 TEXT: Masalah Temporer
 
 RESOURCE ID: route_report_title
 TEXT: Laporkan Rute ini
 
+RESOURCE ID: route_report_warning_description
+TEXT: Jika kamu mengirimkan laporan ini, sesi permainan Rutemu saat ini akan berakhir.
+
+RESOURCE ID: route_report_warning_title
+TEXT: Yakin ingin melaporkan Rute ini?
+
 RESOURCE ID: route_reset_modal_promot
 TEXT: Mereset Rute akan menghapus segala informasi yang telah diinput. Tetap reset Rute ini?
 
 RESOURCE ID: route_reset_modal_title
 TEXT: RESET RUTE?
+
+RESOURCE ID: route_resume_label
+TEXT: LANJUTKAN RUTE
+
+RESOURCE ID: route_reversed_toast
+TEXT: Arah Rute dibalikkan.
 
 RESOURCE ID: route_reversible_notice_label
 TEXT: Rute ini dapat ditelusuri secara terbalik.
@@ -65240,6 +67440,9 @@ TEXT: Tema
 
 RESOURCE ID: route_sort_length
 TEXT: Jarak
+
+RESOURCE ID: route_sort_level
+TEXT: Level
 
 RESOURCE ID: route_sort_proximity
 TEXT: Terdekat
@@ -65332,7 +67535,7 @@ RESOURCE ID: route_submission_add_info_title
 TEXT: Tambahkan Informasi Rute
 
 RESOURCE ID: route_submission_add_tags
-TEXT: Dapat menambahkan hingga {0} label Rute
+TEXT: Tambahkan hingga {0} label Rute (opsional)
 
 RESOURCE ID: route_submission_add_title
 TEXT: Tambahkan Judul Rute
@@ -65361,6 +67564,12 @@ TEXT: WARNA
 RESOURCE ID: route_submission_description
 TEXT: Deskripsi
 
+RESOURCE ID: route_submission_edit_description
+TEXT: Peninjauan Rute ini mungkin membutuhkan waktu lebih lama jika kamu mengeditnya sekarang.
+
+RESOURCE ID: route_submission_edit_title
+TEXT: Yakin ingin mengedit Rute yang sedang ditinjau ini?
+
 RESOURCE ID: route_submission_medal_creation_title
 TEXT: Pembuatan Lencana
 
@@ -65373,13 +67582,22 @@ TEXT: Masukkan deskripsi
 RESOURCE ID: route_submission_must_add_title
 TEXT: Masukkan judul
 
+RESOURCE ID: route_submission_name_placeholder
+TEXT: Tambah Judul Rute
+
 RESOURCE ID: route_submission_next_steps
 TEXT: The next step is to name and describe your Route.
 
 It might take a few minutes for you to write a description, and doing so will help speed up the approval process. Don’t worry—your progress will be saved if you exit!
 
+RESOURCE ID: route_submission_path
+TEXT: Jalur
+
 RESOURCE ID: route_submission_photo_tab_name
 TEXT: FOTO
+
+RESOURCE ID: route_submission_preview_title
+TEXT: Pratinjau Ajuan
 
 RESOURCE ID: route_submission_resubmit_no_change_error
 TEXT: Harap ubah judul dan/atau deskripsi Rute ini untuk diajukan ulang.
@@ -65390,8 +67608,20 @@ TEXT: Terjadi kesalahan dalam pengajuan Rute. Coba lagi nanti.
 RESOURCE ID: route_submission_result_matches_rejection
 TEXT: Rute ini sama dengan yang telah ditolak sebelumnya.
 
+RESOURCE ID: route_submission_result_publish_description
+TEXT: Terima kasih atas kontribusimu ke Komunitas Pokémon GO!
+
+RESOURCE ID: route_submission_result_publish_title
+TEXT: Rutemu telah dipublikasi!
+
 RESOURCE ID: route_submission_result_reject_description
 TEXT: Rutemu telah ditolak karena judul dan/atau deskripsinya mengandung ungkapan atau tautan yang tidak pantas. Rute ini tidak dapat di edit dan diajukan ulang.
+
+RESOURCE ID: route_submission_result_reject_reasons_primary
+TEXT: Rutemu ditolak karena alasan berikut:
+
+RESOURCE ID: route_submission_result_reject_reasons_secondary
+TEXT: Kamu bisa mengedit dan mengajukan ulang Rute ini.
 
 RESOURCE ID: route_submission_result_reject_title
 TEXT: Pengajuan Rutemu ditolak.
@@ -65429,6 +67659,9 @@ TEXT: SIMPAN JALUR SEKARANG
 RESOURCE ID: route_submission_review_title
 TEXT: Tinjau Jalur Rute
 
+RESOURCE ID: route_submission_second_page_title
+TEXT: Deksripsikan Rutemu
+
 RESOURCE ID: route_submission_select_color_prompt
 TEXT: Pilih warna tajuk Lencana Rutemu:
 
@@ -65458,6 +67691,9 @@ TEXT: Tulis Nanti
 
 RESOURCE ID: route_submission_write_now
 TEXT: Tulis Sekarang
+
+RESOURCE ID: route_submit_label
+TEXT: KIRIM
 
 RESOURCE ID: route_submitted_confirmation_description
 TEXT: Pengajuan Rute sukses! Hasil peninjauan akan ditampilkan pada halaman Pembuat Rute milikmu.
@@ -65531,8 +67767,41 @@ TEXT: LABEL
 RESOURCE ID: route_times_label
 TEXT: {0} kali
 
+RESOURCE ID: route_total_activity_label
+TEXT: TOTAL AKTIVITAS
+
+RESOURCE ID: route_total_community_activity_label
+TEXT: TOTAL AKTIVITAS KOMUNITAS
+
+RESOURCE ID: route_total_plays_label
+TEXT: Total Ditelusuri
+
+RESOURCE ID: route_travel_reverse_button
+TEXT: BALIKKAN ARAH
+
 RESOURCE ID: route_under_review_description
 TEXT: Rute ini dalam tinjauan.
+
+RESOURCE ID: route_under_review_withdraw_confirm_description
+TEXT: Tindakan ini tidak dapat dibatalkan. Status Rute ini akan kembali menjadi dalam progres jika dilanjutkan. Kamu dapat mengedit dan mengajukan ulang Rute ini untuk ditinjau.
+
+RESOURCE ID: route_under_review_withdraw_confirm_title
+TEXT: Batalkan ajuan Rute ini dari peninjauan?
+
+RESOURCE ID: route_under_review_withdraw_fail_description
+TEXT: Kamu memiliki Rute lain yang masih dalam progres sehingga pembatalan ajuan Rute ini tidak dapat dilakukan saat ini. Mohon selesaikan Rute terkini dan kembali ke halaman ini nanti.
+
+RESOURCE ID: route_under_review_withdraw_fail_title
+TEXT: Pembatalan peninjauan Rute ini gagal
+
+RESOURCE ID: route_under_review_withdraw_success_description
+TEXT: Status Rute ini telah dikembalikan menjadi dalam progres. Kamu dapat mengedit dan mengajukan Rute ini kembali melalui menu Rute pada layar Profil Pelatih.
+
+RESOURCE ID: route_under_review_withdraw_success_title
+TEXT: Pembatalan peninjauan Rute ini berhasil.
+
+RESOURCE ID: route_unsubmit_label
+TEXT: BATALKAN PENGAJUAN
 
 RESOURCE ID: route_validation_celebration
 TEXT: Rutemu telah diverifikasi! Tambahkan informasi ke Rute yang telah dibuat.
@@ -65583,7 +67852,7 @@ RESOURCE ID: route_validation_min_poi
 TEXT: Rute harus terisi minimal {0} PokéStop atau Gym.
 
 RESOURCE ID: route_validation_poi_not_verified
-TEXT: Stop #{0} needs to be verified. Please travel to it and spin the Photo Disc.
+TEXT: Pemberhentian #{0} perlu diverifikasi. Harap kunjungi dan putar Disk Foto-nya.
 
 RESOURCE ID: route_validation_pois_not_loaded
 TEXT: Kamu berada terlalu jauh dari pemberhentian Rute ini
@@ -65601,7 +67870,7 @@ RESOURCE ID: route_waiting_for_data
 TEXT: Menunggu data memuat
 
 RESOURCE ID: route_walk_button
-TEXT: JALAN
+TEXT: JELAJAHI
 
 RESOURCE ID: route_walking_all_waypoints_verified
 TEXT: Kerja bagus! Kamu telah mengunjungi semua pemberhentian pada Rute ini!
@@ -65615,8 +67884,11 @@ TEXT: Telusuri Rutemu
 RESOURCE ID: route_walking_first_poi_spin
 TEXT: This is the starting point that you selected. Please spin the Photo Disc at this PokéStop or Gym to confirm it.
 
+RESOURCE ID: route_walking_follow_path
+TEXT: Telusuri jalur hingga titik akhir Rute untuk menyelesaikan Rute ini.
+
 RESOURCE ID: route_walking_head_to_start
-TEXT: Pergi ke titik awal Rute untuk memulai Rute.
+TEXT: Pergi ke titik awal untuk memulai Rute.
 
 RESOURCE ID: route_walking_head_to_waypoint
 TEXT: Harap kunjungi pemberhentian #{0}—{1} dan putar Disk Fotonya.
@@ -65712,7 +67984,7 @@ RESOURCE ID: routes_set_new_end_point_toast
 TEXT: Titik akhir diperbarui!
 
 RESOURCE ID: routes_set_new_start_point
-TEXT: JADIKAN TITIK AWAL
+TEXT: JADIKAN TITIK AWAL BARU
 
 RESOURCE ID: routes_set_new_start_point_toast
 TEXT: Titik awal diperbarui!
@@ -65745,10 +68017,10 @@ RESOURCE ID: sa_account_creation_prompt
 TEXT: Belum punya akun Niantic Kids?
 
 RESOURCE ID: sa_auth_failed
-TEXT: Tidak dapat mengautentikasi. Coba lagi.
+TEXT: Gagal mengauntentikasi akun. Coba lagi nanti atau coba dengan akun lainnya yang tertaut.
 
 RESOURCE ID: sa_auth_failed_permissions
-TEXT: Untuk memainkan game ini, mintalah orang tua atau wali masuk ke akun Niantic Kids dan aktifkan izin untuk akunmu.
+TEXT: Untuk memainkan game ini, mintalah orang tua atau wali untuk masuk ke akun Niantic Kids dan mengaktifkan izin untuk akunmu.
 
 RESOURCE ID: sa_forgot_password_url
 TEXT: https://niantic-sso.kws.superawesome.tv/en/password/forgot
@@ -66049,7 +68321,7 @@ RESOURCE ID: saturday_send_gift_confirm_text1
 TEXT: Hanya dapat mengirimkan 1 kali per Kartu Pos ke Nintendo Switch.
 
 RESOURCE ID: saturday_send_gift_confirm_text2
-TEXT: Saat menghubungkan Pokémon GO dengan Pokémon Scarlet atau Pokémon Violet, hanya data tertentu yang akan dibagikan kepada Nintendo selama mengirimkan Kartu Pos. Lihat Artikel Bantuan untuk informasi selengkapnya. Data yang dibagikan kepada Nintendo berdasar pada kebijakan privasi dari Nintendo.
+TEXT: Saat menghubungkan Pokémon GO dengan Pokémon Scarlet atau Pokémon Violet, hanya data tertentu yang akan dibagikan kepada Nintendo selama mengirimkan Kartu Pos. Lihat Artikel Bantuan untuk informasi selengkapnya. Data yang dibagikan kepada Nintendo berdasar pada kebijakan privasi dari Nintendo.
 *Layanan ini hanya berlaku di beberapa daerah dan negara tertentu
 
 RESOURCE ID: saturday_send_gift_confirm_title1
@@ -66068,7 +68340,7 @@ RESOURCE ID: saturday_share_canceled
 TEXT: Pengiriman Kartu Pos dibatalkan.
 
 RESOURCE ID: saturday_transfer_privacy_warning
-TEXT: Saat menghubungkan Pokémon GO dengan Pokémon Scarlet atau Pokémon Violet, hanya data tertentu yang akan dibagikan kepada Nintendo selama mengirimkan Kartu Pos. Lihat Artikel Bantuan untuk informasi selengkapnya. Data yang dibagikan kepada Nintendo berdasar pada kebijakan privasi dari Nintendo.
+TEXT: Saat menghubungkan Pokémon GO dengan Pokémon Scarlet atau Pokémon Violet, hanya data tertentu yang akan dibagikan kepada Nintendo selama mengirimkan Kartu Pos. Lihat Artikel Bantuan untuk informasi selengkapnya. Data yang dibagikan kepada Nintendo berdasar pada kebijakan privasi dari Nintendo.
 *Layanan ini hanya berlaku di beberapa daerah dan negara tertentu
 
 RESOURCE ID: scan_battle_code
@@ -66384,7 +68656,7 @@ RESOURCE ID: see_less
 TEXT: Sembunyikan
 
 RESOURCE ID: see_more
-TEXT: BUKA
+TEXT: Selengkapnya
 
 RESOURCE ID: see_schedule
 TEXT: Lihat Jadwal
@@ -66857,7 +69129,7 @@ RESOURCE ID: settings_switch_disconnect
 TEXT: Nintendo Switch
 
 RESOURCE ID: settings_switch_privacy
-TEXT: Saat menghubungkan Pokémon GO dengan Pokémon: Let's Go, Pikachu! atau Pokémon: Let's Go, Eevee!, hanya data tertentu yang akan dibagikan kepada Nintendo selama mentransfer Pokémon. Lihat Artikel Bantuan untuk informasi selengkapnya. Data yang dibagikan kepada Nintendo berdasar pada kebijakan privasi dari Nintendo.
+TEXT: Saat menghubungkan Pokémon GO dengan Pokémon: Let's Go, Pikachu! atau Pokémon: Let's Go, Eevee!, hanya data tertentu yang akan dibagikan kepada Nintendo selama mentransfer Pokémon. Lihat Artikel Bantuan untuk informasi selengkapnya. Data yang dibagikan kepada Nintendo berdasar pada kebijakan privasi dari Nintendo.
 *Layanan ini hanya berlaku di beberapa daerah dan negara tertentu
 
 RESOURCE ID: settings_switch_quickstart_title
@@ -66900,7 +69172,7 @@ RESOURCE ID: settings_wasabi_ads
 TEXT: Tampilkan Hadiah Sponsor
 
 RESOURCE ID: settings_wearables
-TEXT: Perangkat Luar Pokémon
+TEXT: Perangkat Luar
 
 RESOURCE ID: settings_wearables_about
 TEXT: Tentang
@@ -66909,19 +69181,19 @@ RESOURCE ID: settings_wearables_apply_changes_label
 TEXT: Modifikasi pengaturan ini akan diterapkan setelah keluar.
 
 RESOURCE ID: settings_wearables_auto_spin
-TEXT: Aktifkan Putar Otomatis PokéStop
+TEXT: Aktifkan Auto Putar PokéStop
 
 RESOURCE ID: settings_wearables_auto_spin_pbp
-TEXT: Putar Otomatis PokéStop
+TEXT: Auto Putar PokéStop
 
 RESOURCE ID: settings_wearables_auto_spin_pbp_description
-TEXT: Kamu dapat mengaktifkan Putar Otomatis dengan mengirimkan Pokémon dari Pokémon: Let’s Go, Pikachu! atau Pokémon: Let’s Go, Eevee! ke Poké Ball Plus. Ketika Putar Otomatis aktif, kamu tidak dapat memutar PokéStop dengan menekan tombol.
+TEXT: Kamu dapat mengaktifkan Auto Putar dengan mengirimkan Pokémon dari Pokémon: Let’s Go, Pikachu! atau Pokémon: Let’s Go, Eevee!, Pokémon Sword atau Pokémon Shield ke Poké Ball Plus. Ketika fitur ini aktif, kamu tidak dapat memutar PokéStop dengan menekan tombol.
 
 RESOURCE ID: settings_wearables_auto_throw
-TEXT: Aktifkan Lempar Otomatis Pokémon
+TEXT: Aktifkan Auto Lempar
 
 RESOURCE ID: settings_wearables_auto_throw_description
-TEXT: Lempar Otomatis hanya menggunakan Bola Pokémon biasa.
+TEXT: Auto Lempar hanya menggunakan Bola Pokémon biasa.
 
 RESOURCE ID: settings_wearables_available_devices
 TEXT: Perangkat yang Tersedia
@@ -66987,10 +69259,10 @@ RESOURCE ID: settings_wearables_howto_pair_prompt_title
 TEXT: Terjadi masalah dalam menghubungkan {0}.
 
 RESOURCE ID: settings_wearables_identify_nearby_pokemon_error
-TEXT: Untuk menggunakan fitur ini, harap izinkan perangkatmu untuk mengidentifikasi Pokémon di Pengaturan.
+TEXT: Untuk menggunakan fitur ini, harap izinkan perangkatmu untuk mendeteksi Pokémon di Pengaturan.
 
 RESOURCE ID: settings_wearables_identify_nearby_pokestops_error
-TEXT: Untuk menggunakan fitur ini, harap izinkan perangkatmu untuk mengidentifikasi PokéStop di Pengaturan.
+TEXT: Untuk menggunakan fitur ini, harap izinkan perangkatmu untuk mendeteksi PokéStop di Pengaturan.
 
 RESOURCE ID: settings_wearables_learn_more
 TEXT: Lebih lanjut.
@@ -67047,7 +69319,7 @@ RESOURCE ID: settings_wearables_sleep_reward_time_description_disabled
 TEXT: Bagikan Data Tidur untuk memodifikasi pengaturan ini.
 
 RESOURCE ID: settings_wearables_store
-TEXT: Pembelian Perangkat Luar Pokémon
+TEXT: Pembelian Perangkat Luar
 
 RESOURCE ID: settings_wearables_store_url
 TEXT: <url with language query param in it>
@@ -67068,25 +69340,25 @@ RESOURCE ID: settings_wearables_waina_troubleshooting_url
 TEXT: https://www.pokemongoplusplus.com/en/go/#pairing
 
 RESOURCE ID: seville_cup_description
-TEXT: Kejuaraan Instan harian untuk peserta Pokémon GO Safari Zone: Seville
+TEXT: Piala Instan harian untuk peserta Pokémon GO Safari Zone: Seville
 
 RESOURCE ID: seville_cup_title
-TEXT: Kejuaraan Instan Seville
+TEXT: Piala Instan Seville
 
 RESOURCE ID: seville_cup_title_01
-TEXT: Kejuaraan Instan Seville: 13 Mei
+TEXT: Piala Instan Seville: 13 Mei
 
 RESOURCE ID: seville_cup_title_02
-TEXT: Kejuaraan Instan Seville: 14 Mei
+TEXT: Piala Instan Seville: 14 Mei
 
 RESOURCE ID: seville_cup_title_03
-TEXT: Kejuaraan Instan Seville: 15 Mei
+TEXT: Piala Instan Seville: 15 Mei
 
 RESOURCE ID: seville_cup_title_extended
-TEXT: Kejuaraan Instan Seville: Turnamen
+TEXT: Piala Instan Seville: Turnamen
 
 RESOURCE ID: seville_cup_title_extended_description
-TEXT: Sepekan Kejuaraan Instan untuk semua Pelatih yang memiliki Tiket Pokémon GO Safari Zone: Seville
+TEXT: Sepekan Piala Instan untuk semua Pelatih yang memiliki Tiket Pokémon GO Safari Zone: Seville
 
 RESOURCE ID: sfida_enable_modal_failure_message
 TEXT: Coba lagi melalui pengaturan atau ikon Pokémon GO Plus.
@@ -67542,16 +69814,16 @@ RESOURCE ID: sign_up_text_titlecase
 TEXT: Daftar
 
 RESOURCE ID: singapore_cup_title
-TEXT: Kejuaraan Instan Singapura
+TEXT: Piala Instan Singapura
 
 RESOURCE ID: singapore_cup_title_post
-TEXT: Pasca Event Kejuaraan Instan: Singapura
+TEXT: Pasca Event Piala Instan: Singapura
 
 RESOURCE ID: single_type_great_title
-TEXT: Kejuaraan Mono-Tipe: Edisi Liga Great
+TEXT: Piala Mono-Tipe: Edisi Liga Great
 
 RESOURCE ID: single_type_ultra_title
-TEXT: Kejuaraan Mono-Tipe: Edisi Liga Ultra
+TEXT: Piala Mono-Tipe: Edisi Liga Ultra
 
 RESOURCE ID: sinnoh_2020_catch_medium1
 TEXT: Perayaan Sinnoh: Tangkap {0} Turtwig, Chimchar, atau Piplup
@@ -67572,7 +69844,7 @@ RESOURCE ID: sinnoh_collection_name
 TEXT: Tantangan Koleksi Sinnoh
 
 RESOURCE ID: sinnoh_cup_title
-TEXT: Kejuaraan Sinnoh
+TEXT: Piala Sinnoh
 
 RESOURCE ID: sinnoh_event_name
 TEXT: Event Sinnoh
@@ -67667,14 +69939,21 @@ TEXT: Jika menolak izin, data dari sesi tidurmu akan disimpan secara lokal di da
 RESOURCE ID: sleep_tips_1_title
 TEXT: Dapatkan hadiah dengan Pelacakan Tidur menggunakan Pokémon GO Plus +!
 
+RESOURCE ID: sleep_tips_2_description_0
+TEXT: Pokémon GO Plus + harus berada di dekat tubuhmu agar tidurmu bisa dideteksi dan dilacak dengan baik.
+
 RESOURCE ID: sleep_tips_2_description_1
 TEXT: Untuk memulai sesi tidur, tekan dan tahan tombol utama Pokémon GO Plus + sampai cahaya biru menyala.
+Tindakan ini harus dilakukan saat Pokémon GO Plus + tertaut tetapi sedang tidak tersambung dengan Pokémon GO.
 
 RESOURCE ID: sleep_tips_2_description_2
 TEXT: Untuk mengakhiri sesi tidur, tekan dan tahan tombol utama Pokémon GO Plus + sampai cahaya warna-warni menyala.
 
 RESOURCE ID: sleep_tips_2_description_3
 TEXT: Setelah mencatat tidurmu, buka Pokémon GO dan sambungkan dengan Pokémon GO Plus + untuk memulai transfer Data Tidur.
+
+RESOURCE ID: sleep_tips_2_text_0
+TEXT: Letakkan Pokémon GO Plus + di atas kasur atau jepitkan ke bantal. 
 
 RESOURCE ID: sleep_tips_2_text_1
 TEXT: Silakan memulai sesi tidur sebelum tidur.
@@ -67955,6 +70234,9 @@ TEXT: Lebih banyak Oshawott yang muncul di alam liar
 
 RESOURCE ID: spawn_pidgey
 TEXT: Lebih banyak Pidgey yang muncul di alam liar!
+
+RESOURCE ID: spawn_poliwag
+TEXT: Lebih banyak Poliwag yang muncul di alam liar!
 
 RESOURCE ID: spawn_porygon
 TEXT: Lebih banyak Porygon yang muncul di alam liar
@@ -68922,6 +71204,162 @@ TEXT: Pokémon GO Fest: Seattle – Pakar Taman (4/5)
 RESOURCE ID: sr_gofest2022_leseap_5
 TEXT: Pokémon GO Fest: Seattle – Pakar Taman (5/5)
 
+RESOURCE ID: sr_gofest2023_global_day1
+TEXT: GO Fest 2023: Berbalut Permata
+
+RESOURCE ID: sr_gofest2023_global_day1_1
+TEXT: GO Fest 2023: Berbalut Permata (1/6)
+
+RESOURCE ID: sr_gofest2023_global_day1_2
+TEXT: GO Fest 2023: Berbalut Permata (2/6)
+
+RESOURCE ID: sr_gofest2023_global_day1_3
+TEXT: GO Fest 2023: Berbalut Permata (3/6)
+
+RESOURCE ID: sr_gofest2023_global_day1_4
+TEXT: GO Fest 2023: Berbalut Permata (4/6)
+
+RESOURCE ID: sr_gofest2023_global_day1_5
+TEXT: GO Fest 2023: Berbalut Permata (5/6)
+
+RESOURCE ID: sr_gofest2023_global_day1_6
+TEXT: GO Fest 2023: Berbalut Permata (6/6)
+
+RESOURCE ID: sr_gofest2023_global_day2_extended
+TEXT: GO Fest 2023: Langit Super Tinggi
+
+RESOURCE ID: sr_gofest2023_global_day2_extended_1
+TEXT: GO Fest 2023: Langit Super Tinggi (1/5)
+
+RESOURCE ID: sr_gofest2023_global_day2_extended_2
+TEXT: GO Fest 2023: Langit Super Tinggi (2/5)
+
+RESOURCE ID: sr_gofest2023_global_day2_extended_3
+TEXT: GO Fest 2023: Langit Super Tinggi (3/5)
+
+RESOURCE ID: sr_gofest2023_global_day2_extended_4
+TEXT: GO Fest 2023: Langit Super Tinggi (4/5)
+
+RESOURCE ID: sr_gofest2023_global_day2_extended_5
+TEXT: GO Fest 2023: Langit Super Tinggi (5/5)
+
+RESOURCE ID: sr_gofest2023_global_day2_intro
+TEXT: GO Fest 2023: Langit Tinggi
+
+RESOURCE ID: sr_gofest2023_global_day2_intro_1
+TEXT: GO Fest 2023: Langit Tinggi (1/2)
+
+RESOURCE ID: sr_gofest2023_global_day2_intro_2
+TEXT: GO Fest 2023: Langit Tinggi (2/2)
+
+RESOURCE ID: sr_gofest2023_london_city
+TEXT: GO Fest 2023: Panorama Kota London
+
+RESOURCE ID: sr_gofest2023_london_city_1
+TEXT: GO Fest 2023: Panorama Kota London (1/5)
+
+RESOURCE ID: sr_gofest2023_london_city_2
+TEXT: GO Fest 2023: Panorama Kota London (2/5)
+
+RESOURCE ID: sr_gofest2023_london_city_3
+TEXT: GO Fest 2023: Panorama Kota London (3/5)
+
+RESOURCE ID: sr_gofest2023_london_city_4
+TEXT: GO Fest 2023: Panorama Kota London (4/5)
+
+RESOURCE ID: sr_gofest2023_london_city_5
+TEXT: GO Fest 2023: Panorama Kota London (5/5)
+
+RESOURCE ID: sr_gofest2023_london_park
+TEXT: GO Fest 2023: Petualangan Taman London
+
+RESOURCE ID: sr_gofest2023_london_park_1
+TEXT: GO Fest 2023: Petualangan Taman London (1/5)
+
+RESOURCE ID: sr_gofest2023_london_park_2
+TEXT: GO Fest 2023: Petualangan Taman London (2/5)
+
+RESOURCE ID: sr_gofest2023_london_park_3
+TEXT: GO Fest 2023: Petualangan Taman London (3/5)
+
+RESOURCE ID: sr_gofest2023_london_park_4
+TEXT: GO Fest 2023: Petualangan Taman London (4/5)
+
+RESOURCE ID: sr_gofest2023_london_park_5
+TEXT: GO Fest 2023: Petualangan Taman London (5/5)
+
+RESOURCE ID: sr_gofest2023_newyork_city
+TEXT: GO Fest 2023: Panorama Kota New York
+
+RESOURCE ID: sr_gofest2023_newyork_city_1
+TEXT: GO Fest 2023: Panorama Kota New York (1/5)
+
+RESOURCE ID: sr_gofest2023_newyork_city_2
+TEXT: GO Fest 2023: Panorama Kota New York (2/5)
+
+RESOURCE ID: sr_gofest2023_newyork_city_3
+TEXT: GO Fest 2023: Panorama Kota New York (3/5)
+
+RESOURCE ID: sr_gofest2023_newyork_city_4
+TEXT: GO Fest 2023: Panorama Kota New York (4/5)
+
+RESOURCE ID: sr_gofest2023_newyork_city_5
+TEXT: GO Fest 2023: Panorama Kota New York (5/5)
+
+RESOURCE ID: sr_gofest2023_newyork_park
+TEXT: GO Fest 2023: Petualangan Taman New York
+
+RESOURCE ID: sr_gofest2023_newyork_park_1
+TEXT: GO Fest 2023: Petualangan Taman New York (1/5)
+
+RESOURCE ID: sr_gofest2023_newyork_park_2
+TEXT: GO Fest 2023: Petualangan Taman New York (2/5)
+
+RESOURCE ID: sr_gofest2023_newyork_park_3
+TEXT: GO Fest 2023: Petualangan Taman New York (3/5)
+
+RESOURCE ID: sr_gofest2023_newyork_park_4
+TEXT: GO Fest 2023: Petualangan Taman New York (4/5)
+
+RESOURCE ID: sr_gofest2023_newyork_park_5
+TEXT: GO Fest 2023: Petualangan Taman New York (5/5)
+
+RESOURCE ID: sr_gofest2023_osaka_city
+TEXT: GO Fest 2023: Panorama Kota Osaka
+
+RESOURCE ID: sr_gofest2023_osaka_city_1
+TEXT: GO Fest 2023: Panorama Kota Osaka (1/5)
+
+RESOURCE ID: sr_gofest2023_osaka_city_2
+TEXT: GO Fest 2023: Panorama Kota Osaka (2/5)
+
+RESOURCE ID: sr_gofest2023_osaka_city_3
+TEXT: GO Fest 2023: Panorama Kota Osaka (3/5)
+
+RESOURCE ID: sr_gofest2023_osaka_city_4
+TEXT: GO Fest 2023: Panorama Kota Osaka (4/5)
+
+RESOURCE ID: sr_gofest2023_osaka_city_5
+TEXT: GO Fest 2023: Panorama Kota Osaka (5/5)
+
+RESOURCE ID: sr_gofest2023_osaka_park
+TEXT: GO Fest 2023: Petualangan Taman Osaka
+
+RESOURCE ID: sr_gofest2023_osaka_park_1
+TEXT: GO Fest 2023: Petualangan Taman Osaka (1/5)
+
+RESOURCE ID: sr_gofest2023_osaka_park_2
+TEXT: GO Fest 2023: Petualangan Taman Osaka (2/5)
+
+RESOURCE ID: sr_gofest2023_osaka_park_3
+TEXT: GO Fest 2023: Petualangan Taman Osaka (3/5)
+
+RESOURCE ID: sr_gofest2023_osaka_park_4
+TEXT: GO Fest 2023: Petualangan Taman Osaka (4/5)
+
+RESOURCE ID: sr_gofest2023_osaka_park_5
+TEXT: GO Fest 2023: Petualangan Taman Osaka (5/5)
+
 RESOURCE ID: sr_gotour2022_1
 TEXT: Tur Pokémon GO: Johto (1/9)
 
@@ -69212,6 +71650,9 @@ TEXT:
 
 RESOURCE ID: sticker_alolaishi_4.3_description
 TEXT: 
+
+RESOURCE ID: sticker_box
+TEXT: Kotak Stiker
 
 RESOURCE ID: sticker_default_desc
 TEXT: Stiker bisa ditemukan sebagai hadiah di Pokémon GO. Kumpulkan semuanya!
@@ -70033,7 +72474,7 @@ RESOURCE ID: summer_cup_great_title
 TEXT: Summer Cup: Edisi Liga Great
 
 RESOURCE ID: summer_cup_title
-TEXT: Summer Cup
+TEXT: Piala Musim Panas
 
 RESOURCE ID: summer_cup_ultra_title
 TEXT: Summer Cup: Edisi Liga Ultra
@@ -70045,7 +72486,7 @@ RESOURCE ID: summer_solstice_event_name
 TEXT: Solstice Musim Panas
 
 RESOURCE ID: sunshine_cup_great_title
-TEXT: Kejuaraan Mentari: Edisi Liga Great
+TEXT: Piala Mentari: Edisi Liga Great
 
 RESOURCE ID: super_effective
 TEXT: Super Efektif!
@@ -70127,10 +72568,10 @@ RESOURCE ID: tagging_favorites_title
 TEXT: Favorit
 
 RESOURCE ID: taipei_cup_title
-TEXT: Kejuaraan Instan: Taipei
+TEXT: Piala Instan: Taipei
 
 RESOURCE ID: taipei_cup_title_post
-TEXT: Pasca Event Kejuaraan Instan: Taipei
+TEXT: Pasca Event Piala Instan: Taipei
 
 RESOURCE ID: team_blue_intro|1
 TEXT: Aku Blanche, pemimpin Tim Mystic.
@@ -70303,6 +72744,9 @@ TEXT: Tantangan Kilas Balik 2020: Sinnoh
 RESOURCE ID: ticket_abra
 TEXT: Tiket untuk Penelitian Spesial: Menyelidiki Ilusi di toko
 
+RESOURCE ID: ticket_active_location_reminder
+TEXT: Tiketmu aktif!
+
 RESOURCE ID: ticket_alodude
 TEXT: Tiket untuk cerita Penelitian Jalan Berbatu tersedia di toko
 
@@ -70394,6 +72838,9 @@ TEXT: Tiket untuk Penelitian Spesial: Kebisingan yang Menggelegar tersedia di to
 
 RESOURCE ID: ticket_oshawott
 TEXT: Tiket untuk cerita Penelitian Spesial Dari Scalchop Jadi Seamitar tersedia di toko
+
+RESOURCE ID: ticket_poliwag
+TEXT: Tiket untuk cerita Penelitian Spesial: Pusaran Licin tersedia di toko
 
 RESOURCE ID: ticket_porygon
 TEXT: Tiket untuk cerita Penelitian Spesial: Mengurai Kode Porygon tersedia di toko
@@ -70533,6 +72980,33 @@ TEXT: Pelatih harus saling bekerja sama sebagai komunitas global untuk menyelesa
 
 RESOURCE ID: timed_challenge_work_together_regional_backup
 TEXT: Pelatih harus saling bekerja sama sebagai komunitas regional untuk menyelesaikan tantangan ini.
+
+RESOURCE ID: timed_quest_adventure_adv23_branch_0
+TEXT: Haah ... Haah ... Ini sih terlalu jauh kalau kita berlari.
+
+RESOURCE ID: timed_quest_adventure_adv23_branch_1
+TEXT: Huft ... Oke, kali ini ada dua petualangan yang kusiapkan untukmu. Kamu jalan santai saja. Tidak usah lari-lari ya.
+
+RESOURCE ID: timed_quest_adventure_adv23_branch_1_button_key
+TEXT: Petualangan Darmawisata
+
+RESOURCE ID: timed_quest_adventure_adv23_branch_1_description_key
+TEXT: Pilih opsi ini untuk mendapatkan tugas berfokus pada mengumpulkan Pokémon, memutar PokéStop, dan menetaskan Telur.
+
+RESOURCE ID: timed_quest_adventure_adv23_branch_1_title_key
+TEXT: Petualangan Darmawisata
+
+RESOURCE ID: timed_quest_adventure_adv23_branch_2
+TEXT: Apakah kamu mau menangkap banyak Pokémon, atau melakukan penelitian terkait Pokémon tertentu? Pergilah setelah menentukan pilihanmu ya!
+
+RESOURCE ID: timed_quest_adventure_adv23_branch_2_button_key
+TEXT: Petualangan Studi
+
+RESOURCE ID: timed_quest_adventure_adv23_branch_2_description_key
+TEXT: Pilih opsi ini untuk mendapatkan tugas berfokus pada menangkap Pokémon tertentu dan menyelesaikan Penelitian Lapangan!
+
+RESOURCE ID: timed_quest_adventure_adv23_branch_2_title_key
+TEXT: Petualangan Studi
 
 RESOURCE ID: timed_research
 TEXT: Penelitian Berwaktu tersedia
@@ -71131,6 +73605,9 @@ TEXT: Pindaian PokéStop
 RESOURCE ID: titan_upload_wifi_recommended
 TEXT: Disarankan dengan Wi-Fi
 
+RESOURCE ID: title_hatch_day_riolu
+TEXT: Hari Penetasan Riolu
+
 RESOURCE ID: title_raid_has_ended
 TEXT: Event ini telah berakhir.
 
@@ -71307,6 +73784,9 @@ TEXT: Penelitian Berwaktu: Batu Mentah
 
 RESOURCE ID: tr_gofest2023_earlybird2
 TEXT: Penelitian Berwaktu: Langkah Berkilau
+
+RESOURCE ID: tr_gofest2023_live_routes_1
+TEXT: GO Fest 2023: Ke-Emas-an
 
 RESOURCE ID: tr_latias_photo_safari
 TEXT: Sapphire: Foto Safari Latias
@@ -71627,13 +74107,13 @@ RESOURCE ID: trade_special_in_pokedex
 TEXT: Pokémon Legendaris atau Pokémon Bersinar di Pokédex
 
 RESOURCE ID: trade_stardust_half
-TEXT: Harga Debu Bintang untuk pertukaran x1/2
+TEXT: 1/2 tarif Debu Bintang untuk pertukaran
 
 RESOURCE ID: trade_stardust_quarter
-TEXT: Harga Debu Bintang untuk pertukaran x1/4
+TEXT: 1/4 tarif Debu Bintang untuk pertukaran
 
 RESOURCE ID: trade_stardust_three_fourth
-TEXT: Harga Debu Bintang untuk pertukaran 3/4
+TEXT: 3/4 tarif Debu Bintang untuk pertukaran
 
 RESOURCE ID: trade_tips_p0
 TEXT: Hanya dapat melakukan pertukaran dengan teman yang ada di sekitarmu.
@@ -71847,6 +74327,47 @@ TEXT: Karena kamu sudah mencapai level 40, kamu akan menghadapi beberapa tantang
 
 RESOURCE ID: tutorial_level_40_plus_intro
 TEXT: Selamat atas kemajuan luar biasamu, Pelatih!
+
+RESOURCE ID: tutorial_route_bonus_0
+TEXT: Memperoleh Permen Partner lebih cepat
+
+RESOURCE ID: tutorial_route_bonus_1
+TEXT: Pewangi memikat lebih banyak Pokémon pada Rute baru.
+
+RESOURCE ID: tutorial_route_bonus_2
+TEXT: Pokémon yang unik akan muncul di Rute
+
+RESOURCE ID: tutorial_route_play_body_0
+TEXT: Temukan komunitas lokalmu dan dapatkan hadiah dengan menjelajahi Rute!
+
+ Cara Bermain:
+1. Pilih Rute melalui lis atau peta.
+2. Pergi ke titik awal Rute
+3. Berjalanlah menelusuri jalur Rute hingga mencapai titik akhir.
+
+RESOURCE ID: tutorial_route_play_body_1
+TEXT: Ketika berada dalam {0} m jalur Rute, kamu akan menerima bonus spesial.
+
+RESOURCE ID: tutorial_route_play_body_2
+TEXT: • Kamu akan mendapatkan satu Lencana Rute baru ketika menyelesaikan satu Rute untuk pertama kalinya.
+
+• Telusuri sebuah Rute beberapa kali untuk memajukan progres lencana dan meningkatkan hadiah yang akan kamu peroleh dari Rute tersebut.
+
+RESOURCE ID: tutorial_route_play_body_3
+TEXT: 1. Tetaplah berada di dekat jalur Rute agar progresmu dapat direkam.
+2. Jarak tempuhmu harus sesuai dengan jarak Rute untuk dapat menyelesaikan Rute.
+
+RESOURCE ID: tutorial_route_play_title_0
+TEXT: Memainkan Rute
+
+RESOURCE ID: tutorial_route_play_title_1
+TEXT: Bonus
+
+RESOURCE ID: tutorial_route_play_title_2
+TEXT: Hadiah
+
+RESOURCE ID: tutorial_route_play_title_3
+TEXT: Peraturan
 
 RESOURCE ID: tutorial_vivillon_postcard_body_0
 TEXT: Jika kamu menyematkan Kartu Pos dari daerah tertentu, kamu akan berkesempatan bertemu dengan Pokémon!
@@ -72468,7 +74989,7 @@ RESOURCE ID: v2_tutorial_complete_prelude|1
 TEXT: Saat kamu menjelajahi dunia dan bertemu lebih banyak Pokémon, kamu akan membutuhkan lebih banyak Bola Pokémon dan alat lainnya.
 
 RESOURCE ID: v2_tutorial_complete|1
-TEXT: Kumpulkan alat-alat ini di PokéStops, yang akan kamu temukan di tempat-tempat menarik di sekitarmu. PokéStop akan terlihat seperti ini di peta.
+TEXT: Ambil alat-alat ini di PokéStop yang akan kamu temukan di tempat-tempat menarik di sekitarmu. PokéStop akan terlihat seperti ini di peta.
 
 RESOURCE ID: v2_tutorial_complete|2
 TEXT: Mulai sekarang, kamu akan menjelajahi dunia untuk menemukan keajaiban Pokémon.
@@ -72641,7 +75162,7 @@ RESOURCE ID: vss_battle_claim_single_error
 TEXT: Kesalahan saat mengeklaim hadiah pertarungan.
 
 RESOURCE ID: vss_battle_collect_description
-TEXT: Kumpulkan
+TEXT: Ambil
 
 RESOURCE ID: vss_battle_free_button
 TEXT: Bertarung
@@ -72740,7 +75261,7 @@ RESOURCE ID: vss_season_end_error
 TEXT: Kesalahan saat mengambil hasil musim.
 
 RESOURCE ID: vss_season_end_notification
-TEXT: Musim GO Battle League berakhir. Kumpulkan hadiahmu!
+TEXT: Musim GO Battle League berakhir. Ambil hadiahmu!
 
 RESOURCE ID: vss_season_end_rating_journal
 TEXT: Menyelesaikan GO Battle League musim ini dengan peringkat {0} dan nilai {1}!
@@ -72800,22 +75321,22 @@ RESOURCE ID: waina_tips_1_title
 TEXT: Mode Sambung Cepat
 
 RESOURCE ID: waina_tips_2_text
-TEXT: Dengan mengaktifkan Lempar Otomatis, Pokémon GO Plus + akan melempar Bola Pokémon secara otomatis untuk menangkap Pokémon yang dilewati. Lempar Otomatis hanya menggunakan Bola Pokémon dan tidak dapat digunakan jika kamu kehabisan Bola tersebut. Lempar Otomatis juga tidak dapat digunakan saat menangkap Pokémon yang belum pernah ditangkap. Sinkronisasi Petualangan harus diaktifkan untuk menggunakan fitur ini.
+TEXT: Dengan Auto Lempar, Pokémon GO Plus + dapat mencoba menangkap Pokémon yang dilewati secara otomatis. Fitur ini hanya menggunakan Bola Pokémon biasa dan tidak dapat digunakan jika kamu kehabisan Bola tersebut. Fitur ini tidak akan mencoba menangkap Pokémon yang belum pernah kamu tangkap. Sinkronisasi Petualangan harus diaktifkan untuk menggunakan fitur ini.
 
 RESOURCE ID: waina_tips_2_title
-TEXT: Lempar Otomatis
+TEXT: Auto Lempar
 
 RESOURCE ID: waina_tips_3_text
-TEXT: Dengan Tombol Lempar, kamu dapat memilih jenis Bola Pokémon termasuk Bola Great dan Bola Ultra. Pilihan Bola dapat diperbarui kapan saja melalui Pengaturan. Jika tidak ada pilihan, Bola Pokémon akan digunakan. Fitur ini tidak dapat digunakan jika kamu kehabisan jenis Bola Pokémon yang dipilih.
+TEXT: Dengan Tombol Lempar, kamu dapat memilih jenis Bola Pokémon termasuk Bola Great dan Bola Ultra. Pilihan Bola dapat diperbarui kapan saja melalui Pengaturan. Jika tidak memilih, hanya Bola Pokémon biasa yang akan digunakan. Fitur ini tidak dapat digunakan jika kamu kehabisan jenis Bola Pokémon yang dipilih.
 
 RESOURCE ID: waina_tips_3_title
 TEXT: Tombol Lempar dan Pilih Bola Pokémon
 
 RESOURCE ID: waina_tips_4_text
-TEXT: Dengan mengaktifkan Putar Otomatis, Pokémon GO Plus + dapat memutar secara otomatis semua PokéStop dalam jangkauan yang dilewati. Putar Otomatis tidak dapat digunakan jika Tas Item penuh. Sinkronisasi Petualangan harus diaktifkan untuk menggunakan fitur ini.
+TEXT: Dengan Auto Putar, Pokémon GO Plus + dapat memutar secara otomatis semua PokéStop dalam jangkauan. Fitur ini tidak dapat digunakan jika Tas Item penuh. Sinkronisasi Petualangan harus diaktifkan untuk menggunakan fitur ini.
 
 RESOURCE ID: waina_tips_4_title
-TEXT: Putar Otomatis
+TEXT: Auto Putar PokéStop
 
 RESOURCE ID: waina_user_dialog_finalize_pairing
 TEXT: Finalisasi Penautan:
@@ -72833,7 +75354,7 @@ RESOURCE ID: waina_user_dialog_reconnect
 TEXT: Hapus Pokémon GO Plus + ini dan coba tautkan lagi?
 
 RESOURCE ID: waina_user_dialog_reconnect_description
-TEXT: Pokémon GO Plus + ini telah tertaut dengan akunmu, tetapi tidak terkonfigurasi dengan benar. Harap hapus Data Tidur pada Pokémon GO Plus + ini untuk dapat melanjutkan.
+TEXT: Pokémon GO Plus + ini telah tertaut dengan akunmu, tetapi tidak terkonfigurasi dengan benar. Pokémon GO Plus + ini perlu dihapus semua Data Tidur sebelum kamu bisa melanjutkan.
 
 RESOURCE ID: waina_user_dialog_reconnect_reject
 TEXT: Hapus Pokémon GO Plus + ini dan coba tautkan lagi?
@@ -72918,6 +75439,9 @@ TEXT: Pokémon GO - Pokémon World Championship 2022 di London, Inggris
 
 RESOURCE ID: wcs_2022_title
 TEXT: Pokémon World Championship 2022
+
+RESOURCE ID: wcs_aug23_header_0
+TEXT: Pokémon World Championship 2023
 
 RESOURCE ID: wcs_battle_tr_description
 TEXT: Pokémon World Championship 2022: Bonus Penelitian Berwaktu
@@ -73010,10 +75534,10 @@ RESOURCE ID: weather_clear
 TEXT: Cerah
 
 RESOURCE ID: weather_cup_great_title
-TEXT: Kejuaraan Cuaca: Edisi Liga Great
+TEXT: Piala Cuaca: Edisi Liga Great
 
 RESOURCE ID: weather_cup_title
-TEXT: Kejuaraan Cuaca
+TEXT: Piala Cuaca
 
 RESOURCE ID: weather_extreme
 TEXT: Ekstrem
@@ -73115,7 +75639,7 @@ RESOURCE ID: willow_event_name
 TEXT: Let’s GO!
 
 RESOURCE ID: willpower_cup_title
-TEXT: Kejuaraan Tekad
+TEXT: Piala Tekad
 
 RESOURCE ID: winter event
 TEXT: Event Musim Dingin

@@ -643,7 +643,7 @@ RESOURCE ID: adventure_sync_enable_modal_failure_title
 TEXT: Macera Senkronizasyonu etkinleştirilmedi
 
 RESOURCE ID: adventure_sync_enable_modal_message
-TEXT: Pokémon GO kapalıyken bile yeni Pokémon’lar bulun ve Yumurta çatlatın!
+TEXT: Pokémon GO kapalıyken bile yeni Pokémon’lar bulun, yumurta çatlatın ve rota güzergâhları kaydedin!
 
 RESOURCE ID: adventure_sync_enable_modal_success_message
 TEXT: Başarılı! Dilediğiniz zaman Eğitmen profilinizden ilerleyişinizi kontrol edebilirsiniz.
@@ -666,11 +666,29 @@ TEXT: Daha fazla ödül için Ayarlardan Macera Senkronizasyonu'nu etkinleştiri
 RESOURCE ID: adventure_week_event_name
 TEXT: Macera Haftası
 
+RESOURCE ID: adventure_week_event_title
+TEXT: Dört Bir Yanda Macera
+
 RESOURCE ID: adventure_week_explore_timed_research
 TEXT: Macera Haftası: Macera Görevi
 
+RESOURCE ID: adventure_week_p_tr_1
+TEXT: Macera Haftası Süreli Araştırması
+
 RESOURCE ID: adventure_week_research_day_ultra_unlock_event_name
 TEXT: Ultra Kilit Açma: Araştırma Günü
+
+RESOURCE ID: adventure_week_tr_1
+TEXT: Dört Bir Yanda Macera (1/4)
+
+RESOURCE ID: adventure_week_tr_2
+TEXT: Dört Bir Yanda Macera (2/4)
+
+RESOURCE ID: adventure_week_tr_3
+TEXT: Dört Bir Yanda Macera (3/4)
+
+RESOURCE ID: adventure_week_tr_4
+TEXT: Dört Bir Yanda Macera (4/4)
 
 RESOURCE ID: adventure_week_ultra_unlock_event_name
 TEXT: Ultra Kilit Açma: Macera Haftası
@@ -1601,6 +1619,9 @@ TEXT: Farklı bir hesap deneyin
 RESOURCE ID: authentication_failed_try_again
 TEXT: Tekrar Deneyin
 
+RESOURCE ID: authentication_retry_account_hint
+TEXT: Daha önce Pokémon GO’ya giriş yapmak için kullandığınız hesap:
+
 RESOURCE ID: authentication_retry_prompt
 TEXT: Giriş yapılamadı.
 
@@ -2085,6 +2106,9 @@ TEXT: Delibird Kulaklığı
 RESOURCE ID: avatar_f_hat_detectivepikachu_0_bundle_icon
 TEXT: Dedektif Pikachu Şapkası
 
+RESOURCE ID: avatar_f_hat_diancie_00_bundle_icon
+TEXT: Diancie Kulaklığı
+
 RESOURCE ID: avatar_f_hat_dp_00_bundle_icon
 TEXT: Sinnoh Şapkası
 
@@ -2207,6 +2231,10 @@ TEXT: Mareanie Şapkası
 
 RESOURCE ID: avatar_f_hat_megalopunnyitems_00_bundle_icon
 TEXT: Mega Lopunny Kulakları
+
+RESOURCE ID: avatar_f_hat_megarayquaza_00_bundle_icon
+TEXT: Mega Rayquaza
+Başlığı
 
 RESOURCE ID: avatar_f_hat_meltan_0_bundle_icon
 TEXT: Meltan Şapkası
@@ -2715,6 +2743,9 @@ TEXT: Kot Ceket
 RESOURCE ID: avatar_f_shirt_detectivepikachu_0_bundle_icon
 TEXT: Dedektif Pikachu Tişörtü
 
+RESOURCE ID: avatar_f_shirt_diancie_00_bundle_icon
+TEXT: Diancie Tişörtü
+
 RESOURCE ID: avatar_f_shirt_divingsuit_00_bundle_icon
 TEXT: Dalgıç Seti
 
@@ -2776,6 +2807,10 @@ Kapüşonlusu
 RESOURCE ID: avatar_f_shirt_gofest2022_00_bundle_icon
 TEXT: GO Festivali 2022
 Tişörtü
+
+RESOURCE ID: avatar_f_shirt_gofest2023_00_bundle_icon
+TEXT: GO Festivali 2023
+Tişörtü (Siyah)
 
 RESOURCE ID: avatar_f_shirt_gofest_2019_bundle_icon
 TEXT: GO Festivali 2019 Tişörtü
@@ -2892,6 +2927,10 @@ TEXT: Lysandre Ceketi
 
 RESOURCE ID: avatar_f_shirt_megalopunnyitems_00_bundle_icon
 TEXT: Mega Lopunny Kıyafeti
+
+RESOURCE ID: avatar_f_shirt_megarayquaza_00_bundle_icon
+TEXT: Mega Rayquaza
+Seti
 
 RESOURCE ID: avatar_f_shirt_melmetaljacket_00_bundle_icon
 TEXT: Melmetal Ceketi
@@ -3239,6 +3278,26 @@ RESOURCE ID: avatar_f_shirt_wcs2022winnersitems_00_bundle_icon
 TEXT: 2022 Dünya
 Şampiyon Ceketi
 
+RESOURCE ID: avatar_f_shirt_wcs2023promotshirt_00_bundle_icon
+TEXT: 2023 Şampiyonası
+Tişörtü (Gri)
+
+RESOURCE ID: avatar_f_shirt_wcs2023promotshirt_01_00_bundle_icon
+TEXT: 2023 Şampiyonası
+Tişörtü (Sarı)
+
+RESOURCE ID: avatar_f_shirt_wcs2023sukajan_00_bundle_icon
+TEXT: 2023 Şampiyonası
+Montu
+
+RESOURCE ID: avatar_f_shirt_wcs2023winnersitems_00_bundle_icon
+TEXT: 2023 Şampiyonası
+Şampiyon Seti
+
+RESOURCE ID: avatar_f_shirt_wcsyokohama_00_bundle_icon
+TEXT: 2023 Şampiyonası
+Forması
+
 RESOURCE ID: avatar_f_shirt_whitecoat_00_bundle_icon
 TEXT: Kışlık Mont
 
@@ -3478,6 +3537,10 @@ TEXT: Kıdemli Çizmesi
 RESOURCE ID: avatar_f_shoes_wcs2022winnersitems_00_bundle_icon
 TEXT: 2022 Dünya
 Şampiyon Ayakkabısı
+
+RESOURCE ID: avatar_f_shoes_wcs2023winnersitems_00_bundle_icon
+TEXT: 2023 Şampiyonası
+Şampiyon Botu
 
 RESOURCE ID: avatar_f_shoes_winterboots_00_bundle_icon
 TEXT: Kışlık Çizme 1
@@ -3964,6 +4027,9 @@ TEXT: Delibird Kulaklığı
 RESOURCE ID: avatar_m_hat_detectivepikachu_0_bundle_icon
 TEXT: Dedektif Pikachu Şapkası
 
+RESOURCE ID: avatar_m_hat_diancie_00_bundle_icon
+TEXT: Diancie Kulaklığı
+
 RESOURCE ID: avatar_m_hat_dp_00_bundle_icon
 TEXT: Sinnoh Şapkası
 
@@ -4089,6 +4155,10 @@ TEXT: Mareanie Şapkası
 
 RESOURCE ID: avatar_m_hat_megalopunnyitems_00_bundle_icon
 TEXT: Mega Lopunny Kulakları
+
+RESOURCE ID: avatar_m_hat_megarayquaza_00_bundle_icon
+TEXT: Mega Rayquaza
+Başlığı
 
 RESOURCE ID: avatar_m_hat_meltan_0_bundle_icon
 TEXT: Meltan Şapkası
@@ -4589,6 +4659,9 @@ TEXT: Kot Ceket
 RESOURCE ID: avatar_m_shirt_detectivepikachu_0_bundle_icon
 TEXT: Dedektif Pikachu Tişörtü
 
+RESOURCE ID: avatar_m_shirt_diancie_00_bundle_icon
+TEXT: Diancie Tişörtü
+
 RESOURCE ID: avatar_m_shirt_divingsuit_00_bundle_icon
 TEXT: Dalgıç Seti
 
@@ -4653,6 +4726,10 @@ Kapüşonlusu
 RESOURCE ID: avatar_m_shirt_gofest2022_00_bundle_icon
 TEXT: GO Festivali 2022
 Tişörtü
+
+RESOURCE ID: avatar_m_shirt_gofest2023_00_bundle_icon
+TEXT: GO Festivali 2023
+Tişörtü (Siyah)
 
 RESOURCE ID: avatar_m_shirt_gofest_2019_bundle_icon
 TEXT: GO Festivali 2019 Tişörtü
@@ -4778,6 +4855,10 @@ TEXT: Lysandre Ceketi
 
 RESOURCE ID: avatar_m_shirt_megalopunnyitems_00_bundle_icon
 TEXT: Mega Lopunny Kıyafeti
+
+RESOURCE ID: avatar_m_shirt_megarayquaza_00_bundle_icon
+TEXT: Mega Rayquaza
+Seti
 
 RESOURCE ID: avatar_m_shirt_melmetaljacket_00_bundle_icon
 TEXT: Melmetal Ceketi
@@ -5116,6 +5197,26 @@ RESOURCE ID: avatar_m_shirt_wcs2022winnersitems_00_bundle_icon
 TEXT: 2022 Dünya
 Şampiyon Ceketi
 
+RESOURCE ID: avatar_m_shirt_wcs2023promotshirt_00_bundle_icon
+TEXT: 2023 Şampiyonası
+Tişörtü (Gri)
+
+RESOURCE ID: avatar_m_shirt_wcs2023promotshirt_01_00_bundle_icon
+TEXT: 2023 Şampiyonası
+Tişörtü (Sarı)
+
+RESOURCE ID: avatar_m_shirt_wcs2023sukajan_00_bundle_icon
+TEXT: 2023 Şampiyonası
+Montu
+
+RESOURCE ID: avatar_m_shirt_wcs2023winnersitems_00_bundle_icon
+TEXT: 2023 Şampiyonası
+Şampiyon Seti
+
+RESOURCE ID: avatar_m_shirt_wcsyokohama_00_bundle_icon
+TEXT: 2023 Şampiyonası
+Forması
+
 RESOURCE ID: avatar_m_shirt_whitecoat_00_bundle_icon
 TEXT: Kışlık Mont
 
@@ -5359,6 +5460,10 @@ RESOURCE ID: avatar_m_shoes_wcs2022winnersitems_00_bundle_icon
 TEXT: 2022 Dünya
 Şampiyon Ayakkabısı
 
+RESOURCE ID: avatar_m_shoes_wcs2023winnersitems_00_bundle_icon
+TEXT: 2023 Şampiyonası
+Şampiyon Botu
+
 RESOURCE ID: avatar_m_shoes_winterboots_00_bundle_icon
 TEXT: Kışlık Çizme 1
 
@@ -5492,28 +5597,28 @@ TEXT: Yedi günlük bir Pokémon yakalama serisi veya PokéDurak döndürme seri
 RESOURCE ID: badge_7_day_streaks_title
 TEXT: Triatloncu
 
-RESOURCE ID: badge_aa_2023_jeju_day_00_general
+RESOURCE ID: badge_aa_2023_jeju_day_00
 TEXT: Jeju Adası, 2023
 
-RESOURCE ID: badge_aa_2023_jeju_day_00_general_title
+RESOURCE ID: badge_aa_2023_jeju_day_00_title
 TEXT: Pokémon Gökyüzü Maceraları
 
-RESOURCE ID: badge_aa_2023_jeju_day_01_general
+RESOURCE ID: badge_aa_2023_jeju_day_01
 TEXT: Jeju Adası, 28 Temmuz 2023
 
-RESOURCE ID: badge_aa_2023_jeju_day_01_general_title
+RESOURCE ID: badge_aa_2023_jeju_day_01_title
 TEXT: Pokémon Gökyüzü Maceraları
 
-RESOURCE ID: badge_aa_2023_jeju_day_02_general
+RESOURCE ID: badge_aa_2023_jeju_day_02
 TEXT: Jeju Adası, 29 Temmuz 2023
 
-RESOURCE ID: badge_aa_2023_jeju_day_02_general_title
+RESOURCE ID: badge_aa_2023_jeju_day_02_title
 TEXT: Pokémon Gökyüzü Maceraları
 
-RESOURCE ID: badge_aa_2023_jeju_day_03_general
+RESOURCE ID: badge_aa_2023_jeju_day_03
 TEXT: Jeju Adası, 30 Temmuz 2023
 
-RESOURCE ID: badge_aa_2023_jeju_day_03_general_title
+RESOURCE ID: badge_aa_2023_jeju_day_03_title
 TEXT: Pokémon Gökyüzü Maceraları
 
 RESOURCE ID: badge_apac_partner_july_2018_1
@@ -5754,7 +5859,7 @@ RESOURCE ID: badge_capture_total_value_format
 TEXT: N0
 
 RESOURCE ID: badge_challenge_quests
-TEXT: {0} Alan Araştırması görevi tamamlayın.
+TEXT: {0} alan araştırması görevi tamamlayın.
 
 RESOURCE ID: badge_challenge_quests_title
 TEXT: Pokémon Muhafızı
@@ -6181,6 +6286,12 @@ TEXT: 2 Kasım 2019
 
 RESOURCE ID: badge_global_ticketed_event_title
 TEXT: Muazzam Keşif
+
+RESOURCE ID: badge_gofest2023_global
+TEXT: 26-27 Ağustos 2023
+
+RESOURCE ID: badge_gofest2023_global_title
+TEXT: Pokémon GO Festivali 2023
 
 RESOURCE ID: badge_gofest_2019_americas_day_00_north_earlyaccess
 TEXT: Şikago, 12 Haziran 2019—Kuzey
@@ -6751,6 +6862,390 @@ TEXT: Küresel, 4-5 Haziran 2022 ve 27 Ağustos 2022
 
 RESOURCE ID: badge_gofest_2022_test_title
 TEXT: Pokémon GO Festivali 2022
+
+RESOURCE ID: badge_gofest_2023_london_addon_hatch
+TEXT: Londra, 4-6 Ağustos 2023
+
+RESOURCE ID: badge_gofest_2023_london_addon_hatch_test
+TEXT: Londra
+
+RESOURCE ID: badge_gofest_2023_london_addon_hatch_test_title
+TEXT: Pokémon GO Festivali—Yumurta Meraklısı
+
+RESOURCE ID: badge_gofest_2023_london_addon_hatch_title
+TEXT: Pokémon GO Festivali—Yumurta Meraklısı
+
+RESOURCE ID: badge_gofest_2023_london_addon_raid
+TEXT: Londra, 4-6 Ağustos 2023
+
+RESOURCE ID: badge_gofest_2023_london_addon_raid_test
+TEXT: Londra
+
+RESOURCE ID: badge_gofest_2023_london_addon_raid_test_title
+TEXT: Pokémon GO Festivali—Akınsever
+
+RESOURCE ID: badge_gofest_2023_london_addon_raid_title
+TEXT: Pokémon GO Festivali—Akınsever
+
+RESOURCE ID: badge_gofest_2023_london_city_2_test
+TEXT: Londra
+
+RESOURCE ID: badge_gofest_2023_london_city_2_test_title
+TEXT: Pokémon GO Festivali—Şehir Tecrübesi
+
+RESOURCE ID: badge_gofest_2023_london_city_test
+TEXT: Londra
+
+RESOURCE ID: badge_gofest_2023_london_city_test_title
+TEXT: Pokémon GO Festivali—Şehir Tecrübesi
+
+RESOURCE ID: badge_gofest_2023_london_day1_city
+TEXT: Londra, 4 Ağustos 2023
+
+RESOURCE ID: badge_gofest_2023_london_day1_city_title
+TEXT: Pokémon GO Festivali—Şehir Tecrübesi (Cuma)
+
+RESOURCE ID: badge_gofest_2023_london_day1_extended
+TEXT: Londra, 4 Ağustos 2023
+
+RESOURCE ID: badge_gofest_2023_london_day1_extended_title
+TEXT: Pokémon GO Festivali—Uzun Süreli Şehir Tecrübesi (Cuma)
+
+RESOURCE ID: badge_gofest_2023_london_day1_park_afternoon
+TEXT: Brockwell Park, Londra, 4 Ağustos 2023 (Öğleden Sonra)
+
+RESOURCE ID: badge_gofest_2023_london_day1_park_afternoon_title
+TEXT: Pokémon GO Festivali—Park Tecrübesi (Cuma)
+
+RESOURCE ID: badge_gofest_2023_london_day1_park_morning
+TEXT: Brockwell Park, Londra, 4 Ağustos 2023 (Sabah)
+
+RESOURCE ID: badge_gofest_2023_london_day1_park_morning_title
+TEXT: Pokémon GO Festivali—Park Tecrübesi (Cuma)
+
+RESOURCE ID: badge_gofest_2023_london_day2_city
+TEXT: Londra, 5 Ağustos 2023
+
+RESOURCE ID: badge_gofest_2023_london_day2_city_title
+TEXT: Pokémon GO Festivali—Şehir Tecrübesi (Cumartesi)
+
+RESOURCE ID: badge_gofest_2023_london_day2_extended
+TEXT: Londra, 5 Ağustos 2023
+
+RESOURCE ID: badge_gofest_2023_london_day2_extended_title
+TEXT: Pokémon GO Festivali—Uzun Süreli Şehir Tecrübesi (Cumartesi)
+
+RESOURCE ID: badge_gofest_2023_london_day2_park_afternoon
+TEXT: Brockwell Park, Londra, 5 Ağustos 2023 (Öğleden Sonra)
+
+RESOURCE ID: badge_gofest_2023_london_day2_park_afternoon_title
+TEXT: Pokémon GO Festivali—Park Tecrübesi (Cumartesi)
+
+RESOURCE ID: badge_gofest_2023_london_day2_park_morning
+TEXT: Brockwell Park, Londra, 5 Ağustos 2023 (Sabah)
+
+RESOURCE ID: badge_gofest_2023_london_day2_park_morning_title
+TEXT: Pokémon GO Festivali—Park Tecrübesi (Cumartesi)
+
+RESOURCE ID: badge_gofest_2023_london_day3_city
+TEXT: Londra, 6 Ağustos 2023
+
+RESOURCE ID: badge_gofest_2023_london_day3_city_title
+TEXT: Pokémon GO Festivali—Şehir Tecrübesi (Pazar)
+
+RESOURCE ID: badge_gofest_2023_london_day3_extended
+TEXT: Londra, 6 Ağustos 2023
+
+RESOURCE ID: badge_gofest_2023_london_day3_extended_title
+TEXT: Pokémon GO Festivali—Uzun Süreli Şehir Tecrübesi (Pazar)
+
+RESOURCE ID: badge_gofest_2023_london_day3_park_afternoon
+TEXT: Brockwell Park, Londra, 6 Ağustos 2023 (Öğleden Sonra)
+
+RESOURCE ID: badge_gofest_2023_london_day3_park_afternoon_title
+TEXT: Pokémon GO Festivali—Park Tecrübesi (Pazar)
+
+RESOURCE ID: badge_gofest_2023_london_day3_park_morning
+TEXT: Brockwell Park, Londra, 6 Ağustos 2023 (Sabah)
+
+RESOURCE ID: badge_gofest_2023_london_day3_park_morning_title
+TEXT: Pokémon GO Festivali—Park Tecrübesi (Pazar)
+
+RESOURCE ID: badge_gofest_2023_london_park_2_test
+TEXT: Brockwell Park, Londra
+
+RESOURCE ID: badge_gofest_2023_london_park_2_test_title
+TEXT: Pokémon GO Festivali—Park Tecrübesi
+
+RESOURCE ID: badge_gofest_2023_london_park_test
+TEXT: Brockwell Park, Londra
+
+RESOURCE ID: badge_gofest_2023_london_park_test_title
+TEXT: Pokémon GO Festivali—Park Tecrübesi
+
+RESOURCE ID: badge_gofest_2023_london_vip
+TEXT: Londra, 4-6 Ağustos 2023
+
+RESOURCE ID: badge_gofest_2023_london_vip_title
+TEXT: Pokémon GO Festivali 2023
+
+RESOURCE ID: badge_gofest_2023_newyork_addon_hatch
+TEXT: New York, 18-20 Ağustos 2023
+
+RESOURCE ID: badge_gofest_2023_newyork_addon_hatch_test
+TEXT: New York
+
+RESOURCE ID: badge_gofest_2023_newyork_addon_hatch_test_title
+TEXT: Pokémon GO Festivali—Yumurta Meraklısı
+
+RESOURCE ID: badge_gofest_2023_newyork_addon_hatch_title
+TEXT: Pokémon GO Festivali—Yumurta Meraklısı
+
+RESOURCE ID: badge_gofest_2023_newyork_addon_raid
+TEXT: New York, 18-20 Ağustos 2023
+
+RESOURCE ID: badge_gofest_2023_newyork_addon_raid_test
+TEXT: New York
+
+RESOURCE ID: badge_gofest_2023_newyork_addon_raid_test_title
+TEXT: Pokémon GO Festivali—Akınsever
+
+RESOURCE ID: badge_gofest_2023_newyork_addon_raid_title
+TEXT: Pokémon GO Festivali—Akınsever
+
+RESOURCE ID: badge_gofest_2023_newyork_city_2_test
+TEXT: New York
+
+RESOURCE ID: badge_gofest_2023_newyork_city_2_test_title
+TEXT: Pokémon GO Festivali—Şehir Tecrübesi
+
+RESOURCE ID: badge_gofest_2023_newyork_city_test
+TEXT: New York
+
+RESOURCE ID: badge_gofest_2023_newyork_city_test_title
+TEXT: Pokémon GO Festivali—Şehir Tecrübesi
+
+RESOURCE ID: badge_gofest_2023_newyork_day1_city
+TEXT: New York, 18 Ağustos 2023
+
+RESOURCE ID: badge_gofest_2023_newyork_day1_city_title
+TEXT: Pokémon GO Festivali—Şehir Tecrübesi (Cuma)
+
+RESOURCE ID: badge_gofest_2023_newyork_day1_extended
+TEXT: New York, 18 Ağustos 2023
+
+RESOURCE ID: badge_gofest_2023_newyork_day1_extended_title
+TEXT: Pokémon GO Festivali—Uzun Süreli Şehir Tecrübesi (Cuma)
+
+RESOURCE ID: badge_gofest_2023_newyork_day1_park_afternoon
+TEXT: Randall’s Island Park, New York, 18 Ağustos 2023 (Öğleden Sonra)
+
+RESOURCE ID: badge_gofest_2023_newyork_day1_park_afternoon_title
+TEXT: Pokémon GO Festivali—Park Tecrübesi (Cuma)
+
+RESOURCE ID: badge_gofest_2023_newyork_day1_park_morning
+TEXT: Randall’s Island Park, New York, 18 Ağustos 2023 (Sabah)
+
+RESOURCE ID: badge_gofest_2023_newyork_day1_park_morning_title
+TEXT: Pokémon GO Festivali—Park Tecrübesi (Cuma)
+
+RESOURCE ID: badge_gofest_2023_newyork_day2_city
+TEXT: New York, 19 Ağustos 2023
+
+RESOURCE ID: badge_gofest_2023_newyork_day2_city_title
+TEXT: Pokémon GO Festivali—Şehir Tecrübesi (Cumartesi)
+
+RESOURCE ID: badge_gofest_2023_newyork_day2_extended
+TEXT: New York, 19 Ağustos 2023
+
+RESOURCE ID: badge_gofest_2023_newyork_day2_extended_title
+TEXT: Pokémon GO Festivali—Uzun Süreli Şehir Tecrübesi (Cumartesi)
+
+RESOURCE ID: badge_gofest_2023_newyork_day2_park_afternoon
+TEXT: Randall’s Island Park, New York, 19 Ağustos 2023 (Öğleden Sonra)
+
+RESOURCE ID: badge_gofest_2023_newyork_day2_park_afternoon_title
+TEXT: Pokémon GO Festivali—Park Tecrübesi (Cumartesi)
+
+RESOURCE ID: badge_gofest_2023_newyork_day2_park_morning
+TEXT: Randall’s Island Park, New York, 19 Ağustos 2023 (Sabah)
+
+RESOURCE ID: badge_gofest_2023_newyork_day2_park_morning_title
+TEXT: Pokémon GO Festivali—Park Tecrübesi (Cumartesi)
+
+RESOURCE ID: badge_gofest_2023_newyork_day3_city
+TEXT: New York, 20 Ağustos 2023
+
+RESOURCE ID: badge_gofest_2023_newyork_day3_city_title
+TEXT: Pokémon GO Festivali—Şehir Tecrübesi (Pazar)
+
+RESOURCE ID: badge_gofest_2023_newyork_day3_extended
+TEXT: New York, 20 Ağustos 2023
+
+RESOURCE ID: badge_gofest_2023_newyork_day3_extended_title
+TEXT: Pokémon GO Festivali—Uzun Süreli Şehir Tecrübesi (Pazar)
+
+RESOURCE ID: badge_gofest_2023_newyork_day3_park_afternoon
+TEXT: Randall’s Island Park, New York, 20 Ağustos 2023 (Öğleden Sonra)
+
+RESOURCE ID: badge_gofest_2023_newyork_day3_park_afternoon_title
+TEXT: Pokémon GO Festivali—Park Tecrübesi (Pazar)
+
+RESOURCE ID: badge_gofest_2023_newyork_day3_park_morning
+TEXT: Randall’s Island Park, New York, 20 Ağustos 2023 (Sabah)
+
+RESOURCE ID: badge_gofest_2023_newyork_day3_park_morning_title
+TEXT: Pokémon GO Festivali—Park Tecrübesi (Pazar)
+
+RESOURCE ID: badge_gofest_2023_newyork_park_2_test
+TEXT: Randall’s Island Park, New York
+
+RESOURCE ID: badge_gofest_2023_newyork_park_2_test_title
+TEXT: Pokémon GO Festivali—Park Tecrübesi
+
+RESOURCE ID: badge_gofest_2023_newyork_park_test
+TEXT: Randall’s Island Park, New York
+
+RESOURCE ID: badge_gofest_2023_newyork_park_test_title
+TEXT: Pokémon GO Festivali—Park Tecrübesi
+
+RESOURCE ID: badge_gofest_2023_newyork_vip
+TEXT: New York, 18-20 Ağustos 2023
+
+RESOURCE ID: badge_gofest_2023_newyork_vip_title
+TEXT: Pokémon GO Festivali 2023
+
+RESOURCE ID: badge_gofest_2023_osaka_addon_hatch
+TEXT: Osaka, 4-6 Ağustos 2023
+
+RESOURCE ID: badge_gofest_2023_osaka_addon_hatch_test
+TEXT: Osaka
+
+RESOURCE ID: badge_gofest_2023_osaka_addon_hatch_test_title
+TEXT: Pokémon GO Festivali—Yumurta Meraklısı
+
+RESOURCE ID: badge_gofest_2023_osaka_addon_hatch_title
+TEXT: Pokémon GO Festivali—Yumurta Meraklısı
+
+RESOURCE ID: badge_gofest_2023_osaka_addon_raid
+TEXT: Osaka, 4-6 Ağustos 2023
+
+RESOURCE ID: badge_gofest_2023_osaka_addon_raid_test
+TEXT: Osaka
+
+RESOURCE ID: badge_gofest_2023_osaka_addon_raid_test_title
+TEXT: Pokémon GO Festivali—Akınsever
+
+RESOURCE ID: badge_gofest_2023_osaka_addon_raid_title
+TEXT: Pokémon GO Festivali—Akınsever
+
+RESOURCE ID: badge_gofest_2023_osaka_city_2_test
+TEXT: Osaka
+
+RESOURCE ID: badge_gofest_2023_osaka_city_2_test_title
+TEXT: Pokémon GO Festivali—Şehir Tecrübesi
+
+RESOURCE ID: badge_gofest_2023_osaka_city_test
+TEXT: Osaka
+
+RESOURCE ID: badge_gofest_2023_osaka_city_test_title
+TEXT: Pokémon GO Festivali—Şehir Tecrübesi
+
+RESOURCE ID: badge_gofest_2023_osaka_day1_city
+TEXT: Osaka, 4 Ağustos 2023
+
+RESOURCE ID: badge_gofest_2023_osaka_day1_city_title
+TEXT: Pokémon GO Festivali—Şehir Tecrübesi (Cuma)
+
+RESOURCE ID: badge_gofest_2023_osaka_day1_extended
+TEXT: Osaka, 4 Ağustos 2023
+
+RESOURCE ID: badge_gofest_2023_osaka_day1_extended_title
+TEXT: Pokémon GO Festivali—Uzun Süreli Şehir Tecrübesi (Cuma)
+
+RESOURCE ID: badge_gofest_2023_osaka_day1_park_afternoon
+TEXT: Expo ’70 Commemorative Park, Osaka, 4 Ağustos 2023 (Öğleden Sonra)
+
+RESOURCE ID: badge_gofest_2023_osaka_day1_park_afternoon_title
+TEXT: Pokémon GO Festivali—Park Tecrübesi (Cuma)
+
+RESOURCE ID: badge_gofest_2023_osaka_day1_park_morning
+TEXT: Expo ’70 Commemorative Park, Osaka, 4 Ağustos 2023 (Sabah)
+
+RESOURCE ID: badge_gofest_2023_osaka_day1_park_morning_title
+TEXT: Pokémon GO Festivali—Park Tecrübesi (Cuma)
+
+RESOURCE ID: badge_gofest_2023_osaka_day2_city
+TEXT: Osaka, 5 Ağustos 2023
+
+RESOURCE ID: badge_gofest_2023_osaka_day2_city_title
+TEXT: Pokémon GO Festivali—Şehir Tecrübesi (Cumartesi) 
+
+RESOURCE ID: badge_gofest_2023_osaka_day2_extended
+TEXT: Osaka, 5 Ağustos 2023
+
+RESOURCE ID: badge_gofest_2023_osaka_day2_extended_title
+TEXT: Pokémon GO Festivali—Uzun Süreli Şehir Tecrübesi (Cumartesi)
+
+RESOURCE ID: badge_gofest_2023_osaka_day2_park_afternoon
+TEXT: Expo ’70 Commemorative Park, Osaka, 5 Ağustos 2023 (Öğleden Sonra)
+
+RESOURCE ID: badge_gofest_2023_osaka_day2_park_afternoon_title
+TEXT: Pokémon GO Festivali—Park Tecrübesi (Cumartesi)
+
+RESOURCE ID: badge_gofest_2023_osaka_day2_park_morning
+TEXT: Expo ’70 Commemorative Park, Osaka, 5 Ağustos 2023 (Sabah)
+
+RESOURCE ID: badge_gofest_2023_osaka_day2_park_morning_title
+TEXT: Pokémon GO Festivali—Park Tecrübesi (Cumartesi)
+
+RESOURCE ID: badge_gofest_2023_osaka_day3_city
+TEXT: Osaka, 6 Ağustos 2023
+
+RESOURCE ID: badge_gofest_2023_osaka_day3_city_title
+TEXT: Pokémon GO Festivali—Şehir Tecrübesi (Pazar) 
+
+RESOURCE ID: badge_gofest_2023_osaka_day3_extended
+TEXT: Osaka, 6 Ağustos 2023
+
+RESOURCE ID: badge_gofest_2023_osaka_day3_extended_title
+TEXT: Pokémon GO Festivali—Uzun Süreli Şehir Tecrübesi (Pazar)
+
+RESOURCE ID: badge_gofest_2023_osaka_day3_park_afternoon
+TEXT: Expo ’70 Commemorative Park, Osaka, 6 Ağustos 2023 (Öğleden Sonra)
+
+RESOURCE ID: badge_gofest_2023_osaka_day3_park_afternoon_title
+TEXT: Pokémon GO Festivali—Park Tecrübesi (Pazar)
+
+RESOURCE ID: badge_gofest_2023_osaka_day3_park_morning
+TEXT: Expo ’70 Commemorative Park, Osaka, 6 Ağustos 2023 (Sabah)
+
+RESOURCE ID: badge_gofest_2023_osaka_day3_park_morning_title
+TEXT: Pokémon GO Festivali—Park Tecrübesi (Pazar)
+
+RESOURCE ID: badge_gofest_2023_osaka_park_2_test
+TEXT: Expo ’70 Commemorative Park, Osaka
+
+RESOURCE ID: badge_gofest_2023_osaka_park_2_test_title
+TEXT: Pokémon GO Festivali—Park Tecrübesi
+
+RESOURCE ID: badge_gofest_2023_osaka_park_test
+TEXT: Expo ’70 Commemorative Park, Osaka
+
+RESOURCE ID: badge_gofest_2023_osaka_park_test_title
+TEXT: Pokémon GO Festivali—Park Tecrübesi
+
+RESOURCE ID: badge_gofest_2023_osaka_vip
+TEXT: Osaka, 4-6 Ağustos 2023
+
+RESOURCE ID: badge_gofest_2023_osaka_vip_title
+TEXT: Pokémon GO Festivali 2023
+
+RESOURCE ID: badge_gofest_2023_test
+TEXT: August 26–27, 2023
+
+RESOURCE ID: badge_gofest_2023_test_title
+TEXT: Pokémon GO Fest 2023
 
 RESOURCE ID: badge_gotour_2021_green_global
 TEXT: Küresel, 20 Şubat 2021
@@ -10867,6 +11362,12 @@ TEXT: Lampent’ı evrimleştirerek Poltergeist güçlü saldırısını bilen C
 RESOURCE ID: bonus_cd_move_noibat
 TEXT: Noibat’i evrimleştirerek Büyük Patlama güçlü saldırısını bilen Noivern elde edin!
 
+RESOURCE ID: bonus_cd_move_poliwag_politoed
+TEXT: Poliwhirl’ü evrimleştirerek Buz Işını güçlü saldırısını bilen Politoed elde edin!
+
+RESOURCE ID: bonus_cd_move_poliwag_poliwrath
+TEXT: Poliwhirl’ü evrimleştirerek Karşılık hızlı saldırısını bilen Poliwrath elde edin!
+
 RESOURCE ID: bonus_cd_move_roggenrola
 TEXT: Boldore’u evrimleştirerek Meteor Işını güçlü saldırısını bilen Gigalith elde edin
 
@@ -10918,6 +11419,9 @@ TEXT: Her saat başı çok sayıda Finneon ortaya çıkacak!
 RESOURCE ID: bonus_fr_party_pikachu
 TEXT: Pikachu’yla Tanışma PokéDurağından edineceğiniz alan araştırması görevini tamamlayın, parti şapkalı Pikachu’yla karşılaşma şansı yakalayın!
 
+RESOURCE ID: bonus_friendship_raid_double
+TEXT: Akınlarda 2× bonus arkadaşlık hasarı
+
 RESOURCE ID: bonus_go_tour_2023_add_on_hatch_01
 TEXT: 3× çatlatma yıldız tozu
 
@@ -10934,10 +11438,10 @@ RESOURCE ID: bonus_go_tour_2023_add_on_raid_02
 TEXT: Başarıyla tamamlanan akınlarda fazladan 5000 TP
 
 RESOURCE ID: bonus_go_tour_2023_add_on_raid_03
-TEXT: Beş yıldızlı akınlarda ve kadim akınlarında Pokémon yakalama için fazladan altı şeker
+TEXT: Beş yıldızlı ve kadim akınlarda Pokémon yakalama için fazladan altı şeker
 
 RESOURCE ID: bonus_go_tour_2023_add_on_raid_04
-TEXT: Beş yıldızlı akınlarda ve kadim akınlarında Pokémon yakalama için fazladan üç büyük şeker
+TEXT: Beş yıldızlı ve kadim akınlarda Pokémon yakalama için fazladan üç büyük şeker
 
 RESOURCE ID: bonus_go_tour_6_special_trades
 TEXT: Toplamda altı olmak üzere günlük beş ek özel takas fırsatı
@@ -10952,7 +11456,10 @@ RESOURCE ID: bonus_go_tour_event_move_kyogre
 TEXT: Bu etkinlik sırasında yakalanan Kyogre’lar Orijin Darbesi güçlü saldırısını biliyor olacak
 
 RESOURCE ID: bonus_go_tour_irl_extra_candy
-TEXT: Tüm canlı kadim akınlarından fazladan bir garanti büyük şeker kazanımı
+TEXT: Tüm canlı kadim akınlardan fazladan bir garanti büyük şeker kazanımı
+
+RESOURCE ID: bonus_hatch_day_hatch_2x
+TEXT: 2× çatlatma yıldız tozu
 
 RESOURCE ID: bonus_hoenn_spawns
 TEXT: İlk olarak Hoenn bölgesinde keşfedilmiş çok sayıda Pokémon ortaya çıkıyor
@@ -10993,6 +11500,9 @@ TEXT: Topluluk Günü Görevi: Yakalama
 RESOURCE ID: bonus_implicit_social_noibat_raid
 TEXT: Eğitmenler bir spor salonunda birlikte Noibat akın maçı kazanırsa 30 dakika boyunca o bölgede çok sayıda Noibat ortaya çıkacak.
 
+RESOURCE ID: bonus_implicit_social_poliwag_raid
+TEXT: Eğitmenler bir spor salonunda birlikte Poliwhirl maçı kazanırsa 30 dakika boyunca o bölgede çok sayıda Poliwag ortaya çıkacak.
+
 RESOURCE ID: bonus_implicit_social_raid_title
 TEXT: Community Day Challenge: Raid
 
@@ -11032,6 +11542,9 @@ TEXT: Tütsü, Brendan şapkalı Pikachu’yu veya May fiyonklu Pikachu’yu çe
 RESOURCE ID: bonus_incense_hoenn_unown
 TEXT: Tütsü Unown’u çekebilir
 
+RESOURCE ID: bonus_increased_raid_capture
+TEXT: Akın Canavarı yakalamak için daha fazla şans
+
 RESOURCE ID: bonus_jeju_balloon_pikachu
 TEXT: Bölgede turuncu balonlu Uçan Pikachu ortaya çıkıyor
 
@@ -11045,7 +11558,7 @@ RESOURCE ID: bonus_magnetic_lure_6_hr
 TEXT: 6 saatlik Manyetik Yem Modülü süresi
 
 RESOURCE ID: bonus_mega_latias_latios
-TEXT: Mega akınlarda Mega Latias ve Mega Latios ortaya çıkıyor
+TEXT: Bölgede Mega Latias ve Mega Latios akınları ortaya çıkıyor!
 
 RESOURCE ID: bonus_milestone_rewards_title
 TEXT: BONUS AŞAMA ÖDÜLLERİ
@@ -11064,6 +11577,12 @@ TEXT: Akınlarda yakalanan Rayquaza’lar Kıran Vuruş güçlü saldırısını
 
 RESOURCE ID: bonus_purrloin_o_clock
 TEXT: Her saat başı çok sayıda Purrloin ortaya çıkacak!
+
+RESOURCE ID: bonus_raid_3_xl_candy
+TEXT: Beş yıldızlı, mega ve kadim akınlarda Pokémon yakalama için fazladan üç büyük şeker
+
+RESOURCE ID: bonus_raid_6_candy
+TEXT: Beş yıldızlı, mega ve kadim akınlarda Pokémon yakalama için fazladan altı şeker
 
 RESOURCE ID: bonus_raid_move_blaziken
 TEXT: Bu etkinlik sırasında yakalanan Blaziken, Tahrip Yanığı Güçlü Saldırısını bilecek. 
@@ -11135,7 +11654,7 @@ RESOURCE ID: bonus_reward_5x_catch_quality_xp
 TEXT: İyi, süper, mükemmel ve falsolu atışlar için 5x TP
 
 RESOURCE ID: bonus_reward_half_hatch_distance
-TEXT: 1/2 Çatlatma Mesafesi
+TEXT: 1/2 çatlatma mesafesi
 
 RESOURCE ID: bonus_reward_quarter_hatch_distance
 TEXT: 1/4 Çatlatma Mesafesi
@@ -11190,6 +11709,9 @@ TEXT: GO Roket Takımı Serserilerine karşı maç kazanınca artırılmış yı
 
 RESOURCE ID: bonus_tgr_stardust_leader
 TEXT: GO Roket Takımı Liderlerine karşı maç kazanınca artırılmış yıldız tozu
+
+RESOURCE ID: bonus_total_6_special_trades
+TEXT: Her gün toplam 6 özel takas fırsatı
 
 RESOURCE ID: bonus_trade_stardust_50pc_5hr
 TEXT: Etkinlik süresince ve etkinlikten sonraki 5 saat içinde yapılacak takaslar %50 daha az yıldız tozu gerektirecek.
@@ -11545,6 +12067,9 @@ TEXT: Bazı araştırmalar farklı görev ve ödüller sunacak seçimler yapman�
 RESOURCE ID: brazilianportuguese
 TEXT: Português
 
+RESOURCE ID: breakfast_tappable_tutorial_body
+TEXT: Rota takip ederken Zygarde Hücresi bulabilirsiniz. Zygarde Hücrelerini birleştirerek farklı Zygarde formları oluşturabilirsiniz.
+
 RESOURCE ID: breakthrough_free_remote_raid_pass
 TEXT: Araştırmada Büyük İlerlemelerden Uzak Akın Bileti ödülü
 
@@ -11577,6 +12102,15 @@ TEXT: Kamera İzni
 
 RESOURCE ID: buddy_candy_distance_half
 TEXT: 1/2 dost şekeri mesafesi kazanımı
+
+RESOURCE ID: buddy_candy_distance_routes_2x
+TEXT: Dostunuzla rota keşfederken dost şekeri kazanmak için 1/2 mesafe
+
+RESOURCE ID: buddy_candy_distance_routes_3x
+TEXT: Dostunuzla rota keşfederken dost şekeri kazanmak için 1/3 mesafe
+
+RESOURCE ID: buddy_candy_distance_routes_50p
+TEXT: Dostunuzla rota keşfederken dost şekeri kazanmak için 2/3 mesafe 
 
 RESOURCE ID: buddy_cannot_feed_because_cooldown
 TEXT: Dostunuz dinleniyor!
@@ -11721,6 +12255,12 @@ TEXT: Dostunuz sizin için bir şey buldu!
 
 RESOURCE ID: buddy_giftbox_increase
 TEXT: Dostunuz size daha sık Hediye getirecek
+
+RESOURCE ID: buddy_heart_play_route_together_description
+TEXT: Dostunuzla maceradayken bir rotayı takip ederseniz bir kalp kazanabilirsiniz.
+
+RESOURCE ID: buddy_heart_play_route_together_title
+TEXT: Bir rotayı birlikte takip edin
 
 RESOURCE ID: buddy_hearts_label
 TEXT: Dost Kalpleri
@@ -13947,7 +14487,7 @@ RESOURCE ID: collection_challenge_ar_safari_pidgey
 TEXT: Takas Görevi: Pidgey
 
 RESOURCE ID: collection_challenge_event
-TEXT: Etkinlik Temalı Toplama Görevi
+TEXT: Etkinlik temalı toplama görevi
 
 RESOURCE ID: collection_twlantern2023
 TEXT: Tayvan Fener Festivali 2023
@@ -14807,6 +15347,9 @@ TEXT: Topluluk Günü: Noibat
 RESOURCE ID: community_day_oshawott_event_name
 TEXT: Topluluk Günü: Oshawott
 
+RESOURCE ID: community_day_poliwag_event_name
+TEXT: Topluluk Günü: Poliwag
+
 RESOURCE ID: community_day_porygon_event_name
 TEXT: Topluluk Günü: Porygon
 
@@ -14924,6 +15467,9 @@ TEXT: Kırmızı veya beyaz ışık PokéDurağa uzak olduğunuz veya Eşya Çan
 RESOURCE ID: complete_geotarget_quest
 TEXT: Bir AR Haritalama görevi tamamlayın
 
+RESOURCE ID: complete_route_travel_error_toast
+TEXT: Error completing Route
+
 RESOURCE ID: complete_transfer_in_ph_app
 TEXT: Lütfen Pokémon HOME'u açıp Pokémon’larınızı taşıma işlemini bitirin.
 
@@ -14953,6 +15499,9 @@ TEXT: {0}, maçı kazanana kadar kullanılabilir!
 
 RESOURCE ID: consume_combat_pass_warning_title
 TEXT: {0} kullanılsın mı?
+
+RESOURCE ID: contact_support
+TEXT: Contact Support
 
 RESOURCE ID: contest_badge_description
 TEXT: {0} PokéDurak müsabakası kazanın.
@@ -15285,6 +15834,9 @@ TEXT: Daha fazla PokéPara kazanmak için yarın yine gelin
 RESOURCE ID: daily_research_title
 TEXT: Günlük Araştırma
 
+RESOURCE ID: daily_route_play
+TEXT: Daily Route Play
+
 RESOURCE ID: dark_flames_dark_title
 TEXT: Karanlık Alev: Karanlık Türü Süreli Araştırması
 
@@ -15609,6 +16161,9 @@ TEXT: Dostunuzla 2× kalp kazanımı
 RESOURCE ID: download_all_assets_all_downloaded
 TEXT: Tüm varlıklar indirildi.
 
+RESOURCE ID: download_all_assets_checking_assets_indicator
+TEXT: Checking assets...
+
 RESOURCE ID: download_all_assets_complete_description
 TEXT: Tüm varlıklar cihazınıza başarıyla indirildi. Şimdi GİDELİM!
 
@@ -15667,6 +16222,9 @@ TEXT: Cihazın depolama alanı dolu olduğu için indirme tamamlanamadı. Lütfe
 
 RESOURCE ID: download_all_assets_title
 TEXT: Tüm Varlıkları İndir
+
+RESOURCE ID: download_all_assets_verifying_download_indicator
+TEXT: Verifying download...
 
 RESOURCE ID: download_all_assets_wifi_lost
 TEXT: Wi-Fi bağlantısı koptuğu için indirme tamamlanamadı. Lütfen bağlanıp yeniden deneyin.
@@ -15759,19 +16317,19 @@ RESOURCE ID: egg_walk_to_hatch
 TEXT: Yumurtayı çatlatmak için {0} km yürüyün!
 
 RESOURCE ID: eggs_10k_event
-TEXT: Etkinlik temalı 10 km'lik Yumurta
+TEXT: Etkinlik temalı 10 km'lik yumurtalar
 
 RESOURCE ID: eggs_2k_event
-TEXT: Etkinlik temalı 2 km'lik Yumurta
+TEXT: Etkinlik temalı 2 km'lik yumurtalar
 
 RESOURCE ID: eggs_5k_event
-TEXT: Etkinlik temalı 5 km'lik Yumurta
+TEXT: Etkinlik temalı 5 km'lik yumurtalar
 
 RESOURCE ID: eggs_7k_event
-TEXT: Etkinlik temalı 7 km'lik Yumurta
+TEXT: Etkinlik temalı 7 km'lik yumurtalar
 
 RESOURCE ID: eggs_event
-TEXT: Etkinlik temalı Yumurtalar
+TEXT: Etkinlik temalı yumurtalar
 
 RESOURCE ID: eggs_widget_title
 TEXT: Macera Senkronizasyonu: Yumurtalar
@@ -16658,6 +17216,12 @@ TEXT: Kalos Kutlaması Etkinliği
 RESOURCE ID: event_kanto_celebration
 TEXT: Kanto Kutlama Etkinliği
 
+RESOURCE ID: event_live_city_active_generic
+TEXT: Şehir Tecrübeniz aktif! Şehir içinde etkinliğe katılabilirsiniz. İyi eğlenceler!
+
+RESOURCE ID: event_live_park_active_generic
+TEXT: Park Tecrübeniz aktif! Parka giderek etkinliğe katılabilirsiniz. İyi eğlenceler!
+
 RESOURCE ID: event_mega_cp_bonus
 TEXT: Belirli Mega Evrimleşmiş Pokémon'lar için artırılmış DG
 
@@ -16711,6 +17275,9 @@ TEXT: Mitolojik Kılıç
 
 RESOURCE ID: event_name_bonus_generic
 TEXT: Bonus Etkinlik
+
+RESOURCE ID: event_name_routes
+TEXT: Hadi Herkes Yollara
 
 RESOURCE ID: event_name_snap
 TEXT: New Pokémon Snap Kutlaması
@@ -17485,6 +18052,10 @@ Pozu
 RESOURCE ID: f_avatar_poses_bundle_pose_52
 TEXT: Sörf Pozu
 
+RESOURCE ID: f_avatar_poses_bundle_pose_53
+TEXT: Hazine Haritası
+Pozu
+
 RESOURCE ID: f_avatar_poses_empty_bundle_pose_empty
 TEXT: Boşta
 
@@ -17562,7 +18133,7 @@ RESOURCE ID: fb_auth_error_no_email
 TEXT: Lütfen bir e-posta adresiyle ilişkilendirilmiş bir Facebook hesabı kullanın.
 
 RESOURCE ID: fb_auth_failed
-TEXT: Doğrulama başarısız. Lütfen tekrar deneyin.
+TEXT: Bu hesap doğrulanamadı. Lütfen daha sonra tekrar deneyin veya başka bir bağlı hesap deneyin.
 
 RESOURCE ID: fb_invite_add_friends
 TEXT: Facebook Arkadaşlarınızı Ekleyin
@@ -17779,7 +18350,7 @@ RESOURCE ID: filter_key_raid_mega
 TEXT: megaakın
 
 RESOURCE ID: filter_key_raid_primal
-TEXT: kadimakını
+TEXT: kadimakın
 
 RESOURCE ID: filter_key_raid_remote
 TEXT: uzakakın
@@ -18774,6 +19345,12 @@ TEXT: Solo Formu
 RESOURCE ID: form_zygarde_complete
 TEXT: Tamamlanmış Formu
 
+RESOURCE ID: form_zygarde_complete_fifty_percent
+TEXT: %50'lik Formu
+
+RESOURCE ID: form_zygarde_complete_ten_percent
+TEXT: %10'luk Formu
+
 RESOURCE ID: form_zygarde_fifty_percent
 TEXT: %50'lik Formu
 
@@ -19052,6 +19629,9 @@ TEXT: Parçalar birbirine uyuyor gibi!
 RESOURCE ID: full_inventory_text
 TEXT: DOLU
 
+RESOURCE ID: fullscreen_streak_title
+TEXT: 7-DAY BONUS
+
 RESOURCE ID: furfrou_heart_trim
 TEXT: Furfrou, Kalp Süslü formuna dönüşebilir
 
@@ -19102,6 +19682,9 @@ TEXT: GO Maç Ligi'nde 4× Yıldız Tozu ödülü
 
 RESOURCE ID: gbl_quintuple_dust_win
 TEXT: GO Maç Liginde 5× yıldız tozu ödülü
+
+RESOURCE ID: gbl_sets_extra_ten_total
+TEXT: 10 total sets of battles in the GO Battle League
 
 RESOURCE ID: gbl_sets_extra_three
 TEXT: GO Maç Ligi'nde 3 ekstra maç seti
@@ -19245,17 +19828,17 @@ RESOURCE ID: general1.ticket.2_eevet_title
 TEXT: Seçim Senin Bileti
 
 RESOURCE ID: general1.ticket.2_feb2023_description
-TEXT: Noibat Topluluk Günü özel araştırmasına dilediğiniz yerden katılmanıza olanak tanıyan bir bilet.
+TEXT: Noibat Topluluk Günü özel araştırmasına dilediğiniz yerden katılmanıza olanak tanıyan bir bilet.
 
 
-Araştırma ödülleri arasında şunlar yer alıyor:
+Araştırma ödülleri arasında şunlar yer alıyor:
 
-- Nadir Şeker ve Ultra Top gibi premium oyun içi eşyalar
+- Nadir Şeker ve Ultra Top gibi premium oyun içi eşyalar
 
-- Noibat ve evrimleriyle daha fazla karşılaşma fırsatı
+- Noibat ve evrimleriyle daha fazla karşılaşma fırsatı
 
 
-Ayrıntıları oyun içi Haberler bölümünde bulabilirsiniz.
+Ayrıntıları oyun içi Haberler bölümünde bulabilirsiniz.
 
 
 ÖZEL ETKİNLİĞE AİT TÜM BONUSLARI ALABİLMEK İÇİN OYUNU BELİRTİLEN SAATLERDE OYNAMALISINIZ.
@@ -19293,13 +19876,13 @@ RESOURCE ID: general1.ticket.2_giblt_title
 TEXT: Ufak Bir Isırık Bileti
 
 RESOURCE ID: general1.ticket.2_goldtr2023_description
-TEXT: Altına Hücum süreli araştırmasına katılmanıza olanak tanıyan bir bilet. Bu bilet, Caterpie, Magikarp, Nosepass, Sableye ve Barboach arasından seçeceğiniz bir Pokémon ile ek karşılaşma fırsatı da içerir.
+TEXT: Altına Hücum süreli araştırmasına katılmanıza olanak tanıyan bir bilet. Bu bilet, Caterpie, Magikarp, Nosepass, Sableye ve Barboach arasından seçeceğiniz bir Pokémon ile ek karşılaşma fırsatı da içerir.
 
 
-Bu süreli araştırma sırasında ortaya çıkan Pokémon’ların Parlak Pokémon olma ihtimali, etkinlik sırasında alan araştırması görevlerinde karşılaşılan Pokémon’ların Parlak Pokémon olma ihtimaline eşittir.
+Bu süreli araştırma sırasında ortaya çıkan Pokémon’ların Parlak Pokémon olma ihtimali, etkinlik sırasında alan araştırması görevlerinde karşılaşılan Pokémon’ların Parlak Pokémon olma ihtimaline eşittir.
 
 
-Bu süreli araştırma 3 Haziran 2023’te, yerel saatle 14.00-17.00 arasında gerçekleşecek. Ayrıntılar oyun içi Haberler bölümünde.
+Bu süreli araştırma 3 Haziran 2023’te, yerel saatle 14.00-17.00 arasında gerçekleşecek. Ayrıntılar oyun içi Haberler bölümünde.
 
 
 Özel etkinliğe ait tüm bonusları alabilmek için oyunu belirtilen saatlerde oynamalısınız.
@@ -19339,18 +19922,18 @@ RESOURCE ID: general1.ticket.2_jan2023_title
 TEXT: Tüyleri Diken Diken
 
 RESOURCE ID: general1.ticket.2_julycd2023_description
-TEXT: A ticket to access the Community Day: Poliwag Special Research on July 30, 2023, from 2:00 p.m. to 5:00 p.m. local time, wherever you are. 
- 
-Research rewards include: 
-- Premium in-game items, such as Rare Candies, Ultra Balls, and more 
-- Extra encounters with Poliwag and its Evolutions 
- 
-Details can be found in the in-game News. 
- 
-<b>You must play during the specified time to receive all the special event bonuses.</b>
+TEXT: 30 Temmuz 2023’te, yerel saatle 14.00-17.00 arasında gerçekleşecek Poliwag Topluluk Günü özel araştırmasına dilediğiniz yerden katılmanıza olanak tanıyan bir bilet. 
+
+Araştırma ödülleri arasında şunlar yer alıyor: 
+- Nadir Şeker ve Ultra Top gibi premium oyun içi eşyalar. 
+- Poliwag ve evrimleriyle daha fazla karşılaşma fırsatı. 
+
+Ayrıntıları oyun içi Haberler bölümünde bulabilirsiniz. 
+
+Özel etkinliğe ait tüm bonusları alabilmek için oyunu belirtilen saatlerde oynamalısınız.
 
 RESOURCE ID: general1.ticket.2_julycd2023_title
-TEXT: Poliwag Community Day Ticket
+TEXT: Sarsak Sarmal
 
 RESOURCE ID: general1.ticket.2_julycdc2023_description
 TEXT: 9 Temmuz 2023’te, yerel saatle 14.00 - 17.00 arasında gerçekleşecek Topluluk Günü Klasik: Squirtle özel araştırmasına dilediğiniz yerden katılmanıza olanak tanıyan bir bilet. 
@@ -19389,17 +19972,17 @@ RESOURCE ID: general1.ticket.2_larvitarcdc1_title
 TEXT: Larvitar Topluluk Günü Klasik Bileti
 
 RESOURCE ID: general1.ticket.2_larvitarcdc2_description
-TEXT: Larvitar Topluluk Günü Klasik özel araştırmasına dilediğiniz yerden katılmanıza olanak tanıyan bir bilet.
+TEXT: Larvitar Topluluk Günü Klasik özel araştırmasına dilediğiniz yerden katılmanıza olanak tanıyan bir bilet.
 
 
-Araştırma ödülleri arasında şunlar yer alıyor:
+Araştırma ödülleri arasında şunlar yer alıyor:
 
-- Nadir Şeker ve Ultra Top gibi premium oyun içi eşyalar
+- Nadir Şeker ve Ultra Top gibi premium oyun içi eşyalar
 
-- Larvitar ve evrimleriyle daha fazla karşılaşma fırsatı
+- Larvitar ve evrimleriyle daha fazla karşılaşma fırsatı
 
 
-Ayrıntıları oyun içi Haberler bölümünde bulabilirsiniz.
+Ayrıntıları oyun içi Haberler bölümünde bulabilirsiniz.
 
 
 ÖZEL ETKİNLİĞE AİT TÜM BONUSLARI ALABİLMEK İÇİN OYUNU BELİRTİLEN SAATLERDE OYNAMALISINIZ.
@@ -19455,6 +20038,17 @@ TÜM ÖZEL ETKİNLİK BONUSLARINI ALMAK İÇİN BELİRTİLEN SÜRE BOYUNCA OYUND
 
 RESOURCE ID: general1.ticket.2_oshat_title
 TEXT: Deniztarağından Deniz Kılıcına Bileti
+
+RESOURCE ID: general1.ticket.2_part2julycdc2023_description
+TEXT: 23 Temmuz 2023’te, yerel saatle 14.00-17.00 arasında gerçekleşecek Topluluk Günü Klasik: Squirtle özel araştırmasına dilediğiniz yerden katılmanıza olanak tanıyan bir bilet. 
+
+Araştırma ödülleri arasında şunlar yer alıyor: 
+- Nadir Şeker ve Ultra Top gibi premium oyun içi eşyalar 
+- Squirtle ve evrimleriyle daha fazla karşılaşma fırsatı. 
+
+Ayrıntıları oyun içi Haberler bölümünde bulabilirsiniz. 
+
+Özel etkinliğe ait tüm bonusları alabilmek için oyunu belirtilen saatlerde oynamalısınız.
 
 RESOURCE ID: general1.ticket.2_roset_description
 TEXT: Bu bilet 7 Şubat 2021 tarihinde yerel saatle 11:00 - 17:00 arasında Dur ve Roselia'yı Kokla Özel Araştırmasına katılmanıza olanak tanır. Detaylar, oyun içi Haberler'de bulunabilir.
@@ -19637,6 +20231,18 @@ TEXT: GO Maç Günü: Yıldız Tozu süreli araştırmasına katılmanıza olana
 RESOURCE ID: general1.ticket.gbweekend_bundle_title
 TEXT: GO Maç Günü: Yıldız Tozu Süreli Araştırması
 
+RESOURCE ID: general1.ticket.gofest2023_alldetails
+TEXT: 26-27 Ağustos 2023 tarihlerinde gerçekleşecek Pokémon GO Festivali 2023: Küresel etkinliği kapsamındaki özel araştırmaya dilediğiniz yerden katılmanıza olanak tanıyan bir bilet. Bu özel araştırmanın sonunda Mitolojik Pokémon Diancie ile özel bir karşılaşma bulunuyor! Bonus ve ödüller arasında ayrıca şunlar yer alıyor: 
+- Daha fazla Parlak Pokémon’la karşılaşma şansı 
+- Elit Güçlü TM, Elit Hızlı TM, Nadir Büyük Şeker gibi premium oyun içi eşyalar 
+- Özel bir avatar pozu ve avatar eşyası 
+- Spor salonlarındaki fotoğraf disklerini döndürerek 9 adede kadar ücretsiz Akın Bileti 
+- Rayquaza’ya Ejderha Yükselişi güçlü saldırısını öğreterek onu mega evrimleştirmek için kullanılabilecek bir Meteorit 
+ 
+Ayrıntıları oyun içi Haberler bölümünde bulabilirsiniz. 
+ 
+<b>Özel etkinliğe ait tüm bonusları alabilmek için oyunu belirtilen saatlerde oynamalısınız.</b>
+
 RESOURCE ID: general1.ticket.gofest2023_description
 TEXT: 26-27 Ağustos 2023 tarihlerinde gerçekleşecek Pokémon GO Festivali 2023: Küresel etkinliğine dilediğiniz yerden katılmanıza olanak tanıyan bir bilet. Ayrıntıları oyun içi Haberler bölümünde bulabilirsiniz.
 
@@ -19661,21 +20267,21 @@ RESOURCE ID: general1.ticket.gofest2023_title
 TEXT: Pokémon GO Festivali 2023: Küresel Bileti
 
 RESOURCE ID: general1.ticket.holiday2022_description
-TEXT: 15 Aralık 2022 Perşembe, yerel saatle 10.00 - 31 Aralık 2022 Cumartesi, yerel saatle 20.00 arasında gerçekleşecek süreli araştırmaya dilediğiniz yerden katılmanıza olanak tanıyan bir bilet. Süreli araştırmanın sonunda aşağıdaki ödülleri kazanabilirsiniz:
+TEXT: 15 Aralık 2022 Perşembe, yerel saatle 10.00 - 31 Aralık 2022 Cumartesi, yerel saatle 20.00 arasında gerçekleşecek süreli araştırmaya dilediğiniz yerden katılmanıza olanak tanıyan bir bilet. Süreli araştırmanın sonunda aşağıdaki ödülleri kazanabilirsiniz:
 
-
 
-Hediye Pozu
 
-İki Kuluçka Makinesi
+Hediye Pozu
 
-Bir Tütsü
+İki Kuluçka Makinesi
 
-
+Bir Tütsü
 
-ÖNEMLİ NOT: Süreli araştırmanın belirtilen tarih ve saatte sona ereceğini lütfen unutmayın. 31 Aralık 2022 Cumartesi, yerel saatle 20.00’den önce süreli araştırma görevlerinin tamamlanması ve ödüllerin alınması gerekmektedir.
 
-
+
+ÖNEMLİ NOT: Süreli araştırmanın belirtilen tarih ve saatte sona ereceğini lütfen unutmayın. 31 Aralık 2022 Cumartesi, yerel saatle 20.00’den önce süreli araştırma görevlerinin tamamlanması ve ödüllerin alınması gerekmektedir.
+
+
 
 Ayrıntıları oyun içi Haberler bölümünde bulabilirsiniz.
 
@@ -19701,25 +20307,25 @@ RESOURCE ID: general1.ticket.jirachimasterwork_title
 TEXT: Ustalık Araştırması: Dilek Gerçek Oldu
 
 RESOURCE ID: general1.ticket.keldeo_description
-TEXT: Sıradışı Bir Şey özel araştırmasına dilediğiniz yerden katılmanıza olanak tanıyan bir bilet. Özel araştırmanın sonunda Keldeo’nun Sıradan Formuyla karşılaşıp aşağıdaki ödülleri kazanabilirsiniz:
+TEXT: Sıradışı Bir Şey özel araştırmasına dilediğiniz yerden katılmanıza olanak tanıyan bir bilet. Özel araştırmanın sonunda Keldeo’nun Sıradan Formuyla karşılaşıp aşağıdaki ödülleri kazanabilirsiniz:
 
-
 
-Keldeo Tişörtü avatar eşyası
 
-14 Nadir Şeker
+Keldeo Tişörtü avatar eşyası
 
-12 Gümüş Pinap Meyvesi
+14 Nadir Şeker
 
-2 Kuluçka Makinesi
+12 Gümüş Pinap Meyvesi
 
-2 Süper Kuluçka Makinesi
+2 Kuluçka Makinesi
 
-2 Tütsü
+2 Süper Kuluçka Makinesi
 
-Çeşitli Dövüşçü ve Su türü Pokémon’larla karşılaşma
+2 Tütsü
 
-
+Çeşitli Dövüşçü ve Su türü Pokémon’larla karşılaşma
+
+
 
 Ayrıntıları oyun içi Haberler bölümünde bulabilirsiniz.
 
@@ -19778,21 +20384,33 @@ RESOURCE ID: general1.ticket.megahoenn_title
 TEXT: Hedef Hoenn Mega Akın Günü Bileti
 
 RESOURCE ID: general1.ticket.s10timed_description
-TEXT: Willow’un Gardırobu süreli araştırmasına dilediğiniz yerden katılmanıza olanak tanıyan bir bilet. Araştırma ödülleri arasında şunlar yer alıyor:
+TEXT: Willow’un Gardırobu süreli araştırmasına dilediğiniz yerden katılmanıza olanak tanıyan bir bilet. Araştırma ödülleri arasında şunlar yer alıyor:
 
 
-- Profesör Willow esinli avatar eşyaları
+- Profesör Willow esinli avatar eşyaları
 
-- Çifte Demir Darbe güçlü saldırısını bilen Melmetal ile karşılaşma fırsatı
+- Çifte Demir Darbe güçlü saldırısını bilen Melmetal ile karşılaşma fırsatı
 
 
-Bu süreli araştırma bileti 1 Haziran 2023, yerel saatle 10.00’a kadar satın alınabilecek ve 30 Haziran 2023, yerel saatle 10.00’da geçerliliğini yitirecek. Ayrıntılar oyun içi Haberler bölümünde.
+Bu süreli araştırma bileti 1 Haziran 2023, yerel saatle 10.00’a kadar satın alınabilecek ve 30 Haziran 2023, yerel saatle 10.00’da geçerliliğini yitirecek. Ayrıntılar oyun içi Haberler bölümünde.
 
 
 Özel etkinliğe ait tüm bonusları alabilmek için oyunu belirtilen saatlerde oynamalısınız.
 
 RESOURCE ID: general1.ticket.s10timed_title
 TEXT: Willow’un Gardırobu
+
+RESOURCE ID: general1.ticket_adventureweek2023_description
+TEXT: Macera Haftası süreli araştırmasına katılmanıza olanak tanıyan bir bilet. Bu bilet Tyrunt veya Amaura ile ek karşılaşma fırsatı da içerir.
+
+Bu süreli araştırma sırasında ortaya çıkan Pokémon’ların Parlak Pokémon olma ihtimali, etkinlik sırasında doğada karşılaşılan Pokémon’ların Parlak Pokémon olma ihtimaline eşittir.
+
+Bu süreli araştırma 27 Temmuz 2023, yerel saatle 10.00 - 2 Ağustos 2023, yerel saatle 20.00 arasında gerçekleşecek. Ayrıntıları oyun içi Haberler bölümünde bulabilirsiniz.
+
+Özel etkinliğe ait tüm bonusları alabilmek için oyunu belirtilen saatlerde oynamalısınız.
+
+RESOURCE ID: general1.ticket_adventureweek2023_title
+TEXT: Macera Haftası 2023 Süreli Araştırma Bileti
 
 RESOURCE ID: general1.ticket_cosmog2023_description
 TEXT: 16 Haziran 2023 Cuma, yerel saatle 10.00 - 25 Haziran 2023 Pazar, yerel saatle 20.00 arasında gerçekleşecek Yıldızlı Gökyüzü özel araştırmasının ek görevlerine dilediğiniz yerden katılmanıza olanak tanıyan bir bilet. Bu özel araştırmada bir Cosmog ile daha karşılaşma fırsatı elde edebilirsiniz!
@@ -19822,6 +20440,9 @@ TEXT: ve {0}
 
 RESOURCE ID: general_attack
 TEXT: Saldırı
+
+RESOURCE ID: general_back
+TEXT: Geri
 
 RESOURCE ID: general_battle
 TEXT: MAÇ
@@ -19928,6 +20549,9 @@ TEXT: veya
 RESOURCE ID: general_paste
 TEXT: Yapıştır
 
+RESOURCE ID: general_player_guidelines
+TEXT: Player Guidelines
+
 RESOURCE ID: general_pokemon
 TEXT: Pokémon
 
@@ -19960,6 +20584,12 @@ TEXT: Geç
 
 RESOURCE ID: general_stamina
 TEXT: SP
+
+RESOURCE ID: general_submit
+TEXT: Onayla
+
+RESOURCE ID: general_submit_an_appeal
+TEXT: Submit an Appeal
 
 RESOURCE ID: general_total_caps
 TEXT: TOPLAM
@@ -20086,7 +20716,7 @@ RESOURCE ID: gift_sent_toast
 TEXT: Hediye gönderildi!
 
 RESOURCE ID: gift_storage_double
-TEXT: Eşya Çantanızda 2× Hediye bulundurun
+TEXT: Eşya Çantasında 2x Hediye bulundurun
 
 RESOURCE ID: gift_storage_one_and_half
 TEXT: Eşya Çantanızda 1,5× hediye bulundurun
@@ -22050,6 +22680,718 @@ TEXT: Go Festivali 2022: Tundra Habitatı
 RESOURCE ID: gofest2022_tundra_description
 TEXT: Tundra habitatı saatinde ortaya çıkan bu Pokémon'ları yakalayın!
 
+RESOURCE ID: gofest2023
+TEXT: Pokémon GO Festivali 2023
+
+RESOURCE ID: gofest2023_aquamarine_shores
+TEXT: Turkuaz Kıyılar Toplama Görevi
+
+RESOURCE ID: gofest2023_aquamarine_shores_description
+TEXT: Bu Pokémon’ları Turkuaz Kıyılar habitatında yakalayın!
+
+RESOURCE ID: gofest2023_city_0_1
+TEXT: Seni görmek ne güzel %PLAYERNAME%!
+
+RESOURCE ID: gofest2023_city_0_2
+TEXT: Şehrin farklı noktalarına garip meteoritlerin düştüğüne dair raporlar aldım. Böyle olağandışı olaylar genellikle etrafta olağandışı Pokémon’lar olduğu anlamına gelir!
+
+RESOURCE ID: gofest2023_city_0_3
+TEXT: Bu durumda söz konusu olan Pokémon Mega Rayquaza. Bugün ona çoktan rastlamış olabilirsin bile!
+
+RESOURCE ID: gofest2023_city_0_4
+TEXT: Geçenlerde diğer araştırmacılardan şöyle bir teori duymuştum: Rayquaza belirli bazı meteoritleri gördüğünde Ejderha Yükselişi’ni hatırlıyormuş.
+
+RESOURCE ID: gofest2023_city_0_5
+TEXT: Ejderha Yükselişi ile ilgili bir diğer etkileyici bilgi de Rayquaza’nın mega evrimleşmesini sağlıyor olması!
+
+RESOURCE ID: gofest2023_city_0_6
+TEXT: Ne kadar ilginç, değil mi? İnsan ister istemez bazı meteoritleri bu kadar özel yapan şeyin ne olduğunu merak ediyor. Tam da bu yüzden takım liderlerinden bu bölgede örnek toplamama yardım etmelerini istedim!
+
+RESOURCE ID: gofest2023_city_0_7
+TEXT: Artık sen de burada olduğuna göre arama ekibine katılmak istemez misin? Hem bu arada Mega Rayquaza hakkındaki bilgini de artırmış olursun!
+
+RESOURCE ID: gofest2023_city_0_8
+TEXT: Bir maceraya atılırken hazırlıklı olmak çok önemlidir, onun için sana tavsiyem Dost Pokémon’unla birlikte önce bir şeyler atıştırmanız. Önünüzde uzun ve zorlu bir gün var %PLAYERNAME%!
+
+RESOURCE ID: gofest2023_city_1_1
+TEXT: Selam %PLAYERNAME%!
+
+RESOURCE ID: gofest2023_city_1_2
+TEXT: Burada ne kadar çok Eğitmen var böyle. Bu hareketlilik benim de içimi enerjiyle doldurdu!
+
+RESOURCE ID: gofest2023_city_1_3
+TEXT: Ama beni en çok heyecanlandıran ne, biliyor musun? İki kelime: Mega. Rayquaza! Pokémon maçları benim en çok ilgimi çeken şeyler ve Mega Rayquaza maçlarda gerçekten çok güçlü!
+
+RESOURCE ID: gofest2023_city_1_4
+TEXT: Hatta Hoenn bölgesinden bazı kişiler Mega Rayquaza’nın hem Kadim Groudon hem de Kadim Kyogre’ları geri püskürtecek kadar güçlü olduğunu söylüyorlar.
+
+RESOURCE ID: gofest2023_city_1_5
+TEXT: Bu kadar güçlü bir Pokémon’u maçta görmeyi iple çekiyorum. Ya sen?
+
+RESOURCE ID: gofest2023_city_1_6
+TEXT: Hah, o halde şimdi tam zamanı! Mega Rayquaza şuradaki spor salonuna iniş yapmış gibi görünüyor! 
+
+RESOURCE ID: gofest2023_city_1_7
+TEXT: Benim takımım gitmek için sabırsızlanıyor. Seninki ne âlemde? Mega evrimleşmiş bir Efsanevi Pokémon’la mücadeleye hazırlar mı dersin?
+
+RESOURCE ID: gofest2023_city_1_8
+TEXT: Gitmeden önce sana bir taktik vereyim: Maçı kızıştırmak için süper etkili bir güçlü saldırı kullanabilirsin!
+
+RESOURCE ID: gofest2023_city_1_9
+TEXT: Tamam o zaman. Hadi başlayalım %PLAYERNAME%!
+
+RESOURCE ID: gofest2023_city_2_1
+TEXT: Ooo naber %PLAYERNAME%?
+
+RESOURCE ID: gofest2023_city_2_2
+TEXT: Profesör Willow’un meteorit bulmasına mı yardım ediyorsun?
+
+RESOURCE ID: gofest2023_city_2_3
+TEXT: Aynen, ben de öyle! Aramızda kalsın ama bu arada yol üstündeki popüler restoranların hepsine de uğruyorum.
+
+RESOURCE ID: gofest2023_city_2_4
+TEXT: Daha demin acayip iyi görünen bir bubble tea’cinin önünden geçtim. Burada işimiz bittiğinde gidip birer tane alalım mı?
+
+RESOURCE ID: gofest2023_city_2_5
+TEXT: Ama önce meteoritlere bakalım. Biraz önce sokağa birkaç tane düştüğünü gördüm. Ben oradakileri toplarken sen de şu ileride aramaya devam et istersen.
+
+RESOURCE ID: gofest2023_city_2_6
+TEXT: Gitmeden önce Kuluçka Makinesine bir yumurta koymayı unutma! Hem yumurta çatlat hem de meteorit... Patlat? Pek olmadı ama neyse.
+
+RESOURCE ID: gofest2023_city_2_7
+TEXT: Hadi bakalım, ben kaçtım! İşimiz bittiğinde bubble tea’ler benden kanka! 
+
+RESOURCE ID: gofest2023_city_3_1
+TEXT: Merhaba %PLAYERNAME%.
+
+RESOURCE ID: gofest2023_city_3_10
+TEXT: Sana güvenim sonsuz %PLAYERNAME%.
+
+RESOURCE ID: gofest2023_city_3_2
+TEXT: Buraya gelirken meteorun düşme ihtimali olan noktayı bulmak için yaptığım hesaplamada, radar verileri...
+
+RESOURCE ID: gofest2023_city_3_3
+TEXT: ...gezegenin dönüş yönü, mevcut atmosferik koşullar, Pidgey’lerin göç rotaları ve benzeri değişkenleri göz önünde bulundurdum.
+
+RESOURCE ID: gofest2023_city_3_4
+TEXT: Sanıyorum sen de aynı metodu izledin, öyle değil mi?
+
+RESOURCE ID: gofest2023_city_3_5
+TEXT: Hayır mı? Ne yani, buraya gelmek “içinden mi geldi”?
+
+RESOURCE ID: gofest2023_city_3_6
+TEXT: Enteresan... Demek öyle de oluyormuş.
+
+RESOURCE ID: gofest2023_city_3_7
+TEXT: Yolunu nasıl bulmuş olursan ol şu anda burada olman harika bir tesadüf.
+
+RESOURCE ID: gofest2023_city_3_8
+TEXT: Mega Rayquaza yakınlardaki bulutların arasında görülmüş.
+
+RESOURCE ID: gofest2023_city_3_9
+TEXT: Ben burada meteorit toplamakla meşgul olduğum için Mega Rayquaza’yı gözlemleme görevini senin üstlenmeni rica ediyorum. Belki onunla bir maç bile yapabilirsin.
+
+RESOURCE ID: gofest2023_city_4_1
+TEXT: Tekrar hoş geldin %PLAYERNAME%!
+
+RESOURCE ID: gofest2023_city_4_2
+TEXT: Görüyorum ki birkaç meteorit toplamışsın. Aferin sana! Meteoritlerin arasında bir yıldız gibi parladın! Haha.
+
+RESOURCE ID: gofest2023_city_4_3
+TEXT: Keşiflerin sırasında Mega Rayquaza’ya rastladın mı peki?
+
+RESOURCE ID: gofest2023_city_4_4
+TEXT: Şahane! Sen de biliyorsundur ki mega evrim yalnızca güç kazanmak için değildir, aynı zamanda Pokémon’unla arandaki bağla da yakından ilgilidir.
+
+RESOURCE ID: gofest2023_city_4_5
+TEXT: Rayquaza hakkındaki bilgilerini artırmak ve o garip meteoritleri toplamak için çok çaba sarf ettin. 
+
+RESOURCE ID: gofest2023_city_4_6
+TEXT: Eminim Rayquaza da azminden en az benim kadar etkilenmiştir! Ve eminim eline fırsat geçerse Rayquaza’yı kolaylıkla mega evrimleştirebilirsin.
+
+RESOURCE ID: gofest2023_city_4_7
+TEXT: Şimdilik benden bu kadar. Araştırmama yardım ettiğin için çok teşekkürler! Kendine iyi bak!
+
+RESOURCE ID: gofest2023_city_session
+TEXT: Pokémon GO Festivali 2023: Şehir Tecrübesi
+
+RESOURCE ID: gofest2023_content_hashtag
+TEXT: #PokemonGOFest2023 etiketiyle fotoğraf atın, aralarından beğendiklerimizi paylaşalım!
+
+RESOURCE ID: gofest2023_extended_bonus_session
+TEXT: Pokémon GO Festivali 2023: Uzun Süreli
+
+RESOURCE ID: gofest2023_free_rayquaza_0_1
+TEXT: Pokémon GO Festivali’nin bir heyecan dolu gününe daha hoş geldin %PLAYERNAME%!
+
+RESOURCE ID: gofest2023_free_rayquaza_0_2
+TEXT: Bugün yeteri kadar maceralı değilmiş gibi, sana bir haberim daha var. Dünyanın her yerinde ortaya çıkan Mega Rayquaza sayısında hızlı bir artış görülüyor!
+
+RESOURCE ID: gofest2023_free_rayquaza_0_3
+TEXT: İnanabiliyor musun buna? Rayquaza genellikle atmosferin üst katmanlarında yaşar, o yüzden de ona rastlamak müthiş bir sürpriz.
+
+RESOURCE ID: gofest2023_free_rayquaza_0_4
+TEXT: Acaba daha evvel gördüğüm meteor yağmuruyla bir ilgisi olabilir mi? Yakınlara düşen meteoritleri gördün mü?
+
+RESOURCE ID: gofest2023_free_rayquaza_0_5
+TEXT: Geçenlerde Rayquaza’nın bu meteoritlerden birini görmesinin gizemli olaylara yol açtığını öğrendim. Ooo, bak nasıl da ilgini çekti bu!
+
+RESOURCE ID: gofest2023_free_rayquaza_0_6
+TEXT: Mega Rayquaza’yı ya da meteoritleri kendi gözlerinle gördüğünde sana daha fazla bilgi vereceğim.
+
+RESOURCE ID: gofest2023_free_rayquaza_1_1
+TEXT: Tekrar hoş geldin %PLAYERNAME%!
+
+RESOURCE ID: gofest2023_free_rayquaza_1_2
+TEXT: Mega Rayquaza’ya ya da garip meteoritlerden birine rastladın mı? Sana bu tuhaf uzay taşları hakkında ilginç bilgiler vereceğime söz vermiştim sanırım.
+
+RESOURCE ID: gofest2023_free_rayquaza_1_3
+TEXT: Biliyorsun ki mega evrim bir Pokémon ile kurulan ilişkiyle birlikte güç kazanan bir dönüşümdür. Ama Mega Rayquaza’nın bir özelliği daha var: Mega evrimleşebilmek için ayrıca Ejderha Yükselişi hareketini de bilmesi gerekiyor.
+
+RESOURCE ID: gofest2023_free_rayquaza_1_4
+TEXT: Bir de şu var: Rayquaza Ejderha Yükselişi’ni kullanmayı ancak bazı meteoritleri gördükten sonra hatırlayabiliyor. Ne kadar ilginç, değil mi?
+
+RESOURCE ID: gofest2023_free_rayquaza_1_5
+TEXT: Bugün yapılacak bir dolu şey var zaten, ama şu meteoritlerden birini görürsen ve Rayquaza’yla kurduğun bağa güveniyorsan...
+
+RESOURCE ID: gofest2023_free_rayquaza_1_6
+TEXT: Mega evrimine bizzat şahit olabilirsin belki!
+
+RESOURCE ID: gofest2023_free_rayquaza_1_7
+TEXT: Neyse, seni çok tuttum. Vakit kaybetmeden etkinliğe katıl hadi.
+
+RESOURCE ID: gofest2023_free_rayquaza_1_8
+TEXT: Umarım günün de senin kadar şahane geçer %PLAYERNAME%! Hadi GİDELİM!
+
+RESOURCE ID: gofest2023_global_diancie_0_1
+TEXT: Merhaba %PLAYERNAME%! Pokémon GO Festivali 2023’e hoş geldin!
+
+RESOURCE ID: gofest2023_global_diancie_0_2
+TEXT: Ne bulduğumu söylesem inanmazsın... Bir hazine haritası daha! Bakayım bu harita hangi hazinenin yerini gösteriyor...
+
+RESOURCE ID: gofest2023_global_diancie_0_3
+TEXT: Pikachu şeklinde Pofinlerden oluşan bir tepe mi?
+
+RESOURCE ID: gofest2023_global_diancie_0_4
+TEXT: Ay pardon, yanlış harita. Hah işte, bu! Burada yazılanlara göre, bu harita “tüm hazinelerin en güzeli”nin yerini gösteriyormuş.
+
+RESOURCE ID: gofest2023_global_diancie_0_5
+TEXT: Sence bu hazine ne olabilir %PLAYERNAME%? Bir Pokémon mu? Ya da parıldayan bir cevher? Yoksa buz gibi Pinap suyuyla dolu devasa bir göl mü?
+
+RESOURCE ID: gofest2023_global_diancie_0_6
+TEXT: Cevabı bulmanın tek bir yolu var: Bu haritayı takip etmek!
+
+RESOURCE ID: gofest2023_global_diancie_0_7
+TEXT: Harita bizi ilk olarak şuradaki PokéDuraklara doğru yönlendiriyor. Hadi GİDELİM!
+
+RESOURCE ID: gofest2023_global_diancie_1_1
+TEXT: Oh be! Kan dolaşımını hızlandırmak için şöyle hızlı bir yürüyüş gibisi yok, ne dersin %PLAYERNAME%?
+
+RESOURCE ID: gofest2023_global_diancie_1_2
+TEXT: Buraya gelirken birkaç da Pokémon yakaladın, öyle mi? Umarım onları incelememe izin verirsin!
+
+RESOURCE ID: gofest2023_global_diancie_1_3
+TEXT: Görünüşe göre elimizdeki harita sonraki aşamayla ilgili çok net bir şey söylemiyor. Yalnızca bu çevrede bulunan birkaç Pokémon’un çizimleri var.
+
+RESOURCE ID: gofest2023_global_diancie_1_4
+TEXT: Belki onlardan birini takip edersek bizi gitmemiz gereken tarafa yönlendirirler!
+
+RESOURCE ID: gofest2023_global_diancie_1_5
+TEXT: Bak, hem de biraz ileride bir sürü Pokémon var. Gidip onlarla tanışalım mı, ne dersin?
+
+RESOURCE ID: gofest2023_global_diancie_2_1
+TEXT: Nasıl Pokémon’lar yakalamışsın öyle %PLAYERNAME%! Hepsi birbirinden canlı.
+
+RESOURCE ID: gofest2023_global_diancie_2_2
+TEXT: Pokémon GO Festivali’ne de böyle canlı ve heyecanlı Pokémon’lar yaraşır zaten! Haha.
+
+RESOURCE ID: gofest2023_global_diancie_2_3
+TEXT: Bizi getirdikleri yere baktığımda içimden bir ses hazineye yaklaştığımızı söylüyor! Şimdi sıra bir sonraki aşamada...
+
+RESOURCE ID: gofest2023_global_diancie_2_4
+TEXT: Bir bakalım. Henüz çok da yaklaşmamışız aslında. Bir sonraki durak oldukça uzakta görünüyor.
+
+RESOURCE ID: gofest2023_global_diancie_2_5
+TEXT: Ama işe iyi tarafından bakalım bence! Mesafe uzadıkça çatlatabileceğimiz yumurta sayısı da artacak mesela.
+
+RESOURCE ID: gofest2023_global_diancie_2_6
+TEXT: Bu arada Dost Pokémon’un da biraz bacaklarını çalıştırır. Meltan öyle yapacak muhtemelen. Gerçi bacağı yok ama lafın gelişi işte.
+
+RESOURCE ID: gofest2023_global_diancie_3_1
+TEXT: Of, nefes nefese kaldım. Epey yol katettik ama %PLAYERNAME%!
+
+RESOURCE ID: gofest2023_global_diancie_3_2
+TEXT: Biraz mola verelim mi? Hakikaten yorulduk ama neyse ki bir sonraki aşamada hareket etmemize bile gerek olmayacak!
+
+RESOURCE ID: gofest2023_global_diancie_3_3
+TEXT: Şuraya baksana. Haritadaki bu çizimde Eevee ve etrafında da bütün evrimleri var.
+
+RESOURCE ID: gofest2023_global_diancie_3_4
+TEXT: Eevee’nin en benzersiz özelliklerinden biri de birden fazla Pokémon’a evrilebilmesidir.
+
+RESOURCE ID: gofest2023_global_diancie_3_5
+TEXT: Belki bizim de birkaç Pokémon evrimleştirmemiz gerektiği anlamına geliyordur bu çizimler. Hadi bir deneyip görelim.
+
+RESOURCE ID: gofest2023_global_diancie_4_1
+TEXT: Aman da aman %PLAYERNAME%!
+
+RESOURCE ID: gofest2023_global_diancie_4_2
+TEXT: Şu pembe mücevherlerin güzelliğine bak! Nasıl da göz kamaştırıyorlar. Ancak Mitolojik Pokémon Diancie’ye ait olabilir bunlar!
+
+RESOURCE ID: gofest2023_global_diancie_4_3
+TEXT: Diğer araştırmacıların bu güzelliğe bayıldığını zaten biliyordum ama şimdi Diancie’yi kendi gözlerimle gördükten sonra ben de onlara katılıyorum!
+
+RESOURCE ID: gofest2023_global_diancie_4_4
+TEXT: Söylenenlere göre Diancie bir karbon parçasını ellerinin arasında sıkıştırarak anında bir sürü pırlanta oluşturabiliyormuş.
+
+RESOURCE ID: gofest2023_global_diancie_4_5
+TEXT: Düşünsene, ışıldayan pırlanta yağmuru altında bir Diancie! Buna şahit olmak ne harika olurdu.
+
+RESOURCE ID: gofest2023_global_diancie_4_6
+TEXT: Çabalarımız güzel bir sonuç doğurdu. Bu Pokémon gerçekten de hazinelerin en güzeli!
+
+RESOURCE ID: gofest2023_global_diancie_4_7
+TEXT: Biliyor musun, daha yolun sonuna ulaşmadık bile! Bir aşama daha kaldı.
+
+RESOURCE ID: gofest2023_global_diancie_4_8
+TEXT: Hım... Burada şöyle diyor.
+“Parıl parıl parlat cevherlerini, bileği taşınla uçur perileri ve kayalardan ör siperleri.”
+
+RESOURCE ID: gofest2023_global_diancie_4_9
+TEXT: Sanki Diancie’nin türlerinden bahsediyor gibi, değil mi? E hadi, Kaya ve Peri türünden birkaç Pokémon güçlendirelim!
+
+RESOURCE ID: gofest2023_global_diancie_5_1
+TEXT: O ne, bir mücevher mi %PLAYERNAME%? Aa, hayır... Diancie mega enerjisi bu sanırım!
+
+RESOURCE ID: gofest2023_global_diancie_5_2
+TEXT: Harika! Mega evrimleştiğinde Diancie’nin nasıl değişeceğini görmek için sabırsızlanıyorum. Muhtemelen daha da güzelleşecek!
+
+RESOURCE ID: gofest2023_global_diancie_5_3
+TEXT: Zaten beraber ışıltılarla dolu uzun bir gün geçirdik, onun için senden hemen bu araştırmaya devam etmeni istemeyeceğim.
+
+RESOURCE ID: gofest2023_global_diancie_5_4
+TEXT: Onun yerine yeni Pokémon arkadaşınla biraz zaman geçirebilirsin mesela. Eğer mega evrim geçirirse öğrendiklerini benimle paylaşmayı unutma ama!
+
+RESOURCE ID: gofest2023_global_diancie_5_5
+TEXT: Tamam mı? Aferin! Sen de Diancie gibi bir pırlantasın %PLAYERNAME%.
+
+RESOURCE ID: gofest2023_global_diancie_5_6
+TEXT: Bir dahaki sefere görüşmek üzere... Hadi GİDELİM!
+
+RESOURCE ID: gofest2023_habitat_athletic_field
+TEXT: Spor Sahası
+
+RESOURCE ID: gofest2023_habitat_athletic_field_description
+TEXT: Bu Pokémon’ları Spor Sahası habitatında yakalayın!
+
+RESOURCE ID: gofest2023_habitat_cursed_treasures
+TEXT: Lanetli Hazine
+
+RESOURCE ID: gofest2023_habitat_cursed_treasures_description
+TEXT: Bu Pokémon’ları Lanetli Hazine habitatında yakalayın!
+
+RESOURCE ID: gofest2023_habitat_dark_jungle
+TEXT: Karanlık Orman
+
+RESOURCE ID: gofest2023_habitat_dark_jungle_description
+TEXT: Bu Pokémon’ları Karanlık Orman habitatında yakalayın!
+
+RESOURCE ID: gofest2023_habitat_fairy_garden
+TEXT: Sihirli Bahçe
+
+RESOURCE ID: gofest2023_habitat_fairy_garden_description
+TEXT: Bu Pokémon’ları Sihirli Bahçe habitatında yakalayın!
+
+RESOURCE ID: gofest2023_habitat_hypnotic_glacier
+TEXT: Büyülü Buzul
+
+RESOURCE ID: gofest2023_habitat_hypnotic_glacier_description
+TEXT: Bu Pokémon’ları Büyülü Buzul habitatında yakalayın!
+
+RESOURCE ID: gofest2023_habitat_poison_swamp
+TEXT: Zehirli Bataklık
+
+RESOURCE ID: gofest2023_habitat_poison_swamp_description
+TEXT: Bu Pokémon’ları Zehirli Bataklık habitatında yakalayın!
+
+RESOURCE ID: gofest2023_habitat_prehistoric_volcano
+TEXT: Antik Yanardağ
+
+RESOURCE ID: gofest2023_habitat_prehistoric_volcano_description
+TEXT: Bu Pokémon’ları Antik Yanardağ habitatında yakalayın!
+
+RESOURCE ID: gofest2023_habitat_volcanic_island
+TEXT: Volkanik Ada
+
+RESOURCE ID: gofest2023_habitat_volcanic_island_description
+TEXT: Bu Pokémon’ları Volkanik Ada habitatında yakalayın!
+
+RESOURCE ID: gofest2023_hatch_add_on
+TEXT: Pokémon GO Festivali 2023: Yumurta Meraklısı
+
+RESOURCE ID: gofest2023_hour_habitat1
+TEXT: Şimdi: Billur Teraryum habitatı!
+
+RESOURCE ID: gofest2023_hour_habitat2
+TEXT: Şimdi: Kehribar Kumlar habitatı!
+
+RESOURCE ID: gofest2023_hour_habitat3
+TEXT: Şimdi: Zümrüt Kırlar habitatı!
+
+RESOURCE ID: gofest2023_hour_habitat4
+TEXT: Şimdi: Turkuaz Kıyılar habitatı!
+
+RESOURCE ID: gofest2023_live_city_active_london
+TEXT: GO Festivali Park Tecrübeniz aktif! Brockwell Park’a giderek oynayabilirsiniz!
+
+RESOURCE ID: gofest2023_live_city_active_newyork
+TEXT: GO Festivali Park Tecrübeniz aktif! Randall’s Island Park’a giderek oynayabilirsiniz!
+
+RESOURCE ID: gofest2023_live_city_active_osaka
+TEXT: GO Festivali Park Tecrübeniz aktif! Expo ’70 Commemorative Park’a giderek oynayabilirsiniz!
+
+RESOURCE ID: gofest2023_live_habitat_athletic_field
+TEXT: Şu anki habitat: Spor Sahası
+
+RESOURCE ID: gofest2023_live_habitat_cursed_treasures
+TEXT: Şu anki habitat: Lanetli Hazine
+
+RESOURCE ID: gofest2023_live_habitat_dark_jungle
+TEXT: Şu anki habitat: Karanlık Orman
+
+RESOURCE ID: gofest2023_live_habitat_fairy_garden
+TEXT: Şu anki habitat: Sihirli Bahçe
+
+RESOURCE ID: gofest2023_live_habitat_hypnotic_glacier
+TEXT: Şu anki habitat: Büyülü Buzul
+
+RESOURCE ID: gofest2023_live_habitat_poison_swamp
+TEXT: Şu anki habitat: Zehirli Bataklık
+
+RESOURCE ID: gofest2023_live_habitat_prehistoric_volcano
+TEXT: Şu anki habitat: Antik Yanardağ
+
+RESOURCE ID: gofest2023_live_habitat_volcanic_island
+TEXT: Şu anki habitat: Volkanik Ada
+
+RESOURCE ID: gofest2023_live_london_city
+TEXT: Pokémon GO Festivali 2023: Londra—Şehir Tecrübesi
+
+RESOURCE ID: gofest2023_live_london_park
+TEXT: Pokémon GO Festivali 2023: Londra—Park Tecrübesi
+
+RESOURCE ID: gofest2023_live_newyork_city
+TEXT: Pokémon GO Festivali 2023: New York—Şehir Tecrübesi
+
+RESOURCE ID: gofest2023_live_newyork_park
+TEXT: Pokémon GO Festivali 2023: New York—Park Tecrübesi
+
+RESOURCE ID: gofest2023_live_osaka_city
+TEXT: Pokémon GO Festivali 2023: Osaka—Şehir Tecrübesi
+
+RESOURCE ID: gofest2023_live_osaka_park
+TEXT: Pokémon GO Festivali 2023: Osaka—Park Tecrübesi
+
+RESOURCE ID: gofest2023_live_park_active_london
+TEXT: GO Festivali Şehir Tecrübeniz aktif! Londra sınırları içinde oynayabilirsiniz!
+
+RESOURCE ID: gofest2023_live_park_active_newyork
+TEXT: GO Festivali Şehir Tecrübeniz aktif! New York şehri içinde oynayabilirsiniz!
+
+RESOURCE ID: gofest2023_live_park_active_osaka
+TEXT: GO Festivali Şehir Tecrübeniz aktif! Osaka sınırları içinde oynayabilirsiniz!
+
+RESOURCE ID: gofest2023_live_preview_city_0804
+TEXT: Hatırlatma: Pokémon GO Festivali 2023 Şehir Tecrübeniz 4 Ağustos Cuma, 09.00-19.00 arasında gerçekleşecek!
+
+RESOURCE ID: gofest2023_live_preview_city_0805
+TEXT: Hatırlatma: Pokémon GO Festivali 2023 Şehir Tecrübeniz 5 Ağustos Cumartesi, 09.00-19.00 arasında gerçekleşecek!
+
+RESOURCE ID: gofest2023_live_preview_city_0806
+TEXT: Hatırlatma: Pokémon GO Festivali 2023 Şehir Tecrübeniz 6 Ağustos Pazar, 09.00-19.00 arasında gerçekleşecek!
+
+RESOURCE ID: gofest2023_live_preview_city_0818
+TEXT: Hatırlatma: Pokémon GO Festivali 2023 Şehir Tecrübeniz 18 Ağustos Cuma, 09.00-19.00 arasında gerçekleşecek!
+
+RESOURCE ID: gofest2023_live_preview_city_0819
+TEXT: Hatırlatma: Pokémon GO Festivali 2023 Şehir Tecrübeniz 19 Ağustos Cumartesi, 09.00-19.00 arasında gerçekleşecek!
+
+RESOURCE ID: gofest2023_live_preview_city_0820
+TEXT: Hatırlatma: Pokémon GO Festivali 2023 Şehir Tecrübeniz 20 Ağustos Pazar, 09.00-19.00 arasında gerçekleşecek!
+
+RESOURCE ID: gofest2023_live_preview_park_afternoon_0804
+TEXT: Hatırlatma: Pokémon GO Festivali 2023 Park Tecrübeniz 4 Ağustos Cuma, 14.30-19.00 arasında gerçekleşecek!
+
+RESOURCE ID: gofest2023_live_preview_park_afternoon_0805
+TEXT: Hatırlatma: Pokémon GO Festivali 2023 Park Tecrübeniz 5 Ağustos Cumartesi, 14.30-19.00 arasında gerçekleşecek!
+
+RESOURCE ID: gofest2023_live_preview_park_afternoon_0806
+TEXT: Hatırlatma: Pokémon GO Festivali 2023 Park Tecrübeniz 6 Ağustos Pazar, 14.30-19.00 arasında gerçekleşecek!
+
+RESOURCE ID: gofest2023_live_preview_park_afternoon_0818
+TEXT: Hatırlatma: Pokémon GO Festivali 2023 Park Tecrübeniz 18 Ağustos Cuma, 15.00-19.00 arasında gerçekleşecek!
+
+RESOURCE ID: gofest2023_live_preview_park_afternoon_0819
+TEXT: Hatırlatma: Pokémon GO Festivali 2023 Park Tecrübeniz 19 Ağustos Cumartesi, 15.00-19.00 arasında gerçekleşecek!
+
+RESOURCE ID: gofest2023_live_preview_park_afternoon_0820
+TEXT: Hatırlatma: Pokémon GO Festivali 2023 Park Tecrübeniz 20 Ağustos Pazar, 15.00-19.00 arasında gerçekleşecek!
+
+RESOURCE ID: gofest2023_live_preview_park_morning_0804
+TEXT: Hatırlatma: Pokémon GO Festivali 2023 Park Tecrübeniz 4 Ağustos Cuma, 09.00-13.30 arasında gerçekleşecek!
+
+RESOURCE ID: gofest2023_live_preview_park_morning_0805
+TEXT: Hatırlatma: Pokémon GO Festivali 2023 Park Tecrübeniz 5 Ağustos Cumartesi, 09.00-13.30 arasında gerçekleşecek!
+
+RESOURCE ID: gofest2023_live_preview_park_morning_0806
+TEXT: Hatırlatma: Pokémon GO Festivali 2023 Park Tecrübeniz 6 Ağustos Pazar, 09.00-13.30 arasında gerçekleşecek!
+
+RESOURCE ID: gofest2023_live_preview_park_morning_0818
+TEXT: Hatırlatma: Pokémon GO Festivali 2023 Park Tecrübeniz 18 Ağustos Cuma, 09.00-13.00 arasında gerçekleşecek!
+
+RESOURCE ID: gofest2023_live_preview_park_morning_0819
+TEXT: Hatırlatma: Pokémon GO Festivali 2023 Park Tecrübeniz 19 Ağustos Cumartesi, 09.00-13.00 arasında gerçekleşecek!
+
+RESOURCE ID: gofest2023_live_preview_park_morning_0820
+TEXT: Hatırlatma: Pokémon GO Festivali 2023 Park Tecrübeniz 20 Ağustos Pazar, 09.00-13.00 arasında gerçekleşecek!
+
+RESOURCE ID: gofest2023_london
+TEXT: Pokémon GO Festivali 2023: Londra
+
+RESOURCE ID: gofest2023_malachite_wilderness
+TEXT: Zümrüt Kırlar Toplama Görevi
+
+RESOURCE ID: gofest2023_malachite_wilderness_description
+TEXT: Bu Pokémon’ları Zümrüt Kırlar habitatında yakalayın!
+
+RESOURCE ID: gofest2023_newyork
+TEXT: Pokémon GO Festivali 2023: New York
+
+RESOURCE ID: gofest2023_osaka
+TEXT: Pokémon GO Festivali 2023: Osaka
+
+RESOURCE ID: gofest2023_park_0_1
+TEXT: Seni görmek ne güzel %PLAYERNAME%! Pokémon GO Festivali’nde bana katıldığın için çok mutluyum!
+
+RESOURCE ID: gofest2023_park_0_2
+TEXT: Müthiş heyecanlı bir gün bizi bekliyor! Çok özel bir şey buldum...
+
+RESOURCE ID: gofest2023_park_0_3
+TEXT: Parkın gizemli bir haritası! Esrarengiz ipuçlarıyla dolu bir yol işaretlenmiş. Sanki gizli saklı ve parıltılı bir şeye yönlendiriyorlar bizi!
+
+RESOURCE ID: gofest2023_park_0_4
+TEXT: Hadi bu yolu takip edip önümüze hangi Pokémon’ların ve hazinelerin çıkacağını görelim.
+
+RESOURCE ID: gofest2023_park_0_5
+TEXT: İşte ilk ipucu: “Sitrinin rayihası çıkarsın refikleri sahradaki her bir taşın altından.”
+
+RESOURCE ID: gofest2023_park_0_6
+TEXT: Hım... Sitrin taşı turuncu renktedir. Tütsüyle aynı turuncudur hem de!
+
+RESOURCE ID: gofest2023_park_0_7
+TEXT: Parkta gezinirken Tütsü kullanmaya ne dersin? Bulduğumuz Pokémon’lar bize haritadaki gizemli yolu izleme konusunda özel ipuçları verebilir!
+
+RESOURCE ID: gofest2023_park_1_1
+TEXT: Demek bu Pokémon’lar bizi buraya yönlendiriyormuş!
+
+RESOURCE ID: gofest2023_park_1_2
+TEXT: Ama görebildiğim tek hazine Eğitmenlerin parlayan suratlarındaki neşe. Seninki de onlara dahil tabii %PLAYERNAME%!
+
+RESOURCE ID: gofest2023_park_1_3
+TEXT: Belki bir sonraki ipucu bize daha fazla fikir verebilir.
+
+RESOURCE ID: gofest2023_park_1_4
+TEXT: Bu da şöyle diyor: “Tebellür etsin hatıralar, her biri altınlar kadar mücella, elmaslar kadar kıymetli.”
+
+RESOURCE ID: gofest2023_park_1_5
+TEXT: Baksana, yakındaki konumlar halka içine alınmış!
+
+RESOURCE ID: gofest2023_park_1_6
+TEXT: Sen gelmeden parkı kolaçan ettim de, o noktaların jeolojik yapısı hakikaten büyüleyiciydi. Oralarda yaşayan Pokémon’lar da o kadar mutluydu ki!
+
+RESOURCE ID: gofest2023_park_1_7
+TEXT: Elimizde bu harita olmasaydı bile oraları kendi gözlerinle görmeni önerecektim! Hatıralardan bahsetmişken, “tebellür” etmelerini yani elle tutulur bir şekil kazanmalarını sağlamanın fotoğraf çekmekten daha iyi bir yolu olabilir mi?
+
+RESOURCE ID: gofest2023_park_1_8
+TEXT: Ne dersin, haritayı takip ederek Pokémon’larımızla fotoğraf çekelim mi?
+
+RESOURCE ID: gofest2023_park_2_1
+TEXT: Bu çektiğin fotoğraflar birer hazine değerinde %PLAYERNAME%! Meltan’ın bu pozunu buzdolabıma asmayı planlıyorum.
+
+RESOURCE ID: gofest2023_park_2_2
+TEXT: Ama ne yazık ki daha hazine filan bulamadık! Bir sonraki ipucuna bakalım. Bundan iyi bir şeyler çıkacak gibi bir his var içimde.
+
+RESOURCE ID: gofest2023_park_2_3
+TEXT: “Ararken şaşaalı bir mücevheri, tutmalı nazarı keskin ve tutturmalı hedefi.”
+
+RESOURCE ID: gofest2023_park_2_4
+TEXT: Gerçi senin gözünden tek bir Pokémon’un bile kaçmayacağından eminim...
+
+RESOURCE ID: gofest2023_park_2_5
+TEXT: Ama Pokémon yakalarken hedefi sabit tutmak en deneyimli Eğitmenler için bile zorlayıcı olabilir.
+
+RESOURCE ID: gofest2023_park_2_6
+TEXT: Belki de bu ipucu Poké Topu atış becerimizi sınamakla ilgilidir. İçimden bir ses şu “şaşaalı mücevher”i bulmaya çok yaklaştığımızı söylüyor!
+
+RESOURCE ID: gofest2023_park_3_1
+TEXT: Vay canına! Bu tahmin ettiğim Pokémon mu yoksa %PLAYERNAME%? Mitolojik Pokémon Diancie mi yani?!
+
+RESOURCE ID: gofest2023_park_3_2
+TEXT: Muhteşem! Ne kadar göz kamaştırıcı! Şu pembe kristallerin ışıltısına bak!
+
+RESOURCE ID: gofest2023_park_3_3
+TEXT: Kimilerine göre Diancie’nin ışıltılı formu dünyada görülebilecek en güzel manzaradır. Bu görüşe katılmamak mümkün değil gerçekten!
+
+RESOURCE ID: gofest2023_park_3_4
+TEXT: Giderek de parıltısını artırıyor baksana! Diancie bir karbon parçasını ellerinin arasında sıkıştırarak anında bir sürü pırlanta oluşturabilir.
+
+RESOURCE ID: gofest2023_park_3_5
+TEXT: Müthiş bir iş çıkardın %PLAYERNAME%. Ama yapacaklarımız daha bitmedi!
+
+RESOURCE ID: gofest2023_park_3_6
+TEXT: İşte son ipucu:
+
+RESOURCE ID: gofest2023_park_3_7
+TEXT: “Yıldız tozuyla parıldayan bir patika, fevkalade bir letafet vücut bulur sonunda.”
+
+RESOURCE ID: gofest2023_park_3_8
+TEXT: Görünüşe göre acele edip yıldız tozu toplamaya başlamamız gerek!
+
+RESOURCE ID: gofest2023_park_4_1
+TEXT: Oo? Ne buldun %PLAYERNAME%?
+
+RESOURCE ID: gofest2023_park_4_2
+TEXT: Bu mega enerji çeşidine daha önce hiç rastlamamıştım ama iddiasına girerim ki Diancie’yi mega evrimleştirmeye yarıyordur!
+
+RESOURCE ID: gofest2023_park_4_3
+TEXT: Diancie zaten nefes kesici bir güzelliğe sahip. Bir de üstüne mega evrimleştiğinde nasıl olacağını görmek için sabırsızlanıyorum. Güzelliğine güzellik katacağına şüphem yok.
+
+RESOURCE ID: gofest2023_park_4_4
+TEXT: Diancie’yi mega evrimleştirirsen ilk benim haberim olsun!
+
+RESOURCE ID: gofest2023_park_4_5
+TEXT: Ama zaten uzun bir macera yaşadık, onun için henüz bölgeyi kendi başına keşfetmeye bile fırsat bulamamışken seni daha fazla yormak istemem.
+
+RESOURCE ID: gofest2023_park_4_6
+TEXT: Bugünü benimle geçirdiğin için teşekkürler %PLAYERNAME%. Birlikte geçirdiğimiz her dakika benim için çok değerli.
+
+RESOURCE ID: gofest2023_park_4_7
+TEXT: Umarım gününün geri kalanı da Mega Diancie kadar güzel geçer! Hadi GİDELİM!
+
+RESOURCE ID: gofest2023_park_session
+TEXT: Pokémon GO Festivali 2023: Park Tecrübesi
+
+RESOURCE ID: gofest2023_pyrite_sands
+TEXT: Kehribar Kumlar Toplama Görevi
+
+RESOURCE ID: gofest2023_pyrite_sands_description
+TEXT: Bu Pokémon’ları Kehribar Kumlar habitatında yakalayın!
+
+RESOURCE ID: gofest2023_quartz_terrarium
+TEXT: Billur Teraryum Toplama Görevi
+
+RESOURCE ID: gofest2023_quartz_terrarium_description
+TEXT: Bu Pokémon’ları Billur Teraryum habitatında yakalayın!
+
+RESOURCE ID: gofest2023_raid_add_on
+TEXT: Pokémon GO Festivali 2023: Akınsever
+
+RESOURCE ID: gofest2023_ticketed_rayquaza_0_1
+TEXT: Selam %PLAYERNAME%! Seni gördüğüm çok iyi oldu!
+
+RESOURCE ID: gofest2023_ticketed_rayquaza_0_2
+TEXT: Şu Pokémon’lara baksana. Onlar da Pokémon GO Festivali için mi gelmişler acaba, ne dersin?
+
+RESOURCE ID: gofest2023_ticketed_rayquaza_0_3
+TEXT: Haklısın, muhtemelen insanların düzenlediği bu etkinliklerden haberleri bile yoktur. Spark geçenlerde bana etraftaki enerjilerden bahsediyordu da, sanıyorum ki bu Pokémon’lar etraftaki pozitif enerjiyi hissedebiliyorlardır yine de!
+
+RESOURCE ID: gofest2023_ticketed_rayquaza_0_4
+TEXT: Her neyse, etrafta inceleyebileceğimiz bir sürü Pokémon varken boş durmayalım!
+
+RESOURCE ID: gofest2023_ticketed_rayquaza_0_5
+TEXT: Ne duruyoruz? Hadi onları yakalamaya gidelim!
+
+RESOURCE ID: gofest2023_ticketed_rayquaza_1_1
+TEXT: Tekrar hoş geldin %PLAYERNAME%!
+
+RESOURCE ID: gofest2023_ticketed_rayquaza_1_2
+TEXT: Sen yokken etrafta aşırı fazla sayıda Uçan tür ve Ejderha türü Pokémon gördüm!
+
+RESOURCE ID: gofest2023_ticketed_rayquaza_1_3
+TEXT: Bu söyleyeceğim sadece bir varsayım ama acaba bir şekilde Mega Rayquaza’nın varlığını mı hissettiler diye merak ediyorum. Biliyorsun Rayquaza da hem Ejderha türü hem de Uçan tür bir Pokémon’dur.
+
+RESOURCE ID: gofest2023_ticketed_rayquaza_1_4
+TEXT: Hoenn bölgesinden bazı araştırmacılara göre Mega Rayquaza, hem Kadim Kyogre hem de Kadim Groudon’u püskürtmeye yetecek derecede güç gösterebilir.
+
+RESOURCE ID: gofest2023_ticketed_rayquaza_1_5
+TEXT: Mitolojide Kyogre ve Groudon’un karayı ve denizi temsil ettikleri söylenir, ki bu ikisi arasındaki barışı korumak öyle küçümsenecek bir başarı değil!
+
+RESOURCE ID: gofest2023_ticketed_rayquaza_1_6
+TEXT: Hadi biz de birkaç Uçan tür ve Ejderha türü Pokémon güçlendirelim.
+
+RESOURCE ID: gofest2023_ticketed_rayquaza_2_1
+TEXT: İyi iş çıkardın %PLAYERNAME%!
+
+RESOURCE ID: gofest2023_ticketed_rayquaza_2_2
+TEXT: Pokémon’ları güçlendirdikten sonra kendini nasıl hissediyorsun? Daha güçlü, değil mi? Hadi bu enerjiyi Pokémon’lara meydan okumaya yönlendir. Belki Mega Rayquaza’yı bile alt edebilirsin!
+
+RESOURCE ID: gofest2023_ticketed_rayquaza_2_3
+TEXT: Benden sana bir tavsiye: Mega Rayquaza Buz, Kaya, Ejderha ve Peri türü hareketleri karşısında güçsüzdür. Takımını oluştururken bunu göz önünde bulundur!
+
+RESOURCE ID: gofest2023_ticketed_rayquaza_2_4
+TEXT: Ona dürüstçe ve iyi planlanmış bir şekilde meydan okuman eminim ki en çok Mega Rayquaza’nın hoşuna gidecektir.
+
+RESOURCE ID: gofest2023_ticketed_rayquaza_2_5
+TEXT: Ne de olsa dostane bir maçtan çok şey öğrenilebilir. Bana inanmıyorsan Candela’ya sorabilirsin!
+
+RESOURCE ID: gofest2023_ticketed_rayquaza_2_6
+TEXT: Gerçi ben ne zaman Candela’yla maç yapsam, tek öğrendiğim şey bir daha Candela’yla maç yapmamam gerektiği oluyor...
+
+RESOURCE ID: gofest2023_ticketed_rayquaza_2_7
+TEXT: Umarım o da bu maçlardan bir şeyler çıkarıyordur.
+
+RESOURCE ID: gofest2023_ticketed_rayquaza_2_8
+TEXT: Hadi bakalım, şimdi gidip Mega Rayquaza’ya kendini göster!
+
+RESOURCE ID: gofest2023_ticketed_rayquaza_3_1
+TEXT: İşte maç dediğin böyle olur %PLAYERNAME%!
+
+RESOURCE ID: gofest2023_ticketed_rayquaza_3_2
+TEXT: Kendi Pokémon’ların ve rakip Pokémon’lar hakkında bilgini artırmanın en iyi yollarından biri maç yapmaktır.
+
+RESOURCE ID: gofest2023_ticketed_rayquaza_3_3
+TEXT: Belki Mega Rayquaza da senin hakkında bir şeyler öğrenmiştir ha, ne dersin?
+
+RESOURCE ID: gofest2023_ticketed_rayquaza_3_4
+TEXT: Bugün Mega Rayquaza’yla birlikte ne kadar zaman geçirdiğine bakılırsa çok yakında bir fırsatını bulur bulmaz Rayquaza’yı mega evrimleştirebileceğine de eminim!
+
+RESOURCE ID: gofest2023_ticketed_rayquaza_3_5
+TEXT: Maç yapmak eğlenceli olmasına eğlenceli ama takımın muhtemelen çok yorulmuştur.
+
+RESOURCE ID: gofest2023_ticketed_rayquaza_3_6
+TEXT: Onlar dinlenedursunlar, biz de istersen birkaç Pokémon yakalayalım!
+
+RESOURCE ID: gofest2023_ticketed_rayquaza_4_1
+TEXT: Harikasın %PLAYERNAME%! Yakaladığın Pokémon’lar yüzünden iğne atsan yere düşmüyor!
+
+RESOURCE ID: gofest2023_ticketed_rayquaza_4_2
+TEXT: Pokémon’ların kendilerini nasıl hissediyorlar peki? Biraz kendilerine geldiler mi?
+
+RESOURCE ID: gofest2023_ticketed_rayquaza_4_3
+TEXT: Süper! Çok güzel bir haber bu.
+
+RESOURCE ID: gofest2023_ticketed_rayquaza_4_4
+TEXT: Ee, şimdi ne yapacaksın? Mega Rayquaza’yı mı arayacaksın? Yoksa bulması zor başka bir Pokémon’u mu? Ya da belki dostunla biraz vakit geçireceksindir!
+
+RESOURCE ID: gofest2023_ticketed_rayquaza_4_5
+TEXT: Hepsi de gayet güzel planlar! Seçimin ne olursa olsun bu seneki Pokémon GO Festivali’nde bana katıldığın için sana tekrar çok teşekkür ederim!
+
+RESOURCE ID: gofest2023_ticketed_rayquaza_4_6
+TEXT: Umarım gelecek sene de nerede olursak olalım festivalde bir araya gelebiliriz.
+
+RESOURCE ID: gofest2023_ticketed_rayquaza_4_7
+TEXT: Hadi GİDELİM!
+
 RESOURCE ID: gofest_2021_band_boisterous
 TEXT: GO Festivali 2021: Gürültülü
 
@@ -22414,7 +23756,7 @@ RESOURCE ID: gold_box_title
 TEXT: Altın Kutu
 
 RESOURCE ID: google_auth_failed
-TEXT: Doğrulama başarısız. Lütfen tekrar deneyin.
+TEXT: Bu hesap doğrulanamadı. Lütfen daha sonra tekrar deneyin veya başka bir bağlı hesap deneyin.
 
 RESOURCE ID: google_login_button
 TEXT: Google
@@ -24385,7 +25727,7 @@ RESOURCE ID: guest_account_link_success_title
 TEXT: Başarılı! Hesabınız bağlandı.
 
 RESOURCE ID: guest_auth_failed
-TEXT: Doğrulanamadı. Lütfen tekrar deneyin.
+TEXT: Bu hesap doğrulanamadı. Lütfen daha sonra tekrar deneyin veya başka bir bağlı hesap deneyin.
 
 RESOURCE ID: guest_level_expiration_subtitle
 TEXT: Oynamaya devam edebilmek için kaydolmanız gerekir.
@@ -24781,6 +26123,18 @@ TEXT: Spor Salonu Rozeti Kazanıldı!
 RESOURCE ID: gyms_disabled_update
 TEXT: Spor Salonları yapım aşamasında.
 
+RESOURCE ID: habitat_aquamarine_shores
+TEXT: Turkuaz Kıyılar
+
+RESOURCE ID: habitat_malachite_wilderness
+TEXT: Zümrüt Kırlar
+
+RESOURCE ID: habitat_pyrite_sands
+TEXT: Kehribar Kumlar
+
+RESOURCE ID: habitat_quartz_terrarium
+TEXT: Billur Teraryum
+
 RESOURCE ID: hal_pumpkaboo_2021_collection_challenge
 TEXT: Pumpkaboo Toplama Görevi
 
@@ -24820,8 +26174,20 @@ TEXT: Cadılar Bayramı Kupası: Ultra Lig
 RESOURCE ID: hatch_box
 TEXT: Kuluçka Kutusu
 
+RESOURCE ID: hatch_candy_1.5x
+TEXT: 1,5× çatlatma şekeri
+
 RESOURCE ID: hatch_candy_double
 TEXT: 2× Çatlatma Şekeri
+
+RESOURCE ID: hatch_day_2k_riolu
+TEXT: Riolu 2 km’lik yumurtalardan çıkabilir
+
+RESOURCE ID: hatch_day_riolu_limited_research
+TEXT: Yumurtadan Çıkan Riolu Günü Süreli Araştırması
+
+RESOURCE ID: hatch_stardust_1.5x
+TEXT: 1,5× çatlatma yıldız tozu
 
 RESOURCE ID: hatch_stardust_double
 TEXT: 2× Çatlatma Yıldız Tozu
@@ -25055,7 +26421,7 @@ RESOURCE ID: iap_sale_days_left
 TEXT: {0} gün kaldı
 
 RESOURCE ID: iap_sale_discount
-TEXT: {0}% OFF
+TEXT: %{0} İNDİRİM
 
 RESOURCE ID: iap_sale_ends_today
 TEXT: Bugün son gün!
@@ -25180,6 +26546,9 @@ TEXT: Bir kişi size Arkadaşlık İsteği gönderdi.
 RESOURCE ID: increased_adventure_sync_rewards
 TEXT: Gelecek haftanın Macera Senkronizasyonu ödüllerinde artış
 
+RESOURCE ID: increased_chance_buddy_xl_bonus
+TEXT: Dost Pokémon’unuzla maceradayken büyük şeker kazanma şansında artış
+
 RESOURCE ID: increased_shiny_2k_5k_10k_eggs
 TEXT: 2, 5 ve 10 km’lik yumurtalardan Parlak Pokémon çıkma şansında artış
 
@@ -25189,11 +26558,17 @@ TEXT: GO Roket Takımı serserilerine karşı maç kazanınca artırılmış yı
 RESOURCE ID: increased_transfer_candy_xl_bonus
 TEXT: Daha fazla gönderme şekeri ve büyük gönderme şekeri
 
+RESOURCE ID: increased_xp_pokestop_streak_bonus
+TEXT: 7 günlük PokéDurak döndürme serisi ödüllerinde daha fazla TP
+
+RESOURCE ID: increased_xp_stardust_pokemon_streak_bonus
+TEXT: 7 günlük Pokémon yakalama serisi ödüllerinde daha fazla TP ve yıldız tozu
+
 RESOURCE ID: incubator_choose_egg
 TEXT: Kuluçkaya yatırmak için bir Yumurta seçin.
 
 RESOURCE ID: incubator_distance_half
-TEXT: 1/2 Çatlatma Mesafesi
+TEXT: 1/2 çatlatma mesafesi
 
 RESOURCE ID: incubator_distance_quarter
 TEXT: 1/4 Çatlatma Mesafesi
@@ -25495,6 +26870,27 @@ TEXT: GO Maç Ligi Süreli Araştırmasına erişim sağlar, Eğitmen Maçların
 RESOURCE ID: item_battle_pass_ticket_name
 TEXT: GO Maç Ligi Süreli Araştırma Bileti
 
+RESOURCE ID: item_bean_collected_body
+TEXT: 1 Zygarde Hücresi buldunuz
+
+RESOURCE ID: item_beans_desc
+TEXT: Zygarde Hücreleri farklı Zygarde formları oluşturacak şekilde birleştirilip ayrıştırılabilir. Bir seferde {0} Zygarde Hücresi bulundurabilirsiniz.
+
+RESOURCE ID: item_beans_multiple_collected_body
+TEXT: {0} Zygarde Hücresi buldunuz
+
+RESOURCE ID: item_beans_name
+TEXT: Zygarde Hücresi
+
+RESOURCE ID: item_beans_name_plural
+TEXT: Zygarde Hücreleri
+
+RESOURCE ID: item_beans_one_collected_body
+TEXT: Zygarde Küpünün içine {0} Zygarde Hücresi çekildi!
+
+RESOURCE ID: item_beans_one_collected_body_singular
+TEXT: Zygarde Küpünün içine bir Zygarde Hücresi çekildi!
+
 RESOURCE ID: item_beast_ball_desc
 TEXT: Ultra Yaratıkları yakalamak için tasarlanmış özel bir Poké Topu.
 
@@ -25506,6 +26902,15 @@ TEXT: BELİRSİZ
 
 RESOURCE ID: item_bluk_berry_name
 TEXT: Bluk Meyvesi
+
+RESOURCE ID: item_breakfast_desc
+TEXT: Zygarde Hücresi bulunduran bir eşya. Zygarde’ın formunu değiştirmek için kullanabilirsiniz. En fazla {0} Zygarde Hücresi içerir.
+
+RESOURCE ID: item_breakfast_desc_count
+TEXT: Zygarde Hücrelerinin toplandığı bir eşya. {0} Zygarde Hücreniz var.
+
+RESOURCE ID: item_breakfast_name
+TEXT: Zygarde Küpü
 
 RESOURCE ID: item_dragon_scale_desc
 TEXT: Belirli Pokémon türlerinin evrimleşmesini sağlayan bir pul. Çok serttir ve esnek değildir.
@@ -25547,7 +26952,7 @@ RESOURCE ID: item_event_ticket_pink_bulbt_details
 TEXT: Bu bilet, 22 Ocak 2022’de gerçekleşecek özel araştırmaya dilediğiniz yerden erişebilmeniz için otomatik olarak etkinleştirilecek.
 
 RESOURCE ID: item_event_ticket_pink_desc
-TEXT: Topluluk Günü Klasik: Squirtle özel araştırmasına dilediğiniz yerden katılmanıza olanak tanıyan bir bilet.
+TEXT: 30 Temmuz 2023’te, yerel saatle 14:00-17:00 arasında gerçekleşecek Poliwag Topluluk Günü Klasik özel araştırmasına dilediğiniz yerden katılmanıza olanak tanıyan bir bilet.
 
 RESOURCE ID: item_event_ticket_pink_desc_alodude
 TEXT: 21 Mayıs 2022’de, yerel saatle 11:00-14:00 arasında gerçekleşecek özel araştırmaya dilediğiniz yerden katılmanıza olanak tanıyan bir bilet.
@@ -25573,8 +26978,8 @@ TEXT: 3 Haziran 2023’te, yerel saatle 14.00-17.00 arasında gerçekleşecek Al
 RESOURCE ID: item_event_ticket_pink_desc_mrmime
 TEXT: 19 Aralık 2020 yerel saatle 10:00'dan 20 Aralık 2020 20:00'ye kadar özel bir etkinliğe dilediğiniz yerden katılabilmeniz için bilet.
 
-RESOURCE ID: item_event_ticket_pink_desc_poliwag
-TEXT: A ticket to access Special Research on July 30, 2023, from 2:00 p.m. to 5:00 p.m. local time, wherever you are.
+RESOURCE ID: item_event_ticket_pink_desc_squirtle
+TEXT: Topluluk Günü Klasik: Squirtle özel araştırmasına dilediğiniz yerden katılmanıza olanak tanıyan bir bilet.
 
 RESOURCE ID: item_event_ticket_pink_desc_swinub
 TEXT: Topluluk Günü Klasik: Swinub özel araştırmasına dilediğiniz yerden katılmanıza olanak tanıyan bir bilet.
@@ -25583,7 +26988,7 @@ RESOURCE ID: item_event_ticket_pink_desc_togetic
 TEXT: 15 Nisan 2023’te, yerel saatle 14.00-17.00 arasında gerçekleşecek özel araştırmaya dilediğiniz yerden katılmanıza olanak tanıyan bir bilet.
 
 RESOURCE ID: item_event_ticket_pink_details
-TEXT: Bu bilet 9 Temmuz 2023’te, yerel saatle 14.00 - 17.00 arasında gerçekleşecek Squirtle Topluluk Günü Klasik özel araştırmasına dilediğiniz yerden erişebilmeniz için otomatik olarak etkinleştirilecek.
+TEXT: Bu bilet 30 Temmuz 2023’te gerçekleşecek Sarsak Sarmal özel araştırmasına dilediğiniz yerden erişebilmeniz için otomatik olarak etkinleştirilecek.
 
 RESOURCE ID: item_event_ticket_pink_details_axew
 TEXT: Bu bilet 10 Haziran 2023 Cumartesi, yerel saatle 14.00-17.00 arasında gerçekleşecek Axew Topluluk Günü özel araştırmasına dilediğiniz yerden katılabilmeniz için otomatik olarak etkinleştirilecek.
@@ -25606,8 +27011,8 @@ TEXT: Bu bilet 3 Haziran 2023’te, yerel saatle 14.00-17.00 arasında gerçekle
 RESOURCE ID: item_event_ticket_pink_details_mrmime
 TEXT: Bu bilet, dünyanın neresinde olursanız olun, 19 Aralık 2020 yerel saatle 10:00'dan 20 Aralık 2020 20:00'ye kadar gerçekleşecek Galarlı Mr. Mime etkinliğine erişebilmeniz için otomatik olarak etkinleştirilecek.
 
-RESOURCE ID: item_event_ticket_pink_details_poliwag
-TEXT: This ticket will automatically activate to give you access to the Poliwag Community Day Special Research, wherever you are.
+RESOURCE ID: item_event_ticket_pink_details_squirtle
+TEXT: Bu bilet 23 Temmuz 2023’te, yerel saatle 14.00-17.00 arasında gerçekleşecek Squirtle Topluluk Günü Klasik özel araştırmasına dilediğiniz yerden erişebilmeniz için otomatik olarak etkinleştirilecek.
 
 RESOURCE ID: item_event_ticket_pink_details_swinub
 TEXT: Bu bilet 29 Nisan 2023’te yerel saatle 14.00 - 17.00 arasında gerçekleşecek Topluluk Günü Klasik: Swinub özel araştırmasına dilediğiniz yerden erişebilmeniz için otomatik olarak etkinleştirilecek.
@@ -25700,9 +27105,15 @@ RESOURCE ID: item_event_ticket_to_gift_desc
 TEXT: Satın alım hatasından kaynaklanan ekstra bir etkinlik bileti. Bu bileti bir arkadaşınıza gönderebilir ya da ücret iadesi alabilirsiniz.
 
 RESOURCE ID: item_evergreen_ticket_desc
+TEXT: 27 Temmuz 2023, yerel saatle 10.00 - 2 Ağustos 2023, yerel saatle 20.00 arasında gerçekleşecek Macera Haftası 2023 süreli araştırmasına dilediğiniz yerden katılmanıza olanak tanıyan bir bilet.
+
+RESOURCE ID: item_evergreen_ticket_desc_7th_anniversary_tr
 TEXT: Bu bilet 12 Temmuz 2023 Çarşamba, yerel saatle 20.00’ye kadar 7. Yıl Dönümü Partisi süreli araştırmasına dilediğiniz yerden erişebilmeniz için otomatik olarak etkinleştirilecek.
 
 RESOURCE ID: item_evergreen_ticket_details
+TEXT: Bu bilet, 27 Temmuz 2023, yerel saatle 10.00 - 2 Ağustos 2023 Çarşamba, yerel saatle 20.00 arasında gerçekleşecek Macera Haftası 2023 süreli araştırmasına dilediğiniz yerden katılabilmeniz için otomatik olarak etkinleştirilecek.
+
+RESOURCE ID: item_evergreen_ticket_details_7th_anniversary_tr
 TEXT: Bu bilet 12 Temmuz 2023 Çarşamba, yerel saatle 20.00’ye kadar 7. Yıl Dönümü Partisi süreli araştırmasına erişebilmeniz için otomatik olarak etkinleştirilecek.
 
 RESOURCE ID: item_evergreen_ticket_name
@@ -26071,7 +27482,7 @@ RESOURCE ID: item_route_maker_name
 TEXT: Yol Oluşturucu
 
 RESOURCE ID: item_shadow_gem_desc
-TEXT: Gölge Parçalarının arındırılıp birleştirilmesiyle elde edilen berrak bir cevher. Kızgın Gölge Akını Canavarlarını sakinleştirmede kullanılır.
+TEXT: Gölge Parçalarının arındırılıp birleştirilmesiyle elde edilen berrak bir cevher. Kızgın Gölge Akın Canavarlarını sakinleştirmede kullanılır.
 
 RESOURCE ID: item_shadow_gem_fragment_desc
 TEXT: Karanlık bir enerji yayan gizemli bir parça. Dört adet topladığınızda onları Parça Arındırıcı ile birleştirip büyük bir cevher elde edebilirsiniz!
@@ -26229,6 +27640,12 @@ TEXT: Pırıltılı Hayal
 RESOURCE ID: japanese
 TEXT: 日本語
 
+RESOURCE ID: jeju_poliwag_bonus_tr_desc
+TEXT: Poliwag Topluluk Günü: Bonus Süreli Araştırma, Jeju Adası
+
+RESOURCE ID: jeju_poliwag_bonus_tr_title
+TEXT: Poliwag Topluluk Günü: Bonus Süreli Araştırma
+
 RESOURCE ID: jessie_james_boosted_encounter
 TEXT: Jessie ve James'li Meowth balonu ortaya çıkıyor
 
@@ -26262,6 +27679,12 @@ TEXT: {1:0.#} {2} yürüdüğünüz için Haftalık Macera Senkronizasyonu Ödü
 RESOURCE ID: journal_received_raid_ticket
 TEXT: {0} için Özel Akın Davetiyesi aldınız.
 
+RESOURCE ID: journal_route_complete
+TEXT: Completed a Route!
+
+RESOURCE ID: journal_route_complete_named
+TEXT: Completed {0}!
+
 RESOURCE ID: journal_shadow_caught
 TEXT: Gölge {0} yakalandı!
 
@@ -26275,7 +27698,7 @@ RESOURCE ID: journal_shared_ex_raid_ticket_with_friend
 TEXT: {0} adlı oyuncuyu Özel Akına davet ettiniz.
 
 RESOURCE ID: journal_sleep_rewards
-TEXT: {1} aşkın uyku takip ederek {0} eşya kazandınız!
+TEXT: {1} üzerinde uyku takip ederek {0} eşya kazandınız!
 
 RESOURCE ID: journeyer_box_title
 TEXT: Seyyah Kutusu
@@ -26291,6 +27714,24 @@ TEXT: Link 1
 
 RESOURCE ID: jp_iap_linkname2
 TEXT: Link 2
+
+RESOURCE ID: jp_uk_timed_header_0
+TEXT: Parıltılı Bahçe: Süreli Araştırma
+
+RESOURCE ID: jpuk_gofest_global_event_name
+TEXT: Parıltılı Bahçe
+
+RESOURCE ID: jul23_adventure_collection_challenge_1
+TEXT: Macera Haftası Toplama Görevi: Kubbe ve Sarmal
+
+RESOURCE ID: jul23_adventure_collection_challenge_2
+TEXT: Macera Haftası Toplama Görevi: Kök ve Pençe
+
+RESOURCE ID: jul23_adventure_collection_challenge_3
+TEXT: Macera Haftası Toplama Görevi: Kafatası ve Zırh
+
+RESOURCE ID: jul23_adventure_collection_challenge_4
+TEXT: Macera Haftası Toplama Görevi: Kapak ve Tüy
 
 RESOURCE ID: july22_hisui_disc_collection_challenge
 TEXT: Hisui Keşifleri: Toplama Görevi
@@ -26584,7 +28025,7 @@ RESOURCE ID: limited_research_azelf
 TEXT: Azelf Sınırlı Araştırma
 
 RESOURCE ID: limited_research_azumarill
-TEXT: Azumarill Sınırlı Araştırma
+TEXT: Azumarill Sınırlı Araştırması
 
 RESOURCE ID: limited_research_azurill
 TEXT: Azurill Sınırlı Araştırma
@@ -27907,7 +29348,7 @@ RESOURCE ID: limited_research_politoed
 TEXT: Politoed Sınırlı Araştırma
 
 RESOURCE ID: limited_research_poliwag
-TEXT: Poliwag Sınırlı Araştırma
+TEXT: Poliwag Sınırlı Araştırması
 
 RESOURCE ID: limited_research_poliwhirl
 TEXT: Poliwhirl Sınırlı Araştırma
@@ -28654,7 +30095,7 @@ RESOURCE ID: limited_research_zweilous
 TEXT: Zweilous Sınırlı Araştırma
 
 RESOURCE ID: limited_research_zygarde
-TEXT: Zygarde Sınırlı Araştırma
+TEXT: Zygarde Sınırlı Araştırması
 
 RESOURCE ID: link_account_failed
 TEXT: Bu hesaba bağlanılamıyor.
@@ -29120,6 +30561,10 @@ Pozu
 
 RESOURCE ID: m_avatar_poses_bundle_pose_52
 TEXT: Sörf Pozu
+
+RESOURCE ID: m_avatar_poses_bundle_pose_53
+TEXT: Hazine Haritası
+Pozu
 
 RESOURCE ID: m_avatar_poses_empty_bundle_pose_empty
 TEXT: Boşta
@@ -29987,9 +31432,9 @@ RESOURCE ID: mega_walking_progress
 TEXT: Yürüyüş İlerlemesi
 
 RESOURCE ID: metadata_local
-TEXT: Built at 2023-08-15T00:15:27.265305
-at SHA 3f2f70aab565420b77d89253c79305aeec9552f4
-Pipeline 1676897, job 20326100
+TEXT: Built at 2023-08-21T17:47:34.524435
+at SHA 236194ea4c036061e777a7c9fb08bbfbf681852e
+Pipeline 1691898, job 20520313
 
 RESOURCE ID: mex_fighting_promo_title
 TEXT: Süreli Araştırma: Dövüşçünüzü Seçin
@@ -30078,6 +31523,9 @@ TEXT: Ortaya çıktığında Öne Çıkan Pokémon’u yakalayın.
 RESOURCE ID: minicollect_help_desc_type_evolve
 TEXT: Pokémon evrimleştirin.
 
+RESOURCE ID: minicollect_help_desc_type_hatch
+TEXT: Yumurtadan Pokémon çıkartın.
+
 RESOURCE ID: minicollect_help_desc_type_shadow
 TEXT: GO Roket Takımı'ndan Gölge Pokémon kurtarın.
 
@@ -30092,6 +31540,12 @@ TEXT: Bazı Pokémon'larla yalnızca belirli şekillerde karşılaşılabilir. �
 
 RESOURCE ID: minicollect_help_title
 TEXT: Toplama Görevi
+
+RESOURCE ID: minicollect_help_title_type_hatch
+TEXT: Yumurtadan
+
+RESOURCE ID: minicollect_help_title_type_raid
+TEXT: Akından
 
 RESOURCE ID: minicollect_medal_completion_banner_title
 TEXT: Tamamlanan Görevler
@@ -31128,6 +32582,9 @@ TEXT: Mistik Alev
 RESOURCE ID: move_name_0383
 TEXT: Sıvılaştırma
 
+RESOURCE ID: move_name_0384
+TEXT: Ejderha Yükselişi
+
 RESOURCE ID: move_name_0385
 TEXT: Yeşillik
 
@@ -31516,6 +32973,9 @@ TEXT: Tabii ki! Hemen bunu araştırmaya girişiyorum %PLAYERNAME%. Paranın vid
 
 RESOURCE ID: mystery_invasion_onboarding_dialogue_9
 TEXT: Teşekkürler! Görüşmek üzere o halde. İyi keşifler!
+
+RESOURCE ID: name your route
+TEXT: Name your Route
 
 RESOURCE ID: nearby_pokemon_clear_button
 TEXT: Temizle
@@ -32038,6 +33498,9 @@ TEXT: Kod kullanılırken bir hata oluştu.
 RESOURCE ID: passcode_rpc_timeout
 TEXT: Kod kullanma isteği zaman aşımına uğradı. Lütfen ağ ayarlarınızı kontrol edip tekrar deneyin.
 
+RESOURCE ID: pause_route_travel_error_toast
+TEXT: Error pausing Route
+
 RESOURCE ID: pending_friend_request
 TEXT: Bu Eğitmenden bekleyen bir Arkadaşlık İsteğiniz var.
 
@@ -32261,6 +33724,9 @@ TEXT: GO Fotoğrafta Noibat ile 5 sürpriz karşılaşma
 
 RESOURCE ID: photobomb_five_oshawott
 TEXT: GO Fotoğrafta Oshawott ile 5 sürpriz karşılaşma
+
+RESOURCE ID: photobomb_five_poliwag
+TEXT: GO Fotoğrafta Poliwag ile 5 sürpriz karşılaşma
 
 RESOURCE ID: photobomb_five_porygon
 TEXT: GO Fotoğrafta Porygon ile 5 sürpriz karşılaşma
@@ -36890,7 +38356,7 @@ RESOURCE ID: pokemon_desc_0183
 TEXT: Marill'ın yağ dolu kuyruğu, can yeleği görevi görür. Su yüzeyinde sadece kuyruğunun sallandığını görürseniz bu, Pokémon'un su bitkileriyle beslenmek için su altına daldığının bir göstergesidir.
 
 RESOURCE ID: pokemon_desc_0184
-TEXT: Azumarill'ın uzun kulakları, olmazsa olmaz sensörleridir. Bu Pokémon, hızlı akan nehirlerde bile olsa etrafındaki avları duyarak tespit edebilir.
+TEXT: Azumarill'in uzun kulakları olmazsa olmaz sensörleridir. Bu Pokémon gürül gürül akan nehirlerde bile etrafındaki avları duyarak tespit edebilir.
 
 RESOURCE ID: pokemon_desc_0185
 TEXT: Sudowoodo, düşmanlarının saldırılarından kaçınmak için kendini ağaç olarak kamufle eder. Ancak elleri tüm yıl boyunca yeşil kaldığı için kış mevsimindeyken gerçek bir ağaç olmadığı kolaylıkla anlaşılır.
@@ -39488,7 +40954,7 @@ RESOURCE ID: pokemon_info_caught_raid_nen
 TEXT: ÖZEL AKINDA YAKALANDI
 
 RESOURCE ID: pokemon_info_caught_raid_nep
-TEXT: ÖZEL KADİM AKININDA YAKALANDI
+TEXT: ÖZEL KADİM AKINDA YAKALANDI
 
 RESOURCE ID: pokemon_info_caught_raid_nnm
 TEXT: MEGA AKINDA YAKALANDI
@@ -39497,7 +40963,7 @@ RESOURCE ID: pokemon_info_caught_raid_nnn
 TEXT: AKINDA YAKALANDI
 
 RESOURCE ID: pokemon_info_caught_raid_nnp
-TEXT: KADİM AKININDA YAKALANDI
+TEXT: KADİM AKINDA YAKALANDI
 
 RESOURCE ID: pokemon_info_caught_raid_rem
 TEXT: ÖZEL MEGA AKINDA UZAKTAN YAKALANDI
@@ -39506,7 +40972,7 @@ RESOURCE ID: pokemon_info_caught_raid_ren
 TEXT: ÖZEL AKINDA UZAKTAN YAKALANDI
 
 RESOURCE ID: pokemon_info_caught_raid_rep
-TEXT: ÖZEL KADİM AKININDA UZAKTAN YAKALANDI
+TEXT: ÖZEL KADİM AKINDA UZAKTAN YAKALANDI
 
 RESOURCE ID: pokemon_info_caught_raid_rnm
 TEXT: MEGA AKINDA UZAKTAN YAKALANDI
@@ -39515,7 +40981,7 @@ RESOURCE ID: pokemon_info_caught_raid_rnn
 TEXT: AKINDA UZAKTAN YAKALANDI
 
 RESOURCE ID: pokemon_info_caught_raid_rnp
-TEXT: KADİM AKININDA UZAKTAN YAKALANDI
+TEXT: KADİM AKINDA UZAKTAN YAKALANDI
 
 RESOURCE ID: pokemon_info_caught_tutorial
 TEXT: DOĞADA YAKALANDI
@@ -39775,6 +41241,12 @@ TEXT: Yeni Saldırı
 
 RESOURCE ID: pokemon_info_unlockmove3_confirmation
 TEXT: {0} yeni bir Güçlü Saldırı öğrensin mi?
+
+RESOURCE ID: pokemon_info_upgrade_evolution_confirmation
+TEXT: Do you want to change {0}’s form?
+
+RESOURCE ID: pokemon_info_upgrade_evolve_button
+TEXT: Formunu Değiştir
 
 RESOURCE ID: pokemon_info_weight
 TEXT: Ağırlık
@@ -43432,7 +44904,7 @@ RESOURCE ID: profile_no_gymbadges
 TEXT: Hiç Spor Salonu Rozetiniz yok.
 
 RESOURCE ID: profile_no_routemedals
-TEXT: You haven’t earned any Route Badges yet.
+TEXT: Henüz bir Rota Rozeti kazanmadınız.
 
 RESOURCE ID: profile_player_level
 TEXT: Seviye
@@ -43480,7 +44952,7 @@ RESOURCE ID: ptc_account_creation_prompt
 TEXT: Pokémon Eğitmen Kulübü hesabınız yok mu?
 
 RESOURCE ID: ptc_auth_failed
-TEXT: Doğrulama başarısız. Lütfen tekrar deneyin.
+TEXT: Bu hesap doğrulanamadı. Lütfen daha sonra tekrar deneyin veya başka bir bağlı hesap deneyin.
 
 RESOURCE ID: ptc_error_activation_required
 TEXT: Lütfen Pokémon GO oynamak için hesabınızı etkinleştirin.
@@ -43854,6 +45326,9 @@ TEXT: Drifloon yakalarken {0} Razz Meyvesi kullanın
 RESOURCE ID: quest_catch_c_types_plural
 TEXT: Uçan, Psişik ya da Karanlık türünden {0}  Pokémon yakalayın
 
+RESOURCE ID: quest_catch_carbink_singular
+TEXT: Bir Carbink yakalayın
+
 RESOURCE ID: quest_catch_celebi_types_plural
 TEXT: Bitki ya da Psişik türden {0} Pokémon yakalayın
 
@@ -43884,6 +45359,9 @@ TEXT: Bir Furfrou yakalayın
 RESOURCE ID: quest_catch_groudon_primal_boosted_types
 TEXT: Ateş, Bitki ya da Yer türünden {0} Pokémon yakalayın
 
+RESOURCE ID: quest_catch_groudon_type
+TEXT: Ateş, Bitki ya da Yer türünden {0} Pokémon yakalayın
+
 RESOURCE ID: quest_catch_hoenn_pokemon
 TEXT: İlk olarak Hoenn bölgesinde keşfedilmiş {0} Pokémon yakalayın
 
@@ -43903,6 +45381,9 @@ RESOURCE ID: quest_catch_kanto_pokemon
 TEXT: İlk olarak Kanto bölgesinde keşfedilmiş {0} Pokémon yakalayın
 
 RESOURCE ID: quest_catch_kyogre_primal_boosted_types
+TEXT: Su, Elektrik ya da Böcek türünden {0} Pokémon yakalayın
+
+RESOURCE ID: quest_catch_kyogre_type
 TEXT: Su, Elektrik ya da Böcek türünden {0} Pokémon yakalayın
 
 RESOURCE ID: quest_catch_legendary_inarow_plural
@@ -43935,6 +45416,12 @@ TEXT: Günlük Macera Tütsüsü kullanırken {0} Pokémon yakalayın
 RESOURCE ID: quest_catch_pokemon_plural
 TEXT: {0} Pokémon yakalayın
 
+RESOURCE ID: quest_catch_pokemon_routes_plural
+TEXT: Rota takip ederken {0} Pokémon yakalayın
+
+RESOURCE ID: quest_catch_pokemon_routes_singular
+TEXT: Rota takip ederken bir Pokémon yakalayın
+
 RESOURCE ID: quest_catch_pokemon_singular
 TEXT: Bir Pokémon yakalayın
 
@@ -43955,6 +45442,9 @@ TEXT: Bir akından Regirock yakalayın
 
 RESOURCE ID: quest_catch_raid_regi_steel
 TEXT: Bir akından Registeel yakalayın
+
+RESOURCE ID: quest_catch_rayquaza_type
+TEXT: Uçan, Psişik ya da Ejderha türünden {0} Pokémon yakalayın
 
 RESOURCE ID: quest_catch_solrock_plural
 TEXT: {0} Solrock yakalayın
@@ -44226,6 +45716,9 @@ TEXT: Bir Karanlık türü Pokémon yakalayın
 RESOURCE ID: quest_catch_type_dragon_plural
 TEXT: {0} Ejderha türü Pokémon yakalayın
 
+RESOURCE ID: quest_catch_type_dragon_plural_unique
+TEXT: {0} farklı Ejderha türü Pokémon yakalayın
+
 RESOURCE ID: quest_catch_type_dragon_singular
 TEXT: Bir Ejderha türü Pokémon yakalayın
 
@@ -44250,6 +45743,9 @@ TEXT: Bir Peri türü Pokémon yakalayın
 RESOURCE ID: quest_catch_type_fighting_plural
 TEXT: {0} Dövüşçü türü Pokémon yakalayın
 
+RESOURCE ID: quest_catch_type_fighting_plural_unique
+TEXT: {0} farklı Dövüşçü türü Pokémon yakalayın
+
 RESOURCE ID: quest_catch_type_fighting_singular
 TEXT: Bir Dövüşçü türü Pokémon yakalayın
 
@@ -44272,7 +45768,7 @@ RESOURCE ID: quest_catch_type_flying_singular
 TEXT: Bir Uçan tür Pokémon yakalayın
 
 RESOURCE ID: quest_catch_type_ghost_dark_plural
-TEXT: {0} Hayalet veya Karanlık türü Pokémon yakalayın
+TEXT: Hayalet veya Karanlık türünden {0} Pokémon yakalayın
 
 RESOURCE ID: quest_catch_type_ghost_plural
 TEXT: {0} Hayalet türü Pokémon yakalayın
@@ -44352,6 +45848,9 @@ TEXT: Pheromosa ile aynı türü paylaşan {0} Pokémon yakalayın
 RESOURCE ID: quest_catch_type_poison_plural
 TEXT: {0} Zehir türü Pokémon yakalayın
 
+RESOURCE ID: quest_catch_type_poison_plural_unique
+TEXT: {0} farklı Zehir türü Pokémon yakalayın
+
 RESOURCE ID: quest_catch_type_poison_singular
 TEXT: Bir Zehir türü Pokémon yakalayın
 
@@ -44366,6 +45865,9 @@ TEXT: Bir Psişik türü Pokémon yakalayın
 
 RESOURCE ID: quest_catch_type_rock_plural
 TEXT: {0} Kaya türü Pokémon yakalayın
+
+RESOURCE ID: quest_catch_type_rock_plural_unique
+TEXT: {0} farklı Kaya türü Pokémon yakalayın
 
 RESOURCE ID: quest_catch_type_rock_singular
 TEXT: Bir Kaya türü Pokémon yakalayın
@@ -44601,6 +46103,12 @@ TEXT: Yedi Renkli Gölge
 RESOURCE ID: quest_complete_roset
 TEXT: Dur ve Roselia'yı Kokla
 
+RESOURCE ID: quest_complete_routes_plural
+TEXT: {0} rota takip edin
+
+RESOURCE ID: quest_complete_routes_singular
+TEXT: Bir rota takip edin
+
 RESOURCE ID: quest_complete_rue
 TEXT: Isınma Turu
 
@@ -44631,8 +46139,14 @@ TEXT: Pamuk Kanatlı Kuş
 RESOURCE ID: quest_complete_tepit
 TEXT: Kavrulmuş Meyveler
 
+RESOURCE ID: quest_complete_unique_routes
+TEXT: Travel to the end of {0} unique Routes
+
 RESOURCE ID: quest_complete_wt
 TEXT: Sinir Bozucu Olay
+
+RESOURCE ID: quest_complete_zygarde
+TEXT: A’dan Zygarde’a
 
 RESOURCE ID: quest_daily_bonus_title
 TEXT: Günlük Bonus
@@ -45925,7 +47439,7 @@ RESOURCE ID: quest_evolve_poison_type_singular
 TEXT: Bir Zehir türü Pokémon evrimleştirin
 
 RESOURCE ID: quest_evolve_poliwag_singular
-TEXT: Bir Poliwag evrimleştir
+TEXT: Bir Poliwag evrimleştirin
 
 RESOURCE ID: quest_evolve_poliwhirl_singular
 TEXT: Bir Poliwhirl evrimleştir
@@ -46413,8 +47927,17 @@ TEXT: Bir Zweilous evrimleştir
 RESOURCE ID: quest_explore_buddy
 TEXT: Dostunuzla mesafe katederek 1 Şeker kazanın
 
+RESOURCE ID: quest_explore_buddy_carbink
+TEXT: Carbink dostunuzken keşfe çıkarak bir şeker kazanın
+
 RESOURCE ID: quest_explore_buddy_plural
 TEXT: Dostunuzla mesafe katederek {0} Şeker kazanın
+
+RESOURCE ID: quest_explore_buddy_routes_plural
+TEXT: Dostunuzla rota keşfederken {0} şeker kazanın
+
+RESOURCE ID: quest_explore_buddy_routes_singular
+TEXT: Dostunuzla rota keşfederken bir şeker kazanın
 
 RESOURCE ID: quest_explore_km
 TEXT: {0} km katedin
@@ -46486,7 +48009,7 @@ RESOURCE ID: quest_fennekin_snapshot_b
 TEXT: {0} Fennekin’in fotoğrafını çekin
 
 RESOURCE ID: quest_field_research_plural
-TEXT: {0} Alan Araştırması görevi tamamlayın
+TEXT: {0} alan araştırması görevi tamamlayın
 
 RESOURCE ID: quest_field_research_singular
 TEXT: Bir alan araştırması görevi tamamlayın
@@ -46523,6 +48046,9 @@ TEXT: GO Maç Ligi'nde 10. Seviyeye ulaşın
 
 RESOURCE ID: quest_gbl_rank_twenty
 TEXT: GO Maç Ligi'nde 20. Seviyeye ulaşın
+
+RESOURCE ID: quest_get_cell_singular
+TEXT: Bir Zygarde Hücresi bulun
 
 RESOURCE ID: quest_giblt_catch_b
 TEXT: {0} Gible yakalayın
@@ -46625,6 +48151,54 @@ TEXT: Böyle zamanlar bana Pokémon Profesörü olma nedenimi hatırlatıyor. Po
 
 RESOURCE ID: quest_gofest2021_raid_dialogue_2_7
 TEXT: Şimdilik diğer Eğitmenlerle akın yapıp bir iki Pokémon yakalamaya ne dersin? Hoopa'yı yakalamak istiyorsan yeteneklerinin körelmesine izin verme. Hadi GİDELİM!
+
+RESOURCE ID: quest_gofest2023_live_photo_athletic_field
+TEXT: Yakaladığınız bir Pokémon'un Spor Sahası habitatında bir fotoğrafını çekin
+
+RESOURCE ID: quest_gofest2023_live_photo_cursed_treasures
+TEXT: Yakaladığınız bir Pokémon'un Lanetli Hazine habitatında bir fotoğrafını çekin
+
+RESOURCE ID: quest_gofest2023_live_photo_dark_jungle
+TEXT: Yakaladığınız bir Pokémon'un Karanlık Orman habitatında bir fotoğrafını çekin
+
+RESOURCE ID: quest_gofest2023_live_photo_fairy_garden
+TEXT: Yakaladığınız bir Pokémon'un Sihirli Bahçe habitatında bir fotoğrafını çekin
+
+RESOURCE ID: quest_gofest2023_live_photo_hypnotic_glacier
+TEXT: Yakaladığınız bir Pokémon'un Büyülü Buzul habitatında bir fotoğrafını çekin
+
+RESOURCE ID: quest_gofest2023_live_photo_poison_swamp
+TEXT: Yakaladığınız bir Pokémon'un Zehirli Bataklık habitatında bir fotoğrafını çekin
+
+RESOURCE ID: quest_gofest2023_live_photo_prehistoric_volcano
+TEXT: Yakaladığınız bir Pokémon'un Antik Yanardağ habitatında bir fotoğrafını çekin
+
+RESOURCE ID: quest_gofest2023_live_photo_volcanic_island
+TEXT: Yakaladığınız bir Pokémon'un Volkanik Ada habitatında bir fotoğrafını çekin
+
+RESOURCE ID: quest_gofest2023_live_spin_athletic_field
+TEXT: Spor Sahası habitatında {0} fotoğraf diski döndürün
+
+RESOURCE ID: quest_gofest2023_live_spin_cursed_treasures
+TEXT: Lanetli Hazine habitatında {0} fotoğraf diski döndürün
+
+RESOURCE ID: quest_gofest2023_live_spin_dark_jungle
+TEXT: Karanlık Orman habitatında {0} fotoğraf diski döndürün
+
+RESOURCE ID: quest_gofest2023_live_spin_fairy_garden
+TEXT: Sihirli Bahçe habitatında {0} fotoğraf diski döndürün
+
+RESOURCE ID: quest_gofest2023_live_spin_hypnotic_glacier
+TEXT: Büyülü Buzul habitatında {0} fotoğraf diski döndürün
+
+RESOURCE ID: quest_gofest2023_live_spin_poison_swamp
+TEXT: Zehirli Bataklık habitatında {0} fotoğraf diski döndürün
+
+RESOURCE ID: quest_gofest2023_live_spin_prehistoric_volcano
+TEXT: Antik Yanardağ habitatında {0} fotoğraf diski döndürün
+
+RESOURCE ID: quest_gofest2023_live_spin_volcanic_island
+TEXT: Volkanik Ada habitatında {0} fotoğraf diski döndürün
 
 RESOURCE ID: quest_gofest_0
 TEXT: GO Festivali: {0} Pokémon yakalayın
@@ -47073,6 +48647,12 @@ TEXT: {0} Pokémon gönderin
 RESOURCE ID: quest_hatch_egg_plural
 TEXT: {0} Yumurta çatlatın
 
+RESOURCE ID: quest_hatch_egg_routes_plural
+TEXT: Rota takip ederken {0} yumurta çatlatın
+
+RESOURCE ID: quest_hatch_egg_routes_singular
+TEXT: Rota takip ederken bir yumurta çatlatın
+
 RESOURCE ID: quest_hatch_egg_singular
 TEXT: Bir Yumurta çatlatın
 
@@ -47099,6 +48679,12 @@ TEXT: {0} Skiploom evrimleştirin
 
 RESOURCE ID: quest_incense_plural
 TEXT: {0} Tütsü kullanın
+
+RESOURCE ID: quest_incense_routes_plural
+TEXT: Rota takip ederken {0} Tütsü kullanın
+
+RESOURCE ID: quest_incense_routes_singular
+TEXT: Rota takip ederken bir Tütsü kullanın
 
 RESOURCE ID: quest_incense_singular
 TEXT: Tütsü kullanın
@@ -47328,8 +48914,14 @@ TEXT: Bir Blastoise'i Mega Evrimleştirin
 RESOURCE ID: quest_mega_evolve_charizard
 TEXT: Bir Charizard'ı Mega Evrimleştirin
 
+RESOURCE ID: quest_mega_evolve_diancie
+TEXT: Diancie’yi mega evrimleştirin
+
 RESOURCE ID: quest_mega_evolve_plural
 TEXT: {0} Pokémon'u Mega Evrimleştirin
+
+RESOURCE ID: quest_mega_evolve_rayquaza
+TEXT: Rayquaza’yı mega evrimleştirin
 
 RESOURCE ID: quest_mega_evolve_singular
 TEXT: Bir Pokémon'u Mega Evrimleştirin
@@ -47412,6 +49004,18 @@ TEXT: Dostunuzla oynayın
 RESOURCE ID: quest_pokemon_appears
 TEXT: Pokémon belirir!
 
+RESOURCE ID: quest_poliwag_catch_b
+TEXT: {0} Poliwag yakalayın
+
+RESOURCE ID: quest_poliwag_evolve_b
+TEXT: {0} Poliwag evrimleştirin
+
+RESOURCE ID: quest_poliwag_snapshot_b
+TEXT: Poliwag'in {0} fotoğrafını çekin
+
+RESOURCE ID: quest_poliwhirl_evolve_b
+TEXT: {0} Poliwhirl evrimleştirin
+
 RESOURCE ID: quest_poryt_catch_b
 TEXT: {0} Porygon yakalayın
 
@@ -47448,8 +49052,14 @@ TEXT: {0} adet Böcek türü Pokémon güçlendirin
 RESOURCE ID: quest_power_up_plural_dark
 TEXT: {0} adet Karanlık tür Pokémon güçlendirin
 
+RESOURCE ID: quest_power_up_plural_dragon
+TEXT: {0} Ejderha türü Pokémon güçlendirin
+
 RESOURCE ID: quest_power_up_plural_electric
 TEXT: {0} adet Elektrik türü Pokémon güçlendirin
+
+RESOURCE ID: quest_power_up_plural_fairy
+TEXT: {0} Peri türü Pokémon güçlendirin
 
 RESOURCE ID: quest_power_up_plural_fighting
 TEXT: {0} adet Dövüşçü türü Pokémon güçlendirin
@@ -47457,11 +49067,20 @@ TEXT: {0} adet Dövüşçü türü Pokémon güçlendirin
 RESOURCE ID: quest_power_up_plural_fire
 TEXT: {0} Ateş türü Pokémon güçlendirin
 
+RESOURCE ID: quest_power_up_plural_flying
+TEXT: {0} Uçan tür Pokémon güçlendirin
+
+RESOURCE ID: quest_power_up_plural_ghost
+TEXT: {0} Hayalet türü Pokémon güçlendirin
+
 RESOURCE ID: quest_power_up_plural_grass
 TEXT: {0} Bitki türü Pokémon güçlendirin
 
 RESOURCE ID: quest_power_up_plural_ground
 TEXT: {0} adet Yer türü Pokémon güçlendirin
+
+RESOURCE ID: quest_power_up_plural_ice
+TEXT: {0} Buz türü Pokémon güçlendirin
 
 RESOURCE ID: quest_power_up_plural_normal
 TEXT: {0} adet Normal tür Pokémon güçlendirin
@@ -47491,10 +49110,10 @@ RESOURCE ID: quest_primal_raid_victory_kyogre
 TEXT: Bir Kadim Kyogre akını kazanın
 
 RESOURCE ID: quest_primal_raid_victory_plural
-TEXT: {0} kadim akını kazanın
+TEXT: {0} kadim akın kazanın
 
 RESOURCE ID: quest_primal_raid_victory_singular
-TEXT: Bir kadim akını kazanın
+TEXT: Bir kadim akın kazanın
 
 RESOURCE ID: quest_primal_reversion_plural
 TEXT: Kadim dönüşümü {0} kez etkinleştirin
@@ -47605,10 +49224,10 @@ RESOURCE ID: quest_rocket_power_up_plural
 TEXT: Pokémon'ları {0} kez güçlendirin
 
 RESOURCE ID: quest_rocket_purify_dark_plural
-TEXT: {0} Karanlık türü Pokémon arındırın
+TEXT: {0} Karanlık türü Gölge Pokémon arındırın
 
 RESOURCE ID: quest_rocket_purify_fire_plural
-TEXT: {0} Ateş türü Pokémon arındırın
+TEXT: {0} Ateş türü Gölge Pokémon arındırın
 
 RESOURCE ID: quest_rocket_purify_plural
 TEXT: {0} Gölge Pokémon arındırın
@@ -48964,8 +50583,8 @@ RESOURCE ID: quest_special_dialogue_dec2022_1_6
 TEXT: Lafı açılmışken, Rhi’yi ziyaret etmeye ne dersin? Bu arada ben de yakaladığın Pokémon’ları daha yakından inceleyeyim.
 
 RESOURCE ID: quest_special_dialogue_dec2022_2_0
-TEXT: Mutlu yıl %PLAYERNAME%.
-
+TEXT: Mutlu yıl %PLAYERNAME%.
+
 Doğru oldu mu bu söylediğim? “Yıl” kavramını bu dünyaya geldikten sonra öğrendim de.
 
 RESOURCE ID: quest_special_dialogue_dec2022_2_1
@@ -49128,7 +50747,7 @@ RESOURCE ID: quest_special_dialogue_deino_1_1
 TEXT: Deino etrafındakilere saldırıp onları ısırır. Onun dünyası karanlıkta bile olsa yönünü belirleyebilmek için yeni yöntemler geliştirir...
 
 RESOURCE ID: quest_special_dialogue_deino_1_2
-TEXT: ......
+TEXT: ......
 
 
 RESOURCE ID: quest_special_dialogue_deino_1_3
@@ -51540,15 +53159,15 @@ RESOURCE ID: quest_special_dialogue_may22_alola_branch_quest_3d_0
 TEXT: Tekrar hoş geldin! GO Roket Takımının karşısında hiç zorlanmayacağını biliyordum! 
 
 RESOURCE ID: quest_special_dialogue_may23_candela_0_0
-TEXT: ... ... ...
-Of.
+TEXT: ... ... ...
+Of.
 ... ... ...
 
 RESOURCE ID: quest_special_dialogue_may23_candela_0_1
 TEXT: Ah. Selam %PLAYERNAME%.
 
 RESOURCE ID: quest_special_dialogue_may23_candela_0_2
-TEXT: ... ... ...
+TEXT: ... ... ...
 Ay.
 
 RESOURCE ID: quest_special_dialogue_may23_candela_0_3
@@ -52747,6 +54366,81 @@ TEXT: Harika iş çıkardın Eğitmen! Ne de müthiş bir Samurott. Deniz kılı
 
 RESOURCE ID: quest_special_dialogue_oshat_3_1
 TEXT: Yardımların için çok teşekkür ederim %PLAYERNAME%. Sayende Oshawott, Dewott ve Samurott hakkında pek çok şey öğrendik. Sonra "göl"üşürüz! Haha!
+
+RESOURCE ID: quest_special_dialogue_poliwag_0_0
+TEXT: %PLAYERNAME%! Demin dışarıda ne gördüm, bil bakalım! Poliwag dolu bir gölet!
+
+RESOURCE ID: quest_special_dialogue_poliwag_0_1
+TEXT: Poliwag’ler genellikle suda bulunur çünkü bacakları yeni çıkmış olduğu için yürüyüşleri dengesizdir.
+
+RESOURCE ID: quest_special_dialogue_poliwag_0_2
+TEXT: Ama aynı zamanda kara üstünde daha iyi hareket etmeyi de öğrenmek istedikleri için sudan çıktıklarında ellerinden gelenin en iyisini yapmaya çalışır, ortalıkta badi badi dolaşırlar.
+
+RESOURCE ID: quest_special_dialogue_poliwag_0_3
+TEXT: Şahane, değil mi? O mini mini Pokémon’lar, kendilerini geliştirmek için... ellerinden gelenin en iyisini... Of, duygulandım biraz, kusura bakma.
+
+RESOURCE ID: quest_special_dialogue_poliwag_0_4
+TEXT: Kendimizi zorlayıp rahat hissettiğimiz alanın dışına çıkmak konusunda hepimiz Poliwag’lerden bir şeyler öğrenebiliriz. Birkaç tanesini gözlemlemek ister misin?
+
+RESOURCE ID: quest_special_dialogue_poliwag_1_0
+TEXT: Tekrar hoş geldin %PLAYERNAME%. Gözlemlerin nasıl gitti? Ortalıkta badi badi dolaşan Poliwag gördün mü hiç?
+
+RESOURCE ID: quest_special_dialogue_poliwag_1_1
+TEXT: Bazı araştırmacılar, Poliwag’lerin bacaklarını güçlendirmek isteyen Eğitmenlere onları günlük yürüyüşlerinde yanlarına almalarını salık verirler.
+
+RESOURCE ID: quest_special_dialogue_poliwag_1_2
+TEXT: Tabii bu tavsiye Poliwag’in evrimi Poliwhirl için geçerli değil. Onun iki bacağı da oldukça gelişmiştir ve onu yiyecek böcek Pokémon ararken görmek mümkündür.
+
+RESOURCE ID: quest_special_dialogue_poliwag_1_3
+TEXT: Bir Poliwag evrimleştirmek ister misin %PLAYERNAME%? Ama dikkatli ol, sakın Poliwag’in sarmalına çok uzun süre bakma. Nedenini geri geldiğinde anlatırım!
+
+RESOURCE ID: quest_special_dialogue_poliwag_2_0
+TEXT: Ne güzel bir Poliwhirl yakalamışsın %PLAYERNAME%!
+
+RESOURCE ID: quest_special_dialogue_poliwag_2_1
+TEXT: Karnındaki sarmalı gördün, değil mi? Bu sarmala uzun süre bakmak uyku getirir.
+
+RESOURCE ID: quest_special_dialogue_poliwag_2_10
+TEXT: Poliwhirl’ün evrimlerini sen de kendi gözlerinle görmek ister misin?
+
+RESOURCE ID: quest_special_dialogue_poliwag_2_2
+TEXT: Bu nedenle bazı anne babalar çocuklarını uyutmak için onlara ninni söylemek yerine bu yöntemi kullanırlar.
+
+RESOURCE ID: quest_special_dialogue_poliwag_2_3
+TEXT: Uykusuzluk çekenlere de çok iyi gelir bu yüzden. Ama tabii... tam lafının ortasındaysan... Ay... işte başladım bile esnemeye...
+
+RESOURCE ID: quest_special_dialogue_poliwag_2_4
+TEXT: ... ... ...
+
+RESOURCE ID: quest_special_dialogue_poliwag_2_5
+TEXT: ...Ay! Pardon %PLAYERNAME%! Poliwhirl’üne bakarken az kalsın uykuya dalıyordum! Nerede kalmıştık? Hah, tamam! Poliwhirl’ün başka bir özelliği de iki farklı Pokémon’a evrilebilmesidir!
+
+RESOURCE ID: quest_special_dialogue_poliwag_2_6
+TEXT: Bunlardan ilki güçlü kaslarıyla bilinen Poliwrath’tir. Vücudu tamamen kaslardan oluşur.
+
+RESOURCE ID: quest_special_dialogue_poliwag_2_7
+TEXT: Poliwrath soğuk denizlerde yüzerken kuvvetli kollarını kullanarak buzulları parçalar ve böylelikle kolaylıkla ilerler.
+
+RESOURCE ID: quest_special_dialogue_poliwag_2_8
+TEXT: Poliwhirl’ün ikinci evrimi ise daha baskın olan Politoed’dur! Kendisi Poliwag ve Poliwhirl’e liderlik eder. O ne zaman bağırsa ikisi de korkudan büzüşüp kalır.
+
+RESOURCE ID: quest_special_dialogue_poliwag_2_9
+TEXT: Politoed’un çıkardığı ses çığlığa benzer ama çok güzel bir şarkıya da ilham vermiştir. Şimdi dinleyebilsek ne güzel olurdu!
+
+RESOURCE ID: quest_special_dialogue_poliwag_3_0
+TEXT: Tekrar hoş geldin %PLAYERNAME%! Poliwhirl’ünü hangi Pokémon’a evrimleştirmeye karar verdin?
+
+RESOURCE ID: quest_special_dialogue_poliwag_3_1
+TEXT: Poliwrath mi? Politoed mu? Yoksa her birinden birer tane mi?
+
+RESOURCE ID: quest_special_dialogue_poliwag_3_2
+TEXT: Kararın her ne olursa olsun, araştırmanı yapış şeklin Poliwag’in yürüyüşüne benzesin: Adım adım ve yavaş yavaş!
+
+RESOURCE ID: quest_special_dialogue_poliwag_3_3
+TEXT: Bugünkü yardımların için çok teşekkürler %PLAYERNAME%. Poliwag’in hayat felsefesi bana ilham verdi, umarım sana da vermiştir!
+
+RESOURCE ID: quest_special_dialogue_poliwag_3_4
+TEXT: Şimdilik hoşça kal. Hadi GİDELİM!
 
 RESOURCE ID: quest_special_dialogue_poni_0_0
 TEXT: %PLAYERNAME%! Seni görmek ne güzel.
@@ -56476,6 +58170,111 @@ TEXT: Böyle önemli bir değişim geçirmek nasıl bir histir acaba? Herhalde s
 RESOURCE ID: quest_special_dialogue_zigzagoon_3_6
 TEXT: Son derece eğitici bir gün oldu. Yardımların için teşekkürler Pokémon Eğitmeni.
 
+RESOURCE ID: quest_special_dialogue_zygarde_0_0
+TEXT: Selam %PLAYERNAME%! Ne var ne yok? Pokémon mu yakalıyorsun? Yoksa yeni bir rota mı keşfediyorsun?
+
+RESOURCE ID: quest_special_dialogue_zygarde_0_1
+TEXT: Bana soracak olursan ben Nizam Pokémon Zygarde hakkında bir araştırma makalesi okumakla meşgulüm.
+
+RESOURCE ID: quest_special_dialogue_zygarde_0_2
+TEXT: Makalenin yazarı, Zygarde’ın yaşadığı mağaranın derinliklerinden bütün ekosistemi gözlemlediğini öne sürüyor. Ekosistemin düzeni, nizamı bozulunca da ortaya çıkıp gizli gücünü gözler önüne seriyor.
+
+RESOURCE ID: quest_special_dialogue_zygarde_0_3
+TEXT: Mağarasından dışarı başka sebeplerle de çıkıyor mudur acaba? Bak aklıma şöyle bir makale fikri geldi: “Zygarde Habitatları ve Göç Örüntüleri”!
+
+RESOURCE ID: quest_special_dialogue_zygarde_0_4
+TEXT: Ne dersin? Zygarde’ın ilgisini başka ne gibi yerler, ne tür aktiviteler çekiyor kim bilir...
+
+RESOURCE ID: quest_special_dialogue_zygarde_0_5
+TEXT: Etrafta dolaşırken sen de bu konuda bir iki teori geliştir istersen!
+
+RESOURCE ID: quest_special_dialogue_zygarde_1_0
+TEXT: Tekrar hoş geldin %PLAYERNAME%!
+
+RESOURCE ID: quest_special_dialogue_zygarde_1_1
+TEXT: Sen dışarıdayken ben de yerel Eğitmenlerin gözlem raporlarını okumayı bitirdim.
+
+RESOURCE ID: quest_special_dialogue_zygarde_1_2
+TEXT: İlginçtir ki bazıları rotalar üzerinde yeşil, biçimsiz kütlelere rastladıklarını yazmışlar. Kimi Eğitmenler bunların canlı olabileceğini bile belirtmiş!
+
+RESOURCE ID: quest_special_dialogue_zygarde_1_3
+TEXT: Bu oynak kütlelerin ne olabileceği hakkında bir teorim var ama önce araştırma notlarımı gözden geçirmek istiyorum. Belki daha önce bahsettiğim makaleyi de tekrar okurum...
+
+RESOURCE ID: quest_special_dialogue_zygarde_1_4
+TEXT: Bu arada sen alan araştırmana devam et lütfen. Döndüğünde sana vereceğim bilgiler biraz daha biçim almış olacak eminim.
+
+RESOURCE ID: quest_special_dialogue_zygarde_1_5
+TEXT: Bak bir de ne diyeceğim: Dışarıda karşılaşabileceğin beklenmedik şeylere karşı Pokémon’larını güçlendirsen iyi olur!
+
+RESOURCE ID: quest_special_dialogue_zygarde_2_0
+TEXT: Demek buradaydın %PLAYERNAME%! Neler neler oldu bilemezsin!
+
+RESOURCE ID: quest_special_dialogue_zygarde_2_1
+TEXT: Notlarımı karıştırırken önümden belli belirsiz bir şey geçti ve laboratuvarın önünde aniden durdu.
+
+RESOURCE ID: quest_special_dialogue_zygarde_2_2
+TEXT: Hızlı hareket ediyordu ama tam da araştırdığım Pokémon olduğundan neredeyse eminim: Zygarde olmalı bu!
+
+RESOURCE ID: quest_special_dialogue_zygarde_2_3
+TEXT: Hâlâ dışarılarda bir yerde olabilir. Gidip bir bak istersen. Yanına da şunu al. Döndüğünde nasıl kullanılacağını göstereceğim.
+
+RESOURCE ID: quest_special_dialogue_zygarde_3_0
+TEXT: Harika bir iş çıkardın %PLAYERNAME%!
+
+RESOURCE ID: quest_special_dialogue_zygarde_3_1
+TEXT: Bu gerçekten de Zygarde’mış demek!
+
+RESOURCE ID: quest_special_dialogue_zygarde_3_2
+TEXT: Zygarde ilginç bir Pokémon’dur. Zygarde Hücrelerinden oluşur ve görünümü topladığı hücrelerin sayısına göre değişir.
+
+RESOURCE ID: quest_special_dialogue_zygarde_3_3
+TEXT: Bunun hücrelerinin oranı %10 gibi duruyor. Daha fazla hücre topladıkça büyüyüp şekil değiştirecek.
+
+RESOURCE ID: quest_special_dialogue_zygarde_3_4
+TEXT: Sana verdiğim hediye de bununla alakalı! Zygarde Küpünü bulduğun Zygarde Hücrelerini saklamak için kullanabilirsin. Hücrelerin yuvası olarak düşün bu küpü.
+
+RESOURCE ID: quest_special_dialogue_zygarde_3_5
+TEXT: Hücreleri nerede bulabileceğine gelince... Rotaların üstünde keşfedilen o yeşil, biçimsiz kütleleri hatırlıyor musun? Bahse girerim onlar aslında Zygarde Hücreleriydi!
+
+RESOURCE ID: quest_special_dialogue_zygarde_3_6
+TEXT: Senden bu varsayımı test etmeni rica edebilir miyim %PLAYERNAME%?
+
+RESOURCE ID: quest_special_dialogue_zygarde_4_0
+TEXT: İlk Zygarde Hücreni ne de güzel buldun %PLAYERNAME%!
+
+RESOURCE ID: quest_special_dialogue_zygarde_4_1
+TEXT: Zygarde’ın formlarını oluşturmaya doğru adım atmış oldun böylece, ama önünde uzun bir yol var.
+
+RESOURCE ID: quest_special_dialogue_zygarde_4_2
+TEXT: Görünüşe göre Zygarde’ın Tamamlanmış Formuna dönüşmek için 250 hücre toplaması gerekiyor. Hücreler de yalnızca rotalar üzerinde bulunuyor. Artık yollara düşeceksin bol bol!
+
+RESOURCE ID: quest_special_dialogue_zygarde_4_3
+TEXT: Hemen başlaman için can atıyorum. Karşılaşacağın Pokémon’ları ve arkadaşları bir düşünsene!
+
+RESOURCE ID: quest_special_dialogue_zygarde_4_4
+TEXT: Birkaç rota daha keşfet istersen. Yoldayken Tütsü kullanmanı öneririm. Diğer Pokémon’larla ilgili araştırmalarımıza da devam etmemiz lazım!
+
+RESOURCE ID: quest_special_dialogue_zygarde_5_0
+TEXT: Tekrar hoş geldin %PLAYERNAME%!
+
+RESOURCE ID: quest_special_dialogue_zygarde_5_1
+TEXT: Tam tamına beş rota mı katettin?! Aferin sana! İşte seninle araştırma yapmak bu maceracı ruhundan dolayı bu kadar keyifli.
+
+RESOURCE ID: quest_special_dialogue_zygarde_5_2
+TEXT: Eminim azmini Zygarde da takdir ediyordur. Çabaların karşılıksız kalmayacak! Tamamlanmış Formundaki Zygarde, Xerneas veya Yveltal’ı bile alt edecek güce sahiptir.
+
+RESOURCE ID: quest_special_dialogue_zygarde_5_3
+TEXT: Zygarde göğsündeki açıklıktan çok güçlü bir enerji yayar. Böylece ekosisteme zarar verenleri etkisiz hale getirir.
+
+RESOURCE ID: quest_special_dialogue_zygarde_5_4
+TEXT: Bu davranış bizi de üzerimize düşeni yapmak için yüreklendirmeli, değil mi? Aslına bakarsan geri dönüşüm yapmak gibi ufak şeyler bile önemlidir. Ama çevremizi korumayı istemek için tehdide ihtiyacımız olmamalı tabii.
+
+RESOURCE ID: quest_special_dialogue_zygarde_5_5
+TEXT: Ne de olsa çevre ne kadar sağlıklıysa, Pokémon’lar ve senin gibi Eğitmenler de o kadar başarılı olur. İçinde yaşadığımız dünyayı herkesin serpilip gelişebileceği bir yer haline getirmek için elimizden geleni yapmalıyız.
+
+RESOURCE ID: quest_special_dialogue_zygarde_5_6
+TEXT: Seni bu düşüncelerle baş başa bırakıyorum %PLAYERNAME%. Zygarde Hücresi arayışında sana kolay gelsin, yolun açık olsun. Zygarde’ın Tamamlanmış Formuna yetecek kadar hücre topladığında ilk benim haberim olsun. Senden haber alana kadar hop oturup hop kalkacağım!
+
 RESOURCE ID: quest_sphet_catch_b
 TEXT: {0} Spheal yakalayın
 
@@ -57769,6 +59568,21 @@ TEXT: Deniztarağından Deniz Kılıcına (3/4)
 RESOURCE ID: quest_title_oshat_3
 TEXT: Deniztarağından Deniz Kılıcına (4/4)
 
+RESOURCE ID: quest_title_poliwag
+TEXT: Sarsak Sarmal
+
+RESOURCE ID: quest_title_poliwag_0
+TEXT: Sarsak Sarmal (1/4)
+
+RESOURCE ID: quest_title_poliwag_1
+TEXT: Sarsak Sarmal (2/4)
+
+RESOURCE ID: quest_title_poliwag_2
+TEXT: Sarsak Sarmal (3/4)
+
+RESOURCE ID: quest_title_poliwag_3
+TEXT: Sarsak Sarmal (4/4)
+
 RESOURCE ID: quest_title_poni
 TEXT: Bir Poni Macerası
 
@@ -58873,6 +60687,27 @@ TEXT: Alan Notları: Galarlı Zigzagoon (3/4)
 RESOURCE ID: quest_title_zigzagoon_3
 TEXT: Alan Notları: Galarlı Zigzagoon (4/4)
 
+RESOURCE ID: quest_title_zygarde
+TEXT: A’dan Zygarde’a
+
+RESOURCE ID: quest_title_zygarde_0
+TEXT: A’dan Zygarde’a (1/6)
+
+RESOURCE ID: quest_title_zygarde_1
+TEXT: A’dan Zygarde’a (2/6)
+
+RESOURCE ID: quest_title_zygarde_2
+TEXT: A’dan Zygarde’a (3/6)
+
+RESOURCE ID: quest_title_zygarde_3
+TEXT: A’dan Zygarde’a (4/6)
+
+RESOURCE ID: quest_title_zygarde_4
+TEXT: A’dan Zygarde’a (5/6)
+
+RESOURCE ID: quest_title_zygarde_5
+TEXT: A’dan Zygarde’a (6/6)
+
 RESOURCE ID: quest_togetic_catch_b
 TEXT: {0} Togetic yakalayın
 
@@ -59062,6 +60897,12 @@ TEXT: Pokémon üzerinde Hiper İksir kullanın
 RESOURCE ID: quest_use_lure
 TEXT: Use a Lure Module
 
+RESOURCE ID: quest_use_lure_plural
+TEXT: Rota takip ederken {0} Yem Modülü kullanın
+
+RESOURCE ID: quest_use_lure_singular
+TEXT: Rota takip ederken bir Yem Modülü kullanın
+
 RESOURCE ID: quest_use_max_potion
 TEXT: Pokémon üzerinde Maks. İksir kullanın
 
@@ -59137,6 +60978,12 @@ TEXT: {0} km yürüyün
 RESOURCE ID: quest_walk_km_plural
 TEXT: {0} km yürüyün
 
+RESOURCE ID: quest_walk_routes_plural
+TEXT: Rota takip ederken {0} km katedin
+
+RESOURCE ID: quest_walk_routes_singular
+TEXT: Rota takip ederken {0} km katedin
+
 RESOURCE ID: quest_walk_steps
 TEXT: {0} adım yürüyün
 
@@ -59196,6 +61043,9 @@ TEXT: Dost Pokémon'unuzla {0} akın kazanın
 
 RESOURCE ID: quest_win_raid_buddy_singular
 TEXT: Dostunuzla bir akın kazanın
+
+RESOURCE ID: quest_win_raid_gofest2023
+TEXT: Rayquaza ile {0} akın kazanın
 
 RESOURCE ID: quest_win_raid_lvl1_higher_singular
 TEXT: 1 veya daha üstü yıldızlı bir akın kazanın
@@ -64139,6 +65989,9 @@ TEXT: Bir Nadir Şeker, {0} Şekere dönüştürülsün mü?
 RESOURCE ID: rare_xl_candy_usage_confirmation
 TEXT: Nadir Büyük Şeker, {0} Büyük Şekere dönüştürülsün mü?
 
+RESOURCE ID: rating_submitted_toast
+TEXT: Rating submitted.
+
 RESOURCE ID: ready_raid_button
 TEXT: HAZIR!
 
@@ -64152,7 +66005,7 @@ RESOURCE ID: ready_raid_ftue_confirm
 TEXT: HAZIRIM!
 
 RESOURCE ID: ready_raid_ftue_desc
-TEXT: Tüm Eğitmenler hazır olduğunda lobi sayacı geri sayar. Akın başlamadığı sürece çıkabilirsiniz.
+TEXT: Tüm Eğitmenler hazır olduğunda lobi sayacı 10 saniyeye düşer. Akın başlamadığı sürece çıkabilirsiniz.
 
 RESOURCE ID: ready_raid_ftue_title
 TEXT: Akını başlatmaya hazır mısınız?
@@ -64493,6 +66346,91 @@ TEXT: Etiket düzenlenemedi
 RESOURCE ID: report_issues_link
 TEXT: https://pokemongo.nianticlabs.com/support/contact/en
 
+RESOURCE ID: report_route_error_daily_max
+TEXT: You already reported this Route.
+You can report it again in {0} days.
+
+RESOURCE ID: report_route_error_missing_selection
+TEXT: Please select a reason for your report.
+
+RESOURCE ID: report_route_error_too_many_reports
+TEXT: You’ve reported the maximum number of Routes for today.
+
+RESOURCE ID: report_route_header_1
+TEXT: Route travels through:
+
+RESOURCE ID: report_route_header_2
+TEXT: Route title or description has:
+
+RESOURCE ID: report_route_reason_adult_establishment
+TEXT: Drinking or adult establishment
+
+RESOURCE ID: report_route_reason_child_safety
+TEXT: Issues regarding child safety
+
+RESOURCE ID: report_route_reason_dangerous
+TEXT: Dangerous or unsafe area
+
+RESOURCE ID: report_route_reason_dangerous_ex
+TEXT: e.g., highways or obstruction of emergency services
+
+RESOURCE ID: report_route_reason_grade_school
+TEXT: Daycare or grade school
+
+RESOURCE ID: report_route_reason_harassment
+TEXT: Harassment or hate speech
+
+RESOURCE ID: report_route_reason_illegal_goods
+TEXT: References to illegal or adult goods
+
+RESOURCE ID: report_route_reason_illegal_goods_ex
+TEXT: e.g., drugs or firearms
+
+RESOURCE ID: report_route_reason_inaccessible
+TEXT: Inaccessible area
+
+RESOURCE ID: report_route_reason_inappropriate
+TEXT: Diğer uygunsuz veya yakışıksız içerik
+
+RESOURCE ID: report_route_reason_invasive
+TEXT: İzinsiz giriş
+
+RESOURCE ID: report_route_reason_invasive_ex
+TEXT: örn. bir kimsenin özel alanını ihlal edebilecek veya bir kimseye rahatsızlık verebilecek yerler
+
+RESOURCE ID: report_route_reason_personal_info
+TEXT: Personal information
+
+RESOURCE ID: report_route_reason_personal_info_ex
+TEXT: e.g., addresses or phone numbers
+
+RESOURCE ID: report_route_reason_private_residence
+TEXT: Private residential property
+
+RESOURCE ID: report_route_reason_private_residence_ex
+TEXT: e.g., apartments or homes
+
+RESOURCE ID: report_route_reason_self_harm
+TEXT: Messages of self-harm
+
+RESOURCE ID: report_route_reason_sensitive_location
+TEXT: Sensitive location
+
+RESOURCE ID: report_route_reason_sensitive_location_ex
+TEXT: e.g., memorial or burial ground
+
+RESOURCE ID: report_route_reason_spam
+TEXT: Game cheats or spam
+
+RESOURCE ID: report_route_reason_temp_obstruction
+TEXT: Temporary obstruction
+
+RESOURCE ID: report_route_reason_temp_obstruction_ex
+TEXT: e.g., construction
+
+RESOURCE ID: report_route_reason_violent_content
+TEXT: Violent or sexual content
+
 RESOURCE ID: report_video_ad_description
 TEXT: Bu reklamı neden şikâyet ediyorsunuz? Uygun olan bütün seçenekleri işaretleyin.
 
@@ -64528,6 +66466,9 @@ TEXT: Yeniden Başlat
 
 RESOURCE ID: resume_ar_multiplayer_session
 TEXT: Önceki ortak AR oturumuna tekrar katılmak istiyor musunuz?
+
+RESOURCE ID: resume_route_travel_error_toast
+TEXT: Error resuming Route
 
 RESOURCE ID: retention_friend_bonus_message
 TEXT: Pokémon GO arkadaşlarla daha eğlencelidir! Hediyeleri arkadaşlarınla paylaşarak TP, Yumurta ve eşya kazanabilirsiniz.
@@ -64602,13 +66543,13 @@ RESOURCE ID: rocket_takeover_event_name
 TEXT: GO Roket Takımı İstilası
 
 RESOURCE ID: route_about_label
-TEXT: ABOUT THIS ROUTE
+TEXT: BU ROTA HAKKINDA
 
 RESOURCE ID: route_about_title
 TEXT: About this Route:
 
 RESOURCE ID: route_actions_label
-TEXT: ACTIONS
+TEXT: EYLEMLER
 
 RESOURCE ID: route_add_point
 TEXT: Konum olarak seçin
@@ -64647,10 +66588,10 @@ RESOURCE ID: route_collapsed_show_more
 TEXT: SHOW MORE {0}
 
 RESOURCE ID: route_community_plays_label
-TEXT: COMMUNITY TRIPS
+TEXT: TOPLULUK GEZİNTİLERİ
 
 RESOURCE ID: route_completion_congratulation
-TEXT: Congratulations!
+TEXT: Tebrikler!
 
 RESOURCE ID: route_completion_explored_count_plural
 TEXT: Bu rotayı {0} kez
@@ -64687,6 +66628,9 @@ TEXT: You must wait 1 hour and {0} minutes to play this route.
 RESOURCE ID: route_cooldown_toast_hours
 TEXT: You must wait {0} hours to play this route.
 
+RESOURCE ID: route_cooldown_toast_hours_and_minute
+TEXT: You must wait {0} hours and {1} minute to follow this Route.
+
 RESOURCE ID: route_cooldown_toast_hours_and_minutes
 TEXT: You must wait {0} hours and {1} minutes to play this route.
 
@@ -64704,6 +66648,12 @@ TEXT: Pick and image and a color to display on the medal when your route is comp
 
 RESOURCE ID: route_create_medal_context_title
 TEXT: Route Medal
+
+RESOURCE ID: route_create_play_conflict_error_a
+TEXT: Rota oluşturma devam ederken bir rota takip edemezsiniz.
+
+RESOURCE ID: route_create_play_conflict_error_b
+TEXT: Bir rota takip ederken rota oluşturmaya başlayamazsınız.
 
 RESOURCE ID: route_creation_abandon_button
 TEXT: Rota Oluşturmayı Sonlandır
@@ -64726,8 +66676,14 @@ TEXT: Yeni Bitiş Noktası Seç
 RESOURCE ID: route_creation_action_menu_pause
 TEXT: Rota Oluşturmayı Duraklat
 
+RESOURCE ID: route_creation_action_menu_pin
+TEXT: Place a Pin
+
 RESOURCE ID: route_creation_action_menu_resume
 TEXT: Rota Kaydetmeye Devam Et
+
+RESOURCE ID: route_creation_action_menu_select_endpoint
+TEXT: Choose End Point
 
 RESOURCE ID: route_creation_active
 TEXT: Yapım aşamasında olan bir rotanız var.
@@ -64743,6 +66699,9 @@ TEXT: Rota Oluşturmayı Duraklat
 
 RESOURCE ID: route_creation_ask_start_title
 TEXT: Seçtiğiniz başlangıç noktasının yakınındasınız. Rotanızın güzergâhını kaydetmeye hazır mısınız?
+
+RESOURCE ID: route_creation_ask_submit
+TEXT: You are near the end point you selected. Are you done recording?
 
 RESOURCE ID: route_creation_ask_submit_cancel
 TEXT: KAYDETMEYE DEVAM ET
@@ -64792,8 +66751,14 @@ TEXT: Bir PokéDurağı
 RESOURCE ID: route_creation_choose_start_sub_header
 TEXT: rota başlangıç noktanız olarak seçin.
 
+RESOURCE ID: route_creation_error_invalid_start
+TEXT: Rota başlangıç noktası geçersiz.
+
+RESOURCE ID: route_creation_error_start_failed
+TEXT: Rota oluşturma başlatılamadı.
+
 RESOURCE ID: route_creation_error_submission_max
-TEXT: เหรียญตรา
+TEXT: Şu anda daha fazla rota gönderemezsiniz. Lütfen daha sonra tekrar deneyin.
 
 RESOURCE ID: route_creation_generic_distance_warning_error
 TEXT: İstenen eylem gerçekleştirilemiyor.
@@ -64872,6 +66837,9 @@ TEXT: Rota Nasıl Oluşturulur
 RESOURCE ID: route_creation_onboarding_title_2
 TEXT: Kriterler
 
+RESOURCE ID: route_creation_onboarding_title_3
+TEXT: Placing Pins
+
 RESOURCE ID: route_creation_onboarding_title_4
 TEXT: Değerlendirme Süreci
 
@@ -64886,6 +66854,9 @@ TEXT: Rota ilerlemeniz saklanacak. Rotanızı kaydetmeye devam etmek için bu ko
 
 RESOURCE ID: route_creation_resume_button
 TEXT: ROTA OLUŞTURMAYA DEVAM ET
+
+RESOURCE ID: route_creation_resume_error_adsync
+TEXT: Enable Adventure Sync to resume Route creation. 
 
 RESOURCE ID: route_creation_resume_label
 TEXT: KAYDA DEVAM ET
@@ -64902,14 +66873,27 @@ TEXT: Kaydetmeye başlanamıyor. Başlangıç noktanızın yakınında değilsin
 RESOURCE ID: route_creation_submit
 TEXT: DEBUG CREATION SUBMIT
 
+RESOURCE ID: route_creator_label
+TEXT: ROUTE CREATOR
+
 RESOURCE ID: route_creator_stats_label
-TEXT: Creator Statistics
+TEXT: Oluşturucu İstatistikleri
 
 RESOURCE ID: route_data_onboarding_page_1
 TEXT: Now that you’ve created a Route, it’s time to tell people about it!
 
 RESOURCE ID: route_data_onboarding_title_1
 TEXT: Enter Route Data
+
+RESOURCE ID: route_decayed_description
+TEXT: This Route has been archived.
+
+RESOURCE ID: route_decayed_modal_description
+TEXT: The Route {0} was archived due to disuse.
+Archived Routes will remain visible on your Route Creator page, but they cannot be followed and they are not publicly discoverable.
+
+RESOURCE ID: route_decayed_modal_title
+TEXT: The Route {0} has been archived.
 
 RESOURCE ID: route_denial_exceeds_max_total_distance
 TEXT: Adding this PokéStop or Gym will cause your Route to exceed the maximum Route length.
@@ -64923,8 +66907,32 @@ TEXT: Bu PokéDurak en son konuma çok uzak. {0} metreden yakında olmalıdır.
 RESOURCE ID: route_denial_too_many_stops_in_route
 TEXT: Bu Yol, maksimum konum sayısına ulaştı: {0}
 
+RESOURCE ID: route_detail_rejected_delete_button
+TEXT: DELETE ROUTE
+
+RESOURCE ID: route_detail_rejected_description
+TEXT: This Route was rejected.
+
+RESOURCE ID: route_detail_under_review_withdraw_button
+TEXT: WITHDRAW SUBMISSION
+
+RESOURCE ID: route_discovery_tab_all
+TEXT: All
+
+RESOURCE ID: route_discovery_tab_known
+TEXT: Known
+
+RESOURCE ID: route_discovery_tab_new
+TEXT: New
+
+RESOURCE ID: route_discovery_tab_official
+TEXT: Official
+
+RESOURCE ID: route_discovery_tab_popular
+TEXT: Popular
+
 RESOURCE ID: route_distance_walked_label
-TEXT: Distance Walked on Route
+TEXT: Rotada Katedilen Mesafe
 
 RESOURCE ID: route_earned_new_stamp
 TEXT: New stamp registered!
@@ -64932,11 +66940,38 @@ TEXT: New stamp registered!
 RESOURCE ID: route_edit_button
 TEXT: DÜZENLEMEYE DEVAM EDİN
 
+RESOURCE ID: route_edit_deleted_toast
+TEXT: {0} silindi.
+
+RESOURCE ID: route_edit_exit_button_primary
+TEXT: DEĞİŞİKLİKLERİ KAYDET
+
+RESOURCE ID: route_edit_exit_button_secondary
+TEXT: KAYDETME
+
+RESOURCE ID: route_edit_exit_description
+TEXT: Çıkarsanız kaydedilmemiş değişiklikleri kaybedeceksiniz.
+
+RESOURCE ID: route_edit_exit_title
+TEXT: Değişiklikleri kaydetmek istiyor musunuz?
+
 RESOURCE ID: route_edit_resubmit_label
-TEXT: EDIT AND RESUBMIT
+TEXT: DÜZENLEYİP YENİDEN GÖNDER
+
+RESOURCE ID: route_edit_submission_label
+TEXT: GÖNDERİMİ DÜZENLE
+
+RESOURCE ID: route_edit_warning_button
+TEXT: DİĞER ROTAYI GÖRÜNTÜLE
+
+RESOURCE ID: route_edit_warning_description
+TEXT: Yapım aşamasında olan bir rotanız varken başka bir rota gönderimini düzenleyemezsiniz. Gönderiminizi düzenlemek istiyorsanız lütfen üzerinde çalıştığınız rotayı tamamlayın veya iptal edin.
+
+RESOURCE ID: route_edit_warning_title
+TEXT: Bu rota gönderimi düzenlenemedi
 
 RESOURCE ID: route_elevation_label
-TEXT: ELEVATION
+TEXT: RAKIM
 
 RESOURCE ID: route_enforcement_cta
 TEXT: Bu kararın hatalı olduğunu düşünüyorsanız
@@ -64990,8 +67025,17 @@ TEXT: Enter the title that others will see when searching for routes
 RESOURCE ID: route_enter_title_context_title
 TEXT: Route Title
 
+RESOURCE ID: route_error_unable_to_complete_action
+TEXT: Unable to complete the requested action. Please try again.
+
+RESOURCE ID: route_error_unable_to_edit
+TEXT: Bu gönderilen rota düzenlenemez. Lütfen bu rotanın durumunun değişip değişmediğini görmek için Oluşturulan Rotalar listenizi yenileyin.
+
 RESOURCE ID: route_expired_error
 TEXT: Current route has expired
+
+RESOURCE ID: route_first_play_date_label
+TEXT: First Followed
 
 RESOURCE ID: route_frame_select_subtitle
 TEXT: Ön İzleme
@@ -65000,7 +67044,7 @@ RESOURCE ID: route_frame_select_title
 TEXT: Lütfen önizlemek için bir madalya seçin
 
 RESOURCE ID: route_general
-TEXT: Yol
+TEXT: ROTA
 
 RESOURCE ID: route_general_plural
 TEXT: Yol
@@ -65018,7 +67062,10 @@ RESOURCE ID: route_km_label
 TEXT: {0} km
 
 RESOURCE ID: route_last_play_date_label
-TEXT: Last Followed
+TEXT: Son Takip Edilen Tarih
+
+RESOURCE ID: route_level
+TEXT: Route Level {0}
 
 RESOURCE ID: route_list_context_page
 TEXT: Arrange and modify your pokestop list from here
@@ -65084,13 +67131,13 @@ RESOURCE ID: route_nearby_label
 TEXT: {0} routes
 
 RESOURCE ID: route_nearby_list_button
-TEXT: SEE NEARBY ROUTES ({0})
+TEXT: YAKINDAKİ ROTALAR ({0})
 
 RESOURCE ID: route_nearby_list_header
 TEXT: NEARBY ROUTE ({0})
 
 RESOURCE ID: route_not_playable
-TEXT: This Route is not currently available.
+TEXT: Bu rota şu anda kullanılamıyor.
 
 RESOURCE ID: route_notification_resume
 TEXT: Entered the route area.
@@ -65104,6 +67151,9 @@ TEXT: Bu yol, başlamak için çok uzakta.
 
 RESOURCE ID: route_pause_description
 TEXT: This route paused because you moved away from the route area. If you walk close to the next location, this route will automatically resume.
+
+RESOURCE ID: route_pause_label
+TEXT: PAUSE ROUTE
 
 RESOURCE ID: route_pause_prompt
 TEXT: Yol ilerlemeniz kaydedilecek. ITEMS altında yer alan Yol Oluşturucu menüsünden dilediğiniz zaman devam edebilirsiniz.
@@ -65120,11 +67170,23 @@ TEXT: (This route will cancel in {0} hour)
 RESOURCE ID: route_pause_stamp_message
 TEXT: {0} paused because you moved away from a route area. If you walk close to the next route point "<color=#{1}>{2}</color>”, this route automatically turn on again.
 
+RESOURCE ID: route_pause_title
+TEXT: Route play paused.
+
 RESOURCE ID: route_paused_prompt
 TEXT: Yol, {0} olarak kaydedildi.
 
 RESOURCE ID: route_paused_title
 TEXT: Yol Oluşturma Duraklatıldı
+
+RESOURCE ID: route_pin_subtitle
+TEXT: Pin Title:
+
+RESOURCE ID: route_pin_title_add
+TEXT: Select Pin to Add
+
+RESOURCE ID: route_pin_title_edit
+TEXT: Edit Pin Title
 
 RESOURCE ID: route_planning_context_page
 TEXT: Plan your Route here
@@ -65137,6 +67199,94 @@ TEXT: Yola en az {0} PokéDurak ve/veya Spor Salonu daha ekleyin.
 
 RESOURCE ID: route_planning_must_add_one_poi
 TEXT: Add at least 1 more Pokéstop or Gym to this route.
+
+RESOURCE ID: route_play_adsync_breadcrumb_notification
+TEXT: Route in progress. 
+
+RESOURCE ID: route_play_badge_earn_description_bronze
+TEXT: You earned a Bronze Route Badge! 
+
+RESOURCE ID: route_play_badge_earn_description_gold
+TEXT: You earned a Gold Route Badge! 
+
+RESOURCE ID: route_play_badge_earn_description_silver
+TEXT: You earned a Silver Route Badge! 
+
+RESOURCE ID: route_play_badge_earn_description_white
+TEXT: You earned a Route Badge! 
+
+RESOURCE ID: route_play_badge_progress_title
+TEXT: Route complete!
+
+RESOURCE ID: route_play_completion_reject_description_primary
+TEXT: You have reached the end point, but you have not traveled far enough to complete the  Route. 
+
+RESOURCE ID: route_play_completion_reject_description_secondary
+TEXT: Please resume the Route and return to the end point when you have traveled the complete distance.
+
+RESOURCE ID: route_play_completion_reject_description_values
+TEXT: Route Length: {0}
+Your Travel Distance: <color=#F2A64B>{1}</color>
+
+RESOURCE ID: route_play_completion_reject_title
+TEXT: Route requirements not yet met
+
+RESOURCE ID: route_play_detail_map_soon
+TEXT: Route preview map currently unavailable.
+
+RESOURCE ID: route_play_hoo_warning_button
+TEXT: FOLLOW ROUTE
+
+RESOURCE ID: route_play_hoo_warning_description
+TEXT: You may encounter issues completing this Route if you decide to follow it at this time.
+
+RESOURCE ID: route_play_hoo_warning_title
+TEXT: You may not be able to access some PokéStops on this Route by the time you arrive.
+
+RESOURCE ID: route_play_label
+TEXT: FOLLOW
+
+RESOURCE ID: route_play_low_rating_description
+TEXT: If you experienced an issue, you can report the Route for Niantic to review.
+
+RESOURCE ID: route_play_low_rating_title
+TEXT: Did you experience any issues on this Route?
+
+RESOURCE ID: route_play_pause_confirmation_description
+TEXT: You must return to this location to resume this Route.
+
+RESOURCE ID: route_play_pause_confirmation_title
+TEXT: Are you sure you want to pause the Route?
+
+RESOURCE ID: route_play_pause_location_error_description
+TEXT: Your Route was automatically paused because your location could not be established. Get closer to the path to resume the Route.
+
+RESOURCE ID: route_play_pause_location_error_title
+TEXT: Route was paused.
+
+RESOURCE ID: route_play_rate_route_description
+TEXT: Your rating will help other Trainers discover great Routes!
+
+RESOURCE ID: route_play_rate_route_error_no_selection
+TEXT: Please specify a rating.
+
+RESOURCE ID: route_play_rate_route_title
+TEXT: Rate this Route
+
+RESOURCE ID: route_play_report_route_button
+TEXT: REPORT ROUTE
+
+RESOURCE ID: route_play_resume_directive
+TEXT: Head toward the point where you last paused the Route to resume.
+
+RESOURCE ID: route_play_resume_error_too_far
+TEXT: Get closer to the location where you last paused the Route to resume.
+
+RESOURCE ID: route_play_resume_toast
+TEXT: Route resumed.
+
+RESOURCE ID: route_play_travel_distance
+TEXT: Your Travel Distance:
 
 RESOURCE ID: route_poi_list_view_description_short_tip
 TEXT: Yola en az {0} PokéDurak ve/veya Spor Salonu ekleyin.
@@ -65156,11 +67306,17 @@ TEXT: Toplam doğrudan mesafe: {0} m
 RESOURCE ID: route_poi_list_view_total_time
 TEXT: Toplam tahmini süre: {0} dk
 
+RESOURCE ID: route_pokemon_caught_label
+TEXT: Pokémon Caught on Route
+
 RESOURCE ID: route_published_list_header
 TEXT: YAYINLANMIŞ YOLLAR
 
 RESOURCE ID: route_published_title
 TEXT: PUBLISHED ROUTES
+
+RESOURCE ID: route_quit_label
+TEXT: QUIT ROUTE
 
 RESOURCE ID: route_rating_button
 TEXT: RATE
@@ -65170,7 +67326,7 @@ TEXT: Did you enjoy this route?
 Can you rate this route?
 
 RESOURCE ID: route_rating_percentage_label
-TEXT: {0}%
+TEXT: %{0}
 
 RESOURCE ID: route_rating_reason
 TEXT: You can pick multiple choices.
@@ -65238,6 +67394,18 @@ TEXT: Kayıt devam ettirildi.
 RESOURCE ID: route_recording_started
 TEXT: Kayıt başlatıldı.
 
+RESOURCE ID: route_rejected_deletion_confirm_description
+TEXT: This action cannot be undone. This Route will be completely lost and unrecoverable if you proceed.
+
+RESOURCE ID: route_rejected_deletion_confirm_title
+TEXT: Are you sure you want to delete this Route?
+
+RESOURCE ID: route_rejected_deletion_success_description
+TEXT: This Route will be removed from your Created Routes list.
+
+RESOURCE ID: route_rejected_deletion_success_title
+TEXT: This Route was successfully deleted.
+
 RESOURCE ID: route_rejection_action
 TEXT: EDIT AND RESUBMIT
 
@@ -65246,6 +67414,9 @@ TEXT: Bu Yol reddedildi
 
 RESOURCE ID: route_remove_from_route
 TEXT: Yoldan kaldırın
+
+RESOURCE ID: route_report_body
+TEXT: When you report a route to Niantic, we review the report and take appropriate action in line with our policies. Your identity will never be shared with the Route’s creator. By submitting a report, you confirm that the report is truthful.
 
 RESOURCE ID: route_report_cancel_message
 TEXT: If you submit this report, the route will cancel.
@@ -65260,11 +67431,26 @@ TEXT: I don't know
 RESOURCE ID: route_report_permanent
 TEXT: Permanent issue
 
+RESOURCE ID: route_report_submit_description
+TEXT: Thank you for submitting a report. We’re sorry for any inconvenience you experienced.
+
+RESOURCE ID: route_report_submit_description_long
+TEXT: Thank you for submitting a report. We’re sorry for any inconvenience you experienced. You will receive rewards for the section of the Route you completed.
+
+RESOURCE ID: route_report_submit_title
+TEXT: Route Reported
+
 RESOURCE ID: route_report_temporary
 TEXT: Temporary issue
 
 RESOURCE ID: route_report_title
 TEXT: Bu Rotayı Bildirin
+
+RESOURCE ID: route_report_warning_description
+TEXT: If you submit this report, your current Route session will end. 
+
+RESOURCE ID: route_report_warning_title
+TEXT: Are you sure you want to report this Route?
 
 RESOURCE ID: route_reset_modal_promot
 TEXT: Sıfırlarsanız Yolunuza ait tüm veriler silinecek. Emin misiniz?
@@ -65272,8 +67458,14 @@ TEXT: Sıfırlarsanız Yolunuza ait tüm veriler silinecek. Emin misiniz?
 RESOURCE ID: route_reset_modal_title
 TEXT: YOL SIFIRLANSIN MI?
 
+RESOURCE ID: route_resume_label
+TEXT: RESUME ROUTE
+
+RESOURCE ID: route_reversed_toast
+TEXT: Route direction reversed.
+
 RESOURCE ID: route_reversible_notice_label
-TEXT: This Route can be followed in reverse.
+TEXT: Bu rota tersten takip edilebilir.
 
 RESOURCE ID: route_review_submission_page
 TEXT: Please look over all the information you’ve entered before submitting your Route.
@@ -65289,6 +67481,9 @@ TEXT: Theme
 
 RESOURCE ID: route_sort_length
 TEXT: Length
+
+RESOURCE ID: route_sort_level
+TEXT: Level
 
 RESOURCE ID: route_sort_proximity
 TEXT: Nearest
@@ -65321,7 +67516,7 @@ RESOURCE ID: route_start_toast
 TEXT: {0} started!
 
 RESOURCE ID: route_status_decayed
-TEXT: Archived
+TEXT: Arşivlendi
 
 RESOURCE ID: route_status_in_progress
 TEXT: Henüz gönderilmedi
@@ -65410,6 +67605,12 @@ TEXT: RENK
 RESOURCE ID: route_submission_description
 TEXT: Açıklama
 
+RESOURCE ID: route_submission_edit_description
+TEXT: Şimdi değişiklik yaparsanız bu rotayı değerlendirmek daha uzun süre alabilir.
+
+RESOURCE ID: route_submission_edit_title
+TEXT: Bu gönderimi düzenlemek istediğinizden emin misiniz?
+
 RESOURCE ID: route_submission_medal_creation_title
 TEXT: Rozet Oluşturma
 
@@ -65422,13 +67623,22 @@ TEXT: Lütfen devam etmek için geçerli bir açıklama girin
 RESOURCE ID: route_submission_must_add_title
 TEXT: Lütfen devam etmek için geçerli bir başlık girin
 
+RESOURCE ID: route_submission_name_placeholder
+TEXT: Rota Başlığı
+
 RESOURCE ID: route_submission_next_steps
 TEXT: The next step is to name and describe your Route.
 
 It might take a few minutes for you to write a description, and doing so will help speed up the approval process. Don’t worry—your progress will be saved if you exit!
 
+RESOURCE ID: route_submission_path
+TEXT: Path
+
 RESOURCE ID: route_submission_photo_tab_name
 TEXT: FOTOĞRAF
+
+RESOURCE ID: route_submission_preview_title
+TEXT: Submission Preview
 
 RESOURCE ID: route_submission_resubmit_no_change_error
 TEXT: Bu rotayı yeniden göndermek için lütfen adını ve/veya açıklamasını değiştirin.
@@ -65439,8 +67649,20 @@ TEXT: Route submission error. Please try again later.
 RESOURCE ID: route_submission_result_matches_rejection
 TEXT: Bu rota, daha önce reddedilen başka bir rota ile aynı.
 
+RESOURCE ID: route_submission_result_publish_description
+TEXT: Thank you for your contribution to the Pokémon GO Community!
+
+RESOURCE ID: route_submission_result_publish_title
+TEXT: Your Route was published!
+
 RESOURCE ID: route_submission_result_reject_description
 TEXT: Adında ve/veya açıklamasında uygunsuz ifadeler veya bağlantılar yer aldığı için rotanız reddedildi. Bu rotayı düzenleyip yeniden gönderemezsiniz.
+
+RESOURCE ID: route_submission_result_reject_reasons_primary
+TEXT: Your Route was rejected because:
+
+RESOURCE ID: route_submission_result_reject_reasons_secondary
+TEXT: You can edit and resubmit this Route.
 
 RESOURCE ID: route_submission_result_reject_title
 TEXT: Gönderdiğiniz rota reddedildi.
@@ -65478,6 +67700,9 @@ TEXT: MEVCUT GÜZERGÂHI SAKLA
 RESOURCE ID: route_submission_review_title
 TEXT: Rota Güzergâhını Gözden Geçirin
 
+RESOURCE ID: route_submission_second_page_title
+TEXT: Rota açıklaması yazın
+
 RESOURCE ID: route_submission_select_color_prompt
 TEXT: Rota Rozetiniz için bir başlık rengi seçin:
 
@@ -65507,6 +67732,9 @@ TEXT: Write Later
 
 RESOURCE ID: route_submission_write_now
 TEXT: Write Now
+
+RESOURCE ID: route_submit_label
+TEXT: SUBMIT
 
 RESOURCE ID: route_submitted_confirmation_description
 TEXT: You've successfully submitted your Route. Once it's been reviewed, it will show in your Route Maker page.
@@ -65575,13 +67803,46 @@ RESOURCE ID: route_tag_wheelchair
 TEXT: Tekerlekli Sandalyeyle Erişilebilir
 
 RESOURCE ID: route_tags_label
-TEXT: TAGS
+TEXT: ETİKETLER
 
 RESOURCE ID: route_times_label
 TEXT: {0} times
 
+RESOURCE ID: route_total_activity_label
+TEXT: TOTAL ACTIVITY
+
+RESOURCE ID: route_total_community_activity_label
+TEXT: TOTAL COMMUNITY ACTIVITY
+
+RESOURCE ID: route_total_plays_label
+TEXT: Total Times Followed
+
+RESOURCE ID: route_travel_reverse_button
+TEXT: REVERSE DIRECTION
+
 RESOURCE ID: route_under_review_description
-TEXT: This Route is under review.
+TEXT: Bu rota inceleme altında.
+
+RESOURCE ID: route_under_review_withdraw_confirm_description
+TEXT: This action cannot be undone. This Route will return to an in-progress state if you proceed. You can edit and resubmit this Route for review later.
+
+RESOURCE ID: route_under_review_withdraw_confirm_title
+TEXT: Are you sure you want to withdraw this Route from review?
+
+RESOURCE ID: route_under_review_withdraw_fail_description
+TEXT: You have another Route in progress, so you cannot withdraw this Route from submission at this time. Please complete your current Route and return to this page to try again.
+
+RESOURCE ID: route_under_review_withdraw_fail_title
+TEXT: Unable to withdraw this Route from review
+
+RESOURCE ID: route_under_review_withdraw_success_description
+TEXT: This Route has returned to an in-progress state. You can now edit and submit this Route again via the Routes section of your Trainer profile.
+
+RESOURCE ID: route_under_review_withdraw_success_title
+TEXT: This Route was successfully withdrawn from review
+
+RESOURCE ID: route_unsubmit_label
+TEXT: UNSUBMIT ROUTE
 
 RESOURCE ID: route_validation_celebration
 TEXT: Nice job, you've verified your route! Now you can add information to the route you've created.
@@ -65664,6 +67925,9 @@ TEXT: Walking your Route
 RESOURCE ID: route_walking_first_poi_spin
 TEXT: Lütfen başlangıç noktası olarak seçtiğiniz bu PokéDurak/Spor Salonunu, diski döndürerek onaylayın.
 
+RESOURCE ID: route_walking_follow_path
+TEXT: Follow the path to the Route end point to complete this Route. 
+
 RESOURCE ID: route_walking_head_to_start
 TEXT: Rotayı başlatmak için başlangıç noktasına gidin.
 
@@ -65677,13 +67941,13 @@ RESOURCE ID: route_walking_poi_verified
 TEXT: Yol üzerindeki PokéDurak/Spor Salonu doğrulandı.
 
 RESOURCE ID: route_weekly_community_activity_label
-TEXT: WEEKLY COMMUNITY ACTIVITY
+TEXT: HAFTALIK TOPLULUK AKTİVİTESİ
 
 RESOURCE ID: route_weekly_plays_label
-TEXT: Times Followed
+TEXT: Takip Etme Sayısı
 
 RESOURCE ID: route_your_plays_label
-TEXT: YOUR TRIPS
+TEXT: GEZİNTİLERİNİZ
 
 RESOURCE ID: route_zero_route_maker_desc
 TEXT: You don’t have a Route Maker. You will need a Route Maker if you want to create a new Route.
@@ -65794,7 +68058,7 @@ RESOURCE ID: sa_account_creation_prompt
 TEXT: Niantic Kids hesabınız yok mu?
 
 RESOURCE ID: sa_auth_failed
-TEXT: Kimlik doğrulanamadı. Lütfen tekrar deneyin.
+TEXT: Bu hesap doğrulanamadı. Lütfen daha sonra tekrar deneyin veya başka bir bağlı hesap deneyin.
 
 RESOURCE ID: sa_auth_failed_permissions
 TEXT: Bu oyunu oynamak için lütfen bir ebeveyn veya velinin Niantic Kids hesabına giriş yaparak gereken izinleri etkinleştirmesini sağlayın.
@@ -66431,7 +68695,7 @@ RESOURCE ID: see_less
 TEXT: Daha Az Gör
 
 RESOURCE ID: see_more
-TEXT: DAHA FAZLA
+TEXT: Daha Fazla Gör
 
 RESOURCE ID: see_schedule
 TEXT: Takvimi Gör
@@ -66961,7 +69225,7 @@ RESOURCE ID: settings_wearables_auto_spin_pbp
 TEXT: PokéDurak Otomatik Döndürme
 
 RESOURCE ID: settings_wearables_auto_spin_pbp_description
-TEXT: Bir Pokémon’u Nintendo Switch için Pokémon: Let’s Go, Pikachu! veya Pokémon: Let’s Go, Eevee!’den Poké Ball Plus’a aktararak Otomatik Döndürmeyi etkinleştirebilirsiniz. Otomatik döndürme etkin olduğunda düğmeye basarak PokéDurak döndüremezsiniz. 
+TEXT: Bir Pokémon’u Nintendo Switch için Pokémon: Let’s Go, Pikachu!, Pokémon: Let’s Go, Eevee!, Pokémon Sword veya Pokémon Shield’den Poké Ball Plus’a aktararak otomatik döndürmeyi etkinleştirebilirsiniz. Otomatik döndürme etkin olduğunda düğmeye basarak PokéDurak döndüremezsiniz.
 
 RESOURCE ID: settings_wearables_auto_throw
 TEXT: Poké Topu Otomatik Atışını Etkinleştir
@@ -67715,14 +69979,22 @@ TEXT: Paylaşmayı reddederseniz sekiz adede kadar uyku oturumunun verisi yine d
 RESOURCE ID: sleep_tips_1_title
 TEXT: Pokémon GO Plus + ile Uyku Takibi İçin Ödül Kazanın!
 
+RESOURCE ID: sleep_tips_2_description_0
+TEXT: Pokémon GO Plus + cihazı vücudunuzun yakınında olmalıdır, aksi halde uykunuzu algılamayabilir.
+
 RESOURCE ID: sleep_tips_2_description_1
 TEXT: Bunu yapmak için mavi ışık bir kez yanıp sönünceye kadar Pokémon GO Plus + cihazınızın ana düğmesini basılı tutun.
+
+Bu özelliğin çalışması için Pokémon GO Plus + cihazınız Pokémon GO ile eşleşmiş olmalı ama aktif olarak bağlı olmamalıdır.
 
 RESOURCE ID: sleep_tips_2_description_2
 TEXT: Bunu yapmak için çok renkli ışık bir kez yanıp sönünceye kadar Pokémon GO Plus + cihazınızın ana düğmesini basılı tutun.
 
 RESOURCE ID: sleep_tips_2_description_3
 TEXT: Uykunuzu kaydettikten sonra Pokémon Go’yu açın ve uyku verinizi göndermeye başlamak için Pokémon GO Plus + cihazınız ile bağlantı kurun.
+
+RESOURCE ID: sleep_tips_2_text_0
+TEXT: Pokémon GO Plus + cihazını yatağınızın üzerine koyun veya yastığınıza klipsleyin.
 
 RESOURCE ID: sleep_tips_2_text_1
 TEXT: Uyumadan önce bir uyku oturumu başlatın.
@@ -68003,6 +70275,9 @@ TEXT: Doğada daha fazla Oshawott ortaya çıkıyor
 
 RESOURCE ID: spawn_pidgey
 TEXT: Doğada daha fazla Pidgey ortaya çıkıyor!
+
+RESOURCE ID: spawn_poliwag
+TEXT: Doğada daha fazla Poliwag ortaya çıkıyor!
 
 RESOURCE ID: spawn_porygon
 TEXT: Doğada daha fazla Porygon ortaya çıkıyor
@@ -68970,6 +71245,162 @@ TEXT: Pokémon GO Festivali: Seattle Park Tecrübesi (4/5)
 RESOURCE ID: sr_gofest2022_leseap_5
 TEXT: Pokémon GO Festivali: Seattle Park Tecrübesi (5/5)
 
+RESOURCE ID: sr_gofest2023_global_day1
+TEXT: GO Festivali 2023: Pırlanta Gibi
+
+RESOURCE ID: sr_gofest2023_global_day1_1
+TEXT: GO Festivali 2023: Pırlanta Gibi (1/6)
+
+RESOURCE ID: sr_gofest2023_global_day1_2
+TEXT: GO Festivali 2023: Pırlanta Gibi (2/6)
+
+RESOURCE ID: sr_gofest2023_global_day1_3
+TEXT: GO Festivali 2023: Pırlanta Gibi (3/6)
+
+RESOURCE ID: sr_gofest2023_global_day1_4
+TEXT: GO Festivali 2023: Pırlanta Gibi (4/6)
+
+RESOURCE ID: sr_gofest2023_global_day1_5
+TEXT: GO Festivali 2023: Pırlanta Gibi (5/6)
+
+RESOURCE ID: sr_gofest2023_global_day1_6
+TEXT: GO Festivali 2023: Pırlanta Gibi (6/6)
+
+RESOURCE ID: sr_gofest2023_global_day2_extended
+TEXT: GO Festivali 2023: Süper Gök Yüksekliği
+
+RESOURCE ID: sr_gofest2023_global_day2_extended_1
+TEXT: GO Festivali 2023: Süper Gök Yüksekliği (1/5)
+
+RESOURCE ID: sr_gofest2023_global_day2_extended_2
+TEXT: GO Festivali 2023: Süper Gök Yüksekliği (2/5)
+
+RESOURCE ID: sr_gofest2023_global_day2_extended_3
+TEXT: GO Festivali 2023: Süper Gök Yüksekliği (3/5)
+
+RESOURCE ID: sr_gofest2023_global_day2_extended_4
+TEXT: GO Festivali 2023: Süper Gök Yüksekliği (4/5)
+
+RESOURCE ID: sr_gofest2023_global_day2_extended_5
+TEXT: GO Festivali 2023: Süper Gök Yüksekliği (5/5)
+
+RESOURCE ID: sr_gofest2023_global_day2_intro
+TEXT: GO Festivali 2023: Gök Yüksekliği
+
+RESOURCE ID: sr_gofest2023_global_day2_intro_1
+TEXT: GO Festivali 2023: Gök Yüksekliği (1/2)
+
+RESOURCE ID: sr_gofest2023_global_day2_intro_2
+TEXT: GO Festivali 2023: Gök Yüksekliği (2/2)
+
+RESOURCE ID: sr_gofest2023_london_city
+TEXT: GO Festivali 2023: Londra Şehir Gezisi
+
+RESOURCE ID: sr_gofest2023_london_city_1
+TEXT: GO Festivali 2023: Londra Şehir Gezisi (1/5)
+
+RESOURCE ID: sr_gofest2023_london_city_2
+TEXT: GO Festivali 2023: Londra Şehir Gezisi (2/5)
+
+RESOURCE ID: sr_gofest2023_london_city_3
+TEXT: GO Festivali 2023: Londra Şehir Gezisi (3/5)
+
+RESOURCE ID: sr_gofest2023_london_city_4
+TEXT: GO Festivali 2023: Londra Şehir Gezisi (4/5)
+
+RESOURCE ID: sr_gofest2023_london_city_5
+TEXT: GO Festivali 2023: Londra Şehir Gezisi (5/5)
+
+RESOURCE ID: sr_gofest2023_london_park
+TEXT: GO Festivali 2023: Londra Park Macerası
+
+RESOURCE ID: sr_gofest2023_london_park_1
+TEXT: GO Festivali 2023: Londra Park Macerası (1/5)
+
+RESOURCE ID: sr_gofest2023_london_park_2
+TEXT: GO Festivali 2023: Londra Park Macerası (2/5)
+
+RESOURCE ID: sr_gofest2023_london_park_3
+TEXT: GO Festivali 2023: Londra Park Macerası (3/5)
+
+RESOURCE ID: sr_gofest2023_london_park_4
+TEXT: GO Festivali 2023: Londra Park Macerası (4/5)
+
+RESOURCE ID: sr_gofest2023_london_park_5
+TEXT: GO Festivali 2023: Londra Park Macerası (5/5)
+
+RESOURCE ID: sr_gofest2023_newyork_city
+TEXT: GO Festivali 2023: New York Şehir Gezisi
+
+RESOURCE ID: sr_gofest2023_newyork_city_1
+TEXT: GO Festivali 2023: New York Şehir Gezisi (1/5)
+
+RESOURCE ID: sr_gofest2023_newyork_city_2
+TEXT: GO Festivali 2023: New York Şehir Gezisi (2/5)
+
+RESOURCE ID: sr_gofest2023_newyork_city_3
+TEXT: GO Festivali 2023: New York Şehir Gezisi (3/5)
+
+RESOURCE ID: sr_gofest2023_newyork_city_4
+TEXT: GO Festivali 2023: New York Şehir Gezisi (4/5)
+
+RESOURCE ID: sr_gofest2023_newyork_city_5
+TEXT: GO Festivali 2023: New York Şehir Gezisi (5/5)
+
+RESOURCE ID: sr_gofest2023_newyork_park
+TEXT: GO Festivali 2023: New York Park Macerası
+
+RESOURCE ID: sr_gofest2023_newyork_park_1
+TEXT: GO Festivali 2023: New York Park Macerası (1/5)
+
+RESOURCE ID: sr_gofest2023_newyork_park_2
+TEXT: GO Festivali 2023: New York Park Macerası (2/5)
+
+RESOURCE ID: sr_gofest2023_newyork_park_3
+TEXT: GO Festivali 2023: New York Park Macerası (3/5)
+
+RESOURCE ID: sr_gofest2023_newyork_park_4
+TEXT: GO Festivali 2023: New York Park Macerası (4/5)
+
+RESOURCE ID: sr_gofest2023_newyork_park_5
+TEXT: GO Festivali 2023: New York Park Macerası (5/5)
+
+RESOURCE ID: sr_gofest2023_osaka_city
+TEXT: GO Festivali 2023: Osaka Şehir Gezisi
+
+RESOURCE ID: sr_gofest2023_osaka_city_1
+TEXT: GO Festivali 2023: Osaka Şehir Gezisi (1/5)
+
+RESOURCE ID: sr_gofest2023_osaka_city_2
+TEXT: GO Festivali 2023: Osaka Şehir Gezisi (2/5)
+
+RESOURCE ID: sr_gofest2023_osaka_city_3
+TEXT: GO Festivali 2023: Osaka Şehir Gezisi (3/5)
+
+RESOURCE ID: sr_gofest2023_osaka_city_4
+TEXT: GO Festivali 2023: Osaka Şehir Gezisi (4/5)
+
+RESOURCE ID: sr_gofest2023_osaka_city_5
+TEXT: GO Festivali 2023: Osaka Şehir Gezisi (5/5)
+
+RESOURCE ID: sr_gofest2023_osaka_park
+TEXT: GO Festivali 2023: Osaka Park Macerası
+
+RESOURCE ID: sr_gofest2023_osaka_park_1
+TEXT: GO Festivali 2023: Osaka Park Macerası (1/5)
+
+RESOURCE ID: sr_gofest2023_osaka_park_2
+TEXT: GO Festivali 2023: Osaka Park Macerası (2/5)
+
+RESOURCE ID: sr_gofest2023_osaka_park_3
+TEXT: GO Festivali 2023: Osaka Park Macerası (3/5)
+
+RESOURCE ID: sr_gofest2023_osaka_park_4
+TEXT: GO Festivali 2023: Osaka Park Macerası (4/5)
+
+RESOURCE ID: sr_gofest2023_osaka_park_5
+TEXT: GO Festivali 2023: Osaka Park Macerası (5/5)
+
 RESOURCE ID: sr_gotour2022_1
 TEXT: Pokémon GO Tur: Johto (1/9)
 
@@ -69260,6 +71691,9 @@ TEXT:
 
 RESOURCE ID: sticker_alolaishi_4.3_description
 TEXT: 
+
+RESOURCE ID: sticker_box
+TEXT: Çıkartma Kutusu
 
 RESOURCE ID: sticker_default_desc
 TEXT: Çıkartmalar Pokémon GO'da ödül olarak bulunabilir. Hepsini toplayın!
@@ -70352,6 +72786,9 @@ TEXT: Geçmişi Anma Görevi 2020: Sinnoh
 RESOURCE ID: ticket_abra
 TEXT: İllüzyonları İnceleme Özel Araştırması bileti şimdi mağazada
 
+RESOURCE ID: ticket_active_location_reminder
+TEXT: Biletiniz aktif!
+
 RESOURCE ID: ticket_alodude
 TEXT: Özel araştırma hikayesi Kayalık Bir Yol biletini mağazadan alabilirsiniz
 
@@ -70443,6 +72880,9 @@ TEXT: Dalga Dalga Ses özel araştırma hikâyesi biletini mağazadan alabilirsi
 
 RESOURCE ID: ticket_oshawott
 TEXT: Deniztarağından Deniz Kılıcına Özel Araştırma hikâyesi için mağazada bilet mevcut
+
+RESOURCE ID: ticket_poliwag
+TEXT: Sarsak Sarmal özel araştırma hikâyesi biletini mağazadan alabilirsiniz
 
 RESOURCE ID: ticket_porygon
 TEXT: Porygon Kodlama Özel Araştırma hikâyesi için mağazada bilet mevcut
@@ -70583,8 +73023,35 @@ TEXT: Eğitmenler bu görevi tamamlamak için küresel bir topluluk olarak birli
 RESOURCE ID: timed_challenge_work_together_regional_backup
 TEXT: Eğitmenler bu görevi tamamlamak için bölgesel bir topluluk olarak birlikte çalışmalıdır.
 
+RESOURCE ID: timed_quest_adventure_adv23_branch_0
+TEXT: Ay... Of... Bu haritaların... gösterdiği yerleri takip edeyim derken... yorgunluktan... bittim vallahi. Ben şuracıkta dinlenirken... sen de bir denemek istemez misin?
+
+RESOURCE ID: timed_quest_adventure_adv23_branch_1
+TEXT: Benim gibi kendini yormana gerek yok tabii ki! Bu macerayı istediğin şekilde yaşayabilirsin. Mesela...
+
+RESOURCE ID: timed_quest_adventure_adv23_branch_1_button_key
+TEXT: Gezintili Macera
+
+RESOURCE ID: timed_quest_adventure_adv23_branch_1_description_key
+TEXT: Pokémon toplama, PokéDurak döndürme ve yumurta çatlatma içeren görevler için bu macerayı seçin.
+
+RESOURCE ID: timed_quest_adventure_adv23_branch_1_title_key
+TEXT: Gezintili Macera
+
+RESOURCE ID: timed_quest_adventure_adv23_branch_2
+TEXT: Kulağına hangisi daha iyi geliyor? Etrafındaki manzaranın tadını çıkarıp gördüğün her Pokémon’u yakalamak mı? Yoksa araştırmaya odaklanıp belirli Pokémon’ları bulmak mı?
+
+RESOURCE ID: timed_quest_adventure_adv23_branch_2_button_key
+TEXT: Araştırmalı Macera
+
+RESOURCE ID: timed_quest_adventure_adv23_branch_2_description_key
+TEXT: Belirli Pokémon’ları yakalamaya ve alan araştırması tamamlamaya odaklanan görevler için bu macerayı seçin.
+
+RESOURCE ID: timed_quest_adventure_adv23_branch_2_title_key
+TEXT: Araştırmalı Macera
+
 RESOURCE ID: timed_research
-TEXT: Süreli Araştırma mevcut
+TEXT: Süreli araştırma
 
 RESOURCE ID: timed_research_generic
 TEXT: Süreli Araştırma
@@ -71180,6 +73647,9 @@ TEXT: PokéDurak Taraması
 RESOURCE ID: titan_upload_wifi_recommended
 TEXT: Wi-Fi kullanılması önerilir
 
+RESOURCE ID: title_hatch_day_riolu
+TEXT: Yumurtadan Çıkan Riolu Günü
+
 RESOURCE ID: title_raid_has_ended
 TEXT: Bu akın sona erdi.
 
@@ -71356,6 +73826,9 @@ TEXT: Süreli Araştırma: İşlenmemiş Cevher
 
 RESOURCE ID: tr_gofest2023_earlybird2
 TEXT: Süreli Araştırma: Parıltılı Adımlar
+
+RESOURCE ID: tr_gofest2023_live_routes_1
+TEXT: GO Festivali 2023: Altın Peşinde
 
 RESOURCE ID: tr_latias_photo_safari
 TEXT: Sapphire: Latias Foto Safarisi
@@ -71676,13 +74149,13 @@ RESOURCE ID: trade_special_in_pokedex
 TEXT: Pokédex'deki Efsanevi veya Parlak Pokémon’lar
 
 RESOURCE ID: trade_stardust_half
-TEXT: Takaslarda 1/2 Yıldız Tozu maliyeti
+TEXT: Takaslarda 1/2 yıldız tozu maliyeti
 
 RESOURCE ID: trade_stardust_quarter
-TEXT: Takaslarda 1/4 Yıldız Tozu maliyeti
+TEXT: Takaslarda 1/4 yıldız tozu maliyeti
 
 RESOURCE ID: trade_stardust_three_fourth
-TEXT: Takaslarda 3/4 Yıldız Tozu maliyeti
+TEXT: Takaslarda 3/4 yıldız tozu maliyeti
 
 RESOURCE ID: trade_tips_p0
 TEXT: Yalnızca yakınınızdaki arkadaşlarınızla takas yapabilirsiniz.
@@ -71896,6 +74369,46 @@ TEXT: Artık 40. seviyeye ulaştığınıza göre, bir sonraki seviyeye geçmek 
 
 RESOURCE ID: tutorial_level_40_plus_intro
 TEXT: Olağanüstü ilerlemeniz için tebrikler Eğitmen!
+
+RESOURCE ID: tutorial_route_bonus_0
+TEXT: Buddy Candy earned more quickly
+
+RESOURCE ID: tutorial_route_bonus_1
+TEXT: Incense attracts more Pokémon on new Routes
+
+RESOURCE ID: tutorial_route_bonus_2
+TEXT: Unusual Pokémon may appear on Routes
+
+RESOURCE ID: tutorial_route_play_body_0
+TEXT: Discover your local community and earn rewards by exploring Routes!
+
+To start:
+1. Choose a Route from the list or map.
+2. Go to the start point.
+3. Follow the Route to its end point.
+
+RESOURCE ID: tutorial_route_play_body_1
+TEXT: When you’re within {0} m of the Route’s path, you will earn special bonuses.
+
+RESOURCE ID: tutorial_route_play_body_2
+TEXT: • You will earn a new Route Badge the first time you complete a Route.
+• Follow a Route multiple times to progress your badge and improve the rewards you receive from that Route.
+
+RESOURCE ID: tutorial_route_play_body_3
+TEXT: 1. Stay near the Route’s path to ensure your progress is recorded.
+2. Your travel distance must be close to the length of the Route in order to complete it.
+
+RESOURCE ID: tutorial_route_play_title_0
+TEXT: Explore a Route
+
+RESOURCE ID: tutorial_route_play_title_1
+TEXT: Bonuses
+
+RESOURCE ID: tutorial_route_play_title_2
+TEXT: Rewards
+
+RESOURCE ID: tutorial_route_play_title_3
+TEXT: Rules
 
 RESOURCE ID: tutorial_vivillon_postcard_body_0
 TEXT: Her bölgeden çok sayıda kartpostal toplarsanız bir Pokémon’la karşılaşma şansınız olacak!
@@ -72967,6 +75480,9 @@ TEXT: Pokémon GO Londra, İngiltere’deki 2022 Pokémon Dünya Şampiyonasınd
 
 RESOURCE ID: wcs_2022_title
 TEXT: 2022 Pokémon Dünya Şampiyonası
+
+RESOURCE ID: wcs_aug23_header_0
+TEXT: 2023 Pokémon World Championships
 
 RESOURCE ID: wcs_battle_tr_description
 TEXT: 2022 Pokémon Dünya Şampiyonası: Bonus Süreli Araştırma

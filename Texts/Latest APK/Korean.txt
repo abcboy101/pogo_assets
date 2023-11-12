@@ -666,11 +666,29 @@ TEXT: 언제나 모험 모드를 켜서 리워드를 손에 넣으세요!
 RESOURCE ID: adventure_week_event_name
 TEXT: 어드벤처위크
 
+RESOURCE ID: adventure_week_event_title
+TEXT: 어드벤처 위크 시간제한 리서치
+
 RESOURCE ID: adventure_week_explore_timed_research
 TEXT: 어드벤처위크: 어드벤처 챌린지
 
+RESOURCE ID: adventure_week_p_tr_1
+TEXT: 어드벤처 위크 시간제한 리서치
+
 RESOURCE ID: adventure_week_research_day_ultra_unlock_event_name
 TEXT: 울트라 언록: 리서치데이
+
+RESOURCE ID: adventure_week_tr_1
+TEXT: 어드벤처 위크 시간제한 리서치(1/4)
+
+RESOURCE ID: adventure_week_tr_2
+TEXT: 어드벤처 위크 시간제한 리서치(2/4)
+
+RESOURCE ID: adventure_week_tr_3
+TEXT: 어드벤처 위크 시간제한 리서치(3/4)
+
+RESOURCE ID: adventure_week_tr_4
+TEXT: 어드벤처 위크 시간제한 리서치(4/4)
 
 RESOURCE ID: adventure_week_ultra_unlock_event_name
 TEXT: 울트라 언록: 어드벤처위크
@@ -1602,6 +1620,9 @@ TEXT: 다른 계정으로 시도한다
 RESOURCE ID: authentication_failed_try_again
 TEXT: 다시 시도
 
+RESOURCE ID: authentication_retry_account_hint
+TEXT: 사용한 적이 있는 계정:
+
 RESOURCE ID: authentication_retry_prompt
 TEXT: 로그인에 실패했습니다
 
@@ -2061,6 +2082,9 @@ TEXT: 딜리버드 이어머프
 RESOURCE ID: avatar_f_hat_detectivepikachu_0_bundle_icon
 TEXT: 명탐정 피카츄 모자
 
+RESOURCE ID: avatar_f_hat_diancie_00_bundle_icon
+TEXT: 디안시 헤드폰
+
 RESOURCE ID: avatar_f_hat_dp_00_bundle_icon
 TEXT: 신오지방 주인공 모자
 
@@ -2181,6 +2205,9 @@ TEXT: 시마사리 모자
 RESOURCE ID: avatar_f_hat_megalopunnyitems_00_bundle_icon
 TEXT: 메가이어롭 머리띠
 
+RESOURCE ID: avatar_f_hat_megarayquaza_00_bundle_icon
+TEXT: 메가레쿠쟈 헬멧
+
 RESOURCE ID: avatar_f_hat_meltan_0_bundle_icon
 TEXT: 멜탄 모자
 
@@ -2281,7 +2308,7 @@ RESOURCE ID: avatar_f_hat_samsungsummer2020_0_bundle_icon
 TEXT: 삼성 갤럭시 타이다이 모자
 
 RESOURCE ID: avatar_f_hat_sandygasthat_00_bundle_icon
-TEXT: 모래꿍 모자
+TEXT: 모래꿍 모자
 
 
 RESOURCE ID: avatar_f_hat_shayminhat_00_bundle_icon
@@ -2657,6 +2684,9 @@ TEXT: 데님 자켓
 RESOURCE ID: avatar_f_shirt_detectivepikachu_0_bundle_icon
 TEXT: 명탐정 피카츄 T셔츠
 
+RESOURCE ID: avatar_f_shirt_diancie_00_bundle_icon
+TEXT: 디안시 티셔츠
+
 RESOURCE ID: avatar_f_shirt_divingsuit_00_bundle_icon
 TEXT: 다이빙 수트 세트
 
@@ -2714,6 +2744,10 @@ TEXT: 글라디오 후드티
 
 RESOURCE ID: avatar_f_shirt_gofest2022_00_bundle_icon
 TEXT: GO Fest 2022 티셔츠
+
+RESOURCE ID: avatar_f_shirt_gofest2023_00_bundle_icon
+TEXT: GO Fest 2023 티셔츠
+검정
 
 RESOURCE ID: avatar_f_shirt_gofest_2019_bundle_icon
 TEXT: GO FEST 2019 티셔츠
@@ -2828,6 +2862,9 @@ TEXT: 플라드리 상의
 
 RESOURCE ID: avatar_f_shirt_megalopunnyitems_00_bundle_icon
 TEXT: 메가이어롭 점프슈트
+
+RESOURCE ID: avatar_f_shirt_megarayquaza_00_bundle_icon
+TEXT: 메가레쿠쟈 세트
 
 RESOURCE ID: avatar_f_shirt_melmetaljacket_00_bundle_icon
 TEXT: 멜메탈 다운쟈켓
@@ -3166,6 +3203,26 @@ TEXT: 포켓몬WCS 2022 방문자 티셔츠
 RESOURCE ID: avatar_f_shirt_wcs2022winnersitems_00_bundle_icon
 TEXT: 포켓몬WCS 2022 챔피언 상의
 
+RESOURCE ID: avatar_f_shirt_wcs2023promotshirt_00_bundle_icon
+TEXT: 포켓몬  WCS
+2023 티셔츠 회색
+
+RESOURCE ID: avatar_f_shirt_wcs2023promotshirt_01_00_bundle_icon
+TEXT: 포켓몬  WCS
+2023 티셔츠 노란색
+
+RESOURCE ID: avatar_f_shirt_wcs2023sukajan_00_bundle_icon
+TEXT: 포켓몬  WCS
+2023 자수점퍼
+
+RESOURCE ID: avatar_f_shirt_wcs2023winnersitems_00_bundle_icon
+TEXT: 포켓몬  WCS
+2023 챔피언 세트
+
+RESOURCE ID: avatar_f_shirt_wcsyokohama_00_bundle_icon
+TEXT: 포켓몬  WCS
+2023 운동복
+
 RESOURCE ID: avatar_f_shirt_whitecoat_00_bundle_icon
 TEXT: 더플코트 화이트
 
@@ -3389,6 +3446,10 @@ TEXT: 베테랑 부츠
 
 RESOURCE ID: avatar_f_shoes_wcs2022winnersitems_00_bundle_icon
 TEXT: 포켓몬WCS 2022 신발
+
+RESOURCE ID: avatar_f_shoes_wcs2023winnersitems_00_bundle_icon
+TEXT: 포켓몬  WCS
+2023 챔피언 부츠
 
 RESOURCE ID: avatar_f_shoes_winterboots_00_bundle_icon
 TEXT: 윈터 부츠
@@ -3850,6 +3911,9 @@ TEXT: 딜리버드 이어머프
 RESOURCE ID: avatar_m_hat_detectivepikachu_0_bundle_icon
 TEXT: 명탐정 피카츄 모자
 
+RESOURCE ID: avatar_m_hat_diancie_00_bundle_icon
+TEXT: 디안시 헤드폰
+
 RESOURCE ID: avatar_m_hat_dp_00_bundle_icon
 TEXT: 신오지방 주인공 모자
 
@@ -3973,6 +4037,9 @@ TEXT: 시마사리 모자
 RESOURCE ID: avatar_m_hat_megalopunnyitems_00_bundle_icon
 TEXT: 메가이어롭 머리띠
 
+RESOURCE ID: avatar_m_hat_megarayquaza_00_bundle_icon
+TEXT: 메가레쿠쟈 헬멧
+
 RESOURCE ID: avatar_m_hat_meltan_0_bundle_icon
 TEXT: 멜탄 모자
 
@@ -4070,7 +4137,7 @@ RESOURCE ID: avatar_m_hat_samsungsummer2020_0_bundle_icon
 TEXT: 삼성 갤럭시 타이다이 모자
 
 RESOURCE ID: avatar_m_hat_sandygasthat_00_bundle_icon
-TEXT: 모래꿍 모자
+TEXT: 모래꿍 모자
 
 
 RESOURCE ID: avatar_m_hat_shayminhat_00_bundle_icon
@@ -4442,6 +4509,9 @@ TEXT: 데님 자켓
 RESOURCE ID: avatar_m_shirt_detectivepikachu_0_bundle_icon
 TEXT: 명탐정 피카츄 T셔츠
 
+RESOURCE ID: avatar_m_shirt_diancie_00_bundle_icon
+TEXT: 디안시 티셔츠
+
 RESOURCE ID: avatar_m_shirt_divingsuit_00_bundle_icon
 TEXT: 다이빙 수트 세트
 
@@ -4502,6 +4572,10 @@ TEXT: 글라디오 후드티
 
 RESOURCE ID: avatar_m_shirt_gofest2022_00_bundle_icon
 TEXT: GO Fest 2022 티셔츠
+
+RESOURCE ID: avatar_m_shirt_gofest2023_00_bundle_icon
+TEXT: GO Fest 2023 티셔츠
+검정
 
 RESOURCE ID: avatar_m_shirt_gofest_2019_bundle_icon
 TEXT: GO FEST 2019 티셔츠
@@ -4625,6 +4699,9 @@ TEXT: 플라드리 상의
 
 RESOURCE ID: avatar_m_shirt_megalopunnyitems_00_bundle_icon
 TEXT: 메가이어롭 점프슈트
+
+RESOURCE ID: avatar_m_shirt_megarayquaza_00_bundle_icon
+TEXT: 메가레쿠쟈 세트
 
 RESOURCE ID: avatar_m_shirt_melmetaljacket_00_bundle_icon
 TEXT: 멜메탈 다운쟈켓
@@ -4954,6 +5031,26 @@ TEXT: 포켓몬WCS 2022 방문자 티셔츠
 RESOURCE ID: avatar_m_shirt_wcs2022winnersitems_00_bundle_icon
 TEXT: 포켓몬WCS 2022 챔피언 상의
 
+RESOURCE ID: avatar_m_shirt_wcs2023promotshirt_00_bundle_icon
+TEXT: 포켓몬  WCS
+2023 티셔츠 회색
+
+RESOURCE ID: avatar_m_shirt_wcs2023promotshirt_01_00_bundle_icon
+TEXT: 포켓몬  WCS
+2023 티셔츠 노란색
+
+RESOURCE ID: avatar_m_shirt_wcs2023sukajan_00_bundle_icon
+TEXT: 포켓몬  WCS
+2023 자수점퍼
+
+RESOURCE ID: avatar_m_shirt_wcs2023winnersitems_00_bundle_icon
+TEXT: 포켓몬  WCS
+2023 챔피언 세트
+
+RESOURCE ID: avatar_m_shirt_wcsyokohama_00_bundle_icon
+TEXT: 포켓몬  WCS
+2023 운동복
+
 RESOURCE ID: avatar_m_shirt_whitecoat_00_bundle_icon
 TEXT: 더플코트 화이트
 
@@ -5181,6 +5278,10 @@ TEXT: 베테랑 부츠
 RESOURCE ID: avatar_m_shoes_wcs2022winnersitems_00_bundle_icon
 TEXT: 포켓몬WCS 2022 신발
 
+RESOURCE ID: avatar_m_shoes_wcs2023winnersitems_00_bundle_icon
+TEXT: 포켓몬  WCS
+2023 챔피언 부츠
+
 RESOURCE ID: avatar_m_shoes_winterboots_00_bundle_icon
 TEXT: 윈터 부츠
 
@@ -5306,36 +5407,36 @@ RESOURCE ID: awareness_enable_modal_title
 TEXT: 언제나 모험 모드(근처)
 
 RESOURCE ID: badge_7_day_streaks
-TEXT: 7일연속 포켓몬 잡기 또는 포켓스톱 스핀 보너스를 {0}번 달성했다!
+TEXT: 7일 연속 포켓몬 잡기 또는 포켓스톱 스핀 보너스를 {0}번 달성했다!
 
 RESOURCE ID: badge_7_day_streaks_singular
-TEXT: 7일연속 포켓몬 잡기 또는 포켓스톱 스핀 보너스를 1번 달성했다!
+TEXT: 7일 연속 포켓몬 잡기 또는 포켓스톱 스핀 보너스를 1번 달성했다!
 
 RESOURCE ID: badge_7_day_streaks_title
 TEXT: 트라이애슬리트
 
-RESOURCE ID: badge_aa_2023_jeju_day_00_general
+RESOURCE ID: badge_aa_2023_jeju_day_00
 TEXT: 2023년 제주도
 
-RESOURCE ID: badge_aa_2023_jeju_day_00_general_title
+RESOURCE ID: badge_aa_2023_jeju_day_00_title
 TEXT: 하늘 나는 피카츄 프로젝트 콜라보
 
-RESOURCE ID: badge_aa_2023_jeju_day_01_general
+RESOURCE ID: badge_aa_2023_jeju_day_01
 TEXT: 2023년 7월 28일 제주도
 
-RESOURCE ID: badge_aa_2023_jeju_day_01_general_title
+RESOURCE ID: badge_aa_2023_jeju_day_01_title
 TEXT: 하늘 나는 피카츄 프로젝트 콜라보
 
-RESOURCE ID: badge_aa_2023_jeju_day_02_general
+RESOURCE ID: badge_aa_2023_jeju_day_02
 TEXT: 2023년 7월 29일 제주도
 
-RESOURCE ID: badge_aa_2023_jeju_day_02_general_title
+RESOURCE ID: badge_aa_2023_jeju_day_02_title
 TEXT: 하늘 나는 피카츄 프로젝트 콜라보
 
-RESOURCE ID: badge_aa_2023_jeju_day_03_general
+RESOURCE ID: badge_aa_2023_jeju_day_03
 TEXT: 2023년 7월 30일 제주도
 
-RESOURCE ID: badge_aa_2023_jeju_day_03_general_title
+RESOURCE ID: badge_aa_2023_jeju_day_03_title
 TEXT: 하늘 나는 피카츄 프로젝트 콜라보
 
 RESOURCE ID: badge_apac_partner_july_2018_1
@@ -6004,6 +6105,12 @@ TEXT: 2019년 11월 2일
 RESOURCE ID: badge_global_ticketed_event_title
 TEXT: 거대 포켓몬의 수수께끼를 풀어라!
 
+RESOURCE ID: badge_gofest2023_global
+TEXT: 2023년 8월 26일, 27일
+
+RESOURCE ID: badge_gofest2023_global_title
+TEXT: Pokémon GO Fest 2023
+
 RESOURCE ID: badge_gofest_2019_americas_day_00_north_earlyaccess
 TEXT: 2019년 6월 12일 시카고(북)
 
@@ -6573,6 +6680,390 @@ TEXT: 글로벌, 2022년 6월 4일~5일& 8월 27일
 
 RESOURCE ID: badge_gofest_2022_test_title
 TEXT: Pokémon GO Fest 2022
+
+RESOURCE ID: badge_gofest_2023_london_addon_hatch
+TEXT: 런던, 2023년 8월 4일~6일
+
+RESOURCE ID: badge_gofest_2023_london_addon_hatch_test
+TEXT: 런던
+
+RESOURCE ID: badge_gofest_2023_london_addon_hatch_test_title
+TEXT: Pokémon GO Fest—알 옵션
+
+RESOURCE ID: badge_gofest_2023_london_addon_hatch_title
+TEXT: Pokémon GO Fest—알 옵션
+
+RESOURCE ID: badge_gofest_2023_london_addon_raid
+TEXT: 런던, 2023년 8월 4일~6일
+
+RESOURCE ID: badge_gofest_2023_london_addon_raid_test
+TEXT: 런던
+
+RESOURCE ID: badge_gofest_2023_london_addon_raid_test_title
+TEXT: Pokémon GO Fest—레이드 옵션
+
+RESOURCE ID: badge_gofest_2023_london_addon_raid_title
+TEXT: Pokémon GO Fest—레이드 옵션
+
+RESOURCE ID: badge_gofest_2023_london_city_2_test
+TEXT: 런던
+
+RESOURCE ID: badge_gofest_2023_london_city_2_test_title
+TEXT: Pokémon GO Fest—도시 체험
+
+RESOURCE ID: badge_gofest_2023_london_city_test
+TEXT: 런던
+
+RESOURCE ID: badge_gofest_2023_london_city_test_title
+TEXT: Pokémon GO Fest—도시 체험
+
+RESOURCE ID: badge_gofest_2023_london_day1_city
+TEXT: 런던, 2023년 8월 4일
+
+RESOURCE ID: badge_gofest_2023_london_day1_city_title
+TEXT: Pokémon GO Fest—도시 체험(금)
+
+RESOURCE ID: badge_gofest_2023_london_day1_extended
+TEXT: 런던, 2023년 8월 4일
+
+RESOURCE ID: badge_gofest_2023_london_day1_extended_title
+TEXT: Pokémon GO Fest 2023: 연장 도시 체험(금)
+
+RESOURCE ID: badge_gofest_2023_london_day1_park_afternoon
+TEXT: 런던 브록웰 파크, 2023년 8월 4일 오후
+
+RESOURCE ID: badge_gofest_2023_london_day1_park_afternoon_title
+TEXT: Pokémon GO Fest—공원 체험(금)
+
+RESOURCE ID: badge_gofest_2023_london_day1_park_morning
+TEXT: 런던 브록웰 파크, 2023년 8월 4일 오전
+
+RESOURCE ID: badge_gofest_2023_london_day1_park_morning_title
+TEXT: Pokémon GO Fest—공원 체험(금)
+
+RESOURCE ID: badge_gofest_2023_london_day2_city
+TEXT: 런던, 2023년 8월 5일
+
+RESOURCE ID: badge_gofest_2023_london_day2_city_title
+TEXT: Pokémon GO Fest—도시 체험(토)
+
+RESOURCE ID: badge_gofest_2023_london_day2_extended
+TEXT: 런던, 2023년 8월 5일
+
+RESOURCE ID: badge_gofest_2023_london_day2_extended_title
+TEXT: Pokémon GO Fest 2023: 연장 도시 체험(토)
+
+RESOURCE ID: badge_gofest_2023_london_day2_park_afternoon
+TEXT: 런던 브록웰 파크, 2023년 8월 5일 오후
+
+RESOURCE ID: badge_gofest_2023_london_day2_park_afternoon_title
+TEXT: Pokémon GO Fest—공원 체험(토)
+
+RESOURCE ID: badge_gofest_2023_london_day2_park_morning
+TEXT: 런던 브록웰 파크, 2023년 8월 5일 오전
+
+RESOURCE ID: badge_gofest_2023_london_day2_park_morning_title
+TEXT: Pokémon GO Fest—공원 체험(토)
+
+RESOURCE ID: badge_gofest_2023_london_day3_city
+TEXT: 런던, 2023년 8월 6일
+
+RESOURCE ID: badge_gofest_2023_london_day3_city_title
+TEXT: Pokémon GO Fest—도시 체험(일)
+
+RESOURCE ID: badge_gofest_2023_london_day3_extended
+TEXT: 런던, 2023년 8월 6일
+
+RESOURCE ID: badge_gofest_2023_london_day3_extended_title
+TEXT: Pokémon GO Fest 2023: 연장 도시 체험(일)
+
+RESOURCE ID: badge_gofest_2023_london_day3_park_afternoon
+TEXT: 런던 브록웰 파크, 2023년 8월 6일 오후
+
+RESOURCE ID: badge_gofest_2023_london_day3_park_afternoon_title
+TEXT: Pokémon GO Fest—공원 체험(일)
+
+RESOURCE ID: badge_gofest_2023_london_day3_park_morning
+TEXT: 런던 브록웰 파크, 2023년 8월 6일 오전
+
+RESOURCE ID: badge_gofest_2023_london_day3_park_morning_title
+TEXT: Pokémon GO Fest—공원 체험(일)
+
+RESOURCE ID: badge_gofest_2023_london_park_2_test
+TEXT: 런던 브록웰 파크
+
+RESOURCE ID: badge_gofest_2023_london_park_2_test_title
+TEXT: Pokémon GO Fest—공원 체험
+
+RESOURCE ID: badge_gofest_2023_london_park_test
+TEXT: 런던 브록웰 파크
+
+RESOURCE ID: badge_gofest_2023_london_park_test_title
+TEXT: Pokémon GO Fest—공원 체험
+
+RESOURCE ID: badge_gofest_2023_london_vip
+TEXT: 런던, 2023년 8월 4일~6일
+
+RESOURCE ID: badge_gofest_2023_london_vip_title
+TEXT: Pokémon GO Fest 2023
+
+RESOURCE ID: badge_gofest_2023_newyork_addon_hatch
+TEXT: 뉴욕, 2023년 8월 18일~20일
+
+RESOURCE ID: badge_gofest_2023_newyork_addon_hatch_test
+TEXT: 뉴욕
+
+RESOURCE ID: badge_gofest_2023_newyork_addon_hatch_test_title
+TEXT: Pokémon GO Fest—알 옵션
+
+RESOURCE ID: badge_gofest_2023_newyork_addon_hatch_title
+TEXT: Pokémon GO Fest—알 옵션
+
+RESOURCE ID: badge_gofest_2023_newyork_addon_raid
+TEXT: 뉴욕, 2023년 8월 18일~20일
+
+RESOURCE ID: badge_gofest_2023_newyork_addon_raid_test
+TEXT: 뉴욕
+
+RESOURCE ID: badge_gofest_2023_newyork_addon_raid_test_title
+TEXT: Pokémon GO Fest—레이드 옵션
+
+RESOURCE ID: badge_gofest_2023_newyork_addon_raid_title
+TEXT: Pokémon GO Fest—레이드 옵션
+
+RESOURCE ID: badge_gofest_2023_newyork_city_2_test
+TEXT: 뉴욕
+
+RESOURCE ID: badge_gofest_2023_newyork_city_2_test_title
+TEXT: Pokémon GO Fest—도시 체험
+
+RESOURCE ID: badge_gofest_2023_newyork_city_test
+TEXT: 뉴욕
+
+RESOURCE ID: badge_gofest_2023_newyork_city_test_title
+TEXT: Pokémon GO Fest—도시 체험
+
+RESOURCE ID: badge_gofest_2023_newyork_day1_city
+TEXT: 뉴욕, 2023년 8월 18일
+
+RESOURCE ID: badge_gofest_2023_newyork_day1_city_title
+TEXT: Pokémon GO Fest—도시 체험(금)
+
+RESOURCE ID: badge_gofest_2023_newyork_day1_extended
+TEXT: 뉴욕, 2023년 8월 18일
+
+RESOURCE ID: badge_gofest_2023_newyork_day1_extended_title
+TEXT: Pokémon GO Fest 2023: 연장 도시 체험(금)
+
+RESOURCE ID: badge_gofest_2023_newyork_day1_park_afternoon
+TEXT: 뉴욕 랜달스 아일랜드 파크, 2023년 8월 18일 오후
+
+RESOURCE ID: badge_gofest_2023_newyork_day1_park_afternoon_title
+TEXT: Pokémon GO Fest—공원 체험(금)
+
+RESOURCE ID: badge_gofest_2023_newyork_day1_park_morning
+TEXT: 뉴욕 랜달스 아일랜드 파크, 2023년 8월 18일 오전
+
+RESOURCE ID: badge_gofest_2023_newyork_day1_park_morning_title
+TEXT: Pokémon GO Fest—공원 체험(금)
+
+RESOURCE ID: badge_gofest_2023_newyork_day2_city
+TEXT: 뉴욕, 2023년 8월 19일
+
+RESOURCE ID: badge_gofest_2023_newyork_day2_city_title
+TEXT: Pokémon GO Fest—도시 체험(토)
+
+RESOURCE ID: badge_gofest_2023_newyork_day2_extended
+TEXT: 뉴욕, 2023년 8월 19일
+
+RESOURCE ID: badge_gofest_2023_newyork_day2_extended_title
+TEXT: Pokémon GO Fest 2023: 연장 도시 체험(토)
+
+RESOURCE ID: badge_gofest_2023_newyork_day2_park_afternoon
+TEXT: 뉴욕 랜달스 아일랜드 파크, 2023년 8월 19일 오후
+
+RESOURCE ID: badge_gofest_2023_newyork_day2_park_afternoon_title
+TEXT: Pokémon GO Fest—공원 체험(토)
+
+RESOURCE ID: badge_gofest_2023_newyork_day2_park_morning
+TEXT: 뉴욕 랜달스 아일랜드 파크, 2023년 8월 19일 오전
+
+RESOURCE ID: badge_gofest_2023_newyork_day2_park_morning_title
+TEXT: Pokémon GO Fest—공원 체험(토)
+
+RESOURCE ID: badge_gofest_2023_newyork_day3_city
+TEXT: 뉴욕, 2023년 8월 20일
+
+RESOURCE ID: badge_gofest_2023_newyork_day3_city_title
+TEXT: Pokémon GO Fest—도시 체험(일)
+
+RESOURCE ID: badge_gofest_2023_newyork_day3_extended
+TEXT: 뉴욕, 2023년 8월 20일
+
+RESOURCE ID: badge_gofest_2023_newyork_day3_extended_title
+TEXT: Pokémon GO Fest 2023: 연장 도시 체험(일)
+
+RESOURCE ID: badge_gofest_2023_newyork_day3_park_afternoon
+TEXT: 뉴욕 랜달스 아일랜드 파크, 2023년 8월 20일 오후
+
+RESOURCE ID: badge_gofest_2023_newyork_day3_park_afternoon_title
+TEXT: Pokémon GO Fest—공원 체험(일)
+
+RESOURCE ID: badge_gofest_2023_newyork_day3_park_morning
+TEXT: 뉴욕 랜달스 아일랜드 파크, 2023년 8월 20일 오전
+
+RESOURCE ID: badge_gofest_2023_newyork_day3_park_morning_title
+TEXT: Pokémon GO Fest—공원 체험(일)
+
+RESOURCE ID: badge_gofest_2023_newyork_park_2_test
+TEXT: 뉴욕 랜달스 아일랜드 파크
+
+RESOURCE ID: badge_gofest_2023_newyork_park_2_test_title
+TEXT: Pokémon GO Fest—공원 체험
+
+RESOURCE ID: badge_gofest_2023_newyork_park_test
+TEXT: 뉴욕 랜달스 아일랜드 파크
+
+RESOURCE ID: badge_gofest_2023_newyork_park_test_title
+TEXT: Pokémon GO Fest—공원 체험
+
+RESOURCE ID: badge_gofest_2023_newyork_vip
+TEXT: 뉴욕, 2023년 8월 18일~20일
+
+RESOURCE ID: badge_gofest_2023_newyork_vip_title
+TEXT: Pokémon GO Fest 2023
+
+RESOURCE ID: badge_gofest_2023_osaka_addon_hatch
+TEXT: 오사카, 2023년 8월4일~6일
+
+RESOURCE ID: badge_gofest_2023_osaka_addon_hatch_test
+TEXT: 오사카
+
+RESOURCE ID: badge_gofest_2023_osaka_addon_hatch_test_title
+TEXT: Pokémon GO Fest—알 옵션
+
+RESOURCE ID: badge_gofest_2023_osaka_addon_hatch_title
+TEXT: Pokémon GO Fest—알 옵션
+
+RESOURCE ID: badge_gofest_2023_osaka_addon_raid
+TEXT: 오사카, 2023년 8월 4일~6일
+
+RESOURCE ID: badge_gofest_2023_osaka_addon_raid_test
+TEXT: 오사카
+
+RESOURCE ID: badge_gofest_2023_osaka_addon_raid_test_title
+TEXT: Pokémon GO Fest—레이드 옵션
+
+RESOURCE ID: badge_gofest_2023_osaka_addon_raid_title
+TEXT: Pokémon GO Fest—레이드 옵션
+
+RESOURCE ID: badge_gofest_2023_osaka_city_2_test
+TEXT: 오사카
+
+RESOURCE ID: badge_gofest_2023_osaka_city_2_test_title
+TEXT: Pokémon GO Fest—도시 체험
+
+RESOURCE ID: badge_gofest_2023_osaka_city_test
+TEXT: 오사카
+
+RESOURCE ID: badge_gofest_2023_osaka_city_test_title
+TEXT: Pokémon GO Fest—도시 체험
+
+RESOURCE ID: badge_gofest_2023_osaka_day1_city
+TEXT: 오사카, 2023년 8월 4일
+
+RESOURCE ID: badge_gofest_2023_osaka_day1_city_title
+TEXT: Pokémon GO Fest—도시 체험(금)
+
+RESOURCE ID: badge_gofest_2023_osaka_day1_extended
+TEXT: 오사카, 2023년 8월 4일
+
+RESOURCE ID: badge_gofest_2023_osaka_day1_extended_title
+TEXT: Pokémon GO Fest 2023: 연장 도시 체험(금)
+
+RESOURCE ID: badge_gofest_2023_osaka_day1_park_afternoon
+TEXT: 오사카 엑스포 ‘70 기념공원, 2023년 8월 4일 오후
+
+RESOURCE ID: badge_gofest_2023_osaka_day1_park_afternoon_title
+TEXT: Pokémon GO Fest—공원 체험(금)
+
+RESOURCE ID: badge_gofest_2023_osaka_day1_park_morning
+TEXT: 오사카 엑스포 ‘70 기념공원, 2023년 8월 4일 오전
+
+RESOURCE ID: badge_gofest_2023_osaka_day1_park_morning_title
+TEXT: Pokémon GO Fest—공원 체험(금)
+
+RESOURCE ID: badge_gofest_2023_osaka_day2_city
+TEXT: 오사카, 2023년 8월 5일
+
+RESOURCE ID: badge_gofest_2023_osaka_day2_city_title
+TEXT: Pokémon GO Fest—도시 체험(토)
+
+RESOURCE ID: badge_gofest_2023_osaka_day2_extended
+TEXT: 오사카, 2023년 8월 5일
+
+RESOURCE ID: badge_gofest_2023_osaka_day2_extended_title
+TEXT: Pokémon GO Fest 2023: 연장 도시 체험(토)
+
+RESOURCE ID: badge_gofest_2023_osaka_day2_park_afternoon
+TEXT: 오사카 엑스포 ‘70 기념공원, 2023년 8월 5일 오후
+
+RESOURCE ID: badge_gofest_2023_osaka_day2_park_afternoon_title
+TEXT: Pokémon GO Fest—공원 체험(토)
+
+RESOURCE ID: badge_gofest_2023_osaka_day2_park_morning
+TEXT: 오사카 엑스포 ‘70 기념공원, 2023년 8월 5일 오전
+
+RESOURCE ID: badge_gofest_2023_osaka_day2_park_morning_title
+TEXT: Pokémon GO Fest—공원 체험(토)
+
+RESOURCE ID: badge_gofest_2023_osaka_day3_city
+TEXT: 오사카, 2023년 8월 6일
+
+RESOURCE ID: badge_gofest_2023_osaka_day3_city_title
+TEXT: Pokémon GO Fest—도시 체험(일)
+
+RESOURCE ID: badge_gofest_2023_osaka_day3_extended
+TEXT: 오사카, 2023년 8월 6일
+
+RESOURCE ID: badge_gofest_2023_osaka_day3_extended_title
+TEXT: Pokémon GO Fest 2023: 연장 도시 체험(일)
+
+RESOURCE ID: badge_gofest_2023_osaka_day3_park_afternoon
+TEXT: 오사카 엑스포 ‘70 기념공원, 2023년 8월 6일 오후
+
+RESOURCE ID: badge_gofest_2023_osaka_day3_park_afternoon_title
+TEXT: Pokémon GO Fest—공원 체험(일)
+
+RESOURCE ID: badge_gofest_2023_osaka_day3_park_morning
+TEXT: 오사카 엑스포 ‘70 기념공원, 2023년 8월 6일 오전
+
+RESOURCE ID: badge_gofest_2023_osaka_day3_park_morning_title
+TEXT: Pokémon GO Fest—공원 체험(일)
+
+RESOURCE ID: badge_gofest_2023_osaka_park_2_test
+TEXT: 오사카, 엑스포 ‘70 기념공원
+
+RESOURCE ID: badge_gofest_2023_osaka_park_2_test_title
+TEXT: Pokémon GO Fest—공원 체험
+
+RESOURCE ID: badge_gofest_2023_osaka_park_test
+TEXT: 오사카, 엑스포 ‘70 기념공원
+
+RESOURCE ID: badge_gofest_2023_osaka_park_test_title
+TEXT: Pokémon GO Fest—공원 체험
+
+RESOURCE ID: badge_gofest_2023_osaka_vip
+TEXT: 오사카, 2023년 8월 4일~6일
+
+RESOURCE ID: badge_gofest_2023_osaka_vip_title
+TEXT: Pokémon GO Fest 2023
+
+RESOURCE ID: badge_gofest_2023_test
+TEXT: August 26–27, 2023
+
+RESOURCE ID: badge_gofest_2023_test_title
+TEXT: Pokémon GO Fest 2023
 
 RESOURCE ID: badge_gotour_2021_green_global
 TEXT: 글로벌, 2021년 2월 20일
@@ -10686,6 +11177,12 @@ TEXT: 램프라를 샹델라로 진화시키면 스페셜 어택 "폴터가이�
 RESOURCE ID: bonus_cd_move_noibat
 TEXT: 음뱃을 음번으로 진화시키면 스페셜 어택 폭음파을 배운다
 
+RESOURCE ID: bonus_cd_move_poliwag_politoed
+TEXT: 슈륙챙이를 왕구리로 진화시키면 냉동빔을 배울 수 있다!
+
+RESOURCE ID: bonus_cd_move_poliwag_poliwrath
+TEXT: 슈륙챙이를 강챙이로 진화시키면 카운터를 배울 수 있다!
+
 RESOURCE ID: bonus_cd_move_roggenrola
 TEXT: 암트르를 기가이어스로 진화시키면 메테오빔을 배운다
 
@@ -10737,6 +11234,9 @@ TEXT: 정시에 형광어가 대량발생
 RESOURCE ID: bonus_fr_party_pikachu
 TEXT: 미트앤그릿 포켓스톱의 필드리서치 과제를 완료하면 파티 모자를 쓴 피카츄를 만날 수 있다
 
+RESOURCE ID: bonus_friendship_raid_double
+TEXT: 2× 프렌드와 함께시 레이드 데미지 보너스
+
 RESOURCE ID: bonus_go_tour_2023_add_on_hatch_01
 TEXT: 3× 포켓몬의 부화시 별의모래
 
@@ -10772,6 +11272,9 @@ TEXT: 이벤트 기간 중 잡은 "가이오가"는 스페셜 어택 "근원의�
 
 RESOURCE ID: bonus_go_tour_irl_extra_candy
 TEXT: 현장에서 진행되는 원시 레이드에서 사탕XL 1개 추가
+
+RESOURCE ID: bonus_hatch_day_hatch_2x
+TEXT: 2×포켓몬의 부화시 별의모래
 
 RESOURCE ID: bonus_hoenn_spawns
 TEXT: 호연지방에서 처음 발견된 포켓몬이 더 많이 출현
@@ -10812,6 +11315,9 @@ TEXT: 커뮤니티 데이 챌린지: 캐치
 RESOURCE ID: bonus_implicit_social_noibat_raid
 TEXT: 트레이너가 협력해서 레이드배틀에서 음뱃을 이기면 그 체육관 주변에 30분동안 음뱃이 나타남
 
+RESOURCE ID: bonus_implicit_social_poliwag_raid
+TEXT: 트레이너가 협력해서 레이드배틀에서 슈륙챙이를 이기면 그 체육관 주변에 30분동안 발챙이가 나타남
+
 RESOURCE ID: bonus_implicit_social_raid_title
 TEXT: Community Day Challenge: Raid
 
@@ -10851,6 +11357,9 @@ TEXT: 호연 모자를 쓴 피카츄와 호연 리본을 쓴 피카츄가 향로
 RESOURCE ID: bonus_incense_hoenn_unown
 TEXT: 안농이 향로에 반응
 
+RESOURCE ID: bonus_increased_raid_capture
+TEXT: 레이드배틀에서 포켓몬을 잡기 쉬워진다
+
 RESOURCE ID: bonus_jeju_balloon_pikachu
 TEXT: 주황색 풍선을 단 "공중날기피카츄"가 에리어에 출현
 
@@ -10864,7 +11373,7 @@ RESOURCE ID: bonus_magnetic_lure_6_hr
 TEXT: 마그네틱 루어모듈 지속 6시간
 
 RESOURCE ID: bonus_mega_latias_latios
-TEXT: 메가라티아스와 메가라티오스의 레이드배틀
+TEXT: 메가라티아스와 메가라티오스의 레이드가 에리어 내에서 발생
 
 RESOURCE ID: bonus_milestone_rewards_title
 TEXT: 보너스 마일스톤 리워드
@@ -10883,6 +11392,12 @@ TEXT: 레이드배틀에서 잡은 레쿠쟈가 와이드브레이커를 배운�
 
 RESOURCE ID: bonus_purrloin_o_clock
 TEXT: 정시에 쌔비냥이 대량발생
+
+RESOURCE ID: bonus_raid_3_xl_candy
+TEXT: 별5, 메가, 원시 레이드에서 사탕XL 3개 추가
+
+RESOURCE ID: bonus_raid_6_candy
+TEXT: 별5, 메가, 원시 레이드에서 사탕 6개 추가
 
 RESOURCE ID: bonus_raid_move_blaziken
 TEXT: 이벤트 기간 중 잡은 "번치코"는 스페셜 어택 "블라스트번"을 배우고 있습니다.
@@ -11009,6 +11524,9 @@ TEXT: GO로켓단 조무래기를 쓰러뜨리고 받는 별의모래 증가
 
 RESOURCE ID: bonus_tgr_stardust_leader
 TEXT: GO로켓단 리더를 쓰러뜨리고 받는 별의모래 증가
+
+RESOURCE ID: bonus_total_6_special_trades
+TEXT: 하루에 가능한 특별한 교환 총 6회
 
 RESOURCE ID: bonus_trade_stardust_50pc_5hr
 TEXT: 이벤트 시작부터 종료 5시간 후까지 교환에 필요한 별의모래 1/2.
@@ -11364,6 +11882,9 @@ TEXT: 선택 표시가 되는 스페셜리서치 또는 시간제한 챌린지�
 RESOURCE ID: brazilianportuguese
 TEXT: Português
 
+RESOURCE ID: breakfast_tappable_tutorial_body
+TEXT: 루트를 걸으면 지가르데 셀을 발견하기도 합니다. 필요한 수의 셀을 모으면 지가르데를 합성할 수 있습니다.
+
 RESOURCE ID: breakthrough_free_remote_raid_pass
 TEXT: 대발견의 리모트 레이드패스
 
@@ -11396,6 +11917,15 @@ TEXT: 카메라 사용 허용
 
 RESOURCE ID: buddy_candy_distance_half
 TEXT: 1/2 파트너 포켓몬이 사탕을 발견하는 거리
+
+RESOURCE ID: buddy_candy_distance_routes_2x
+TEXT: 1/2 파트너 포켓몬이 루트를 함께 걸어 발견하는 사탕의 거리 감소
+
+RESOURCE ID: buddy_candy_distance_routes_3x
+TEXT: 1/3 파트너 포켓몬이 루트를 함께 걸어 발견하는 사탕의 거리 감소
+
+RESOURCE ID: buddy_candy_distance_routes_50p
+TEXT: 2/3 파트너 포켓몬이 루트를 함께 걸어 발견하는 사탕의 거리 감소
 
 RESOURCE ID: buddy_cannot_feed_because_cooldown
 TEXT: 지금은 먹을 수 없습니다!
@@ -11540,6 +12070,12 @@ TEXT: 파트너가 뭔가 발견한 것 같다!
 
 RESOURCE ID: buddy_giftbox_increase
 TEXT: Buddy will bring you Gifts more often
+
+RESOURCE ID: buddy_heart_play_route_together_description
+TEXT: 파트너 포켓몬이 따라올 때 함께 루트를 걸으면 하트를 받을 수 있습니다
+
+RESOURCE ID: buddy_heart_play_route_together_title
+TEXT: 루트를 함께 걷자
 
 RESOURCE ID: buddy_hearts_label
 TEXT: 파트너 포켓몬 하트
@@ -14624,6 +15160,9 @@ TEXT: 커뮤니티 데이: 음뱃
 RESOURCE ID: community_day_oshawott_event_name
 TEXT: 커뮤니티 데이: 수댕이
 
+RESOURCE ID: community_day_poliwag_event_name
+TEXT: 커뮤니티 데이: 발챙이
+
 RESOURCE ID: community_day_porygon_event_name
 TEXT: 커뮤니티 데이: 폴리곤
 
@@ -14741,6 +15280,9 @@ TEXT: 범위 밖에 있거나 도구가 가득 찼다면 빨강 또는 흰색으
 RESOURCE ID: complete_geotarget_quest
 TEXT: AR맵핑 과제를 완료 한다
 
+RESOURCE ID: complete_route_travel_error_toast
+TEXT: 루트 완료 에러
+
 RESOURCE ID: complete_transfer_in_ph_app
 TEXT: Pokémon HOME 에서 완료하지 않은 전송이 있습니다.
 
@@ -14770,6 +15312,9 @@ TEXT: 배틀에 이기지 않는 이상 {0}(은)는 계속 사용할 수 있습�
 
 RESOURCE ID: consume_combat_pass_warning_title
 TEXT: {0}(을)를 사용하겠습니까?
+
+RESOURCE ID: contact_support
+TEXT: 보고하기
 
 RESOURCE ID: contest_badge_description
 TEXT: 포켓스톱 쇼케이스에서 {0}번 이겼다!
@@ -14805,7 +15350,7 @@ RESOURCE ID: contest_enter_error_recent_win
 TEXT: 이 포켓몬은 최근에 쇼케이스에서 우승했습니다.
 
 RESOURCE ID: contest_enter_nearby_contest
-TEXT: 근처에서 진행되고 있는 포켓스톱 쇼케이스에 참가하세요
+TEXT: 포켓스톱 쇼케이스에 참가하세요
 
 RESOURCE ID: contest_enter_pokemon
 TEXT: {0}(을)를 엔트리한다
@@ -15105,6 +15650,9 @@ TEXT: 내일 다시 확인해 주세요
 RESOURCE ID: daily_research_title
 TEXT: 포켓코인 과제
 
+RESOURCE ID: daily_route_play
+TEXT: 연속으로 루트 걷기
+
 RESOURCE ID: dark_flames_dark_title
 TEXT: 어둠속 불꽃: 악타입 시간제한 리서치
 
@@ -15214,7 +15762,7 @@ RESOURCE ID: deep_link_activity_ios_5
 TEXT: <건강>을 터치하기
 
 RESOURCE ID: deep_link_activity_title
-TEXT: 모션이 허용이 필요합니다
+TEXT: 모션 허용이 필요합니다
 
 RESOURCE ID: deep_link_fitness_body
 TEXT: Pokémon GO는 위치정보를 사용하여 포켓몬과 포켓스톱 등을 찾습니다. 사용하시는 기기의 권한설정을 허용해 주십시오.
@@ -15429,6 +15977,9 @@ TEXT: 2× 파트너 하트
 RESOURCE ID: download_all_assets_all_downloaded
 TEXT: 모든 에셋 다운로드 완료
 
+RESOURCE ID: download_all_assets_checking_assets_indicator
+TEXT: Checking assets...
+
 RESOURCE ID: download_all_assets_complete_description
 TEXT: 다운로드가 완료했습니다.
 
@@ -15487,6 +16038,9 @@ TEXT: 공간이 부족하여 다운로드를 완료할 수 없습니다. 여유 
 
 RESOURCE ID: download_all_assets_title
 TEXT: 에셋 다운로드
+
+RESOURCE ID: download_all_assets_verifying_download_indicator
+TEXT: Verifying download...
 
 RESOURCE ID: download_all_assets_wifi_lost
 TEXT: Wi-Fi 접속이 끊겨 다운로드를 완료할 수 없었습니다. Wi-Fi에 접속하고 다시 시도해 주십시오.
@@ -16479,6 +17033,12 @@ TEXT: 칼로스 기념 이벤트
 RESOURCE ID: event_kanto_celebration
 TEXT: 관동 기념 이벤트
 
+RESOURCE ID: event_live_city_active_generic
+TEXT: 도시 체험 시간입니다. 도시에서 탐색을 시작합시다.
+
+RESOURCE ID: event_live_park_active_generic
+TEXT: 공원 체험 시간입니다. 공원으로 가서 탐색을 시작합시다.
+
 RESOURCE ID: event_mega_cp_bonus
 TEXT: 특정 메가진화한 포켓몬의 CP증가
 
@@ -16532,6 +17092,9 @@ TEXT: 정의 검 이벤트
 
 RESOURCE ID: event_name_bonus_generic
 TEXT: 보너스 이벤트
+
+RESOURCE ID: event_name_routes
+TEXT: 새로운 길잡이
 
 RESOURCE ID: event_name_snap
 TEXT: 「New 포켓몬 스냅」 기념 이벤트
@@ -17304,6 +17867,9 @@ TEXT: 라이징 히어로
 RESOURCE ID: f_avatar_poses_bundle_pose_52
 TEXT: 서핀 포즈
 
+RESOURCE ID: f_avatar_poses_bundle_pose_53
+TEXT: 보물지도 포즈
+
 RESOURCE ID: f_avatar_poses_empty_bundle_pose_empty
 TEXT: 대기
 
@@ -17377,7 +17943,7 @@ RESOURCE ID: fb_auth_error_no_email
 TEXT: 메일주소를 사용하여 등록한 계정이 필요합니다.
 
 RESOURCE ID: fb_auth_failed
-TEXT: 인증하지 못했습니다. 다시 한번 시도해 주십시오.
+TEXT: 인증하지 못했습니다. 다시 시도해 주시거나 연동한 다른 계정을 사용하여 로그인해 주십시오.
 
 RESOURCE ID: fb_invite_add_friends
 TEXT: Facebook 친구 추가하기
@@ -18362,7 +18928,7 @@ RESOURCE ID: form_regular
 TEXT: Regular Form
 
 RESOURCE ID: form_resolute
-TEXT: 각오의 모습
+TEXT: Resolute Form
 
 RESOURCE ID: form_rotom_fan
 TEXT: 스핀로토무
@@ -18588,6 +19154,12 @@ TEXT: Solo Form
 
 RESOURCE ID: form_zygarde_complete
 TEXT: 퍼펙트폼
+
+RESOURCE ID: form_zygarde_complete_fifty_percent
+TEXT: 50%폼
+
+RESOURCE ID: form_zygarde_complete_ten_percent
+TEXT: 10%폼
 
 RESOURCE ID: form_zygarde_fifty_percent
 TEXT: 50%폼
@@ -18867,6 +19439,9 @@ TEXT: 파츠를 조합할 수 있는 것 같다!
 RESOURCE ID: full_inventory_text
 TEXT: 가득합니다!
 
+RESOURCE ID: fullscreen_streak_title
+TEXT: 7일째 보너스
+
 RESOURCE ID: furfrou_heart_trim
 TEXT: 트리미앙 하트컷 가능
 
@@ -18917,6 +19492,9 @@ TEXT: 4x GO배틀리그 리워드 별의모래
 
 RESOURCE ID: gbl_quintuple_dust_win
 TEXT: 5x GO배틀리그 승리시 별의모래
+
+RESOURCE ID: gbl_sets_extra_ten_total
+TEXT: 10 total sets of battles in the GO Battle League
 
 RESOURCE ID: gbl_sets_extra_three
 TEXT: GO배틀리그 3대전 추가
@@ -19072,15 +19650,15 @@ RESOURCE ID: general1.ticket.2_flett_title
 TEXT: 울새포켓몬의 수수께끼를 풀어라! 티켓
 
 RESOURCE ID: general1.ticket.2_gbdmay2023_description
-TEXT: 전 세계 어디에서라도 현지 시간 2023년 5월 14일 0:00~ 23:59까지 GO배틀 데이: 별의모래 시간제한 리서치를 플레이 할 수 있는 티켓. 완료하면 다음 리워드를 받을 수 있습니다.
+TEXT: 전 세계 어디에서라도 현지 시간 2023년 5월 14일 0:00~ 23:59까지 GO배틀 데이: 별의모래 시간제한 리서치를 플레이 할 수 있는 티켓. 완료하면 다음 리워드를 받을 수 있습니다.
 
-- 별의모래 25,000
+- 별의모래 25,000
 
-- 이상한 사탕 3개
+- 이상한 사탕 3개
 
-- 별의조각 1개
+- 별의조각 1개
 
-
+
 
 이 시간제한 리서치에 대한 자세한 내용은 게임 내 뉴스에서 확인하세요.
 
@@ -19101,7 +19679,7 @@ RESOURCE ID: general1.ticket.2_goldtr2023_description
 TEXT: 전 세계 어디에 있어도 현지 시간 2023년 6월 3일 14시~ 17시까지 '빛나는 리서치데이 시간제한 리서치'를 플레이할 수 있는 티켓. 선택하는 길에 따라 색이 다른 포켓몬(이벤트 중 필드리서치 완료로 만날 수 있는 색이 다른 포켓몬과 동급)을 포함한 캐터피, 잉어킹, 코코파스, 깜까미, 미꾸리와 더 많이 만날 수 있습니다.
 이 시간제한 리서치에 관한 자세한 내용은 게임 내 새소식에서 확인하세요.
 
-이벤트 관련 모든 보너스를 받으려면 시간 내에 플레이를 완료할 필요가 있습니다.
+이벤트 관련 모든 보너스를 받으려면 시간 내에 플레이를 완료할 필요가 있습니다.
 
 
 RESOURCE ID: general1.ticket.2_goldtr2023_title
@@ -19140,18 +19718,14 @@ RESOURCE ID: general1.ticket.2_jan2023_title
 TEXT: 밤송이포켓몬의 수수께끼를 풀어라!
 
 RESOURCE ID: general1.ticket.2_julycd2023_description
-TEXT: A ticket to access the Community Day: Poliwag Special Research on July 30, 2023, from 2:00 p.m. to 5:00 p.m. local time, wherever you are. 
- 
-Research rewards include: 
-- Premium in-game items, such as Rare Candies, Ultra Balls, and more 
-- Extra encounters with Poliwag and its Evolutions 
- 
-Details can be found in the in-game News. 
- 
-<b>You must play during the specified time to receive all the special event bonuses.</b>
+TEXT: 전 세계 어디에 있어도 현지 시간 2023년 7월 30일 14시~ 17시에 발챙이 커뮤니티 데이 스페셜리서치를 진행할 수 있는 티켓. 완료하면 발챙이와 그 진화형 포켓몬을 자주 만날 수 있으며 이상한사탕, 하이퍼볼 등의 도구를 손에 넣을 수 있습니다.
+
+자세한 내용은 게임 내 새소식에서 확인할 수 있습니다.
+
+이벤트를 최대한 즐기려면 기재된 개최 시간 내에 완료할 필요가 있습니다.
 
 RESOURCE ID: general1.ticket.2_julycd2023_title
-TEXT: Poliwag Community Day Ticket
+TEXT: 올챙이포켓몬의 수수께끼를 풀어라!
 
 RESOURCE ID: general1.ticket.2_julycdc2023_description
 TEXT: 전 세계 어디에 있어도 현지 시간 2023년 7월 9일 14시~ 17시에 꼬부기 커뮤니티 데이(복각) 스페셜리서치를 진행할 수 있는 티켓. 완료하면 꼬부기와 그 진화형 포켓몬을 자주 만날 수 있으며 이상한사탕, 하이퍼볼 등의 도구를 손에 넣을 수 있습니다.
@@ -19232,6 +19806,13 @@ TEXT: 전 세계 어디에 있어도 현지 시간 2021년 9월 19일 11시~ 17�
 
 RESOURCE ID: general1.ticket.2_oshat_title
 TEXT: 해달포켓몬의 수수께끼를 풀어라! 티켓
+
+RESOURCE ID: general1.ticket.2_part2julycdc2023_description
+TEXT: 전 세계 어디에 있어도 현지 시간 2023년 7월 23일 14시~ 17시에 꼬부기 커뮤니티 데이(복각) 스페셜리서치를 진행할 수 있는 티켓. 완료하면 꼬부기와 그 진화형 포켓몬을 자주 만날 수 있으며 이상한사탕, 하이퍼볼 등의 도구를 손에 넣을 수 있습니다.
+
+자세한 내용은 게임 내 새소식에서 확인할 수 있습니다.
+
+이벤트를 최대한 즐기려면 기재된 개최 시간 내에 완료할 필요가 있습니다.
 
 RESOURCE ID: general1.ticket.2_roset_description
 TEXT: 전 세계 어디에 있어도 현지 시간 2021년 2월 7일 11시~ 17시까지 게임 내에서 시작할 수 있는 이벤트 "가시포켓몬의 수수께끼를 풀어라!"를 플레이할 수 있는 티켓. 자세한 내용은 게임 내 새소식에서 확인할 수 있습니다.
@@ -19390,7 +19971,7 @@ TEXT: 현지시간 2023년 6월 10시부터 6월 12일 20시까지 시간제한 
 
 자세한 내용은 게임 내 새소식에서 확인해 주세요.
 
-<b>관련 리워드를 모두 받으려면 시간제한 리서치가 사라지기 전에 플레이를 완료해야 합니다.</b>
+<b>관련 리워드를 모두 받으려면 시간제한 리서치가 사라지기 전에 플레이를 완료해야 합니다.</b>
 
 
 RESOURCE ID: general1.ticket.beachweek2023_title
@@ -19407,6 +19988,18 @@ TEXT: 현지시간 2023년 7월 2일 23:59까지 GO배틀리그에서 50전 하�
 
 RESOURCE ID: general1.ticket.gbweekend_bundle_title
 TEXT: GO배틀 데이: 별의모래 시간제한 리서치
+
+RESOURCE ID: general1.ticket.gofest2023_alldetails
+TEXT: 전 세계 어디에 있어도 현지 시간 2023년 8월 26일, 27일에  Pokémon GO Fest 2023: 글로벌 스페셜리서치를 진행할 수 있는 티켓. 이 스페셜리서치를 완료하면 디안지와 만날 수 있습니다. 그 외 다음을 받을 수 있습니다.
+-색이 다른 포켓몬과 만날 확률 업
+-대단한 기술머신스페셜, 대단한 기술머신노말, 이상한사탕
+-아바타 포즈와 의상 아이템
+-체육관의 포토디스트를 돌리면 무료 레이드패스 9개까지
+-레쿠쟈에게 화룡점정를 배우게 할 수 있는 운석
+
+자세한 내용은 게임 내 새소식에서 확인하세요.
+
+<b>이벤트 관련 모든 보너스를 받으려면 기재된 개최된 시간 내에 플레이를 완료해야 합니다.</b>
 
 RESOURCE ID: general1.ticket.gofest2023_description
 TEXT: 전 세계 어디에 있어도 현지 시간 2023년 8월 26일, 27일 개최하는 게임 내 이벤트 'Pokémon GO Fest 2023: 글로벌'에 참가할 수 있는 티켓. 자세한 내용은 게임 내 새소식에서 확인할 수 있습니다.
@@ -19428,25 +20021,25 @@ RESOURCE ID: general1.ticket.gofest2023_title
 TEXT: Pokémon GO Fest 2023: 글로벌 티켓
 
 RESOURCE ID: general1.ticket.holiday2022_description
-TEXT: 현지시간 2022년 12월 15일 10시~ 12월 31일 20시에 시간제한 리서치를 진행하기 위한 티켓. 완료하면 다음 리워드를 받을 수 있습니다.
+TEXT: 현지시간 2022년 12월 15일 10시~ 12월 31일 20시에 시간제한 리서치를 진행하기 위한 티켓. 완료하면 다음 리워드를 받을 수 있습니다.
 
-
 
-선물 포즈
 
-부화장치 2개
+선물 포즈
 
-향로 1개
+부화장치 2개
 
-
+향로 1개
 
-개최 기간내에 과제를 완료하고 리워드를 받지 않으면 시간제한 리서치는 사라집니다.
 
-
 
-자세한 내용은 게임 내 새소식에서 확인하세요.
+개최 기간내에 과제를 완료하고 리워드를 받지 않으면 시간제한 리서치는 사라집니다.
 
-
+
+
+자세한 내용은 게임 내 새소식에서 확인하세요.
+
+
 
 이 시간제한 리서치를 최대한 즐기려면 기재된 시간 내에 플레이할 필요가 있습니다.
 
@@ -19461,7 +20054,7 @@ TEXT: 희귀한 지라치와 만날 수 있는 장기리서치를 진행하기 �
 포핀 2개
 향로 2개
 하이퍼볼 30개
-지라치의 사탕 20개, 그란돈의 사탕 10개, 가이오가의 사탕 10개, 레쿠쟈의 사탕 10개.
+지라치의 사탕 20개, 그란돈의 사탕 10개, 가이오가의 사탕 10개, 레쿠쟈의 사탕 10개.
 
 
  이 티켓은 미국 태평양시간 2023년 3월 20일 오전 10시까지 숍에서 구매할 수 있습니다. 구입 후 현지 시간 2023년 2월 20일 오전 10시~2023년 3월 20일 오전 10시까지 플레이 해야합니다. 받은 장기리서치는 사라지지 않습니다.
@@ -19470,28 +20063,28 @@ RESOURCE ID: general1.ticket.jirachimasterwork_title
 TEXT: 장기리서치: 소원
 
 RESOURCE ID: general1.ticket.keldeo_description
-TEXT: 케르디오(평상시 모습)와 만날 수 있는 스페셜리서치를 진행할 수 있는 티켓.
-그 외 손에 넣을 수 있는 것:
+TEXT: 케르디오(평상시 모습)와 만날 수 있는 스페셜리서치를 진행할 수 있는 티켓.
+그 외 손에 넣을 수 있는 것:
 
-
 
-케르디오 티셔츠 의상 아이템
 
-이상한사탕 14개
+케르디오 티셔츠 의상 아이템
 
-은 파인열매 12개
+이상한사탕 14개
 
-부화장치 2개
+은 파인열매 12개
 
-슈퍼 부화장치 2개
+부화장치 2개
 
-향로 2개
+슈퍼 부화장치 2개
 
-격투타입, 물타입 포켓몬 등장
+향로 2개
 
-
+격투타입, 물타입 포켓몬 등장
 
-자세한 내용은 게임 내 새소식에서 확인할 수 있습니다.
+
+
+자세한 내용은 게임 내 새소식에서 확인할 수 있습니다.
 
 
 현지시간 2022년 12월 10일 10시~ 12월 11일 20시까지 스페셜리서치를 완료 하여 보너스를 받으세요.
@@ -19554,6 +20147,18 @@ TEXT: 전 세계 어디에서라도 '박사의 모험 도전'을 진행할 수 �
 RESOURCE ID: general1.ticket.s10timed_title
 TEXT: 박사의 모험 도전
 
+RESOURCE ID: general1.ticket_adventureweek2023_description
+TEXT: 전 세계 어디에 있어도 현지 시간 2023년 7월 27일 10시~ 8월 2일 20시까지 '어드벤처 위크 시간제한 리서치'를 플레이할 수 있는 티켓. 티고라스 또는 아마루스를 보다 많이 만날 수 있는 길을 선택할 수 있습니다.
+
+이 시간제한 리서치에서는 이벤트 개최 중, 야생에서 만날 수 있는 포켓몬과 동일하게 색이 다른 포켓몬과 만날 수 있는 기회가 있습니다.
+
+자세한 내용은 게임 내 새소식에서 확인하세요.
+
+이벤트 관련 모든 보너스를 받으려면 시간 내에 플레이를 완료할 필요가 있습니다.
+
+RESOURCE ID: general1.ticket_adventureweek2023_title
+TEXT: 어드벤처 위크2023 시간제한 리서치 티켓
+
 RESOURCE ID: general1.ticket_cosmog2023_description
 TEXT: 전 세계 어디에 있어도 현지 시간 2023년 6월 16일 10시 ~ 6월 25일 20시에 추가 스페셜리서치를 진행할 수 있는 티켓. 완료하면 코스모그, 야돈(가라르의 모습), 아쿠스타, 메탕구, 오케이징을 만날 수 있으며 별의모래, 하이퍼볼 등을 손에 넣을 수 있습니다.
 
@@ -19578,6 +20183,9 @@ TEXT: & {0}
 
 RESOURCE ID: general_attack
 TEXT: 공격
+
+RESOURCE ID: general_back
+TEXT: Back
 
 RESOURCE ID: general_battle
 TEXT: 배틀
@@ -19684,6 +20292,9 @@ TEXT: 또는
 RESOURCE ID: general_paste
 TEXT: 붙여넣기
 
+RESOURCE ID: general_player_guidelines
+TEXT: Player Guidelines
+
 RESOURCE ID: general_pokemon
 TEXT: 포켓몬
 
@@ -19716,6 +20327,12 @@ TEXT: Skip
 
 RESOURCE ID: general_stamina
 TEXT: HP
+
+RESOURCE ID: general_submit
+TEXT: 송신
+
+RESOURCE ID: general_submit_an_appeal
+TEXT: Submit an Appeal
 
 RESOURCE ID: general_total_caps
 TEXT: TOTAL
@@ -19842,7 +20459,7 @@ RESOURCE ID: gift_sent_toast
 TEXT: 선물을 보냈습니다!
 
 RESOURCE ID: gift_storage_double
-TEXT: 2× 도구 가방에 지닐 수 있는 선물 수
+TEXT: 2× 도구 가방에 지닐 수 있는 선물
 
 RESOURCE ID: gift_storage_one_and_half
 TEXT: 1.5× 도구 가방에 지닐 수 있는 선물
@@ -20179,7 +20796,7 @@ RESOURCE ID: go_tour_global_sr_dialog_03_00
 TEXT: %PLAYERNAME%, 원시그란돈을 잠재워줘서 고마워. 나는.... 이거. 주홍구슬인 것 같은데 발견했어.
 
 RESOURCE ID: go_tour_global_sr_dialog_03_01
-TEXT: 동굴 안에는 제단 같은 장소가 있었는데 이 구슬이 빛나고 있었어. 누가 놔두고 갓는지 모르겠지만.
+TEXT: 동굴 안에는 제단 같은 장소가 있었는데 이 구슬이 빛나고 있었어. 누가 놔두고 갔는지 모르겠지만.
 
 RESOURCE ID: go_tour_global_sr_dialog_03_02
 TEXT: 다음은 쪽빛구슬이구나. 이쪽은 가이오가와 관계가 있지.
@@ -20560,7 +21177,7 @@ RESOURCE ID: go_tour_live_sr_dialog_05_04
 TEXT: GO로켓단이 아무것도 못 하고 간 건 다행이야. 강력한 힘을 악용하면 엄청난 일이 일어났을 거야.
 
 RESOURCE ID: go_tour_live_sr_dialog_05_05
-TEXT: GO로켓단은 큰 문제가 되지 않았지만, 원시가이오가와 원시그란돈은 아직 완벽하게 누그러진 게 아니야. 해결하려면 팀 리더들과 리가 찾고 있는 "주홍구슬"과 "쪽빛구슬"이 필요해.
+TEXT: GO로켓단은 큰 문제가 되지 않았지만, 원시가이오가와 원시그란돈은 아직 완벽하게 누그러진 게 아니야. 해결하려면 팀 리더들과 리가 찾고 있는 "주홍구슬"과 "쪽빛구슬"이 필요해.
 
 
 RESOURCE ID: go_tour_live_sr_dialog_05_06
@@ -21801,6 +22418,717 @@ TEXT: GO Fest 2022: 설원
 RESOURCE ID: gofest2022_tundra_description
 TEXT: 이 포켓몬을 설원 아워에서 잡아보자!
 
+RESOURCE ID: gofest2023
+TEXT: Pokémon GO Fest 2023
+
+RESOURCE ID: gofest2023_aquamarine_shores
+TEXT: 푸른 해안 컬렉션 챌린지
+
+RESOURCE ID: gofest2023_aquamarine_shores_description
+TEXT: 다음 포켓몬을 '푸른 해안'에서 잡자!
+
+RESOURCE ID: gofest2023_city_0_1
+TEXT: 어서와, %PLAYERNAME%!
+
+RESOURCE ID: gofest2023_city_0_2
+TEXT: 운석같은 것이 목격되어 조사를 시작했어.
+
+RESOURCE ID: gofest2023_city_0_3
+TEXT: 포켓몬과의 관계를 예상하고 있어. 메가레쿠쟈가 목격되었거든.
+
+RESOURCE ID: gofest2023_city_0_4
+TEXT: 그러고보니... 여러명의 연구자에게 들은 적이 있어. 당시에는 그냥 흘러들었는데.
+
+RESOURCE ID: gofest2023_city_0_5
+TEXT: 레쿠쟈의 기술인 화룡점정. 특정 운석의 영향으로 사용할 수 있다고 말했었지.
+
+RESOURCE ID: gofest2023_city_0_6
+TEXT: 팀 리더들에게 운석을 모으라고 이야기해뒀으니, 너도 같이 모아줘.
+
+RESOURCE ID: gofest2023_city_0_7
+TEXT: 메가레쿠쟈에 대해 뭔가 알게 되면 알려줘.
+
+RESOURCE ID: gofest2023_city_0_8
+TEXT: 준비하고 출하하자. 파트너 포켓몬의 준비도 다 한 거야? 잘 부탁할게, %PLAYERNAME%!
+
+RESOURCE ID: gofest2023_city_1_1
+TEXT: 안녕, %PLAYERNAME%!
+
+RESOURCE ID: gofest2023_city_1_2
+TEXT: 요즘 어때? 트레이너가 많이 모였군.
+
+RESOURCE ID: gofest2023_city_1_3
+TEXT: 메가레쿠쟈의 이야기로 뜨겁구나!
+
+RESOURCE ID: gofest2023_city_1_4
+TEXT: 메가레쿠쟈가 진화하면 원시그란돈과 원시가이오가를 막을 수도 있다고 하는군.
+
+RESOURCE ID: gofest2023_city_1_5
+TEXT: 배틀하는 걸 보고 싶군.
+
+RESOURCE ID: gofest2023_city_1_6
+TEXT: 너도 그렇지? 체육관에 나타난다는 정보가 있으니 가보도록 해.
+
+RESOURCE ID: gofest2023_city_1_7
+TEXT: 난 이미 준비가 다 됐어! 강한 상대일수록 투지가 불타오르는군.
+
+RESOURCE ID: gofest2023_city_1_8
+TEXT: 말해두지만 겁먹지 마. 목표를 정했다면 기세 좋게 효과가 굉장한 스페셜 어택을 써보자!
+
+RESOURCE ID: gofest2023_city_1_9
+TEXT: 잘해보라고, %PLAYERNAME%!
+
+RESOURCE ID: gofest2023_city_2_1
+TEXT: 안녕, %PLAYERNAME%!
+
+RESOURCE ID: gofest2023_city_2_2
+TEXT: 너도 윌로우박사로부터 운석 모으기를 부탁받았어?
+
+RESOURCE ID: gofest2023_city_2_3
+TEXT: 나도야! 지금은 잠시 쉬는 거야.
+
+RESOURCE ID: gofest2023_city_2_4
+TEXT: 이런 조사가 있을 때 직관에 따르면 아주 좋아.
+
+RESOURCE ID: gofest2023_city_2_5
+TEXT: 나눠서 모으자. 나는 저쪽에 볼 테니 넌 이쪽을 봐.
+
+RESOURCE ID: gofest2023_city_2_6
+TEXT: 알을 부화장치에 넣고 가. 나중에 어떤 포켓몬이 부화했는지 알려줘.
+
+RESOURCE ID: gofest2023_city_2_7
+TEXT: 이상! 그럼 이따 봐!
+
+RESOURCE ID: gofest2023_city_3_1
+TEXT: 안녕, %PLAYERNAME%.
+
+RESOURCE ID: gofest2023_city_3_10
+TEXT: 너라면 해낼 수 있을 거야, %PLAYERNAME%.
+
+RESOURCE ID: gofest2023_city_3_2
+TEXT: 난 운석 데이터를 분석해서 궤적을 따라오다 보니 여기로 도착했어.
+
+RESOURCE ID: gofest2023_city_3_3
+TEXT: 대기 상태에 따라 데이터에 큰 폭으로 보정해야 해서 생각보다 시간이 걸렸어.
+
+RESOURCE ID: gofest2023_city_3_4
+TEXT: 네 분석 결과와 비교해보고 싶어.
+
+RESOURCE ID: gofest2023_city_3_5
+TEXT: 분석을 안했구나. 즐기려고 왔다고?
+
+RESOURCE ID: gofest2023_city_3_6
+TEXT: 그럴 수도 있지.
+
+RESOURCE ID: gofest2023_city_3_7
+TEXT: 하지만 오늘은 좀 더 적당한 이유가 있어.
+
+RESOURCE ID: gofest2023_city_3_8
+TEXT: 메가레쿠쟈가 구름을 가르며 내려오는 걸 봤어.
+
+RESOURCE ID: gofest2023_city_3_9
+TEXT: 난 운석을 모으기 위해 여기에 있는데 넌 메가레쿠쟈를 확인하러 가보는 게 좋겠어.
+
+RESOURCE ID: gofest2023_city_4_1
+TEXT: %PLAYERNAME%, 어서 와!
+
+RESOURCE ID: gofest2023_city_4_2
+TEXT: 운석을 다 모았나 모양이군. 훌륭해!
+
+RESOURCE ID: gofest2023_city_4_3
+TEXT: 메가레쿠쟈를 발견했니?
+
+RESOURCE ID: gofest2023_city_4_4
+TEXT: 정말 잘 됐구나. 어디선가 날아온 돌에 숨겨진 힘.
+
+RESOURCE ID: gofest2023_city_4_5
+TEXT: 레쿠쟈 체내에 축적된 힘도 있겠지.
+
+RESOURCE ID: gofest2023_city_4_6
+TEXT: 그 두 가지가 하나가 되면 어떻게 되는 걸까? 상상이 안 가는군. 기회가 있다면 레쿠쟈를 메가진화시킬 수 있을지 시험해 봐. 
+
+RESOURCE ID: gofest2023_city_4_7
+TEXT: 협조 고마워! 남은 시간은 자유롭게 즐겨줘!
+
+RESOURCE ID: gofest2023_city_session
+TEXT: Pokémon GO Fest 2023: 도시 체험
+
+RESOURCE ID: gofest2023_content_hashtag
+TEXT:  #PokemonGOFest2023을 붙이고 올린 사진 중에서 픽업해서 소개!
+
+RESOURCE ID: gofest2023_extended_bonus_session
+TEXT: Pokémon GO Fest 2023: 연장
+
+RESOURCE ID: gofest2023_free_rayquaza_0_1
+TEXT: %PLAYERNAME%, GO Fest 즐기고 있니?
+
+RESOURCE ID: gofest2023_free_rayquaza_0_2
+TEXT: 오늘 메가레쿠쟈가 목격되어서 큰 소동이 일어나고 있어.
+
+RESOURCE ID: gofest2023_free_rayquaza_0_3
+TEXT: 머나먼 상공에서 살고 있는 포켓몬이라 그 모습을 살짝이라도 보는 것만으로도 대단하다고.
+
+RESOURCE ID: gofest2023_free_rayquaza_0_4
+TEXT: 뿐만 아니야. 운석 낙하도 굉장했어. 몇 개는 근처에 떨어졌을 거야.
+
+RESOURCE ID: gofest2023_free_rayquaza_0_5
+TEXT: 운석과 레쿠쟈사이에는 깊은 관계가 있는 것 같아. 이거에 대해서는 나중에 알아보자.
+
+RESOURCE ID: gofest2023_free_rayquaza_0_6
+TEXT: 메가레쿠쟈를 확인하는 게 우선이야. 그러려면 운석을 찾아야지!
+
+RESOURCE ID: gofest2023_free_rayquaza_1_1
+TEXT: 어서 와, %PLAYERNAME%!
+
+RESOURCE ID: gofest2023_free_rayquaza_1_2
+TEXT: 메가레쿠쟈는 봤니? 운석은?
+
+RESOURCE ID: gofest2023_free_rayquaza_1_3
+TEXT: 레쿠쟈와 운석 사이에 깊은 관계가 있을 거라고 했지만, 특정 운석이 레쿠쟈에게 영향을 주는 것 같아.
+
+RESOURCE ID: gofest2023_free_rayquaza_1_4
+TEXT: 즉, 그 운석을 사용하면 레쿠쟈에게 기술 화룡점정을 배우게 할 수 있어.
+
+RESOURCE ID: gofest2023_free_rayquaza_1_5
+TEXT: 손에 넣은 운석으로 검증해 보면 좋을 거야.
+
+RESOURCE ID: gofest2023_free_rayquaza_1_6
+TEXT: 혹시 오늘 시험할 수 있다면 결과를 알려줘.
+
+RESOURCE ID: gofest2023_free_rayquaza_1_7
+TEXT: 이제부터는 자유롭게 탐색하도록 해. 언제나처럼 즐기면서 포켓몬을 잡거나, 트레이너 동료들과 교류하도록 해.
+
+RESOURCE ID: gofest2023_free_rayquaza_1_8
+TEXT: 자, 힘차게 GO!
+
+RESOURCE ID: gofest2023_global_diancie_0_1
+TEXT: 안녕, %PLAYERNAME%.  Pokémon GO Fest에 온 걸 환영해!
+
+RESOURCE ID: gofest2023_global_diancie_0_2
+TEXT: 이 지도, 이걸...
+
+RESOURCE ID: gofest2023_global_diancie_0_3
+TEXT: 어이쿠, 이게 아니라... 맛있는 포핀 지도가 아니라...
+
+RESOURCE ID: gofest2023_global_diancie_0_4
+TEXT: ... 이걸 봐줘. "세계에서 가장 아름다운 것"이라고 읽는데 그 뭔가를 찾기 위한 지도야.
+
+RESOURCE ID: gofest2023_global_diancie_0_5
+TEXT: %PLAYERNAME%, 이게 뭐라고 생각해? 희귀한 돌? 포켓몬?
+
+RESOURCE ID: gofest2023_global_diancie_0_6
+TEXT: 지도를 따라 찾는 수밖에 없군.
+
+RESOURCE ID: gofest2023_global_diancie_0_7
+TEXT: 이 위치는 포켓스톱을 가리키는 것 같군. 저 포켓스톱을 향해서 가보자. 어서, 가자!
+
+RESOURCE ID: gofest2023_global_diancie_1_1
+TEXT: 후우. 조금 빠른 걸음으로 걷는 건 이분이 좋구나!
+
+RESOURCE ID: gofest2023_global_diancie_1_2
+TEXT: 이제까지 잡은 포켓몬은 나중에 보도록 하고,
+
+RESOURCE ID: gofest2023_global_diancie_1_3
+TEXT: 다음 포인트를 찾아보자. 지도에는 없군... 대신 포켓몬 그림이 그려져 있군.
+
+RESOURCE ID: gofest2023_global_diancie_1_4
+TEXT: 이 포켓몬을 찾으면 다음 힌트를 얻을 수 있을 거야.
+
+RESOURCE ID: gofest2023_global_diancie_1_5
+TEXT: 저기에 많은 포켓몬이 있군. 어서 가보자!
+
+RESOURCE ID: gofest2023_global_diancie_2_1
+TEXT: 점점 들뜨기 시작하는 걸, %PLAYERNAME%!
+
+RESOURCE ID: gofest2023_global_diancie_2_2
+TEXT: 트레이너들도 즐거워 보여.
+
+RESOURCE ID: gofest2023_global_diancie_2_3
+TEXT: 이대로라면 제일 아름다운 것을 찾는 데 시간이 얼마 안 걸릴 거야. 다음 목표는...
+
+RESOURCE ID: gofest2023_global_diancie_2_4
+TEXT: 아니, 잘못 생각했네... 시간이 좀 걸리겠어.
+
+RESOURCE ID: gofest2023_global_diancie_2_5
+TEXT: 즐기면서 알을 부화하면서 해보자.
+
+RESOURCE ID: gofest2023_global_diancie_2_6
+TEXT: 난 멜탄과 함께 걸어보지. 너도 파트너 포켓몬과 걸어봐!
+
+RESOURCE ID: gofest2023_global_diancie_3_1
+TEXT: 휴우! 꽤 걸었네, %PLAYERNAME%.
+
+RESOURCE ID: gofest2023_global_diancie_3_2
+TEXT: 다음에 갈 목적지도 없으니 좀 쉬어볼까?
+
+RESOURCE ID: gofest2023_global_diancie_3_3
+TEXT: 이 포인트에는 이브이와 그 진화형이 그려져 있어.
+
+RESOURCE ID: gofest2023_global_diancie_3_4
+TEXT: 이 주변에 이브이는 없는 것 같으니 진화가 가진 가능성을 나타내는 것 같아.
+
+RESOURCE ID: gofest2023_global_diancie_3_5
+TEXT: %PLAYERNAME%, 포켓몬을 진화시켜보자. 
+
+RESOURCE ID: gofest2023_global_diancie_4_1
+TEXT: 어어어어 왜그래? %PLAYERNAME%!
+
+RESOURCE ID: gofest2023_global_diancie_4_2
+TEXT: 그 핑크색 보석은... 환상의 포켓몬 디안시인가!
+
+RESOURCE ID: gofest2023_global_diancie_4_3
+TEXT: 핑크색에 빛나는 몸, 세상에서 아름답다고 전해지지. 이 눈으로 볼 수 있다니 믿을 수 없군!
+
+RESOURCE ID: gofest2023_global_diancie_4_4
+TEXT: 디안시는 공기 중에 탄소를 양손 틈새로 압축해서 많은 다이아몬드를 한순간에 만들어 내.
+
+RESOURCE ID: gofest2023_global_diancie_4_5
+TEXT: 상상할 수 있니? 디안시가 다이아의 반짝임에 둘러싸인 광경을.
+
+RESOURCE ID: gofest2023_global_diancie_4_6
+TEXT: 숨이 막히는 아름다움이야.
+
+RESOURCE ID: gofest2023_global_diancie_4_7
+TEXT: 여기서 만나다니! 하지만 아직 끝이 아니야.
+
+RESOURCE ID: gofest2023_global_diancie_4_8
+TEXT: 마음 내킬 때 돌을 강화한다.... 라고 써있네.
+
+RESOURCE ID: gofest2023_global_diancie_4_9
+TEXT: 디안시는 바위타입과 페어리타입의 포켓몬이야. 그러면 바위타입과 페어리타입 포켓몬을 강화시켜보자.
+
+RESOURCE ID: gofest2023_global_diancie_5_1
+TEXT: %PLAYERNAME%, 이번에는 다이아를 발견했어? 아니군, 디안시의 메가에너지구나.
+
+RESOURCE ID: gofest2023_global_diancie_5_2
+TEXT: 대단하군! 메가디안시를 관찰해보고 싶군. 얼마나 눈부시게 반짝이는지 상상이 안 될 정도야.
+
+RESOURCE ID: gofest2023_global_diancie_5_3
+TEXT: 오늘은 충분히 익사이팅했으니까, 너에게 바로 메가진화 부탁은 다음에 할게.
+
+RESOURCE ID: gofest2023_global_diancie_5_4
+TEXT: 메가디안시에 관한 보고는 다음에 부탁할게.
+
+RESOURCE ID: gofest2023_global_diancie_5_5
+TEXT: 남은 시간은 즐겨줘, %PLAYERNAME%.
+
+RESOURCE ID: gofest2023_global_diancie_5_6
+TEXT: 다음에 만날 때까지 힘차게 GO!
+
+RESOURCE ID: gofest2023_habitat_athletic_field
+TEXT: 운동장
+
+RESOURCE ID: gofest2023_habitat_athletic_field_description
+TEXT: 이 포켓몬을 '연마의 광장'에서 잡으세요!
+
+RESOURCE ID: gofest2023_habitat_cursed_treasures
+TEXT: 저주 유적
+
+RESOURCE ID: gofest2023_habitat_cursed_treasures_description
+TEXT: 이 포켓몬을 '저주 유적'에서 잡으세요!
+
+RESOURCE ID: gofest2023_habitat_dark_jungle
+TEXT: 어둠 정글
+
+RESOURCE ID: gofest2023_habitat_dark_jungle_description
+TEXT: 이 포켓몬을 '어둠 정글'에서 잡으세요!
+
+RESOURCE ID: gofest2023_habitat_fairy_garden
+TEXT: 요정 정원
+
+RESOURCE ID: gofest2023_habitat_fairy_garden_description
+TEXT: 이 포켓몬을 '요정 정원'에서 잡으세요!
+
+RESOURCE ID: gofest2023_habitat_hypnotic_glacier
+TEXT: 얼음 평원
+
+RESOURCE ID: gofest2023_habitat_hypnotic_glacier_description
+TEXT: 이 포켓몬을 '얼음 평원'에서 잡으세요!
+
+RESOURCE ID: gofest2023_habitat_poison_swamp
+TEXT: 독 늪
+
+RESOURCE ID: gofest2023_habitat_poison_swamp_description
+TEXT: 이 포켓몬을 '독 늪'에서 잡으세요!
+
+RESOURCE ID: gofest2023_habitat_prehistoric_volcano
+TEXT: 고대 화산
+
+RESOURCE ID: gofest2023_habitat_prehistoric_volcano_description
+TEXT: 이 포켓몬을 '고대 화산'에서 잡으세요!
+
+RESOURCE ID: gofest2023_habitat_volcanic_island
+TEXT: 화산 섬
+
+RESOURCE ID: gofest2023_habitat_volcanic_island_description
+TEXT: 이 포켓몬을 '화산 섬'에서 잡으세요!
+
+RESOURCE ID: gofest2023_hatch_add_on
+TEXT: Pokémon GO Fest 2023: 알 옵션
+
+RESOURCE ID: gofest2023_hour_habitat1
+TEXT: 현재 서식지: 붉은 테라리움
+
+RESOURCE ID: gofest2023_hour_habitat2
+TEXT: 현재 서식지: 황금의 사막
+
+RESOURCE ID: gofest2023_hour_habitat3
+TEXT: 현재 서식지: 초록 숲
+
+RESOURCE ID: gofest2023_hour_habitat4
+TEXT: 현재 서식지: 푸른 해안
+
+RESOURCE ID: gofest2023_live_city_active_london
+TEXT: 공원 체험 시간입니다! 브록웰 파크에서 탐색을 시작합시다!
+
+RESOURCE ID: gofest2023_live_city_active_newyork
+TEXT: 공원 체험 시간입니다! 랜달스 아일랜드 파크에서 탐색을 시작합시다!
+
+RESOURCE ID: gofest2023_live_city_active_osaka
+TEXT: 공원 체험 시간입니다! 엑스포 ‘70 기념공원에서 탐색을 시작합시다!
+
+RESOURCE ID: gofest2023_live_habitat_athletic_field
+TEXT: 현재 서식지: 연마의 광장
+
+RESOURCE ID: gofest2023_live_habitat_cursed_treasures
+TEXT: 현재 서식지: 저주 유적
+
+RESOURCE ID: gofest2023_live_habitat_dark_jungle
+TEXT: 현재 서식지: 어둠 정글
+
+RESOURCE ID: gofest2023_live_habitat_fairy_garden
+TEXT: 현재 서식지: 요정 정원
+
+RESOURCE ID: gofest2023_live_habitat_hypnotic_glacier
+TEXT: 현재 서식지: 얼음 평원
+
+RESOURCE ID: gofest2023_live_habitat_poison_swamp
+TEXT: 현재 서식지: 독 늪
+
+RESOURCE ID: gofest2023_live_habitat_prehistoric_volcano
+TEXT: 현재 서식지: 고대 화산
+
+RESOURCE ID: gofest2023_live_habitat_volcanic_island
+TEXT: 현재 서식지: 화산 섬
+
+RESOURCE ID: gofest2023_live_london_city
+TEXT: Pokémon GO Fest 2023: 런던 - 도시 체험
+
+RESOURCE ID: gofest2023_live_london_park
+TEXT: Pokémon GO Fest 2023: 런던 - 공원 체험
+
+RESOURCE ID: gofest2023_live_newyork_city
+TEXT: Pokémon GO Fest 2023: 뉴욕 - 도시 체험
+
+RESOURCE ID: gofest2023_live_newyork_park
+TEXT: Pokémon GO Fest 2023: 뉴욕 - 공원 체험
+
+RESOURCE ID: gofest2023_live_osaka_city
+TEXT: Pokémon GO Fest 2023: 오사카 - 도시 체험
+
+RESOURCE ID: gofest2023_live_osaka_park
+TEXT: Pokémon GO Fest 2023: 오사카 - 공원 체험
+
+RESOURCE ID: gofest2023_live_park_active_london
+TEXT: 도시 체험 시간입니다! 런던에서 탐색을 시작합시다!
+
+RESOURCE ID: gofest2023_live_park_active_newyork
+TEXT: 도시 체험 시간입니다! 뉴욕에서 탐색을 시작합시다!
+
+RESOURCE ID: gofest2023_live_park_active_osaka
+TEXT: 도시 체험 시간입니다! 오사카에서 탐색을 시작합시다!
+
+RESOURCE ID: gofest2023_live_preview_city_0804
+TEXT: 안내: Pokémon GO Fest 도시 체험이 8월 4일(금)(9시 ~ 19시)에 시작합니다!
+
+RESOURCE ID: gofest2023_live_preview_city_0805
+TEXT: 안내: Pokémon GO Fest 도시 체험이 8월 5일(토)(9시 ~ 19시)에 시작합니다!
+
+RESOURCE ID: gofest2023_live_preview_city_0806
+TEXT: 안내: Pokémon GO Fest 도시 체험이 8월 6일(일)(9시 ~ 19시)에 시작합니다!
+
+RESOURCE ID: gofest2023_live_preview_city_0818
+TEXT: 안내: Pokémon GO Fest 도시 체험이 8월 18일(금)(9시 ~ 19시)에 시작합니다!
+
+RESOURCE ID: gofest2023_live_preview_city_0819
+TEXT: 안내: Pokémon GO Fest 도시 체험이 8월 19일(토)(9시 ~ 19시)에 시작합니다!
+
+RESOURCE ID: gofest2023_live_preview_city_0820
+TEXT: 안내: Pokémon GO Fest 도시 체험이 8월 20일(일)(9시 ~ 19시)에 시작합니다!
+
+RESOURCE ID: gofest2023_live_preview_park_afternoon_0804
+TEXT: 안내: Pokémon GO Fest 공원 체험이 8월 4일(금) 오후(2시 30분 ~ 19시)에 시작합니다!
+
+RESOURCE ID: gofest2023_live_preview_park_afternoon_0805
+TEXT: 안내: Pokémon GO Fest 공원 체험이 8월 5일(토) 오후(2시 30분 ~ 19시)에 시작합니다!
+
+RESOURCE ID: gofest2023_live_preview_park_afternoon_0806
+TEXT: 안내: Pokémon GO Fest 공원 체험이 8월 6일(일) 오후(2시 30분 ~ 19시)에 시작합니다!
+
+RESOURCE ID: gofest2023_live_preview_park_afternoon_0818
+TEXT: 안내: Pokémon GO Fest 공원 체험이 8월 18일(금) 오후(15시 ~ 19시)에 시작합니다!
+
+RESOURCE ID: gofest2023_live_preview_park_afternoon_0819
+TEXT: 안내: Pokémon GO Fest 공원 체험이 8월 19일(토) 오후(15시 ~ 19시)에 시작합니다!
+
+RESOURCE ID: gofest2023_live_preview_park_afternoon_0820
+TEXT: 안내: Pokémon GO Fest 공원 체험이 8월 20일(일) 오후(15시 ~ 19시)에 시작합니다!
+
+RESOURCE ID: gofest2023_live_preview_park_morning_0804
+TEXT: 안내: Pokémon GO Fest 공원 체험이 8월 4일(금) 아침(9시 ~ 13:30)에 시작합니다!
+
+RESOURCE ID: gofest2023_live_preview_park_morning_0805
+TEXT: 안내: Pokémon GO Fest 공원 체험이 8월 5일(토) 아침(9시 ~ 13:30)에 시작합니다!
+
+RESOURCE ID: gofest2023_live_preview_park_morning_0806
+TEXT: 안내: Pokémon GO Fest 공원 체험이 8월 6일(일) 아침(9시 ~ 13:30)에 시작합니다!
+
+RESOURCE ID: gofest2023_live_preview_park_morning_0818
+TEXT: 안내: Pokémon GO Fest 공원 체험이 8월 18일(금) 아침(9시 ~ 13시)에 시작합니다!
+
+RESOURCE ID: gofest2023_live_preview_park_morning_0819
+TEXT: 안내: Pokémon GO Fest 공원 체험이 8월 19일(토) 아침(9시 ~ 13시)에 시작합니다!
+
+RESOURCE ID: gofest2023_live_preview_park_morning_0820
+TEXT: 안내: Pokémon GO Fest 공원 체험이 8월 20일(일) 아침(9시 ~ 13시)에 시작합니다!
+
+RESOURCE ID: gofest2023_london
+TEXT: Pokémon GO Fest 2023: 런던
+
+RESOURCE ID: gofest2023_malachite_wilderness
+TEXT: 초록 숲 컬렉션 챌린지
+
+RESOURCE ID: gofest2023_malachite_wilderness_description
+TEXT: 다음 포켓몬을 '초록 숲'에서 잡자!
+
+RESOURCE ID: gofest2023_newyork
+TEXT: Pokémon GO Fest 2023: 뉴욕
+
+RESOURCE ID: gofest2023_osaka
+TEXT: Pokémon GO Fest 2023: 오사카
+
+RESOURCE ID: gofest2023_park_0_1
+TEXT: 안녕, %PLAYERNAME%! GO Fest에 어서 와!
+
+RESOURCE ID: gofest2023_park_0_2
+TEXT: 네가 와줘서 정말 기뻐. 그럼 어서 시작해 보자.
+
+RESOURCE ID: gofest2023_park_0_3
+TEXT: 여기에 암호 같은 힌트가 그려진 지도가 있어. 이 주변에서 숨겨진 뭔가를 찾기 위한 지도야.
+
+RESOURCE ID: gofest2023_park_0_4
+TEXT: 아주 귀중한 것, 또는 희귀한 포켓몬을 발견할 수 있을지 몰라.
+
+RESOURCE ID: gofest2023_park_0_5
+TEXT: 처음 힌트는 이거야. "시트론 향으로 동료를 불러라"
+
+RESOURCE ID: gofest2023_park_0_6
+TEXT: 향기... 향로. 그것도 노란색이나 오렌지색의 빛과 관계가 있는 향로라는 거군!
+
+RESOURCE ID: gofest2023_park_0_7
+TEXT: 사용해 보자! 포켓몬을 잡는 도중 추가 힌트가 발견할 수 있을 것 같아.
+
+RESOURCE ID: gofest2023_park_1_1
+TEXT: 여기가 출발점인 느낌이군...
+
+RESOURCE ID: gofest2023_park_1_2
+TEXT: 트레이너가 즐겁게 걷고 있는 것 말고는 특별한 점은 없어 보이는데.
+
+RESOURCE ID: gofest2023_park_1_3
+TEXT: 다음 힌트를 보자.
+
+RESOURCE ID: gofest2023_park_1_4
+TEXT: 황금보다 눈부시고, 다이아보다 가치 있는 추억을 남겨라
+
+RESOURCE ID: gofest2023_park_1_5
+TEXT: 지도상에 있는 표식의 장소. 여기에 가면 되겠구나.
+
+RESOURCE ID: gofest2023_park_1_6
+TEXT: 지리적 특징이 눈에 띄는 장소라서 그 환경에 적응한 포켓몬이 있을 것 같군.
+
+RESOURCE ID: gofest2023_park_1_7
+TEXT: 지도가 없었다고 해도 가달라고 부탁할 참이었어. 추억을 남기는데 사진만 한 것도 없지.
+
+RESOURCE ID: gofest2023_park_1_8
+TEXT: 이 장소의 포켓몬을 잡아서 사진을 찍어보자!
+
+RESOURCE ID: gofest2023_park_2_1
+TEXT: %PLAYERNAME%, 잘 나온 자신뿐인데! 난 이 멜탄과 찍은 사진이 베스트 샷이야...
+
+RESOURCE ID: gofest2023_park_2_2
+TEXT: 사진은 나중에 또 보기로 하고 다음 힌트를 보자.
+
+RESOURCE ID: gofest2023_park_2_3
+TEXT: 목표를 정하고 눈을 떼지 말고 가라
+
+RESOURCE ID: gofest2023_park_2_4
+TEXT: 포켓몬이라면 눈을 뗄 일이 없는데.
+
+RESOURCE ID: gofest2023_park_2_5
+TEXT: 포켓몬을 잡을 때 약간의 요령이 필요할 때가 있어.
+
+RESOURCE ID: gofest2023_park_2_6
+TEXT: 그렇군,  이건 몬스터볼을 던지는 방법과 관련이 있는 것 같군. 잘 노려서 포켓몬을 잡아보자.
+
+RESOURCE ID: gofest2023_park_3_1
+TEXT: %PLAYERNAME%, 그, 그건 보석포켓몬인가? 환상의 포켓몬 디안시!
+
+RESOURCE ID: gofest2023_park_3_2
+TEXT: 놀랍군! 핑크색 빛이 아름다워...
+
+RESOURCE ID: gofest2023_park_3_3
+TEXT: 그 몸은 세계에서 가장 아름답다고 일컬어지고 있어. 이렇게 보다니 실감이 되는걸.
+
+RESOURCE ID: gofest2023_park_3_4
+TEXT: 더 대단한 건, 많은 다이아를 한순간에 만들어 낸다는 거야. 공기 중의 탄소를 양손의 틈으로 압축한다고 하는군.
+
+RESOURCE ID: gofest2023_park_3_5
+TEXT: 잘 발견했구나, %PLAYERNAME%. 하지만 아직 끝이 아니야.
+
+RESOURCE ID: gofest2023_park_3_6
+TEXT: 마지막 힌트는 이거다.
+
+RESOURCE ID: gofest2023_park_3_7
+TEXT: 빛나는 별의 모래가 이 세상의 것이라 상상할 수 없는 아름다움으로 인도한다.
+
+RESOURCE ID: gofest2023_park_3_8
+TEXT: 별의모래를 모아보자!
+
+RESOURCE ID: gofest2023_park_4_1
+TEXT: 뭔가 발견했니, %PLAYERNAME%?
+
+RESOURCE ID: gofest2023_park_4_2
+TEXT: 이건 보석인데... 디안시의 메가 에너지구나!
+
+RESOURCE ID: gofest2023_park_4_3
+TEXT: 메가디안시를 관찰해 보고 싶어. 얼마나 눈부신 반짝임인지 상상할 수 없을 정도야.
+
+RESOURCE ID: gofest2023_park_4_4
+TEXT: 디안시를 메가진화시킬 수 있다면 알려줘, 부탁해.
+
+RESOURCE ID: gofest2023_park_4_5
+TEXT: 주변을 더 탐색하는 것도 잊지 마.
+
+RESOURCE ID: gofest2023_park_4_6
+TEXT: 오늘은 함께 탐험해 줘서 고마워, %PLAYERNAME%! 트레이너의 미소와 너와 이렇게 포켓몬에 대해 이야기를 나눌 수 있는 일이 보물이라고 생각해.
+
+RESOURCE ID: gofest2023_park_4_7
+TEXT: 자, 디안시와 함께 힘차게 GO!
+
+RESOURCE ID: gofest2023_park_session
+TEXT: Pokémon GO Fest 2023: 공원 체험
+
+RESOURCE ID: gofest2023_pyrite_sands
+TEXT: 황금의 사막 컬렉션 챌린지
+
+RESOURCE ID: gofest2023_pyrite_sands_description
+TEXT: 다음 포켓몬을 '황금의 사막'에서 잡자!
+
+RESOURCE ID: gofest2023_quartz_terrarium
+TEXT: 붉은 테라리움 컬렉션 챌린지
+
+RESOURCE ID: gofest2023_quartz_terrarium_description
+TEXT: 다음 포케몬을 '붉은 테라리움'에서 잡자!
+
+RESOURCE ID: gofest2023_raid_add_on
+TEXT: Pokémon GO Fest 2023: 레이드 옵션
+
+RESOURCE ID: gofest2023_ticketed_rayquaza_0_1
+TEXT: 안녕, %PLAYERNAME%! 다시 만나서 반가워.
+
+RESOURCE ID: gofest2023_ticketed_rayquaza_0_2
+TEXT: 주변 일대에서 포켓몬이 많아서 오늘은 축제라도 즐기는 것 같아.
+
+RESOURCE ID: gofest2023_ticketed_rayquaza_0_3
+TEXT: 트레이너의 바이브를 포켓몬은 민감하게 느낀다고, 스파크가 그러더군.
+
+RESOURCE ID: gofest2023_ticketed_rayquaza_0_4
+TEXT: 우선은 주변 탐색부터 시작해 보자.
+
+RESOURCE ID: gofest2023_ticketed_rayquaza_0_5
+TEXT: 어떤 포켓몬이 있는지 조사할 겸 포켓몬을 잡아줘!
+
+RESOURCE ID: gofest2023_ticketed_rayquaza_1_1
+TEXT: 어서 와, %PLAYERNAME%!
+
+RESOURCE ID: gofest2023_ticketed_rayquaza_1_2
+TEXT: 비행타입과 드래곤타입의 포켓몬이 많은 것 같군.
+
+RESOURCE ID: gofest2023_ticketed_rayquaza_1_3
+TEXT: 비행타입과 드래곤타입 포켓몬이라... 바로 떠올려지는 건 레쿠쟈야. 메가레쿠쟈가 나타난 영향일까?
+
+RESOURCE ID: gofest2023_ticketed_rayquaza_1_4
+TEXT: 레쿠쟈가 메가진화하면 원시그란돈과 원시가이오가를 제압할 수 있다고도 전해져.
+
+RESOURCE ID: gofest2023_ticketed_rayquaza_1_5
+TEXT: 각각 대지와 바다의 화신이라고 불린 포켓몬. 그런 포켓몬을 제압할 수 있다니 놀라워.
+
+RESOURCE ID: gofest2023_ticketed_rayquaza_1_6
+TEXT: 넌 비행타입 포켓몬과 드래곤타입 포켓몬을 지니고 있구나? 강화시켜보자!
+
+RESOURCE ID: gofest2023_ticketed_rayquaza_2_1
+TEXT: 잘하고 있어, %PLAYERNAME%!
+
+RESOURCE ID: gofest2023_ticketed_rayquaza_2_2
+TEXT: 강화가 순조로운 것 같으니, 이번에는 배틀을 해보는 건 어때? 잘하면 메가레쿠쟈도 쓰러뜨릴 수 있을지 몰라.
+
+RESOURCE ID: gofest2023_ticketed_rayquaza_2_3
+TEXT: 메가레쿠쟈는 얼음, 바위, 드래곤, 페어리타입 기술에 약해.
+
+RESOURCE ID: gofest2023_ticketed_rayquaza_2_4
+TEXT: 잘 생각해서 파티를 꾸리고 정면 돌파하는 거야.
+
+RESOURCE ID: gofest2023_ticketed_rayquaza_2_5
+TEXT: 전략과 칸델라 같은 열정이 있다면 할 수 있어.
+
+RESOURCE ID: gofest2023_ticketed_rayquaza_2_6
+TEXT: 난 칸델라와의 배틀에서 5연패 중이야...
+
+RESOURCE ID: gofest2023_ticketed_rayquaza_2_7
+TEXT: 배움이 많은 배틀인 경우가 많아서 승패를 별로 신경 쓰지 않지만 말이야.
+
+RESOURCE ID: gofest2023_ticketed_rayquaza_2_8
+TEXT: 너라면 더 잘 싸우겠지. 건투를 빌게, %PLAYERNAME%!
+
+RESOURCE ID: gofest2023_ticketed_rayquaza_3_1
+TEXT: %PLAYERNAME%, 아주 훌륭했어!
+
+RESOURCE ID: gofest2023_ticketed_rayquaza_3_2
+TEXT: 배틀하면 자신과 상대의 포켓몬에 대해 더 잘 알게 되는 계기가 되기도 하지. 멋진 일이야.
+
+RESOURCE ID: gofest2023_ticketed_rayquaza_3_3
+TEXT: 메가레쿠쟈가 상대가 된다면... 난 관찰하는 것만으로도 만족할 것 같군.
+
+RESOURCE ID: gofest2023_ticketed_rayquaza_3_4
+TEXT: 오늘 한 노력으로 레쿠쟈를 메가진화시킬 준비가 되지 않았니?
+
+RESOURCE ID: gofest2023_ticketed_rayquaza_3_5
+TEXT: 물론, 바로 메가진화 하라고 부탁하는 건 아니야.
+
+RESOURCE ID: gofest2023_ticketed_rayquaza_3_6
+TEXT: 일단 조금 쉬면서 주변을 탐색해ㅡ줘!
+
+RESOURCE ID: gofest2023_ticketed_rayquaza_4_1
+TEXT: 놀랍군, %PLAYERNAME%! 다양한 포켓몬을 잡았구나.
+
+RESOURCE ID: gofest2023_ticketed_rayquaza_4_2
+TEXT: 체력을 모두 쓴 거 아니야?
+
+RESOURCE ID: gofest2023_ticketed_rayquaza_4_3
+TEXT: 좋아! 더 많은 포켓몬을 잡아보자!
+
+RESOURCE ID: gofest2023_ticketed_rayquaza_4_4
+TEXT: 그리고 메가레쿠쟈를 찾으러 가도 좋고 파트너 포켓몬과의 시간을 즐겨도 좋아.
+
+RESOURCE ID: gofest2023_ticketed_rayquaza_4_5
+TEXT: 즉, 마음대로 즐겨도 좋다는 말이야.
+
+RESOURCE ID: gofest2023_ticketed_rayquaza_4_6
+TEXT: 내년에도 이렇게 함께 탐험할 수 있길 기대할게.
+
+RESOURCE ID: gofest2023_ticketed_rayquaza_4_7
+TEXT: 그럼, 다음에 또 보자. 그때까지 힘차게 GO다!
+
 RESOURCE ID: gofest_2021_band_boisterous
 TEXT: GO Fest 2021: 다이내믹
 
@@ -22159,7 +23487,7 @@ RESOURCE ID: gold_box_title
 TEXT: 골드 박스
 
 RESOURCE ID: google_auth_failed
-TEXT: 인증하지 못했습니다. 다시 한번 시도해 주십시오.
+TEXT: 인증하지 못했습니다. 다시 시도해 주시거나 연동한 다른 계정을 사용하여 로그인해 주십시오.
 
 RESOURCE ID: google_login_button
 TEXT: Google
@@ -24130,7 +25458,7 @@ RESOURCE ID: guest_account_link_success_title
 TEXT: 계정 연동 완료
 
 RESOURCE ID: guest_auth_failed
-TEXT: 인증하지 못했습니다. 다시 시도해 주십시오.
+TEXT: 인증하지 못했습니다. 다시 시도해 주시거나 연동한 다른 계정을 사용하여 로그인해 주십시오.
 
 RESOURCE ID: guest_level_expiration_subtitle
 TEXT: 계속해서 플레이하려면 로그인해야 합니다!
@@ -24526,6 +25854,18 @@ TEXT: 체육관 배지를 손에 넣었다!
 RESOURCE ID: gyms_disabled_update
 TEXT: 체육관은 아직 준비 중입니다
 
+RESOURCE ID: habitat_aquamarine_shores
+TEXT: 푸른 해안
+
+RESOURCE ID: habitat_malachite_wilderness
+TEXT: 초록 숲
+
+RESOURCE ID: habitat_pyrite_sands
+TEXT: 황금의 사막
+
+RESOURCE ID: habitat_quartz_terrarium
+TEXT: 붉은 테라리움
+
 RESOURCE ID: hal_pumpkaboo_2021_collection_challenge
 TEXT: 호바귀 컬렉션 챌린지
 
@@ -24565,8 +25905,20 @@ TEXT: 핼러윈컵 HLVer.
 RESOURCE ID: hatch_box
 TEXT: 알 박스
 
+RESOURCE ID: hatch_candy_1.5x
+TEXT: 1.5× 알부화시 사탕
+
 RESOURCE ID: hatch_candy_double
 TEXT: 2× 알부화시 사탕
+
+RESOURCE ID: hatch_day_2k_riolu
+TEXT: 리오르가 2km 알에서 부화
+
+RESOURCE ID: hatch_day_riolu_limited_research
+TEXT: 리오르 부화데이 시간제한 리서치
+
+RESOURCE ID: hatch_stardust_1.5x
+TEXT: 1.5× 포켓몬의 부화시 별의모래
 
 RESOURCE ID: hatch_stardust_double
 TEXT: 2×포켓몬의 부화시 별의모래
@@ -24927,6 +26279,9 @@ TEXT: 친구신청이 1건 도착했습니다.
 RESOURCE ID: increased_adventure_sync_rewards
 TEXT: 언제나 모험 모드의 다음주 리워드 증가
 
+RESOURCE ID: increased_chance_buddy_xl_bonus
+TEXT: 파트너 포켓몬과 함께 모험하면 발견할 수 있는 사탕XL 확률 업
+
 RESOURCE ID: increased_shiny_2k_5k_10k_eggs
 TEXT: 2km, 5km, 10km 알에서 색이 다른 포켓몬이 부화할 확률 상승 
 
@@ -24935,6 +26290,12 @@ TEXT: GO로켓단 조무래기를 쓰려뜨려 받을 수 있는 별의모래 �
 
 RESOURCE ID: increased_transfer_candy_xl_bonus
 TEXT: 포켓몬을 보내서 받을 수 있는 포켓몬의 사탕과 사탕XL 증가
+
+RESOURCE ID: increased_xp_pokestop_streak_bonus
+TEXT: 7일 연속 포켓스톱 스핀으로 받을 수 있는 XP 증가
+
+RESOURCE ID: increased_xp_stardust_pokemon_streak_bonus
+TEXT: 7일 연속 포켓몬 잡기 리워드로 받을 수 있는 XP와 별의모래 증가
 
 RESOURCE ID: incubator_choose_egg
 TEXT: 부화할 알을 선택해주세요
@@ -25242,6 +26603,27 @@ TEXT: GO배틀리그 시간제한 리서치에 사용할 수 있는 패스. 대�
 RESOURCE ID: item_battle_pass_ticket_name
 TEXT:  GO배틀리그 시간제한 리서치 패스
 
+RESOURCE ID: item_bean_collected_body
+TEXT: 지가르데 셀을 1개 발견했다!
+
+RESOURCE ID: item_beans_desc
+TEXT: 지가르데의 각 폼에 필요한 셀. 한번에 {0}개까지 지닐 수 있다.
+
+RESOURCE ID: item_beans_multiple_collected_body
+TEXT: 지가르데 셀 {0}개를 발견했다!
+
+RESOURCE ID: item_beans_name
+TEXT: 지가르데 셀
+
+RESOURCE ID: item_beans_name_plural
+TEXT: 지가르데 셀
+
+RESOURCE ID: item_beans_one_collected_body
+TEXT: 지가르데큐브에 셀이 {0}개 들어갔다!
+
+RESOURCE ID: item_beans_one_collected_body_singular
+TEXT: 지가르데큐브에 셀이 1개 들어갔다!
+
 RESOURCE ID: item_beast_ball_desc
 TEXT: 울트라비스트를 잡기 위해 만들어진 특별한 볼.
 
@@ -25253,6 +26635,15 @@ TEXT: UNDEFINED
 
 RESOURCE ID: item_bluk_berry_name
 TEXT: 블리열매
+
+RESOURCE ID: item_breakfast_desc
+TEXT: 지가르데의 코어와 셀이 모인 도구. 지가르데의 모습을 바꿀 수 있다.
+
+RESOURCE ID: item_breakfast_desc_count
+TEXT: 지가르데의 코어와 셀이 모인 도구. 현재 {0}개 들어있다.
+
+RESOURCE ID: item_breakfast_name
+TEXT: 지가르데큐브
 
 RESOURCE ID: item_dragon_scale_desc
 TEXT: 어느 특정 포켓몬을 진화시키는 비늘. 단단하고 튼튼하다.
@@ -25294,7 +26685,7 @@ RESOURCE ID: item_event_ticket_pink_bulbt_details
 TEXT: 이 티켓은 자동으로 활성화되어 현지시간 2022년 1월 22일에 스페셜리서치가 진행됩니다.
 
 RESOURCE ID: item_event_ticket_pink_desc
-TEXT: 꼬부기 커뮤니티 데이(복각) 스페셜리서치를 참가하기 위한 티켓.
+TEXT: 현지시간 2023년 7월 30일 14:00~17:00까지 발챙이 커뮤니티 데이 스페셜리서치를 진행하기 위한 티켓.
 
 RESOURCE ID: item_event_ticket_pink_desc_alodude
 TEXT: 현지시간 2022년 5월 21일 11시~14시에 스페셜리서치를 진행하기 위한 티켓.
@@ -25320,8 +26711,8 @@ TEXT: 현지 시간 2023년 6월 3일 14시~17시까지 '빛나는 리서치데�
 RESOURCE ID: item_event_ticket_pink_desc_mrmime
 TEXT: 현지시간 2020년 12월 19일 10시~ 12월 20일 20시에 스페셜리서치를 진행하기 위한 티켓.
 
-RESOURCE ID: item_event_ticket_pink_desc_poliwag
-TEXT: A ticket to access Special Research on July 30, 2023, from 2:00 p.m. to 5:00 p.m. local time, wherever you are.
+RESOURCE ID: item_event_ticket_pink_desc_squirtle
+TEXT: 꼬부기 커뮤니티 데이(복각) 스페셜리서치를 참가하기 위한 티켓.
 
 RESOURCE ID: item_event_ticket_pink_desc_swinub
 TEXT: 꾸꾸리 커뮤니티 데이(복각) 스페셜리서치를 참가하기 위한 티켓.
@@ -25330,7 +26721,7 @@ RESOURCE ID: item_event_ticket_pink_desc_togetic
 TEXT: 현지 시간 2023년 4월 15일 14시~17시에 스페셜리서치를 진행하기 위한 티켓
 
 RESOURCE ID: item_event_ticket_pink_details
-TEXT: 이 티켓은 자동으로 활성화 되어 현지시간 2023년 7월 9일 14시~17시까지 꼬부기 커뮤니티 데이(복각) 스페셜리서치를 진행할 수 있습니다.
+TEXT: 이 티켓은 자동으로 활성화되어 현지시간 2023년 7월 30일에 "올챙이포켓몬의 수수께끼를 풀어라!" 스페셜리서치가 진행됩니다.
 
 RESOURCE ID: item_event_ticket_pink_details_axew
 TEXT: 이 티켓은 자동으로 활성화되어 현지 시간 2023년 6월 10일 14시~17시까지 스페셜리서치가 진행됩니다.
@@ -25353,8 +26744,8 @@ TEXT: 이 티켓은 자동으로 활성화 되어 현지시간 2023년 6월 3일
 RESOURCE ID: item_event_ticket_pink_details_mrmime
 TEXT: 이 티켓은 자동으로 활성화되어 현지시간 2020년12월 19일 10시~12월 20일 20시까지 스페셜리서치가 진행됩니다.
 
-RESOURCE ID: item_event_ticket_pink_details_poliwag
-TEXT: This ticket will automatically activate to give you access to the Poliwag Community Day Special Research, wherever you are.
+RESOURCE ID: item_event_ticket_pink_details_squirtle
+TEXT: 이 티켓은 자동으로 활성화 되어 현지시간 2023년 7월 23일 14시~17시까지 꼬부기 커뮤니티 데이(복각) 스페셜리서치를 진행할 수 있습니다.
 
 RESOURCE ID: item_event_ticket_pink_details_swinub
 TEXT: 이 티켓은 자동으로 활성화 되어 현지시간 2023년 4월 29일 14시~17시까지 꾸꾸리 커뮤니티 데이(복각) 스페셜리서치를 진행할 수 있습니다.
@@ -25447,9 +26838,15 @@ RESOURCE ID: item_event_ticket_to_gift_desc
 TEXT: 여분 티켓 구매 에러. 프렌드에게 보내거나 환불할 수 있습니다.
 
 RESOURCE ID: item_evergreen_ticket_desc
+TEXT: 어드벤처 위크2023 시간제한 리서치를 진행할 수 있는 티켓.
+
+RESOURCE ID: item_evergreen_ticket_desc_7th_anniversary_tr
 TEXT: 이 티켓은 자동으로 활성화되며 현지시간 2023년 7월 12일 20시까지 7주년 기념 시간제한 리서치가 진행됩니다.
 
 RESOURCE ID: item_evergreen_ticket_details
+TEXT: 이 티켓은 자동으로 활성화되어 현지시간 2023년 7월 27일 10시~8월 2일 20시까지 '어드벤처 위크2023 시간제한 리서치'가 진행됩니다.
+
+RESOURCE ID: item_evergreen_ticket_details_7th_anniversary_tr
 TEXT: 이 티켓은 자동으로 활성화되며 현지시간 2023년 7월 12일 20시까지 7주년 기념 시간제한 리서치가 진행됩니다.
 
 RESOURCE ID: item_evergreen_ticket_name
@@ -25812,10 +27209,10 @@ RESOURCE ID: item_revive_name
 TEXT: 기력의조각
 
 RESOURCE ID: item_route_maker_desc
-TEXT: A device that lets you create Routes. You can have up to 5 active at a time.
+TEXT: 루트를 만들 수 있는 장치. 한번에 5개까지 지닐 수 있다.
 
 RESOURCE ID: item_route_maker_name
-TEXT: 도로 메이커
+TEXT: 루트 메이커
 
 RESOURCE ID: item_shadow_gem_desc
 TEXT: 그림자의 조각을 조합해서 빛을 비춰 만들어진 크리스탈. 폭주한 그림자 포켓몬을 진정시킬 수 있다.
@@ -25976,6 +27373,12 @@ TEXT: 페어리 / 드래곤타입 이벤트
 RESOURCE ID: japanese
 TEXT: 日本語
 
+RESOURCE ID: jeju_poliwag_bonus_tr_desc
+TEXT: 발챙이 커뮤니티 데이: 보너스 시간제한 리서치, 제주도
+
+RESOURCE ID: jeju_poliwag_bonus_tr_title
+TEXT: 발챙이 커뮤니티 데이: 보너스 시간제한 리서치
+
 RESOURCE ID: jessie_james_boosted_encounter
 TEXT: 로사, 로이가 타고 있는 나옹 열기구가 많이 등장.
 
@@ -26009,6 +27412,12 @@ TEXT: {1:0.#} {2}걷고, 언제나 모험 모드의 보상 {0} 아이템을 손�
 RESOURCE ID: journal_received_raid_ticket
 TEXT: {0}의 레이드배틀에 초대받았다
 
+RESOURCE ID: journal_route_complete
+TEXT: 루트를 완료했다!
+
+RESOURCE ID: journal_route_complete_named
+TEXT: {0}(을)를 완료했다!
+
 RESOURCE ID: journal_shadow_caught
 TEXT: 그림자 {0}(을)를 잡았다!
 
@@ -26022,7 +27431,7 @@ RESOURCE ID: journal_shared_ex_raid_ticket_with_friend
 TEXT: {0}님을 EX레이드에 초대했습니다!
 
 RESOURCE ID: journal_sleep_rewards
-TEXT: {1} 넘어 자서 도구를 {0}개 손에 넣었다!
+TEXT: {1} 넘게 자서 도구를 {0}개 손에 넣었다!
 
 RESOURCE ID: journeyer_box_title
 TEXT: 탐색 박스
@@ -26038,6 +27447,24 @@ TEXT: Link 1
 
 RESOURCE ID: jp_iap_linkname2
 TEXT: Link 2
+
+RESOURCE ID: jp_uk_timed_header_0
+TEXT: 요정 정원 프로젝트: 시간제한 리서치
+
+RESOURCE ID: jpuk_gofest_global_event_name
+TEXT: 요정 정원 프로젝트
+
+RESOURCE ID: jul23_adventure_collection_challenge_1
+TEXT: 어드벤처 위크 컬렉션 챌린지: 투구&소용돌이
+
+RESOURCE ID: jul23_adventure_collection_challenge_2
+TEXT: 어드벤처위크 컬렉션 챌린지: 뿌리&발톱
+
+RESOURCE ID: jul23_adventure_collection_challenge_3
+TEXT: 어드벤처위크 컬렉션 챌린지: 두개골&방패
+
+RESOURCE ID: jul23_adventure_collection_challenge_4
+TEXT: 어드벤처위크 컬렉션 챌린지: 뚜껑&날개
 
 RESOURCE ID: july22_hisui_disc_collection_challenge
 TEXT: 히스이 이벤트: 컬렉션 챌린지
@@ -28866,6 +30293,9 @@ TEXT: 라이징 히어로
 RESOURCE ID: m_avatar_poses_bundle_pose_52
 TEXT: 서핀 포즈
 
+RESOURCE ID: m_avatar_poses_bundle_pose_53
+TEXT: 보물지도 포즈
+
 RESOURCE ID: m_avatar_poses_empty_bundle_pose_empty
 TEXT: 대기
 
@@ -29717,9 +31147,9 @@ RESOURCE ID: mega_walking_progress
 TEXT: 걸어서 발견
 
 RESOURCE ID: metadata_local
-TEXT: Built at 2023-08-15T00:15:27.265305
-at SHA 3f2f70aab565420b77d89253c79305aeec9552f4
-Pipeline 1676897, job 20326100
+TEXT: Built at 2023-08-21T17:47:34.524435
+at SHA 236194ea4c036061e777a7c9fb08bbfbf681852e
+Pipeline 1691898, job 20520313
 
 RESOURCE ID: mex_fighting_promo_title
 TEXT: 시간제한 리서치: 격투타입
@@ -29808,6 +31238,9 @@ TEXT: 주목하고 있는 포켓몬을 잡는다
 RESOURCE ID: minicollect_help_desc_type_evolve
 TEXT: 포켓몬을 진화 시킨다
 
+RESOURCE ID: minicollect_help_desc_type_hatch
+TEXT: 알을 부화한다
+
 RESOURCE ID: minicollect_help_desc_type_shadow
 TEXT: 그림자 포켓몬을 구한다
 
@@ -29822,6 +31255,12 @@ TEXT: 야생에서 발견할 수 없는 포켓몬도 포함되는 경우가 있�
 
 RESOURCE ID: minicollect_help_title
 TEXT: 컬렉션 챌린지
+
+RESOURCE ID: minicollect_help_title_type_hatch
+TEXT: 알을 부화
+
+RESOURCE ID: minicollect_help_title_type_raid
+TEXT: 레이드배틀
 
 RESOURCE ID: minicollect_medal_completion_banner_title
 TEXT: 완료한 챌린지
@@ -30858,6 +32297,9 @@ TEXT: 매지컬플레임
 RESOURCE ID: move_name_0383
 TEXT: 아쿠아브레이크
 
+RESOURCE ID: move_name_0384
+TEXT: 화룡점정
+
 RESOURCE ID: move_name_0385
 TEXT: 나뭇잎
 
@@ -31246,6 +32688,9 @@ TEXT: 물론이지! 나도 %PLAYERNAME%(와)과 함께 리서치를 시작하고
 
 RESOURCE ID: mystery_invasion_onboarding_dialogue_9
 TEXT: 감사합니다~! 그럼, 수고하세요~!
+
+RESOURCE ID: name your route
+TEXT: 루트 상세
 
 RESOURCE ID: nearby_pokemon_clear_button
 TEXT: 취소
@@ -31648,7 +33093,7 @@ RESOURCE ID: ops_reject_t-ina
 TEXT: 텍스트가 부적절함
 
 RESOURCE ID: ops_reject_t-off
-TEXT: "공식" 도로는 작성할 수 없습니다
+TEXT: "공식" 루트는 작성할 수 없습니다
 
 RESOURCE ID: ops_reject_t-pii
 TEXT: 도로에 개인정보를 포함할 없습니다
@@ -31767,6 +33212,9 @@ TEXT: 코드 사용 중 에러가 발생했습니다.
 
 RESOURCE ID: passcode_rpc_timeout
 TEXT: 통신 환경이 불안정하여 타임아웃 했습니다. 다시 시도해 주십시오.
+
+RESOURCE ID: pause_route_travel_error_toast
+TEXT: 루트 일시 정지 에러
 
 RESOURCE ID: pending_friend_request
 TEXT: 이미 이 트레이너의 프렌드 신청을 받았습니다
@@ -31991,6 +33439,9 @@ TEXT: GO스냅샷으로 음뱃의 서프라이즈 5회
 
 RESOURCE ID: photobomb_five_oshawott
 TEXT: GO스냅샷으로 수댕이 서프라이즈 5회
+
+RESOURCE ID: photobomb_five_poliwag
+TEXT: GO스냅샷으로 발챙이의 서프라이즈 5회
 
 RESOURCE ID: photobomb_five_porygon
 TEXT: GO스냅샷으로 폴리곤의 서프라이즈 5번
@@ -39752,6 +41203,12 @@ TEXT: 해방
 RESOURCE ID: pokemon_info_unlockmove3_confirmation
 TEXT: 2번째 스페셜 어택을 배우겠습니까?
 
+RESOURCE ID: pokemon_info_upgrade_evolution_confirmation
+TEXT: {0}의 모습을 바꾸겠습니까?
+
+RESOURCE ID: pokemon_info_upgrade_evolve_button
+TEXT: 모습을 변화시킨다
+
 RESOURCE ID: pokemon_info_weight
 TEXT: 몸무게
 
@@ -43408,7 +44865,7 @@ RESOURCE ID: profile_no_gymbadges
 TEXT: 배지가 없습니다
 
 RESOURCE ID: profile_no_routemedals
-TEXT: You haven’t earned any Route Badges yet.
+TEXT: 루트 배지가 없습니다
 
 RESOURCE ID: profile_player_level
 TEXT: 레벨
@@ -43456,7 +44913,7 @@ RESOURCE ID: ptc_account_creation_prompt
 TEXT: 포켓몬 트레이너 클럽 계정이 없습니까?
 
 RESOURCE ID: ptc_auth_failed
-TEXT: 인증하지 못했습니다. 다시 한번 시도해 주십시오.
+TEXT: 인증하지 못했습니다. 다시 시도해 주시거나 연동한 다른 계정을 사용하여 로그인해 주십시오.
 
 RESOURCE ID: ptc_error_activation_required
 TEXT: 유효한 계정을 사용해 주십시오
@@ -43830,6 +45287,9 @@ TEXT: 흔들풍손을 잡을 때 라즈열매를 {0}개 사용한다
 RESOURCE ID: quest_catch_c_types_plural
 TEXT: 비행, 에스퍼, 악 중 한 타입 포켓몬을 {0}마리 잡는다
 
+RESOURCE ID: quest_catch_carbink_singular
+TEXT: 멜리시를 1마리 잡는다
+
 RESOURCE ID: quest_catch_celebi_types_plural
 TEXT: 풀타입 또는 에스퍼타입 포켓몬을 {0} 마리 잡는다
 
@@ -43860,6 +45320,9 @@ TEXT: 트리미앙을 잡는다
 RESOURCE ID: quest_catch_groudon_primal_boosted_types
 TEXT: 불꽃, 풀, 땅 중 한 가지 타입 포켓몬을 {0}마리 잡는다
 
+RESOURCE ID: quest_catch_groudon_type
+TEXT: 불꽃, 풀, 땅 중 한 가지 타입 포켓몬을 {0}마리 잡는다
+
 RESOURCE ID: quest_catch_hoenn_pokemon
 TEXT: 호연지방에서 처음으로 발견된 포켓몬 {0}마리를 잡는다
 
@@ -43879,6 +45342,9 @@ RESOURCE ID: quest_catch_kanto_pokemon
 TEXT: 관동지방에서 처음으로 발견된 포켓몬 {0}마리를 잡는다
 
 RESOURCE ID: quest_catch_kyogre_primal_boosted_types
+TEXT: 물, 전기, 벌레 중 한 가지 타입 포켓몬을 {0}마리 잡는다
+
+RESOURCE ID: quest_catch_kyogre_type
 TEXT: 물, 전기, 벌레 중 한 가지 타입 포켓몬을 {0}마리 잡는다
 
 RESOURCE ID: quest_catch_legendary_inarow_plural
@@ -43911,6 +45377,12 @@ TEXT: 산책향로로 이끌려 온 포켓몬을 {0}마리 잡는다
 RESOURCE ID: quest_catch_pokemon_plural
 TEXT: 포켓몬 {0}마리를 잡는다
 
+RESOURCE ID: quest_catch_pokemon_routes_plural
+TEXT: 루트에서 포켓몬을 {0}마리 잡는다
+
+RESOURCE ID: quest_catch_pokemon_routes_singular
+TEXT: 루트에서 포켓몬을 1마리 잡는다
+
 RESOURCE ID: quest_catch_pokemon_singular
 TEXT: 포켓몬 1마리를 잡는다
 
@@ -43931,6 +45403,9 @@ TEXT: 레이드에서 레지락을 잡는다
 
 RESOURCE ID: quest_catch_raid_regi_steel
 TEXT: 레이드에서 레지스틸을 잡는다
+
+RESOURCE ID: quest_catch_rayquaza_type
+TEXT: 비행, 드래곤, 에스퍼 중 한 타입 포켓몬을 {0}마리 잡는다
 
 RESOURCE ID: quest_catch_solrock_plural
 TEXT: 솔록을 {0}마리 잡는다
@@ -44202,6 +45677,9 @@ TEXT: 악타입 포켓몬을 1마리 잡는다
 RESOURCE ID: quest_catch_type_dragon_plural
 TEXT: 드래곤타입 포켓몬을 {0}마리 잡는다
 
+RESOURCE ID: quest_catch_type_dragon_plural_unique
+TEXT: 드래곤타입 포켓몬을 {0}종류 잡는다
+
 RESOURCE ID: quest_catch_type_dragon_singular
 TEXT: 드래곤타입 포켓몬을 1마리 잡는다
 
@@ -44225,6 +45703,9 @@ TEXT: 페어리타입 포켓몬을 1마리 잡는다
 
 RESOURCE ID: quest_catch_type_fighting_plural
 TEXT: 격투타입 포켓몬을 {0}마리 잡는다
+
+RESOURCE ID: quest_catch_type_fighting_plural_unique
+TEXT: 격투타입 포켓몬을 {0}종류 잡는다
 
 RESOURCE ID: quest_catch_type_fighting_singular
 TEXT: 격투타입 포켓몬을 1마리 잡는다
@@ -44328,6 +45809,9 @@ TEXT: 페로코체와 같은 타입의 포켓몬을 {0}마리 잡는다
 RESOURCE ID: quest_catch_type_poison_plural
 TEXT: 독타입 포켓몬을 {0}마리 잡는다
 
+RESOURCE ID: quest_catch_type_poison_plural_unique
+TEXT: 독타입 포켓몬을 {0}종류 잡는다
+
 RESOURCE ID: quest_catch_type_poison_singular
 TEXT: 독타입 포켓몬을 1마리 잡는다
 
@@ -44342,6 +45826,9 @@ TEXT: 에스퍼타입 포켓몬을 1마리 잡는다
 
 RESOURCE ID: quest_catch_type_rock_plural
 TEXT: 바위타입 포켓몬을 {0}마리 잡는다
+
+RESOURCE ID: quest_catch_type_rock_plural_unique
+TEXT: 바위타입 포켓몬을 {0}종류 잡는다
 
 RESOURCE ID: quest_catch_type_rock_singular
 TEXT: 바위타입 포켓몬을 1마리 잡는다
@@ -44577,6 +46064,12 @@ TEXT: 악의 조직에 맞서라8
 RESOURCE ID: quest_complete_roset
 TEXT: 가시포켓몬의 수수께끼를 풀어라!
 
+RESOURCE ID: quest_complete_routes_plural
+TEXT: 루트를 {0}번 완료한다
+
+RESOURCE ID: quest_complete_routes_singular
+TEXT: 루트를 완료한다
+
 RESOURCE ID: quest_complete_rue
 TEXT: 신규 필드워크
 
@@ -44607,8 +46100,14 @@ TEXT: 솜새포켓몬의 수수께끼를 풀어라!
 RESOURCE ID: quest_complete_tepit
 TEXT: 불돼지포켓몬의 수수께끼를 풀어라!
 
+RESOURCE ID: quest_complete_unique_routes
+TEXT: 루트를 {0}개 완료한다
+
 RESOURCE ID: quest_complete_wt
 TEXT: 송충이포켓몬의 수수께끼를 풀어라!
+
+RESOURCE ID: quest_complete_zygarde
+TEXT: 새로운 길의 탐색
 
 RESOURCE ID: quest_daily_bonus_title
 TEXT: 데일리 보너스
@@ -46389,8 +47888,17 @@ TEXT: 디헤드(을)를 진화시킨다
 RESOURCE ID: quest_explore_buddy
 TEXT: 파트너 포켓몬과 탐색하여 사탕 1개를 얻는다
 
+RESOURCE ID: quest_explore_buddy_carbink
+TEXT: 파트너 멜리시와 탐색해서 사탕 1개를 얻는다
+
 RESOURCE ID: quest_explore_buddy_plural
 TEXT: 파트너 포켓몬과 탐색하여 사탕 {0}개를 얻는다
+
+RESOURCE ID: quest_explore_buddy_routes_plural
+TEXT: 루트에서 파트너 포켓몬과 탐색하여 사탕을 {0}개 얻는다
+
+RESOURCE ID: quest_explore_buddy_routes_singular
+TEXT: 루트에서 파트너 포켓몬과 탐색하여 사탕을 1개 얻는다
 
 RESOURCE ID: quest_explore_km
 TEXT: {0}km 탐색한다
@@ -46500,6 +48008,9 @@ TEXT: GO배틀리그에서 랭크 10(이)가 된다
 RESOURCE ID: quest_gbl_rank_twenty
 TEXT: GO배틀리그에서 랭크 20(이)가 된다
 
+RESOURCE ID: quest_get_cell_singular
+TEXT: 지가르데 셀을 손에 넣는다
+
 RESOURCE ID: quest_giblt_catch_b
 TEXT: 딥상어동을 {0}마리 잡는다
 
@@ -46601,6 +48112,54 @@ TEXT: 이래서 포켓몬 연구를 관둘 수 없다니까. 포켓몬 연구자
 
 RESOURCE ID: quest_gofest2021_raid_dialogue_2_7
 TEXT: 어쨌든 오늘은 배틀 실력을 키워줘! 레이드에 참가하면 좋을 거야. 후파를 잡을 수 있는 기회가 있다면 쉽지 않을 테니까 말이야. 자, 지금 바로 let’s GO! 
+
+RESOURCE ID: quest_gofest2023_live_photo_athletic_field
+TEXT: 연마의 광장에서 잡은 포켓몬의 GO스냅샷을 찍는다
+
+RESOURCE ID: quest_gofest2023_live_photo_cursed_treasures
+TEXT: 저주 유적에서 잡은 포켓몬의 GO스냅샷을 찍는다
+
+RESOURCE ID: quest_gofest2023_live_photo_dark_jungle
+TEXT: 어둠 정글에서 잡은 포켓몬의 GO스냅샷을 찍는다
+
+RESOURCE ID: quest_gofest2023_live_photo_fairy_garden
+TEXT: 요정 정원에서 잡은 포켓몬의 GO스냅샷을 찍는다
+
+RESOURCE ID: quest_gofest2023_live_photo_hypnotic_glacier
+TEXT: 얼음 평원에서 잡은 포켓몬의 GO스냅샷을 찍는다
+
+RESOURCE ID: quest_gofest2023_live_photo_poison_swamp
+TEXT: 독 늪에서 잡은 포켓몬의 GO스냅샷을 찍는다
+
+RESOURCE ID: quest_gofest2023_live_photo_prehistoric_volcano
+TEXT: 고대 화산에서 잡은 포켓몬의 GO스냅샷을 찍는다
+
+RESOURCE ID: quest_gofest2023_live_photo_volcanic_island
+TEXT: 화산 섬에서 잡은 포켓몬의 GO스냅샷을 찍는다
+
+RESOURCE ID: quest_gofest2023_live_spin_athletic_field
+TEXT: 연마의 광장의 포켓스톱, 체육관 {0}개를 돌린다
+
+RESOURCE ID: quest_gofest2023_live_spin_cursed_treasures
+TEXT: 저주 유적의 포켓스톱, 체육관 {0}개를 돌린다
+
+RESOURCE ID: quest_gofest2023_live_spin_dark_jungle
+TEXT: 어둠 정글의 포켓스톱, 체육관 {0}개를 돌린다
+
+RESOURCE ID: quest_gofest2023_live_spin_fairy_garden
+TEXT: 요정 정원의 포켓스톱, 체육관 {0}개를 돌린다
+
+RESOURCE ID: quest_gofest2023_live_spin_hypnotic_glacier
+TEXT: 얼음 평원의 포켓스톱, 체육관 {0}개를 돌린다
+
+RESOURCE ID: quest_gofest2023_live_spin_poison_swamp
+TEXT: 독 늪의 포켓스톱, 체육관 {0}개를 돌린다
+
+RESOURCE ID: quest_gofest2023_live_spin_prehistoric_volcano
+TEXT: 고대 화산의 포켓스톱, 체육관 {0}개를 돌린다
+
+RESOURCE ID: quest_gofest2023_live_spin_volcanic_island
+TEXT: 화산 섬의 포켓스톱, 체육관 {0}개를 돌린다
 
 RESOURCE ID: quest_gofest_0
 TEXT: GO Fest: 포켓몬을 {0}마리 잡는다
@@ -46981,7 +48540,7 @@ RESOURCE ID: quest_gotour_branch_chikorita_title
 TEXT: 치코리타를 선택
 
 RESOURCE ID: quest_gotour_branch_cyndaquil_description
-TEXT: 불쥐포켓몬인 브케인은 겁쟁이 같은 성격으로 항상 몸을 동그랗게 말고 있지만 공격당하면 등의 불꽃이
+TEXT: 불쥐포켓몬인 브케인은 겁쟁이 같은 성격으로 항상 몸을 동그랗게 말고 있지만 공격당하면 등의 불꽃이
 한층 더 강하게 타올라 몸을 지킵니다! 브케인을 잡아서 브케인의 사탕을 손에 넣어 보세요. 브케인을 진화 시키거나, 브케인의 GO스냅샷을 찍는 과제도 손에 넣을 수 있습니다.
 
 RESOURCE ID: quest_gotour_branch_cyndaquil_title
@@ -47050,6 +48609,12 @@ TEXT: 포켓몬을 {0}마리 보낸다
 RESOURCE ID: quest_hatch_egg_plural
 TEXT: 알을 {0}개 부화한다
 
+RESOURCE ID: quest_hatch_egg_routes_plural
+TEXT: 루트에서 알을 {0}개 부화한다
+
+RESOURCE ID: quest_hatch_egg_routes_singular
+TEXT: 루트에서 알을 1개 부화한다
+
 RESOURCE ID: quest_hatch_egg_singular
 TEXT: 알을 1개 부화한다
 
@@ -47076,6 +48641,12 @@ TEXT: 두코를 {0}마리 진화시킨다
 
 RESOURCE ID: quest_incense_plural
 TEXT: 향로 {0}개를 사용한다
+
+RESOURCE ID: quest_incense_routes_plural
+TEXT: 루트에서 향로를 {0}개 사용한다
+
+RESOURCE ID: quest_incense_routes_singular
+TEXT: 루트에서 향로를 1개 사용한다
 
 RESOURCE ID: quest_incense_singular
 TEXT: 향로 1개를 사용한다
@@ -47305,8 +48876,14 @@ TEXT: 거북왕을 메가진화 시킨다
 RESOURCE ID: quest_mega_evolve_charizard
 TEXT: 리자몽을 메가진화 시킨다
 
+RESOURCE ID: quest_mega_evolve_diancie
+TEXT: 디안시를 메가진화한다
+
 RESOURCE ID: quest_mega_evolve_plural
 TEXT: 포켓몬을 {0}마리 메가진화 시킨다
+
+RESOURCE ID: quest_mega_evolve_rayquaza
+TEXT: 레쿠쟈를 메가진화한다
 
 RESOURCE ID: quest_mega_evolve_singular
 TEXT: 포켓몬을 1마리 메가진화 시킨다
@@ -47389,6 +48966,18 @@ TEXT: 파트너 포켓몬과 놀기
 RESOURCE ID: quest_pokemon_appears
 TEXT: 포켓몬 발견!
 
+RESOURCE ID: quest_poliwag_catch_b
+TEXT: 발챙이를 {0}마리 잡는다
+
+RESOURCE ID: quest_poliwag_evolve_b
+TEXT: 발챙이를 {0}마리 진화시킨다
+
+RESOURCE ID: quest_poliwag_snapshot_b
+TEXT: 발챙이의 GO스냅샷 사진을 {0}장 찍는다
+
+RESOURCE ID: quest_poliwhirl_evolve_b
+TEXT: 슈륙챙이를 {0}마리 진화시킨다
+
 RESOURCE ID: quest_poryt_catch_b
 TEXT: 폴리곤을 {0}마리 잡는다
 
@@ -47425,8 +49014,14 @@ TEXT: 벌레타입 포켓몬을 {0}마리 강화한다
 RESOURCE ID: quest_power_up_plural_dark
 TEXT: 악타입 포켓몬을 {0}마리 강화한다
 
+RESOURCE ID: quest_power_up_plural_dragon
+TEXT: 드래곤타입 포켓몬을 {0}마리 강화한다
+
 RESOURCE ID: quest_power_up_plural_electric
 TEXT: 전기타입 포켓몬을 {0}마리 강화한다
+
+RESOURCE ID: quest_power_up_plural_fairy
+TEXT: 페어리타입 포켓몬을 {0}마리 강화한다
 
 RESOURCE ID: quest_power_up_plural_fighting
 TEXT: 격투타입 포켓몬을 {0}마리 강화한다
@@ -47434,11 +49029,20 @@ TEXT: 격투타입 포켓몬을 {0}마리 강화한다
 RESOURCE ID: quest_power_up_plural_fire
 TEXT: 불꽃타입 포켓몬을 {0}마리 강화한다
 
+RESOURCE ID: quest_power_up_plural_flying
+TEXT: 비행타입 포켓몬을 {0}마리 강화한다
+
+RESOURCE ID: quest_power_up_plural_ghost
+TEXT: 고스트타입 포켓몬을 {0}마리 강화한다
+
 RESOURCE ID: quest_power_up_plural_grass
 TEXT: 풀타입포켓몬을 {0}마리 강화한다
 
 RESOURCE ID: quest_power_up_plural_ground
 TEXT: 땅타입 포켓몬을 {0}마리 강화한다
+
+RESOURCE ID: quest_power_up_plural_ice
+TEXT: 얼음타입 포켓몬을 {0}마리 강화한다
 
 RESOURCE ID: quest_power_up_plural_normal
 TEXT: 노말타입 포켓몬을 {0}마리 강화한다
@@ -49541,7 +51145,7 @@ RESOURCE ID: quest_special_dialogue_fennekin_3_1
 TEXT: 마폭시는 나뭇가지의 불꽃을 바라보며 정신을 집중하면 미래에 일어날 일을 볼 수 있거든.
 
 RESOURCE ID: quest_special_dialogue_fennekin_3_2
-TEXT: 이 능력을 사용하면 섭씨 300도의 불꽃 소용돌이도 조종할 수 있어. 적을 이 소용돌이로 감싸 불태우지.
+TEXT: 이 능력을 사용하면 섭씨 300도의 불꽃 소용돌이도 조종할 수 있어. 적을 이 소용돌이로 감싸 불태우지.
 
 
 RESOURCE ID: quest_special_dialogue_fennekin_3_3
@@ -52663,6 +54267,81 @@ TEXT: 아주 관록이 넘치는 대검귀구나! 각검이 장관이야! 너도
 
 RESOURCE ID: quest_special_dialogue_oshat_3_1
 TEXT: 협력해 줘서 고마워, %PLAYERNAME%. 수댕이, 쌍검자비, 대검귀를 잘 알게 되었고 배움도 많았어! 그럼 다음에 또 보자!
+
+RESOURCE ID: quest_special_dialogue_poliwag_0_0
+TEXT: 안녕, %PLAYERNAME%! 연못에 발챙이가 많이 있었어. 지금도 있을까?
+
+RESOURCE ID: quest_special_dialogue_poliwag_0_1
+TEXT: 즐겁게 헤엄치는 모습을 계속 보고 싶었어.
+
+RESOURCE ID: quest_special_dialogue_poliwag_0_2
+TEXT: 발챙이 다리는 막 생긴거라 물 안에서 더 활발해.
+
+RESOURCE ID: quest_special_dialogue_poliwag_0_3
+TEXT: 그렇지만 육지에도 가고 싶은가봐. 씩씩하기도 하지.
+
+RESOURCE ID: quest_special_dialogue_poliwag_0_4
+TEXT: 실제로 얼마나 헤엄을 잘하는지 어떻게 걷는 연습을 하는지 직접 관찰해보자.
+
+RESOURCE ID: quest_special_dialogue_poliwag_1_0
+TEXT: %PLAYERNAME%, 어땠어? 걷는 걸 봤어?
+
+RESOURCE ID: quest_special_dialogue_poliwag_1_1
+TEXT: 발챙이의 트레이너가 되면 매일 걷는 연습을 하는 걸 추천하는 연구자도 있어.
+
+RESOURCE ID: quest_special_dialogue_poliwag_1_2
+TEXT: 하지만 슈륙챙이로 진화하면 그럴 필요 없어져. 다리가 발달해서 먹이를 찾으러 육지를 걸어.
+
+RESOURCE ID: quest_special_dialogue_poliwag_1_3
+TEXT: %PLAYERNAME%, 진화시켜보자. 진화하면 배는 보지마.
+
+RESOURCE ID: quest_special_dialogue_poliwag_2_0
+TEXT: 멋진 슈륙챙이구나, %PLAYERNAME%!
+
+RESOURCE ID: quest_special_dialogue_poliwag_2_1
+TEXT: 배의 소용돌이는 계속 보다 보면 졸음이 와.
+
+RESOURCE ID: quest_special_dialogue_poliwag_2_10
+TEXT: 너라면 단단함과 리더 중 어느 쪽을 선택할래?
+
+RESOURCE ID: quest_special_dialogue_poliwag_2_2
+TEXT: 소용돌이가 졸음을 유발하는 거겠지. 자장가 대신 아이들 재울 때 사용된다고 해.
+
+RESOURCE ID: quest_special_dialogue_poliwag_2_3
+TEXT: 자, 봐봐... 이렇게.... 보다보면....
+
+RESOURCE ID: quest_special_dialogue_poliwag_2_4
+TEXT: ..... ..... ......
+
+RESOURCE ID: quest_special_dialogue_poliwag_2_5
+TEXT: ....앗, 잠들뻔했다. 슈륙챙이는 강챙이 또는 왕구리로 진화할 수 있어.
+
+RESOURCE ID: quest_special_dialogue_poliwag_2_6
+TEXT: 강인한 근육을 가진 게 강챙이.
+
+RESOURCE ID: quest_special_dialogue_poliwag_2_7
+TEXT: 극한의 바다를 헤엄쳐도 단련한 팔로 유빙을 부수고 앞으로 나아간다고 전해지고 있어. 
+
+RESOURCE ID: quest_special_dialogue_poliwag_2_8
+TEXT: 왕구리는 슈륙챙이의 리더야. 왕구리가 고함치면 모두 두려워할 정도의 리더.
+
+RESOURCE ID: quest_special_dialogue_poliwag_2_9
+TEXT: 그리고 울음소리에 특징이 있어. 고함치는 듯한 울음소리에 영향을 받아 어떤 작곡가가 아름다운 발라드를 만들었다고 해.
+
+RESOURCE ID: quest_special_dialogue_poliwag_3_0
+TEXT: %PLAYERNAME%, 어서와. 진화할 포켓몬은 정했나?
+
+RESOURCE ID: quest_special_dialogue_poliwag_3_1
+TEXT: 바로 정하긴 힘들겠지?
+
+RESOURCE ID: quest_special_dialogue_poliwag_3_2
+TEXT: 발챙이와 슈륙챙이와 함께 모험하면서 잘 관찰하고 정하면 좋을 거야.
+
+RESOURCE ID: quest_special_dialogue_poliwag_3_3
+TEXT: %PLAYERNAME%, 오늘도 함께 조사해 줘서 고마워. 열심히 걷고 항상 자신을 수양하고 싶은 그런 기분이 생겼어.
+
+RESOURCE ID: quest_special_dialogue_poliwag_3_4
+TEXT: 그럼 다음에 볼 때까지 힘차게 GO!
 
 RESOURCE ID: quest_special_dialogue_poni_0_0
 TEXT: 아, %PLAYERNAME%! 안녕.
@@ -56083,7 +57762,7 @@ RESOURCE ID: quest_special_dialogue_togetic_3_1
 TEXT: 토게키스는 다툼이 일어나는 장소에는 절대 나타나지 않아. 옛날부터 길조로 묘사될 정도로 평화와 관련이 깊은 포켓몬이야.
 
 RESOURCE ID: quest_special_dialogue_togetic_3_2
-TEXT: 한 때는 허느 연구자가 문헌을 조사하고 이렇게 결론 내렸어. 천하가 태평할 때 모습을 드러내어 만날 수 있게 된다고 한다.
+TEXT: 한 때는 허느 연구자가 문헌을 조사하고 이렇게 결론 내렸어. 천하가 태평할 때 모습을 드러내어 만날 수 있게 된다고 한다.
 
 
 RESOURCE ID: quest_special_dialogue_togetic_3_3
@@ -56388,6 +58067,111 @@ TEXT: 왜 이렇게 크게 변한 걸까? 당신의 박사 의견도 들어보�
 
 RESOURCE ID: quest_special_dialogue_zigzagoon_3_6
 TEXT: 즐겁고 배울 게 많은 조사였어. 고마워, 포켓몬 트레이너. 다음 조사 때 또 보자.
+
+RESOURCE ID: quest_special_dialogue_zygarde_0_0
+TEXT: 안녕, %PLAYERNAME%! 요즘은 어땠어? 포켓몬을 잡거나 가본 적 없는 길을 걷고 그랬어?
+
+RESOURCE ID: quest_special_dialogue_zygarde_0_1
+TEXT: 난 포켓몬 연구의 칼로스지방 특집을 한손에, 포켓몬에 대한 생각으로 가득하지.
+
+RESOURCE ID: quest_special_dialogue_zygarde_0_2
+TEXT: 그 포켓몬은... 지가르데! 포켓몬의 생태계를 감시하는 역할을 하는 포켓몬이야.
+
+RESOURCE ID: quest_special_dialogue_zygarde_0_3
+TEXT: 칼로스지방 특집에서는 어떻게 하면 만날 수 있는지 자세한 내용은 없었어.
+
+RESOURCE ID: quest_special_dialogue_zygarde_0_4
+TEXT: 어떻게 생각해? 발견할 수 있을 것 같아?
+
+RESOURCE ID: quest_special_dialogue_zygarde_0_5
+TEXT: 좀 걸으면서 생각해봐.
+
+RESOURCE ID: quest_special_dialogue_zygarde_1_0
+TEXT: 어서 와, %PLAYERNAME%!
+
+RESOURCE ID: quest_special_dialogue_zygarde_1_1
+TEXT: 네가 걷는 동안 트레이너들에게 보고가 들어왔어.
+
+RESOURCE ID: quest_special_dialogue_zygarde_1_2
+TEXT: 루트 구석에서 녹색 물체를 봤다는 보고야. 녹색의 생명체라고 말하는 트레이너도 있었어.
+
+RESOURCE ID: quest_special_dialogue_zygarde_1_3
+TEXT: 짐작은 했어도.... 확신을 가질 때까지 자료를 찾아볼게. 아니 칼로스지방 특집을 다시 한번 읽으면 알 것 같군.
+
+RESOURCE ID: quest_special_dialogue_zygarde_1_4
+TEXT: 너도 필드워크를 계속해 줄 수 있니?
+
+RESOURCE ID: quest_special_dialogue_zygarde_1_5
+TEXT: 포켓몬을 강화하고 나가도록 해.
+
+RESOURCE ID: quest_special_dialogue_zygarde_2_0
+TEXT: %PLAYERNAME%! 굉장한 걸 알아냈어!
+
+RESOURCE ID: quest_special_dialogue_zygarde_2_1
+TEXT: 자료를 보고 있었는데 뭔가 슥하고 날아갔어.
+
+RESOURCE ID: quest_special_dialogue_zygarde_2_2
+TEXT: 멀어서 잘 안 보였지만 저건 아마도..
+
+RESOURCE ID: quest_special_dialogue_zygarde_2_3
+TEXT: 또 발견될 테니까 찾아봐 줘. 아, 이걸 들고 가면 좋을 거야. 사용 방법은 나중에 알려줄게.
+
+RESOURCE ID: quest_special_dialogue_zygarde_3_0
+TEXT: 놀라운데, %PLAYERNAME%! 정말로 지가르데였구나!
+
+RESOURCE ID: quest_special_dialogue_zygarde_3_1
+TEXT: 정확하게는 지가르데를 구성하는 일부.
+
+RESOURCE ID: quest_special_dialogue_zygarde_3_2
+TEXT: 이 '셀'이라고 부르는 세포 같은 것은, 수에 따라 합성할 수 있는 지가르데의 겉모습이 달라져.
+
+RESOURCE ID: quest_special_dialogue_zygarde_3_3
+TEXT: 예를 들어, 이건 셀이 10% 모였을 때의 지가르데 10%폼이야. 셀을 더 모으면 모습을 바꿀 수 있어.
+
+RESOURCE ID: quest_special_dialogue_zygarde_3_4
+TEXT: 모습을 바꾸기 위해 사용하는 것이 아까 준 지가르데큐브야. 지가르데의 셀을 안전하면서도 쾌적하게 보관할 수 있어. 즉, 둥지 같은 거지.
+
+RESOURCE ID: quest_special_dialogue_zygarde_3_5
+TEXT: 트레이너들의 보고를 정리하면 루트를 걸으면 지가르데 셀을 발견할 가능성이 높다는군 녹색 물체는 셀을 말하는 거였어.
+
+RESOURCE ID: quest_special_dialogue_zygarde_3_6
+TEXT: %PLAYERNAME%, 너에게 검증을 부탁하고 싶은데 해줄 거지?
+
+RESOURCE ID: quest_special_dialogue_zygarde_4_0
+TEXT: %PLAYERNAME%, 지가르데 셀을 발견해줘서 고마워!
+
+RESOURCE ID: quest_special_dialogue_zygarde_4_1
+TEXT: 이제 지가르데 폼을 합성할 수 있겠지만 갈 길이 멀구나.
+
+RESOURCE ID: quest_special_dialogue_zygarde_4_2
+TEXT: 퍼펙트폼은 셀이 250개가 필요해. 루트에서만 발견된다고 하니까 많이 걸어야 하겠군.
+
+RESOURCE ID: quest_special_dialogue_zygarde_4_3
+TEXT: 너의 새로운 모험의 시작이군. 어떤 포켓몬 동료를 만나게 될지 기대되는걸.
+
+RESOURCE ID: quest_special_dialogue_zygarde_4_4
+TEXT: 루트를 걸을 때는 향로를 사용하면 좋아. 최대한 많은 종류의 포케몬을 관찰할 수 있어.
+
+RESOURCE ID: quest_special_dialogue_zygarde_5_0
+TEXT: 잘 돌아왔어, %PLAYERNAME%!
+
+RESOURCE ID: quest_special_dialogue_zygarde_5_1
+TEXT: 루트를 5개나 걸었어? 잘했어? 너 같은 트레이너가 협력해 주니 조사를 빨리 진행할 수 있어.
+
+RESOURCE ID: quest_special_dialogue_zygarde_5_2
+TEXT: 지가르데 퍼펙트폼은 전력으로 싸우기 위한 폼이다. 제르네아스와 이벨타르마저 압도하는 힘을 가졌다고 하는군.
+
+RESOURCE ID: quest_special_dialogue_zygarde_5_3
+TEXT: 가슴에서 발사하는 것은 모든 것을 지워버리는 고 에너지. 생태계를 교란하는 것을 진정시키지.
+
+RESOURCE ID: quest_special_dialogue_zygarde_5_4
+TEXT: 평소에도 잘 지키고 있겠지만 환경을 보호하는 노력을 소홀히 하면 안돼.
+
+RESOURCE ID: quest_special_dialogue_zygarde_5_5
+TEXT: 포켓몬, 인간 어느 쪽이든 살기 쉬운 환경을 위해 할 수 있는 것은 뭘까?
+
+RESOURCE ID: quest_special_dialogue_zygarde_5_6
+TEXT: 그게 뭔지 생각하는 걸 오늘의 과제로 하고 나는 이만 실례하지. 지가르데 셀을 모으는 여행이 순조롭길 바랄게. 퍼펙트폼에 필요한 수를 모으면 바로 연락해!
 
 RESOURCE ID: quest_sphet_catch_b
 TEXT: 대굴레오를 {0}마리 잡는다
@@ -57682,6 +59466,21 @@ TEXT: 해달포켓몬의 수수께끼를 풀어라!(3/4)
 RESOURCE ID: quest_title_oshat_3
 TEXT: 해달포켓몬의 수수께끼를 풀어라!(4/4)
 
+RESOURCE ID: quest_title_poliwag
+TEXT: 올챙이포켓몬의 수수께끼를 풀어라!
+
+RESOURCE ID: quest_title_poliwag_0
+TEXT: 올챙이포켓몬의 수수께끼를 풀어라!(1/4)
+
+RESOURCE ID: quest_title_poliwag_1
+TEXT: 올챙이포켓몬의 수수께끼를 풀어라!(2/4)
+
+RESOURCE ID: quest_title_poliwag_2
+TEXT: 올챙이포켓몬의 수수께끼를 풀어라!(3/4)
+
+RESOURCE ID: quest_title_poliwag_3
+TEXT: 올챙이포켓몬의 수수께끼를 풀어라!(4/4)
+
 RESOURCE ID: quest_title_poni
 TEXT: 포니섬을 연구하라!
 
@@ -58786,6 +60585,27 @@ TEXT: 포켓몬 연구: 가라르의 지그제구리(3/4)
 RESOURCE ID: quest_title_zigzagoon_3
 TEXT: 포켓몬 연구: 가라르의 지그제구리(4/4)
 
+RESOURCE ID: quest_title_zygarde
+TEXT: 새로운 길의 탐색
+
+RESOURCE ID: quest_title_zygarde_0
+TEXT: 새로운 길의 탐색(1/6)
+
+RESOURCE ID: quest_title_zygarde_1
+TEXT: 새로운 길의 탐색(2/6)
+
+RESOURCE ID: quest_title_zygarde_2
+TEXT: 새로운 길의 탐색(3/6)
+
+RESOURCE ID: quest_title_zygarde_3
+TEXT: 새로운 길의 탐색(4/6)
+
+RESOURCE ID: quest_title_zygarde_4
+TEXT: 새로운 길의 탐색(5/6)
+
+RESOURCE ID: quest_title_zygarde_5
+TEXT: 새로운 길의 탐색(6/6)
+
 RESOURCE ID: quest_togetic_catch_b
 TEXT: 토게틱을 {0}마리 잡는다
 
@@ -58975,6 +60795,12 @@ TEXT: Use a Hyper Potion on a Pokémon
 RESOURCE ID: quest_use_lure
 TEXT: Use a Lure Module
 
+RESOURCE ID: quest_use_lure_plural
+TEXT: 루트에서 루어모듈을 {0}개 사용한다
+
+RESOURCE ID: quest_use_lure_singular
+TEXT: 루트에서 루어모듈을 1개 사용한다
+
 RESOURCE ID: quest_use_max_potion
 TEXT: Use a Max Potion on a Pokémon
 
@@ -59050,6 +60876,12 @@ TEXT: {0} Km 걷는다
 RESOURCE ID: quest_walk_km_plural
 TEXT: {0} Km 걷는다
 
+RESOURCE ID: quest_walk_routes_plural
+TEXT: 루트로 {0}km 걷는다
+
+RESOURCE ID: quest_walk_routes_singular
+TEXT: 루트로 {0}km 걷는다
+
 RESOURCE ID: quest_walk_steps
 TEXT: Walk {0} steps
 
@@ -59109,6 +60941,9 @@ TEXT: 파트너 포켓몬으로 레이드배틀에서 {0}번 이긴다
 
 RESOURCE ID: quest_win_raid_buddy_singular
 TEXT: 파트너 포켓몬으로 레이드배틀에 이긴다
+
+RESOURCE ID: quest_win_raid_gofest2023
+TEXT: 레쿠쟈로 레이드배틀에 {0}번 이긴다
 
 RESOURCE ID: quest_win_raid_lvl1_higher_singular
 TEXT: 별 1이상의 레이드에 1회 이긴다
@@ -60341,7 +62176,7 @@ RESOURCE ID: raid_day_klang
 TEXT: 기기어르 레이드 데이
 
 RESOURCE ID: raid_day_kleavor
-TEXT: 사마자르 레이드 데이
+TEXT: 사마자르 레이드 데이
 
 
 RESOURCE ID: raid_day_klefki
@@ -64049,6 +65884,9 @@ TEXT: 이상한사탕을 {0}의 사탕으로 바꾸겠습니까?
 RESOURCE ID: rare_xl_candy_usage_confirmation
 TEXT: 이상한사탕XL을 {0}의 사탕XL로 바꾸겠습니까?
 
+RESOURCE ID: rating_submitted_toast
+TEXT: 평가했습니다
+
 RESOURCE ID: ready_raid_button
 TEXT: 준비 완료!
 
@@ -64062,7 +65900,7 @@ RESOURCE ID: ready_raid_ftue_confirm
 TEXT: 준비 완료!
 
 RESOURCE ID: ready_raid_ftue_desc
-TEXT: 참가자 모두 준비완료 상태가 되면 타이머가 스킵됩니다. 레이드 시작 전에 퇴장은 가능합니다.
+TEXT: 참가자 모두 준비완료 상태가 되면 타이머가 10초 전까지 스킵합니다. 레이드 시작 전에 퇴장은 가능합니다.
 
 RESOURCE ID: ready_raid_ftue_title
 TEXT: 레이드 시작 준비가 완료 되었나요?
@@ -64293,11 +66131,11 @@ TEXT: {0}님의 레이드배틀 초대장이 도착했습니다!
 
 RESOURCE ID: remote_raid_invite_push_notif
 TEXT: 레이드 초대
-
+
 {0}님의 레이드배틀 초대장이 도착했습니다!
 
 RESOURCE ID: remote_raid_invite_rate_limit_desc
-TEXT: 한 번에 보낼 수 있는 초대장 상한에 도달했습니다.
+TEXT: 한 번에 보낼 수 있는 초대장 상한에 도달했습니다.
 잠시 후 다시 시도해 주십시오.
 
 RESOURCE ID: remote_raid_invite_rate_limit_title
@@ -64405,6 +66243,91 @@ TEXT: 태그 순서를 변경하지 못했습니다
 RESOURCE ID: report_issues_link
 TEXT: https://pokemongo.nianticlabs.com/support/contact/en
 
+RESOURCE ID: report_route_error_daily_max
+TEXT: 이 루트는 이미 보고했습니다.
+다시 보고할 경우 {0}일 후에 해주십시오
+
+RESOURCE ID: report_route_error_missing_selection
+TEXT: 보고 이유를 선택해 주십시오
+
+RESOURCE ID: report_route_error_too_many_reports
+TEXT: 하루 최대 보고 수에 도달했습니다.
+
+RESOURCE ID: report_route_header_1
+TEXT: 다음 루트를 이동한다: 
+
+RESOURCE ID: report_route_header_2
+TEXT: 타이틀, 설명에 다음을 포함:
+
+RESOURCE ID: report_route_reason_adult_establishment
+TEXT: 음주 등 미성년자 제한 시설
+
+RESOURCE ID: report_route_reason_child_safety
+TEXT: 어린이 안전에 관한 사항
+
+RESOURCE ID: report_route_reason_dangerous
+TEXT: 위험 구역
+
+RESOURCE ID: report_route_reason_dangerous_ex
+TEXT: 예) 고속도로나 긴급 차량의 통행을 방해
+
+RESOURCE ID: report_route_reason_grade_school
+TEXT: 어린이집, 초등학교
+
+RESOURCE ID: report_route_reason_harassment
+TEXT: 괴롭힘, 혐오 발언
+
+RESOURCE ID: report_route_reason_illegal_goods
+TEXT: 불법, 성인 용품 언급
+
+RESOURCE ID: report_route_reason_illegal_goods_ex
+TEXT: 예) 약물, 총기
+
+RESOURCE ID: report_route_reason_inaccessible
+TEXT: 접근 제한 구역
+
+RESOURCE ID: report_route_reason_inappropriate
+TEXT: 기타 부적절한 콘텐츠
+
+RESOURCE ID: report_route_reason_invasive
+TEXT: 침입한 공간
+
+RESOURCE ID: report_route_reason_invasive_ex
+TEXT: 예)누군가의 사생활을 침해하거나 불쾌하게 할 가능성이 있음
+
+RESOURCE ID: report_route_reason_personal_info
+TEXT: 개인 정보
+
+RESOURCE ID: report_route_reason_personal_info_ex
+TEXT: 예) 주소 또는 전화번호
+
+RESOURCE ID: report_route_reason_private_residence
+TEXT: 개인 소유 주거지
+
+RESOURCE ID: report_route_reason_private_residence_ex
+TEXT: 예) 다세대 주택, 단독 주택 등
+
+RESOURCE ID: report_route_reason_self_harm
+TEXT: 자해 관련 메시지
+
+RESOURCE ID: report_route_reason_sensitive_location
+TEXT: 배려가 필요한 장소
+
+RESOURCE ID: report_route_reason_sensitive_location_ex
+TEXT: 예) 기념비나 묘지 등
+
+RESOURCE ID: report_route_reason_spam
+TEXT: 게임 치트 및 스팸 행위
+
+RESOURCE ID: report_route_reason_temp_obstruction
+TEXT: 잠재적 장애물
+
+RESOURCE ID: report_route_reason_temp_obstruction_ex
+TEXT: 예)건설, 공사
+
+RESOURCE ID: report_route_reason_violent_content
+TEXT: 폭력적 또는 성적 콘텐츠
+
 RESOURCE ID: report_video_ad_description
 TEXT: 이유로 해당되는 것을 모두 선택하고 보고하세요.
 
@@ -64440,6 +66363,9 @@ TEXT: 재시작
 
 RESOURCE ID: resume_ar_multiplayer_session
 TEXT: 이미 작성된 AR 세션에 참가하겠습니까?
+
+RESOURCE ID: resume_route_travel_error_toast
+TEXT: 루트 재개 에러
 
 RESOURCE ID: retention_friend_bonus_message
 TEXT: “Pokémon GO”를 프렌드와 플레이해서 XP, 알, 도구를 선물에서 손에 넣으세요!
@@ -64520,25 +66446,25 @@ RESOURCE ID: route_about_title
 TEXT: About this Route:
 
 RESOURCE ID: route_actions_label
-TEXT: 메뉴
+TEXT: 할 수 있는 것
 
 RESOURCE ID: route_add_point
-TEXT: Set as Waypoint
+TEXT: 스톱으로 설정
 
 RESOURCE ID: route_cancel_description
-TEXT: 이 도로를 걷기 시작하면 {0}의 진행이 삭제 되고 다시 플레이 하려면 {1}분 대기해야 합니다
+TEXT: 다른 루트를 시작하면 {0}의 진행 상황은 사라집니다.
 
 RESOURCE ID: route_cancel_description_same_route
-TEXT: 이 도로를 다시 시작하면 {0}의 진행은 삭제됩니다.
+TEXT: 이 루트를 다시 시작하면 현재까지의 진행 상황은 사라집니다.
 
 RESOURCE ID: route_cancel_start_new_button
 TEXT: 신규 작성
 
 RESOURCE ID: route_cancel_title
-TEXT: 새로운 도로를 만들겠습니까?
+TEXT: 새로운 루트를 시작하겠습니까?
 
 RESOURCE ID: route_cancel_title_same_route
-TEXT: 이 도로를 다시 시작하겠습니까?
+TEXT: 이 루트를 다시 시작하겠습니까?
 
 RESOURCE ID: route_cannot_delete_route_in_review_prompt
 TEXT: [placeholder on client]
@@ -64547,13 +66473,13 @@ RESOURCE ID: route_cannot_delete_route_in_review_title
 TEXT: 삭제할 수 없습니다.
 
 RESOURCE ID: route_cannot_edit_routes_in_review
-TEXT: Cannot edit a Route that is under review!
+TEXT: 심사 중인 루트는 편집할 수 없습니다.
 
 RESOURCE ID: route_change_endpoint_error
-TEXT: 종점 설정 에러
+TEXT: 끝나는 지점 설정 에러
 
 RESOURCE ID: route_checkpoint_general
-TEXT: Checkpoint
+TEXT: 스톱
 
 RESOURCE ID: route_collapsed_show_more
 TEXT: SHOW MORE {0}
@@ -64599,23 +66525,32 @@ TEXT: You must wait 1 hour and {0} minutes to play this route.
 RESOURCE ID: route_cooldown_toast_hours
 TEXT: You must wait {0} hours to play this route.
 
+RESOURCE ID: route_cooldown_toast_hours_and_minute
+TEXT: 이 루트를 플레이 하려면 {0}시간 {1}분 기다려야합니다.
+
 RESOURCE ID: route_cooldown_toast_hours_and_minutes
-TEXT: 이 도로를 플레이 하려면 {0}시간 {1}분 기다려야 합니다
+TEXT: 이 루트를 플레이 하려면 {0}시간 {1}분 기다려야 합니다
 
 RESOURCE ID: route_cooldown_toast_minute
 TEXT: You must wait {0} minutes to play this route.
 
 RESOURCE ID: route_cooldown_toast_minutes
-TEXT: 이 도로를 플레이 하려면 {0}분 기다려야 합니다
+TEXT: 이 루트를 플레이 하려면 {0}분 기다려야 합니다
 
 RESOURCE ID: route_create_action_menu_header
 TEXT: 할 수 있는 것:
 
 RESOURCE ID: route_create_medal_context_page
-TEXT: Pick and image and a color to display on the medal when your route is completed
+TEXT: 다른 트레이너가 당신이 만든 루트를 완료했을 때 받을 수 있는 메달의 이미지와 색을 선택합니다.
 
 RESOURCE ID: route_create_medal_context_title
-TEXT: 도로메달
+TEXT: 루트 메달
+
+RESOURCE ID: route_create_play_conflict_error_a
+TEXT: 루트 작성 중에 다른 루트를 걸을 수 없습니다.
+
+RESOURCE ID: route_create_play_conflict_error_b
+TEXT: 루트를 걷고 있을 때 루트 작성을 시작할 수 없습니다
 
 RESOURCE ID: route_creation_abandon_button
 TEXT: 루트 작성 종료
@@ -64633,13 +66568,19 @@ RESOURCE ID: route_creation_action_menu_abandon
 TEXT: 루트 작성 완료
 
 RESOURCE ID: route_creation_action_menu_new_endpoint
-TEXT: 새로운 종점을 선택한다
+TEXT: 새로운 끝나는 지점을 선택한다
 
 RESOURCE ID: route_creation_action_menu_pause
 TEXT: Scegli un nuovo punto di arrivo
 
+RESOURCE ID: route_creation_action_menu_pin
+TEXT: 핀 세우기
+
 RESOURCE ID: route_creation_action_menu_resume
 TEXT: 루트 기록 재시작
+
+RESOURCE ID: route_creation_action_menu_select_endpoint
+TEXT: 끝나는 지점을 선택
 
 RESOURCE ID: route_creation_active
 TEXT: 루트 작성 중입니다
@@ -64656,6 +66597,9 @@ TEXT: 루트 작성 일시 정지
 RESOURCE ID: route_creation_ask_start_title
 TEXT: 시작 지점 가까이에 있습니다. 루트 기록을 시작하겠습니까?
 
+RESOURCE ID: route_creation_ask_submit
+TEXT: 끝나는 지점 근처입니다. 기록을 종료하겠습니까?
+
 RESOURCE ID: route_creation_ask_submit_cancel
 TEXT: 기록을 계속한다
 
@@ -64669,22 +66613,22 @@ RESOURCE ID: route_creation_autoexit_toast
 TEXT: 루트작성이 완료했습니다
 
 RESOURCE ID: route_creation_choose_end_body
-TEXT: 이 이 포켓스톱 장소로 가서 루트 기록을 완료합니다. 기록 중 종점을 다시 선택할 수도 있습니다.
+TEXT: 이 이 포켓스톱 장소로 가서 루트 기록을 완료합니다. 기록 중 끝나는 지점을 다시 선택할 수도 있습니다.
 
 RESOURCE ID: route_creation_choose_end_header
 TEXT: 포켓스톱을 선택 후
 
 RESOURCE ID: route_creation_choose_end_sub_header
-TEXT: 루트 종점으로 설정.
+TEXT: 루트 끝나는 지점으로 설정.
 
 RESOURCE ID: route_creation_choose_new_end_body
-TEXT: 이 이 포켓스톱 장소로 가서 루트 기록을 완료합니다. 기록 중 종점을 다시 선택할 수도 있습니다.
+TEXT: 이 포켓스톱 장소로 가서 루트 기록을 완료합니다. 기록 중 끝나는 지점을 다시 선택할 수도 있습니다.
 
 RESOURCE ID: route_creation_choose_new_end_header
 TEXT: 포켓스톱을 선택 후
 
 RESOURCE ID: route_creation_choose_new_end_sub_header
-TEXT: 루트 종점으로 설정.
+TEXT: 루트 끝나는 지점으로 설정.
 
 RESOURCE ID: route_creation_choose_new_start_body
 TEXT: 이 포켓스톱 장소로 가서 루트 기록을 시작합니다.
@@ -64704,8 +66648,14 @@ TEXT: 포켓스톱을 선택 후
 RESOURCE ID: route_creation_choose_start_sub_header
 TEXT: 시작 지점으로 설정.
 
+RESOURCE ID: route_creation_error_invalid_start
+TEXT: 무효한 시작 지점
+
+RESOURCE ID: route_creation_error_start_failed
+TEXT: 루트 작성 시작 에러
+
 RESOURCE ID: route_creation_error_submission_max
-TEXT: Orden
+TEXT: 현재 작성할 수 있는 루트 최대 수에 도달했습니다
 
 RESOURCE ID: route_creation_generic_distance_warning_error
 TEXT: 조작을 실행할 수 없습니다
@@ -64726,44 +66676,45 @@ RESOURCE ID: route_creation_max_distance_warning_description
 TEXT: 최장거리를 넘으면 자동적으로 작성이 종료됩니다
 
 RESOURCE ID: route_creation_max_distance_warning_instructions
-TEXT: End your Route soon, or you may lose your current progress.
+TEXT: 현재 진행 내용을 유지하기 위해 최장 거리가 되기 전에 작성을 완료해 주십시오
 
 RESOURCE ID: route_creation_max_distance_warning_title
-TEXT: Your Route is nearing the maximum length.
+TEXT: 곧 최장 거리
 
 RESOURCE ID: route_creation_max_distance_warning_values
 TEXT: 최장 거리: {0}km
 현재 거리: <color=#F2A64B>{1}km</color>
 
 RESOURCE ID: route_creation_min_distance_description
-TEXT: 종점 근처에 있으나 거리가 너무 짧습니다.
+TEXT: 끝나는 지점 근처에 있으나 거리가 너무 짧습니다.
 
 RESOURCE ID: route_creation_min_distance_instructions
-TEXT: 루트 기록을 재개하고 거리를 추가 후 이 종점에 돌아오거나 또는, 새로운 종점을 설정하고 거리를 추가해 주십시오.
+TEXT: 루트 기록을 재개하고 거리를 추가 후 이 끝나는 지점에 돌아오거나, 또는 새로운 끝나는 지점을 설정하고 거리를 추가해 주십시오.
 
 RESOURCE ID: route_creation_min_distance_title
 TEXT: 거리 부족
 
 RESOURCE ID: route_creation_min_distance_values
-TEXT: Minimum length: {0}
-Current length: <color=#F2A64B>{1}</color>
+TEXT: 최단 거리: {0}
+현재 거리: <color=#F2A64B>{1}</color>
 
 RESOURCE ID: route_creation_onboarding_loop_page_desc
-TEXT: 같은 포켓스톱을 시작 지점과 종점으로 선택해서 루트 루트를 작성합니다. 시작 지점에 돌아가 루프를 닫아서 종료합니다.
+TEXT: 같은 포켓스톱을 시작 지점과 끝나는 지점으로 선택했기 때문에 루프 루트를 작성합니다. 시작 지점에 돌아가 루프를 닫고 종료합니다.
 
 RESOURCE ID: route_creation_onboarding_loop_page_title
 TEXT: 루프 루트
 
 RESOURCE ID: route_creation_onboarding_page_1
 TEXT: 루트 작성은 다음 순서대로 진행합니다.
-1. 시작 지점과 종점을 선택한다.
-2. 시작 지점에서 종점까지 걷는다.
+1. 시작 지점과 끝나는 지점을 선택한다.
+2. 시작 지점에서 끝나는 지점까지 걷는다.
 3. 타이틀과 설명을 입력한다.
 
 RESOURCE ID: route_creation_onboarding_page_2
-TEXT: Erstellte Routen werden an Niantic zur Überprüfung und Zulassung weitergeleitet. Wenn deine Route abgelehnt wird, erhältst du die Möglichkeit, sie zu bearbeiten und erneut einzureichen.
-
-Es ist Zeit, deine Route zu erstellen!
+TEXT: 루트는 다음 조건을 충족해야 합니다.
+1. 전체 {0}km ~ {1}km.
+2. 안전한 구역에 있으며 사유지를 거치지 않는다.
+3. 명확한 설명과 주제를 가진다.
 
 RESOURCE ID: route_creation_onboarding_page_3
 TEXT: 루트에 따라 핀을 세워 간단한 정보를 보충할 수 있습니다. 핀은 다음을 주의해서 세웁니다. 
@@ -64772,7 +66723,7 @@ TEXT: 루트에 따라 핀을 세워 간단한 정보를 보충할 수 있습니
 2. 다른 핀에서 {1}m 떨어져 있을 것.
 
 RESOURCE ID: route_creation_onboarding_page_4
-TEXT: 루트를 제출하면 심사를 통해 승인되거나 비승인 됩니다. 비승인 된 경우 변경을 추가해서 다시 제출할 수도 있습니다. 
+TEXT: 루트를 제출하면 심사를 통해 승인되거나 거절 됩니다. 거절 된 경우 변경을 추가해서 다시 제출할 수도 있습니다. 
 
 첫 루트를 만들어 보세요!
 
@@ -64781,6 +66732,9 @@ TEXT: 루트 작성 방법
 
 RESOURCE ID: route_creation_onboarding_title_2
 TEXT: 루트 기준
+
+RESOURCE ID: route_creation_onboarding_title_3
+TEXT: 핀 세우기
 
 RESOURCE ID: route_creation_onboarding_title_4
 TEXT: 심사 받기
@@ -64797,14 +66751,17 @@ TEXT: 정보는 저장됩니다. 재개시에는 이 장소에 돌아와 나머�
 RESOURCE ID: route_creation_resume_button
 TEXT: 루트 작성 재개
 
+RESOURCE ID: route_creation_resume_error_adsync
+TEXT: 언제나 모험 모드를 켜고 루트 작성을 계속 진행해 주세요.
+
 RESOURCE ID: route_creation_resume_label
 TEXT: 기록 재개
 
 RESOURCE ID: route_creation_select_new_end
-TEXT: 새로운 종점을 선택
+TEXT: 새로운 끝나는 지점을 선택
 
 RESOURCE ID: route_creation_selected_points_header
-TEXT: 선택한 시작 지점, 종점:
+TEXT: 선택한 시작 지점, 끝나는 지점:
 
 RESOURCE ID: route_creation_start_recording_error_too_far
 TEXT: 시작 지점에서 떨어졌기 때문에 기록을 재개할 수 없습니다
@@ -64812,26 +66769,63 @@ TEXT: 시작 지점에서 떨어졌기 때문에 기록을 재개할 수 없습�
 RESOURCE ID: route_creation_submit
 TEXT: 디버그 작성 보내기
 
+RESOURCE ID: route_creator_label
+TEXT: 루트 작성자
+
 RESOURCE ID: route_creator_stats_label
 TEXT: 작성자 정보
 
 RESOURCE ID: route_data_onboarding_page_1
-TEXT: Now that you've created your route, it's your chance to tell people about it!
+TEXT: 작성한 루트에 대해 주변에 알려 주세요!
 
 RESOURCE ID: route_data_onboarding_title_1
-TEXT: 도로 데이터 입력
+TEXT: 루트 데이터 입력
+
+RESOURCE ID: route_decayed_description
+TEXT: 이 루트는 아카이빙 되었습니다.
+
+RESOURCE ID: route_decayed_modal_description
+TEXT: {0}(은)는 필요 횟수만큼 플레이되지 않아 아카이빙되었습니다.
+아카이브 된 루트는 플레이어가 발견할 수 없고 플레이도 안 되지만 루트 상세 화면은 남습니다.
+
+RESOURCE ID: route_decayed_modal_title
+TEXT: {0}(은)는 아카이빙 되었습니다.
 
 RESOURCE ID: route_denial_exceeds_max_total_distance
-TEXT: Adding this POI exceeds max Route length of {0} meters.
+TEXT: 이 포켓스톱 또는 체육관을 추가하면 루트상 최대 거리 {0}m를 초과합니다.
 
 RESOURCE ID: route_denial_too_close_to_last_poi
-TEXT: This Pokéstop is too close to the last Waypoint. Must be at least {0} meters away.
+TEXT: 이 포켓스톱은 마지막 스톱과 가깝습니다. 적어도 {0}m 이상 떨어져야 합니다.
 
 RESOURCE ID: route_denial_too_far_away_from_last_poi
-TEXT: This Pokéstop is too far from the last Waypoint. Must be less than {0} meters away.
+TEXT: 이 포켓스톱은 마지막 스톱에서 너무 멉니다. {0}m 이내 거리에 있어야합니다.
 
 RESOURCE ID: route_denial_too_many_stops_in_route
-TEXT: This Route has reached the max number of Waypoints: {0}.
+TEXT: 이 루트에는 포켓스톱, 체육관의 최대 수 {0}개를 포함하고 있습니다.
+
+RESOURCE ID: route_detail_rejected_delete_button
+TEXT: 삭제
+
+RESOURCE ID: route_detail_rejected_description
+TEXT: 이 루트는 거절되었습니다.
+
+RESOURCE ID: route_detail_under_review_withdraw_button
+TEXT: 심사 신청 취소
+
+RESOURCE ID: route_discovery_tab_all
+TEXT: 모두
+
+RESOURCE ID: route_discovery_tab_known
+TEXT: 이미 알고 있다
+
+RESOURCE ID: route_discovery_tab_new
+TEXT: New
+
+RESOURCE ID: route_discovery_tab_official
+TEXT: 공식
+
+RESOURCE ID: route_discovery_tab_popular
+TEXT: 인기
 
 RESOURCE ID: route_distance_walked_label
 TEXT: 루트상에서 걸은 거리
@@ -64840,13 +66834,40 @@ RESOURCE ID: route_earned_new_stamp
 TEXT: New stamp registered!
 
 RESOURCE ID: route_edit_button
-TEXT: CONTINUE EDIT
+TEXT: 편집을 계속한다.
+
+RESOURCE ID: route_edit_deleted_toast
+TEXT: {0}(은)는 삭제되었습니다
+
+RESOURCE ID: route_edit_exit_button_primary
+TEXT: 변경을 저장
+
+RESOURCE ID: route_edit_exit_button_secondary
+TEXT: 저장하지 않는다
+
+RESOURCE ID: route_edit_exit_description
+TEXT: 저장하지 않은 변경이 있습니다. 지금 나가면 내용이 사라집니다.
+
+RESOURCE ID: route_edit_exit_title
+TEXT: 변경을 저장하겠습니까?
 
 RESOURCE ID: route_edit_resubmit_label
 TEXT: 편집해서 재제출
 
+RESOURCE ID: route_edit_submission_label
+TEXT: 편집한다
+
+RESOURCE ID: route_edit_warning_button
+TEXT: 다른 루트를 본다
+
+RESOURCE ID: route_edit_warning_description
+TEXT: 작성 중 루트가 있을 때 이미 제출한 루트 편집은 할 수 없ㅅ브니다. 루트 작성을 완료하거나 파기해 주십시오.
+
+RESOURCE ID: route_edit_warning_title
+TEXT: 편집할 수 없습니다
+
 RESOURCE ID: route_elevation_label
-TEXT: 기복
+TEXT: 높이 기복
 
 RESOURCE ID: route_enforcement_cta
 TEXT: 잘못된 동결 또는 영구 정지되었다고 생각되는 경우
@@ -64858,13 +66879,13 @@ TEXT: 중복 또는 중대한 루트 관련 플레이어 가이드라인 위반�
 위반 상태가 계속되면 계정이 영구정지될 수 있습니다. 플레이어 가이드라인을 재차 확인해 주십시오.
 
 RESOURCE ID: route_enforcement_long_ban_title
-TEXT: You’ve been banned from using Pokémon GO.
+TEXT: Pokémon GO가 사용 정지 되었습니다.
 
 RESOURCE ID: route_enforcement_permanent_ban_description
 TEXT: 중복 또는 중대한 루트 관련 플레이어 가이드라인 위반이 검출되어 사용하시는 계정이 정지되었습니다.
 
 RESOURCE ID: route_enforcement_permanent_ban_title
-TEXT: You’ve been permanently banned from using Pokémon GO.
+TEXT: Pokémon GO가 영구 정지 되었습니다.
 
 RESOURCE ID: route_enforcement_suspension_description
 TEXT: 중복 또는 중대한 루트 관련 플레이어 가이드라인 위반이 검출되어 사용하시는 계정이 {0}일 동안 동결됩니다. 계정은 {1}일 후에 사용할 수 있습니다.
@@ -64883,25 +66904,34 @@ TEXT: 사용하시는 계정이 루트 관련 플레이어 가이드라인에 �
 위반 상태가 계속되면 계정이 일시적으로 동결 또는 영구 정지될 수 있습니다.
 
 RESOURCE ID: route_enforcement_warning_description_secondary
-TEXT: Please review our Player Guidelines to avoid future violations. 
+TEXT: 플레이어 가이드라인을 확인해 주세요.
 
 RESOURCE ID: route_enforcement_warning_title
 TEXT: 위반 관련 경고
 
 RESOURCE ID: route_enter_description_context_page
-TEXT: Enter a description that tells people what your route is about
+TEXT: 어떤 루트인지 설명을 입력
 
 RESOURCE ID: route_enter_description_context_title
-TEXT: 도로 설명
+TEXT: 루트 설명
 
 RESOURCE ID: route_enter_title_context_page
-TEXT: Enter the title that others will see when searching for routes
+TEXT: 루트를 검색하는 사람에게 보이는 타이틀을 입력.
 
 RESOURCE ID: route_enter_title_context_title
-TEXT: 도로 타이틀
+TEXT: 루트 타이틀
+
+RESOURCE ID: route_error_unable_to_complete_action
+TEXT: 조작이 완료되지 않았습니다. 다시 시도해 주십시오.
+
+RESOURCE ID: route_error_unable_to_edit
+TEXT: 이 루트는 편집할 수 없습니다. 만든 루트 리스트를 갱신하여 이 루트 상황에 변경이 있었는지 확인해 주십시오.
 
 RESOURCE ID: route_expired_error
 TEXT: Current route has expired
+
+RESOURCE ID: route_first_play_date_label
+TEXT: 첫 번째
 
 RESOURCE ID: route_frame_select_subtitle
 TEXT: 미리보기
@@ -64910,19 +66940,19 @@ RESOURCE ID: route_frame_select_title
 TEXT: 메달 미리보기 선택
 
 RESOURCE ID: route_general
-TEXT: 도로
+TEXT: 루트
 
 RESOURCE ID: route_general_plural
-TEXT: 도로
+TEXT: 루트
 
 RESOURCE ID: route_get_route_maker
-TEXT: 도로 메이커 입수
+TEXT: 루트 메이커 입수
 
 RESOURCE ID: route_icon_select_subtitle
-TEXT: Medal will be shown to all Trainers
+TEXT: 모든 트레이너가 볼 수 있습니다.
 
 RESOURCE ID: route_icon_select_title
-TEXT: Please select an image for the route medal
+TEXT: 루트 메달 이미지 선택
 
 RESOURCE ID: route_km_label
 TEXT: {0} km
@@ -64930,35 +66960,38 @@ TEXT: {0} km
 RESOURCE ID: route_last_play_date_label
 TEXT: 마지막
 
+RESOURCE ID: route_level
+TEXT: 레벨 {0}
+
 RESOURCE ID: route_list_context_page
-TEXT: Arrange and modify your pokestop list from here
+TEXT: 여기에서 포켓스톱 또는 체육관의 순서를 바꾸거나 변경할 수 있습니다.
 
 RESOURCE ID: route_list_context_title
-TEXT: List of pokestops
+TEXT: 포켓스톱 또는 체육관 리스트
 
 RESOURCE ID: route_list_item_default_description
-TEXT: Click to start creating a Route
+TEXT: 탭 해서 루트 작성을 시작
 
 RESOURCE ID: route_list_item_default_title
-TEXT: {0}번도로
+TEXT: 루트 {0}
 
 RESOURCE ID: route_load_timeout
-TEXT: Route took too long to load. Please try again.
+TEXT: 로딩에 너무 많은 시간이 걸렸습니다. 다시 시도해 주세요.
 
 RESOURCE ID: route_m_label
 TEXT: {0} m
 
 RESOURCE ID: route_maker_item_confirmation_description
-TEXT: 활성화 가능한 도로 메이커는 여기에 표시됩니다.
+TEXT: 활성화 된 루트 메이커는 여기에 표시됩니다.
 
 RESOURCE ID: route_maker_max_warning
-TEXT: You have the max number of Route Makers! Routes must be approved before you can get more.
+TEXT: 루트 메이커의 최대수를 가지고 있습니다. 루트를 만들어서 승인을 받아주세요.
 
 RESOURCE ID: route_map_out_of_bound_warning
 TEXT: You are too far away from this area
 
 RESOURCE ID: route_medal
-TEXT: Badge
+TEXT: 배지
 
 RESOURCE ID: route_medals_header
 TEXT: 루트 배지
@@ -64994,7 +67027,7 @@ RESOURCE ID: route_nearby_label
 TEXT: {0} route(s)
 
 RESOURCE ID: route_nearby_list_button
-TEXT: 주변 도로를 본다({0})
+TEXT: 주변 루트 확인({0})
 
 RESOURCE ID: route_nearby_list_header
 TEXT: 주변 도로({0})
@@ -65003,23 +67036,26 @@ RESOURCE ID: route_not_playable
 TEXT: 이 루트는 현재 플레이할 수 없습니다
 
 RESOURCE ID: route_notification_resume
-TEXT: 도로 범위 내로 들어왔습니다.
+TEXT: 루트 범위 내로 들어왔습니다.
 다시 활성화 상태로 변경되었습니다!
 
 RESOURCE ID: route_one_time_label
 TEXT: 1 time
 
 RESOURCE ID: route_out_of_range
-TEXT: This Route is too far away to start.
+TEXT: 너무 멀어서 이 루트를 시작할 수 없습니다.
 
 RESOURCE ID: route_pause_description
-TEXT: 도로 범위 밖으로 나왔기 때문에 일시 정지 되었습니다. 다음 포인트로 향해 걸으면 이 도로는 자동으로 다시 시작합니다.
+TEXT: 루트 범위 밖으로 나왔기 때문에 일시 정지 되었습니다. 다음 스톱으로 향해 걸으면 자동으로 다시 시작합니다.
+
+RESOURCE ID: route_pause_label
+TEXT: 일시 정지
 
 RESOURCE ID: route_pause_prompt
-TEXT: Your Route progress will be saved. You can continue from the Route Maker menu in ITEMS anytime.
+TEXT: 진행 상황은 저장됩니다. 도구에서 루트 메이커를 선택하여 언젠든지 이어서 진행할 수 있습니다.
 
 RESOURCE ID: route_pause_stamp_cancel
-TEXT: (이 도로는 {0}시간 후 취소 됩니다)
+TEXT: (이 루트는 {0}시간 후 취소 됩니다)
 
 RESOURCE ID: route_pause_stamp_cancel_less_than
 TEXT: (This route will cancel in less than {0} hour)
@@ -65028,49 +67064,155 @@ RESOURCE ID: route_pause_stamp_cancel_singular
 TEXT: (This route will cancel in {0} hour)
 
 RESOURCE ID: route_pause_stamp_message
-TEXT: {0}(은)는 범위 밖으로 나왔기 때문에 일시 정지 되었습니다. 다음 포인트 "<color=#{1}>{2}</color>”(으)로 향해 걸으면 다시 시작됩니다.
+TEXT: {0}(은)는 범위 밖으로 나왔기 때문에 일시 정지 되었습니다. 다음 스톱 "<color=#{1}>{2}</color>”(으)로 향해 걸으면 다시 시작됩니다.
+
+RESOURCE ID: route_pause_title
+TEXT: 일시 정지했습니다.
 
 RESOURCE ID: route_paused_prompt
 TEXT: {0}(으)로 저장되었습니다.
 
 RESOURCE ID: route_paused_title
-TEXT: 도로 작성 일시 중지
+TEXT: 루트 작성 일시 중지
+
+RESOURCE ID: route_pin_subtitle
+TEXT: 핀 타이틀:
+
+RESOURCE ID: route_pin_title_add
+TEXT: 핀을 선택한다
+
+RESOURCE ID: route_pin_title_edit
+TEXT: 핀 타이틀 편집
 
 RESOURCE ID: route_planning_context_page
-TEXT: 여기에서 기획을 시작
+TEXT: 여기에서 계획을 시작
 
 RESOURCE ID: route_planning_context_title
-TEXT: Planning your Route
+TEXT: 루트를 계획
 
 RESOURCE ID: route_planning_must_add_more_pois
-TEXT: Add at least {0} more Pokestop(s) and/or Gym(s) to route.
+TEXT: 포켓스톱 또는 체육관을 적어도 {0}개 이상 추가해 주세요.
 
 RESOURCE ID: route_planning_must_add_one_poi
 TEXT: Add at least 1 more Pokéstop or Gym to this route.
 
+RESOURCE ID: route_play_adsync_breadcrumb_notification
+TEXT: 루트 진행 중
+
+RESOURCE ID: route_play_badge_earn_description_bronze
+TEXT: 브론즈 루트 배지를 손에 넣었다!
+
+RESOURCE ID: route_play_badge_earn_description_gold
+TEXT: 골드 루트 배지를 손에 넣었다!
+
+RESOURCE ID: route_play_badge_earn_description_silver
+TEXT: 실버 루트 배지를 손에 넣었다!
+
+RESOURCE ID: route_play_badge_earn_description_white
+TEXT: 루트 배지를 손에 넣었다!
+
+RESOURCE ID: route_play_badge_progress_title
+TEXT: 루트를 완성했다!
+
+RESOURCE ID: route_play_completion_reject_description_primary
+TEXT: 루트 끝나는 지점에 도착했지만, 루트 완료에 필요한 거리를 걷지 않았습니다
+
+RESOURCE ID: route_play_completion_reject_description_secondary
+TEXT: 루트 진행을 재개하고 충분한 거리를 걸은 뒤, 이 끝나는 지점에 돌아와 완료해 주십시오
+
+RESOURCE ID: route_play_completion_reject_description_values
+TEXT: 루트 전체: {0}
+걸은 거리: <color=#F2A64B>{1}</color>
+
+RESOURCE ID: route_play_completion_reject_title
+TEXT: 루트 완료 조건을 만족하지 않았습니다
+
+RESOURCE ID: route_play_detail_map_soon
+TEXT: 루트 미리보기 맵은 현재 표시할 수 없습니다.
+
+RESOURCE ID: route_play_hoo_warning_button
+TEXT: 루트를 플레이
+
+RESOURCE ID: route_play_hoo_warning_description
+TEXT: 이 루트에는 곧 닫힐 포켓스톱이 포함되어 있어 걸으려고 하면 문제가 발생할 수 있습니다
+
+RESOURCE ID: route_play_hoo_warning_title
+TEXT: 곧 닫을 포켓스톱
+
+RESOURCE ID: route_play_label
+TEXT: 루트 시작
+
+RESOURCE ID: route_play_low_rating_description
+TEXT: 문제가 발생한 경우 이 루트를 보고할 수 있습니다
+
+RESOURCE ID: route_play_low_rating_title
+TEXT: 이 루트에서 문제가 발생했습니까?
+
+RESOURCE ID: route_play_pause_confirmation_description
+TEXT: 루트 진행을 다시 할 때는 일시 정지한 장소까지 와야 합니다.
+
+RESOURCE ID: route_play_pause_confirmation_title
+TEXT: 루트 진행을 일시 정지 하겠습니까?
+
+RESOURCE ID: route_play_pause_location_error_description
+TEXT: 현재 위치를 확인할 수 없어 루트 진행이 일시 정지되었습니다. 경로에 되돌아가 이어서 진행해 주십시오
+
+RESOURCE ID: route_play_pause_location_error_title
+TEXT: 루트 진행 일시 정지
+
+RESOURCE ID: route_play_rate_route_description
+TEXT: 다른 트레이너의 루트 체험 향상을 위해 평가를 부탁드립니다
+
+RESOURCE ID: route_play_rate_route_error_no_selection
+TEXT: 별의 수를 선택하세요
+
+RESOURCE ID: route_play_rate_route_title
+TEXT: 이 루트를 평가
+
+RESOURCE ID: route_play_report_route_button
+TEXT: 보고한다
+
+RESOURCE ID: route_play_resume_directive
+TEXT: 일시 정지한 지점에 가서 루트 진행을 재개해 주십시오
+
+RESOURCE ID: route_play_resume_error_too_far
+TEXT: 일시 정지한 정확한 장소까지 가주세요
+
+RESOURCE ID: route_play_resume_toast
+TEXT: 루트 진행을 재개했습니다
+
+RESOURCE ID: route_play_travel_distance
+TEXT: 현재 거리:
+
 RESOURCE ID: route_poi_list_view_description_short_tip
-TEXT: Add at least {0} more Pokestop(s) and/or Gym(s) to Route.
+TEXT: 포켓스톱 또는 체육관을 적어도 {0}개 이상 추가해 주세요.
 
 RESOURCE ID: route_poi_list_view_description_tip
-TEXT: Select additional Pokéstops or Gyms in sequence to complete your Route.
+TEXT: 방문할 순서로 포켓스톱 또는 체육관을 선택해 추가해 주세요.
 
 RESOURCE ID: route_poi_list_view_max_wp_tip
-TEXT: Your route has the maximum number of waypoints
+TEXT: 최대 수의 포켓스톱 또는 체육관이 포함되어 있습니다
 
 RESOURCE ID: route_poi_list_view_start_point_tip
-TEXT: Select a Start Point
+TEXT: 시작 지점을 선택
 
 RESOURCE ID: route_poi_list_view_total_distance
-TEXT: Total distance: {0} m
+TEXT: 총 거리: {0}m
 
 RESOURCE ID: route_poi_list_view_total_time
-TEXT: Total estimated time: {0} min
+TEXT: 예상 소요시간: {0}분
+
+RESOURCE ID: route_pokemon_caught_label
+TEXT: 루트에서 잡은 포켓몬
 
 RESOURCE ID: route_published_list_header
-TEXT: 미이 게시된 도로
+TEXT: 이미 공개된 루트
 
 RESOURCE ID: route_published_title
 TEXT: PUBLISHED ROUTES
+
+RESOURCE ID: route_quit_label
+TEXT: 나가기
 
 RESOURCE ID: route_rating_button
 TEXT: 평가
@@ -65145,19 +67287,34 @@ RESOURCE ID: route_recording_resumed
 TEXT: 루트 기록을 재개했습니다.
 
 RESOURCE ID: route_recording_started
-TEXT: 루트 작성을 재개했습니다.
+TEXT: 루트 기록을 재개했습니다.
+
+RESOURCE ID: route_rejected_deletion_confirm_description
+TEXT: 이 조작은 취소할 수 없습니다. 다음으로 진행하면 이 루트는 완전히 삭제되며 복원할 수 없습니다.
+
+RESOURCE ID: route_rejected_deletion_confirm_title
+TEXT:  이 루트를 삭제하겠습니까?
+
+RESOURCE ID: route_rejected_deletion_success_description
+TEXT: 이 루트는 작성한 루트 리스트에서 삭제됩니다.
+
+RESOURCE ID: route_rejected_deletion_success_title
+TEXT: 삭제 완료
 
 RESOURCE ID: route_rejection_action
-TEXT: EDIT & RESUBMIT
+TEXT: 편집해서 다시 제출
 
 RESOURCE ID: route_rejection_title
-TEXT: 이 도로는 비승인 되었습니다.
+TEXT: 이 루트는 거절 되었습니다.
 
 RESOURCE ID: route_remove_from_route
-TEXT: 도로에서 삭제
+TEXT: 루트에서 삭제
+
+RESOURCE ID: route_report_body
+TEXT: 보내주신 보고 내용은 Niantic 방침에 따라 심사 진행 후, 적절한 조치를 결정합니다. 보고자의 정보가 루트 작성자에게 공유되지 않습니다. 송신하면 보고 내용이 맞는지에 대한 확인 및 증명이 완료 된 것으로 간주합니다.
 
 RESOURCE ID: route_report_cancel_message
-TEXT: 이 보고를 송신하면 이 도로는 취소됩니다.
+TEXT: 이 보고를 송신하면 이 루트는 취소됩니다.
 
 RESOURCE ID: route_report_description
 TEXT: 어떤 문제가 발생했습니까?
@@ -65169,35 +67326,59 @@ TEXT: 알 수 없다
 RESOURCE ID: route_report_permanent
 TEXT: 영구적인 문제
 
+RESOURCE ID: route_report_submit_description
+TEXT: 보고 감사합니다. 루트 체험이 중단된 경우 불편을 드려 죄송합니다.
+
+RESOURCE ID: route_report_submit_description_long
+TEXT: 보고 감사합니다. 루트 체험이 중단 된 경우 불편을 드려 죄송합니다. 루트를 진행한 부분의 리워드는 받을 수 있습니다.
+
+RESOURCE ID: route_report_submit_title
+TEXT: 보고 송신 완료
+
 RESOURCE ID: route_report_temporary
 TEXT: 일시적인 문제
 
 RESOURCE ID: route_report_title
 TEXT: 이 루트를 보고한다
 
+RESOURCE ID: route_report_warning_description
+TEXT: 이 루트에 관한 보고를 송신하면 현재 섹션이 종료 될 수 있습니다.
+
+RESOURCE ID: route_report_warning_title
+TEXT: 이 루트를 보고하겠습니까?
+
 RESOURCE ID: route_reset_modal_promot
-TEXT: Resetting your Route will remove all of its data. Are you sure?
+TEXT: 리셋하며 루트의 모든 정보가 삭제됩니다. 리셋하겠습니까?
 
 RESOURCE ID: route_reset_modal_title
-TEXT: 도로 리셋
+TEXT: 루트 리셋
+
+RESOURCE ID: route_resume_label
+TEXT: 다시 시작
+
+RESOURCE ID: route_reversed_toast
+TEXT: 루트 방향을 반전했습니다.
 
 RESOURCE ID: route_reversible_notice_label
 TEXT: 이 루트는 거꾸로 걷는 것이 가능합니다
 
 RESOURCE ID: route_review_submission_page
-TEXT: Check over all you data before submitting
+TEXT: 제출 전에 입력한 정보를 확인하세요.
 
 RESOURCE ID: route_review_submission_title
-TEXT: Review your submission
+TEXT: 심사
 
 RESOURCE ID: route_set_start_point
-TEXT: Set as Start Point
+TEXT: 시작 지점으로 설정
 
 RESOURCE ID: route_sort_category
 TEXT: 테마
 
 RESOURCE ID: route_sort_length
-TEXT: 거리
+TEXT: 길이
+
+RESOURCE ID: route_sort_level
+TEXT: 레벨
 
 RESOURCE ID: route_sort_proximity
 TEXT: 가까움
@@ -65206,13 +67387,13 @@ RESOURCE ID: route_sort_rating
 TEXT: 평가
 
 RESOURCE ID: route_spinning_add_to_route
-TEXT: This Waypoint isn't included in the Route. Do you want to add it?
+TEXT: 이 포켓스톱 또는 체육관은 루트에 포함되어 있지 않습니다. 추가하겠습까?
 
 RESOURCE ID: route_spinning_poi_out_of_order
-TEXT: Please spin Waypoints in the order they appear in the route.
+TEXT: 포켓스톱 또는 체육관을 순서대로 방문해 포토디스크를 돌려 주세요.
 
 RESOURCE ID: route_spinning_visit_poi
-TEXT: Please spin the photo disk to verify this Waypoint.
+TEXT: 포토디스크를 돌려 검증을 종료해주세요.
 
 RESOURCE ID: route_stamp_category
 TEXT: DEFAULT
@@ -65224,7 +67405,7 @@ RESOURCE ID: route_stamps_header
 TEXT: STAMPS
 
 RESOURCE ID: route_start_failed
-TEXT: 도로를 다시 시작할 수 없었습니다.
+TEXT: 루트를 시작할 수 없었습니다.
 
 RESOURCE ID: route_start_toast
 TEXT: {0}, 다시 시작!
@@ -65236,40 +67417,40 @@ RESOURCE ID: route_status_in_progress
 TEXT: 미제출
 
 RESOURCE ID: route_status_published
-TEXT: 이미 게시됨
+TEXT: 이미 공개됨
 
 RESOURCE ID: route_status_rejected
-TEXT: 비승인
+TEXT: 거절
 
 RESOURCE ID: route_status_submitted
 TEXT: 심사 중
 
 RESOURCE ID: route_status_time_stamp_saved
-TEXT: Last saved {0}
+TEXT: 마지막 저장일: {0}
 
 RESOURCE ID: route_status_time_stamp_submitted
-TEXT: Submitted {0}
+TEXT: 제출일: {0}
 
 RESOURCE ID: route_stop_button
 TEXT: 중단한다
 
 RESOURCE ID: route_stop_description
-TEXT: 이 도로를 중지하면 관련 데이터는 삭제됩니다. 이 작업은 취소할 수 없습니다.
+TEXT: 이 루트 걷는 것을 그만두면 진행 상태는 삭제됩니다. 이 조작은 복구되지 않습니다.
 
 RESOURCE ID: route_stop_report
-TEXT: 에러가 발생하여 계속할 수 없느 ㄴ경우 <color=#{0}>여기</color>에서 문의해 주세요.
+TEXT: 이 루트에서 문제가 생긴 경우 루트 걷기를 멈추고 문제를 보고할 수 있습니다
 
 RESOURCE ID: route_stop_start_new_button
 TEXT: 신규 작성
 
 RESOURCE ID: route_stop_start_new_button_same_route
-TEXT: 도로 다시 시작
+TEXT: 루트 다시 시작
 
 RESOURCE ID: route_stop_title
-TEXT: 이 도로를 중지합니까?
+TEXT: 이 루트 걷기를 그만두겠습니까?
 
 RESOURCE ID: route_stop_toast
-TEXT: This route has canceled
+TEXT: 루트 진행을 종료했습니다
 
 RESOURCE ID: route_submission_abandon_back_button
 TEXT: BACK
@@ -65281,28 +67462,28 @@ RESOURCE ID: route_submission_abandon_header
 TEXT: 루트 작성을 종료하겠습니까?
 
 RESOURCE ID: route_submission_add_description
-TEXT: 도로 설명 추가하기
+TEXT: 루트 정보 추가
 
 RESOURCE ID: route_submission_add_description_placeholder
-TEXT: Please describe the journey, history or background of this Route.
+TEXT: 이 루트의 여정,역사 배경등을 성명해 주세요.
 
 RESOURCE ID: route_submission_add_info_title
-TEXT: 도로 정보 추가
+TEXT: 루트 정보 추가
 
 RESOURCE ID: route_submission_add_tags
 TEXT: {0}개까지 태그를 붙일 수 있습니다.(임의)
 
 RESOURCE ID: route_submission_add_title
-TEXT: 도로 타이틀 정하기
+TEXT: 루트 타이틀 정하기
 
 RESOURCE ID: route_submission_bad_desc
-TEXT: Description contains prohibited content
+TEXT: 설명에 부적절한 내용이 포함되어 있습니다.
 
 RESOURCE ID: route_submission_bad_image
-TEXT: 사용할 수 없는 도로 이미지
+TEXT: 사용할 수 없는 루트 이미지
 
 RESOURCE ID: route_submission_bad_name
-TEXT: Title contains prohibited content
+TEXT: 타이틀에 부적절한 내용이 포함되어 있습니다.
 
 RESOURCE ID: route_submission_badge_creation_title
 TEXT: 메달 작성
@@ -65311,13 +67492,19 @@ RESOURCE ID: route_submission_badge_image_prompt
 TEXT: 배지에 달 이미지를 선택:
 
 RESOURCE ID: route_submission_choose_icon
-TEXT: Please choose an icon for the Route medal.
+TEXT: 이 루트 메달 아이콘을 선택해 주세요.
 
 RESOURCE ID: route_submission_color_tab_name
 TEXT: 색
 
 RESOURCE ID: route_submission_description
 TEXT: 설명
+
+RESOURCE ID: route_submission_edit_description
+TEXT: 심사 중 루트 편집을 하면 심사에 걸리는 시간이 길어질 수 있습니다.
+
+RESOURCE ID: route_submission_edit_title
+TEXT: 정말로 루트 편집을 진행하겠습니까?
 
 RESOURCE ID: route_submission_medal_creation_title
 TEXT: 배지 작성
@@ -65331,28 +67518,49 @@ TEXT: 설명을 입력하세요
 RESOURCE ID: route_submission_must_add_title
 TEXT: 타이틀을 입력하세요
 
-RESOURCE ID: route_submission_next_steps
-TEXT: The next step is naming and describing your route.
+RESOURCE ID: route_submission_name_placeholder
+TEXT: 루트 타이틀 정하기
 
-It might take a few minutes to write a relevant description, and help speed up the approval process. Don’t worry, your progress will be saved if you exit!
+RESOURCE ID: route_submission_next_steps
+TEXT: 다음 순서는 당신의 루트 타이틀과 설명을 작성하는 것입니다.
+
+설명 작성에 몇 분 소요될 수 있으나 승인 절차를 신속하게 하기 위해서는 필요합니다. 설명 입력은 중단해도 이 때까지 입력한 내용은 저장됩니다.
+
+RESOURCE ID: route_submission_path
+TEXT: 경로
 
 RESOURCE ID: route_submission_photo_tab_name
 TEXT: 사진
+
+RESOURCE ID: route_submission_preview_title
+TEXT: 심사 프리뷰
 
 RESOURCE ID: route_submission_resubmit_no_change_error
 TEXT: 이 루트를 다시 제출하기 위해서는 타이틀, 설명을 변경해 주세요.
 
 RESOURCE ID: route_submission_result_invalid_route
-TEXT: 도로 제출 에어, 잠시 후 시도해 주십시오.
+TEXT: 루트 제출 오류, 잠시 후 시도해 주십시오.
 
 RESOURCE ID: route_submission_result_matches_rejection
-TEXT: 반려된 루트와 동일합니다.
+TEXT: 거절된 루트와 동일합니다.
+
+RESOURCE ID: route_submission_result_publish_description
+TEXT: 루트 작성에 협력해 주셔서 감사합니다!
+
+RESOURCE ID: route_submission_result_publish_title
+TEXT: 당신의 루트가 발표되었습니다!
 
 RESOURCE ID: route_submission_result_reject_description
-TEXT: 루트 타이틀, 설명에 부적절한 문구 또는 링크가 있어 반려되었습니다. 이 루트를 편집해서 다시 제출할 수 없습니다.
+TEXT: 루트 타이틀, 설명에 부적절한 문구 또는 링크가 있어 거절되었습니다. 이 루트를 편집해서 다시 제출할 수 없습니다.
+
+RESOURCE ID: route_submission_result_reject_reasons_primary
+TEXT: 다음 이유로 거절되어습니다.
+
+RESOURCE ID: route_submission_result_reject_reasons_secondary
+TEXT: 이 루트는 편집해서 다시 제출할 수 있습니다.
 
 RESOURCE ID: route_submission_result_reject_title
-TEXT: 제출하신 루트는 반려되었습니다.
+TEXT: 제출하신 루트는 거절되었습니다.
 
 RESOURCE ID: route_submission_result_success_description
 TEXT: 루트 상세 화면에서 언제든지 확인할 수 있습니다. 승인 내용은 메일로 안내드립니다.
@@ -65361,19 +67569,19 @@ RESOURCE ID: route_submission_result_success_title
 TEXT: 루트를 제출했습니다!
 
 RESOURCE ID: route_submission_result_too_many_recent
-TEXT: You're submitting too many Routes! Wait for a bit
+TEXT: 제출한 루트 수가 너무 많습니다. 잠시 후 다시 시도해 주십시오.
 
 RESOURCE ID: route_submission_result_unavailiable
-TEXT: Route submission unavailable. Try again later.
+TEXT: 루트를 제출할 수 없습니다. 잠시 후 시도해 주십시오.
 
 RESOURCE ID: route_submission_result_unknown_error
-TEXT: Unknown error in submission process. Try again later.
+TEXT: 제출 에러. 잠시 후 다시 시도해 주십시오.
 
 RESOURCE ID: route_submission_result_unvisited_fort
-TEXT: Please visit all stops along the Route
+TEXT: 루트상 모든 포켓스톱 또는 체육관을 방문해 주세요.
 
 RESOURCE ID: route_submission_reversible
-TEXT: Can this Route be traversed in reverse?
+TEXT: 이 루트는 순서대로 걸을 수 있나요?
 
 RESOURCE ID: route_submission_review_adjust
 TEXT: 조정한다
@@ -65387,11 +67595,14 @@ TEXT: 현재 경로를 유지
 RESOURCE ID: route_submission_review_title
 TEXT: 경로 확인
 
+RESOURCE ID: route_submission_second_page_title
+TEXT: 루트 설명
+
 RESOURCE ID: route_submission_select_color_prompt
 TEXT: 배지에 달 헤더 색을 선택:
 
 RESOURCE ID: route_submission_show_name
-TEXT: 트레이너 명을 루트 상세에 모아 다른 트레이너가 볼 수 있게 하겠습니까?
+TEXT: 트레이너 명을 루트 상세에 포함해 다른 트레이너가 볼 수 있게 하겠습니까?
 
 RESOURCE ID: route_submission_start_title
 TEXT: 루트 상세
@@ -65417,8 +67628,11 @@ TEXT: 나중에 작성
 RESOURCE ID: route_submission_write_now
 TEXT: 지금 작성
 
+RESOURCE ID: route_submit_label
+TEXT: 보내기
+
 RESOURCE ID: route_submitted_confirmation_description
-TEXT: 도로를 제출했습니다. 도로 메이커 화면에 심사 결과가 표시됩니다.
+TEXT: 루트를 제출했습니다. 루트 메이커 화면에 심사 결과가 표시됩니다.
 
 RESOURCE ID: route_submitted_confirmation_title
 TEXT: 제출 완료!
@@ -65489,14 +67703,47 @@ TEXT: 태그
 RESOURCE ID: route_times_label
 TEXT: {0} times
 
+RESOURCE ID: route_total_activity_label
+TEXT: 활동
+
+RESOURCE ID: route_total_community_activity_label
+TEXT: 커뮤니티 활동
+
+RESOURCE ID: route_total_plays_label
+TEXT: 총 플레이 수
+
+RESOURCE ID: route_travel_reverse_button
+TEXT: 반대로 한다
+
 RESOURCE ID: route_under_review_description
 TEXT: 조사 중 루트
 
+RESOURCE ID: route_under_review_withdraw_confirm_description
+TEXT: This action cannot be undone. This Route will return to an in-progress state if you proceed. You can edit and resubmit this Route for review later.
+
+RESOURCE ID: route_under_review_withdraw_confirm_title
+TEXT: Are you sure you want to withdraw this Route from review?
+
+RESOURCE ID: route_under_review_withdraw_fail_description
+TEXT: You have another Route in progress, so you cannot withdraw this Route from submission at this time. Please complete your current Route and return to this page to try again.
+
+RESOURCE ID: route_under_review_withdraw_fail_title
+TEXT: Unable to withdraw this Route from review
+
+RESOURCE ID: route_under_review_withdraw_success_description
+TEXT: This Route has returned to an in-progress state. You can now edit and submit this Route again via the Routes section of your Trainer profile.
+
+RESOURCE ID: route_under_review_withdraw_success_title
+TEXT: This Route was successfully withdrawn from review
+
+RESOURCE ID: route_unsubmit_label
+TEXT: 제출 취소
+
 RESOURCE ID: route_validation_celebration
-TEXT: 도로를 검증했습니다! 만든 도로의 정보를 추가해 주세요.
+TEXT: 루트를 검증했습니다! 만든 루트의 정보를 추가해 주세요.
 
 RESOURCE ID: route_validation_description
-TEXT: Please address these issues before submitting the Route.
+TEXT: 이 문제를 해결 후 제출해 주십시오.
 
 RESOURCE ID: route_validation_description_length
 TEXT: Route description cannot exceed {0} characters.
@@ -65526,7 +67773,7 @@ RESOURCE ID: route_validation_max_length
 TEXT: Route cannot be longer than {0} meters.
 
 RESOURCE ID: route_validation_max_poi
-TEXT: Route cannot have more than {0} Pokéstops/Gyms.
+TEXT: 루트에는 {0}보다 많은 포켓스톱 또는 체육관을 포함할 수 없습니다.
 
 RESOURCE ID: route_validation_min_distance_checkpoint
 TEXT: Checkpoint #{0} must be at least {1} meters away.
@@ -65535,19 +67782,19 @@ RESOURCE ID: route_validation_min_distance_poi
 TEXT: Distance between Waypoints #{0} and #{1} must exceed {2} meters.
 
 RESOURCE ID: route_validation_min_length
-TEXT: Route cannot be shorter than {0} meters.
+TEXT: {0}m보다 짧은 루트는 만들 수 없습니다.
 
 RESOURCE ID: route_validation_min_poi
-TEXT: Route must have at least {0} Pokéstops/Gyms.
+TEXT: 루트에는 적어도 포켓스톱 또는 체육관이 {0}개 있어야합니다.
 
 RESOURCE ID: route_validation_poi_not_verified
 TEXT: Route Waypoint #{0} needs to be verified by spinning it.
 
 RESOURCE ID: route_validation_pois_not_loaded
-TEXT: Too far away from route stops to validate
+TEXT: 이 루트에서 너무 멀어 검증할 수 없습니다.
 
 RESOURCE ID: route_validation_title
-TEXT: 도로 검증
+TEXT: 루트 검증
 
 RESOURCE ID: route_validation_title_length
 TEXT: Route title cannot exceed {0} characters.
@@ -65556,34 +67803,37 @@ RESOURCE ID: route_view_stamp_button
 TEXT: About this Route:
 
 RESOURCE ID: route_waiting_for_data
-TEXT: Waiting for data to be loaded
+TEXT: 데이터 로딩 중
 
 RESOURCE ID: route_walk_button
-TEXT: WALK
+TEXT: 걷기
 
 RESOURCE ID: route_walking_all_waypoints_verified
-TEXT: Great job! You've spun all the Waypoints on your Route!
+TEXT: 루트상의 모든 스톱을 돌았습니다!
 
 RESOURCE ID: route_walking_context_page
-TEXT: Walk and spin each pokestop
+TEXT: 각 포켓스톱 또는 체육관을 방문하여 포토디스크를 돌린다
 
 RESOURCE ID: route_walking_context_title
-TEXT: Walking your Route
+TEXT: 루트를 걷는다
 
 RESOURCE ID: route_walking_first_poi_spin
 TEXT: This is the Starting Point that you selected. Please spin the disk to confirm it.
+
+RESOURCE ID: route_walking_follow_path
+TEXT: 경로를 따라 끝나는 지점까지 걸어주세요.
 
 RESOURCE ID: route_walking_head_to_start
 TEXT: 시작 지점에서 루트를 시작해 주세요.
 
 RESOURCE ID: route_walking_head_to_waypoint
-TEXT: Please go to Waypoint #{0}: {1} and spin the ring.
+TEXT: #{0}번 스톱의 {1}행 디스크를 돌려주세요.
 
 RESOURCE ID: route_walking_poi_spin
 TEXT: This is Waypoint #{0}: {1}. Please spin the disk to confirm it.
 
 RESOURCE ID: route_walking_poi_verified
-TEXT: Route Pokéstop/Gym has been verified.
+TEXT: 루트의 포켓스톱 또는 체육관은 검증되었습니다.
 
 RESOURCE ID: route_weekly_community_activity_label
 TEXT: 이번 주 커뮤니티 활동
@@ -65595,15 +67845,15 @@ RESOURCE ID: route_your_plays_label
 TEXT: 내가 플레이한 수
 
 RESOURCE ID: route_zero_route_maker_desc
-TEXT: You don’t have Route maker.
+TEXT: 루트 메이커를 가지고 있지 않습니다.
 
- You can get a new Route maker for creating new routes
+신규 루트를 만들려면 루트 메이커가 필요합니다.
 
 RESOURCE ID: routemaker_description
-TEXT: A device that lets you create Routes. You can have up to 5 active at a time.
+TEXT: 루트를 만들 수 있는 장치. 한번에 5개까지 지닐 수 있다.
 
 RESOURCE ID: routemaker_title
-TEXT: 도로 메이커
+TEXT: 루트 메이커
 
 RESOURCE ID: routes_begin_creation_button
 TEXT: 확정 후 다음으로
@@ -65615,7 +67865,7 @@ RESOURCE ID: routes_confirm_new_endpoint_button
 TEXT: 확정 후 재개
 
 RESOURCE ID: routes_current_end_point_warning
-TEXT: 이지 종점으로 설정했습니다.
+TEXT: 이미 끝나는 지점으로 설정했습니다.
 
 RESOURCE ID: routes_current_path_length
 TEXT: 현재 루트 거리: 
@@ -65627,7 +67877,7 @@ RESOURCE ID: routes_end_at
 TEXT: 끝:
 
 RESOURCE ID: routes_general
-TEXT: 도로 메이커
+TEXT: 루트 메이커
 
 RESOURCE ID: routes_no_endpoint_selection_made
 TEXT: 미설정
@@ -65645,10 +67895,10 @@ RESOURCE ID: routes_path_length_min
 TEXT: (최단: {0}km)
 
 RESOURCE ID: routes_remove_end_point
-TEXT: 종점의 삭제
+TEXT: 끝나는 지점의 삭제
 
 RESOURCE ID: routes_remove_end_point_toast
-TEXT: 종점을 설정해 주세요.
+TEXT: 끝나는 지점을 설정해 주세요.
 
 RESOURCE ID: routes_remove_start_point
 TEXT: 시작 지점의 삭제
@@ -65660,16 +67910,16 @@ RESOURCE ID: routes_select_later
 TEXT: 나중에 선택한다
 
 RESOURCE ID: routes_set_end_point
-TEXT: 종점으로 설정
+TEXT: 끝나는 지점으로 설정
 
 RESOURCE ID: routes_set_end_point_toast
-TEXT: 종점으로 설정했습니다!
+TEXT: 끝나는 지점으로 설정했습니다!
 
 RESOURCE ID: routes_set_new_end_point
-TEXT: 새로운 종점으로 설정
+TEXT: 새로운 끝나는 지점으로 설정
 
 RESOURCE ID: routes_set_new_end_point_toast
-TEXT: 종점 설정을 다시 했습니다!
+TEXT: 끝나는 지점 설정을 다시 했습니다!
 
 RESOURCE ID: routes_set_new_start_point
 TEXT: 새로운 시작 지점으로 설정
@@ -66874,7 +69124,7 @@ RESOURCE ID: settings_wearables_auto_spin_pbp
 TEXT: 포켓스톱 오토스핀을 켠다
 
 RESOURCE ID: settings_wearables_auto_spin_pbp_description
-TEXT: 「포켓몬스터 레츠고! 피카츄・레츠고! 이브이」에서 포켓몬을 데려와 몬스터볼Plus에 넣으면 오토스핀이 켜집니다. 오토스핀이 켜지는 동안은 버튼을 눌러 포켓스톱을 회전할 수 없습니다.
+TEXT: 「포켓몬스터 레츠고! 피카츄・레츠고! 이브이」 또는 「포켓몬스터소드・실드」에서 포켓몬을 데려와 몬스터볼Plus에 넣으면 오토스핀이 켜집니다. 오토스핀이 켜진 동안은 버튼을 눌러 포켓스톱을 회전할 수 없습니다.
 
 RESOURCE ID: settings_wearables_auto_throw
 TEXT: 자동 던지기를 켠다
@@ -67625,14 +69875,20 @@ TEXT: 허용하지 않는 경우 Pokémon GO Plus +내에 8개까지의 수면 �
 RESOURCE ID: sleep_tips_1_title
 TEXT: 수면에 따라 리워드를 받는다
 
+RESOURCE ID: sleep_tips_2_description_0
+TEXT: 몸에서 멀리 떨어지면 수면 계측을 올바르게 할 수 없습니다.
+
 RESOURCE ID: sleep_tips_2_description_1
-TEXT: 수면 세션을 시작하려면 본체 메인 버튼에서 파랑색 불이 들어올때까지 계속 누릅니다.
+TEXT: 수면 세션을 시작하려면, 본체 메인 버튼이 1번만 파랑 불이 들어올때까지 계속 누릅니다.
 
 RESOURCE ID: sleep_tips_2_description_2
 TEXT: 수면 세션을 종료하려면 본체 메인 버튼을 무지개색이 될때까지 계속 누르세요.
 
 RESOURCE ID: sleep_tips_2_description_3
 TEXT: 수면 데이터 기록 후, Pokémon GO에 로그인하고 Pokémon GO Plus +와 접속하면 데이터를 송신합니다.
+
+RESOURCE ID: sleep_tips_2_text_0
+TEXT: Pokémon GO Plus +는 당신의 실제 잔 시간을 계측합니다. 올바르게 계측하기 위해서는 침대 머리맡에 Pokémon GO Plus +를 놔둡니다.
 
 RESOURCE ID: sleep_tips_2_text_1
 TEXT: 취짐전에 수면 세션을 시작합니다.
@@ -67913,6 +70169,9 @@ TEXT: 수댕이가 평소보다 많이 야생에서 출현
 
 RESOURCE ID: spawn_pidgey
 TEXT: 구구가 야생에서 많이 출현!
+
+RESOURCE ID: spawn_poliwag
+TEXT: 발챙이가 야생에서 많이 출현!
 
 RESOURCE ID: spawn_porygon
 TEXT: 폴리곤이 더 많이 야생에서 출현
@@ -68880,6 +71139,162 @@ TEXT: Pokémon GO Fest: Seattle(공원)(4/5)
 RESOURCE ID: sr_gofest2022_leseap_5
 TEXT: Pokémon GO Fest: Seattle(공원)(5/5)
 
+RESOURCE ID: sr_gofest2023_global_day1
+TEXT: GO Fest 2023: 보석의 빛남
+
+RESOURCE ID: sr_gofest2023_global_day1_1
+TEXT: GO Fest 2023: 보석의 빛남 (1/6)
+
+RESOURCE ID: sr_gofest2023_global_day1_2
+TEXT: GO Fest 2023: 보석의 빛남 (2/6)
+
+RESOURCE ID: sr_gofest2023_global_day1_3
+TEXT: GO Fest 2023: 보석의 빛남 (3/6)
+
+RESOURCE ID: sr_gofest2023_global_day1_4
+TEXT: GO Fest 2023: 보석의 빛남 (4/6)
+
+RESOURCE ID: sr_gofest2023_global_day1_5
+TEXT: GO Fest 2023: 보석의 빛남 (5/6)
+
+RESOURCE ID: sr_gofest2023_global_day1_6
+TEXT: GO Fest 2023: 보석의 빛남 (6/6)
+
+RESOURCE ID: sr_gofest2023_global_day2_extended
+TEXT: GO Fest 2023: 아득한 천공의 생물
+
+RESOURCE ID: sr_gofest2023_global_day2_extended_1
+TEXT: GO Fest 2023: 아득한 천공의 생물(1/5)
+
+RESOURCE ID: sr_gofest2023_global_day2_extended_2
+TEXT: GO Fest 2023: 아득한 천공의 생물(2/5)
+
+RESOURCE ID: sr_gofest2023_global_day2_extended_3
+TEXT: GO Fest 2023: 아득한 천공의 생물(3/5)
+
+RESOURCE ID: sr_gofest2023_global_day2_extended_4
+TEXT: GO Fest 2023: 아득한 천공의 생물(4/5)
+
+RESOURCE ID: sr_gofest2023_global_day2_extended_5
+TEXT: GO Fest 2023: 아득한 천공의 생물(5/5)
+
+RESOURCE ID: sr_gofest2023_global_day2_intro
+TEXT: GO Fest 2023: 하늘의 생물
+
+RESOURCE ID: sr_gofest2023_global_day2_intro_1
+TEXT: GO Fest 2023: 하늘의 생물 (1/2)
+
+RESOURCE ID: sr_gofest2023_global_day2_intro_2
+TEXT: GO Fest 2023: 하늘의 생물 (2/2)
+
+RESOURCE ID: sr_gofest2023_london_city
+TEXT: GO Fest 2023: 런던 도시 풍경
+
+RESOURCE ID: sr_gofest2023_london_city_1
+TEXT: GO Fest 2023: 런던 도시 풍경(1/5)
+
+RESOURCE ID: sr_gofest2023_london_city_2
+TEXT: GO Fest 2023: 런던 도시 풍경(2/5)
+
+RESOURCE ID: sr_gofest2023_london_city_3
+TEXT: GO Fest 2023: 런던 도시 풍경(3/5)
+
+RESOURCE ID: sr_gofest2023_london_city_4
+TEXT: GO Fest 2023: 런던 도시 풍경(4/5)
+
+RESOURCE ID: sr_gofest2023_london_city_5
+TEXT: GO Fest 2023: 런던 도시 풍경(5/5)
+
+RESOURCE ID: sr_gofest2023_london_park
+TEXT: GO Fest 2023: 런던 공원 탐색
+
+RESOURCE ID: sr_gofest2023_london_park_1
+TEXT: GO Fest 2023: 런던 공원 탐색(1/5)
+
+RESOURCE ID: sr_gofest2023_london_park_2
+TEXT: GO Fest 2023: 런던 공원 탐색(2/5)
+
+RESOURCE ID: sr_gofest2023_london_park_3
+TEXT: GO Fest 2023: 런던 공원 탐색(3/5)
+
+RESOURCE ID: sr_gofest2023_london_park_4
+TEXT: GO Fest 2023: 런던 공원 탐색(4/5)
+
+RESOURCE ID: sr_gofest2023_london_park_5
+TEXT: GO Fest 2023: 런던 공원 탐색(5/5)
+
+RESOURCE ID: sr_gofest2023_newyork_city
+TEXT: GO Fest 2023: 뉴욕 도시 풍경
+
+RESOURCE ID: sr_gofest2023_newyork_city_1
+TEXT: GO Fest 2023: 뉴욕 도시 풍경(1/5)
+
+RESOURCE ID: sr_gofest2023_newyork_city_2
+TEXT: GO Fest 2023: 뉴욕 도시 풍경(2/5)
+
+RESOURCE ID: sr_gofest2023_newyork_city_3
+TEXT: GO Fest 2023: 뉴욕 도시 풍경(3/5)
+
+RESOURCE ID: sr_gofest2023_newyork_city_4
+TEXT: GO Fest 2023: 뉴욕 도시 풍경(4/5)
+
+RESOURCE ID: sr_gofest2023_newyork_city_5
+TEXT: GO Fest 2023: 뉴욕 도시 풍경(5/5)
+
+RESOURCE ID: sr_gofest2023_newyork_park
+TEXT: GO Fest 2023: 뉴욕 공원 탐색
+
+RESOURCE ID: sr_gofest2023_newyork_park_1
+TEXT: GO Fest 2023: 뉴욕 공원 탐색(1/5)
+
+RESOURCE ID: sr_gofest2023_newyork_park_2
+TEXT: GO Fest 2023: 뉴욕 공원 탐색(2/5)
+
+RESOURCE ID: sr_gofest2023_newyork_park_3
+TEXT: GO Fest 2023: 뉴욕 공원 탐색(3/5)
+
+RESOURCE ID: sr_gofest2023_newyork_park_4
+TEXT: GO Fest 2023: 뉴욕 공원 탐색(4/5)
+
+RESOURCE ID: sr_gofest2023_newyork_park_5
+TEXT: GO Fest 2023: 뉴욕 공원 탐색(5/5)
+
+RESOURCE ID: sr_gofest2023_osaka_city
+TEXT: GO Fest 2023: 오사카 도시 풍경
+
+RESOURCE ID: sr_gofest2023_osaka_city_1
+TEXT: GO Fest 2023: 오사카 도시 풍경(1/5)
+
+RESOURCE ID: sr_gofest2023_osaka_city_2
+TEXT: GO Fest 2023: 오사카 도시 풍경(2/5)
+
+RESOURCE ID: sr_gofest2023_osaka_city_3
+TEXT: GO Fest 2023: 오사카 도시 풍경(3/5)
+
+RESOURCE ID: sr_gofest2023_osaka_city_4
+TEXT: GO Fest 2023: 오사카 도시 풍경(4/5)
+
+RESOURCE ID: sr_gofest2023_osaka_city_5
+TEXT: GO Fest 2023: 오사카 도시 풍경(5/5)
+
+RESOURCE ID: sr_gofest2023_osaka_park
+TEXT: GO Fest 2023: 오사카 공원 탐색
+
+RESOURCE ID: sr_gofest2023_osaka_park_1
+TEXT: GO Fest 2023: 오사카 공원 탐색(1/5)
+
+RESOURCE ID: sr_gofest2023_osaka_park_2
+TEXT: GO Fest 2023: 오사카 공원 탐색(2/5)
+
+RESOURCE ID: sr_gofest2023_osaka_park_3
+TEXT: GO Fest 2023: 오사카 공원 탐색(3/5)
+
+RESOURCE ID: sr_gofest2023_osaka_park_4
+TEXT: GO Fest 2023: 오사카 공원 탐색(4/5)
+
+RESOURCE ID: sr_gofest2023_osaka_park_5
+TEXT: GO Fest 2023: 오사카 공원 탐색(5/5)
+
 RESOURCE ID: sr_gotour2022_1
 TEXT: Pokémon GO Tour: 성도지방(1/9)
 
@@ -69170,6 +71585,9 @@ TEXT:
 
 RESOURCE ID: sticker_alolaishi_4.3_description
 TEXT: 
+
+RESOURCE ID: sticker_box
+TEXT: 스티커 박스
 
 RESOURCE ID: sticker_default_desc
 TEXT: 스티커는 보상에 포함되는 경우가 있습니다.
@@ -70261,6 +72679,9 @@ TEXT: 제너레이션 도전2020: 신오
 RESOURCE ID: ticket_abra
 TEXT: 초능력포켓몬의 수수께끼를 풀어라! 티켓이 숍에 등장
 
+RESOURCE ID: ticket_active_location_reminder
+TEXT: 티켓이 활성화 되었습니다!
+
 RESOURCE ID: ticket_alodude
 TEXT: 암석포켓몬의 수수께끼'를 풀어라!' 티켓이 숍에 등장!
 
@@ -70352,6 +72773,9 @@ TEXT: '음파포켓몬의 수수께끼를 풀어라!' 티켓이 숍에 등장
 
 RESOURCE ID: ticket_oshawott
 TEXT: 해달포켓몬의 수수께끼를 풀어라! 티켓이 숍에 등장
+
+RESOURCE ID: ticket_poliwag
+TEXT: 올챙이포켓몬의 수수께끼를 풀어라!' 티켓이 숍에 등장
 
 RESOURCE ID: ticket_porygon
 TEXT: 가상포켓몬의 수수께끼를 풀어라! 티켓이 숍에 등장
@@ -70491,6 +72915,33 @@ TEXT: 전 세계 트레이너가 하나 되어 완료를 목표로 하는 챌린
 
 RESOURCE ID: timed_challenge_work_together_regional_backup
 TEXT: 지역 트레이너가 하나가 되어 완료를 목표로 하는 챌린지입니다!
+
+RESOURCE ID: timed_quest_adventure_adv23_branch_0
+TEXT: (헉... 헉...) 달려서 돌아다니기엔 거리가 꽤 되는군....
+
+RESOURCE ID: timed_quest_adventure_adv23_branch_1
+TEXT: 오늘은 2종류의 모험을 준비했어. 너는 달리지 말고 천천히 가봐!
+
+RESOURCE ID: timed_quest_adventure_adv23_branch_1_button_key
+TEXT: 관광 어드벤처
+
+RESOURCE ID: timed_quest_adventure_adv23_branch_1_description_key
+TEXT: 포켓몬을 많이 잡거나 알을 부화하면서 모험합니다.
+
+RESOURCE ID: timed_quest_adventure_adv23_branch_1_title_key
+TEXT: 관광 어드벤처
+
+RESOURCE ID: timed_quest_adventure_adv23_branch_2
+TEXT: 만나는 포켓몬을 계속 잡거나 잡고 싶은 포켓몬을 찾아 다니거나 한쪽을 선택하고 출발!
+
+RESOURCE ID: timed_quest_adventure_adv23_branch_2_button_key
+TEXT: 학습 어드벤처
+
+RESOURCE ID: timed_quest_adventure_adv23_branch_2_description_key
+TEXT: 특정 포켓몬을 잡거나 필드리서치를 진행하면 모험합니다.
+
+RESOURCE ID: timed_quest_adventure_adv23_branch_2_title_key
+TEXT: 학습 어드벤처
 
 RESOURCE ID: timed_research
 TEXT: 시간제한 리서치 있음
@@ -71087,6 +73538,9 @@ TEXT: 포켓스톱 스캔
 RESOURCE ID: titan_upload_wifi_recommended
 TEXT: Wi-Fi 사용 권장
 
+RESOURCE ID: title_hatch_day_riolu
+TEXT: 리오르 부화데이
+
 RESOURCE ID: title_raid_has_ended
 TEXT: 이 레이드배틀은 종료했습니다
 
@@ -71263,6 +73717,9 @@ TEXT: 시간제한 리서치: 원석
 
 RESOURCE ID: tr_gofest2023_earlybird2
 TEXT: 시간제한 리서치: 광선
+
+RESOURCE ID: tr_gofest2023_live_routes_1
+TEXT: GO Fest 2023: 보물찾기
 
 RESOURCE ID: tr_latias_photo_safari
 TEXT: 사파이어: 라티아스 포토 사파리
@@ -71803,6 +74260,45 @@ TEXT: 너는 더 위를 도전할 수 있어. 그러기 위해서는 경험을 �
 
 RESOURCE ID: tutorial_level_40_plus_intro
 TEXT: 여기까지 잘 해냈어!
+
+RESOURCE ID: tutorial_route_bonus_0
+TEXT: 파트너 포켓몬이 사탕을 더 빨리 입수
+
+RESOURCE ID: tutorial_route_bonus_1
+TEXT: 새로운 루트에서 향로에 반응하는 포켓몬 증가
+
+RESOURCE ID: tutorial_route_bonus_2
+TEXT: 독특한 포켓몬 출현
+
+RESOURCE ID: tutorial_route_play_body_0
+TEXT: 루트를 걷고 리워드를 받자!
+플레이 방법:
+1.리스트 또는 맵에서 루트를 선택
+2.시작 지점에 간다
+3.경로를 따라 끝나는 지점까지 걸어간다
+
+RESOURCE ID: tutorial_route_play_body_1
+TEXT: 루트 경로에서 {0}m이내 있으면 보너스를 받을 수 있습니다.
+
+RESOURCE ID: tutorial_route_play_body_2
+TEXT: •루트 첫 번째 완료로 새로운 루트 배지를 받을 수 있습니다.
+•여러 번 걸으면 배지가 진행되어 그 루트에서 받을 수 있는 리워드가 늘어납니다.
+
+RESOURCE ID: tutorial_route_play_body_3
+TEXT: 1. 루트 경로에서 벗어나지 않고 걸어 기록합니다.
+2.루트 전체 길이와 같은 거리를 걸어 루트를 완료합니다
+
+RESOURCE ID: tutorial_route_play_title_0
+TEXT: 루트 플레이 방법
+
+RESOURCE ID: tutorial_route_play_title_1
+TEXT: 보너스
+
+RESOURCE ID: tutorial_route_play_title_2
+TEXT: 리워드
+
+RESOURCE ID: tutorial_route_play_title_3
+TEXT: 규칙
 
 RESOURCE ID: tutorial_vivillon_postcard_body_0
 TEXT: 특정 지역의 엽서를 여러 장 저장하면 포켓몬을 만날 수 있습니다.
@@ -72874,6 +75370,9 @@ TEXT:  포켓몬 월드챔피언십2022 런던 - Pokémon GO
 
 RESOURCE ID: wcs_2022_title
 TEXT: 포켓몬 월드챔피언십2022
+
+RESOURCE ID: wcs_aug23_header_0
+TEXT: 2023 Pokémon World Championships
 
 RESOURCE ID: wcs_battle_tr_description
 TEXT: WCS2022 보너스 시간제한 리서치

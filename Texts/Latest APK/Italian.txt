@@ -643,7 +643,7 @@ RESOURCE ID: adventure_sync_enable_modal_failure_title
 TEXT: Sincroavventura non attivata
 
 RESOURCE ID: adventure_sync_enable_modal_message
-TEXT: Trova nuovi Pokémon e fai schiudere Uova anche quando il gioco non è aperto!
+TEXT: Trova nuovi Pokémon, fai schiudere Uova e registra percorsi anche quando il gioco non è aperto!
 
 RESOURCE ID: adventure_sync_enable_modal_success_message
 TEXT: Fatto! Consulta il tuo profilo Allenatore per controllare i tuoi progressi.
@@ -666,11 +666,29 @@ TEXT: Abilita la Sincroavventura nelle impostazioni per ricevere più ricompense
 RESOURCE ID: adventure_week_event_name
 TEXT: Settimana dellʼavventura
 
+RESOURCE ID: adventure_week_event_title
+TEXT: Avventure in ogni dove
+
 RESOURCE ID: adventure_week_explore_timed_research
 TEXT: Settimana dell’avventura: sfida di avventura
 
+RESOURCE ID: adventure_week_p_tr_1
+TEXT: Ricerca a tempo della settimana dell’avventura
+
 RESOURCE ID: adventure_week_research_day_ultra_unlock_event_name
 TEXT: Sblocco dell’ultrabonus: giornata di ricerca
+
+RESOURCE ID: adventure_week_tr_1
+TEXT: Avventure in ogni dove (1/4)
+
+RESOURCE ID: adventure_week_tr_2
+TEXT: Avventure in ogni dove (2/4)
+
+RESOURCE ID: adventure_week_tr_3
+TEXT: Avventure in ogni dove (3/4)
+
+RESOURCE ID: adventure_week_tr_4
+TEXT: Avventure in ogni dove (4/4)
 
 RESOURCE ID: adventure_week_ultra_unlock_event_name
 TEXT: Sblocco dell’ultrabonus: settimana dell’avventura
@@ -769,25 +787,25 @@ RESOURCE ID: anniversary_2022_timed_research_5
 TEXT: Ricerca dedicata all’anniversario di Pokémon GO (6/6)
 
 RESOURCE ID: anniversary_2023_event_day1
-TEXT: Festa del 7° anniversario: prima giornata
+TEXT: Festa del 7° anniversario: 1ª giornata
 
 RESOURCE ID: anniversary_2023_event_day2
-TEXT: Festa del 7° anniversario: seconda giornata
+TEXT: Festa del 7° anniversario: 2ª giornata
 
 RESOURCE ID: anniversary_2023_event_day3
-TEXT: Festa del 7° anniversario: terza giornata
+TEXT: Festa del 7° anniversario: 3ª giornata
 
 RESOURCE ID: anniversary_2023_event_day4
-TEXT: Festa del 7° anniversario: quarta giornata
+TEXT: Festa del 7° anniversario: 4ª giornata
 
 RESOURCE ID: anniversary_2023_event_day5
-TEXT: Festa del 7° anniversario: quinta giornata
+TEXT: Festa del 7° anniversario: 5ª giornata
 
 RESOURCE ID: anniversary_2023_event_day6
-TEXT: Festa del 7° anniversario: sesta giornata
+TEXT: Festa del 7° anniversario: 6ª giornata
 
 RESOURCE ID: anniversary_2023_event_day7
-TEXT: Festa del 7° anniversario: settima giornata
+TEXT: Festa del 7° anniversario: 7ª giornata
 
 RESOURCE ID: anniversary_2023_event_title
 TEXT: Festa del 7° anniversario
@@ -1602,6 +1620,9 @@ TEXT: Prova con un altro account
 RESOURCE ID: authentication_failed_try_again
 TEXT: Riprova
 
+RESOURCE ID: authentication_retry_account_hint
+TEXT: In passato hai usato il seguente account per accedere a Pokémon GO:
+
 RESOURCE ID: authentication_retry_prompt
 TEXT: Accesso non riuscito.
 
@@ -2045,7 +2066,7 @@ stile Spark
 
 RESOURCE ID: avatar_f_hat_6thanniversary_00_bundle_icon
 TEXT: Cappello torta
-6° anniversario
+6° anniversario
 
 
 RESOURCE ID: avatar_f_hat_acetrainersm_0_bundle_icon
@@ -2104,6 +2125,10 @@ TEXT: paraorecchie Delibird
 
 RESOURCE ID: avatar_f_hat_detectivepikachu_0_bundle_icon
 TEXT: cappello Detective Pikachu
+
+RESOURCE ID: avatar_f_hat_diancie_00_bundle_icon
+TEXT: Cuffie
+Diancie
 
 RESOURCE ID: avatar_f_hat_dp_00_bundle_icon
 TEXT: Berretto
@@ -2238,6 +2263,10 @@ TEXT: Cappello Mareanie
 RESOURCE ID: avatar_f_hat_megalopunnyitems_00_bundle_icon
 TEXT: Orecchie MegaLopunny
 
+RESOURCE ID: avatar_f_hat_megarayquaza_00_bundle_icon
+TEXT: Elmetto
+MegaRayquaza
+
 RESOURCE ID: avatar_f_hat_meltan_0_bundle_icon
 TEXT: Berretto Meltan
 
@@ -2357,7 +2386,7 @@ RESOURCE ID: avatar_f_hat_slowpoketailshirts_00_bundle_icon
 TEXT: Cappello Slowpoke
 
 RESOURCE ID: avatar_f_hat_snorlaxnightcap_00_bundle_icon
-TEXT: papalina da notte
+TEXT: Papalina da notte
 Snorlax
 
 RESOURCE ID: avatar_f_hat_solgaleoitems_00_bundle_icon
@@ -2471,7 +2500,7 @@ TEXT: Collare con stella
 
 RESOURCE ID: avatar_f_pants_6thanniversary_00_bundle_icon
 TEXT: Pantaloni completo bianco
-6° anniversario
+6° anniversario
 
 
 RESOURCE ID: avatar_f_pants_7thanniversary_00_bundle_icon
@@ -2693,7 +2722,7 @@ Mondiali 2022
 
 RESOURCE ID: avatar_f_shirt_6thanniversary_00_bundle_icon
 TEXT: Giacca completo bianco
-6° anniversario
+6° anniversario
 
 
 RESOURCE ID: avatar_f_shirt_7thanniversary_00_bundle_icon
@@ -2777,6 +2806,9 @@ TEXT: Giacca jeans
 RESOURCE ID: avatar_f_shirt_detectivepikachu_0_bundle_icon
 TEXT: T-shirt Detective Pikachu
 
+RESOURCE ID: avatar_f_shirt_diancie_00_bundle_icon
+TEXT: T-shirt Diancie
+
 RESOURCE ID: avatar_f_shirt_divingsuit_00_bundle_icon
 TEXT: Completo da subacqueo
 
@@ -2841,6 +2873,12 @@ TEXT: Felpa Iridio
 RESOURCE ID: avatar_f_shirt_gofest2022_00_bundle_icon
 TEXT: T-shirt Festival di Pokémon GO 2022
 
+RESOURCE ID: avatar_f_shirt_gofest2023_00_bundle_icon
+TEXT: T-shirt
+Festival di
+Pokémon GO 2023
+(Nera)
+
 RESOURCE ID: avatar_f_shirt_gofest_2019_bundle_icon
 TEXT: T-shirt Festival di
 Pokémon GO 2019
@@ -2853,7 +2891,8 @@ RESOURCE ID: avatar_f_shirt_gofest_2021_0_bundle_icon
 TEXT: T-shirt Festival di Pokémon GO 2021
 
 RESOURCE ID: avatar_f_shirt_gofestglobal2023_00_bundle_icon
-TEXT: T-shirt Festival di Pokémon GO 2023
+TEXT: T-shirt Festival di
+Pokémon GO 2023
 
 RESOURCE ID: avatar_f_shirt_goteamrocketarlo_00_bundle_icon
 TEXT: Completo
@@ -2969,6 +3008,10 @@ stile Elisio
 
 RESOURCE ID: avatar_f_shirt_megalopunnyitems_00_bundle_icon
 TEXT: Completo MegaLopunny
+
+RESOURCE ID: avatar_f_shirt_megarayquaza_00_bundle_icon
+TEXT: Set
+MegaRayquaza
 
 RESOURCE ID: avatar_f_shirt_melmetaljacket_00_bundle_icon
 TEXT: Giubbotto Melmetal
@@ -3134,7 +3177,7 @@ RESOURCE ID: avatar_f_shirt_slowpoketailshirts_00_bundle_icon
 TEXT: T-shirt Slowpoke con coda
 
 RESOURCE ID: avatar_f_shirt_snorlaxonesie_00_bundle_icon
-TEXT: costume Snorlax
+TEXT: Costume Snorlax
 
 RESOURCE ID: avatar_f_shirt_spiritomb_0_bundle_icon
 TEXT: T-shirt Spiritomb
@@ -3333,6 +3376,28 @@ RESOURCE ID: avatar_f_shirt_wcs2022winnersitems_00_bundle_icon
 TEXT: Giacca Campione
 Mondiali 2022
 
+RESOURCE ID: avatar_f_shirt_wcs2023promotshirt_00_bundle_icon
+TEXT: T-shirt
+Mondiali 2023
+(Grigia)
+
+RESOURCE ID: avatar_f_shirt_wcs2023promotshirt_01_00_bundle_icon
+TEXT: T-shirt
+Mondiali 2023
+(Gialla)
+
+RESOURCE ID: avatar_f_shirt_wcs2023sukajan_00_bundle_icon
+TEXT: Giacca
+Mondiali 2023
+
+RESOURCE ID: avatar_f_shirt_wcs2023winnersitems_00_bundle_icon
+TEXT: Set campione
+dei Mondiali 2023
+
+RESOURCE ID: avatar_f_shirt_wcsyokohama_00_bundle_icon
+TEXT: Maglia sportiva
+Mondiali 2023
+
 RESOURCE ID: avatar_f_shirt_whitecoat_00_bundle_icon
 TEXT: giacca invernale
 
@@ -3363,7 +3428,7 @@ RESOURCE ID: avatar_f_shoes_bwn_00_bundle_icon
 TEXT: Scarpe stile N
 
 RESOURCE ID: avatar_f_shoes_carbink_00_bundle_icon
-TEXT: Carbink Shoes
+TEXT: Scarpe Carbink
 
 RESOURCE ID: avatar_f_shoes_clay_00_bundle_icon
 TEXT: Scarpe
@@ -3586,6 +3651,11 @@ RESOURCE ID: avatar_f_shoes_wcs2022winnersitems_00_bundle_icon
 TEXT: Scarpe Campione
 Mondiali 2022
 
+RESOURCE ID: avatar_f_shoes_wcs2023winnersitems_00_bundle_icon
+TEXT: Stivali
+campione dei
+Mondiali 2023
+
 RESOURCE ID: avatar_f_shoes_winterboots_00_bundle_icon
 TEXT: Scarponcini invernali 1
 
@@ -3785,8 +3855,7 @@ RESOURCE ID: avatar_m_backpack_togepibackpack_0_bundle_icon
 TEXT: Zaino Togepi
 
 RESOURCE ID: avatar_m_backpack_ultra_bundle_icon
-TEXT: Borsa
-Ultrasole
+TEXT: Borsa Ultrasole
 
 RESOURCE ID: avatar_m_backpack_verizon2021_00_bundle_icon
 TEXT: Zaino Verizon
@@ -4032,7 +4101,7 @@ stile Spark
 
 RESOURCE ID: avatar_m_hat_6thanniversary_00_bundle_icon
 TEXT: Cappello torta
-6° anniversario
+6° anniversario
 
 
 RESOURCE ID: avatar_m_hat_acetrainersm_0_bundle_icon
@@ -4087,6 +4156,10 @@ TEXT: paraorecchie Delibird
 
 RESOURCE ID: avatar_m_hat_detectivepikachu_0_bundle_icon
 TEXT: cappello Detective Pikachu
+
+RESOURCE ID: avatar_m_hat_diancie_00_bundle_icon
+TEXT: Cuffie
+Diancie
 
 RESOURCE ID: avatar_m_hat_dp_00_bundle_icon
 TEXT: Berretto
@@ -4224,6 +4297,10 @@ TEXT: Cappello Mareanie
 RESOURCE ID: avatar_m_hat_megalopunnyitems_00_bundle_icon
 TEXT: Orecchie MegaLopunny
 
+RESOURCE ID: avatar_m_hat_megarayquaza_00_bundle_icon
+TEXT: Elmetto
+MegaRayquaza
+
 RESOURCE ID: avatar_m_hat_meltan_0_bundle_icon
 TEXT: Berretto Meltan
 
@@ -4340,7 +4417,7 @@ RESOURCE ID: avatar_m_hat_slowpoketailshirts_00_bundle_icon
 TEXT: Cappello Slowpoke
 
 RESOURCE ID: avatar_m_hat_snorlaxnightcap_00_bundle_icon
-TEXT: papalina da notte
+TEXT: Papalina da notte
 Snorlax
 
 RESOURCE ID: avatar_m_hat_solgaleoitems_00_bundle_icon
@@ -4438,7 +4515,7 @@ TEXT: Cerchietto Zubat
 
 RESOURCE ID: avatar_m_pants_6thanniversary_00_bundle_icon
 TEXT: Pantaloni completo bianco
-6° anniversario
+6° anniversario
 
 
 RESOURCE ID: avatar_m_pants_7thanniversary_00_bundle_icon
@@ -4663,7 +4740,7 @@ Mondiali 2022
 
 RESOURCE ID: avatar_m_shirt_6thanniversary_00_bundle_icon
 TEXT: Giacca completo bianco
-6° anniversario
+6° anniversario
 
 
 RESOURCE ID: avatar_m_shirt_7thanniversary_00_bundle_icon
@@ -4755,6 +4832,9 @@ TEXT: Giacca jeans
 RESOURCE ID: avatar_m_shirt_detectivepikachu_0_bundle_icon
 TEXT: T-shirt Detective Pikachu
 
+RESOURCE ID: avatar_m_shirt_diancie_00_bundle_icon
+TEXT: T-shirt Diancie
+
 RESOURCE ID: avatar_m_shirt_divingsuit_00_bundle_icon
 TEXT: Completo da subacqueo
 
@@ -4821,6 +4901,12 @@ TEXT: Felpa Iridio
 
 RESOURCE ID: avatar_m_shirt_gofest2022_00_bundle_icon
 TEXT: T-shirt Festival di Pokémon GO 2022
+
+RESOURCE ID: avatar_m_shirt_gofest2023_00_bundle_icon
+TEXT: T-shirt
+Festival di
+Pokémon GO 2023
+(Nera)
 
 RESOURCE ID: avatar_m_shirt_gofest_2019_bundle_icon
 TEXT: T-shirt Festival di
@@ -4960,6 +5046,10 @@ stile Elisio
 
 RESOURCE ID: avatar_m_shirt_megalopunnyitems_00_bundle_icon
 TEXT: Completo MegaLopunny
+
+RESOURCE ID: avatar_m_shirt_megarayquaza_00_bundle_icon
+TEXT: Set
+MegaRayquaza
 
 RESOURCE ID: avatar_m_shirt_melmetaljacket_00_bundle_icon
 TEXT: Giubbotto Melmetal
@@ -5121,7 +5211,7 @@ RESOURCE ID: avatar_m_shirt_slowpoketailshirts_00_bundle_icon
 TEXT: T-shirt Slowpoke con coda
 
 RESOURCE ID: avatar_m_shirt_snorlaxonesie_00_bundle_icon
-TEXT: costume Snorlax
+TEXT: Costume Snorlax
 
 RESOURCE ID: avatar_m_shirt_spiritomb_0_bundle_icon
 TEXT: T-shirt Spiritomb
@@ -5314,6 +5404,28 @@ RESOURCE ID: avatar_m_shirt_wcs2022winnersitems_00_bundle_icon
 TEXT: Giacca Campione
 Mondiali 2022
 
+RESOURCE ID: avatar_m_shirt_wcs2023promotshirt_00_bundle_icon
+TEXT: T-shirt
+Mondiali 2023
+(Grigia)
+
+RESOURCE ID: avatar_m_shirt_wcs2023promotshirt_01_00_bundle_icon
+TEXT: T-shirt
+Mondiali 2023
+(Gialla)
+
+RESOURCE ID: avatar_m_shirt_wcs2023sukajan_00_bundle_icon
+TEXT: Giacca
+Mondiali 2023
+
+RESOURCE ID: avatar_m_shirt_wcs2023winnersitems_00_bundle_icon
+TEXT: Set campione
+dei Mondiali 2023
+
+RESOURCE ID: avatar_m_shirt_wcsyokohama_00_bundle_icon
+TEXT: Maglia sportiva
+Mondiali 2023
+
 RESOURCE ID: avatar_m_shirt_whitecoat_00_bundle_icon
 TEXT: Giacca invernale
 
@@ -5322,7 +5434,7 @@ TEXT: Costume Zorua
 
 RESOURCE ID: avatar_m_shoes_6thanniversary_00_bundle_icon
 TEXT: Scarpe eleganti
-6° anniversario
+6° anniversario
 
 
 RESOURCE ID: avatar_m_shoes_acetrainerbw_0_bundle_icon
@@ -5344,7 +5456,7 @@ RESOURCE ID: avatar_m_shoes_bwn_00_bundle_icon
 TEXT: Scarpe stile N
 
 RESOURCE ID: avatar_m_shoes_carbink_00_bundle_icon
-TEXT: Carbink Shoes
+TEXT: Scarpe Carbink
 
 RESOURCE ID: avatar_m_shoes_clay_00_bundle_icon
 TEXT: Scarpe
@@ -5570,6 +5682,11 @@ RESOURCE ID: avatar_m_shoes_wcs2022winnersitems_00_bundle_icon
 TEXT: Scarpe Campione
 Mondiali 2022
 
+RESOURCE ID: avatar_m_shoes_wcs2023winnersitems_00_bundle_icon
+TEXT: Stivali
+campione dei
+Mondiali 2023
+
 RESOURCE ID: avatar_m_shoes_winterboots_00_bundle_icon
 TEXT: Scarponcini invernali 1
 
@@ -5704,28 +5821,28 @@ TEXT: Completa una serie di catture o giri dei dischi dei Pokéstop di sette gio
 RESOURCE ID: badge_7_day_streaks_title
 TEXT: Triatleta
 
-RESOURCE ID: badge_aa_2023_jeju_day_00_general
+RESOURCE ID: badge_aa_2023_jeju_day_00
 TEXT: Isola di Jeju 2023
 
-RESOURCE ID: badge_aa_2023_jeju_day_00_general_title
+RESOURCE ID: badge_aa_2023_jeju_day_00_title
 TEXT: Pokémon - Avventure aeree
 
-RESOURCE ID: badge_aa_2023_jeju_day_01_general
+RESOURCE ID: badge_aa_2023_jeju_day_01
 TEXT: Isola di Jeju, 28 luglio 2023
 
-RESOURCE ID: badge_aa_2023_jeju_day_01_general_title
+RESOURCE ID: badge_aa_2023_jeju_day_01_title
 TEXT: Pokémon - Avventure aeree
 
-RESOURCE ID: badge_aa_2023_jeju_day_02_general
+RESOURCE ID: badge_aa_2023_jeju_day_02
 TEXT: Isola di Jeju, 29 luglio 2023
 
-RESOURCE ID: badge_aa_2023_jeju_day_02_general_title
+RESOURCE ID: badge_aa_2023_jeju_day_02_title
 TEXT: Pokémon - Avventure aeree
 
-RESOURCE ID: badge_aa_2023_jeju_day_03_general
+RESOURCE ID: badge_aa_2023_jeju_day_03
 TEXT: Isola di Jeju, 30 luglio 2023
 
-RESOURCE ID: badge_aa_2023_jeju_day_03_general_title
+RESOURCE ID: badge_aa_2023_jeju_day_03_title
 TEXT: Pokémon - Avventure aeree
 
 RESOURCE ID: badge_apac_partner_july_2018_1
@@ -6413,6 +6530,12 @@ TEXT: 2 novembre 2019
 RESOURCE ID: badge_global_ticketed_event_title
 TEXT: Una scoperta colossale
 
+RESOURCE ID: badge_gofest2023_global
+TEXT: 26-27 agosto 2023
+
+RESOURCE ID: badge_gofest2023_global_title
+TEXT: Festival di Pokémon GO 2023
+
 RESOURCE ID: badge_gofest_2019_americas_day_00_north_earlyaccess
 TEXT: Chicago, 12 giugno 2019 - Nord
 
@@ -6982,6 +7105,390 @@ TEXT:  Il 4 e il 5 giugno e il 27 agosto 2022, in tutto il mondo
 
 RESOURCE ID: badge_gofest_2022_test_title
 TEXT: Festival di Pokémon GO 2022
+
+RESOURCE ID: badge_gofest_2023_london_addon_hatch
+TEXT: Londra, 4-6 agosto 2023
+
+RESOURCE ID: badge_gofest_2023_london_addon_hatch_test
+TEXT: Londra
+
+RESOURCE ID: badge_gofest_2023_london_addon_hatch_test_title
+TEXT: Festival di Pokémon GO: passione Uova
+
+RESOURCE ID: badge_gofest_2023_london_addon_hatch_title
+TEXT: Festival di Pokémon GO: passione Uova
+
+RESOURCE ID: badge_gofest_2023_london_addon_raid
+TEXT: Londra, 4-6 agosto 2023
+
+RESOURCE ID: badge_gofest_2023_london_addon_raid_test
+TEXT: Londra
+
+RESOURCE ID: badge_gofest_2023_london_addon_raid_test_title
+TEXT: Festival di Pokémon GO: passione raid
+
+RESOURCE ID: badge_gofest_2023_london_addon_raid_title
+TEXT: Festival di Pokémon GO: passione raid
+
+RESOURCE ID: badge_gofest_2023_london_city_2_test
+TEXT: Londra
+
+RESOURCE ID: badge_gofest_2023_london_city_2_test_title
+TEXT: Festival di Pokémon GO: esperienza in città
+
+RESOURCE ID: badge_gofest_2023_london_city_test
+TEXT: Londra
+
+RESOURCE ID: badge_gofest_2023_london_city_test_title
+TEXT: Festival di Pokémon GO: esperienza in città
+
+RESOURCE ID: badge_gofest_2023_london_day1_city
+TEXT: Londra, 4 agosto 2023
+
+RESOURCE ID: badge_gofest_2023_london_day1_city_title
+TEXT: Festival di Pokémon GO: esperienza in città (venerdì)
+
+RESOURCE ID: badge_gofest_2023_london_day1_extended
+TEXT: Londra, 4 agosto 2023
+
+RESOURCE ID: badge_gofest_2023_london_day1_extended_title
+TEXT: Festival di Pokémon GO: esperienza prolungata in città (venerdì)
+
+RESOURCE ID: badge_gofest_2023_london_day1_park_afternoon
+TEXT: Brockwell Park a Londra, 4 agosto 2023 (pomeriggio)
+
+RESOURCE ID: badge_gofest_2023_london_day1_park_afternoon_title
+TEXT: Festival di Pokémon GO: esperienza al parco (venerdì)
+
+RESOURCE ID: badge_gofest_2023_london_day1_park_morning
+TEXT: Brockwell Park a Londra, 4 agosto 2023 (mattina)
+
+RESOURCE ID: badge_gofest_2023_london_day1_park_morning_title
+TEXT: Festival di Pokémon GO: esperienza al parco (venerdì)
+
+RESOURCE ID: badge_gofest_2023_london_day2_city
+TEXT: Londra, 5 agosto 2023
+
+RESOURCE ID: badge_gofest_2023_london_day2_city_title
+TEXT: Festival di Pokémon GO: esperienza in città (sabato)
+
+RESOURCE ID: badge_gofest_2023_london_day2_extended
+TEXT: Londra, 5 agosto 2023
+
+RESOURCE ID: badge_gofest_2023_london_day2_extended_title
+TEXT: Festival di Pokémon GO: esperienza prolungata in città (sabato)
+
+RESOURCE ID: badge_gofest_2023_london_day2_park_afternoon
+TEXT: Brockwell Park a Londra, 5 agosto 2023 (pomeriggio)
+
+RESOURCE ID: badge_gofest_2023_london_day2_park_afternoon_title
+TEXT: Festival di Pokémon GO: esperienza al parco (sabato)
+
+RESOURCE ID: badge_gofest_2023_london_day2_park_morning
+TEXT: Brockwell Park a Londra, 5 agosto 2023 (mattina)
+
+RESOURCE ID: badge_gofest_2023_london_day2_park_morning_title
+TEXT: Festival di Pokémon GO: esperienza al parco (sabato)
+
+RESOURCE ID: badge_gofest_2023_london_day3_city
+TEXT: Londra, 6 agosto 2023
+
+RESOURCE ID: badge_gofest_2023_london_day3_city_title
+TEXT: Festival di Pokémon GO: esperienza in città (domenica)
+
+RESOURCE ID: badge_gofest_2023_london_day3_extended
+TEXT: Londra, 6 agosto 2023
+
+RESOURCE ID: badge_gofest_2023_london_day3_extended_title
+TEXT: Festival di Pokémon GO: esperienza prolungata in città (domenica)
+
+RESOURCE ID: badge_gofest_2023_london_day3_park_afternoon
+TEXT: Brockwell Park a Londra, 6 agosto 2023 (pomeriggio)
+
+RESOURCE ID: badge_gofest_2023_london_day3_park_afternoon_title
+TEXT: Festival di Pokémon GO: esperienza al parco (domenica)
+
+RESOURCE ID: badge_gofest_2023_london_day3_park_morning
+TEXT: Brockwell Park a Londra, 6 agosto 2023 (mattina)
+
+RESOURCE ID: badge_gofest_2023_london_day3_park_morning_title
+TEXT: Festival di Pokémon GO: esperienza al parco (domenica)
+
+RESOURCE ID: badge_gofest_2023_london_park_2_test
+TEXT: Brockwell Park a Londra
+
+RESOURCE ID: badge_gofest_2023_london_park_2_test_title
+TEXT: Festival di Pokémon GO: esperienza al parco
+
+RESOURCE ID: badge_gofest_2023_london_park_test
+TEXT: Brockwell Park a Londra
+
+RESOURCE ID: badge_gofest_2023_london_park_test_title
+TEXT: Festival di Pokémon GO: esperienza al parco
+
+RESOURCE ID: badge_gofest_2023_london_vip
+TEXT: Londra, 4-6 agosto 2023
+
+RESOURCE ID: badge_gofest_2023_london_vip_title
+TEXT: Festival di Pokémon GO 2023
+
+RESOURCE ID: badge_gofest_2023_newyork_addon_hatch
+TEXT: New York, 18-20 agosto 2023
+
+RESOURCE ID: badge_gofest_2023_newyork_addon_hatch_test
+TEXT: New York
+
+RESOURCE ID: badge_gofest_2023_newyork_addon_hatch_test_title
+TEXT: Festival di Pokémon GO: passione Uova
+
+RESOURCE ID: badge_gofest_2023_newyork_addon_hatch_title
+TEXT: Festival di Pokémon GO: passione Uova
+
+RESOURCE ID: badge_gofest_2023_newyork_addon_raid
+TEXT: New York, 18-20 agosto 2023
+
+RESOURCE ID: badge_gofest_2023_newyork_addon_raid_test
+TEXT: New York
+
+RESOURCE ID: badge_gofest_2023_newyork_addon_raid_test_title
+TEXT: Festival di Pokémon GO: passione raid
+
+RESOURCE ID: badge_gofest_2023_newyork_addon_raid_title
+TEXT: Festival di Pokémon GO: passione raid
+
+RESOURCE ID: badge_gofest_2023_newyork_city_2_test
+TEXT: New York
+
+RESOURCE ID: badge_gofest_2023_newyork_city_2_test_title
+TEXT: Festival di Pokémon GO: esperienza in città
+
+RESOURCE ID: badge_gofest_2023_newyork_city_test
+TEXT: New York
+
+RESOURCE ID: badge_gofest_2023_newyork_city_test_title
+TEXT: Festival di Pokémon GO: esperienza in città
+
+RESOURCE ID: badge_gofest_2023_newyork_day1_city
+TEXT: New York, 18 agosto 2023
+
+RESOURCE ID: badge_gofest_2023_newyork_day1_city_title
+TEXT: Festival di Pokémon GO: esperienza in città (venerdì)
+
+RESOURCE ID: badge_gofest_2023_newyork_day1_extended
+TEXT: New York, 18 agosto 2023
+
+RESOURCE ID: badge_gofest_2023_newyork_day1_extended_title
+TEXT: Festival di Pokémon GO: esperienza prolungata in città (venerdì)
+
+RESOURCE ID: badge_gofest_2023_newyork_day1_park_afternoon
+TEXT: Randall’s Island Park a New York, 18 agosto 2023 (pomeriggio)
+
+RESOURCE ID: badge_gofest_2023_newyork_day1_park_afternoon_title
+TEXT: Festival di Pokémon GO: esperienza al parco (venerdì)
+
+RESOURCE ID: badge_gofest_2023_newyork_day1_park_morning
+TEXT: Randall’s Island Park a New York, 18 agosto 2023 (mattina)
+
+RESOURCE ID: badge_gofest_2023_newyork_day1_park_morning_title
+TEXT: Festival di Pokémon GO: esperienza al parco (venerdì)
+
+RESOURCE ID: badge_gofest_2023_newyork_day2_city
+TEXT: New York, 19 agosto 2023
+
+RESOURCE ID: badge_gofest_2023_newyork_day2_city_title
+TEXT: Festival di Pokémon GO: esperienza in città (sabato)
+
+RESOURCE ID: badge_gofest_2023_newyork_day2_extended
+TEXT: New York, 19 agosto 2023
+
+RESOURCE ID: badge_gofest_2023_newyork_day2_extended_title
+TEXT: Festival di Pokémon GO: esperienza prolungata in città (sabato)
+
+RESOURCE ID: badge_gofest_2023_newyork_day2_park_afternoon
+TEXT: Randall’s Island Park a New York, 19 agosto 2023 (pomeriggio)
+
+RESOURCE ID: badge_gofest_2023_newyork_day2_park_afternoon_title
+TEXT: Festival di Pokémon GO: esperienza al parco (sabato)
+
+RESOURCE ID: badge_gofest_2023_newyork_day2_park_morning
+TEXT: Randall’s Island Park a New York, 19 agosto 2023 (mattina)
+
+RESOURCE ID: badge_gofest_2023_newyork_day2_park_morning_title
+TEXT: Festival di Pokémon GO: esperienza al parco (sabato)
+
+RESOURCE ID: badge_gofest_2023_newyork_day3_city
+TEXT: New York, 20 agosto 2023
+
+RESOURCE ID: badge_gofest_2023_newyork_day3_city_title
+TEXT: Festival di Pokémon GO: esperienza in città (domenica)
+
+RESOURCE ID: badge_gofest_2023_newyork_day3_extended
+TEXT: New York, 20 agosto 2023
+
+RESOURCE ID: badge_gofest_2023_newyork_day3_extended_title
+TEXT: Festival di Pokémon GO: esperienza prolungata in città (domenica)
+
+RESOURCE ID: badge_gofest_2023_newyork_day3_park_afternoon
+TEXT: Randall’s Island Park a New York, 20 agosto 2023 (pomeriggio)
+
+RESOURCE ID: badge_gofest_2023_newyork_day3_park_afternoon_title
+TEXT: Festival di Pokémon GO: esperienza al parco (domenica)
+
+RESOURCE ID: badge_gofest_2023_newyork_day3_park_morning
+TEXT: Randall’s Island Park a New York, 20 agosto 2023 (mattina)
+
+RESOURCE ID: badge_gofest_2023_newyork_day3_park_morning_title
+TEXT: Festival di Pokémon GO: esperienza al parco (domenica)
+
+RESOURCE ID: badge_gofest_2023_newyork_park_2_test
+TEXT: Randall’s Island Park a New York
+
+RESOURCE ID: badge_gofest_2023_newyork_park_2_test_title
+TEXT: Festival di Pokémon GO: esperienza al parco
+
+RESOURCE ID: badge_gofest_2023_newyork_park_test
+TEXT: Randall’s Island Park a New York
+
+RESOURCE ID: badge_gofest_2023_newyork_park_test_title
+TEXT: Festival di Pokémon GO: esperienza al parco
+
+RESOURCE ID: badge_gofest_2023_newyork_vip
+TEXT: New York, 18-20 agosto 2023
+
+RESOURCE ID: badge_gofest_2023_newyork_vip_title
+TEXT: Festival di Pokémon GO 2023
+
+RESOURCE ID: badge_gofest_2023_osaka_addon_hatch
+TEXT: Osaka, 4-6 agosto 2023
+
+RESOURCE ID: badge_gofest_2023_osaka_addon_hatch_test
+TEXT: Osaka
+
+RESOURCE ID: badge_gofest_2023_osaka_addon_hatch_test_title
+TEXT: Festival di Pokémon GO: passione Uova
+
+RESOURCE ID: badge_gofest_2023_osaka_addon_hatch_title
+TEXT: Festival di Pokémon GO: passione Uova
+
+RESOURCE ID: badge_gofest_2023_osaka_addon_raid
+TEXT: Osaka, 4-6 agosto 2023
+
+RESOURCE ID: badge_gofest_2023_osaka_addon_raid_test
+TEXT: Osaka
+
+RESOURCE ID: badge_gofest_2023_osaka_addon_raid_test_title
+TEXT: Festival di Pokémon GO: passione raid
+
+RESOURCE ID: badge_gofest_2023_osaka_addon_raid_title
+TEXT: Festival di Pokémon GO: passione raid
+
+RESOURCE ID: badge_gofest_2023_osaka_city_2_test
+TEXT: Osaka
+
+RESOURCE ID: badge_gofest_2023_osaka_city_2_test_title
+TEXT: Festival di Pokémon GO: esperienza in città
+
+RESOURCE ID: badge_gofest_2023_osaka_city_test
+TEXT: Osaka
+
+RESOURCE ID: badge_gofest_2023_osaka_city_test_title
+TEXT: Festival di Pokémon GO: esperienza in città
+
+RESOURCE ID: badge_gofest_2023_osaka_day1_city
+TEXT: Osaka, 4 agosto 2023
+
+RESOURCE ID: badge_gofest_2023_osaka_day1_city_title
+TEXT: Festival di Pokémon GO: esperienza in città (venerdì)
+
+RESOURCE ID: badge_gofest_2023_osaka_day1_extended
+TEXT: Osaka, 4 agosto 2023
+
+RESOURCE ID: badge_gofest_2023_osaka_day1_extended_title
+TEXT: Festival di Pokémon GO: esperienza prolungata in città (venerdì)
+
+RESOURCE ID: badge_gofest_2023_osaka_day1_park_afternoon
+TEXT: Expo ’70 Commemorative Park a Osaka, 4 agosto 2023 (pomeriggio)
+
+RESOURCE ID: badge_gofest_2023_osaka_day1_park_afternoon_title
+TEXT: Festival di Pokémon GO: esperienza al parco (venerdì)
+
+RESOURCE ID: badge_gofest_2023_osaka_day1_park_morning
+TEXT: Expo ’70 Commemorative Park a Osaka, 4 agosto 2023 (mattina)
+
+RESOURCE ID: badge_gofest_2023_osaka_day1_park_morning_title
+TEXT: Festival di Pokémon GO: esperienza al parco (venerdì)
+
+RESOURCE ID: badge_gofest_2023_osaka_day2_city
+TEXT: Osaka, 5 agosto 2023
+
+RESOURCE ID: badge_gofest_2023_osaka_day2_city_title
+TEXT: Festival di Pokémon GO: esperienza in città (sabato)
+
+RESOURCE ID: badge_gofest_2023_osaka_day2_extended
+TEXT: Osaka, 5 agosto 2023
+
+RESOURCE ID: badge_gofest_2023_osaka_day2_extended_title
+TEXT: Festival di Pokémon GO: esperienza prolungata in città (sabato)
+
+RESOURCE ID: badge_gofest_2023_osaka_day2_park_afternoon
+TEXT: Expo ’70 Commemorative Park a Osaka, 5 agosto 2023 (pomeriggio)
+
+RESOURCE ID: badge_gofest_2023_osaka_day2_park_afternoon_title
+TEXT: Festival di Pokémon GO: esperienza al parco (sabato)
+
+RESOURCE ID: badge_gofest_2023_osaka_day2_park_morning
+TEXT: Expo ’70 Commemorative Park a Osaka, 5 agosto 2023 (mattina)
+
+RESOURCE ID: badge_gofest_2023_osaka_day2_park_morning_title
+TEXT: Festival di Pokémon GO: esperienza al parco (sabato)
+
+RESOURCE ID: badge_gofest_2023_osaka_day3_city
+TEXT: Osaka, 6 agosto 2023
+
+RESOURCE ID: badge_gofest_2023_osaka_day3_city_title
+TEXT: Festival di Pokémon GO: esperienza in città (domenica)
+
+RESOURCE ID: badge_gofest_2023_osaka_day3_extended
+TEXT: Osaka, 6 agosto 2023
+
+RESOURCE ID: badge_gofest_2023_osaka_day3_extended_title
+TEXT: Festival di Pokémon GO: esperienza prolungata in città (domenica)
+
+RESOURCE ID: badge_gofest_2023_osaka_day3_park_afternoon
+TEXT: Expo ’70 Commemorative Park a Osaka, 6 agosto 2023 (pomeriggio)
+
+RESOURCE ID: badge_gofest_2023_osaka_day3_park_afternoon_title
+TEXT: Festival di Pokémon GO: esperienza al parco (domenica)
+
+RESOURCE ID: badge_gofest_2023_osaka_day3_park_morning
+TEXT: Expo ’70 Commemorative Park a Osaka, 6 agosto 2023 (mattina)
+
+RESOURCE ID: badge_gofest_2023_osaka_day3_park_morning_title
+TEXT: Festival di Pokémon GO: esperienza al parco (domenica)
+
+RESOURCE ID: badge_gofest_2023_osaka_park_2_test
+TEXT: Expo ’70 Commemorative Park a Osaka
+
+RESOURCE ID: badge_gofest_2023_osaka_park_2_test_title
+TEXT: Festival di Pokémon GO: esperienza al parco
+
+RESOURCE ID: badge_gofest_2023_osaka_park_test
+TEXT: Expo ’70 Commemorative Park a Osaka
+
+RESOURCE ID: badge_gofest_2023_osaka_park_test_title
+TEXT: Festival di Pokémon GO: esperienza al parco
+
+RESOURCE ID: badge_gofest_2023_osaka_vip
+TEXT: Osaka, 4-6 agosto 2023
+
+RESOURCE ID: badge_gofest_2023_osaka_vip_title
+TEXT: Festival di Pokémon GO 2023
+
+RESOURCE ID: badge_gofest_2023_test
+TEXT: August 26–27, 2023
+
+RESOURCE ID: badge_gofest_2023_test_title
+TEXT: Pokémon GO Fest 2023
 
 RESOURCE ID: badge_gotour_2021_green_global
 TEXT: Il 20 febbraio 2021 in tutto il mondo
@@ -11099,6 +11606,12 @@ TEXT: Fai evolvere Lampent e ottieni uno Chandelure che conosce l’attacco cari
 RESOURCE ID: bonus_cd_move_noibat
 TEXT: Fai evolvere Noibat e ottieni un Noivern che conosce l’attacco caricato Ondaboato!
 
+RESOURCE ID: bonus_cd_move_poliwag_politoed
+TEXT: Fai evolvere Poliwhirl per ottenere un Politoed che conosce l’attacco caricato Geloraggio!
+
+RESOURCE ID: bonus_cd_move_poliwag_poliwrath
+TEXT: Fai evolvere Poliwhirl per ottenere un Poliwrath che conosce l’attacco veloce Contrattacco!
+
 RESOURCE ID: bonus_cd_move_roggenrola
 TEXT: Fai evolvere Boldore per ottenere un Gigalith che conosce l’attacco caricato Raggiometeora
 
@@ -11150,6 +11663,9 @@ TEXT: Allo scoccare di ogni ora, Finneon apparirà in gran numero!
 RESOURCE ID: bonus_fr_party_pikachu
 TEXT: Completa la missione di ricerca sul campo ricevuta dal Pokéstop dell’incontro per avere l’opportunità di incontrare Pikachu con un cappello festivo!
 
+RESOURCE ID: bonus_friendship_raid_double
+TEXT: Doppio del bonus danni dagli amici nei raid
+
 RESOURCE ID: bonus_go_tour_2023_add_on_hatch_01
 TEXT: Triplo della polvere di stelle da schiusa
 
@@ -11185,6 +11701,9 @@ TEXT: Kyogre catturato durante l’evento conoscerà l’attacco caricato Primop
 
 RESOURCE ID: bonus_go_tour_irl_extra_candy
 TEXT: Una caramella L aggiuntiva per tutti gli archeoraid dal vivo
+
+RESOURCE ID: bonus_hatch_day_hatch_2x
+TEXT: Doppio della polvere di stelle da schiusa
 
 RESOURCE ID: bonus_hoenn_spawns
 TEXT: Un gran numero di Pokémon originariamente scoperti nella regione di Hoenn sta apparendo in zona
@@ -11225,6 +11744,9 @@ TEXT: Community Day: sfida di cattura
 RESOURCE ID: bonus_implicit_social_noibat_raid
 TEXT: Se gli Allenatori collaborano per sconfiggere Noibat in un raid, un gran numero di Noibat apparirà in zona per 30 minuti.
 
+RESOURCE ID: bonus_implicit_social_poliwag_raid
+TEXT: Se gli Allenatori collaborano per sconfiggere Poliwhirl in un raid, un gran numero di Poliwag apparirà in zona per 30 minuti
+
 RESOURCE ID: bonus_implicit_social_raid_title
 TEXT: Community Day: sfida raid
 
@@ -11264,6 +11786,9 @@ TEXT: Usa un aroma per avere la possibilità di catturare Pikachu con un cappell
 RESOURCE ID: bonus_incense_hoenn_unown
 TEXT: Usa un aroma per avere la possibilità di catturare un Unown
 
+RESOURCE ID: bonus_increased_raid_capture
+TEXT: Maggiore possibilità di catturare i boss dei raid
+
 RESOURCE ID: bonus_jeju_balloon_pikachu
 TEXT: Pikachu Volo con palloncini arancioni sta apparendo in zona
 
@@ -11277,7 +11802,7 @@ RESOURCE ID: bonus_magnetic_lure_6_hr
 TEXT: I moduli esca magnetici durano sei ore
 
 RESOURCE ID: bonus_mega_latias_latios
-TEXT: MegaLatias e MegaLatios stanno apparendo nei megaraid
+TEXT: Raid di MegaLatias e MegaLatios stanno apparendo in zona!
 
 RESOURCE ID: bonus_milestone_rewards_title
 TEXT: RICOMPENSE BONUS DA OBIETTIVO
@@ -11296,6 +11821,12 @@ TEXT: Rayquaza catturato nei raid conoscerà l’attacco caricato Vastoimpatto
 
 RESOURCE ID: bonus_purrloin_o_clock
 TEXT: Allo scoccare di ogni ora, Purrloin apparirà in gran numero!
+
+RESOURCE ID: bonus_raid_3_xl_candy
+TEXT: Tre caramelle L da cattura aggiuntive nei raid di livello cinque, nei megaraid e negli archeoraid
+
+RESOURCE ID: bonus_raid_6_candy
+TEXT: Sei caramelle da cattura aggiuntive nei raid di livello cinque, nei megaraid e negli archeoraid
 
 RESOURCE ID: bonus_raid_move_blaziken
 TEXT: Blaziken catturato durante l’evento conoscerà l’attacco caricato Incendio. 
@@ -11422,6 +11953,9 @@ TEXT: Più polvere di stelle sconfiggendo le reclute del Team GO Rocket
 
 RESOURCE ID: bonus_tgr_stardust_leader
 TEXT: Più polvere di stelle sconfiggendo i leader del Team GO Rocket
+
+RESOURCE ID: bonus_total_6_special_trades
+TEXT: Sei scambi speciali in totale al giorno
 
 RESOURCE ID: bonus_trade_stardust_50pc_5hr
 TEXT: Gli scambi effettuati durante l’evento e fino a cinque ore dopo l’evento richiederanno il 50% di polvere di stelle in meno.
@@ -11777,6 +12311,9 @@ TEXT: Alcune ricerche con delle scelte che conducono a sfide e ricompense divers
 RESOURCE ID: brazilianportuguese
 TEXT: Português
 
+RESOURCE ID: breakfast_tappable_tutorial_body
+TEXT: Puoi trovare delle cellule di Zygarde mentre segui un percorso. Se aggregate, possono creare diverse forme del Pokémon.
+
 RESOURCE ID: breakthrough_free_remote_raid_pass
 TEXT: Biglietto raid da remoto dalle scoperte straordinarie
 
@@ -11809,6 +12346,15 @@ TEXT: Accesso alla fotocamera
 
 RESOURCE ID: buddy_candy_distance_half
 TEXT: Distanza per guadagnare caramelle da compagno ridotta della metà
+
+RESOURCE ID: buddy_candy_distance_routes_2x
+TEXT: Distanza per guadagnare caramelle da compagno esplorando dei percorsi ridotta della metà.
+
+RESOURCE ID: buddy_candy_distance_routes_3x
+TEXT: Distanza per guadagnare caramelle da compagno esplorando dei percorsi ridotta di due terzi.
+
+RESOURCE ID: buddy_candy_distance_routes_50p
+TEXT: Distanza per guadagnare caramelle da compagno esplorando dei percorsi ridotta di un terzo.
 
 RESOURCE ID: buddy_cannot_feed_because_cooldown
 TEXT: Il tuo compagno si sta riposando.
@@ -11953,6 +12499,12 @@ TEXT: Il tuo compagno ha trovato qualcosa per te!
 
 RESOURCE ID: buddy_giftbox_increase
 TEXT: Il tuo compagno ti porterà dei pacchi amicizia più spesso
+
+RESOURCE ID: buddy_heart_play_route_together_description
+TEXT: Puoi guadagnare un cuore con il tuo compagno se segui un percorso quando vi avventurate insieme.
+
+RESOURCE ID: buddy_heart_play_route_together_title
+TEXT: Seguite un percorso insieme
 
 RESOURCE ID: buddy_hearts_label
 TEXT: Cuori guadagnati con il tuo compagno
@@ -15039,6 +15591,9 @@ TEXT: Community Day dedicato a Noibat
 RESOURCE ID: community_day_oshawott_event_name
 TEXT: Community Day dedicato a Oshawott
 
+RESOURCE ID: community_day_poliwag_event_name
+TEXT: Community Day dedicato a Poliwag
+
 RESOURCE ID: community_day_porygon_event_name
 TEXT: Community Day dedicato a Porygon
 
@@ -15136,7 +15691,7 @@ RESOURCE ID: companion_device_tips2_a
 TEXT: Puoi premere il pulsante principale sul tuo dispositivo per lanciare una Poké Ball e provare a catturare il Pokémon.
 
 RESOURCE ID: companion_device_tips2_b
-TEXT: Se vedi delle luci multicolore, hai catturato
+TEXT: Se vedi delle luci multicolore, hai catturato
 il Pokémon!
 
 RESOURCE ID: companion_device_tips2_c
@@ -15156,6 +15711,9 @@ TEXT: Se vedi una luce rossa o bianca, il Pokéstop era fuori portata o il tuo s
 
 RESOURCE ID: complete_geotarget_quest
 TEXT: Completa una missione di mappatura AR
+
+RESOURCE ID: complete_route_travel_error_toast
+TEXT: Errore durante il completamento del percorso
 
 RESOURCE ID: complete_transfer_in_ph_app
 TEXT: Apri Pokémon HOME per completare il trasferimento dei tuoi Pokémon.
@@ -15186,6 +15744,9 @@ TEXT: {0} sarà disponibile finché non vincerai la lotta.
 
 RESOURCE ID: consume_combat_pass_warning_title
 TEXT: Vuoi usare il {0}?
+
+RESOURCE ID: contact_support
+TEXT: Contatta il servizio clienti
 
 RESOURCE ID: contest_badge_description
 TEXT: Vinci {0} concorsi ai Pokéstop.
@@ -15221,7 +15782,8 @@ RESOURCE ID: contest_enter_error_recent_win
 TEXT: Questo Pokémon di recente ha vinto un concorso al Pokéstop.
 
 RESOURCE ID: contest_enter_nearby_contest
-TEXT: Iscriviti a un concorso al Pokéstop nei dintorni
+TEXT: Iscriviti a un concorso
+a un Pokéstop in zona
 
 RESOURCE ID: contest_enter_pokemon
 TEXT: Iscrivi {0}
@@ -15518,6 +16080,9 @@ TEXT: Torna domani per guadagnare altre Pokémonete
 RESOURCE ID: daily_research_title
 TEXT: Ricerca giornaliera
 
+RESOURCE ID: daily_route_play
+TEXT: Percorso giornaliero
+
 RESOURCE ID: dark_flames_dark_title
 TEXT: Fiamme di tenebra: ricerca a tempo dedicata al tipo Buio
 
@@ -15771,8 +16336,8 @@ RESOURCE ID: detective_2019_medium_catch_sja
 TEXT: Detective Pikachu: cattura {0} Jigglypuff, Aipom o Snubbull
 
 RESOURCE ID: device_service_enable_modal_no
-TEXT: Forse dopo...
-
+TEXT: Forse dopo...
+
 
 
 RESOURCE ID: device_service_enable_modal_yes
@@ -15844,6 +16409,9 @@ TEXT: Doppio dei cuori con il tuo compagno
 RESOURCE ID: download_all_assets_all_downloaded
 TEXT: Tutte le risorse sono state scaricate.
 
+RESOURCE ID: download_all_assets_checking_assets_indicator
+TEXT: Checking assets...
+
 RESOURCE ID: download_all_assets_complete_description
 TEXT: Hai scaricato tutte le risorse sul tuo dispositivo. Pronti, partenza... GO!
 
@@ -15902,6 +16470,9 @@ TEXT: Non è stato possibile completare il download perché lo spazio di archivi
 
 RESOURCE ID: download_all_assets_title
 TEXT: Scarica tutte le risorse
+
+RESOURCE ID: download_all_assets_verifying_download_indicator
+TEXT: Verifying download...
 
 RESOURCE ID: download_all_assets_wifi_lost
 TEXT: Non è stato possibile completare il download perché la connessione Wi-Fi si è interrotta. Ricollegati e riprova.
@@ -16893,6 +17464,12 @@ TEXT: Festeggiamenti di Kalos
 RESOURCE ID: event_kanto_celebration
 TEXT: Festeggiamenti di Kanto
 
+RESOURCE ID: event_live_city_active_generic
+TEXT: La sessione esperienza in città è iniziata! Puoi partecipare all’evento in tutta la città. Buon divertimento!
+
+RESOURCE ID: event_live_park_active_generic
+TEXT: La sessione esperienza al parco è iniziata! Recati al parco per partecipare all’evento. Buon divertimento!
+
 RESOURCE ID: event_mega_cp_bonus
 TEXT: Aumento dei PL per certi Pokémon megaevoluti
 
@@ -16946,6 +17523,9 @@ TEXT: Lama misteriosa
 
 RESOURCE ID: event_name_bonus_generic
 TEXT: Evento bonus
+
+RESOURCE ID: event_name_routes
+TEXT: Nuovi sentieri
 
 RESOURCE ID: event_name_snap
 TEXT: Speciale New Pokémon Snap
@@ -17722,6 +18302,10 @@ TEXT: Ascesa dell’eroe
 RESOURCE ID: f_avatar_poses_bundle_pose_52
 TEXT: Surfista
 
+RESOURCE ID: f_avatar_poses_bundle_pose_53
+TEXT: Mappa del
+tesoro
+
 RESOURCE ID: f_avatar_poses_empty_bundle_pose_empty
 TEXT: Di riposo
 
@@ -17809,7 +18393,7 @@ RESOURCE ID: fb_auth_error_no_email
 TEXT: Usa un account Facebook al quale è associato un indirizzo di posta elettronica.
 
 RESOURCE ID: fb_auth_failed
-TEXT: Autenticazione fallita. Riprova.
+TEXT: Autenticazione dell’account fallita. Riprova più tardi o prova con un altro account.
 
 RESOURCE ID: fb_invite_add_friends
 TEXT: Aggiungi amici di Facebook
@@ -17827,15 +18411,15 @@ RESOURCE ID: fb_invite_friend_list_permission_not_granted
 TEXT: Non hai autorizzato l’accesso alla tua lista di amici.
 
 RESOURCE ID: fb_invite_import_friends_info
-TEXT: Se scegli di importare gli amici di Facebook in Pokémon GO, Niantic visualizzerà 
-solo gli amici che sono già su Pokémon GO e che hanno scelto di importare
-i propri amici di Facebook. Niantic avrà accesso limitato al profilo di Facebook 
-(nome utente, elenco di amici e foto). Puoi sempre cambiare idea e 
-togliere qualcuno dalla lista amici o modificare le impostazioni all’interno della 
-app di Facebook.
+TEXT: Se scegli di importare gli amici di Facebook in Pokémon GO, Niantic visualizzerà 
+solo gli amici che sono già su Pokémon GO e che hanno scelto di importare
+i propri amici di Facebook. Niantic avrà accesso limitato al profilo di Facebook 
+(nome utente, elenco di amici e foto). Puoi sempre cambiare idea e 
+togliere qualcuno dalla lista amici o modificare le impostazioni all’interno della 
+app di Facebook.
 
 
-
+
 Per ulteriori informazioni visita il <a href="https://support.pokemon.com/hc/it">servizio clienti</a>.
 
 RESOURCE ID: fb_invite_import_friends_title
@@ -19039,6 +19623,12 @@ TEXT: Forma Individuale
 RESOURCE ID: form_zygarde_complete
 TEXT: Forma Perfetta
 
+RESOURCE ID: form_zygarde_complete_fifty_percent
+TEXT: Forma 50%
+
+RESOURCE ID: form_zygarde_complete_ten_percent
+TEXT: Forma 10%
+
 RESOURCE ID: form_zygarde_fifty_percent
 TEXT: Forma 50%
 
@@ -19317,6 +19907,9 @@ TEXT: Questi componenti combaciano!
 RESOURCE ID: full_inventory_text
 TEXT: PIENO
 
+RESOURCE ID: fullscreen_streak_title
+TEXT: BONUS PER SETTE GIORNI
+
 RESOURCE ID: furfrou_heart_trim
 TEXT: Furfrou può cambiare la sua forma in Taglio Cuore
 
@@ -19367,6 +19960,9 @@ TEXT: Quadruplo della polvere di stelle nella Lega Lotte GO
 
 RESOURCE ID: gbl_quintuple_dust_win
 TEXT: Quintuplo della polvere di stelle nella Lega Lotte GO
+
+RESOURCE ID: gbl_sets_extra_ten_total
+TEXT: 10 total sets of battles in the GO Battle League
 
 RESOURCE ID: gbl_sets_extra_three
 TEXT: 3 serie di sfide in più nella Lega Lotte GO
@@ -19553,13 +20149,13 @@ RESOURCE ID: general1.ticket.2_giblt_title
 TEXT: Biglietto: Qualcosa da sgranocchiare
 
 RESOURCE ID: general1.ticket.2_goldtr2023_description
-TEXT: Un biglietto per accedere alla ricerca a tempo Caccia all’oro che include incontri aggiuntivi a tua scelta tra Caterpie, Magikarp, Nosepass, Sableye o Barboach.
+TEXT: Un biglietto per accedere alla ricerca a tempo Caccia all’oro che include incontri aggiuntivi a tua scelta tra Caterpie, Magikarp, Nosepass, Sableye o Barboach.
 
 
-I Pokémon che appaiono durante la ricerca sul campo hanno la stessa possibilità di essere in versione cromatica di quelli che si possono incontrare durante la ricerca sul campo dell’evento.
+I Pokémon che appaiono durante la ricerca sul campo hanno la stessa possibilità di essere in versione cromatica di quelli che si possono incontrare durante la ricerca sul campo dell’evento.
 
 
-Questa ricerca a tempo sarà disponibile il 3 giugno 2023 dalle 14:00 alle 17:00 ora locale. Consulta la sezione Novità dell’app per saperne di più.
+Questa ricerca a tempo sarà disponibile il 3 giugno 2023 dalle 14:00 alle 17:00 ora locale. Consulta la sezione Novità dell’app per saperne di più.
 
 
 Per ricevere i bonus dell’evento, devi giocare durante la fascia oraria indicata.
@@ -19599,18 +20195,18 @@ RESOURCE ID: general1.ticket.2_jan2023_title
 TEXT: Punte di qualità
 
 RESOURCE ID: general1.ticket.2_julycd2023_description
-TEXT: A ticket to access the Community Day: Poliwag Special Research on July 30, 2023, from 2:00 p.m. to 5:00 p.m. local time, wherever you are. 
- 
-Research rewards include: 
-- Premium in-game items, such as Rare Candies, Ultra Balls, and more 
-- Extra encounters with Poliwag and its Evolutions 
- 
-Details can be found in the in-game News. 
- 
-<b>You must play during the specified time to receive all the special event bonuses.</b>
+TEXT: Un biglietto per accedere alla ricerca speciale del Community Day dedicato a Poliwag il 30 luglio 2023 dalle 14:00 alle 17:00 ora locale, ovunque ti trovi.
+
+Le ricompense della ricerca includono:
+- Strumenti premium nel gioco come Caramelle Rare, Ultra Ball e altro.
+- Incontri aggiuntivi con Poliwag e le sue evoluzioni.
+
+Per ulteriori dettagli, consulta la sezione Novità dell’app. 
+
+Per ricevere i bonus, è necessario giocare durante la fascia oraria indicata.
 
 RESOURCE ID: general1.ticket.2_julycd2023_title
-TEXT: Poliwag Community Day Ticket
+TEXT: Spirali scivolose
 
 RESOURCE ID: general1.ticket.2_julycdc2023_description
 TEXT: Un biglietto per accedere alla ricerca speciale del Community Day Classico dedicato a Squirtle il 9 luglio 2023 dalle 14:00 alle 17:00 ora locale, ovunque ti trovi.
@@ -19627,7 +20223,7 @@ RESOURCE ID: general1.ticket.2_julycdc2023_title
 TEXT: Biglietto per il Community Day Classico dedicato a Squirtle
 
 RESOURCE ID: general1.ticket.2_junecd2023_description
-TEXT: </b>Un biglietto per accedere alla ricerca speciale del Community Day dedicato ad Axew, sabato 10 giugno 2023 dalle 14:00 alle 17:00 ora locale, ovunque ti trovi.
+TEXT: Un biglietto per accedere alla ricerca speciale del Community Day dedicato ad Axew, sabato 10 giugno 2023 dalle 14:00 alle 17:00 ora locale, ovunque ti trovi.
 
 Le ricompense includono:
 - Strumenti premium nel gioco come Caramelle Rare, Ultra Ball e altro
@@ -19649,17 +20245,17 @@ RESOURCE ID: general1.ticket.2_larvitarcdc1_title
 TEXT: Biglietto per il Community Day Classico dedicato a Larvitar
 
 RESOURCE ID: general1.ticket.2_larvitarcdc2_description
-TEXT: Un biglietto per accedere alla ricerca speciale del Community Day Classico dedicato a Larvitar, ovunque ti trovi. 
+TEXT: Un biglietto per accedere alla ricerca speciale del Community Day Classico dedicato a Larvitar, ovunque ti trovi. 
 
 
-Le ricompense della ricerca includono:
+Le ricompense della ricerca includono:
 
-- Strumenti premium nel gioco come Caramelle Rare, Ultra Ball e altro
+- Strumenti premium nel gioco come Caramelle Rare, Ultra Ball e altro
 
-- Incontri aggiuntivi con Larvitar e le sue evoluzioni
+- Incontri aggiuntivi con Larvitar e le sue evoluzioni
 
 
-Per ulteriori dettagli, consulta la sezione Novità della app.
+Per ulteriori dettagli, consulta la sezione Novità della app.
 
 
 PER RICEVERE I BONUS, È NECESSARIO GIOCARE DURANTE LA FASCIA ORARIA INDICATA.
@@ -19715,6 +20311,17 @@ PER RICEVERE I BONUS, È NECESSARIO GIOCARE DURANTE LA FASCIA ORARIA INDICATA.
 
 RESOURCE ID: general1.ticket.2_oshat_title
 TEXT: Biglietto: “Dalle conchiglie alle spade”
+
+RESOURCE ID: general1.ticket.2_part2julycdc2023_description
+TEXT: Un biglietto per accedere alla ricerca speciale del Community Day Classico dedicato a Squirtle dalle 14:00 alle 17:00 del 23 luglio 2023 ora locale, ovunque ti trovi.
+
+Le ricompense della ricerca includono:
+- Strumenti premium nel gioco come Caramelle Rare, Ultra Ball e altro
+- Incontri aggiuntivi con Squirtle e le sue evoluzioni.
+
+Per ulteriori dettagli, consulta la sezione Novità dell’app.
+
+Per ricevere i bonus, è necessario giocare durante la fascia oraria indicata.
 
 RESOURCE ID: general1.ticket.2_roset_description
 TEXT: Un biglietto per accedere alla ricerca speciale “Profumo di Roselia” del 7 febbraio 2021 dalle 11:00 alle 17:00 ora locale, ovunque ti trovi. Per ulteriori dettagli, consulta la sezione Novità dell’app.
@@ -19898,13 +20505,25 @@ I biglietti per questa ricerca a tempo saranno disponibili nel negozio all’int
 RESOURCE ID: general1.ticket.gbweekend_bundle_title
 TEXT: Giornata Lotte GO: ricerca a tempo dedicata alla polvere di stelle
 
+RESOURCE ID: general1.ticket.gofest2023_alldetails
+TEXT: Un biglietto per accedere alla ricerca speciale durante il Festival di Pokémon GO 2023 (globale) il 26 e 27 agosto 2023, ovunque ti trovi. Questa ricerca speciale regala un incontro esclusivo con il Pokémon misterioso Diancie! Potrai inoltre ottenere i bonus e le ricompense seguenti: 
+- Maggiori probabilità di incontrare Pokémon cromatici 
+- Strumenti premium nel gioco come una MT attacco caricato fuoriclasse, una MT attacco veloce fuoriclasse, una Caramella Rara L e altro ancora 
+- Una posa avatar e un oggetto avatar esclusivi 
+- Fino a 9 biglietti raid gratuiti facendo girare i dischi foto delle Palestre 
+- Un Meteorite con cui è possibile insegnare l’attacco caricato Ascesa del Drago a Rayquaza, permettendogli così di megaevolversi 
+ 
+Per ulteriori dettagli, consulta la sezione Novità dell’app. 
+ 
+<b>Per ricevere i bonus, è necessario giocare durante la fascia oraria indicata.</b>
+
 RESOURCE ID: general1.ticket.gofest2023_description
 TEXT: Un biglietto per accedere al Festival di Pokémon GO 2023 (globale) il 26 e 27 agosto 2023, ovunque ti trovi. Per ulteriori dettagli, consulta la sezione Novità dell’app.
 
 Per ricevere i bonus, è necessario giocare durante la fascia oraria indicata.
 
 RESOURCE ID: general1.ticket.gofest2023_descriptioncarbinktr
-TEXT: Un biglietto per accedere alla ricerca speciale durante il Festival di Pokémon GO 2023 (globale) il 26 e il 27 agosto 2023, ovunque ti trovi.
+TEXT: Un biglietto per accedere al Festival di Pokémon GO 2023 (globale) il 26 e 27 agosto 2023, ovunque ti trovi.
 Se acquisti questo biglietto entro il 5 luglio 2023 alle 23:59 e giochi tra il 21 giugno e il 5 luglio, riceverai anche una ricerca a tempo che regala un incontro con Carbink. Vuoi essere tra i primi a scoprire questo Pokémon?
 
 Per ulteriori dettagli, consulta la sezione Novità dell’app.
@@ -19912,7 +20531,7 @@ Per ulteriori dettagli, consulta la sezione Novità dell’app.
 <b>Per ricevere i bonus, è necessario giocare durante la fascia oraria indicata.</b>
 
 RESOURCE ID: general1.ticket.gofest2023_descriptiondiancieonly
-TEXT: Un biglietto per accedere alla ricerca speciale durante il Festival di Pokémon GO 2023 (globale) il 26 e il 27 agosto 2023, ovunque ti trovi. Questa ricerca speciale regala un incontro esclusivo con il Pokémon misterioso Diancie!
+TEXT: Un biglietto per accedere alla ricerca speciale durante il Festival di Pokémon GO 2023 (globale) il 26 e 27 agosto 2023, ovunque ti trovi. Questa ricerca speciale regala un incontro esclusivo con il Pokémon misterioso Diancie!
 
 Per ulteriori dettagli, consulta la sezione Novità dell’app.
 
@@ -19922,25 +20541,25 @@ RESOURCE ID: general1.ticket.gofest2023_title
 TEXT: Biglietto per il Festival di Pokémon GO 2023 (globale)
 
 RESOURCE ID: general1.ticket.holiday2022_description
-TEXT: Un biglietto per accedere alla ricerca a tempo da giovedì 15 dicembre alle 10:00 a sabato 31 dicembre 2022 alle 20:00 ora locale, ovunque ti trovi, che ti darà la possibilità di ottenere le seguenti ricompense:
+TEXT: Un biglietto per accedere alla ricerca a tempo da giovedì 15 dicembre alle 10:00 a sabato 31 dicembre 2022 alle 20:00 ora locale, ovunque ti trovi, che ti darà la possibilità di ottenere le seguenti ricompense:
 
-
 
-Posa regalo
 
-Due incubatrici
+Posa regalo
 
-Un aroma
+Due incubatrici
 
-
+Un aroma
 
-ATTENZIONE: tieni presente che le ricerche a tempo hanno una scadenza. Le missioni relative devono essere completate e le ricompense devono essere riscosse entro sabato 31 dicembre 2022 alle 20:00 ora locale.
 
-
+
+ATTENZIONE: tieni presente che le ricerche a tempo hanno una scadenza. Le missioni relative devono essere completate e le ricompense devono essere riscosse entro sabato 31 dicembre 2022 alle 20:00 ora locale.
+
+
 
 Trovi tutti i dettagli nella sezione Novità dell’app.
 
-PER RICEVERE I BONUS, È NECESSARIO GIOCARE DURANTE LA FASCIA ORARIA INDICATA.
+PER RICEVERE I BONUS, È NECESSARIO GIOCARE DURANTE LA FASCIA ORARIA INDICATA.
 
 
 RESOURCE ID: general1.ticket.holiday2022_title
@@ -19963,25 +20582,25 @@ RESOURCE ID: general1.ticket.jirachimasterwork_title
 TEXT: Ricerca magistrale: desiderio esaudito
 
 RESOURCE ID: general1.ticket.keldeo_description
-TEXT: Un biglietto per accedere alla ricerca speciale “Qualcosa di straordinario”, ovunque ti trovi, che ti darà la possibilità di incontrare Keldeo nella sua Forma Normale nonché ottenere le seguenti ricompense:
+TEXT: Un biglietto per accedere alla ricerca speciale “Qualcosa di straordinario”, ovunque ti trovi, che ti darà la possibilità di incontrare Keldeo nella sua Forma Normale nonché ottenere le seguenti ricompense:
 
-
 
-T-shirt Keldeo per il tuo avatar
 
-14 Caramelle Rare
+T-shirt Keldeo per il tuo avatar
 
-12 Baccananas d’argento
+14 Caramelle Rare
 
-Due incubatrici
+12 Baccananas d’argento
 
-Due Superincubatrici
+Due incubatrici
 
-Due aromi
+Due Superincubatrici
 
-Incontri con vari Pokémon di tipo Lotta e Acqua
+Due aromi
 
-
+Incontri con vari Pokémon di tipo Lotta e Acqua
+
+
 
 Trovi tutti i dettagli nella sezione Novità dell’app. 
 
@@ -20015,7 +20634,7 @@ Tieni presente che non puoi regalare questo biglietto per la ricerca magistrale 
 <b>Per ricevere i bonus, è necessario giocare durante la fascia oraria indicata.</b>
 
 RESOURCE ID: general1.ticket.masterwork_sm_title
-TEXT: Biglietto per la ricerca magistrale Tutti per uno... N. 151
+TEXT: Biglietto per la ricerca magistrale “Tutti per uno... N. 151“
 
 RESOURCE ID: general1.ticket.megahoenn_description
 TEXT: Un biglietto per accedere ai seguenti bonus sabato 3 dicembre 2022, dalle 14:00 alle 22:00 ora locale, ovunque ti trovi.
@@ -20040,21 +20659,33 @@ RESOURCE ID: general1.ticket.megahoenn_title
 TEXT: Biglietto per “Giorno di megaraid: verso Hoenn”
 
 RESOURCE ID: general1.ticket.s10timed_description
-TEXT: Un biglietto per accedere alla ricerca a tempo “Il guardaroba di Willow”, ovunque ti trovi. Le ricompense della ricerca includono:
+TEXT: Un biglietto per accedere alla ricerca a tempo “Il guardaroba di Willow”, ovunque ti trovi. Le ricompense della ricerca includono:
 
 
-- Oggetti avatar ispirati al Professor Willow
+- Oggetti avatar ispirati al Professor Willow
 
-- Un incontro con un Melmetal che conosce l’attacco caricato Pugni Corazzati
+- Un incontro con un Melmetal che conosce l’attacco caricato Pugni Corazzati
 
 
-Il biglietto per questa ricerca a tempo sarà disponibile per l’acquisto fino al 1° giugno 2023 alle 10:00 ora locale, e scadrà il 30 giugno 2023 alle 10:00 ora locale. Consulta la sezione Novità dell’app per saperne di più.
+Il biglietto per questa ricerca a tempo sarà disponibile per l’acquisto fino al 1° giugno 2023 alle 10:00 ora locale, e scadrà il 30 giugno 2023 alle 10:00 ora locale. Consulta la sezione Novità dell’app per saperne di più.
 
 
 Per ricevere i bonus, è necessario giocare durante la fascia oraria indicata.
 
 RESOURCE ID: general1.ticket.s10timed_title
 TEXT: Il guardaroba di Willow
+
+RESOURCE ID: general1.ticket_adventureweek2023_description
+TEXT: Un biglietto per accedere alla ricerca a tempo della settimana dell’avventura che include incontri aggiuntivi a tua scelta tra Tyrunt o Amaura.
+
+I Pokémon che appaiono durante la ricerca a tempo hanno la stessa possibilità di essere in versione cromatica di quelli che si possono incontrare allo stato selvatico durante l’evento.
+
+Questa ricerca a tempo sarà disponibile dal 27 luglio 2023 alle 10:00 fino al 2 agosto 2023 alle 20:00 ora locale. Consulta la sezione Novità dell’app per saperne di più.
+
+Per ricevere i bonus dell’evento, devi giocare durante la fascia oraria indicata.
+
+RESOURCE ID: general1.ticket_adventureweek2023_title
+TEXT: Biglietto per la ricerca a tempo della settimana dell’avventura 2023
 
 RESOURCE ID: general1.ticket_cosmog2023_description
 TEXT: Un biglietto per accedere alla reiterazione della ricerca speciale Cieli stellati dalle 10:00 di venerdì 16 giugno 2023 alle 20:00 di domenica 25 giugno 2023 ora locale, ovunque ti trovi. Questa ricerca speciale ti darà la possibilità di incontrare un Cosmog aggiuntivo!
@@ -20084,6 +20715,9 @@ TEXT: e {0}
 
 RESOURCE ID: general_attack
 TEXT: Attacco
+
+RESOURCE ID: general_back
+TEXT: Indietro
 
 RESOURCE ID: general_battle
 TEXT: LOTTA
@@ -20190,6 +20824,9 @@ TEXT: o
 RESOURCE ID: general_paste
 TEXT: Incolla
 
+RESOURCE ID: general_player_guidelines
+TEXT: Linee guida per i giocatori
+
 RESOURCE ID: general_pokemon
 TEXT: Pokémon
 
@@ -20222,6 +20859,12 @@ TEXT: Salta
 
 RESOURCE ID: general_stamina
 TEXT: PS
+
+RESOURCE ID: general_submit
+TEXT: Conferma
+
+RESOURCE ID: general_submit_an_appeal
+TEXT: Presenta un reclamo
 
 RESOURCE ID: general_total_caps
 TEXT: TOTALE
@@ -22313,6 +22956,719 @@ TEXT: Festival di Pokémon GO 2022: habitat Tundra
 RESOURCE ID: gofest2022_tundra_description
 TEXT: Cattura questi Pokémon durante l’ora dell’habitat Tundra!
 
+RESOURCE ID: gofest2023
+TEXT: Festival di Pokémon GO 2023
+
+RESOURCE ID: gofest2023_aquamarine_shores
+TEXT: Sfida di collezione Coste di acquamarina
+
+RESOURCE ID: gofest2023_aquamarine_shores_description
+TEXT: Cattura questi Pokémon nell’habitat Coste di acquamarina!
+
+RESOURCE ID: gofest2023_city_0_1
+TEXT: Che piacere rivederti, %PLAYERNAME%!
+
+RESOURCE ID: gofest2023_city_0_2
+TEXT: Ho ricevuto segnalazioni di strani meteoriti che stanno cadendo intorno alla città. E quando capita un’attività inusuale, di solito c’è lo zampino di qualche Pokémon insolito!
+
+RESOURCE ID: gofest2023_city_0_3
+TEXT: In questo caso, si tratta di MegaRayquaza. Probabilmente l’avrai già intravisto oggi!
+
+RESOURCE ID: gofest2023_city_0_4
+TEXT: Secondo alcune teorie di altri ricercatori sentite di recente, Rayquaza si ricorderà come usare Ascesa del Drago, dopo aver visto particolari meteoriti.
+
+RESOURCE ID: gofest2023_city_0_5
+TEXT: E dietro questa mossa si cela qualcosa di ancora più impressionante perché permette a Rayquaza di megaevolversi.
+
+RESOURCE ID: gofest2023_city_0_6
+TEXT: Affascinante, non è vero? Ci si domanda cosa renda alcuni meteoriti così unici, ed è proprio per questo che ho chiesto ai capi delle tre squadre di aiutarmi a raccogliere dei campioni in questi paraggi!
+
+RESOURCE ID: gofest2023_city_0_7
+TEXT: Ora che sei qui anche tu, perché non ti unisci alla loro ricerca? Nel frattempo, potresti anche imparare qualcosa su MegaRayquaza!
+
+RESOURCE ID: gofest2023_city_0_8
+TEXT: La pianificazione è cruciale in qualsiasi avventura, quindi consiglio a te e al tuo compagno di fare uno spuntino prima di partire. Vi aspetta una giornata impegnativa, %PLAYERNAME%!
+
+RESOURCE ID: gofest2023_city_1_1
+TEXT: Ehi, ehi, %PLAYERNAME%!
+
+RESOURCE ID: gofest2023_city_1_2
+TEXT: Ci sono così tanti Allenatori qui. Tutto questo trambusto mi sta davvero entusiasmando!
+
+RESOURCE ID: gofest2023_city_1_3
+TEXT: Ma sai cosa mi infiamma di più? Una parola: MegaRayquaza! Le lotte tra Pokémon sono il mio forte, e Mega Rayquaza ha una forza pazzesca, da capogiro!
+
+RESOURCE ID: gofest2023_city_1_4
+TEXT: In effetti, MegaRayquaza è così potente che alcuni abitanti della regione di Hoenn dicono che sia abbastanza forte da avere la meglio sia su ArcheoGroudon che su ArcheoKyogre.
+
+RESOURCE ID: gofest2023_city_1_5
+TEXT: Sono impaziente di vedere un Pokémon del genere in azione. E tu?
+
+RESOURCE ID: gofest2023_city_1_6
+TEXT: Sì? Allora è la nostra occasione! Sembra che MegaRayquaza sia atterrato in quella Palestra laggiù!
+
+RESOURCE ID: gofest2023_city_1_7
+TEXT: La mia squadra sta scalpitando. E la tua? Pensi che siano pronti a mettere alla prova il loro coraggio contro un Pokémon leggendario megaevoluto?
+
+RESOURCE ID: gofest2023_city_1_8
+TEXT: Un consiglio prima di partire: l’uso di un attacco caricato superefficace renderà la lotta ancora più avvincente!
+
+RESOURCE ID: gofest2023_city_1_9
+TEXT: Bene. Diamoci dentro, %PLAYERNAME%!
+
+RESOURCE ID: gofest2023_city_2_1
+TEXT: Ehi, %PLAYERNAME%!
+
+RESOURCE ID: gofest2023_city_2_2
+TEXT: Stai aiutando il Professor Willow a trovare i meteoriti?
+
+RESOURCE ID: gofest2023_city_2_3
+TEXT: Anche io! E, detto tra noi, sto facendo un giro dei migliori locali della città lungo la strada.
+
+RESOURCE ID: gofest2023_city_2_4
+TEXT: Un minuto fa ho proprio incrociato un posticino giusto per il bubble tea. Dobbiamo provarlo quando avremo finito qui!
+
+RESOURCE ID: gofest2023_city_2_5
+TEXT: Ma prima di tutto, occupiamoci dei meteoriti. Prima ne ho visti cadere un paio sulla strada. Allora io raccoglierò quelli, e che ne dici di continuare a cercare un po’ più avanti?
+
+RESOURCE ID: gofest2023_city_2_6
+TEXT: E non dimenticare di mettere un Uovo nell’incubatrice prima di proseguire! Non c’è motivo di non far schiudere Uova mentre... mmh... catturi? Meteoriti, intendo. Fai finta che quello che sto dicendo abbia un senso...
+
+RESOURCE ID: gofest2023_city_2_7
+TEXT: Ora, devo scappare. Il tè lo offro io dopo, a presto!
+
+RESOURCE ID: gofest2023_city_3_1
+TEXT: Ciao, %PLAYERNAME%!
+
+RESOURCE ID: gofest2023_city_3_10
+TEXT: Ripongo una grande fiducia in te %PLAYERNAME%.
+
+RESOURCE ID: gofest2023_city_3_2
+TEXT: Dovrebbe essere qui, calcolando dove è più probabile che atterri il prossimo meteorite, tenendo conto dei dati radar...
+
+RESOURCE ID: gofest2023_city_3_3
+TEXT: della traiettoria dei pianeta, delle condizioni atmosferiche attuali, dei modelli di migrazione dei Pidgey e così via.
+
+RESOURCE ID: gofest2023_city_3_4
+TEXT: Immagino che anche tu abbia usato la stessa metodologia.
+
+RESOURCE ID: gofest2023_city_3_5
+TEXT: No? Ti è solo venuta voglia di venire qui?
+
+RESOURCE ID: gofest2023_city_3_6
+TEXT: Ah. Presumo che funzioni anche così.
+
+RESOURCE ID: gofest2023_city_3_7
+TEXT: Comunque tu abbia trovato la strada, è una fortuna che tu sia qui.
+
+RESOURCE ID: gofest2023_city_3_8
+TEXT: MegaRayquaza è stato visto spuntare tra le nuvole nelle vicinanze.
+
+RESOURCE ID: gofest2023_city_3_9
+TEXT: Dato che la raccolta di meteoriti qui in giro mi sta dando molto da fare, ti consiglio di spendere il tuo tempo a osservare MegaRayquaza e magari di sfidarlo, se te la senti.
+
+RESOURCE ID: gofest2023_city_4_1
+TEXT: Rieccoti, %PLAYERNAME%!
+
+RESOURCE ID: gofest2023_city_4_2
+TEXT: Vedo che hai raccolto un po’ di meteoriti. Un lavoro stellare! Ah ah ah.
+
+RESOURCE ID: gofest2023_city_4_3
+TEXT: Ti è capitato di incontrare MegaRayquaza durante la tua esplorazione?
+
+RESOURCE ID: gofest2023_city_4_4
+TEXT: Meraviglioso! Come forse saprai, per la megaevoluzione non è importante solo la forza e il suo utilizzo, ma anche il legame con i tuoi Pokémon.
+
+RESOURCE ID: gofest2023_city_4_5
+TEXT: Hai lavorato sodo per imparare di più su Rayquaza e raccogliere quei meteoriti particolari.
+
+RESOURCE ID: gofest2023_city_4_6
+TEXT: Sicuramente Rayquaza sarà rimasto colpito dalla tua perseveranza, proprio come lo sono io! Infatti se ti capitasse l’opportunità, saresti di sicuro in grado di far megaevolvere Rayquaza senza problemi.
+
+RESOURCE ID: gofest2023_city_4_7
+TEXT: Può bastare per oggi. Grazie per l’aiuto con la ricerca e buon proseguimento di giornata!
+
+RESOURCE ID: gofest2023_city_session
+TEXT: Festival di Pokémon GO 2023: esperienza in città
+
+RESOURCE ID: gofest2023_content_hashtag
+TEXT: Pubblica le tue foto usando l’hashtag #PokemonGOFest2023 e condivideremo le nostre preferite!
+
+RESOURCE ID: gofest2023_extended_bonus_session
+TEXT: Festival di Pokémon GO 2023: orario prolungato
+
+RESOURCE ID: gofest2023_free_rayquaza_0_1
+TEXT: Ti do il benvenuto a un’altra emozionante giornata del Festival di Pokémon GO, %PLAYERNAME%!
+
+RESOURCE ID: gofest2023_free_rayquaza_0_2
+TEXT: Come se la giornata di oggi non fosse già abbastanza emozionante, ho un’informazione sensazionale per te. Gli avvistamenti di MegaRayquaza sono alle stelle in tutto il mondo!
+
+RESOURCE ID: gofest2023_free_rayquaza_0_3
+TEXT: Da non crederci, vero? Rayquaza di solito risiede nella stratosfera, quindi vederlo è un vero avvenimento.
+
+RESOURCE ID: gofest2023_free_rayquaza_0_4
+TEXT: Mi chiedo se abbia qualcosa a che fare con la pioggia di meteoriti che ho visto poco fa. Ne hai visto qualcuno cadere nelle vicinanze?
+
+RESOURCE ID: gofest2023_free_rayquaza_0_5
+TEXT: Di recente ho scoperto che se Rayquaza vede uno di questi meteoriti, succede qualcosa di misterioso. Ho stuzzicato la tua curiosità, eh?
+
+RESOURCE ID: gofest2023_free_rayquaza_0_6
+TEXT: Ti darò maggiori dettagli dopo che avrai avuto la possibilità di vedere MegaRayquaza o uno di quei meteoriti di persona!
+
+RESOURCE ID: gofest2023_free_rayquaza_1_1
+TEXT: Rieccoti qua, %PLAYERNAME%!
+
+RESOURCE ID: gofest2023_free_rayquaza_1_2
+TEXT: Hai incontrato MegaRayquaza? O hai incrociato uno di quegli insoliti meteoriti? Se non sbaglio, ti ho promesso una chicca succosa su quelle strane rocce spaziali!
+
+RESOURCE ID: gofest2023_free_rayquaza_1_3
+TEXT: Come forse sai, la megaevoluzione è una trasformazione rafforzata dal tuo rapporto con un Pokémon. MegaRayquaza però è speciale: per megaevolversi, deve anche conoscere la mossa Ascesa del Drago.
+
+RESOURCE ID: gofest2023_free_rayquaza_1_4
+TEXT: E senti questa: Rayquaza riesce a ricordare come usare Ascesa del Drago solo dopo aver visto determinati meteoriti. Incredibile, vero?
+
+RESOURCE ID: gofest2023_free_rayquaza_1_5
+TEXT: Oggi c’è già molto da fare, ma se incappi in uno di quei fenomenali meteoriti e hai la certezza di avere uno stretto legame con Rayquaza...
+
+RESOURCE ID: gofest2023_free_rayquaza_1_6
+TEXT: potresti persino assistere coi tuoi occhi a questa megaevoluzione!
+
+RESOURCE ID: gofest2023_free_rayquaza_1_7
+TEXT: Beh, ti ho trattenuto abbastanza. Vai e buttati nei festeggiamenti di oggi.
+
+RESOURCE ID: gofest2023_free_rayquaza_1_8
+TEXT: Spero che la tua giornata sia incredibile tanto quanto te, %PLAYERNAME%! Pronti, partenza... GO!!
+
+RESOURCE ID: gofest2023_global_diancie_0_1
+TEXT: Salve, %PLAYERNAME%! Ti do il benvenuto al Festival di Pokémon GO 2023!
+
+RESOURCE ID: gofest2023_global_diancie_0_2
+TEXT: Non indovinerai mai cosa ho trovato: un’altra mappa del tesoro! Questa sembra portare a...
+
+RESOURCE ID: gofest2023_global_diancie_0_3
+TEXT: ...un mucchio di Poffin a forma di Pikachu?
+
+RESOURCE ID: gofest2023_global_diancie_0_4
+TEXT: Ops. Mappa sbagliata. Ecco... questa! Dice che porta a “un tesoro così bello da eclissare tutti gli altri”.
+
+RESOURCE ID: gofest2023_global_diancie_0_5
+TEXT: Che cosa pensi che potrebbe essere, %PLAYERNAME%? Un Pokémon? Una gemma scintillante? Un lago gigante pieno di Succo di Baccananas ghiacciato?
+
+RESOURCE ID: gofest2023_global_diancie_0_6
+TEXT: C’è solo un modo per scoprirlo: seguire questa mappa!
+
+RESOURCE ID: gofest2023_global_diancie_0_7
+TEXT: La prima tappa ci porta a quei Pokéstop laggiù. Andiamo!
+
+RESOURCE ID: gofest2023_global_diancie_1_1
+TEXT: Uffa! Non c’è niente di meglio di una bella camminata per carburare, non trovi, %PLAYERNAME%?
+
+RESOURCE ID: gofest2023_global_diancie_1_2
+TEXT: Ho visto che hai anche catturato qualche Pokémon mentre arrivavi qui. Spero che mi permetterai di dargli un’occhiata più tardi!
+
+RESOURCE ID: gofest2023_global_diancie_1_3
+TEXT: Vediamo, la mappa non è molto chiara su dove dirigerci in seguito. Ci sono invece dei disegni che raffigurano alcuni dei Pokémon presenti nella zona.
+
+RESOURCE ID: gofest2023_global_diancie_1_4
+TEXT: Se magari ne seguissimo uno, forse ci indicherà la direzione giusta!
+
+RESOURCE ID: gofest2023_global_diancie_1_5
+TEXT: E guarda: ci sono un sacco di Pokémon proprio davanti a noi. Vediamo se riusciamo a farci qualche nuovo amico, che ne pensi?
+
+RESOURCE ID: gofest2023_global_diancie_2_1
+TEXT: Che bel gruppetto di Pokémon hai catturato, %PLAYERNAME%! Così vivace.
+
+RESOURCE ID: gofest2023_global_diancie_2_2
+TEXT: Hanno preso alla lettera la parola “festival” del Festival di Pokémon GO!
+... E riguardo a “Pokémon”, ora ci penso. Ah ah ah.
+
+RESOURCE ID: gofest2023_global_diancie_2_3
+TEXT: Vedendo dove ci hanno condotto, ho la sensazione che ci stiamo avvicinando a quel tesoro! Ora, per la prossima tappa...
+
+RESOURCE ID: gofest2023_global_diancie_2_4
+TEXT: Mmm. Forse ho parlato troppo presto. La prossima meta sembra piuttosto lontana.
+
+RESOURCE ID: gofest2023_global_diancie_2_5
+TEXT: Ma non è meraviglioso? Potremo far schiudere qualche Uovo lungo la strada!
+
+RESOURCE ID: gofest2023_global_diancie_2_6
+TEXT: Il tuo compagno potrebbe gradire la possibilità di “sgranchirsi le gambe”, per così dire. So che a Meltan piacerà. Anche se tecnicamente non le ha.
+
+RESOURCE ID: gofest2023_global_diancie_3_1
+TEXT: *Ahhh* Però ne abbiamo fatto di strada, %PLAYERNAME%!
+
+RESOURCE ID: gofest2023_global_diancie_3_2
+TEXT: Vuoi fare un riposino? A dire il vero, io sì. Ed è per questo che sono felice che per la nostra prossima tappa non dobbiamo muovere un dito!
+
+RESOURCE ID: gofest2023_global_diancie_3_3
+TEXT: Guarda qui. Sulla mappa c’è il disegno di un Eevee circondato dalle sue evoluzioni.
+
+RESOURCE ID: gofest2023_global_diancie_3_4
+TEXT: Non ne vedo qui in giro, ma una delle sue caratteristiche più uniche è la capacità di evolversi in tanti Pokémon diversi!
+
+RESOURCE ID: gofest2023_global_diancie_3_5
+TEXT: Forse significa che dovremmo far evolvere anche noi qualche Pokémon. Tentar non nuoce, no?
+
+RESOURCE ID: gofest2023_global_diancie_4_1
+TEXT: Wow, %PLAYERNAME%!
+
+RESOURCE ID: gofest2023_global_diancie_4_2
+TEXT: Guardate quanti bei gioiellini rosa! Mi fanno luccicare gli occhi. Quello non può che essere il Pokémon misterioso Diancie!
+
+RESOURCE ID: gofest2023_global_diancie_4_3
+TEXT: Ho sentito dire da altri ricercatori che è la creatura più bella del mondo e ora che ho visto Diancie di persona, non posso che essere d’accordo!
+
+RESOURCE ID: gofest2023_global_diancie_4_4
+TEXT: Alcuni hanno persino detto che Diancie può creare una grande quantità di diamanti in un istante comprimendo tra le mani il carbonio presente nell’aria.
+
+RESOURCE ID: gofest2023_global_diancie_4_5
+TEXT: Prova a immaginarlo: Diancie che brilla in una pioggia di diamanti scintillanti! Che spettacolo sarebbe.
+
+RESOURCE ID: gofest2023_global_diancie_4_6
+TEXT: Tutto il nostro impegno è stato ripagato. Questo Pokémon è davvero il tesoro più bello di tutti!
+
+RESOURCE ID: gofest2023_global_diancie_4_7
+TEXT: Ma prova a indovinare? Non siamo ancora arrivati alla fine del nostro percorso! Manca ancora l’ultima tappa.
+
+RESOURCE ID: gofest2023_global_diancie_4_8
+TEXT: Mmm... Vuoi che la tua gemma sia la più bella di tutte?
+Falla brillare di luce propria, con una pietra per affilare si possono fare prodigi.
+
+RESOURCE ID: gofest2023_global_diancie_4_9
+TEXT: Suona un po’ come se stesse descrivendo i tipi di Diancie, vero? Lo so, potenziamo i Pokémon di tipo Roccia e Folletto!
+
+RESOURCE ID: gofest2023_global_diancie_5_1
+TEXT: È un altro gioiello, %PLAYERNAME%? No... sembra essere Megaenergia per Diancie!
+
+RESOURCE ID: gofest2023_global_diancie_5_2
+TEXT: Fantastico! Non vedo l’ora di vedere come si trasformerà Diancie con la megaevoluzione. Posso solo immaginare che diventerà ancora più incantevole!
+
+RESOURCE ID: gofest2023_global_diancie_5_3
+TEXT: Ho già trascorso una splendida giornata con te, quindi non ti chiederò di continuare subito la nostra ricerca.
+
+RESOURCE ID: gofest2023_global_diancie_5_4
+TEXT: Invece, passa pure un po’ di tempo a conoscere il tuo nuovo amico Pokémon, e se dovesse megaevolversi, assicurati di farmi sapere cosa hai imparato!
+
+RESOURCE ID: gofest2023_global_diancie_5_5
+TEXT: Va bene? Sei un gioiello, proprio come Diancie, %PLAYERNAME%.
+
+RESOURCE ID: gofest2023_global_diancie_5_6
+TEXT: Alla prossima. Pronti, partenza... GO!
+
+RESOURCE ID: gofest2023_habitat_athletic_field
+TEXT: Campo sportivo
+
+RESOURCE ID: gofest2023_habitat_athletic_field_description
+TEXT: Cattura questi Pokémon nell’habitat Campo sportivo!
+
+RESOURCE ID: gofest2023_habitat_cursed_treasures
+TEXT: Tesori maledetti
+
+RESOURCE ID: gofest2023_habitat_cursed_treasures_description
+TEXT: Cattura questi Pokémon nell’habitat Tesori maledetti!
+
+RESOURCE ID: gofest2023_habitat_dark_jungle
+TEXT: Giungla oscura
+
+RESOURCE ID: gofest2023_habitat_dark_jungle_description
+TEXT: Cattura questi Pokémon nell’habitat Giungla oscura!
+
+RESOURCE ID: gofest2023_habitat_fairy_garden
+TEXT: Giardino fatato
+
+RESOURCE ID: gofest2023_habitat_fairy_garden_description
+TEXT: Cattura questi Pokémon nell’habitat Giardino fatato!
+
+RESOURCE ID: gofest2023_habitat_hypnotic_glacier
+TEXT: Ghiacciaio ipnotico
+
+RESOURCE ID: gofest2023_habitat_hypnotic_glacier_description
+TEXT: Cattura questi Pokémon nell’habitat Ghiacciaio ipnotico!
+
+RESOURCE ID: gofest2023_habitat_poison_swamp
+TEXT: Palude velenosa
+
+RESOURCE ID: gofest2023_habitat_poison_swamp_description
+TEXT: Cattura questi Pokémon nell’habitat Palude velenosa!
+
+RESOURCE ID: gofest2023_habitat_prehistoric_volcano
+TEXT: Vulcano preistorico
+
+RESOURCE ID: gofest2023_habitat_prehistoric_volcano_description
+TEXT: Cattura questi Pokémon nell’habitat Vulcano preistorico!
+
+RESOURCE ID: gofest2023_habitat_volcanic_island
+TEXT: Isola vulcanica
+
+RESOURCE ID: gofest2023_habitat_volcanic_island_description
+TEXT: Cattura questi Pokémon nell’habitat Isola vulcanica!
+
+RESOURCE ID: gofest2023_hatch_add_on
+TEXT: Festival di Pokémon GO 2023: passione Uova
+
+RESOURCE ID: gofest2023_hour_habitat1
+TEXT: Habitat Terrari di quarzo disponibile!
+
+RESOURCE ID: gofest2023_hour_habitat2
+TEXT: Habitat Dune di pirite disponibile!
+
+RESOURCE ID: gofest2023_hour_habitat3
+TEXT: Habitat Lande di malachite disponibile!
+
+RESOURCE ID: gofest2023_hour_habitat4
+TEXT: Habitat Coste di acquamarina disponibile!
+
+RESOURCE ID: gofest2023_live_city_active_london
+TEXT: La sessione esperienza al parco del Festival di Pokémon GO 2023 è iniziata! Recati al Brockwell Park per giocare!
+
+RESOURCE ID: gofest2023_live_city_active_newyork
+TEXT: La sessione esperienza al parco del Festival di Pokémon GO 2023 è iniziata! Recati al Randall’s Island Park per giocare!
+
+RESOURCE ID: gofest2023_live_city_active_osaka
+TEXT: La sessione esperienza al parco del Festival di Pokémon GO 2023 è iniziata! Recati all’Expo ’70 Commemorative Park per giocare!
+
+RESOURCE ID: gofest2023_live_habitat_athletic_field
+TEXT: Habitat attuale: Campo sportivo
+
+RESOURCE ID: gofest2023_live_habitat_cursed_treasures
+TEXT: Habitat attuale: Tesori maledetti
+
+RESOURCE ID: gofest2023_live_habitat_dark_jungle
+TEXT: Habitat attuale: Giungla oscura
+
+RESOURCE ID: gofest2023_live_habitat_fairy_garden
+TEXT: Habitat attuale: Giardino fatato
+
+RESOURCE ID: gofest2023_live_habitat_hypnotic_glacier
+TEXT: Habitat attuale: Ghiacciaio ipnotico
+
+RESOURCE ID: gofest2023_live_habitat_poison_swamp
+TEXT: Habitat attuale: Palude velenosa
+
+RESOURCE ID: gofest2023_live_habitat_prehistoric_volcano
+TEXT: Habitat attuale: Vulcano preistorico
+
+RESOURCE ID: gofest2023_live_habitat_volcanic_island
+TEXT: Habitat attuale: Isola vulcanica
+
+RESOURCE ID: gofest2023_live_london_city
+TEXT: Festival di Pokémon GO 2023 a Londra: esperienza in città
+
+RESOURCE ID: gofest2023_live_london_park
+TEXT: Festival di Pokémon GO 2023 a Londra: esperienza al parco
+
+RESOURCE ID: gofest2023_live_newyork_city
+TEXT: Festival di Pokémon GO 2023 a New York: esperienza in città
+
+RESOURCE ID: gofest2023_live_newyork_park
+TEXT: Festival di Pokémon GO 2023 a New York: esperienza al parco
+
+RESOURCE ID: gofest2023_live_osaka_city
+TEXT: Festival di Pokémon GO 2023 a Osaka: esperienza in città
+
+RESOURCE ID: gofest2023_live_osaka_park
+TEXT: Festival di Pokémon GO 2023 a Osaka: esperienza al parco
+
+RESOURCE ID: gofest2023_live_park_active_london
+TEXT: La sessione esperienza in città del Festival di Pokémon GO 2023 è iniziata! Puoi giocare in tutta Londra!
+
+RESOURCE ID: gofest2023_live_park_active_newyork
+TEXT: La sessione esperienza in città del Festival di Pokémon GO 2023 è iniziata! Puoi giocare in tutta New York!
+
+RESOURCE ID: gofest2023_live_park_active_osaka
+TEXT: La sessione esperienza in città del Festival di Pokémon GO 2023 è iniziata! Puoi giocare in tutta Osaka!
+
+RESOURCE ID: gofest2023_live_preview_city_0804
+TEXT: Ricorda: la sessione esperienza in città del Festival di Pokémon GO 2023 ha luogo questo venerdì, 4 agosto dalle 9:00 alle 19:00!
+
+RESOURCE ID: gofest2023_live_preview_city_0805
+TEXT: Ricorda: la sessione esperienza in città del Festival di Pokémon GO 2023 ha luogo questo sabato, 5 agosto dalle 9:00 alle 19:00!
+
+RESOURCE ID: gofest2023_live_preview_city_0806
+TEXT: Ricorda: la sessione esperienza in città del Festival di Pokémon GO 2023 ha luogo questa domenica, 6 agosto dalle 9:00 alle 19:00!
+
+RESOURCE ID: gofest2023_live_preview_city_0818
+TEXT: Ricorda: la sessione esperienza in città del Festival di Pokémon GO 2023 ha luogo questo venerdì, 18 agosto dalle 9:00 alle 19:00!
+
+RESOURCE ID: gofest2023_live_preview_city_0819
+TEXT: Ricorda: la sessione esperienza in città del Festival di Pokémon GO 2023 ha luogo questo sabato, 19 agosto dalle 9:00 alle 19:00!
+
+RESOURCE ID: gofest2023_live_preview_city_0820
+TEXT: Ricorda: la sessione esperienza in città del Festival di Pokémon GO 2023 ha luogo questa domenica, 20 agosto dalle 9:00 alle 19:00!
+
+RESOURCE ID: gofest2023_live_preview_park_afternoon_0804
+TEXT: Ricorda: la sessione esperienza al parco del Festival di Pokémon GO 2023 ha luogo questo venerdì pomeriggio, 4 agosto dalle 14:30 alle 19:00!
+
+RESOURCE ID: gofest2023_live_preview_park_afternoon_0805
+TEXT: Ricorda: la sessione esperienza al parco del Festival di Pokémon GO 2023 ha luogo questo sabato pomeriggio, 5 agosto dalle 14:30 alle 19:00!
+
+RESOURCE ID: gofest2023_live_preview_park_afternoon_0806
+TEXT: Ricorda: la sessione esperienza al parco del Festival di Pokémon GO 2023 ha luogo questa domenica pomeriggio, 6 agosto dalle 14:30 alle 19:00!
+
+RESOURCE ID: gofest2023_live_preview_park_afternoon_0818
+TEXT: Ricorda: la sessione esperienza al parco del Festival di Pokémon GO 2023 ha luogo questo venerdì pomeriggio, 18 agosto dalle 15:00 alle 19:00!
+
+RESOURCE ID: gofest2023_live_preview_park_afternoon_0819
+TEXT: Ricorda: la sessione esperienza al parco del Festival di Pokémon GO 2023 ha luogo questo sabato pomeriggio, 19 agosto dalle 15:00 alle 19:00!
+
+RESOURCE ID: gofest2023_live_preview_park_afternoon_0820
+TEXT: Ricorda: la sessione esperienza al parco del Festival di Pokémon GO 2023 ha luogo questa domenica pomeriggio, 20 agosto dalle 15:00 alle 19:00!
+
+RESOURCE ID: gofest2023_live_preview_park_morning_0804
+TEXT: Ricorda: la sessione esperienza al parco del Festival di Pokémon GO 2023 ha luogo questo venerdì mattina, 4 agosto dalle 9:00 alle 13:30!
+
+RESOURCE ID: gofest2023_live_preview_park_morning_0805
+TEXT: Ricorda: la sessione esperienza al parco del Festival di Pokémon GO 2023 ha luogo questo sabato mattina, 5 agosto dalle 9:00 alle 13:30!
+
+RESOURCE ID: gofest2023_live_preview_park_morning_0806
+TEXT: Ricorda: la sessione esperienza al parco del Festival di Pokémon GO 2023 ha luogo questa domenica mattina, 6 agosto dalle 9:00 alle 13:30!
+
+RESOURCE ID: gofest2023_live_preview_park_morning_0818
+TEXT: Ricorda: la sessione esperienza al parco del Festival di Pokémon GO 2023 ha luogo questo venerdì mattina, 18 agosto dalle 9:00 alle 13:00!
+
+RESOURCE ID: gofest2023_live_preview_park_morning_0819
+TEXT: Ricorda: la sessione esperienza al parco del Festival di Pokémon GO 2023 ha luogo questo sabato mattina, 19 agosto dalle 9:00 alle 13:00!
+
+RESOURCE ID: gofest2023_live_preview_park_morning_0820
+TEXT: Ricorda: la sessione esperienza al parco del Festival di Pokémon GO 2023 ha luogo questa domenica mattina, 20 agosto dalle 9:00 alle 13:00!
+
+RESOURCE ID: gofest2023_london
+TEXT: Festival di Pokémon GO 2023 a Londra
+
+RESOURCE ID: gofest2023_malachite_wilderness
+TEXT: Sfida di collezione Lande di malachite
+
+RESOURCE ID: gofest2023_malachite_wilderness_description
+TEXT: Cattura questi Pokémon nell’habitat Lande di malachite!
+
+RESOURCE ID: gofest2023_newyork
+TEXT: Festival di Pokémon GO 2023 a New York
+
+RESOURCE ID: gofest2023_osaka
+TEXT: Festival di Pokémon GO 2023 a Osaka
+
+RESOURCE ID: gofest2023_park_0_1
+TEXT: Che piacere rivederti, %PLAYERNAME%! Sono felice di averti qui con me al Festival di Pokémon GO.
+
+RESOURCE ID: gofest2023_park_0_2
+TEXT: Ci aspetta una giornata alquanto entusiasmante! Ho trovato qualcosa di speciale...
+
+RESOURCE ID: gofest2023_park_0_3
+TEXT: una misteriosa mappa del parco con una serie di enigmatici indizi che sembrano condurre a qualcosa di nascosto e scintillante!
+
+RESOURCE ID: gofest2023_park_0_4
+TEXT: Seguiamola e vediamo quali Pokémon e tesori troveremo lungo la strada.
+
+RESOURCE ID: gofest2023_park_0_5
+TEXT: Ecco il primo indizio: “Fai uscire i compagni da sotto rocce e pietre con il profumo di citrino.”
+
+RESOURCE ID: gofest2023_park_0_6
+TEXT: Mmm... le gemme di citrino sono arancioni, della stessa tonalità dell’aroma non a caso!
+
+RESOURCE ID: gofest2023_park_0_7
+TEXT: Che ne dici di usare un aroma mentre esploriamo il parco? I Pokémon che troviamo potrebbero portarci verso qualcosa di speciale!
+
+RESOURCE ID: gofest2023_park_1_1
+TEXT: Ah, è qui che quei Pokémon ci stavano conducendo!
+
+RESOURCE ID: gofest2023_park_1_2
+TEXT: Ma l’unico tesoro che vedo è l’espressione di gioia sul viso di tutti questi Allenatori, incluso il tuo, %PLAYERNAME%!
+
+RESOURCE ID: gofest2023_park_1_3
+TEXT: Magari il prossimo indizio ci svelerà qualcosa di più.
+
+RESOURCE ID: gofest2023_park_1_4
+TEXT: Questo dice: “Cristallizza ricordi più luccicanti dell’oro, più preziosi di un diamante.”
+
+RESOURCE ID: gofest2023_park_1_5
+TEXT: E guarda sono segnati dei luoghi nelle vicinanze!
+
+RESOURCE ID: gofest2023_park_1_6
+TEXT: Ho perlustrato il parco prima che arrivassi, e mi ricordo che quei posti avevano delle caratteristiche geologiche sorprendenti! I Pokémon di quelle zone sembrano felicissimi!
+
+RESOURCE ID: gofest2023_park_1_7
+TEXT: Ti consiglio di andare anche tu a visitarli, anche senza questa mappa! E per quanto riguarda la cristallizzazione, quale modo migliore di conservare un ricordo se non con una foto?
+
+RESOURCE ID: gofest2023_park_1_8
+TEXT: Perché non seguiamo la mappa e facciamo delle foto con i nostri Pokémon?
+
+RESOURCE ID: gofest2023_park_2_1
+TEXT: Le foto che hai fatto sono dei veri gioielli, %PLAYERNAME%! Voglio mettere questa foto che ho scattato con Meltan sul mio frigo.
+
+RESOURCE ID: gofest2023_park_2_2
+TEXT: Ma ahimè, ancora nessun tesoro in vista! Passiamo al prossimo indizio. Ho un buon presentimento.
+
+RESOURCE ID: gofest2023_park_2_3
+TEXT: “Quando cerchi un gioiello luccicante, aguzza la vista e prendi bene la mira.”
+
+RESOURCE ID: gofest2023_park_2_4
+TEXT: Ora, so che non ti sfuggirebbe mai un Pokémon...
+
+RESOURCE ID: gofest2023_park_2_5
+TEXT: Ma prendere una buona mira quando si cattura un Pokémon può essere una sfida, anche per gli Allenatori più esperti.
+
+RESOURCE ID: gofest2023_park_2_6
+TEXT: Forse questo indizio intende mettere alla prova la nostra abilità nel lanciare le Poké Ball. Qualcosa mi dice che ormai stiamo per scoprire quel “gioiello luccicante”!
+
+RESOURCE ID: gofest2023_park_3_1
+TEXT: Wow! Quello è veramente il Pokémon che penso, %PLAYERNAME%? Il Pokémon misterioso Diancie?
+
+RESOURCE ID: gofest2023_park_3_2
+TEXT: Fantastico! Stupendo! Ma guarda come luccicano quei cristalli rosa!
+
+RESOURCE ID: gofest2023_park_3_3
+TEXT: Alcuni ritengono che il suo corpo splendente sia la cosa più bella del mondo, e io sono d’accordo!
+
+RESOURCE ID: gofest2023_park_3_4
+TEXT: E tutto quel luccicore continua ad abbagliarci! Diancie infatti può creare una grande quantità di diamanti in un istante comprimendo tra le mani il carbonio presente nell’aria.
+
+RESOURCE ID: gofest2023_park_3_5
+TEXT: Ottimo lavoro, %PLAYERNAME%! Ma non abbiamo ancora finito!
+
+RESOURCE ID: gofest2023_park_3_6
+TEXT: Ecco il nostro prossimo e ultimo indizio:
+
+RESOURCE ID: gofest2023_park_3_7
+TEXT: “Una scia di scintillante polvere di stelle conduce a un’ineguagliabile bellezza.”
+
+RESOURCE ID: gofest2023_park_3_8
+TEXT: Mi sa che dobbiamo sbrigarci a raccogliere polvere di stelle!
+
+RESOURCE ID: gofest2023_park_4_1
+TEXT: Oh? Cos’hai scoperto, %PLAYERNAME%?
+
+RESOURCE ID: gofest2023_park_4_2
+TEXT: Non ho mai visto questa particolare Megaenergia, ma scommetto che può essere usata per far megaevolvere Diancie!
+
+RESOURCE ID: gofest2023_park_4_3
+TEXT: Diancie è già straordinario così, non vedo l’ora di vedere cosa succede quando si megaevolve. Posso solo immaginare che diventerà ancora più incantevole!
+
+RESOURCE ID: gofest2023_park_4_4
+TEXT: Se farai veramente megaevolvere Diancie, voglio essere il primo a saperlo!
+
+RESOURCE ID: gofest2023_park_4_5
+TEXT: Ma la nostra avventura di oggi è stata lunga, e non voglio che ti affatichi troppo prima di esplorare quest’area per conto tuo.
+
+RESOURCE ID: gofest2023_park_4_6
+TEXT: Grazie per aver trascorso la giornata con me, %PLAYERNAME%. Farò tesoro del tempo speso insieme.
+
+RESOURCE ID: gofest2023_park_4_7
+TEXT: Spero che il resto della tua giornata sia incantevole quanto MegaDiancie! Pronti, partenza... GO!
+
+RESOURCE ID: gofest2023_park_session
+TEXT: Festival di Pokémon GO 2023: esperienza al parco
+
+RESOURCE ID: gofest2023_pyrite_sands
+TEXT: Sfida di collezione Dune di pirite
+
+RESOURCE ID: gofest2023_pyrite_sands_description
+TEXT: Cattura questi Pokémon nell’habitat Dune di pirite!
+
+RESOURCE ID: gofest2023_quartz_terrarium
+TEXT: Sfida di collezione Terrari di quarzo
+
+RESOURCE ID: gofest2023_quartz_terrarium_description
+TEXT: Cattura questi Pokémon nell’habitat Terrari di quarzo!
+
+RESOURCE ID: gofest2023_raid_add_on
+TEXT: Festival di Pokémon GO 2023: passione raid
+
+RESOURCE ID: gofest2023_ticketed_rayquaza_0_1
+TEXT: Salve, %PLAYERNAME%. Speravo proprio di rincontrarti oggi!
+
+RESOURCE ID: gofest2023_ticketed_rayquaza_0_2
+TEXT: Wow, guarda quanti Pokémon! Pensi che anche loro siano qui per partecipare al Festival di Pokémon GO?
+
+RESOURCE ID: gofest2023_ticketed_rayquaza_0_3
+TEXT: Hai ragione, probabilmente non conoscono le feste degli esseri umani. Ma Spark mi sta insegnando a distinguere le vibrazioni, e ho come il sospetto che questi Pokémon sappiano riconoscere quelle positive!
+
+RESOURCE ID: gofest2023_ticketed_rayquaza_0_4
+TEXT: In ogni caso, non ha senso restare qui fermi quando ci sono così tanti Pokémon da conoscere!
+
+RESOURCE ID: gofest2023_ticketed_rayquaza_0_5
+TEXT: Quindi cosa stiamo aspettando? Andiamo a catturare!
+
+RESOURCE ID: gofest2023_ticketed_rayquaza_1_1
+TEXT: Rieccoti qua, %PLAYERNAME%!
+
+RESOURCE ID: gofest2023_ticketed_rayquaza_1_2
+TEXT: Mentre eri via, ho notato un numero insolito di Pokémon di tipo Volante e di tipo Drago qui in giro!
+
+RESOURCE ID: gofest2023_ticketed_rayquaza_1_3
+TEXT: È solo un’ipotesi, ma mi chiedo se abbiano in qualche modo percepito la presenza di MegaRayquaza nella zona. Forse sei già al corrente che Rayquaza è di due tipi: Drago e Volante.
+
+RESOURCE ID: gofest2023_ticketed_rayquaza_1_4
+TEXT: E magari sai già che secondo alcuni ricercatori di Hoenn MegaRayquaza può generare una potenza sufficiente ad avere la meglio su sia ArcheoKyogre che ArcheoGroudon.
+
+RESOURCE ID: gofest2023_ticketed_rayquaza_1_5
+TEXT: La leggenda vuole che Kyogre e Groudon rappresentino i mari e la terra, quindi mantenere la pace tra loro non è un compito da poco!
+
+RESOURCE ID: gofest2023_ticketed_rayquaza_1_6
+TEXT: Potenziamo alcuni dei nostri Pokémon di tipo Volante e Drago.
+
+RESOURCE ID: gofest2023_ticketed_rayquaza_2_1
+TEXT: Grande, %PLAYERNAME%!
+
+RESOURCE ID: gofest2023_ticketed_rayquaza_2_2
+TEXT: Adesso che hai potenziato quei Pokémon, come ti senti? Oserei dire... più forte? Perché non usare questa energia per sfidare qualche Pokémon, magari proprio MegaRayquaza!
+
+RESOURCE ID: gofest2023_ticketed_rayquaza_2_3
+TEXT: Un consiglio: MegaRayquaza è debole alle mosse di tipo Ghiaccio, Roccia, Drago e Folletto. Tienilo bene a mente mentre prepari la tua squadra!
+
+RESOURCE ID: gofest2023_ticketed_rayquaza_2_4
+TEXT: Ho la sensazione che MegaRayquaza apprezzerà lo sforzo che hai fatto di affrontarlo in una sfida onesta.
+
+RESOURCE ID: gofest2023_ticketed_rayquaza_2_5
+TEXT: Dopotutto, possiamo sempre apprendere qualcosa da una lotta amichevole, come ben sa Candela!
+
+RESOURCE ID: gofest2023_ticketed_rayquaza_2_6
+TEXT: Anche se di solito, dopo aver combattuto con lei, la lezione per me è che non dovrei più provarci...
+
+RESOURCE ID: gofest2023_ticketed_rayquaza_2_7
+TEXT: Beh, spero che almeno lei stia imparando qualcosa da questa esperienza.
+
+RESOURCE ID: gofest2023_ticketed_rayquaza_2_8
+TEXT: Ora mettiti in gioco e fai vedere a MegaRayquaza di cosa sei capace!
+
+RESOURCE ID: gofest2023_ticketed_rayquaza_3_1
+TEXT: Questo sì che è un lavoro ben fatto, %PLAYERNAME%!
+
+RESOURCE ID: gofest2023_ticketed_rayquaza_3_2
+TEXT: Le lotte sono un ottimo modo per conoscere meglio sia i propri Pokémon che quelli avversari.
+
+RESOURCE ID: gofest2023_ticketed_rayquaza_3_3
+TEXT: Forse MegaRayquaza ha imparato qualcosa su di te da questo confronto, che dici?
+
+RESOURCE ID: gofest2023_ticketed_rayquaza_3_4
+TEXT: E visto il tempo che hai trascorso con MegaRayquaza oggi, non ho dubbi che saresti in grado di far megaevolvere Rayquaza se si presentasse l’occasione!
+
+RESOURCE ID: gofest2023_ticketed_rayquaza_3_5
+TEXT: Ma innanzitutto, per quanto le lotte possano essere divertenti, scommetto che la tua squadra sia un po’ stremata.
+
+RESOURCE ID: gofest2023_ticketed_rayquaza_3_6
+TEXT: Lasciamogli tirare il fiato e andiamo a catturare qualche Pokémon nel frattempo!
+
+RESOURCE ID: gofest2023_ticketed_rayquaza_4_1
+TEXT: Incredibile, %PLAYERNAME%! Non riesco a credere a quanti Pokémon hai catturato!
+
+RESOURCE ID: gofest2023_ticketed_rayquaza_4_2
+TEXT: Come stanno i tuoi Pokémon? Pronti ad affrontare il resto della giornata?
+
+RESOURCE ID: gofest2023_ticketed_rayquaza_4_3
+TEXT: Benissimo! È quello che volevo sentire.
+
+RESOURCE ID: gofest2023_ticketed_rayquaza_4_4
+TEXT: Allora, che cosa farai adesso? Andare alla ricerca di MegaRayquaza? Rintracciare un Pokémon sfuggente? Passare un po’ di tempo con il tuo compagno?
+
+RESOURCE ID: gofest2023_ticketed_rayquaza_4_5
+TEXT: Sono tutte ottime opzioni! Qualunque sia la tua scelta, grazie ancora per aver partecipato al Festival di Pokémon GO di quest’anno!
+
+RESOURCE ID: gofest2023_ticketed_rayquaza_4_6
+TEXT: Spero che potremo festeggiare di nuovo insieme l’anno prossimo, ovunque ci portino i nostri viaggi.
+
+RESOURCE ID: gofest2023_ticketed_rayquaza_4_7
+TEXT: Pronti, partenza... GO!
+
 RESOURCE ID: gofest_2021_band_boisterous
 TEXT: Festival di Pokémon GO 2021: ilare
 
@@ -22677,7 +24033,7 @@ RESOURCE ID: gold_box_title
 TEXT: Pacco oro
 
 RESOURCE ID: google_auth_failed
-TEXT: Autenticazione fallita. Riprova.
+TEXT: Autenticazione dell’account fallita. Riprova più tardi o prova con un altro account.
 
 RESOURCE ID: google_login_button
 TEXT: Google
@@ -24648,7 +26004,7 @@ RESOURCE ID: guest_account_link_success_title
 TEXT: Il collegamento al tuo account è andato a buon fine.
 
 RESOURCE ID: guest_auth_failed
-TEXT: Autenticazione fallita. Riprova.
+TEXT: Autenticazione dell’account fallita. Riprova più tardi o prova con un altro account.
 
 RESOURCE ID: guest_level_expiration_subtitle
 TEXT: Devi iscriverti per continuare a giocare.
@@ -25044,6 +26400,18 @@ TEXT: Hai ricevuto una Medaglia!
 RESOURCE ID: gyms_disabled_update
 TEXT: Palestra in costruzione.
 
+RESOURCE ID: habitat_aquamarine_shores
+TEXT: Coste di acquamarina
+
+RESOURCE ID: habitat_malachite_wilderness
+TEXT: Lande di malachite
+
+RESOURCE ID: habitat_pyrite_sands
+TEXT: Dune di pirite
+
+RESOURCE ID: habitat_quartz_terrarium
+TEXT: Terrari di quarzo
+
 RESOURCE ID: hal_pumpkaboo_2021_collection_challenge
 TEXT: Sfida di collezione di Pumpkaboo
 
@@ -25081,10 +26449,22 @@ RESOURCE ID: halloween_ultra_cup_title
 TEXT: Coppa Halloween: edizione Lega Ultra
 
 RESOURCE ID: hatch_box
-TEXT: pacco schiusa
+TEXT: Pacco schiusa
+
+RESOURCE ID: hatch_candy_1.5x
+TEXT: Una volta e mezza in più delle caramelle da cattura
 
 RESOURCE ID: hatch_candy_double
 TEXT: Doppio delle caramelle da schiusa
+
+RESOURCE ID: hatch_day_2k_riolu
+TEXT: Riolu può nascere dalle Uova da 2 km
+
+RESOURCE ID: hatch_day_riolu_limited_research
+TEXT: Ricerca a tempo della giornata di cattura dedicata a Riolu
+
+RESOURCE ID: hatch_stardust_1.5x
+TEXT: Una volta e mezza in più della polvere di stelle da schiusa
 
 RESOURCE ID: hatch_stardust_double
 TEXT: Doppio della polvere di stelle da schiusa
@@ -25318,7 +26698,7 @@ RESOURCE ID: iap_sale_days_left
 TEXT: Giorni rimasti: {0}
 
 RESOURCE ID: iap_sale_discount
-TEXT: {0}% OFF
+TEXT: Sconto del {0}%
 
 RESOURCE ID: iap_sale_ends_today
 TEXT: Termina oggi!
@@ -25443,6 +26823,9 @@ TEXT: Qualcuno ti ha inviato una richiesta di amicizia.
 RESOURCE ID: increased_adventure_sync_rewards
 TEXT: Maggior numero di ricompense della Sincroavventura nel corso della prossima settimana
 
+RESOURCE ID: increased_chance_buddy_xl_bonus
+TEXT: Maggiore possibilità di guadagnare caramelle L mentre sei in giro con il tuo compagno
+
 RESOURCE ID: increased_shiny_2k_5k_10k_eggs
 TEXT: Maggiore possibilità che dei Pokémon cromatici nascano dalle Uova da 2, 5 e 10 km
 
@@ -25451,6 +26834,12 @@ TEXT: Più polvere di stelle sconfiggendo le reclute del Team GO Rocket
 
 RESOURCE ID: increased_transfer_candy_xl_bonus
 TEXT: Più caramelle da trasferimento e più caramelle L da trasferimento
+
+RESOURCE ID: increased_xp_pokestop_streak_bonus
+TEXT: PE extra come ricompensa per serie di giri dei dischi dei Pokéstop di sette giorni consecutivi
+
+RESOURCE ID: increased_xp_stardust_pokemon_streak_bonus
+TEXT: PE e polvere di stelle extra come ricompensa per serie di catture di sette giorni consecutivi
 
 RESOURCE ID: incubator_choose_egg
 TEXT: Scegli un Uovo da mettere nell’incubatrice.
@@ -25758,6 +27147,27 @@ TEXT: Consente l’accesso alla ricerca a tempo della Lega Lotte GO, che ti perm
 RESOURCE ID: item_battle_pass_ticket_name
 TEXT: Biglietto ricerca a tempo Lega
 
+RESOURCE ID: item_bean_collected_body
+TEXT: Hai trovato una cellula di Zygarde
+
+RESOURCE ID: item_beans_desc
+TEXT: Le cellule di Zygarde possono essere aggregate e separate per creare diverse forme del Pokémon. Puoi portare con te {0} cellule di Zygarde alla volta.
+
+RESOURCE ID: item_beans_multiple_collected_body
+TEXT: Hai trovato {0} cellule di Zygarde
+
+RESOURCE ID: item_beans_name
+TEXT: Cellula di Zygarde
+
+RESOURCE ID: item_beans_name_plural
+TEXT: Cellule di Zygarde
+
+RESOURCE ID: item_beans_one_collected_body
+TEXT: {0} cellule di Zygarde sono state risucchiate nella Teca Zygarde!
+
+RESOURCE ID: item_beans_one_collected_body_singular
+TEXT: Una cellula di Zygarde è stata risucchiata nella Teca Zygarde!
+
 RESOURCE ID: item_beast_ball_desc
 TEXT: Una Poké Ball speciale pensata per catturare Ultracreature.
 
@@ -25769,6 +27179,15 @@ TEXT: UNDEFINED
 
 RESOURCE ID: item_bluk_berry_name
 TEXT: Baccamora
+
+RESOURCE ID: item_breakfast_desc
+TEXT: Uno strumento in cui vengono raccolte le cellule di Zygarde; lo puoi usare per cambiare la sua forma, e può conservare fino a {0} cellule di Zygarde.
+
+RESOURCE ID: item_breakfast_desc_count
+TEXT: Uno strumento in cui vengono raccolte le cellule di Zygarde. Hai {0} cellule di Zygarde.
+
+RESOURCE ID: item_breakfast_name
+TEXT: Teca Zygarde
 
 RESOURCE ID: item_dragon_scale_desc
 TEXT: Squama che fa evolvere determinate specie di Pokémon. È molto spessa e dura.
@@ -25810,7 +27229,7 @@ RESOURCE ID: item_event_ticket_pink_bulbt_details
 TEXT: Questo biglietto si attiverà automaticamente garantendoti l’accesso alla ricerca speciale il 22 gennaio 2022, ovunque ti trovi.
 
 RESOURCE ID: item_event_ticket_pink_desc
-TEXT: Un biglietto per accedere alla ricerca speciale del Community Day Classico dedicato a Squirtle, ovunque ti trovi.
+TEXT: Un biglietto per accedere alla ricerca speciale del Community Day dedicato a Poliwag il 30 luglio 2023 dalle 14:00 alle 17:00 ora locale, ovunque ti trovi.
 
 RESOURCE ID: item_event_ticket_pink_desc_alodude
 TEXT: Un biglietto per accedere alla ricerca speciale il 21 maggio 2022 dalle 11:00 alle 14:00 ora locale, ovunque ti trovi.
@@ -25836,8 +27255,8 @@ TEXT: Un biglietto per accedere alla ricerca a tempo Caccia all’oro il 3 giugn
 RESOURCE ID: item_event_ticket_pink_desc_mrmime
 TEXT: Un biglietto per accedere a un evento speciale dalle 10:00 del 19 dicembre alle 20:00 del 20 dicembre 2020 ora locale, ovunque ti trovi.
 
-RESOURCE ID: item_event_ticket_pink_desc_poliwag
-TEXT: A ticket to access Special Research on July 30, 2023, from 2:00 p.m. to 5:00 p.m. local time, wherever you are.
+RESOURCE ID: item_event_ticket_pink_desc_squirtle
+TEXT: Un biglietto per accedere alla ricerca speciale del Community Day Classico dedicato a Squirtle, ovunque ti trovi.
 
 RESOURCE ID: item_event_ticket_pink_desc_swinub
 TEXT: Un biglietto per accedere alla ricerca speciale del Community Day Classico dedicato a Swinub, ovunque ti trovi.
@@ -25846,7 +27265,7 @@ RESOURCE ID: item_event_ticket_pink_desc_togetic
 TEXT: Un biglietto per accedere alla ricerca speciale il 15 aprile 2023 dalle 14:00 alle 17:00 ora locale, ovunque ti trovi.
 
 RESOURCE ID: item_event_ticket_pink_details
-TEXT: Questo biglietto si attiverà automaticamente garantendoti l’accesso alla ricerca speciale del Community Day Classico dedicato a Squirtle il 9 luglio 2023 dalle 14:00 alle 17:00 ora locale, ovunque ti trovi.
+TEXT: Questo biglietto si attiverà automaticamente garantendoti l’accesso alla ricerca speciale Spirali scivolose il 30 luglio 2023, ovunque ti trovi.
 
 RESOURCE ID: item_event_ticket_pink_details_axew
 TEXT: Questo biglietto si attiverà automaticamente garantendoti l’accesso alla ricerca speciale del Community Day dedicato ad Axew sabato 10 giugno 2023 dalle 14:00 alle 17:00 ora locale, ovunque ti trovi.
@@ -25869,8 +27288,8 @@ TEXT: Questo biglietto si attiverà automaticamente garantendoti l’accesso all
 RESOURCE ID: item_event_ticket_pink_details_mrmime
 TEXT: Questo biglietto si attiverà automaticamente garantendoti l’accesso all’evento dedicato a Mr. Mime di Galar dalle 10:00 del 19 dicembre alle 20:00 al 20 dicembre 2020 ora locale, ovunque ti trovi.
 
-RESOURCE ID: item_event_ticket_pink_details_poliwag
-TEXT: This ticket will automatically activate to give you access to the Poliwag Community Day Special Research, wherever you are.
+RESOURCE ID: item_event_ticket_pink_details_squirtle
+TEXT: Questo biglietto si attiverà automaticamente garantendoti l’accesso alla ricerca speciale del Community Day Classico dedicato a Squirtle dalle 14:00 alle 17:00 del 23 luglio 2023 ora locale, ovunque ti trovi.
 
 RESOURCE ID: item_event_ticket_pink_details_swinub
 TEXT: Questo biglietto si attiverà automaticamente garantendoti l’accesso alla ricerca speciale del Community Day Classico dedicato a Swinub il 29 aprile 2023 dalle 14:00 alle 17:00 ora locale, ovunque ti trovi.
@@ -25963,9 +27382,15 @@ RESOURCE ID: item_event_ticket_to_gift_desc
 TEXT: Un biglietto dell'evento in più dovuto a un errore di acquisto. Puoi inviarlo a un amico oppure ottenere un rimborso.
 
 RESOURCE ID: item_evergreen_ticket_desc
+TEXT: Un biglietto per accedere alla ricerca a tempo della settimana dell’avventura 2023 dal 27 luglio 2023 alle 10:00 fino al 2 agosto 2023 alle 20:00 ora locale, ovunque ti trovi.
+
+RESOURCE ID: item_evergreen_ticket_desc_7th_anniversary_tr
 TEXT: Questo biglietto si attiverà automaticamente garantendoti l’accesso alla ricerca a tempo dedicata alla Festa del 7° anniversario fino alle 20:00 di mercoledì 12 luglio 2023 ora locale, ovunque ti trovi.
 
 RESOURCE ID: item_evergreen_ticket_details
+TEXT: Questo biglietto si attiverà automaticamente garantendoti l’accesso alla ricerca a tempo della settimana dell’avventura 2023 dal 27 luglio 2023 alle 10:00 fino al 2 agosto 2023 alle 20:00 ora locale, ovunque ti trovi.
+
+RESOURCE ID: item_evergreen_ticket_details_7th_anniversary_tr
 TEXT: Questo biglietto si attiverà automaticamente garantendoti l’accesso alla ricerca a tempo dedicata alla Festa del 7° anniversario fino alle 20:00 di mercoledì 12 luglio 2023 ora locale, ovunque ti trovi.
 
 RESOURCE ID: item_evergreen_ticket_name
@@ -26008,7 +27433,7 @@ RESOURCE ID: item_global_event_ticket_desc_beachweek
 TEXT: Un biglietto per accedere alla ricerca a tempo Settimana in spiaggia del Festival dell’Acqua.
 
 RESOURCE ID: item_global_event_ticket_desc_solstice
-TEXT: Un biglietto per accedere alla ricerca speciale Cieli stellati, ovunque ti trovi.
+TEXT: Un biglietto per accedere alla ricerca speciale “Cieli stellati“, ovunque ti trovi.
 
 RESOURCE ID: item_global_event_ticket_desc_willow
 TEXT: Un biglietto per accedere alla ricerca a tempo “Il guardaroba di Willow” dal 1° marzo al 30 giugno 2023, ovunque ti trovi.
@@ -26492,6 +27917,12 @@ TEXT: Fantasia scintillante
 RESOURCE ID: japanese
 TEXT: 日本語
 
+RESOURCE ID: jeju_poliwag_bonus_tr_desc
+TEXT: Ricerca a tempo aggiuntiva all’Isola di Jeju del Community Day dedicato a Poliwag
+
+RESOURCE ID: jeju_poliwag_bonus_tr_title
+TEXT: Ricerca a tempo aggiuntiva del Community Day dedicato a Poliwag
+
 RESOURCE ID: jessie_james_boosted_encounter
 TEXT: La Mongolfiera di Meowth con Jessie e James è in giro
 
@@ -26525,6 +27956,12 @@ TEXT: Hai ricevuto un numero di strumenti pari a {0} come ricompensa settimanale
 RESOURCE ID: journal_received_raid_ticket
 TEXT: Hai ricevuto un invito a un raid EX presso {0}.
 
+RESOURCE ID: journal_route_complete
+TEXT: Hai completato un percorso!
+
+RESOURCE ID: journal_route_complete_named
+TEXT: Completati: {0}!
+
 RESOURCE ID: journal_shadow_caught
 TEXT: Hai catturato {0} Ombra!
 
@@ -26554,6 +27991,24 @@ TEXT: Link 1
 
 RESOURCE ID: jp_iap_linkname2
 TEXT: Link 2
+
+RESOURCE ID: jp_uk_timed_header_0
+TEXT: Ricerca a tempo Giardino luccicante
+
+RESOURCE ID: jpuk_gofest_global_event_name
+TEXT: Giardino luccicante
+
+RESOURCE ID: jul23_adventure_collection_challenge_1
+TEXT: Sfida di collezione della settimana dell’avventura: Domofossile ed Helixfossile
+
+RESOURCE ID: jul23_adventure_collection_challenge_2
+TEXT: Sfida di collezione della settimana dell’avventura: Radifossile e Fossilunghia
+
+RESOURCE ID: jul23_adventure_collection_challenge_3
+TEXT: Sfida di collezione della settimana dell’avventura: Fossilcranio e Fossilscudo
+
+RESOURCE ID: jul23_adventure_collection_challenge_4
+TEXT: Sfida di collezione della settimana dell’avventura:: Fossiltappo e Fossilpiuma
 
 RESOURCE ID: july22_hisui_disc_collection_challenge
 TEXT: Sfida di collezione di "Scoperte di Hisui"
@@ -26695,7 +28150,7 @@ RESOURCE ID: league_ruleset_info_timestamp_both_subtitle
 TEXT: Questa Coppa è limitata ai Pokémon catturati dopo la data {0} e prima della data {1}.
 
 RESOURCE ID: league_ruleset_info_title
-TEXT: Regolamento della Coppa
+TEXT: Regolamento della Coppa
 
 
 RESOURCE ID: league_ruleset_info_type_subtitle
@@ -29387,6 +30842,10 @@ TEXT: Ascesa dell’eroe
 RESOURCE ID: m_avatar_poses_bundle_pose_52
 TEXT: Surfista
 
+RESOURCE ID: m_avatar_poses_bundle_pose_53
+TEXT: Mappa del
+tesoro
+
 RESOURCE ID: m_avatar_poses_empty_bundle_pose_empty
 TEXT: Di riposo
 
@@ -30263,9 +31722,9 @@ RESOURCE ID: mega_walking_progress
 TEXT: Distanza percorsa
 
 RESOURCE ID: metadata_local
-TEXT: Built at 2023-08-15T00:15:27.265305
-at SHA 3f2f70aab565420b77d89253c79305aeec9552f4
-Pipeline 1676897, job 20326100
+TEXT: Built at 2023-08-21T17:47:34.524435
+at SHA 236194ea4c036061e777a7c9fb08bbfbf681852e
+Pipeline 1691898, job 20520313
 
 RESOURCE ID: mex_fighting_promo_title
 TEXT: Ricerca a tempo: Scegli il tuo tipo Lotta
@@ -30354,6 +31813,9 @@ TEXT: Cattura i Pokémon in primo piano ovunque appaiano.
 RESOURCE ID: minicollect_help_desc_type_evolve
 TEXT: Fai evolvere dei Pokémon.
 
+RESOURCE ID: minicollect_help_desc_type_hatch
+TEXT: Fai nascere dei Pokémon da un Uovo.
+
 RESOURCE ID: minicollect_help_desc_type_shadow
 TEXT: Salva i Pokémon Ombra dal Team GO Rocket.
 
@@ -30368,6 +31830,12 @@ TEXT: Alcuni Pokémon si possono incontrare solo in determinati modi. Fai riferi
 
 RESOURCE ID: minicollect_help_title
 TEXT: Sfida di collezione
+
+RESOURCE ID: minicollect_help_title_type_hatch
+TEXT: Fai schiudere
+
+RESOURCE ID: minicollect_help_title_type_raid
+TEXT: Raid
 
 RESOURCE ID: minicollect_medal_completion_banner_title
 TEXT: Sfide completate
@@ -31404,6 +32872,9 @@ TEXT: Magifiamma
 RESOURCE ID: move_name_0383
 TEXT: Idrobreccia
 
+RESOURCE ID: move_name_0384
+TEXT: Ascesa del Drago
+
 RESOURCE ID: move_name_0385
 TEXT: Fogliame
 
@@ -31792,6 +33263,9 @@ TEXT: Ma certo! Mi metto subito a studiare la faccenda insieme a %PLAYERNAME%. E
 
 RESOURCE ID: mystery_invasion_onboarding_dialogue_9
 TEXT: Grazie! Ci vediamo dopo, allora. Buona esplorazione!
+
+RESOURCE ID: name your route
+TEXT: Dai un nome al tuo percorso
 
 RESOURCE ID: nearby_pokemon_clear_button
 TEXT: Annulla
@@ -32314,6 +33788,9 @@ TEXT: Si è verificato un errore durante il riscatto del codice.
 RESOURCE ID: passcode_rpc_timeout
 TEXT: La richiesta di riscatto del codice è scaduta. Controlla le impostazioni di rete e riprova.
 
+RESOURCE ID: pause_route_travel_error_toast
+TEXT: Errore nella sospensione del percorso
+
 RESOURCE ID: pending_friend_request
 TEXT: Hai una richiesta di amicizia in sospeso da parte di questo Allenatore.
 
@@ -32537,6 +34014,9 @@ TEXT: Cinque incontri a sorpresa con Noibat in modalità foto GO
 
 RESOURCE ID: photobomb_five_oshawott
 TEXT: Cinque incontri a sorpresa con Oshawott in modalità foto GO
+
+RESOURCE ID: photobomb_five_poliwag
+TEXT: Cinque incontri a sorpresa con Poliwag in modalità foto GO
 
 RESOURCE ID: photobomb_five_porygon
 TEXT: Cinque incontri a sorpresa con Porygon in modalità foto GO
@@ -40057,6 +41537,12 @@ TEXT: Sblocca mossa
 RESOURCE ID: pokemon_info_unlockmove3_confirmation
 TEXT: Vuoi insegnare a {0} un nuovo attacco caricato?
 
+RESOURCE ID: pokemon_info_upgrade_evolution_confirmation
+TEXT: Vuoi cambiare la forma di {0}?
+
+RESOURCE ID: pokemon_info_upgrade_evolve_button
+TEXT: Cambia forma
+
 RESOURCE ID: pokemon_info_weight
 TEXT: Peso
 
@@ -43713,7 +45199,7 @@ RESOURCE ID: profile_no_gymbadges
 TEXT: Nessuna
 
 RESOURCE ID: profile_no_routemedals
-TEXT: You haven’t earned any Route Badges yet.
+TEXT: Non hai ancora guadagnato nessuna Medaglia percorso.
 
 RESOURCE ID: profile_player_level
 TEXT: Livello
@@ -43761,7 +45247,7 @@ RESOURCE ID: ptc_account_creation_prompt
 TEXT: Non hai un account del Club Allenatori di Pokémon?
 
 RESOURCE ID: ptc_auth_failed
-TEXT: Autenticazione fallita. Riprova.
+TEXT: Autenticazione dell’account fallita. Riprova più tardi o prova con un altro account.
 
 RESOURCE ID: ptc_error_activation_required
 TEXT: Attiva il tuo account per giocare con Pokémon GO.
@@ -44135,6 +45621,9 @@ TEXT: Usa {0} Baccalampon per catturare Drifloon
 RESOURCE ID: quest_catch_c_types_plural
 TEXT: Cattura {0} Pokémon di tipo Volante, Psico o Buio
 
+RESOURCE ID: quest_catch_carbink_singular
+TEXT: Cattura un Carbink
+
 RESOURCE ID: quest_catch_celebi_types_plural
 TEXT: Cattura {0} Pokémon di tipo Erba o Psico
 
@@ -44165,6 +45654,9 @@ TEXT: Cattura un Furfrou
 RESOURCE ID: quest_catch_groudon_primal_boosted_types
 TEXT: Cattura {0} Pokémon di tipo Fuoco, Erba o Terra
 
+RESOURCE ID: quest_catch_groudon_type
+TEXT: Cattura {0} Pokémon di tipo Fuoco, Erba o Terra
+
 RESOURCE ID: quest_catch_hoenn_pokemon
 TEXT: Cattura {0} Pokémon originariamente scoperti nella regione di Hoenn
 
@@ -44184,6 +45676,9 @@ RESOURCE ID: quest_catch_kanto_pokemon
 TEXT: Cattura {0} Pokémon originariamente scoperti nella regione di Kanto
 
 RESOURCE ID: quest_catch_kyogre_primal_boosted_types
+TEXT: Cattura {0} Pokémon di tipo Acqua, Elettro o Coleottero
+
+RESOURCE ID: quest_catch_kyogre_type
 TEXT: Cattura {0} Pokémon di tipo Acqua, Elettro o Coleottero
 
 RESOURCE ID: quest_catch_legendary_inarow_plural
@@ -44216,6 +45711,12 @@ TEXT: Usa degli aromi avventura giornaliera per catturare {0} Pokémon
 RESOURCE ID: quest_catch_pokemon_plural
 TEXT: Cattura {0} Pokémon
 
+RESOURCE ID: quest_catch_pokemon_routes_plural
+TEXT: Cattura {0} Pokémon mentre segui dei percorsi
+
+RESOURCE ID: quest_catch_pokemon_routes_singular
+TEXT: Cattura un Pokémon mentre segui un percorso
+
 RESOURCE ID: quest_catch_pokemon_singular
 TEXT: Cattura un Pokémon
 
@@ -44236,6 +45737,9 @@ TEXT: Cattura un Regirock in un raid
 
 RESOURCE ID: quest_catch_raid_regi_steel
 TEXT: Cattura un Registeel in un raid
+
+RESOURCE ID: quest_catch_rayquaza_type
+TEXT: Cattura {0} Pokémon di tipo Volante, Psico o Drago
 
 RESOURCE ID: quest_catch_solrock_plural
 TEXT: Cattura {0} Solrock
@@ -44507,6 +46011,9 @@ TEXT: Cattura un Pokémon di tipo Buio
 RESOURCE ID: quest_catch_type_dragon_plural
 TEXT: Cattura {0} Pokémon di tipo Drago
 
+RESOURCE ID: quest_catch_type_dragon_plural_unique
+TEXT: Cattura {0} specie diverse di Pokémon di tipo Drago
+
 RESOURCE ID: quest_catch_type_dragon_singular
 TEXT: Cattura un Pokémon di tipo Drago
 
@@ -44530,6 +46037,9 @@ TEXT: Cattura un Pokémon di tipo Folletto
 
 RESOURCE ID: quest_catch_type_fighting_plural
 TEXT: Cattura {0} Pokémon di tipo Lotta
+
+RESOURCE ID: quest_catch_type_fighting_plural_unique
+TEXT: Cattura {0} specie diverse di Pokémon di tipo Lotta
 
 RESOURCE ID: quest_catch_type_fighting_singular
 TEXT: Cattura un Pokémon di tipo Lotta
@@ -44633,6 +46143,9 @@ TEXT: Cattura {0} Pokémon che condividono un tipo con Pheromosa
 RESOURCE ID: quest_catch_type_poison_plural
 TEXT: Cattura {0} Pokémon di tipo Veleno
 
+RESOURCE ID: quest_catch_type_poison_plural_unique
+TEXT: Cattura {0} specie diverse di Pokémon di tipo Veleno
+
 RESOURCE ID: quest_catch_type_poison_singular
 TEXT: Cattura un Pokémon di tipo Veleno
 
@@ -44647,6 +46160,9 @@ TEXT: Cattura un Pokémon di tipo Psico
 
 RESOURCE ID: quest_catch_type_rock_plural
 TEXT: Cattura {0} Pokémon di tipo Roccia
+
+RESOURCE ID: quest_catch_type_rock_plural_unique
+TEXT: Cattura {0} specie diverse di Pokémon di tipo Roccia
 
 RESOURCE ID: quest_catch_type_rock_singular
 TEXT: Cattura un Pokémon di tipo Roccia
@@ -44882,6 +46398,12 @@ TEXT: Un’ombra dai sette colori
 RESOURCE ID: quest_complete_roset
 TEXT: Profumo di Roselia
 
+RESOURCE ID: quest_complete_routes_plural
+TEXT: Segui {0} percorsi
+
+RESOURCE ID: quest_complete_routes_singular
+TEXT: Segui un percorso
+
 RESOURCE ID: quest_complete_rue
 TEXT: Ritorno in forma
 
@@ -44912,8 +46434,14 @@ TEXT: Un volatile dalle ali di cotone
 RESOURCE ID: quest_complete_tepit
 TEXT: Bacche arrostite
 
+RESOURCE ID: quest_complete_unique_routes
+TEXT: Percorri {0} percorsi diversi fino al punto di arrivo 
+
 RESOURCE ID: quest_complete_wt
 TEXT: Una situazione spinosa
+
+RESOURCE ID: quest_complete_zygarde
+TEXT: Dalla A a Zygarde
 
 RESOURCE ID: quest_daily_bonus_title
 TEXT: Bonus giornaliero
@@ -46694,8 +48222,17 @@ TEXT: Fai evolvere uno Zweilous
 RESOURCE ID: quest_explore_buddy
 TEXT: Guadagna una caramella esplorando con il tuo compagno
 
+RESOURCE ID: quest_explore_buddy_carbink
+TEXT: Guadagna una caramella esplorando con Carbink come tuo compagno
+
 RESOURCE ID: quest_explore_buddy_plural
 TEXT: Guadagna {0} caramelle esplorando con il tuo compagno
+
+RESOURCE ID: quest_explore_buddy_routes_plural
+TEXT: Guadagna {0} caramelle esplorando dei percorsi con il tuo compagno
+
+RESOURCE ID: quest_explore_buddy_routes_singular
+TEXT: Guadagna una caramella esplorando dei percorsi con il tuo compagno
 
 RESOURCE ID: quest_explore_km
 TEXT: Esplora {0} km
@@ -46805,6 +48342,9 @@ TEXT: Raggiungi il livello 10 nella Lega Lotte GO
 RESOURCE ID: quest_gbl_rank_twenty
 TEXT: Raggiungi il livello 20 nella Lega Lotte GO
 
+RESOURCE ID: quest_get_cell_singular
+TEXT: Trova una cellula di Zygarde
+
 RESOURCE ID: quest_giblt_catch_b
 TEXT: Cattura {0} Gible
 
@@ -46906,6 +48446,54 @@ TEXT: Momenti come questo mi ricordano del motivo per cui sono diventato Profess
 
 RESOURCE ID: quest_gofest2021_raid_dialogue_2_7
 TEXT: Per adesso, perché non partecipi a qualche raid con altri Allenatori e catturi qualche Pokémon? Avrai bisogno di essere in piena forma per catturare Hoopa. Pronti, partenza... GO!
+
+RESOURCE ID: quest_gofest2023_live_photo_athletic_field
+TEXT: Fai una foto a un Pokémon catturato nell’habitat Campo sportivo
+
+RESOURCE ID: quest_gofest2023_live_photo_cursed_treasures
+TEXT: Fai una foto a un Pokémon catturato nell’habitat Tesori maledetti
+
+RESOURCE ID: quest_gofest2023_live_photo_dark_jungle
+TEXT: Fai una foto a un Pokémon catturato nell’habitat Giungla oscura
+
+RESOURCE ID: quest_gofest2023_live_photo_fairy_garden
+TEXT: Fai una foto a un Pokémon catturato nell’habitat Giardino fatato
+
+RESOURCE ID: quest_gofest2023_live_photo_hypnotic_glacier
+TEXT: Fai una foto a un Pokémon catturato nell’habitat Ghiacciaio ipnotico
+
+RESOURCE ID: quest_gofest2023_live_photo_poison_swamp
+TEXT: Fai una foto a un Pokémon catturato nell’habitat Palude velenosa
+
+RESOURCE ID: quest_gofest2023_live_photo_prehistoric_volcano
+TEXT: Fai una foto a un Pokémon catturato nell’habitat Vulcano preistorico
+
+RESOURCE ID: quest_gofest2023_live_photo_volcanic_island
+TEXT: Fai una foto a un Pokémon catturato nell’habitat Isola vulcanica
+
+RESOURCE ID: quest_gofest2023_live_spin_athletic_field
+TEXT: Fai girare {0} dischi foto nell’habitat Campo sportivo
+
+RESOURCE ID: quest_gofest2023_live_spin_cursed_treasures
+TEXT: Fai girare {0} dischi foto nell’habitat Tesori maledetti
+
+RESOURCE ID: quest_gofest2023_live_spin_dark_jungle
+TEXT: Fai girare {0} dischi foto nell’habitat Giungla oscura
+
+RESOURCE ID: quest_gofest2023_live_spin_fairy_garden
+TEXT: Fai girare {0} dischi foto nell’habitat Giardino fatato
+
+RESOURCE ID: quest_gofest2023_live_spin_hypnotic_glacier
+TEXT: Fai girare {0} dischi foto nell’habitat Ghiacciaio ipnotico
+
+RESOURCE ID: quest_gofest2023_live_spin_poison_swamp
+TEXT: Fai girare {0} dischi foto nell’habitat Palude velenosa
+
+RESOURCE ID: quest_gofest2023_live_spin_prehistoric_volcano
+TEXT: Fai girare {0} dischi foto nell’habitat Vulcano preistorico
+
+RESOURCE ID: quest_gofest2023_live_spin_volcanic_island
+TEXT: Fai girare {0} dischi foto nell’habitat Isola vulcanica
 
 RESOURCE ID: quest_gofest_0
 TEXT: Festival di Pokémon GO: cattura {0} Pokémon
@@ -47354,6 +48942,12 @@ TEXT: Trasferisci {0} Pokémon
 RESOURCE ID: quest_hatch_egg_plural
 TEXT: Fai schiudere {0} Uova
 
+RESOURCE ID: quest_hatch_egg_routes_plural
+TEXT: Fai schiudere {0} Uova mentre segui dei percorsi
+
+RESOURCE ID: quest_hatch_egg_routes_singular
+TEXT: Fai schiudere un Uovo mentre segui un percorso
+
 RESOURCE ID: quest_hatch_egg_singular
 TEXT: Fai schiudere un Uovo
 
@@ -47380,6 +48974,12 @@ TEXT: Fai evolvere {0} Skiploom
 
 RESOURCE ID: quest_incense_plural
 TEXT: Utilizza {0} aromi
+
+RESOURCE ID: quest_incense_routes_plural
+TEXT: Usa {0} aromi mentre segui dei percorsi
+
+RESOURCE ID: quest_incense_routes_singular
+TEXT: Usa un aroma mentre segui un percorso
 
 RESOURCE ID: quest_incense_singular
 TEXT: Utilizza un aroma
@@ -47609,8 +49209,14 @@ TEXT: Fai megaevolvere un Blastoise
 RESOURCE ID: quest_mega_evolve_charizard
 TEXT: Fai megaevolvere un Charizard
 
+RESOURCE ID: quest_mega_evolve_diancie
+TEXT: Fai megaevolvere Diancie
+
 RESOURCE ID: quest_mega_evolve_plural
 TEXT: Fai megaevolvere {0} Pokémon
+
+RESOURCE ID: quest_mega_evolve_rayquaza
+TEXT: Fai megaevolvere Rayquaza
 
 RESOURCE ID: quest_mega_evolve_singular
 TEXT: Fai megaevolvere un Pokémon
@@ -47693,6 +49299,18 @@ TEXT: Gioca con il tuo compagno
 RESOURCE ID: quest_pokemon_appears
 TEXT: Appare un Pokémon
 
+RESOURCE ID: quest_poliwag_catch_b
+TEXT: Cattura {0} Poliwag
+
+RESOURCE ID: quest_poliwag_evolve_b
+TEXT: Fai evolvere {0} Poliwag
+
+RESOURCE ID: quest_poliwag_snapshot_b
+TEXT: Fai {0} foto a Poliwag
+
+RESOURCE ID: quest_poliwhirl_evolve_b
+TEXT: Fai evolvere {0} Poliwhirl
+
 RESOURCE ID: quest_poryt_catch_b
 TEXT: Cattura {0} Porygon
 
@@ -47729,8 +49347,14 @@ TEXT: Potenzia {0} Pokémon di tipo Coleottero
 RESOURCE ID: quest_power_up_plural_dark
 TEXT: Potenzia {0} Pokémon di tipo Buio
 
+RESOURCE ID: quest_power_up_plural_dragon
+TEXT: Potenzia {0} Pokémon di tipo Drago
+
 RESOURCE ID: quest_power_up_plural_electric
 TEXT: Potenzia {0} Pokémon di tipo Elettro
+
+RESOURCE ID: quest_power_up_plural_fairy
+TEXT: Potenzia {0} Pokémon di tipo Folletto
 
 RESOURCE ID: quest_power_up_plural_fighting
 TEXT: Potenzia {0} Pokémon di tipo Lotta
@@ -47738,11 +49362,20 @@ TEXT: Potenzia {0} Pokémon di tipo Lotta
 RESOURCE ID: quest_power_up_plural_fire
 TEXT: Potenzia {0} Pokémon di tipo Fuoco
 
+RESOURCE ID: quest_power_up_plural_flying
+TEXT: Potenzia {0} Pokémon di tipo Volante
+
+RESOURCE ID: quest_power_up_plural_ghost
+TEXT: Potenzia {0} Pokémon di tipo Spettro
+
 RESOURCE ID: quest_power_up_plural_grass
 TEXT: Potenzia {0} Pokémon di tipo Erba
 
 RESOURCE ID: quest_power_up_plural_ground
 TEXT: Potenzia {0} Pokémon di tipo Terra
+
+RESOURCE ID: quest_power_up_plural_ice
+TEXT: Potenzia {0} Pokémon di tipo Ghiaccio
 
 RESOURCE ID: quest_power_up_plural_normal
 TEXT: Potenzia {0} Pokémon di tipo Normale
@@ -49428,7 +51061,7 @@ RESOURCE ID: quest_special_dialogue_deino_1_1
 TEXT: Deino morde e si lancia di peso su ciò che lo circonda. Anche al buio, ha trovato nuovi metodi per orientarsi...
 
 RESOURCE ID: quest_special_dialogue_deino_1_2
-TEXT: ......
+TEXT: ......
 
 
 RESOURCE ID: quest_special_dialogue_deino_1_3
@@ -50547,7 +52180,7 @@ RESOURCE ID: quest_special_dialogue_hoopaunbound_0_6
 TEXT: C’era anche un biglietto che sono riuscito a decifrare solo in parte, ma ecco cosa ne ho ricavato finora.
 
 RESOURCE ID: quest_special_dialogue_hoopaunbound_0_7
-TEXT: “Offri dolcetti e polvere che hai trovato
+TEXT: “Offri dolcetti e polvere che hai trovato
 
 Cosicché Hoopa sia liberato”
 
@@ -51841,16 +53474,16 @@ RESOURCE ID: quest_special_dialogue_may22_alola_branch_quest_3d_0
 TEXT: Rieccoti qui! Sapevo che non avresti avuto problemi con il Team GO Rocket, visto che non ne hai mai!
 
 RESOURCE ID: quest_special_dialogue_may23_candela_0_0
-TEXT: ... ... ...
-*sigh*
+TEXT: ... ... ...
+*sigh*
 ... ... ...
 
 RESOURCE ID: quest_special_dialogue_may23_candela_0_1
 TEXT: Oh. Ehi, %PLAYERNAME%.
 
 RESOURCE ID: quest_special_dialogue_may23_candela_0_2
-TEXT: ... ... ...
-*sigh*
+TEXT: ... ... ...
+*sigh*
 ... ... ...
 
 RESOURCE ID: quest_special_dialogue_may23_candela_0_3
@@ -53049,6 +54682,81 @@ TEXT: Fantastico! Proprio un bel Samurott. E quelle spade sono a dir poco magnif
 
 RESOURCE ID: quest_special_dialogue_oshat_3_1
 TEXT: Grazie mille per il tuo aiuto, %PLAYERNAME%. Abbiamo imparato un sacco di cose su Oshawott, Dewott e Samurott, e anche loro ci hanno insegnato tanto! Alla prossima... onda! Ah ah!
+
+RESOURCE ID: quest_special_dialogue_poliwag_0_0
+TEXT: %PLAYERNAME%! Non indovinerai mai in cosa mi sono imbattuto oggi. Uno stagno pieno zeppo di Poliwag!
+
+RESOURCE ID: quest_special_dialogue_poliwag_0_1
+TEXT: I Poliwag tendono a stare nell’acqua perché le loro gambe poco sviluppate sono ancora instabili.
+
+RESOURCE ID: quest_special_dialogue_poliwag_0_2
+TEXT: Ma, osservando come ce la mettono tutta quando si muovono fuori dall’acqua, si vede proprio che ambiscono a camminare sulla terra ferma.
+
+RESOURCE ID: quest_special_dialogue_poliwag_0_3
+TEXT: Non è commovente? Nonostante le avversità, questi piccoletti danno il meglio di sé per migliorarsi...
+
+RESOURCE ID: quest_special_dialogue_poliwag_0_4
+TEXT: Abbiamo tutti qualcosa da imparare da Poliwag e su come uscire dalla propria zona di comfort. Ora, che ne dici di andare a osservare qualche esemplare?
+
+RESOURCE ID: quest_special_dialogue_poliwag_1_0
+TEXT: Rieccoti, %PLAYERNAME%. Come sono andate le tue osservazioni? Hai avvistato qualche Poliwag nei paraggi?
+
+RESOURCE ID: quest_special_dialogue_poliwag_1_1
+TEXT: Alcuni ricercatori consigliano agli Allenatori di portare quotidianamente i propri Poliwag a fare una passeggiata per rinforzargli le gambe.
+
+RESOURCE ID: quest_special_dialogue_poliwag_1_2
+TEXT: Con Poliwhirl, l’evoluzione di Poliwag, questo tipo di allenamento non sarà più necessario. Le sue gambe infatti sono ben sviluppate e può essere osservato mentre gironzola alla ricerca di Pokémon di tipo Coleottero di cui cibarsi.
+
+RESOURCE ID: quest_special_dialogue_poliwag_1_3
+TEXT: %PLAYERNAME%, perché non provi a far evolvere il tuo Poliwag? Però fai attenzione a non guardare la spirale di Poliwhirl troppo a lungo. Quando torni ti spiego perché!
+
+RESOURCE ID: quest_special_dialogue_poliwag_2_0
+TEXT: Che Poliwhirl fantastico, %PLAYERNAME%!
+
+RESOURCE ID: quest_special_dialogue_poliwag_2_1
+TEXT: Vedi quella spirale sul suo ventre? Fissarla provoca sonnolenza.
+
+RESOURCE ID: quest_special_dialogue_poliwag_2_10
+TEXT: Non vedi l’ora di vedere le evoluzioni di Poliwhirl con i tuoi occhi?
+
+RESOURCE ID: quest_special_dialogue_poliwag_2_2
+TEXT: Pensa che alcuni di loro se ne servono al posto della ninnananna per far dormire i piccoli.
+
+RESOURCE ID: quest_special_dialogue_poliwag_2_3
+TEXT: È di certo il Pokémon perfetto da avere intorno se soffri di insonnia, un po’ meno se hai sonno in pieno...
+
+RESOURCE ID: quest_special_dialogue_poliwag_2_4
+TEXT: ... ... ...
+
+RESOURCE ID: quest_special_dialogue_poliwag_2_5
+TEXT: ...Ah! Scusami, %PLAYERNAME%. A forza di guardare il tuo Poliwhirl mi sono quasi addormentato! Bene, dov’ero rimasto? Ah, sì! Un’altra caratteristica speciale di Poliwhirl è che può evolversi in due Pokémon diversi.
+
+RESOURCE ID: quest_special_dialogue_poliwag_2_6
+TEXT: Uno è il forzuto Poliwrath. Il suo corpo è un ammasso di muscoli.
+
+RESOURCE ID: quest_special_dialogue_poliwag_2_7
+TEXT: Quando nuota nei mari più freddi, usa le sue braccia vigorose per frantumare il ghiaccio fluttuante e farsi strada.
+
+RESOURCE ID: quest_special_dialogue_poliwag_2_8
+TEXT: L’altra evoluzione è l’imponente Politoed. È il re dei Poliwag e dei Poliwhirl, e con il suo verso tonante fa fuggire atterriti gli avversari.
+
+RESOURCE ID: quest_special_dialogue_poliwag_2_9
+TEXT: Nonostante emetta un verso chiassoso, le sue grida hanno ispirato una bellissima ballata. Quanto mi piacerebbe poterla ascoltare!
+
+RESOURCE ID: quest_special_dialogue_poliwag_3_0
+TEXT: Rieccoti, %PLAYERNAME%! In quale Pokémon hai deciso di far evolvere il tuo Poliwhirl?
+
+RESOURCE ID: quest_special_dialogue_poliwag_3_1
+TEXT: Poliwrath? Politoed? Magari tutti e due?
+
+RESOURCE ID: quest_special_dialogue_poliwag_3_2
+TEXT: Ricorda, qualsiasi sia la situazione, vacci piano e conduci la tua ricerca un passo alla volta, come un Poliwag che impara a camminare!
+
+RESOURCE ID: quest_special_dialogue_poliwag_3_3
+TEXT: Grazie mille per il tuo aiuto, %PLAYERNAME%. La tua avventura nel modo dei Poliwag mi ha proprio appassionato, spero che per te sia stato lo stesso!
+
+RESOURCE ID: quest_special_dialogue_poliwag_3_4
+TEXT: Alla prossima, pronti, partenza... GO!
 
 RESOURCE ID: quest_special_dialogue_poni_0_0
 TEXT: Oh, %PLAYERNAME%! Che piacere!
@@ -56778,6 +58486,111 @@ TEXT: Come ci si deve sentire a sostenere una così netta trasformazione? Presum
 RESOURCE ID: quest_special_dialogue_zigzagoon_3_6
 TEXT: È stata un’esperienza istruttiva di grande valore. Grazie per il tuo aiuto quest’oggi, Allenatore di Pokémon.
 
+RESOURCE ID: quest_special_dialogue_zygarde_0_0
+TEXT: Ciao, %PLAYERNAME%! Che cos’hai fatto di bello ultimamente? Hai catturato Pokémon? O forse hai esplorato un nuovo percorso?
+
+RESOURCE ID: quest_special_dialogue_zygarde_0_1
+TEXT: Io mi sono immerso nella lettura di un articolo di ricerca su Zygarde, il Pokémon Equilibrio.
+
+RESOURCE ID: quest_special_dialogue_zygarde_0_2
+TEXT: Secondo le ipotesi dell’autore, Zygarde vigila sull’equilibrio dell’ecosistema dal profondo della caverna in cui vive e, quando questo è in pericolo, appare e libera il suo potere misterioso.
+
+RESOURCE ID: quest_special_dialogue_zygarde_0_3
+TEXT: Mi chiedo se si avventuri mai all’esterno per altre ragioni. Ecco un’idea per un articolo: “Gli habitat e i modelli di migrazione di Zygarde”!
+
+RESOURCE ID: quest_special_dialogue_zygarde_0_4
+TEXT: Che ne pensi? Chissà di quali altri luoghi e attività s’interessa Zygarde...
+
+RESOURCE ID: quest_special_dialogue_zygarde_0_5
+TEXT: Prova a elaborare qualche teoria mentre sei in giro!
+
+RESOURCE ID: quest_special_dialogue_zygarde_1_0
+TEXT: Rieccoti qua, %PLAYERNAME%!
+
+RESOURCE ID: quest_special_dialogue_zygarde_1_1
+TEXT: Mentre eri via, mi sono documentato su alcune segnalazioni fatte da Allenatori locali.
+
+RESOURCE ID: quest_special_dialogue_zygarde_1_2
+TEXT: Stranamente, varie segnalazioni menzionavano che lungo i percorsi sono state osservate delle masse verdi informi. Alcuni Allenatori hanno persino pensato si trattasse di esseri viventi!
+
+RESOURCE ID: quest_special_dialogue_zygarde_1_3
+TEXT: Ho una teoria su quelle masse informi e su cosa potrebbero essere, ma prima vorrei rivedere i miei materiali di ricerca, e forse persino rileggere quell’articolo di prima...
+
+RESOURCE ID: quest_special_dialogue_zygarde_1_4
+TEXT: Nel frattempo, continua pure con il tuo lavoro sul campo. Sicuramente avrò un aggiornamento meno vago al tuo ritorno.
+
+RESOURCE ID: quest_special_dialogue_zygarde_1_5
+TEXT: Ah, e ti consiglio di potenziare i tuoi Pokémon, nel caso ti imbattessi in qualcosa di inaspettato mentre sei in giro!
+
+RESOURCE ID: quest_special_dialogue_zygarde_2_0
+TEXT: Eccoti, %PLAYERNAME%! Non indovinerai mai cosa è successo!
+
+RESOURCE ID: quest_special_dialogue_zygarde_2_1
+TEXT: Mentre sfogliavo i miei appunti, ho visto passare qualcosa di sfuggente che si è fermato tutto di un tratto proprio fuori dal laboratorio.
+
+RESOURCE ID: quest_special_dialogue_zygarde_2_2
+TEXT: Si è mosso veloce, ma sono quasi sicuro si trattasse proprio del Pokémon che stiamo esaminando: Zygarde!
+
+RESOURCE ID: quest_special_dialogue_zygarde_2_3
+TEXT: Potrebbe essere ancora lì. Vai a dare un’occhiata e prendi questa. Ti spiegherò come usarla appena torni.
+
+RESOURCE ID: quest_special_dialogue_zygarde_3_0
+TEXT: Incredibile, %PLAYERNAME%!
+
+RESOURCE ID: quest_special_dialogue_zygarde_3_1
+TEXT: Quindi era davvero Zygarde!
+
+RESOURCE ID: quest_special_dialogue_zygarde_3_2
+TEXT: Zygarde è un Pokémon curioso. È composto di cellule e la sua forma varia a seconda del loro numero.
+
+RESOURCE ID: quest_special_dialogue_zygarde_3_3
+TEXT: Direi che questo esemplare ha circa il 10% delle sue cellule. Cambierà e crescerà man mano che ne vengano trovate delle altre.
+
+RESOURCE ID: quest_special_dialogue_zygarde_3_4
+TEXT: Ecco a cosa serve il mio regalo! La Teca Zygarde può essere utilizzata per conservare le cellule di Zygarde che trovi, è un po’ come un “nido”.
+
+RESOURCE ID: quest_special_dialogue_zygarde_3_5
+TEXT: E per quanto riguarda dove puoi trovare queste cellule... Ti ricordi quelle masse verdi osservate lungo i percorsi? Immagino fossero proprio cellule di Zygarde!
+
+RESOURCE ID: quest_special_dialogue_zygarde_3_6
+TEXT: Potresti verificare questa ipotesi, %PLAYERNAME%?
+
+RESOURCE ID: quest_special_dialogue_zygarde_4_0
+TEXT: Ottimo lavoro. Hai trovato la tua prima cellula di Zygarde, %PLAYERNAME%!
+
+RESOURCE ID: quest_special_dialogue_zygarde_4_1
+TEXT: Ottimo inizio nell’aggregare le forme di Zygarde, ma c’è ancora molto da fare.
+
+RESOURCE ID: quest_special_dialogue_zygarde_4_2
+TEXT: Sembra che questo Zygarde abbia bisogno di raccogliere 250 cellule per assumere la Forma Perfetta e pare che queste si trovino solo lungo i percorsi, quindi dovrai camminare un bel po’!
+
+RESOURCE ID: quest_special_dialogue_zygarde_4_3
+TEXT: Non vedo l’ora che tu ti metta all’opera. Pensa solo a quanti Pokémon e amici incontrerai lungo la strada!
+
+RESOURCE ID: quest_special_dialogue_zygarde_4_4
+TEXT: Esplora qualche altro percorso, e ti consiglio di usare un aroma mentre sei in giro. Dobbiamo comunque continuare i nostri studi su altri Pokémon!
+
+RESOURCE ID: quest_special_dialogue_zygarde_5_0
+TEXT: Rieccoti qua, %PLAYERNAME%!
+
+RESOURCE ID: quest_special_dialogue_zygarde_5_1
+TEXT: Hai completato ben cinque percorsi? Incredibile! È proprio il tuo spirito avventuroso a renderti un ottimo compagno di lavoro.
+
+RESOURCE ID: quest_special_dialogue_zygarde_5_2
+TEXT: Sicuramente anche Zygarde apprezza la tua determinazione, e i tuoi sforzi verranno ripagati! Nella sua Forma Perfetta, questo Pokémon ha una potenza tale da mettere in difficoltà persino Xerneas o Yveltal.
+
+RESOURCE ID: quest_special_dialogue_zygarde_5_3
+TEXT: Dalla bocca che ha sul petto può sprigionare un’energia potentissima che usa per annientare chiunque minacci l’ecosistema.
+
+RESOURCE ID: quest_special_dialogue_zygarde_5_4
+TEXT: È una bella motivazione per fare anche noi la nostra parte, eh? Anche piccole cose, come riciclare quando possiamo. Ma non dovrebbe servire una minaccia per prendersi cura dell’ambiente.
+
+RESOURCE ID: quest_special_dialogue_zygarde_5_5
+TEXT: Dopotutto, i Pokémon e anche gli Allenatori come te danno il meglio di sé in un ambiente sano. Dovremmo tutti lavorare sodo per rendere il mondo un luogo dove tutti possano crescere e prosperare.
+
+RESOURCE ID: quest_special_dialogue_zygarde_5_6
+TEXT: E su questa nota, %PLAYERNAME%, ti auguro buon viaggio! Vai e colleziona le cellule di Zygarde, e, mi raccomando, voglio essere il primo a sapere quando ne hai a sufficienza per la sua Forma Perfetta. Aspetterò impaziente!
+
 RESOURCE ID: quest_sphet_catch_b
 TEXT: Cattura {0} Spheal
 
@@ -58071,6 +59884,21 @@ TEXT: Dalle conchiglie alle spade (3/4)
 RESOURCE ID: quest_title_oshat_3
 TEXT: Dalle conchiglie alle spade (4/4)
 
+RESOURCE ID: quest_title_poliwag
+TEXT: Spirali scivolose
+
+RESOURCE ID: quest_title_poliwag_0
+TEXT: Spirali scivolose (1/4)
+
+RESOURCE ID: quest_title_poliwag_1
+TEXT: Spirali scivolose (2/4)
+
+RESOURCE ID: quest_title_poliwag_2
+TEXT: Spirali scivolose (3/4)
+
+RESOURCE ID: quest_title_poliwag_3
+TEXT: Spirali scivolose (4/4)
+
 RESOURCE ID: quest_title_poni
 TEXT: Un’avventura a Poni
 
@@ -59175,6 +61003,27 @@ TEXT: Appunti di campo: Zigzagoon di Galar (3/4)
 RESOURCE ID: quest_title_zigzagoon_3
 TEXT: Appunti di campo: Zigzagoon di Galar (4/4)
 
+RESOURCE ID: quest_title_zygarde
+TEXT: Dalla A a Zygarde
+
+RESOURCE ID: quest_title_zygarde_0
+TEXT: Dalla A a Zygarde (1/6)
+
+RESOURCE ID: quest_title_zygarde_1
+TEXT: Dalla A a Zygarde (2/6)
+
+RESOURCE ID: quest_title_zygarde_2
+TEXT: Dalla A a Zygarde (3/6)
+
+RESOURCE ID: quest_title_zygarde_3
+TEXT: Dalla A a Zygarde (4/6)
+
+RESOURCE ID: quest_title_zygarde_4
+TEXT: Dalla A a Zygarde (5/6)
+
+RESOURCE ID: quest_title_zygarde_5
+TEXT: Dalla A a Zygarde (6/6)
+
 RESOURCE ID: quest_togetic_catch_b
 TEXT: Cattura {0} Togetic
 
@@ -59364,6 +61213,12 @@ TEXT: Usa una Iperpozione su un Pokémon
 RESOURCE ID: quest_use_lure
 TEXT: Usa un modulo esca
 
+RESOURCE ID: quest_use_lure_plural
+TEXT: Usa {0} moduli esca mentre segui dei percorsi
+
+RESOURCE ID: quest_use_lure_singular
+TEXT: Usa un modulo esca mentre segui un percorso
+
 RESOURCE ID: quest_use_max_potion
 TEXT: Usa una Pozione Max su un Pokémon
 
@@ -59439,6 +61294,12 @@ TEXT: Percorri {0} km
 RESOURCE ID: quest_walk_km_plural
 TEXT: Percorri {0} km
 
+RESOURCE ID: quest_walk_routes_plural
+TEXT: Percorri {0} km mentre segui dei percorsi
+
+RESOURCE ID: quest_walk_routes_singular
+TEXT: Percorri {0} km mentre segui dei percorsi
+
 RESOURCE ID: quest_walk_steps
 TEXT: Fai {0} passi
 
@@ -59498,6 +61359,9 @@ TEXT: Vinci {0} raid con il tuo Pokémon compagno
 
 RESOURCE ID: quest_win_raid_buddy_singular
 TEXT: Vinci un raid con il tuo Pokémon compagno
+
+RESOURCE ID: quest_win_raid_gofest2023
+TEXT: Vinci {0} raid con Rayquaza
 
 RESOURCE ID: quest_win_raid_lvl1_higher_singular
 TEXT: Vinci un raid di livello uno o superiore
@@ -64441,6 +66305,9 @@ TEXT: Vuoi trasformare una Caramella Rara in una caramella {0}?
 RESOURCE ID: rare_xl_candy_usage_confirmation
 TEXT: Vuoi trasformare una Caramella Rara L in una caramella L {0}?
 
+RESOURCE ID: rating_submitted_toast
+TEXT: Valutazione inviata.
+
 RESOURCE ID: ready_raid_button
 TEXT: PRONTI!
 
@@ -64454,7 +66321,7 @@ RESOURCE ID: ready_raid_ftue_confirm
 TEXT: TUTTO PRONTO!
 
 RESOURCE ID: ready_raid_ftue_desc
-TEXT: Quando tutti gli Allenatori sono pronti, parte il conto alla rovescia. Puoi sempre abbandonare il raid prima dell’inizio.
+TEXT: Quando tutti gli Allenatori sono pronti, il timer della lobby inizia un conto alla rovescia di 10 secondi. Puoi sempre abbandonare il raid prima dell’inizio.
 
 RESOURCE ID: ready_raid_ftue_title
 TEXT: Pronto a iniziare?
@@ -64751,7 +66618,7 @@ RESOURCE ID: remote_raid_now
 TEXT: Adesso
 
 RESOURCE ID: remote_raid_pass_box
-TEXT: pacco raid da remoto
+TEXT: Pacco raid da remoto
 
 RESOURCE ID: remote_raid_remote_trainer_bonus
 TEXT: Più Allenatori possono partecipare ai raid a distanza
@@ -64795,6 +66662,91 @@ TEXT: Impossibile riordinare l'etichetta
 RESOURCE ID: report_issues_link
 TEXT: https://pokemongo.nianticlabs.com/support/contact/it
 
+RESOURCE ID: report_route_error_daily_max
+TEXT: Hai già segnalato questo percorso.
+Lo puoi rifare tra questo numero di giorni: {0}.
+
+RESOURCE ID: report_route_error_missing_selection
+TEXT: Scegli il motivo della tua segnalazione.
+
+RESOURCE ID: report_route_error_too_many_reports
+TEXT: Hai raggiunto il numero massimo giornaliero di segnalazioni per oggi.
+
+RESOURCE ID: report_route_header_1
+TEXT: Il percorso attraversa:
+
+RESOURCE ID: report_route_header_2
+TEXT: L’intestazione o la descrizione del percorso contiene:
+
+RESOURCE ID: report_route_reason_adult_establishment
+TEXT: locale per consumo di alcol o per adulti
+
+RESOURCE ID: report_route_reason_child_safety
+TEXT: problematiche relative alla sicurezza dei bambini
+
+RESOURCE ID: report_route_reason_dangerous
+TEXT: area pericolosa o non sicura
+
+RESOURCE ID: report_route_reason_dangerous_ex
+TEXT: ad esempio, autostrade od ostruzione a servizi di emergenza
+
+RESOURCE ID: report_route_reason_grade_school
+TEXT: asilo o scuola
+
+RESOURCE ID: report_route_reason_harassment
+TEXT: molestie o incitamento all'odio
+
+RESOURCE ID: report_route_reason_illegal_goods
+TEXT: riferimenti a prodotti illegali o per adulti
+
+RESOURCE ID: report_route_reason_illegal_goods_ex
+TEXT: ad esempio, droghe o armi
+
+RESOURCE ID: report_route_reason_inaccessible
+TEXT: area inaccessibile
+
+RESOURCE ID: report_route_reason_inappropriate
+TEXT: Contenuto inappropriato o inadeguato
+
+RESOURCE ID: report_route_reason_invasive
+TEXT: Luogo non idoneo
+
+RESOURCE ID: report_route_reason_invasive_ex
+TEXT: Per esempio, luoghi che possono violare la privacy o causare disagi
+
+RESOURCE ID: report_route_reason_personal_info
+TEXT: informazioni personali
+
+RESOURCE ID: report_route_reason_personal_info_ex
+TEXT: ad esempio, indirizzi o numeri di telefono
+
+RESOURCE ID: report_route_reason_private_residence
+TEXT: proprietà residenziale privata
+
+RESOURCE ID: report_route_reason_private_residence_ex
+TEXT: ad esempio, appartamenti o case
+
+RESOURCE ID: report_route_reason_self_harm
+TEXT: messaggi di autolesionismo
+
+RESOURCE ID: report_route_reason_sensitive_location
+TEXT: luogo commemorativo
+
+RESOURCE ID: report_route_reason_sensitive_location_ex
+TEXT: ad esempio, memoriale o cimitero
+
+RESOURCE ID: report_route_reason_spam
+TEXT: cheat di gioco o spam
+
+RESOURCE ID: report_route_reason_temp_obstruction
+TEXT: interruzione temporanea
+
+RESOURCE ID: report_route_reason_temp_obstruction_ex
+TEXT: ad esempio, lavori in corso
+
+RESOURCE ID: report_route_reason_violent_content
+TEXT: contenuto violento o sessuale
+
 RESOURCE ID: report_video_ad_description
 TEXT: Perché stai segnalando questo annuncio? Seleziona tutte le risposte pertinenti.
 
@@ -64830,6 +66782,9 @@ TEXT: Riavvia
 
 RESOURCE ID: resume_ar_multiplayer_session
 TEXT: Vuoi riaccedere alla tua precedente sessione AR di gruppo?
+
+RESOURCE ID: resume_route_travel_error_toast
+TEXT: Errore durante la ripresa del percorso
 
 RESOURCE ID: retention_friend_bonus_message
 TEXT: Pokémon GO è ancora più divertente in compagnia! Scambiando pacchi amicizia con i tuoi amici potrai ottenere PE, Uova e tanti strumenti utili.
@@ -64916,19 +66871,19 @@ RESOURCE ID: route_add_point
 TEXT: Set as Waypoint
 
 RESOURCE ID: route_cancel_description
-TEXT: If you start this route, you will lose your current progress on {0}, and you will have to wait {1} minutes to play it again.
+TEXT: Se inizi un nuovo percorso, perderai i progressi raggiunti sul percorso {0} e per riprendere a giocare dovrai aspettare minuti: {1}.
 
 RESOURCE ID: route_cancel_description_same_route
-TEXT: If you restart this route, you will lose your current progress on {0}.
+TEXT: Se inizi di nuovo questo percorso, perderai i progressi raggiunti.
 
 RESOURCE ID: route_cancel_start_new_button
 TEXT: Start new route
 
 RESOURCE ID: route_cancel_title
-TEXT: Do you want to start a new route?
+TEXT: Vuoi davvero iniziare un nuovo percorso?
 
 RESOURCE ID: route_cancel_title_same_route
-TEXT: Do you want to restart this route?
+TEXT: Vuoi davvero iniziare di nuovo questo percorso?
 
 RESOURCE ID: route_cannot_delete_route_in_review_prompt
 TEXT: [placeholder on client]
@@ -64989,6 +66944,9 @@ TEXT: You must wait 1 hour and {0} minutes to play this route.
 RESOURCE ID: route_cooldown_toast_hours
 TEXT: You must wait {0} hours to play this route.
 
+RESOURCE ID: route_cooldown_toast_hours_and_minute
+TEXT: Tempo che devi aspettare per percorrere questo percorso: ore {0} e minuti {1}.
+
 RESOURCE ID: route_cooldown_toast_hours_and_minutes
 TEXT: You must wait {0} hours and {1} minutes to play this route.
 
@@ -65006,6 +66964,12 @@ TEXT: Pick and image and a color to display on the medal when your route is comp
 
 RESOURCE ID: route_create_medal_context_title
 TEXT: Route Medal
+
+RESOURCE ID: route_create_play_conflict_error_a
+TEXT: Non puoi seguire un percorso quando la sua creazione è in corso.
+
+RESOURCE ID: route_create_play_conflict_error_b
+TEXT: Non puoi iniziare la creazione di un percorso quando ne stai seguendo uno.
 
 RESOURCE ID: route_creation_abandon_button
 TEXT: Esci dalla creazione del percorso
@@ -65026,10 +66990,16 @@ RESOURCE ID: route_creation_action_menu_new_endpoint
 TEXT: Scegli un nuovo punto di arrivo
 
 RESOURCE ID: route_creation_action_menu_pause
-TEXT: Neuen Zielpunkt wählen
+TEXT: Sospendi la creazione del percorso
+
+RESOURCE ID: route_creation_action_menu_pin
+TEXT: Metti un segnaposto
 
 RESOURCE ID: route_creation_action_menu_resume
 TEXT: Riprendi la creazione del percorso
+
+RESOURCE ID: route_creation_action_menu_select_endpoint
+TEXT: Scegli un punto di arrivo
 
 RESOURCE ID: route_creation_active
 TEXT: Creazione in corso.
@@ -65045,6 +67015,9 @@ TEXT: Sospendi la creazione del percorso
 
 RESOURCE ID: route_creation_ask_start_title
 TEXT: Ti trovi vicino al punto di partenza scelto. Vuoi cominciare a registrare il tragitto del tuo percorso?
+
+RESOURCE ID: route_creation_ask_submit
+TEXT: Ti stai avvicinando al punto di arrivo da te scelto. Vuoi smettere di registrare?
 
 RESOURCE ID: route_creation_ask_submit_cancel
 TEXT: CONTINUA A REGISTRARE
@@ -65065,7 +67038,7 @@ RESOURCE ID: route_creation_choose_end_header
 TEXT: Scegli un Pokéstop come
 
 RESOURCE ID: route_creation_choose_end_sub_header
-TEXT: Punto di arrivo del percorso.
+TEXT: punto di arrivo del percorso.
 
 RESOURCE ID: route_creation_choose_new_end_body
 TEXT: Recati a questo Pokéstop per finire di registrare il tuo percorso. Puoi cambiare il punto di arrivo durante la registrazione.
@@ -65083,7 +67056,7 @@ RESOURCE ID: route_creation_choose_new_start_header
 TEXT: Scegli un Pokéstop che sarà il nuovo
 
 RESOURCE ID: route_creation_choose_new_start_sub_header
-TEXT: nuovo punto di partenza del tuo percorso.
+TEXT: punto di partenza del tuo percorso.
 
 RESOURCE ID: route_creation_choose_start_body
 TEXT: Recati a questo Pokéstop per cominciare a registrare il tuo percorso.
@@ -65094,8 +67067,14 @@ TEXT: Scegli un Pokéstop come
 RESOURCE ID: route_creation_choose_start_sub_header
 TEXT: nuovo punto di partenza del tuo percorso.
 
+RESOURCE ID: route_creation_error_invalid_start
+TEXT: Punto di partenza del percorso invalido.
+
+RESOURCE ID: route_creation_error_start_failed
+TEXT: Impossibile iniziare creazione del percorso.
+
 RESOURCE ID: route_creation_error_submission_max
-TEXT: Medalla
+TEXT: Al momento non puoi inoltrare altri percorsi. Riprova più tardi.
 
 RESOURCE ID: route_creation_generic_distance_warning_error
 TEXT: Impossibile eseguire l’azione richiesta.
@@ -65116,10 +67095,10 @@ RESOURCE ID: route_creation_max_distance_warning_description
 TEXT: La creazione del percorso si interromperà automaticamente se il percorso supera la lunghezza massima.
 
 RESOURCE ID: route_creation_max_distance_warning_instructions
-TEXT: End your Route soon, or you may lose your current progress.
+TEXT: Porta a termine il tuo percorso al più presto se non vuoi perdere i progressi raggiunti.
 
 RESOURCE ID: route_creation_max_distance_warning_title
-TEXT: Your Route is nearing the maximum length.
+TEXT: Il tuo percorso è quasi alla lunghezza massima.
 
 RESOURCE ID: route_creation_max_distance_warning_values
 TEXT: Lunghezza massima: {0} km
@@ -65174,6 +67153,9 @@ TEXT: Come creare un percorso
 RESOURCE ID: route_creation_onboarding_title_2
 TEXT: Criteri
 
+RESOURCE ID: route_creation_onboarding_title_3
+TEXT: Come inserire un segnaposto
+
 RESOURCE ID: route_creation_onboarding_title_4
 TEXT: Processo di verifica
 
@@ -65188,6 +67170,9 @@ TEXT: Tutti i dati relativi a questo percorso verranno salvati. Ritorna in quest
 
 RESOURCE ID: route_creation_resume_button
 TEXT: RIPRENDI LA CREAZIONE DEL PERCORSO
+
+RESOURCE ID: route_creation_resume_error_adsync
+TEXT: Abilita la Sincroavventura per continuare a creare il percorso.
 
 RESOURCE ID: route_creation_resume_label
 TEXT: RIPRENDI LA REGISTRAZIONE
@@ -65204,14 +67189,27 @@ TEXT: Impossibile iniziare la registrazione. Non ti trovi vicino al tuo punto di
 RESOURCE ID: route_creation_submit
 TEXT: DEBUG CREATION SUBMIT
 
+RESOURCE ID: route_creator_label
+TEXT: CREATORE DEL PERCORSO
+
 RESOURCE ID: route_creator_stats_label
-TEXT: Creator Statistics
+TEXT: Statistiche creatore
 
 RESOURCE ID: route_data_onboarding_page_1
 TEXT: Now that you’ve created a Route, it’s time to tell people about it!
 
 RESOURCE ID: route_data_onboarding_title_1
 TEXT: Enter Route Data
+
+RESOURCE ID: route_decayed_description
+TEXT: Questo percorso è stato archiviato.
+
+RESOURCE ID: route_decayed_modal_description
+TEXT: Il percorso {0} è stato archiviato a causa del suo inutilizzo.
+I percorsi archiviati rimarranno visibili sulla pagina del giocatore che li ha creati, ma non potranno essere seguiti e visualizzati pubblicamente.
+
+RESOURCE ID: route_decayed_modal_title
+TEXT: Percorso {0} archiviato.
 
 RESOURCE ID: route_denial_exceeds_max_total_distance
 TEXT: Adding this POI exceeds max Route length of {0} meters.
@@ -65225,6 +67223,30 @@ TEXT: This Pokéstop is too far from the last Waypoint. Must be less than {0} me
 RESOURCE ID: route_denial_too_many_stops_in_route
 TEXT: This Route has reached the maximum number of stops.
 
+RESOURCE ID: route_detail_rejected_delete_button
+TEXT: CANCELLA PERCORSO
+
+RESOURCE ID: route_detail_rejected_description
+TEXT: Questo percorso è stato respinto.
+
+RESOURCE ID: route_detail_under_review_withdraw_button
+TEXT: ANNULLA INVIO
+
+RESOURCE ID: route_discovery_tab_all
+TEXT: Tutti
+
+RESOURCE ID: route_discovery_tab_known
+TEXT: Noto
+
+RESOURCE ID: route_discovery_tab_new
+TEXT: Nuovo
+
+RESOURCE ID: route_discovery_tab_official
+TEXT: Ufficiale
+
+RESOURCE ID: route_discovery_tab_popular
+TEXT: Frequentato
+
 RESOURCE ID: route_distance_walked_label
 TEXT: Distanza percorsa sul percorso
 
@@ -65234,8 +67256,35 @@ TEXT: New stamp registered!
 RESOURCE ID: route_edit_button
 TEXT: CONTINUE EDIT
 
+RESOURCE ID: route_edit_deleted_toast
+TEXT: {0} è stato cancellato.
+
+RESOURCE ID: route_edit_exit_button_primary
+TEXT: SALVA MODIFICHE
+
+RESOURCE ID: route_edit_exit_button_secondary
+TEXT: NON SALVARE
+
+RESOURCE ID: route_edit_exit_description
+TEXT: Le modifiche non salvate andranno perse alla chiusura.
+
+RESOURCE ID: route_edit_exit_title
+TEXT: Vuoi salvare le modifiche?
+
 RESOURCE ID: route_edit_resubmit_label
 TEXT: MODIFICA E RINVIA
+
+RESOURCE ID: route_edit_submission_label
+TEXT: MODIFICA PERCORSO INVIATO
+
+RESOURCE ID: route_edit_warning_button
+TEXT: GUARDA ALTRO PERCORSO
+
+RESOURCE ID: route_edit_warning_description
+TEXT: Non puoi modificare un percorso inviato quando hai in corso la creazione di un altro. Per modificare il percorso inviato, prima completa o elimina quello in corso.
+
+RESOURCE ID: route_edit_warning_title
+TEXT: Impossibile modificare il percorso inviato
 
 RESOURCE ID: route_elevation_label
 TEXT: ALTITUDINE
@@ -65250,13 +67299,13 @@ TEXT: A causa di ripetute o gravi violazioni delle nostre linee guida per i gioc
 Ulteriori violazioni potrebbero comportare l’esclusione permanente.
 
 RESOURCE ID: route_enforcement_long_ban_title
-TEXT: You’ve been banned from using Pokémon GO.
+TEXT: Esclusione da Pokémon GO.
 
 RESOURCE ID: route_enforcement_permanent_ban_description
 TEXT: Il tuo account di Niantic è stato bannato da Pokémon GO a causa di ripetute o gravi violazioni delle nostre linee guida per i giocatori relative ai percorsi.
 
 RESOURCE ID: route_enforcement_permanent_ban_title
-TEXT: You’ve been permanently banned from using Pokémon GO.
+TEXT: Esclusione permanente da Pokémon GO.
 
 RESOURCE ID: route_enforcement_suspension_description
 TEXT: A causa di ripetute o gravi violazioni delle nostre linee guida per i giocatori relative ai percorsi, il tuo account di Pokémon GO è stato sospeso per questo numero di giorni: {0}. Potrai riavere accesso al tuo account di Pokémon GO tra questo numero di giorni: {1}.
@@ -65275,7 +67324,7 @@ TEXT: Il tuo account di Pokémon GO ha violato le nostre linee guida per i gioca
 Ulteriori violazioni potrebbero comportare una sospensione temporanea o un’esclusione permanente da Pokémon GO.
 
 RESOURCE ID: route_enforcement_warning_description_secondary
-TEXT: Please review our Player Guidelines to avoid future violations. 
+TEXT: Rileggi le nostre linee guida per i giocatori relative ai percorsi per evitare violazioni future.
 
 RESOURCE ID: route_enforcement_warning_title
 TEXT: Avviso account
@@ -65292,8 +67341,17 @@ TEXT: Enter the title that others will see when searching for routes
 RESOURCE ID: route_enter_title_context_title
 TEXT: Route Title
 
+RESOURCE ID: route_error_unable_to_complete_action
+TEXT: Impossibile completare l’azione richiesta. Riprova.
+
+RESOURCE ID: route_error_unable_to_edit
+TEXT: Impossibile modificare il percorso inoltrato. Aggiorna l’elenco dei percorsi da te creati per vedere se il suo stato è cambiato.
+
 RESOURCE ID: route_expired_error
 TEXT: Current route has expired
+
+RESOURCE ID: route_first_play_date_label
+TEXT: Percorso la prima volta
 
 RESOURCE ID: route_frame_select_subtitle
 TEXT: Anteprima
@@ -65302,7 +67360,7 @@ RESOURCE ID: route_frame_select_title
 TEXT: Please select a medal to preview
 
 RESOURCE ID: route_general
-TEXT: Route
+TEXT: PERCORSI
 
 RESOURCE ID: route_general_plural
 TEXT: Routes
@@ -65321,6 +67379,9 @@ TEXT: {0} km
 
 RESOURCE ID: route_last_play_date_label
 TEXT: Percorso l’ultima volta
+
+RESOURCE ID: route_level
+TEXT: Livello del percorso: {0} 
 
 RESOURCE ID: route_list_context_page
 TEXT: Arrange and modify your pokestop list from here
@@ -65350,10 +67411,10 @@ RESOURCE ID: route_map_out_of_bound_warning
 TEXT: You are too far away from this area
 
 RESOURCE ID: route_medal
-TEXT: Badge
+TEXT: Medaglia
 
 RESOURCE ID: route_medals_header
-TEXT: ROUTE BADGES
+TEXT: MEDAGLIE PERCORSO
 
 RESOURCE ID: route_medals_sort_name
 TEXT: Name
@@ -65386,7 +67447,7 @@ RESOURCE ID: route_nearby_label
 TEXT: {0} route(s)
 
 RESOURCE ID: route_nearby_list_button
-TEXT: SEE NEARBY ROUTES ({0})
+TEXT: PERCORSI IN ZONA ({0})
 
 RESOURCE ID: route_nearby_list_header
 TEXT: NEARBY ROUTE ({0})
@@ -65407,6 +67468,9 @@ TEXT: This Route is too far away to start.
 RESOURCE ID: route_pause_description
 TEXT: This route paused because you moved away from the route area. If you walk close to the next location, this route will automatically resume.
 
+RESOURCE ID: route_pause_label
+TEXT: SOSPENDI PERCORSO
+
 RESOURCE ID: route_pause_prompt
 TEXT: Your progress will be saved. You can continue creating your Route by tapping the Route Maker item in your Item Bag at any time.
 
@@ -65422,11 +67486,23 @@ TEXT: (This route will cancel in {0} hour)
 RESOURCE ID: route_pause_stamp_message
 TEXT: {0} paused because you moved away from a route area. If you walk close to the next route point "<color=#{1}>{2}</color>”, this route automatically turn on again.
 
+RESOURCE ID: route_pause_title
+TEXT: Riproduzione percorso sospesa.
+
 RESOURCE ID: route_paused_prompt
 TEXT: Route saved as {0}.
 
 RESOURCE ID: route_paused_title
 TEXT: Route Creation Paused
+
+RESOURCE ID: route_pin_subtitle
+TEXT: Nome del segnaposto:
+
+RESOURCE ID: route_pin_title_add
+TEXT: Scegli un segnaposto da aggiungere
+
+RESOURCE ID: route_pin_title_edit
+TEXT: Modifica il nome del segnaposto
 
 RESOURCE ID: route_planning_context_page
 TEXT: Plan your Route here
@@ -65439,6 +67515,94 @@ TEXT: Add at least {0} more Pokestop(s) and/or Gym(s) to route.
 
 RESOURCE ID: route_planning_must_add_one_poi
 TEXT: Add at least 1 more Pokéstop or Gym to this route.
+
+RESOURCE ID: route_play_adsync_breadcrumb_notification
+TEXT: Percorso in corso.
+
+RESOURCE ID: route_play_badge_earn_description_bronze
+TEXT: Hai guadagnato una Medaglia percorso di bronzo!
+
+RESOURCE ID: route_play_badge_earn_description_gold
+TEXT: Hai guadagnato una Medaglia percorso d’oro!
+
+RESOURCE ID: route_play_badge_earn_description_silver
+TEXT: Hai guadagnato una Medaglia percorso d’argento!
+
+RESOURCE ID: route_play_badge_earn_description_white
+TEXT: Hai guadagnato una Medaglia percorso!
+
+RESOURCE ID: route_play_badge_progress_title
+TEXT: Percorso completato!
+
+RESOURCE ID: route_play_completion_reject_description_primary
+TEXT: Hai raggiunto il punto di arrivo, ma non hai percorso una distanza sufficiente per completare il percorso.
+
+RESOURCE ID: route_play_completion_reject_description_secondary
+TEXT: Riprendi il percorso e ritorna al punto di arrivo quando avrai percorso la distanza totale.
+
+RESOURCE ID: route_play_completion_reject_description_values
+TEXT: Lunghezza del percorso: {0}
+Distanza percorsa: <color=#F2A64B>{1} km</color>
+
+RESOURCE ID: route_play_completion_reject_title
+TEXT: Requisiti del percorso non ancora soddisfatti
+
+RESOURCE ID: route_play_detail_map_soon
+TEXT: Mappa dell’anteprima del percorso al momento non disponibile.
+
+RESOURCE ID: route_play_hoo_warning_button
+TEXT: SEGUI IL PERCORSO
+
+RESOURCE ID: route_play_hoo_warning_description
+TEXT: Se decidi di seguirlo ora, potresti incontrare dei problemi a portare a termine questo percorso.
+
+RESOURCE ID: route_play_hoo_warning_title
+TEXT: Al tuo arrivo, potresti non riuscire ad accedere ad alcuni Pokéstop su questo percorso.
+
+RESOURCE ID: route_play_label
+TEXT: SEGUI
+
+RESOURCE ID: route_play_low_rating_description
+TEXT: Se hai riscontrato un problema, puoi segnalarlo a Niantic per verifica.
+
+RESOURCE ID: route_play_low_rating_title
+TEXT: Hai avuto qualche problema su questo percorso?
+
+RESOURCE ID: route_play_pause_confirmation_description
+TEXT: Devi ritornare in questa posizione per riprendere il percorso.
+
+RESOURCE ID: route_play_pause_confirmation_title
+TEXT: Vuoi davvero sospendere questo percorso?
+
+RESOURCE ID: route_play_pause_location_error_description
+TEXT: Il tuo percorso è stato sospeso automaticamente perché non è stato possibile stabilire la tua posizione. Avvicinati al tragitto per riprendere il percorso.
+
+RESOURCE ID: route_play_pause_location_error_title
+TEXT: Percorso sospeso.
+
+RESOURCE ID: route_play_rate_route_description
+TEXT: Le valutazioni aiuteranno gli altri Allenatori a scoprire percorsi fantastici!
+
+RESOURCE ID: route_play_rate_route_error_no_selection
+TEXT: Dai una valutazione specifica.
+
+RESOURCE ID: route_play_rate_route_title
+TEXT: Valuta questo percorso
+
+RESOURCE ID: route_play_report_route_button
+TEXT: SEGNALA PERCORSO
+
+RESOURCE ID: route_play_resume_directive
+TEXT: Per riprendere il percorso, vai verso il punto in cui l’hai sospeso.
+
+RESOURCE ID: route_play_resume_error_too_far
+TEXT: Per riprendere il percorso, vai verso la posizione in cui l’hai sospeso.
+
+RESOURCE ID: route_play_resume_toast
+TEXT: Percorso ripreso.
+
+RESOURCE ID: route_play_travel_distance
+TEXT: Distanza percorsa:
 
 RESOURCE ID: route_poi_list_view_description_short_tip
 TEXT: Add at least {0} more Pokestop(s) and/or Gym(s) to Route.
@@ -65458,11 +67622,17 @@ TEXT: Distanza totale: {0} m
 RESOURCE ID: route_poi_list_view_total_time
 TEXT: Estimated time to complete: {0} minutes
 
+RESOURCE ID: route_pokemon_caught_label
+TEXT: Pokémon catturati sul percorso
+
 RESOURCE ID: route_published_list_header
 TEXT: PUBLISHED ROUTES
 
 RESOURCE ID: route_published_title
 TEXT: PUBLISHED ROUTES
+
+RESOURCE ID: route_quit_label
+TEXT: ABBANDONA PERCORSO
 
 RESOURCE ID: route_rating_button
 TEXT: RATE
@@ -65540,6 +67710,18 @@ TEXT: Registrazione ripresa.
 RESOURCE ID: route_recording_started
 TEXT: Registrazione iniziata.
 
+RESOURCE ID: route_rejected_deletion_confirm_description
+TEXT: Questa azione non può essere annullata. Se procedi, questo percorso verrà perso completamente e non potrà più essere recuperato.
+
+RESOURCE ID: route_rejected_deletion_confirm_title
+TEXT: Vuoi davvero cancellare questo percorso?
+
+RESOURCE ID: route_rejected_deletion_success_description
+TEXT: Questo percorso verrà rimosso dal tuo elenco dei percorsi creati.
+
+RESOURCE ID: route_rejected_deletion_success_title
+TEXT: Questo percorso è stato cancellato con successo.
+
 RESOURCE ID: route_rejection_action
 TEXT: EDIT & RESUBMIT
 
@@ -65548,6 +67730,9 @@ TEXT: This Route was rejected
 
 RESOURCE ID: route_remove_from_route
 TEXT: Remove from Route
+
+RESOURCE ID: route_report_body
+TEXT: Quando segnali un percorso a Niantic, noi esaminiamo la segnalazione e prendiamo le misure appropriate in linea con le nostre norme. La tua identità non sarà mai condivisa con il creatore del percorso. Inviando una segnalazione, tu confermi automaticamente la veridicità della stessa.
 
 RESOURCE ID: route_report_cancel_message
 TEXT: If you submit this report, the route will cancel.
@@ -65562,17 +67747,38 @@ TEXT: I don't know
 RESOURCE ID: route_report_permanent
 TEXT: Permanent issue
 
+RESOURCE ID: route_report_submit_description
+TEXT: Grazie per aver inviato una segnalazione. Siamo spiacenti per l’inconveniente verificatosi.
+
+RESOURCE ID: route_report_submit_description_long
+TEXT: Grazie per aver inviato una segnalazione. Siamo spiacenti per l’inconveniente verificatosi. Riceverai le ricompense per la sezione del percorso che hai completato.
+
+RESOURCE ID: route_report_submit_title
+TEXT: Percorso segnalato
+
 RESOURCE ID: route_report_temporary
 TEXT: Temporary issue
 
 RESOURCE ID: route_report_title
 TEXT: Segnala questo percorso
 
+RESOURCE ID: route_report_warning_description
+TEXT: Se effettui la segnalazione, la tua sessione corrente terminerà.
+
+RESOURCE ID: route_report_warning_title
+TEXT: Vuoi davvero segnalare questo percorso?
+
 RESOURCE ID: route_reset_modal_promot
 TEXT: Resetting your Route will remove all of its data. Are you sure?
 
 RESOURCE ID: route_reset_modal_title
 TEXT: RESET ROUTE?
+
+RESOURCE ID: route_resume_label
+TEXT: RIPRENDI PERCORSO
+
+RESOURCE ID: route_reversed_toast
+TEXT: Direzione del percorso invertita.
 
 RESOURCE ID: route_reversible_notice_label
 TEXT: Questo percorso può essere seguito all’incontrario.
@@ -65591,6 +67797,9 @@ TEXT: Theme
 
 RESOURCE ID: route_sort_length
 TEXT: Length
+
+RESOURCE ID: route_sort_level
+TEXT: Livello
 
 RESOURCE ID: route_sort_proximity
 TEXT: Nearest
@@ -65712,6 +67921,12 @@ TEXT: COLOR
 RESOURCE ID: route_submission_description
 TEXT: Description
 
+RESOURCE ID: route_submission_edit_description
+TEXT: Se decidi di apportare delle modifiche a questo percorso, ci potrebbe volere più tempo per la sua verifica.
+
+RESOURCE ID: route_submission_edit_title
+TEXT: Vuoi davvero modificare il percorso inviato?
+
 RESOURCE ID: route_submission_medal_creation_title
 TEXT: Creazione Medaglia
 
@@ -65724,13 +67939,22 @@ TEXT: Please enter a valid description to proceed
 RESOURCE ID: route_submission_must_add_title
 TEXT: Please enter a valid title to proceed
 
+RESOURCE ID: route_submission_name_placeholder
+TEXT: Nome del percorso
+
 RESOURCE ID: route_submission_next_steps
 TEXT: The next step is naming and describing your route.
 
 It might take a few minutes to write a relevant description, and help speed up the approval process. Don’t worry, your progress will be saved if you exit!
 
+RESOURCE ID: route_submission_path
+TEXT: Tragitto
+
 RESOURCE ID: route_submission_photo_tab_name
 TEXT: PHOTO
+
+RESOURCE ID: route_submission_preview_title
+TEXT: Anteprima percorso inviato
 
 RESOURCE ID: route_submission_resubmit_no_change_error
 TEXT: Modifica il titolo e/o la descrizione per rinviare questo percorso.
@@ -65741,11 +67965,23 @@ TEXT: Route submission error. Please try again later.
 RESOURCE ID: route_submission_result_matches_rejection
 TEXT: Il percorso corrisponde a uno precedentemente rifiutato.
 
+RESOURCE ID: route_submission_result_publish_description
+TEXT: Grazie per il tuo contributo alla community di Pokémon GO!
+
+RESOURCE ID: route_submission_result_publish_title
+TEXT: Il tuo percorso è stato pubblicato!
+
 RESOURCE ID: route_submission_result_reject_description
 TEXT: Il tuo percorso è stato rigettato perché il titolo e/o la descrizione include frasi o link inappropriati. Questo percorso non potrà essere modificato o rinviato.
 
+RESOURCE ID: route_submission_result_reject_reasons_primary
+TEXT: Il tuo percorso è stato respinto perché:
+
+RESOURCE ID: route_submission_result_reject_reasons_secondary
+TEXT: Puoi modificare e ripresentare questo percorso.
+
 RESOURCE ID: route_submission_result_reject_title
-TEXT: Il tuo percorso è stato respinto.
+TEXT: Il tuo percorso inviato è stato respinto.
 
 RESOURCE ID: route_submission_result_success_description
 TEXT: Puoi controllare lo stato dell’invio nella sezione “Percorso” del tuo profilo in ogni momento. Riceverai una notifica a decisione avvenuta.
@@ -65780,6 +68016,9 @@ TEXT: TIENI IL TRAGITTO ATTUALE
 RESOURCE ID: route_submission_review_title
 TEXT: Rivedi il tragitto del percorso
 
+RESOURCE ID: route_submission_second_page_title
+TEXT: Descrizione del percorso
+
 RESOURCE ID: route_submission_select_color_prompt
 TEXT: Seleziona un colore per l’intestazione della Medaglia del tuo percorso:
 
@@ -65799,7 +68038,7 @@ RESOURCE ID: route_submission_status_rejection
 TEXT: Rigettato in data: {0}
 
 RESOURCE ID: route_submission_status_review
-TEXT: Inoltrato in data {0}
+TEXT: Inviato in data {0}
 
 RESOURCE ID: route_submission_title
 TEXT: Title
@@ -65809,6 +68048,9 @@ TEXT: Write Later
 
 RESOURCE ID: route_submission_write_now
 TEXT: Write Now
+
+RESOURCE ID: route_submit_label
+TEXT: INVIA
 
 RESOURCE ID: route_submitted_confirmation_description
 TEXT: You've successfully submitted your Route. Once it's been reviewed, it will show in your Route Maker page.
@@ -65882,8 +68124,41 @@ TEXT: ETICHETTE
 RESOURCE ID: route_times_label
 TEXT: Volte: {0}
 
+RESOURCE ID: route_total_activity_label
+TEXT: RIEPILOGO ATTIVITÀ
+
+RESOURCE ID: route_total_community_activity_label
+TEXT: RIEPILOGO ATTIVITÀ DELLA COMMUNITY
+
+RESOURCE ID: route_total_plays_label
+TEXT: Numero totale di volte che è stato percorso
+
+RESOURCE ID: route_travel_reverse_button
+TEXT: INVERTI DIREZIONE
+
 RESOURCE ID: route_under_review_description
-TEXT: Questo percorso è sotto verifica.
+TEXT: Percorso sotto verifica.
+
+RESOURCE ID: route_under_review_withdraw_confirm_description
+TEXT: Questa azione non può essere annullata. Se procedi, questo percorso tornerà allo stato “in corso”. Puoi modificare e rinviare questo percorso per verifica in un secondo momento.
+
+RESOURCE ID: route_under_review_withdraw_confirm_title
+TEXT: Vuoi davvero annullare l’invio e la verifica di questo percorso?
+
+RESOURCE ID: route_under_review_withdraw_fail_description
+TEXT: Hai in corso la creazione di un altro percorso, quindi non puoi annullare l’invio di questo al momento. Completa il tuo percorso attuale e ritorna a questa pagina per riprovare.
+
+RESOURCE ID: route_under_review_withdraw_fail_title
+TEXT: Impossibile annullare l’invio e la verifica di questo percorso
+
+RESOURCE ID: route_under_review_withdraw_success_description
+TEXT: Questo percorso è tornato allo stato “in corso”. Puoi modificarlo e ripresentarlo nella sessione “Percorsi” del tuo profilo Allenatore.
+
+RESOURCE ID: route_under_review_withdraw_success_title
+TEXT: L’invio e la verifica di questo percorso sono stati annullati con successo
+
+RESOURCE ID: route_unsubmit_label
+TEXT: ANNULLA INVIO
 
 RESOURCE ID: route_validation_celebration
 TEXT: Nice job, you've verified your route! Now you can add information to the route you've created.
@@ -65966,6 +68241,9 @@ TEXT: Walking your Route
 RESOURCE ID: route_walking_first_poi_spin
 TEXT: This is the starting point that you selected. Please spin the Photo Disc at this PokéStop or Gym to confirm it.
 
+RESOURCE ID: route_walking_follow_path
+TEXT: Segui il tragitto fino al punto di arrivo per completare questo percorso.
+
 RESOURCE ID: route_walking_head_to_start
 TEXT: Dirigiti verso il punto di partenza per iniziare il percorso.
 
@@ -66038,13 +68316,13 @@ RESOURCE ID: routes_path_length_min
 TEXT: (MIN: {0} KM)
 
 RESOURCE ID: routes_remove_end_point
-TEXT: Rimuovi punto di arrivo
+TEXT: RIMUOVI PUNTO DI ARRIVO
 
 RESOURCE ID: routes_remove_end_point_toast
 TEXT: Punto di arrivo reimpostato.
 
 RESOURCE ID: routes_remove_start_point
-TEXT: Rimuovi punto di partenza
+TEXT: RIMUOVI PUNTO DI PARTENZA
 
 RESOURCE ID: routes_remove_start_point_toast
 TEXT: Punto di partenza reimpostato.
@@ -66098,7 +68376,7 @@ RESOURCE ID: sa_account_creation_prompt
 TEXT: Non hai un account Niantic Kids?
 
 RESOURCE ID: sa_auth_failed
-TEXT: Autenticazione fallita. Riprova.
+TEXT: Autenticazione dell’account fallita. Riprova più tardi o prova con un altro account.
 
 RESOURCE ID: sa_auth_failed_permissions
 TEXT: Per poter giocare, un genitore o tutore deve accedere al proprio account Niantic Kids e concederti l’autorizzazione.
@@ -66735,7 +69013,7 @@ RESOURCE ID: see_less
 TEXT: Mostra meno
 
 RESOURCE ID: see_more
-TEXT: MOSTRA DI PIÙ
+TEXT: Mostra di più
 
 RESOURCE ID: see_schedule
 TEXT: Vedi il calendario
@@ -67265,7 +69543,7 @@ RESOURCE ID: settings_wearables_auto_spin_pbp
 TEXT: Giro automatico dei Pokéstop
 
 RESOURCE ID: settings_wearables_auto_spin_pbp_description
-TEXT: Puoi abilitare il giro automatico trasferendo un Pokémon nella tua Poké Ball Plus da Pokémon: Let’s Go, Pikachu! o Pokémon: Let’s Go, Eevee! per Nintendo Switch. Con il giro automatico abilitato, non potrai far girare i dischi dei Pokéstop premendo il pulsante.
+TEXT: Puoi abilitare il giro automatico trasferendo un Pokémon nella tua Poké Ball Plus da Pokémon: Let’s Go, Pikachu!, Pokémon: Let’s Go, Eevee!, Pokémon Spada o Pokémon Scudo per Nintendo Switch. Con il giro automatico abilitato, non potrai far girare i dischi dei Pokéstop premendo il pulsante.
 
 RESOURCE ID: settings_wearables_auto_throw
 TEXT: Abilita il lancio automatico delle Poké Ball
@@ -68019,14 +70297,22 @@ TEXT: Se non lo fai, i dati di un massimo di otto sessioni di sonno verranno com
 RESOURCE ID: sleep_tips_1_title
 TEXT: Guadagna ricompense per tenere traccia del sonno con il tuo Pokémon GO Plus +!
 
+RESOURCE ID: sleep_tips_2_description_0
+TEXT: Il tuo Pokémon GO Plus + deve restare vicino al tuo corpo, altrimenti il tuo sonno potrebbe non essere rilevato correttamente.
+
 RESOURCE ID: sleep_tips_2_description_1
 TEXT: Per farlo, premi il pulsante principale sul tuo Pokémon GO Plus + finché non vedi lampeggiare una volta la luce blu.
+
+Per funzionare correttamente, il tuo Pokémon GO Plus + deve essere associato a Pokémon GO ma non attivamente collegato.
 
 RESOURCE ID: sleep_tips_2_description_2
 TEXT: Per farlo, premi il pulsante principale sul tuo Pokémon GO Plus + finché non vedi lampeggiare una volta delle luci multicolore.
 
 RESOURCE ID: sleep_tips_2_description_3
 TEXT: Dopo aver memorizzato i tuoi dati sul sonno, apri Pokémon GO e connetti il tuo Pokémon GO Plus + per cominciare a trasferirli.
+
+RESOURCE ID: sleep_tips_2_text_0
+TEXT: Posiziona il tuo Pokémon GO Plus + sul letto o aggancialo al cuscino. 
 
 RESOURCE ID: sleep_tips_2_text_1
 TEXT: Prima di andare a letto, inizia una sessione di sonno.
@@ -68307,6 +70593,9 @@ TEXT: Più Oshawott stanno apparendo allo stato selvatico
 
 RESOURCE ID: spawn_pidgey
 TEXT: Più Pidgey stanno apparendo allo stato selvatico!
+
+RESOURCE ID: spawn_poliwag
+TEXT: Più Poliwag stanno apparendo allo stato selvatico!
 
 RESOURCE ID: spawn_porygon
 TEXT: Più Porygon stanno apparendo allo stato selvatico
@@ -69274,6 +71563,162 @@ TEXT: Pokémon GO Fest: Seattle (esperienza al parco) (4/5)
 RESOURCE ID: sr_gofest2022_leseap_5
 TEXT: Pokémon GO Fest: Seattle (esperienza al parco) (5/5)
 
+RESOURCE ID: sr_gofest2023_global_day1
+TEXT: Sfaccettature affascinanti del Festival di Pokémon GO 2023
+
+RESOURCE ID: sr_gofest2023_global_day1_1
+TEXT: Sfaccettature affascinanti del Festival di Pokémon GO 2023 (1/6)
+
+RESOURCE ID: sr_gofest2023_global_day1_2
+TEXT: Sfaccettature affascinanti del Festival di Pokémon GO 2023 (2/6)
+
+RESOURCE ID: sr_gofest2023_global_day1_3
+TEXT: Sfaccettature affascinanti del Festival di Pokémon GO 2023 (3/6)
+
+RESOURCE ID: sr_gofest2023_global_day1_4
+TEXT: Sfaccettature affascinanti del Festival di Pokémon GO 2023 (4/6)
+
+RESOURCE ID: sr_gofest2023_global_day1_5
+TEXT: Sfaccettature affascinanti del Festival di Pokémon GO 2023 (5/6)
+
+RESOURCE ID: sr_gofest2023_global_day1_6
+TEXT: Sfaccettature affascinanti del Festival di Pokémon GO 2023 (6/6)
+
+RESOURCE ID: sr_gofest2023_global_day2_extended
+TEXT: Oltre la stratosfera del Festival di Pokémon GO 2023
+
+RESOURCE ID: sr_gofest2023_global_day2_extended_1
+TEXT: Oltre la stratosfera del Festival di Pokémon GO 2023 (1/5)
+
+RESOURCE ID: sr_gofest2023_global_day2_extended_2
+TEXT: Oltre la stratosfera del Festival di Pokémon GO 2023 (2/5)
+
+RESOURCE ID: sr_gofest2023_global_day2_extended_3
+TEXT: Oltre la stratosfera del Festival di Pokémon GO 2023 (3/5)
+
+RESOURCE ID: sr_gofest2023_global_day2_extended_4
+TEXT: Oltre la stratosfera del Festival di Pokémon GO 2023 (4/5)
+
+RESOURCE ID: sr_gofest2023_global_day2_extended_5
+TEXT: Oltre la stratosfera del Festival di Pokémon GO 2023 (5/5)
+
+RESOURCE ID: sr_gofest2023_global_day2_intro
+TEXT: Stratosfera del Festival di Pokémon GO 2023
+
+RESOURCE ID: sr_gofest2023_global_day2_intro_1
+TEXT: Stratosfera del Festival di Pokémon GO 2023 (1/2)
+
+RESOURCE ID: sr_gofest2023_global_day2_intro_2
+TEXT: Stratosfera del Festival di Pokémon GO 2023 (2/2)
+
+RESOURCE ID: sr_gofest2023_london_city
+TEXT: Alla scoperta di Londra del Festival di Pokémon GO 2023
+
+RESOURCE ID: sr_gofest2023_london_city_1
+TEXT: Alla scoperta di Londra del Festival di Pokémon GO 2023 (1/5)
+
+RESOURCE ID: sr_gofest2023_london_city_2
+TEXT: Alla scoperta di Londra del Festival di Pokémon GO 2023 (2/5)
+
+RESOURCE ID: sr_gofest2023_london_city_3
+TEXT: Alla scoperta di Londra del Festival di Pokémon GO 2023 (3/5)
+
+RESOURCE ID: sr_gofest2023_london_city_4
+TEXT: Alla scoperta di Londra del Festival di Pokémon GO 2023 (4/5)
+
+RESOURCE ID: sr_gofest2023_london_city_5
+TEXT: Alla scoperta di Londra del Festival di Pokémon GO 2023 (5/5)
+
+RESOURCE ID: sr_gofest2023_london_park
+TEXT: Avventura nel parco a Londra del Festival di Pokémon GO 2023
+
+RESOURCE ID: sr_gofest2023_london_park_1
+TEXT: Avventura nel parco a Londra del Festival di Pokémon GO 2023 (1/5)
+
+RESOURCE ID: sr_gofest2023_london_park_2
+TEXT: Avventura nel parco a Londra del Festival di Pokémon GO 2023 (2/5)
+
+RESOURCE ID: sr_gofest2023_london_park_3
+TEXT: Avventura nel parco a Londra del Festival di Pokémon GO 2023 (3/5)
+
+RESOURCE ID: sr_gofest2023_london_park_4
+TEXT: Avventura nel parco a Londra del Festival di Pokémon GO 2023 (4/5)
+
+RESOURCE ID: sr_gofest2023_london_park_5
+TEXT: Avventura nel parco a Londra del Festival di Pokémon GO 2023 (5/5)
+
+RESOURCE ID: sr_gofest2023_newyork_city
+TEXT: Alla scoperta di New York del Festival di Pokémon GO 2023
+
+RESOURCE ID: sr_gofest2023_newyork_city_1
+TEXT: Alla scoperta di New York del Festival di Pokémon GO 2023 (1/5)
+
+RESOURCE ID: sr_gofest2023_newyork_city_2
+TEXT: Alla scoperta di New York del Festival di Pokémon GO 2023 (2/5)
+
+RESOURCE ID: sr_gofest2023_newyork_city_3
+TEXT: Alla scoperta di New York del Festival di Pokémon GO 2023 (3/5)
+
+RESOURCE ID: sr_gofest2023_newyork_city_4
+TEXT: Alla scoperta di New York del Festival di Pokémon GO 2023 (4/5)
+
+RESOURCE ID: sr_gofest2023_newyork_city_5
+TEXT: Alla scoperta di New York del Festival di Pokémon GO 2023 (5/5)
+
+RESOURCE ID: sr_gofest2023_newyork_park
+TEXT: Avventura nel parco a New York del Festival di Pokémon GO 2023
+
+RESOURCE ID: sr_gofest2023_newyork_park_1
+TEXT: Avventura nel parco a New York del Festival di Pokémon GO 2023 (1/5)
+
+RESOURCE ID: sr_gofest2023_newyork_park_2
+TEXT: Avventura nel parco a New York del Festival di Pokémon GO 2023 (2/5)
+
+RESOURCE ID: sr_gofest2023_newyork_park_3
+TEXT: Avventura nel parco a New York del Festival di Pokémon GO 2023 (3/5)
+
+RESOURCE ID: sr_gofest2023_newyork_park_4
+TEXT: Avventura nel parco a New York del Festival di Pokémon GO 2023 (4/5)
+
+RESOURCE ID: sr_gofest2023_newyork_park_5
+TEXT: Avventura nel parco a New York del Festival di Pokémon GO 2023 (5/5)
+
+RESOURCE ID: sr_gofest2023_osaka_city
+TEXT: Alla scoperta di Osaka del Festival di Pokémon GO 2023
+
+RESOURCE ID: sr_gofest2023_osaka_city_1
+TEXT: Alla scoperta di Osaka del Festival di Pokémon GO 2023 (1/5)
+
+RESOURCE ID: sr_gofest2023_osaka_city_2
+TEXT: Alla scoperta di Osaka del Festival di Pokémon GO 2023 (2/5)
+
+RESOURCE ID: sr_gofest2023_osaka_city_3
+TEXT: Alla scoperta di Osaka del Festival di Pokémon GO 2023 (3/5)
+
+RESOURCE ID: sr_gofest2023_osaka_city_4
+TEXT: Alla scoperta di Osaka del Festival di Pokémon GO 2023 (4/5)
+
+RESOURCE ID: sr_gofest2023_osaka_city_5
+TEXT: Alla scoperta di Osaka del Festival di Pokémon GO 2023 (5/5)
+
+RESOURCE ID: sr_gofest2023_osaka_park
+TEXT: Avventura nel parco a Osaka del Festival di Pokémon GO 2023
+
+RESOURCE ID: sr_gofest2023_osaka_park_1
+TEXT: Avventura nel parco a Osaka del Festival di Pokémon GO 2023 (1/5)
+
+RESOURCE ID: sr_gofest2023_osaka_park_2
+TEXT: Avventura nel parco a Osaka del Festival di Pokémon GO 2023 (2/5)
+
+RESOURCE ID: sr_gofest2023_osaka_park_3
+TEXT: Avventura nel parco a Osaka del Festival di Pokémon GO 2023 (3/5)
+
+RESOURCE ID: sr_gofest2023_osaka_park_4
+TEXT: Avventura nel parco a Osaka del Festival di Pokémon GO 2023 (4/5)
+
+RESOURCE ID: sr_gofest2023_osaka_park_5
+TEXT: Avventura nel parco a Osaka del Festival di Pokémon GO 2023 (5/5)
+
 RESOURCE ID: sr_gotour2022_1
 TEXT: Tour di Pokémon GO di Johto (1/9)
 
@@ -69565,6 +72010,9 @@ TEXT:
 RESOURCE ID: sticker_alolaishi_4.3_description
 TEXT: 
 
+RESOURCE ID: sticker_box
+TEXT: pacco adesivi
+
 RESOURCE ID: sticker_default_desc
 TEXT: Puoi ricevere gli adesivi come ricompense in Pokémon GO. Collezionali tutti!
 
@@ -69762,7 +72210,7 @@ TEXT: Personaggi
 
 RESOURCE ID: stickers_v2_collect_from
 TEXT: Puoi ottenere questi adesivi dai pacchi amicizia,
-
+
 dal negozio o dai Pokéstop.
 
 RESOURCE ID: stickers_v2_featured_category
@@ -69788,7 +72236,7 @@ TEXT: Non hai adesivi di questo tipo.
 
 RESOURCE ID: stickers_v2_no_stickers
 TEXT: Non hai nessun adesivo. Li puoi ottenere dai pacchi amicizia,
-
+
 dal negozio o dai Pokéstop.
 
 RESOURCE ID: stickers_v2_no_stickers_of_category
@@ -70609,7 +73057,7 @@ RESOURCE ID: test_key
 TEXT: Test
 
 RESOURCE ID: test_your_mettle_catch_challenge
-TEXT: 
+TEXT: 
 Mostra la tua stoffa: sfida di cattura
 
 RESOURCE ID: test_your_mettle_catch_challenge_page_1
@@ -70659,6 +73107,9 @@ TEXT: Sfida classica 2020: Sinnoh
 
 RESOURCE ID: ticket_abra
 TEXT: Biglietto per la ricerca speciale “A caccia di illusioni” disponibile nel negozio
+
+RESOURCE ID: ticket_active_location_reminder
+TEXT: Il tuo biglietto è attivo!
 
 RESOURCE ID: ticket_alodude
 TEXT: I biglietti per la ricerca speciale “Una strada rocciosa” sono disponibili nel negozio
@@ -70751,6 +73202,9 @@ TEXT: Biglietto per la ricerca speciale “Frastuono assordante” disponibile n
 
 RESOURCE ID: ticket_oshawott
 TEXT: I biglietti per la ricerca speciale “Dalle conchiglie alle spade” sono disponibili nel negozio
+
+RESOURCE ID: ticket_poliwag
+TEXT: Biglietto per la ricerca speciale “Spirali scivolose” disponibile nel negozio
 
 RESOURCE ID: ticket_porygon
 TEXT: I biglietti per la ricerca speciale “Il codice Porygon” sono disponibili nel negozio
@@ -70890,6 +73344,33 @@ TEXT: Gli Allenatori devono collaborare come community globale per completare qu
 
 RESOURCE ID: timed_challenge_work_together_regional_backup
 TEXT: Gli Allenatori devono collaborare come community regionale per completare questa sfida.
+
+RESOURCE ID: timed_quest_adventure_adv23_branch_0
+TEXT: Uff, sono giusto di ritorno da un sopralluogo, uff, ho seguito le tracce indicate da una di quelle mappe che ho trovato. Perché non provi anche tu, mentre io, uff, mi riposo un attimo?
+
+RESOURCE ID: timed_quest_adventure_adv23_branch_1
+TEXT: Ma non c’è bisogno che ti scapicolli pure tu, ovviamente! Devi andare all’avventura nel modo che ti è più congeniale. E quindi...
+
+RESOURCE ID: timed_quest_adventure_adv23_branch_1_button_key
+TEXT: Viaggio avventura
+
+RESOURCE ID: timed_quest_adventure_adv23_branch_1_description_key
+TEXT: Scegli quest’opzione per ricevere delle missioni incentrate sulla collezione di Pokémon, sulla visita ai Pokéstop e sulla schiusa delle Uova.
+
+RESOURCE ID: timed_quest_adventure_adv23_branch_1_title_key
+TEXT: Viaggio avventura
+
+RESOURCE ID: timed_quest_adventure_adv23_branch_2
+TEXT: Cosa ti sconfinfera di più? Girellare e catturare tutti i Pokémon che vedi, oppure impegnarti per trovare dei Pokémon in particolare?
+
+RESOURCE ID: timed_quest_adventure_adv23_branch_2_button_key
+TEXT: Avventura studio
+
+RESOURCE ID: timed_quest_adventure_adv23_branch_2_description_key
+TEXT: Scegli quest’opzione per ricevere delle missioni incentrate sulla cattura di Pokémon specifici e sul completamento di ricerche sul campo.
+
+RESOURCE ID: timed_quest_adventure_adv23_branch_2_title_key
+TEXT: Avventura studio
 
 RESOURCE ID: timed_research
 TEXT: Ricerca a tempo disponibile 
@@ -71492,6 +73973,9 @@ TEXT: Scansione Pokéstop
 RESOURCE ID: titan_upload_wifi_recommended
 TEXT: Si consiglia l’utilizzo del Wi-Fi
 
+RESOURCE ID: title_hatch_day_riolu
+TEXT: Giornata di cattura dedicata a Riolu
+
 RESOURCE ID: title_raid_has_ended
 TEXT: Questo evento è terminato.
 
@@ -71668,6 +74152,9 @@ TEXT: Ricerca a tempo Diamante grezzo
 
 RESOURCE ID: tr_gofest2023_earlybird2
 TEXT: Ricerca a tempo Passi brillanti
+
+RESOURCE ID: tr_gofest2023_live_routes_1
+TEXT: Corsa all’oro del Festival di Pokémon GO 2023
 
 RESOURCE ID: tr_latias_photo_safari
 TEXT: Zaffiro: safari fotografico di Latias
@@ -72208,6 +74695,46 @@ TEXT: Ora che hai raggiunto il livello 40, dovrai completare alcune nuove sfide 
 
 RESOURCE ID: tutorial_level_40_plus_intro
 TEXT: Congratulazioni per i tuoi incredibili progressi!
+
+RESOURCE ID: tutorial_route_bonus_0
+TEXT: Guadagna caramelle da compagno più rapidamente
+
+RESOURCE ID: tutorial_route_bonus_1
+TEXT: Aumento del numero di Pokémon attirati dall’aroma su nuovi percorsi
+
+RESOURCE ID: tutorial_route_bonus_2
+TEXT: Comparsa di Pokémon insoliti sui percorsi
+
+RESOURCE ID: tutorial_route_play_body_0
+TEXT: Scopri la tua community locale e aggiudicati ricompense esplorando i percorsi!
+
+Per cominciare: 
+1. Scegli un percorso dall’elenco o dalla mappa.
+2. Vai al punto di partenza.
+3. Segui il percorso e raggiungi il suo punto di arrivo.
+
+RESOURCE ID: tutorial_route_play_body_1
+TEXT: Quando ti trovi a {0} m dal tragitto del percorso, otterrai bonus speciali.
+
+RESOURCE ID: tutorial_route_play_body_2
+TEXT: • Guadagnerai una nuova Medaglia percorso la prima volta che completi un percorso.
+• Percorri un percorso più volte per far progredire la tua Medaglia e migliorare le ricompense ottenute da quel percorso.
+
+RESOURCE ID: tutorial_route_play_body_3
+TEXT: 1. Rimani nei pressi del tragitto del percorso per assicurarti che i tuoi progressi vengano registrati.
+2. Per portare a termine un percorso, la tua distanza percorsa deve essere vicina alla sua lunghezza.
+
+RESOURCE ID: tutorial_route_play_title_0
+TEXT: Esplora un percorso
+
+RESOURCE ID: tutorial_route_play_title_1
+TEXT: Bonus
+
+RESOURCE ID: tutorial_route_play_title_2
+TEXT: Ricompense
+
+RESOURCE ID: tutorial_route_play_title_3
+TEXT: Regole
 
 RESOURCE ID: tutorial_vivillon_postcard_body_0
 TEXT: Se aggiungi più cartoline da una determinata area geografica avrai la possibilità di incontrare un Pokémon!
@@ -73279,6 +75806,9 @@ TEXT: Pokémon GO ai Campionati Mondiali Pokémon 2022 a Londra, Inghilterra
 
 RESOURCE ID: wcs_2022_title
 TEXT: Campionati Mondiali Pokémon 2022
+
+RESOURCE ID: wcs_aug23_header_0
+TEXT: 2023 Pokémon World Championships
 
 RESOURCE ID: wcs_battle_tr_description
 TEXT: Campionati Mondiali Pokémon 2022: ricerca a tempo aggiuntiva
