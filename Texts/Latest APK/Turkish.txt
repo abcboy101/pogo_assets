@@ -31432,9 +31432,9 @@ RESOURCE ID: mega_walking_progress
 TEXT: Yürüyüş İlerlemesi
 
 RESOURCE ID: metadata_local
-TEXT: Built at 2023-08-21T17:47:34.524435
-at SHA 236194ea4c036061e777a7c9fb08bbfbf681852e
-Pipeline 1691898, job 20520313
+TEXT: Built at 2023-08-30T09:01:57.857742
+at SHA 6bec196e00a39beb99a5722a28190c52d8b04c3a
+Pipeline 1713716, job 20790701
 
 RESOURCE ID: mex_fighting_promo_title
 TEXT: Süreli Araştırma: Dövüşçünüzü Seçin
